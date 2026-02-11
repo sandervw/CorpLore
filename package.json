@@ -1,0 +1,13 @@
+{
+  "name": "llm-app-docs",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "LLM-powered dynamic storytelling tools",
+  "scripts": {
+    "generate-character": "node generate-character.js",
+    "main": "node main.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0"
+  }
+}
