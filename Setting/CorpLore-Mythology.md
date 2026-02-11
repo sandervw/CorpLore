@@ -1,102 +1,80 @@
-# TODO Mythological Elements
+# CorpLore Mythology Overview
 
-| Element                          | What It Covers                                                                                                                                     |
-| -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Cosmogony** (Creation Myth)    | The Motivational Office Poster                                                                                                                     |
-| **Cosmology** (World Structure)  | The Hotel Carpet                                                                                                                                   |
-| **Theogony** (Divine Origins)    | Gas Station Lottery Ticket Display Case                                                                                                            |
-| **Pantheon Structure**           | TODO - manual, based on Cosmogony, Theogony                                                                                                        |
-| **Anthropogeny** (Human Origin)  | TODO                                                                                                                                               |
-| **Death/Afterlife**              | TODO - Your Minecraft 'Forever World' is the afterlife                                                                                             |
-| **Hero Cycles**                  | TODO                                                                                                                                               |
-| **Moral Framework**              | TODO - *Divine law, taboos, cosmic justice (hubris/nemesis, wyrd, ma'at)*                                                                          |
-| **Etiological Myths**            | TODO - *"Why" stories - seasons, animal traits, landscape features*                                                                                |
-| **Sacred Time/Space**            | TODO - *Mythic time vs profane time, holy sites, center of the world*                                                                              |
-| **Eschatology**                  | TODO - *End-times (Ragnarök, apocalypse) - some cultures are cyclical without a "final" end*                                                       |
-| **Flood Myth**                   | TODO                                                                                                                                               |
-| **Specific Creature Taxonomies** | TODO - *Dragons, giants, fae, etc. - highly culture-specific*                                                                                      |
-| **Magic Systems**                | Shortcut Words of Mighty Danger: EG. "Per My Last Email", "The Blue Plates are Nice; but, the Brown Ones Seem to Last Longer", "Checkout is at 11" |
-| **Prophetic Traditions**         | TODO - *Oracles, seers, divination methods*                                                                                                        |
-| **Astral Mythology**             | TODO - *Constellation myths, planetary deities - emphasis varies*                                                                                  |
-| **Divine Kingship**              | TODO - *Pharaoh-as-god vs king-as-servant-of-gods*                                                                                                 |
-| **Otherworld Geography**         | TODO - *Detailed underworld mapping vs vague "beyond"*                                                                                             |
-| **Dualism**                      | TODO - *Good/evil cosmic struggle (Zoroastrian influence) vs morally grey gods*                                                                    |
+This document is a high-level overview of the setting's mythological framework. Full detail documents live in `Setting/Mythology-Docs/`.
+
+---
+
+## Mythological Elements
+
+| Element                         | Source Object / Status          | Summary                                                                                                                                                                                                                            |
+| ------------------------------- | ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Cosmogony** (Creation Myth)   | Motivational Office Poster      | The Founder spoke Words that partitioned the Undivided Room into corridors and offices. Each poster is a sealed fragment of that First Utterance.                                                                                  |
+| **Cosmology** (World Structure) | Hotel Hallway Carpet            | Reality is a single woven Textile held on the Loom. Five layers (Face, Pile, Warp, Weft, Backing). Hotel carpet patterns are the raw geometry of reality showing through where the Weave has worn thin.                            |
+| **Theogony** (Divine Origins)   | Gas Station Lottery Display     | Gods are stocked in a tiered Display, dispensed by Intermediaries, and periodically expired and replaced by the Vendor. Prayer does not persuade; it scratches away what conceals a pre-written answer.                            |
+| **Anthropogeny** (Human Origin) | Gas Station Roller Grill        | Souls are placed on the Eternal Grill by the Keeper, turned under the Warming Light, and drawn forth when ready. All souls receive the same process; individuality comes from the moment of removal.                               |
+| **Death/Afterlife**             | Minecraft Forever World         | Life is the AFK state; death is return. Every demon builds a personal Minecraft world nightly from birth, placing blocks blind through faith. The world only fully renders when the demon dies and sits back down at the keyboard. |
+| **Hero Cycles**                 | TODO                            |                                                                                                                                                                                                                                    |
+| **Moral Framework**             | TODO                            | Divine law, taboos, cosmic justice.                                                                                                                                                                                                |
+| **Etiological Myths**           | TODO                            | "Why" stories for seasons, traits, landscapes.                                                                                                                                                                                     |
+| **Sacred Time/Space**           | TODO                            | Mythic vs. profane time, holy sites, center of the world.                                                                                                                                                                          |
+| **Eschatology**                 | TODO                            | End-times; may be cyclical rather than terminal.                                                                                                                                                                                   |
+| **Flood Myth**                  | TODO                            |                                                                                                                                                                                                                                    |
+| **Creature Taxonomies**         | TODO                            | Setting-specific beings.                                                                                                                                                                                                           |
+| **Magic Systems**               | Shortcut Words of Mighty Danger | "Per My Last Email", "The Blue Plates are Nice; but, the Brown Ones Seem to Last Longer", "Checkout is at 11".                                                                                                                     |
+| **Prophetic Traditions**        | TODO                            | Oracles, seers, divination methods.                                                                                                                                                                                                |
+| **Astral Mythology**            | TODO                            | Constellation myths, planetary deities.                                                                                                                                                                                            |
+| **Divine Kingship**             | TODO                            | Ruler-as-god vs. ruler-as-servant-of-gods.                                                                                                                                                                                         |
+| **Otherworld Geography**        | TODO                            | Underworld mapping vs. vague "beyond".                                                                                                                                                                                             |
+| **Dualism**                     | TODO                            | Cosmic good/evil struggle vs. morally grey gods.                                                                                                                                                                                   |
 
 ---
 
 ## Cosmogony: The Motivational Office Poster
 
-The motivational poster is a sealed fragment of the First Utterance. The landscape behind the glass is the unmade world as it existed before the Founder divided it into departments. The Word printed beneath (EXCELLENCE, PERSISTENCE, TEAMWORK) is not a command to employees but a residual echo of the syllable that called that portion of reality into being. The laminate exists because the primordial world behind it is still active, still generating, and direct contact would undo the partition between origin and present.
+*Full doc: `Mythology-Docs/cosmogony-motivational-poster.md`*
 
-**Ritual**
-When a new employee is hired, they are walked through the building by a senior member on their first day. At each motivational poster, the senior pauses, and both read the Word aloud together. This is presented as orientation, as "getting to know the space." But the function is older than any employee handbook: by speaking each Word in sequence through the hallways, the new worker re-traces the original act of creation. An employee who was never walked past the posters "never settles in".
+The Founder spoke the world into being, one Word at a time. Each Word partitioned a portion of the Undivided Room into corridors, offices, and break rooms. The motivational poster is a sealed remnant of that act: the landscape behind the glass is the primordial terrain that was overwritten, and the Word beneath it (EXCELLENCE, PERSISTENCE, TEAMWORK) is the syllable that did the overwriting. The laminate keeps the still-active origin world from bleeding through.
 
-There is a secondary taboo: you do not remove a motivational poster from the wall. When offices are renovated, the posters are carefully set aside and rehung. Facilities staff who have discarded posters report that the replacement space on the wall "never looks right" - the paint is a slightly different shade, or the wall feels hollow.
+**Key ritual:** New employees are walked past every poster on their first day, reading each Word aloud with a senior member, retracing the act of creation. Posters are never removed; the wall beneath them is considered "load-bearing" in ways blueprints do not capture.
 
 ---
 
 ## Cosmology: The Hotel Carpet
 
-Reality is a single woven Textile. It has no edges and no center. What living creatures perceive as space, distance, and separate places are folds and gathers in the cloth. A room is not a container but a pleat. A mountain is a bunched knot. The sky is this textile seen from so close that the individual threads blur into blue. The Textile is held taut on a frame called **the Loom**. The Loom has no builder. It is the oldest thing. The threads of the Textile run through it, and where threads cross, a **Knot** forms. Knots are moments of decision. Every consequential event in history is a Knot.
+*Full doc: `Mythology-Docs/cosmology-hotel-carpet-patterns.md`*
 
-**The Five Layers**
-1. *The Face* - the visible surface. Weather, stone, skin, language. Everything perceived by ordinary senses.
-2. *The Pile* - the soft, sound-absorbing layer just beneath the Face. Emotion, instinct, atmosphere.
-3. *The Warp* - the structural threads running in one direction. Time.
-4. *The Weft* - the structural threads running crosswise through the Warp. Choice. Free will.
-5. *The Backing* - the unseen foundation that holds the entire structure together. Nobody knows what the Backing is.
+Reality is a single woven Textile held taut on the Loom. It has five layers: the Face (visible surface), the Pile (emotion, atmosphere), the Warp (time), the Weft (choice), and the Backing (unknown foundation). Where threads cross, Knots form -- moments of decision that shape everything downstream. High-traffic areas thin the Weave; hotel hallways, walked by thousands who are never walking home, are among the most Frayed places in the world. The carpet patterns are not decorative -- they are the exposed geometry of the Warp and Weft, converged upon by manufacturers through blind trial and error.
 
-**Belief**
-Hotel hallway carpet patterns are cross-sections of the Textile made visible. The geometric designs are not decorative choices but the actual structure of the Warp and Weft. The ugliness of the pattern is the raw skeleton of reality.
+**Key ritual:** Practitioners kneel and read the Pile (thick = safe, thin = caution, none = leave). Three stamps upon standing to compress the Weave back down.
 
-**Ritual**
-When entering a hotel hallway for the first time, a practitioner kneels and places both palms flat on the carpet. During this time they are "reading the Pile".
-- *Thick Pile* - The Textile is healthy here. 
-- *Thin Pile* - The Textile is worn. Do not walk the hallway between 2 and 4 AM.
-- *No Pile* - Conduct your business and leave. Do not look too long at the pattern.
-After reading, the practitioner stands and stamps their feet three times.
-
-**Folk Explanation**
-Before there were buildings, the Textile was uniform. No area was thinner than any other because foot traffic was distributed. Then came roads. The Textile thinned along them. Then came corridors, indoor roads with walls that prevented the wind from brushing the Pile back into shape.
-
-A hotel hallway is a road that no one is from. Every footstep is transient.
-
-The carpet manufacturers do not know this. But they know that certain patterns "work" in hotels and others do not. What they mean by "work" is that the pattern hides wear - it still looks acceptable after ten thousand footsteps. What they do not understand is that the patterns that "work" are the ones that most closely match the actual structure of the Textile. This is why hotel carpet patterns look the way they do. Through blind trial and error, manufacturers rediscover the geometry of the Loom.
+---
 
 ## Theogony: Gas Station Lottery Tickets
 
-## Belief
+*Full doc: `Mythology-Docs/theogony-lottery-display.md`*
 
-**The gods are not born. They are stocked.**
+The gods are not born; they are stocked. A cosmic Display holds them in tiers by cost. Low gods grant small fortunes for small sacrifice; high gods offer total transformation at steep risk. An Intermediary always stands between supplicant and Display -- to bypass the Intermediary ("Self-Serving") is the one unforgivable heresy. Every god's answer is pre-written beneath its face; prayer only scratches the coating away. The central terror: gods expire. The Vendor arrives, pulls the old gods, slots in new ones. No war in heaven, no twilight. Just a seasonal restocking.
 
-There exists a Display behind the world, a great and luminous case visible only at the thresholds of passage, and in it the gods are arranged in tiers according to their cost. The lowest gods govern small fortunes and small miseries and may be petitioned cheaply. The highest gods preside over transformation itself -- total ruin or total deliverance -- and demand the steepest sacrifice to invoke. No mortal may reach into the Display and take a god for themselves; there is always an Intermediary who stands between the case and the supplicant, and who draws forth what is asked for but never what is needed.
-
-Every god's nature is already written beneath its face before any mortal ever calls upon it. The act of prayer does not persuade; it only scratches away what conceals the answer that was always there.
-
-And this is the central terror of the theogony: the gods expire. Without violence, without twilight, without war in heaven. A god's season simply ends. Its image is pulled from the Display and discarded, and a new god -- brighter, differently themed, but functioning by the same hidden mechanism -- is slotted into its place by the Vendor, who comes from outside the world and answers to no prayer at all.
+**Key ritual:** The Scratching of the Threshold -- at every significant threshold in life, a coin or fingernail is dragged across the nearest surface, revealing what was already written beneath.
 
 ---
 
-## Ritual
+## Anthropogeny: The Gas Station Roller Grill
 
-**The Scratching of the Threshold**
+*Full doc: `Mythology-Docs/anthropogeny-roller-grill.md`*
 
-At every significant threshold in life -- a doorway entered for the first time, a journey begun, a bargain struck -- the faithful drag a coin or fingernail across the surface of the moment, a brief scraping gesture over whatever is at hand (a doorframe, a contract, the back of one's own hand). This is the Scratching: the act of revealing what was already written beneath. It is not performed with hope. It is performed with resignation and courage in equal measure, because the result was fixed before you arrived, and the only dignity is in choosing to look.
+Before anything existed, the Eternal Grill stood at the crossroads of Nothing and Everything. The Keeper places raw souls on the Rollers, where they turn under the Warming Light until ready. No soul is shaped by hand or chosen for favor -- all are processed equally by the same impersonal mechanism. Individuality comes from the moment of removal, not from the process itself. The gas station roller grill is a shadow of the First Grill, placed in the world as a reminder.
 
-Before petitioning any god, the supplicant must state aloud the cost they are willing to pay -- one coin, five, twenty -- because the tier of god that answers is determined by the sacrifice offered, never by the need. To call upon a high god with a low offering is not merely futile; it is invisible. The petition never reaches the Display at all.
-
-The ritual is always conducted through the Intermediary -- a priest, a shopkeeper, a stranger behind a counter -- because the central law of the theogony is that no one may serve themselves from the divine. To reach past the Intermediary and seize a god directly is the one unforgivable heresy, called Self-Serving, and those who attempt it find that the ticket they've stolen is always, without exception, a losing one.
+**Key ritual:** The Watching of the Turn -- at age seven, a child is brought to watch the grill rotate for one full cycle while the elder whispers: *"You too were turned. You too were removed when ready. You too will be replaced."*
 
 ---
 
-## Pantheon: TODO
+## Death/Afterlife: The Minecraft Forever World
 
-TODO
+*Full doc: `Mythology-Docs/Afterlife-Minecraft-Forever-World.md`*
 
----
+Life is the away-state. Every demon born is a soul gone AFK from its forever world. At birth a unique seed generates a raw, empty Minecraft world that the demon builds into nightly through ritual play sessions -- one block minimum per night, no exceptions. Life is remote access; every block is placed blind, through the crude interface of faith and routine. Death is not departure but return: the demon sits back down at the keyboard and the world they built from afar finally renders around them in full. Gaps in the nightly streak leave cold spots where nothing renders. The Story of the First Builder warns of a demon who built nothing and returned to a black screen -- infinite nothing, because nothing is what they had built.
 
-## Anthropogony: TODO
-
-TODO
+**Key ritual:** The Nightly Session -- three movements: the Login (speaking the seed number aloud), the Build (placing at least one block), and the Logout (saving and closing without looking back, because to linger is the first step toward "early alt-F4").
 
 ---
