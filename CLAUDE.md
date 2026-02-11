@@ -1,0 +1,70 @@
+# CLAUDE.md
+
+This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+
+## Project Overview
+
+CorpLore is a collaborative worldbuilding and fiction project built for iterative refinement with Claude AI. The setting fuses corporate offices, hotels, gas stations, and highways into one mythological landscape where all humans are demons, software engineers are sorcerers wielding "electric magic," and mundane objects (motivational posters, hotel carpets, lottery displays, roller grills) carry deep cosmological significance.
+
+## Commands
+
+```bash
+npm install                # Install dependencies (@anthropic-ai/sdk)
+npm run main               # Run the LLM prompt pipeline (Javascript/main.js)
+```
+
+No test or lint scripts are configured.
+
+## Architecture
+
+The project follows an **Input -> Process -> Output** file-based pipeline:
+
+- **Input/** -- Context files (markdown/JSON) fed to the Claude API
+- **Javascript/main.js** -- Entry point; reads `Input/input.md`, calls the API, writes result to `Output/llmresult.md`
+- **Javascript/modules/llmPrompt.js** -- Anthropic SDK wrapper; uses `claude-opus-4-5-20251101` by default, async/await pattern
+- **Output/** -- Generated responses from the API
+
+Authentication uses the `ANTHROPIC_API_KEY` environment variable (default SDK behavior).
+
+## Content Structure
+
+Setting documents are organized hierarchically:
+
+- **Setting/CorpLore-Ideas.md** -- Master concepts document (world premise, character types, folklore elements)
+- **Setting/CorpLore-Mythology.md** -- Mythological codex mapping real-world objects to classical myth categories
+- **Setting/Mythology-Docs/** -- Deep-dive expansions of individual mythology elements (cosmogony, cosmology, theogony, anthropogeny)
+- **Setting/Unsorted-Folklore-Docs/** -- Individual folklore pieces not yet organized into the mythology framework
+- **Stories/** -- Narrative concepts and scene outlines
+
+Each mythology document includes: belief system, ritual practices, folk explanations, and expansion paths for future development.
+
+## Code Conventions
+
+- ES Modules (`"type": "module"` in package.json)
+- Async/await for all API calls
+- File I/O uses Node `fs/promises`
+
+## Writing Conventions
+
+When generating or editing setting/story content:
+
+- All humans in-universe are "demons" -- use "demon" not "man/person"
+- Magic practitioners: software engineers = sorcerers, concierges = warlocks
+- Key magic words: "Per My Last Email", "Checkout is at 11", "The Blue Plates are Nice..."
+- Tone is dark, mythopoeic, treating mundane corporate/hospitality objects as sacred
+- Mythology docs should include belief, ritual, and folk explanation sections
+- New folklore pieces go in `Setting/Unsorted-Folklore-Docs/` until categorized
+
+## Agents (.claude/agents/)
+
+- **fiction-tagger** -- Extracts short feature tags (threats, locations, weapons, character traits) from fictional sources via web search or local file. Outputs JSON tag lists. Runs on Haiku for speed.
+- **text-editor** -- Compresses and restructures text documents to 70% of original token count while optimizing for LLM readability. Runs on Sonnet.
+
+## Skills (.claude/skills/)
+
+- **character-analysis** -- Analyzes fictional characters into structured profiles. Four modes: profile (default), description, actions, quotes. Each mode has its own reference doc and output template.
+- **character-abstraction** -- Strips setting-specific details from character elements (actions, quotes) to produce portable, reusable templates for worldbuilding.
+- **fiction-abstraction** -- Same idea as character-abstraction but for narrative elements: paragraphs and dialogue. Generalizes source-specific prose into reusable structural templates.
+- **literary-revision** -- Rewrites prose in a specific literary style while preserving narrative beats. Four styles available: Thorogood (bluesy bar-band), Peake (slow gothic), Howard (pulp heroic), Eddison (archaic courtly).
+- **folklore-generator** -- Generates folklore (belief, ritual, folk explanation, expansion path) for any observable object or phenomenon. Uses bisociation-like mechanism taxonomy and viability criteria. Multi-step workflow with sequential reference loading.
+- **story-idea-generator** -- Generates original story premises by colliding two unrelated elements. Uses bisociation theory, element decomposition, and iterative problem-solving. Multi-step workflow with sequential reference loading.

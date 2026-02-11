@@ -2,6 +2,14 @@
 
 There are no forest, landscapes, houses, stores, factories, cities - the world is nothing but Corporate Offices, Hotels, Gas Stations, and The Daily Commute; all merged into a gobal, architectural geography. Stairwells climb in in crazy clusters to thousands of meters in height. Hotel pools form lakes and seas. Public restrooms have reverted to swamps.
 
+All humans have "sold their souls to the company" to one degree or another
+- **All humans are demons, at some level**
+- No 'man' or 'woman' but 'demon' and 'she-demon' 
+
+MAGIC-SYSTEM:
+- software engineers are sorcerers who wield 'electric magic' - use glyphboards (keyboards; need better name) to type spells
+- Concierges (The Conciergerie) are warlock caretakers of all hotels, who truck deal in pacts and demons
+
 FANTASTIC-CREATURES:
 - Tuples (Doppelgangers - come from the carpet)
 - Enums (???)
@@ -13,9 +21,6 @@ FANTASTIC-CREATURES:
 - Waard (a type of warrior demon)
 
 The Moth and the Flame - a cult/religion - members keep real candles, even though it's illegal
-
-All humans have "sold their souls to the company" to one degree or another - therefore, **all humans are demons, at some level**
-- No 'man' or 'woman' but 'demon' and 'she-demon' 
 
 *"But the 10th Infrastructure Team, the dying Company's most trusted and most valiant soldiers, crossed the stairwells into the land called Oyce - and for 300 years, there was peace."*
 

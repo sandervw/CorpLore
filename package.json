@@ -1,10 +1,9 @@
 {
-  "name": "llm-app-docs",
+  "name": "corplore",
   "version": "1.0.0",
   "type": "module",
-  "description": "LLM-powered dynamic storytelling tools",
+  "description": "LLM-powered tools for corplore story setting",
   "scripts": {
-    "generate-character": "node generate-character.js",
     "main": "node main.js"
   },
   "dependencies": {
