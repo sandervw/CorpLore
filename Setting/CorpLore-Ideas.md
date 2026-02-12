@@ -6,10 +6,6 @@ All humans have "sold their souls to the company" to one degree or another
 - **All humans are demons, at some level**
 - No 'man' or 'woman' but 'demon' and 'she-demon' 
 
-MAGIC-SYSTEM:
-- software engineers are sorcerers who wield 'electric magic' - use glyphboards (keyboards; need better name) to type spells
-- Concierges (The Conciergerie) are warlock caretakers of all hotels, who truck deal in pacts and demons
-
 FANTASTIC-CREATURES:
 - Tuples (Doppelgangers - come from the carpet)
 - Enums (???)
