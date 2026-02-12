@@ -37,6 +37,8 @@ Setting documents are organized hierarchically:
 - **Stories/** -- Narrative concepts and scene outlines
 - **Output/** -- Default destination for files generated via skills and agents (unless the user specifies otherwise)
 
+**IMPORTANT:** after creating a new document, ask the user if they want you to run a text-trimmer subagent on the result document.
+
 ## Code Conventions
 
 - ES Modules (`"type": "module"` in package.json)
@@ -47,7 +49,7 @@ Setting documents are organized hierarchically:
 
 When generating or editing setting/story content:
 
-- All humans in-universe are "demons" -- use "demon" not "man/person"
+- All humans in-universe are "demons" -- use "demon" or she-demon
 - Magic practitioners: software engineers = sorcerers, concierges = warlocks
 - Key magic words: "Per My Last Email", "Checkout is at 11", "The Blue Plates are Nice..."
 - Tone is dark, mythopoeic, treating mundane corporate/hospitality objects as sacred
@@ -55,7 +57,7 @@ When generating or editing setting/story content:
 ## Agents (.claude/agents/)
 
 - **fiction-tagger** -- Extracts short feature tags (threats, locations, weapons, character traits) from fictional sources via web search or local file. Outputs JSON tag lists. Runs on Haiku for speed.
-- **text-editor** -- Compresses and restructures text documents to 70% of original token count while optimizing for LLM readability. Runs on Sonnet.
+- **text-trimmer** -- Compresses and restructures text documents to 70% of original token count while optimizing for LLM readability. Runs on Opus.
 
 ## Skills (.claude/skills/)
 
