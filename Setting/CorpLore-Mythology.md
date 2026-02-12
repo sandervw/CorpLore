@@ -1,31 +1,31 @@
 # CorpLore Mythology Overview
 
-This document is a high-level overview of the setting's mythological framework. Full detail documents live in `Setting/Mythology-Docs/`.
+High-level setting mythology framework. Full documents in `Setting/Mythology-Docs/`.
 
 ---
 
 ## Mythological Elements
 
-| Element                         | Source Object / Status      | Summary                                                                                                                                                                                                                                           |
-| ------------------------------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Cosmogony** (Creation Myth)   | Motivational Office Poster  | The Founder spoke Words that partitioned the Undivided Room. Each poster is a sealed fragment of that First Utterance.                                                                                                                            |
-| **Cosmology** (World Structure) | Hotel Hallway Carpet        | Reality is a single woven Textile held on the Loom. Five layers (Face, Pile, Warp, Weft, Backing). Hotel carpet patterns are the raw geometry of reality showing through where the Weave has worn thin.                                           |
-| **Theogony** (Divine Origins)   | Gas Station Lottery Display | Gods are stocked in a tiered Display, dispensed by Intermediaries, and periodically expired and replaced by the Vendor. Prayer does not persuade; it scratches away what conceals a pre-written answer.                                           |
-| **Anthropogeny** (Human Origin) | Gas Station Roller Grill    | Souls are placed on the Eternal Grill by the Keeper, turned under the Warming Light, and drawn forth when ready. All souls receive the same process; individuality comes from the moment of removal.                                              |
-| **Death/Afterlife**             | Minecraft Forever World     | Life is the AFK state; death is return. Every demon builds a personal Minecraft world nightly from birth, placing blocks blind through faith. The world only fully renders when the demon dies and sits back down at the keyboard.                |
-| **Hero Cycles**                 | TODO                        |                                                                                                                                                                                                                                                   |
-| **Moral Framework**             | TODO                        | Divine law, taboos, cosmic justice.                                                                                                                                                                                                               |
-| **Etiological Myths**           | TODO                        | "Why" stories for seasons, traits, landscapes.                                                                                                                                                                                                    |
-| **Sacred Time/Space**           | TODO                        | Mythic vs. profane time, holy sites, center of the world.                                                                                                                                                                                         |
-| **Eschatology**                 | TODO                        | End-times; may be cyclical rather than terminal.                                                                                                                                                                                                  |
-| **Flood Myth**                  | TODO                        |                                                                                                                                                                                                                                                   |
-| **Creature Taxonomies**         | Mythic Beings Taxonomy      | Six tiers of beings: the Corruption Spectrum (demons drifting from human form by complicity), the Uncorrupted Dans (short, sad archivists who remember the contract was optional), Weave-Born (Tuples and Enums, artifacts of the carpet's textile reality), the Contractually Obligated (undead held by unfinished paperwork), Systemic Entities (accumulated from infrastructure like mold in damp walls), and Named Uniques. |
-| **Magic Systems**               | Words of Mighty Danger      | Three traditions: Sorcerers (electric magic via glyphboard shortcuts), Conciergerie (warlock pacts bound in contact-book grimoires), Commuters (podcast-cult doctrine projected as road-trance). Each tied to its domain: office, hotel, highway. |
-| **Prophetic Traditions**        | TODO                        | Oracles, seers, divination methods.                                                                                                                                                                                                               |
-| **Astral Mythology**            | TODO                        | Constellation myths, planetary deities.                                                                                                                                                                                                           |
-| **Divine Kingship**             | TODO                        | Ruler-as-god vs. ruler-as-servant-of-gods.                                                                                                                                                                                                        |
-| **Otherworld Geography**        | TODO                        | Underworld mapping vs. vague "beyond".                                                                                                                                                                                                            |
-| **Dualism**                     | TODO                        | Cosmic good/evil struggle vs. morally grey gods.                                                                                                                                                                                                  |
+| Element                  | Source / Status             | Summary                                                                                                                                                                                                                                                                                                                       |
+| ------------------------ | --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Cosmogony**            | Motivational Office Poster  | The Founder spoke Words that partitioned the Undivided Room. Each poster is a sealed fragment of that First Utterance.                                                                                                                                                                                                        |
+| **Cosmology**            | Hotel Hallway Carpet        | Reality is a woven Textile on the Loom. Five layers: Face, Pile, Warp, Weft, Backing. Hotel carpet patterns are raw geometry showing through worn Weave.                                                                                                                                                                      |
+| **Theogony**             | Gas Station Lottery Display | Gods are stocked in a tiered Display, dispensed by Intermediaries, periodically expired and restocked by the Vendor. Prayer scratches away coating to reveal a pre-written answer.                                                                                                                                            |
+| **Anthropogeny**         | Gas Station Roller Grill    | Souls are placed on the Eternal Grill by the Keeper, turned under the Warming Light, drawn forth when ready. Individuality comes from the moment of removal.                                                                                                                                                                  |
+| **Death/Afterlife**      | Minecraft Forever World     | Life is AFK state. Death is return. Every demon builds a personal Minecraft world nightly from birth, placing blocks blind through faith. The world renders fully only upon death.                                                                                                                                            |
+| **Creature Taxonomies**  | Mythic Beings Taxonomy      | Six tiers: Corruption Spectrum (demons drifting from human form), Uncorrupted Dans (sad archivists who remember the contract was optional), Weave-Born (Tuples/Enums from carpet reality), Contractually Obligated (undead held by unfinished paperwork), Systemic Entities (accumulated from infrastructure), Named Uniques. |
+| **Magic Systems**        | Words of Mighty Danger      | Three traditions: Sorcerers (electric magic via glyphboard shortcuts), Conciergerie (warlock pacts in contact-book grimoires), Commuters (podcast-cult doctrine projected as road-trance). Each bound to its domain: office, hotel, highway.                                                                                  |
+| **Hero Cycles**          | TODO                        |                                                                                                                                                                                                                                                                                                                               |
+| **Moral Framework**      | TODO                        | Divine law, taboos, cosmic justice.                                                                                                                                                                                                                                                                                           |
+| **Etiological Myths**    | TODO                        | "Why" stories for seasons, traits, landscapes.                                                                                                                                                                                                                                                                                |
+| **Sacred Time/Space**    | TODO                        | Mythic vs. profane time, holy sites, world-center.                                                                                                                                                                                                                                                                            |
+| **Eschatology**          | TODO                        | End-times. May be cyclical rather than terminal.                                                                                                                                                                                                                                                                              |
+| **Flood Myth**           | TODO                        |                                                                                                                                                                                                                                                                                                                               |
+| **Prophetic Traditions** | TODO                        | Oracles, seers, divination methods.                                                                                                                                                                                                                                                                                           |
+| **Astral Mythology**     | TODO                        | Constellation myths, planetary deities.                                                                                                                                                                                                                                                                                       |
+| **Divine Kingship**      | TODO                        | Ruler-as-god vs. ruler-as-servant-of-gods.                                                                                                                                                                                                                                                                                    |
+| **Otherworld Geography** | TODO                        | Underworld mapping vs. vague "beyond."                                                                                                                                                                                                                                                                                        |
+| **Dualism**              | TODO                        | Cosmic good/evil struggle vs. morally grey gods.                                                                                                                                                                                                                                                                              |
 
 ---
 
@@ -33,9 +33,9 @@ This document is a high-level overview of the setting's mythological framework. 
 
 *Full doc: `Mythology-Docs/cosmogony-motivational-poster.md`*
 
-The Founder spoke the world into being, one Word at a time. Each Word partitioned a portion of the Undivided Room into corridors, offices, and break rooms. The motivational poster is a sealed remnant of that act: the landscape behind the glass is the primordial terrain that was overwritten, and the Word beneath it (EXCELLENCE, PERSISTENCE, TEAMWORK) is the syllable that did the overwriting. The laminate keeps the still-active origin world from bleeding through.
+The Founder spoke the world into being, one Word at a time. Each Word partitioned a portion of the Undivided Room into corridors, offices, and break rooms. The motivational poster is a sealed remnant: the landscape behind the glass is primordial terrain that was overwritten, and the Word beneath it (EXCELLENCE, PERSISTENCE, TEAMWORK) is the syllable that did the overwriting. The laminate keeps the still-active origin world from bleeding through.
 
-**Key ritual:** New employees are walked past every poster on their first day, reading each Word aloud with a senior member, retracing the act of creation. Posters are never removed; the wall beneath them is considered "load-bearing" in ways blueprints do not capture.
+**Key ritual:** New employees are walked past every poster on their first day, reading each Word aloud with a senior member, retracing creation. Posters are never removed. The wall beneath them is considered "load-bearing" in ways blueprints do not capture.
 
 ---
 
@@ -43,7 +43,7 @@ The Founder spoke the world into being, one Word at a time. Each Word partitione
 
 *Full doc: `Mythology-Docs/cosmology-hotel-carpet-patterns.md`*
 
-Reality is a single woven Textile held taut on the Loom. It has five layers: the Face (visible surface), the Pile (emotion, atmosphere), the Warp (time), the Weft (choice), and the Backing (unknown foundation). Where threads cross, Knots form -- moments of decision that shape everything downstream. High-traffic areas thin the Weave; hotel hallways, walked by thousands who are never walking home, are among the most Frayed places in the world. The carpet patterns are not decorative -- they are the exposed geometry of the Warp and Weft, converged upon by manufacturers through blind trial and error.
+Reality is a single woven Textile on the Loom. Five layers: Face (visible surface), Pile (emotion, atmosphere), Warp (time), Weft (choice), Backing (unknown foundation). Where threads cross, Knots form: decision-moments shaping everything downstream. High-traffic areas thin the Weave. Hotel hallways, walked by thousands never walking home, are among the most Frayed places in the world. The carpet patterns are exposed Warp-and-Weft geometry, converged upon by manufacturers through blind trial and error.
 
 **Key ritual:** Practitioners kneel and read the Pile (thick = safe, thin = caution, none = leave). Three stamps upon standing to compress the Weave back down.
 
@@ -53,9 +53,9 @@ Reality is a single woven Textile held taut on the Loom. It has five layers: the
 
 *Full doc: `Mythology-Docs/theogony-lottery-display.md`*
 
-The gods are not born; they are stocked. A cosmic Display holds them in tiers by cost. Low gods grant small fortunes for small sacrifice; high gods offer total transformation at steep risk. An Intermediary always stands between supplicant and Display -- to bypass the Intermediary ("Self-Serving") is the one unforgivable heresy. Every god's answer is pre-written beneath its face; prayer only scratches the coating away. The central terror: gods expire. The Vendor arrives, pulls the old gods, slots in new ones. No war in heaven, no twilight. Just a seasonal restocking.
+Gods are not born. They are stocked. A cosmic Display holds them in tiers by cost. Low gods grant small fortunes for small sacrifice. High gods offer total transformation at steep risk. An Intermediary always stands between supplicant and Display. Bypassing the Intermediary ("Self-Serving") is the one unforgivable heresy. Every god's answer is pre-written beneath its face. Prayer only scratches the coating away. The central terror: gods expire. The Vendor arrives, pulls the old gods, slots in new ones. No war in heaven. Just seasonal restocking.
 
-**Key ritual:** The Scratching of the Threshold -- at every significant threshold in life, a coin or fingernail is dragged across the nearest surface, revealing what was already written beneath.
+**Key ritual:** The Scratching of the Threshold. At every significant life-threshold, a coin or fingernail is dragged across the nearest surface, revealing what was already written beneath.
 
 ---
 
@@ -63,9 +63,9 @@ The gods are not born; they are stocked. A cosmic Display holds them in tiers by
 
 *Full doc: `Mythology-Docs/anthropogeny-roller-grill.md`*
 
-Before anything existed, the Eternal Grill stood at the crossroads of Nothing and Everything. The Keeper places raw souls on the Rollers, where they turn under the Warming Light until ready. No soul is shaped by hand or chosen for favor -- all are processed equally by the same impersonal mechanism. Individuality comes from the moment of removal, not from the process itself. The gas station roller grill is a shadow of the First Grill, placed in the world as a reminder.
+Before anything existed, the Eternal Grill stood at the crossroads of Nothing and Everything. The Keeper places raw souls on the Rollers, where they turn under the Warming Light until ready. No soul is shaped by hand or chosen for favor. All are processed equally by the same impersonal mechanism. Individuality comes from the moment of removal, not the process. The gas station roller grill is a shadow of the First Grill, placed as reminder.
 
-**Key ritual:** The Watching of the Turn -- at age seven, a child is brought to watch the grill rotate for one full cycle while the elder whispers: *"You too were turned. You too were removed when ready. You too will be replaced."*
+**Key ritual:** The Watching of the Turn. At age seven, a child watches the grill rotate for one full cycle while the elder whispers: *"You too were turned. You too were removed when ready. You too will be replaced."*
 
 ---
 
@@ -73,9 +73,9 @@ Before anything existed, the Eternal Grill stood at the crossroads of Nothing an
 
 *Full doc: `Mythology-Docs/Afterlife-Minecraft-Forever-World.md`*
 
-Life is the away-state. Every demon born is a soul gone AFK from its forever world. At birth a unique seed generates a raw, empty Minecraft world that the demon builds into nightly through ritual play sessions -- one block minimum per night, no exceptions. Life is remote access; every block is placed blind, through the crude interface of faith and routine. Death is not departure but return: the demon sits back down at the keyboard and the world they built from afar finally renders around them in full. Gaps in the nightly streak leave cold spots where nothing renders. The Story of the First Builder warns of a demon who built nothing and returned to a black screen -- infinite nothing, because nothing is what they had built.
+Life is the away-state. At birth a unique seed generates a raw Minecraft world that the demon builds into nightly through ritual play sessions. One block minimum per night, no exceptions. Life is remote access. Every block is placed blind, through faith and routine. Death is return: the demon sits back down at the keyboard and the world finally renders in full. Gaps in the nightly streak leave cold spots where nothing renders. The Story of the First Builder warns of a demon who built nothing and returned to a black screen: infinite nothing, because nothing is what they had built.
 
-**Key ritual:** The Nightly Session -- three movements: the Login (speaking the seed number aloud), the Build (placing at least one block), and the Logout (saving and closing without looking back, because to linger is the first step toward "early alt-F4").
+**Key ritual:** The Nightly Session. Three movements: the Login (speaking the seed number aloud), the Build (placing at least one block), the Logout (saving and closing without looking back, because to linger is the first step toward "early alt-F4").
 
 ---
 
@@ -83,7 +83,14 @@ Life is the away-state. Every demon born is a soul gone AFK from its forever wor
 
 *Full doc: `Mythology-Docs/mythic-beings-taxonomy.md`*
 
-Six categories of beings inhabit the setting. The **Corruption Spectrum** covers demonkind: base demons (the general population), Waards (warrior enforcers whose bodies thicken with violence), Shaylas (malevolent she-demons sharpened by cruelty), Loras (ancient hags embedded so deep in the system they *are* its infrastructure), and the AyChar (a kakodemon of pure HR evil). The **Uncorrupted Dans** are the setting's elves: short, stocky, nearsighted archivists who never signed the full contract and are sad because they remember it was optional. **Weave-Born** beings emerge from the hotel carpet cosmology: Tuples (doppelgangers printed when the Weave folds) and Enums (immutable beings locked at cosmic Knots, each embodying a single rule). The **Contractually Obligated** are undead animated not by necromancy but by unfinished paperwork: the Retained (zombies on retainer), Non-Competes (ghosts locked out of their afterlife by clause), the Skeleton Crew (bone staff of departments stuck in bureaucratic infinite loops), the Severanced (lucid revenants trapped by continuing severance deposits), and Commuter Wraiths (forever driving a route they will never complete). **Systemic Entities** accumulate from infrastructure: Escalations (unresolved complaints gaining substance), the Hold (a siren born of calls never picked up), and Spam (multiplying vermin that eat data and meaning). Two **Named Uniques** round out the taxonomy: Withaazz, a great sorcerer of unknowable motive, and the Auditor, an entity from outside the system whose corrections rewrite history.
+Six categories inhabit the setting:
+
+- **Corruption Spectrum:** Demonkind. Base demons (general population), Waards (warrior enforcers thickened by violence), Shaylas (she-demons sharpened by cruelty), Loras (ancient hags embedded so deep they are the infrastructure), AyChar (kakodemon of pure HR evil).
+- **Uncorrupted Dans:** The setting's elves. Short, stocky, nearsighted archivists who never signed the full contract. Sad because they remember it was optional.
+- **Weave-Born:** Emerge from carpet cosmology. Tuples (doppelgangers printed when the Weave folds) and Enums (immutable beings locked at cosmic Knots, each embodying a single rule).
+- **Contractually Obligated:** Undead animated by unfinished paperwork. The Retained (zombies on retainer), Non-Competes (ghosts locked from afterlife by clause), Skeleton Crew (bone staff in bureaucratic infinite loops), Severanced (lucid revenants trapped by continuing severance deposits), Commuter Wraiths (forever driving an incomplete route).
+- **Systemic Entities:** Accumulate from infrastructure. Escalations (unresolved complaints gaining substance), the Hold (siren born of unanswered calls), Spam (multiplying vermin eating data and meaning).
+- **Named Uniques:** Withaazz (great sorcerer of unknowable motive) and the Auditor (entity from outside the system whose corrections rewrite history).
 
 ---
 
@@ -91,6 +98,10 @@ Six categories of beings inhabit the setting. The **Corruption Spectrum** covers
 
 *Full doc: `Mythology-Docs/Magic-Words-of-Mighty-Danger.md`*
 
-Three traditions of magic exist in the world, each bound to its own domain and focus object. Sorcerers (software engineers) wield electric magic through glyphboards -- keyboards bound to terminals -- invoking Words of Power as compiled keystroke shortcuts. The Conciergerie (concierges) deal in pacts negotiated with great demons and spirits, recording every bargain in a contact-book grimoire; their skill is knowing whom to call and what the terms really mean beneath the polite language. Commuters channel the trance-state of the road -- the highway hypnosis of lane and light -- outward onto other demons, drawing doctrine from podcast cults and projecting it through devoted focus, always with a commuter mug in hand.
+Three traditions, each bound to its own domain and focus object:
+
+- **Sorcerers** (software engineers): Wield electric magic through glyphboards. Invoke Words of Power as compiled keystroke shortcuts.
+- **Conciergerie** (concierges): Negotiate pacts with great demons and spirits. Record every bargain in a contact-book grimoire. Their skill is knowing whom to call and what the terms really mean beneath polite language.
+- **Commuters:** Channel highway hypnosis outward onto other demons. Draw doctrine from podcast cults, project it through devoted focus, always with a commuter mug in hand.
 
 ---
