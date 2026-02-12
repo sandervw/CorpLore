@@ -30,13 +30,12 @@ Authentication uses the `ANTHROPIC_API_KEY` environment variable (default SDK be
 
 Setting documents are organized hierarchically:
 
-- **Setting/CorpLore-Ideas.md** -- Master concepts document (world premise, character types, folklore elements)
-- **Setting/CorpLore-Mythology.md** -- Mythological codex mapping real-world objects to classical myth categories
-- **Setting/Mythology-Docs/** -- Deep-dive expansions of individual mythology elements (cosmogony, cosmology, theogony, anthropogeny)
-- **Setting/Unsorted-Folklore-Docs/** -- Individual folklore pieces not yet organized into the mythology framework
+- **Setting/CorpLore-Ideas.md** -- Running scratchpad / todo list for rough ideas and notes. Items here are temporary: they get incorporated into the setting or discarded, then deleted from this doc.
+- **Setting/CorpLore-Mythology.md** -- The main setting summary. Maps real-world objects to classical myth categories and contains short synopses of each defined element.
+- **Setting/Mythology-Docs/** -- Deep-dive expansions of individual mythology elements (cosmogony, cosmology, theogony, anthropogeny, magic systems, etc.). Most docs include a belief system, ritual practices, folk explanations, and expansion paths.
+- **Setting/Unsorted-Folklore-Docs/** -- Holding pen for generated folklore pieces the user hasn't decided how to use yet. Not yet incorporated into the mythology framework.
 - **Stories/** -- Narrative concepts and scene outlines
-
-Each mythology document includes: belief system, ritual practices, folk explanations, and expansion paths for future development.
+- **Output/** -- Default destination for files generated via skills and agents (unless the user specifies otherwise)
 
 ## Code Conventions
 
@@ -52,8 +51,6 @@ When generating or editing setting/story content:
 - Magic practitioners: software engineers = sorcerers, concierges = warlocks
 - Key magic words: "Per My Last Email", "Checkout is at 11", "The Blue Plates are Nice..."
 - Tone is dark, mythopoeic, treating mundane corporate/hospitality objects as sacred
-- Mythology docs should include belief, ritual, and folk explanation sections
-- New folklore pieces go in `Setting/Unsorted-Folklore-Docs/` until categorized
 
 ## Agents (.claude/agents/)
 

@@ -8,7 +8,7 @@ This document is a high-level overview of the setting's mythological framework. 
 
 | Element                         | Source Object / Status      | Summary                                                                                                                                                                                                                                           |
 | ------------------------------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Cosmogony** (Creation Myth)   | Motivational Office Poster  | The Founder spoke Words that partitioned the Undivided Room into corridors and offices. Each poster is a sealed fragment of that First Utterance.                                                                                                 |
+| **Cosmogony** (Creation Myth)   | Motivational Office Poster  | The Founder spoke Words that partitioned the Undivided Room. Each poster is a sealed fragment of that First Utterance.                                                                                                                            |
 | **Cosmology** (World Structure) | Hotel Hallway Carpet        | Reality is a single woven Textile held on the Loom. Five layers (Face, Pile, Warp, Weft, Backing). Hotel carpet patterns are the raw geometry of reality showing through where the Weave has worn thin.                                           |
 | **Theogony** (Divine Origins)   | Gas Station Lottery Display | Gods are stocked in a tiered Display, dispensed by Intermediaries, and periodically expired and replaced by the Vendor. Prayer does not persuade; it scratches away what conceals a pre-written answer.                                           |
 | **Anthropogeny** (Human Origin) | Gas Station Roller Grill    | Souls are placed on the Eternal Grill by the Keeper, turned under the Warming Light, and drawn forth when ready. All souls receive the same process; individuality comes from the moment of removal.                                              |
@@ -76,5 +76,13 @@ Before anything existed, the Eternal Grill stood at the crossroads of Nothing an
 Life is the away-state. Every demon born is a soul gone AFK from its forever world. At birth a unique seed generates a raw, empty Minecraft world that the demon builds into nightly through ritual play sessions -- one block minimum per night, no exceptions. Life is remote access; every block is placed blind, through the crude interface of faith and routine. Death is not departure but return: the demon sits back down at the keyboard and the world they built from afar finally renders around them in full. Gaps in the nightly streak leave cold spots where nothing renders. The Story of the First Builder warns of a demon who built nothing and returned to a black screen -- infinite nothing, because nothing is what they had built.
 
 **Key ritual:** The Nightly Session -- three movements: the Login (speaking the seed number aloud), the Build (placing at least one block), and the Logout (saving and closing without looking back, because to linger is the first step toward "early alt-F4").
+
+---
+
+## Magic Systems: Words of Mighty Danger
+
+*Full doc: `Mythology-Docs/Magic-Words-of-Mighty-Danger.md`*
+
+Three traditions of magic exist in the world, each bound to its own domain and focus object. Sorcerers (software engineers) wield electric magic through glyphboards -- keyboards bound to terminals -- invoking Words of Power as compiled keystroke shortcuts. The Conciergerie (concierges) deal in pacts negotiated with great demons and spirits, recording every bargain in a contact-book grimoire; their skill is knowing whom to call and what the terms really mean beneath the polite language. Commuters channel the trance-state of the road -- the highway hypnosis of lane and light -- outward onto other demons, drawing doctrine from podcast cults and projecting it through devoted focus, always with a commuter mug in hand.
 
 ---

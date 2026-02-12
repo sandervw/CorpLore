@@ -1,4 +1,4 @@
-# Magic Systems: Shortcut Words of Mighty Danger
+# Magic Systems: Words of Mighty Danger
 
 *Three traditions of magic exist in the world.*
 
@@ -10,7 +10,7 @@
 
 **Method:** Sorcerers wield *electric magic* through glyphboards -- keyboards bound to terminals that interface with the deeper architecture of the world. Magic is invoked by typing *shortcuts*: specific keystroke combinations that call upon Words of Power. These Words are not spoken aloud; they are entered, compiled, and executed.
 
-**Known Words of Power:**
+**Example Words of Power:**
 - *"Per My Last Email"*
 - *"The Blue Plates are Nice; but, the Brown Ones Seem to Last Longer"*
 - *"Checkout is at 11"*
