@@ -30,6 +30,7 @@ Authentication uses the `ANTHROPIC_API_KEY` environment variable (default SDK be
 
 Setting documents are organized hierarchically:
 
+- **Setting/CorpLore.md** -- Setting overview for the CorpLore project. A 400-word summary of the info scattered throughout the repository.
 - **Setting/CorpLore-Ideas.md** -- Running scratchpad / todo list for rough ideas and notes. Items here are temporary: they get incorporated into the setting or discarded, then deleted from this doc.
 - **Setting/CorpLore-Mythology.md** -- The main setting summary. Maps real-world objects to classical myth categories and contains short synopses of each defined element.
 - **Setting/Mythology-Docs/** -- Deep-dive expansions of individual mythology elements (cosmogony, cosmology, theogony, anthropogeny, magic systems, etc.). Most docs include a belief system, ritual practices, folk explanations, and expansion paths.
