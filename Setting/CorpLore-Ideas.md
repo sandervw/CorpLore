@@ -2,7 +2,11 @@
 
 There are no forest, landscapes, houses, stores, factories, cities - the world is nothing but Corporate Offices, Hotels, Gas Stations, and The Daily Commute; all merged into a gobal, architectural geography. Stairwells climb in in crazy clusters to thousands of meters in height. Hotel pools form lakes and seas. Public restrooms have reverted to swamps.
 
-The Moth and the Flame - a cult/religion - members keep real candles, even though it's illegal
+Cults - The Four Quarters of the Year of Consolidation:
+1. January Financials - pure fanatical evil - steal lunches, then return them, infecting others with their fanaticism - all are compulsive consumers, eating and eating and eating, never full - they worship the false god of 'The Archive' - they maintain 'Finance Houses', castle-bases, dungeons that span entire archipelegos of desk space
+2. The Moth and the Flame - members keep real candles, even though it's illegal
+3. Longsummer
+4. Q4H (Quarter Four Hell)
 
 *"But the 10th Infrastructure Team, the dying Company's most trusted and most valiant soldiers, crossed the stairwells into the land called Oyce - and for 300 years, there was peace."*
 

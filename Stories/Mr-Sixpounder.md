@@ -30,3 +30,9 @@ Mr. Hindemith must choose between revealing the truth (saving the descendants bu
 16. Short scene. Hindemith passes a generic hotel painting on the Sixpounder's floor -- one nobody has ever covered or turned. It's been feeding on the idle memories of sleeping guests for decades, but up here there are no sleeping guests. He wonders what it's been eating instead, and whether the revenant dreams.
 17. One of the descendants is a devout Commuter. When cornered by the revenant, they instinctively project the road-trance. Sixpounder just... stares ahead, glazed, driving a commute that doesn't exist. Opens a possible solution but raises the question: is trapping it in permanent trance any better?
 18. At Corp HQ, Hindemith stumbles onto a Skeleton Crew on the floor above where Mr. Sixpounder's old company used to be. They might be the only beings left who remember what Sixpounder was before he died.
+19. A new housekeeper removes the DND sign from 30,713 following protocol. Sixpounder's behavior immediately destabilizes.
+20. Short scene. Hindemith rings the concierge bell in Sixpounder's path, hoping its forgetting-nature resets the revenant's fixation.
+21. Hindemith finds a descendant sleepwalking the Eastmark Stairwells at 3 AM, mirroring Sixpounder's patrol. Traces the cause to misused toiletry bottles.
+22. Hindemith engineers a breakfast where all descendants use the same waffle maker in sequence, then feeds the result to Sixpounder.
+23. Hotel systems glitch -- elevators skip floors, key cards open wrong doors. Staff attempted to relocate Sixpounder to a different room.
+24. A loyalty member demands reassignment to the premium corner suite 30,713. Hindemith must deflect without revealing the occupant.
