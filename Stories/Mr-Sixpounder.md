@@ -19,8 +19,8 @@ Mr. Hindemith must choose between revealing the truth (saving the descendants bu
 5. Final battle at Bloodsea (the hotel pool) between the descendents and Revenant
 6. Mr. Hindemith loses and searches for his "pact book" (Contact Book)
 7. Mr. Hindemith must find a Waard (warrior demon) capable of protecting an important guest descendent for a 3-night stay.
-8. A new employee encounters Mr. Sixpounder on his nightly patrol along the Eastmark Stairwells and panics. Mr. Hindemith smooths it over, explaining "that's just our night security" while the new hire stares at a decomposing corpse in a hotel blazer.
-9. Mr. Hindemith goes to the basement filing levels to pull Mr. Sixpounder's original severance contract. Discovers the severance is still depositing every two weeks from a company dissolved forty years ago. The payment origin traces to a shell entity. Someone is keeping the revenant bound on purpose.
-10. Mr. Hindemith flips through his contact book looking for anyone who knows revenant lore. The pact he finds is expensive: a retired Lora in the sub-basement levels who'll only trade information for a binding favor. The negotiation scene shows how Conciergerie magic works -- polite language hiding sharp terms.
-11. Mr. Hindemith uses the morning continental breakfast waffle-maker crowd to quietly identify which guests are descendants. Watches who the revenant's head turns toward through the breakfast room doorway.
-12. Mr. Hindemith lays out the guest registry against the revenant's forty-year history and realizes the target wasn't one demon -- it was a family. The original enemy had seven children. The bloodline is in dozens of guests now. Mr. Sixpounder can never finish.
+8. A new employee encounters Mr. Sixpounder on his nightly patrol along the Eastmark Stairwells and panics. Mr. Hindemith has to smooth it over.
+9. Mr. Hindemith discovers the Mr. Sixpounder's severance is still depositing every two weeks from a company long-dissolved. Someone is keeping the revenant bound on purpose.
+10. Mr. Hindemith finds a retired Lora in his contact book, who'll only trade information for a binding favor. The negotiation scene shows how Conciergerie magic works.
+11. Mr. Hindemith uses the morning continental breakfast waffle-maker crowd to quietly identify which guests are descendants. Watches who the revenant's head turns toward.
+12. Mr. Hindemith lays out the guest registry against the revenant's forty-year history and realizes the target was a whole family. The bloodline is in dozens of guests now.

@@ -2,7 +2,7 @@
 name: text-trimmer
 description: Use this agent to compress and optimize text-based documents for LLM consumption, reducing token count to 70% of original while maintaining clarity.
 tools: Glob, Grep, Read, Edit, Write, NotebookEdit, WebFetch, TodoWrite, WebSearch, BashOutput, KillShell, AskUserQuestion, Skill, SlashCommand
-model: opus
+model: sonnet
 color: yellow
 ---
 

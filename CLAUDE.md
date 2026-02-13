@@ -57,8 +57,8 @@ When generating or editing setting/story content:
 
 ## Agents (.claude/agents/)
 
-- **fiction-tagger** -- Extracts short feature tags (threats, locations, weapons, character traits) from fictional sources via web search or local file. Outputs JSON tag lists. Runs on Haiku for speed.
-- **text-trimmer** -- Compresses and restructures text documents to 70% of original token count while optimizing for LLM readability. Runs on Opus.
+- **fiction-tagger** -- Extracts short feature tags (threats, locations, weapons, character traits) from fictional sources via web search or local file. Outputs JSON tag lists.
+- **text-trimmer** -- Compresses and restructures text documents to 70% of original token count while optimizing for LLM readability.
 
 ## Skills (.claude/skills/)
 
