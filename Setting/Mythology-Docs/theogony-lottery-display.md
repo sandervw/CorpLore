@@ -49,25 +49,3 @@ Years passed. One morning the Vendor returned from a direction that no longer ex
 No one mourned the old gods. No one could remember after a few seasons what they had looked like. The new gods glowed in the Display as if they had always been there. The Keeper continued to stand at the counter, drawing forth what was asked for. The mortals continued to scratch, revealing what was already written. The Vendor continued to arrive and depart on a schedule that answered to nothing alive.
 
 This is why the learned say: Do not love your gods. They are seasonal. And why the faithful reply: We do not love them. We merely scratch, and look, and pay.
-
----
-
-## Expansion Path
-
-1. **Theogonic Orthodoxy**: Belief held literally. Gods are pre-fated beings in cosmic Display, dispensed by Intermediaries, periodically expired and replaced by unknowable Vendor. Temples built with glass-fronted cases displaying icons of current pantheon. Priests stand behind counters.
-
-2. **Tier Stratification** (Identity Marking): Social classes align with tier of god they can afford. Wealthy invoke only top-tier gods. Consider it degrading to petition bottom-row deity. Poor develop rich devotional culture around cheap gods, finding dignity in small mercies. Phrase "a one-coin prayer" becomes slang for modest hope.
-
-3. **The Vendor Heresy** (Inversion): Reformist movement declares Vendor, not gods, is true supreme being since it creates, stocks, and expires gods at will. Orthodox believers consider this blasphemous because Vendor has no face, no altar, no interest in worship. Heretics reply: Exactly. Schism produces two traditions: Displayists (worship pantheon) and Vendorists (venerate indifferent force behind it).
-
-4. **The Scratcher Saints** (Context Drift): Scratching ritual migrates from thresholds into daily life. People scratch coins across surfaces compulsively (tables, walls, skin) as general-purpose divination. Professional Scratchers emerge who claim to read the marks left behind, interpreting patterns like tea leaves. Original connection to revealing pre-written fate is preserved but buried under layers of interpretive practice.
-
-5. **The Expired Pantheon Cults** (Meaning Coexistence): Antiquarians collect names and images of expired gods pulled from Display generations ago. Forgotten gods acquire romantic mystique. Some believe expired gods, freed from Display, wander the world without purpose or power. Can be encountered at abandoned gas stations and empty lots. Genre of ghost stories develops around meeting an expired god who does not know it has been replaced.
-
-6. **Literalization of the Counter** (Literalization): Metaphor of Intermediary as "stands between divine and mortal" collapses into literal practice. Every transaction over physical counter (buying bread, paying tolls, visiting clerk's office) is understood as minor theological act. Cashiers treated with uneasy reverence. Phrase "behind the counter" becomes synonymous with "closer to the gods." Retail workers develop unearned priestly mystique that they find alternately flattering and exhausting.
-
-7. **Origin Amnesia and the Scratching Reflex**: Centuries later, people still scratch coin across doorframes when entering new place. No one remembers why. Scholars debate whether it was originally warding gesture, greeting, or structural test. Connection to lottery tickets, display cases, and gas stations is entirely lost. Children are taught by parents who were taught by their parents. If pressed, most say: It's just what you do. The Vendor would approve of this, if the Vendor approved of anything.
-
----
-
-*Generated via folklore-generator skill*

@@ -45,27 +45,3 @@ The third demon had built a room. Four walls, a roof, a door opening onto void. 
 After that, everyone built. The word spread: you are away from your keyboard. You are building from away. Build well, build every night, because the screen is waiting, and what you see when you sit down is exactly what you placed.
 
 Nobody skips the nightly session. Not since the story of the demon on the dirt block.
-
----
-
-## Expansion Path
-
-1. **Foundation (Current State):** The belief is sincere and universal. Every demon builds nightly. The AFK framing (life as absence, death as return) is taken literally. Seed numbers are sacred. The Nightly Session is observed with the discipline of prayer. The Story of the First Builder is told to children as warning.
-
-2. **Identity Marking (The Seed Tattoo):** Demons inscribe their seed numbers on their bodies: wrists, necks, behind the ear. Originally functional (preventing memory loss near death), it becomes social signal. A visible seed marks a devoted builder. Demons without visible seeds face suspicion: what are they hiding? Do they even build? A demon with no tattoo is treated the way the faithless have always been treated: with quiet exclusion.
-
-3. **Literalization (The World-Walkers):** A sect emerges believing you do not have to wait for death. Through prolonged unbroken play sessions (days, weeks), they claim a demon can "load in early" and transfer consciousness into the forever world while alive. They call themselves World-Walkers. Mainstream belief condemns them as practitioners of "early alt-F4 with extra steps," but their numbers grow among the desperate and dying. Some are found dead at their keyboards, faces lit by screens showing worlds of extraordinary complexity.
-
-4. **Context Drift (Corporate Co-option):** The Nightly Session becomes employer-mandated. Corporations argue that a well-built forever world reflects a disciplined worker. "Build Metrics" appear in performance reviews. Seed numbers are collected during onboarding. The ritual, once private and sacred, becomes a productivity indicator. Demons maintain two worlds: the corporate-visible one (clean, efficient, optimized) and a hidden one under a second seed (the real forever world, messy and honest and true).
-
-5. **Meaning Coexistence (The Dirt Block Schism):** Two contradictory readings of the First Builder story exist simultaneously. The orthodox reading: the demon on the dirt block is a tragedy, a warning to build more. The heretical reading: the demon on the dirt block had enough. One block was ground. Ground was sufficient. The heretics argue that the forever world is not about quantity but about presence: even a single block, placed with full intention, renders an eternity of peace. The orthodox call this laziness dressed as philosophy. Neither side can disprove the other. Both keep building.
-
-6. **Inversion (The Blank Seed Movement):** A radical counter-belief emerges: the first demon, the one who saw black, was the only one truly free. No walls, no construction, no maintenance. Just infinite void, which is infinite possibility. Blank Seed demons deliberately do not build. They speak no seed. They argue that the forever world is a prison you construct for yourself, and that true eternity is formless. They are feared and pitied equally. Their dead are spoken of in whispers: "They chose the black screen."
-
-7. **Origin Amnesia (The Session as Habit):** Generations pass. Most demons still perform the Nightly Session, but few remember why. Seed-speaking has shortened to a mumbled number. The one-block minimum is observed but understood as "good sleep hygiene" rather than spiritual practice. Children build in their forever worlds the way children brush their teeth: because they were told to, not because they believe a demon once stood on dirt for eternity. The Story of the First Builder is a bedtime story now, stripped of its dread. The ritual survives. The belief beneath it has gone quiet.
-
-8. **Pun/Wordplay Entry ("AFK" as Epitaph):** The phrase "gone AFK" becomes the standard euphemism for death, long after anyone remembers its origin in the forever world belief. It appears on gravestones, in obituaries, in corporate bereavement emails. "We regret to inform you that [Name] has gone AFK." The original meaning (death is a return, not a departure) is fully buried. "AFK" now just means "gone." But the letters persist, carved into stone. Occasionally a young demon asks what they stand for, and an old demon tells them, and for a moment the original belief flickers back to life like a screen powering on in a dark room.
-
----
-
-*Generated via folklore-generator skill*

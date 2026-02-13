@@ -20,7 +20,13 @@ Mr. Hindemith must choose between revealing the truth (saving the descendants bu
 6. Mr. Hindemith loses and searches for his "pact book" (Contact Book)
 7. Mr. Hindemith must find a Waard (warrior demon) capable of protecting an important guest descendent for a 3-night stay.
 8. A new employee encounters Mr. Sixpounder on his nightly patrol along the Eastmark Stairwells and panics. Mr. Hindemith has to smooth it over.
-9. Mr. Hindemith discovers the Mr. Sixpounder's severance is still depositing every two weeks from a company long-dissolved. Someone is keeping the revenant bound on purpose.
+9. Mr. Hindemith discovers the Mr. Sixpounder's severance is still depositing every two weeks from a company long-dissolved. Someone is keeping the revenant bound on purpose. He visits a Dan archivist at Corp HQ (non-hotel territory). The Dan finds the answer easily, charges nothing, and is sadder than anyone Hindemith has ever met.
 10. Mr. Hindemith finds a retired Lora in his contact book, who'll only trade information for a binding favor. The negotiation scene shows how Conciergerie magic works.
 11. Mr. Hindemith uses the morning continental breakfast waffle-maker crowd to quietly identify which guests are descendants. Watches who the revenant's head turns toward.
 12. Mr. Hindemith lays out the guest registry against the revenant's forty-year history and realizes the target was a whole family. The bloodline is in dozens of guests now.
+13. Mr. Hindemith has to visit Corp HQ (non-hotel territory) to get the AyChar in HR to sign off on canceling the Sixpounder's severance.
+14. A Tuple rises from the Frayed carpet near the revenant's patrol route -- a doppelganger of one of the descendant guests. Short scene. The Tuple is a recurring comedic nuisance throughout the story, not a serious plot element.
+15. Hindemith runs around the hotel putting out fires caused by the Sixpounder's increased activity. A conference room speakerphone has coalesced into the Hold (guests wander in and can't leave). The room next to 30,713 has become a visible Escalation from decades of unresolved complaints.
+16. Short scene. Hindemith passes a generic hotel painting on the Sixpounder's floor -- one nobody has ever covered or turned. It's been feeding on the idle memories of sleeping guests for decades, but up here there are no sleeping guests. He wonders what it's been eating instead, and whether the revenant dreams.
+17. One of the descendants is a devout Commuter. When cornered by the revenant, they instinctively project the road-trance. Sixpounder just... stares ahead, glazed, driving a commute that doesn't exist. Opens a possible solution but raises the question: is trapping it in permanent trance any better?
+18. At Corp HQ, Hindemith stumbles onto a Skeleton Crew on the floor above where Mr. Sixpounder's old company used to be. They might be the only beings left who remember what Sixpounder was before he died.

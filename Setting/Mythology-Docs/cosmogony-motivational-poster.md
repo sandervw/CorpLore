@@ -31,30 +31,3 @@ When the DSVPI finished speaking, the Undivided Room was gone. In its place stoo
 The DSVPI's voice gave out after the final Word. That is why no one today can say who the DSVPI was or when the Building was constructed. The Words persist in present tense ("Success is a journey") because creation is not finished. It is ongoing, held in place by the posters themselves. Remove the posters, and the Building begins to remember it was once an open field. The walls soften. The carpet loosens. The eagles return.
 
 This is why the posters are never taken down.
-
-## Expansion Path
-
-### 1. Original State: The DSVPI's Partition
-The belief exists in pure form. Posters are sealed remnants of creation. New employees are walked past them. Removal is taboo. The cosmogony is told informally during onboarding as a half-joke that nobody fully commits to disbelieving.
-
-### 2. Identity Marking: Poster Loyalty
-Employees identify with their poster, the one nearest their desk. "I'm an INTEGRITY" or "I sit under PERSISTENCE" becomes a way of declaring departmental identity. Teams near the same poster develop quiet solidarity, as if they share a patron syllable.
-
-### 3. Pun Entry: Load-Bearing Double Meaning
-The term "load-bearing poster" enters common use. Originally meant the poster structurally held the building's primordial memory in check. Drifts into slang for any policy, tradition, or employee that cannot be removed without everything collapsing. "Don't fire Janet, she's load-bearing." The architectural origin blurs with organizational metaphor.
-
-### 4. Inversion: The Ironic Reading
-A generation who never heard the cosmogony begins reading posters as objects of corporate absurdity. The Word is no longer divine speech but a hollow management command. TEAMWORK becomes a punchline. Demotivational parodies emerge as counter-icons. Yet the taboo against removal persists even among the ironic. Nobody takes the originals down.
-
-### 5. Meaning Coexistence: Sincere and Ironic Simultaneously
-Both readings exist in the same building, sometimes in the same person. An employee mocks the EXCELLENCE poster in group chat, then feels unease when facilities removes it during renovation. The poster is both sacred and ridiculous. This contradiction does not resolve. It becomes the defining feature of the object. People who feel nothing when a poster is removed are considered new regardless of tenure.
-
-### 6. Context Drift: The Home Poster
-Former employees hang motivational posters in their homes after leaving the company. They cannot articulate why. Posters are placed in hallways and transitional spaces, never bedrooms or living rooms. The domestic poster carries no corporate association for the person who hangs it. It simply feels correct for a corridor to have one. The cosmogony has become an architectural instinct.
-
-### 7. Origin Amnesia: The Bare Wall Superstition
-Three generations removed from the original telling, nobody remembers the DSVPI or the Undivided Room. What remains is a diffuse, inarticulate conviction that a hallway without a framed landscape print is unfinished. Interior designers include them by default. Hotels hang them above ice machines. The belief has become invisible, indistinguishable from taste. If asked why the poster is there, the answer is: "It would look wrong without it." The creation myth has completed its work. It has become the wallpaper of reality itself, and no one notices the architecture of their own universe.
-
----
-
-*Generated via folklore-generator skill*
