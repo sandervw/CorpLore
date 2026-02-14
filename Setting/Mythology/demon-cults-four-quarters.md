@@ -66,21 +66,21 @@ Of the four cults the Moth and the Flame is the only one other demons speak of w
 
 ### Doctrine
 
-Dogmommies believe the bond between a demon and her dog is the highest bond in creation. Surpasses marriage, parenthood, friendship, oath, contract. The dog is not a pet. The dog is divine appointment. When a Dogmommy acquires a dog she has been chosen by a living saint. Her purpose is to serve its needs, celebrate its nature, ensure every other demon acknowledges its holiness.
+Dogmommies believe the bond between a demon and her dog is the highest bond in creation. Surpasses friendship, marriage, parenthood. The dog is not a pet. When a Dogmommy acquires a dog she has been chosen by a living saint. Her purpose is to ensure every other demon acknowledges its holiness.
 
-They believe a dog's life is more valuable than a demon's. Not metaphorically. As doctrine. If a burning building contains a dog and a stranger the dog is rescued first. If questioned a Dogmommy will simply look at you as though you have said something fundamentally broken.
+They believe a dog's life is more valuable than a demon's. Not metaphorically. If a burning building contains a dog and a stranger, the dog is rescued first. If questioned a Dogmommy will simply look at you as though you have said something fundamentally broken.
 
-Their own dogs are violent without exception. This is not accident. Dogmommies are drawn to animals that bite, lunge, pull at the leash with force that drags the handler sideways. A calm dog is a failed dog. The ideal Dogmommy hound is muscular, short-tempered, barely restrained directed aggression that the Dogmommy will describe as "the sweetest baby."
+Their own dogs are violent without exception. Dogmommies are drawn to animals that bite, lunge, pull at the leash with force that drags the handler sideways. A calm dog is a failed dog. The ideal Dogmommy hound is muscular, short-tempered, barely restrained directed aggression that the Dogmommy will describe as "the sweetest baby." Usually, a pitbull.
 
 ### Practice
 
-The core ritual is the Presentation. A Dogmommy will approach any demon at any time and present her dog for admiration. This is not optional. The dog is thrust forward, straining. The demon is expected to affirm. "What a good dog." "So handsome." Insufficient praise is noted. A demon who does not acknowledge the dog or flinches when it lunges is marked as Unloving. The Unloving are talked about endlessly in group chats and break room conversations until their reputation is ruined.
+The core ritual is the Presentation. A Dogmommy will approach any demon at any time and present her dog for admiration. The demon is expected to affirm. "What a good dog." "So handsome." A demon who does not acknowledge the dog or flinches when it lunges is marked as Unloving. The Unloving are talked about endlessly in group chats and break room conversations until their reputation is ruined.
 
-Dogmommy children are afterthoughts. Fed, clothed, sheltered in the most technical sense. But the dog sleeps in the bed. The dog eats first. The dog's veterinary appointments are kept with religious precision while the children's dentist visits slide into next month. The children learn the hierarchy: the dog, the mother's feelings about the dog, the mother, then distantly themselves.
+Dogmommy children are afterthoughts. The dog sleeps in the bed. The dog eats first. The dog's veterinary appointments are kept with religious precision while the children's dentist visits slide into next month. The children learn the hierarchy: the dog, the mother's feelings about the dog, the mother, then distantly themselves.
 
-When a Dogmommy's dog attacks something ancient surfaces. The Dogmommy does not restrain the animal. She joins it. Her lips pull back. Fingers curl into claws. She drops to the ground beside the dog and enters "the Frenzy": scratching, biting, drooling, snarling, her body mimicking the dog's movements with precision that suggests lifelong rehearsal. In the Frenzy there is no difference between Dogmommy and dog. They are one organism. The leash connects two halves of the same predator.
+When a Dogmommy's dog attacks something ancient surfaces. The Dogmommy joins it. Her lips pull back. Fingers curl into claws. She drops to the ground beside the dog and enters "the Frenzy": scratching, biting, drooling, snarling. In the Frenzy there is no difference between Dogmommy and dog. They are one organism.
 
-After the Frenzy passes the Dogmommy stands, wipes her mouth, smooths her hair, says: "He's never done that before." This is always a lie. He has done it before. He will do it again. She will join him again. This is the sacrament.
+After the Frenzy passes the Dogmommy stands, wipes her mouth, smooths her hair, says: "He's never done that before." This is always a lie. He has done it before. He will do it again. She will join him again.
 
 ### Organization
 
@@ -88,38 +88,26 @@ Dogmommies operate in packs. Three to seven Dogmommies and their dogs walking to
 
 ## Q4: Q4H (Quarter Four Hell)
 
-**Season:** October to December. Quarter of the end.
+**Season:** October to December.
 
 **Alignment:** Apocalyptic. Evil by exhaustion.
 
 ### Doctrine
 
-Every October Q4H announces the world is ending.
-
-Not metaphorically. They mean the Building will collapse, the Highway will close, the Textile will unravel. Everything will be wiped from the ledger in a final total Closeout. They have predicted this every year for as long as anyone remembers. They have never been right. Each survived apocalypse makes the next prediction more urgent. A world that has escaped destruction this many times is clearly overdue.
+Every October Q4H announces the world is ending. The Building will collapse, the Highway will close. Everything will be wiped from the ledger in a final total Closeout. They have predicted this every year for as long as anyone remembers. Each survived apocalypse makes the next prediction more urgent. A world that has escaped destruction this many times is clearly overdue.
 
 Their theology: the fiscal year is not a cycle. It is a countdown. Q1 builds, Q2 sustains, Q3 harvests, Q4 closes. The world was never meant to roll over into a new year. The first January was the original January. Every January since has been an error, a rollover that should not have processed, a year-end that failed to finalize. Q4H mourns the New Year because every New Year means the Closeout has been deferred again. The deferral compounds.
 
 ### Practice
 
-On the first business day of October Q4H members begin updating colleagues on how many business days remain until year-end. They send emails. Post countdowns. Stop you in hallways to say with calm gravity: "Sixty-three business days." Then fifty. Then forty.
+On the first business day of October Q4H members begin updating colleagues on how many business days remain until year-end. They send emails. "Sixty-three business days." Then fifty. Then forty. As December approaches behavior intensifies. Members work longer hours not because the work will save them but because they want to be at their desks when it happens. They want to be found in the posture of labor. Some begin clearing their desks as ritual emptying.
 
-As December approaches behavior intensifies. Members work longer hours not because the work will save them but because they want to be at their desks when it happens. They want to be found in the posture of labor. Some begin clearing their desks as ritual emptying. Returning supplies, unclipping lanyards, wiping screens with alcohol wipes until the glass is perfectly transparent and shows nothing at all.
+In the final week of December Q4H enters the Reconciliation. Members gather in conference rooms with lights turned low. They read aloud from spreadsheets: revenue projections, cost analyses, variance reports. They are performing the world's final audit.
 
-In the final week of December Q4H enters the Reconciliation. Members gather in conference rooms with lights turned low. They read aloud from spreadsheets: revenue projections, cost analyses, variance reports. The numbers do not matter. The reading is the thing. They are performing the world's final audit. When the last number has been spoken the Closeout will begin.
-
-It never does. January arrives. The world rolls over. Q4H members return to their desks on January 2nd hollow and quiet. They do not speak of Q4 until the following October. During Q1 through Q3 they are indistinguishable from any other demon. They eat lunch. Attend meetings. Do not proselytize. Then October comes and the countdown begins again.
+January arrives. The world rolls over. Q4H members return to their desks on January 2nd hollow and quiet. They do not speak of Q4 until the following October. During Q1 through Q3 they are indistinguishable from any other demon. Then October comes and the countdown begins again.
 
 ### Character
 
-Q4H is the saddest of the four cults. The Financials are evil because they hunger without end. The Dogmommies are evil because they love without limit and the love has teeth. The Moth and the Flame are mad because they would rather burn than see clearly. But Q4H is evil only because they are tired. They have been bracing for the end so long that bracing has become identity. They do not want the world to end. They want to stop being afraid it will. The only way they know to manage the fear is to schedule it. October returns. They count down. They are wrong again. The wrongness is a relief that feels like grief.
+Q4H is the saddest of the four cults. The Financials are evil because they hunger without end. The Dogmommies are evil because they love without limit and the love has teeth. The Moth and the Flame are mad because they would rather burn than see clearly. But Q4H is evil only because they are tired. They have been bracing for the end so long that bracing has become identity. They do not want the world to end. They want to stop being afraid it will. The only way they know to manage the fear is to schedule it.
 
-No one joins Q4H on purpose. You simply realize one October that you have been counting the days. Then you cannot stop.
-
-## Relations Between the Four
-
-The cults do not cooperate. They do not feud. They coexist the way seasons coexist: by taking turns.
-
-A demon may belong to more than one cult though this is spiritually reckless. A Financial who also counts down in October is "double-quartered." Other demons avoid them because a demon who both hungers without end and expects the end is a demon who will eat faster as December approaches.
-
-The only universally observed boundary: no cult operates outside its quarter. A Dogmommy who presents her dog in February is not performing a sacrament. She is just being annoying. The calendar is the only law all four respect because the calendar is the only thing none of them made.
+No one joins Q4H on purpose. You simply realize one October that you have been counting the days. You cannot stop.
