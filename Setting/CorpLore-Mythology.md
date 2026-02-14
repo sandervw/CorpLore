@@ -1,6 +1,6 @@
 # CorpLore Mythology Overview
 
-High-level setting mythology framework. Full documents in `Setting/Mythology-Docs/`.
+High-level setting mythology framework. Full documents in `Setting/Mythology/`.
 
 ---
 
@@ -8,7 +8,7 @@ High-level setting mythology framework. Full documents in `Setting/Mythology-Doc
 
 | Element                  | Source / Status             | Summary                                                                                                                                                                                                                                                                                                                       |
 | ------------------------ | --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Cosmogony**            | Motivational Office Poster  | The Double-Senior Vice President of Infrastructure (DSVPI) spoke Words that partitioned the Undivided Room. Each poster is a sealed fragment of that First Utterance.                                                                                                                                                                                                        |
+| **Cosmogony**            | Motivational Office Poster  | The Double-Senior Vice President of Infrastructure (DSVPI) spoke Words that partitioned the Undivided Room. Each poster is a sealed fragment of that First Utterance.                                                                                                                                                         |
 | **Cosmology**            | Hotel Hallway Carpet        | Reality is a woven Textile on the Loom. Five layers: Face, Pile, Warp, Weft, Backing. Hotel carpet patterns are raw geometry showing through worn Weave.                                                                                                                                                                      |
 | **Theogony**             | Gas Station Lottery Display | Gods are stocked in a tiered Display, dispensed by Intermediaries, periodically expired and restocked by the Vendor. Prayer scratches away coating to reveal a pre-written answer.                                                                                                                                            |
 | **Anthropogeny**         | Gas Station Roller Grill    | Souls are placed on the Eternal Grill by the Keeper, turned under the Warming Light, drawn forth when ready. Individuality comes from the moment of removal.                                                                                                                                                                  |
@@ -31,7 +31,7 @@ High-level setting mythology framework. Full documents in `Setting/Mythology-Doc
 
 ## Cosmogony: The Motivational Office Poster
 
-*Full doc: `Mythology-Docs/cosmogony-motivational-poster.md`*
+*Full doc: `Mythology/cosmogony-motivational-poster.md`*
 
 The DSVPI spoke the world into being, one Word at a time. Each Word partitioned a portion of the Undivided Room into corridors, offices, and break rooms. The motivational poster is a sealed remnant: the landscape behind the glass is primordial terrain that was overwritten, and the Word beneath it (EXCELLENCE, PERSISTENCE, TEAMWORK) is the syllable that did the overwriting. The laminate keeps the still-active origin world from bleeding through.
 
@@ -41,7 +41,7 @@ The DSVPI spoke the world into being, one Word at a time. Each Word partitioned 
 
 ## Cosmology: The Hotel Carpet
 
-*Full doc: `Mythology-Docs/cosmology-hotel-carpet-patterns.md`*
+*Full doc: `Mythology/cosmology-hotel-carpet-patterns.md`*
 
 Reality is a single woven Textile on the Loom. Five layers: Face (visible surface), Pile (emotion, atmosphere), Warp (time), Weft (choice), Backing (unknown foundation). Where threads cross, Knots form: decision-moments shaping everything downstream. High-traffic areas thin the Weave. Hotel hallways, walked by thousands never walking home, are among the most Frayed places in the world. The carpet patterns are exposed Warp-and-Weft geometry, converged upon by manufacturers through blind trial and error.
 
@@ -51,7 +51,7 @@ Reality is a single woven Textile on the Loom. Five layers: Face (visible surfac
 
 ## Theogony: Gas Station Lottery Tickets
 
-*Full doc: `Mythology-Docs/theogony-lottery-display.md`*
+*Full doc: `Mythology/theogony-lottery-display.md`*
 
 Gods are not born. They are stocked. A cosmic Display holds them in tiers by cost. Low gods grant small fortunes for small sacrifice. High gods offer total transformation at steep risk. An Intermediary always stands between supplicant and Display. Bypassing the Intermediary ("Self-Serving") is the one unforgivable heresy. Every god's answer is pre-written beneath its face. Prayer only scratches the coating away. The central terror: gods expire. The Vendor arrives, pulls the old gods, slots in new ones. No war in heaven. Just seasonal restocking.
 
@@ -61,7 +61,7 @@ Gods are not born. They are stocked. A cosmic Display holds them in tiers by cos
 
 ## Anthropogeny: The Gas Station Roller Grill
 
-*Full doc: `Mythology-Docs/anthropogeny-roller-grill.md`*
+*Full doc: `Mythology/anthropogeny-roller-grill.md`*
 
 Before anything existed, the Eternal Grill stood at the crossroads of Nothing and Everything. The Keeper places raw souls on the Rollers, where they turn under the Warming Light until ready. No soul is shaped by hand or chosen for favor. All are processed equally by the same impersonal mechanism. Individuality comes from the moment of removal, not the process. The gas station roller grill is a shadow of the First Grill, placed as reminder.
 
@@ -71,7 +71,7 @@ Before anything existed, the Eternal Grill stood at the crossroads of Nothing an
 
 ## Death/Afterlife: The Minecraft Forever World
 
-*Full doc: `Mythology-Docs/Afterlife-Minecraft-Forever-World.md`*
+*Full doc: `Mythology/Afterlife-Minecraft-Forever-World.md`*
 
 Life is the away-state. At birth a unique seed generates a raw Minecraft world that the demon builds into nightly through ritual play sessions. One block minimum per night, no exceptions. Life is remote access. Every block is placed blind, through faith and routine. Death is return: the demon sits back down at the keyboard and the world finally renders in full. Gaps in the nightly streak leave cold spots where nothing renders. The Story of the First Builder warns of a demon who built nothing and returned to a black screen: infinite nothing, because nothing is what they had built.
 
@@ -81,7 +81,7 @@ Life is the away-state. At birth a unique seed generates a raw Minecraft world t
 
 ## Creature Taxonomies: Mythic Beings
 
-*Full doc: `Mythology-Docs/mythic-beings-taxonomy.md`*
+*Full doc: `Mythology/mythic-beings-taxonomy.md`*
 
 Six categories inhabit the setting:
 
@@ -96,7 +96,7 @@ Six categories inhabit the setting:
 
 ## Magic Systems: Words of Mighty Danger
 
-*Full doc: `Mythology-Docs/Magic-Words-of-Mighty-Danger.md`*
+*Full doc: `Mythology/Magic-Words-of-Mighty-Danger.md`*
 
 Three traditions, each bound to its own domain and focus object:
 

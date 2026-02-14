@@ -31,9 +31,10 @@ Authentication uses the `ANTHROPIC_API_KEY` environment variable (default SDK be
 Setting documents are organized hierarchically:
 
 - **Setting/CorpLore.md** -- Setting overview for the CorpLore project. A 400-word summary of the info scattered throughout the repository.
+- **Setting/CorpLore-Folklore.md** -- Random tidbits of setting folklore. A good source when asked to generate story ideas.
 - **Setting/CorpLore-Ideas.md** -- Running scratchpad / todo list for rough ideas and notes. Items here are temporary: they get incorporated into the setting or discarded, then deleted from this doc.
 - **Setting/CorpLore-Mythology.md** -- The main setting summary. Maps real-world objects to classical myth categories and contains short synopses of each defined element.
-- **Setting/Folklore/** -- Random pieces of generated folklore that has been confirmed as part of the setting. Useful as a reference for story/scene ideas.
+- **Setting/Folklore/** -- Detailed documents for random pieces of generated folklore that has been confirmed as part of the setting. Only reference this is requested by the user.
 - **Setting/Mythology/** -- Deep-dive expansions of individual mythology elements (cosmogony, cosmology, theogony, anthropogeny, magic systems, etc.). Most docs include a belief system, ritual practices, folk explanations, and expansion paths.
 - **Setting/Potential-Folklore/** -- Holding pen for generated folklore pieces the user hasn't decided how to use yet. Not yet incorporated into the setting framework.
 - **Stories/** -- Narrative concepts and scene outlines
