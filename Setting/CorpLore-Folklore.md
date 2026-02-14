@@ -27,3 +27,8 @@ Before sleeping, turn any artwork to face the wall or drape a towel over it. Thi
 
 **Concierge Bell:**
 Ring the concierge bell once before speaking to anyone when checking in. Ring even if the clerk is already present. This first ring introduces you to the bell's blankness. It ensures that whatever the last guest left behind is not passed to you. Bad luck, foul mood, or quarrel are cleared by the ring.
+
+## Beliefs
+
+**Elevators:**
+The music inside of elevators disconnects them from time. When doors close, the interior is cut from the world's flow. No moment passes until doors reopen.
