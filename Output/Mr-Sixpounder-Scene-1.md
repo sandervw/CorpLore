@@ -126,6 +126,10 @@ The visual threat (Tuple) is harmless. The audible threat (revenant) is real. Te
 
 **The Tuple** -- Exact physical copy of the new employee, made of textile. Carpet pattern shows through its legs. Smells like new carpet. Breathes wrong -- too even, too shallow. After Sixpounder walks through it, it goes still in a way Tuples are not supposed to. Confused by nature, not malicious. Something changed in it during this scene.
 
+### Scene Summary
+
+Hindemith, the hotel's chief caretaker, is running his 3 AM towel delivery to Mr. Sixpounder -- a decomposing revenant warrior who patrols the Eastmark Stairwells nightly. A new employee stumbles onto the patrol route and panics after encountering both a Tuple (his own doppelganger, risen from the Frayed carpet) and the approaching revenant. Hindemith arrives, sends the boy downstairs with a towel, and manages Sixpounder's pass-through with practiced calm. The routine holds. But Sixpounder was early, and when the revenant walked through the Tuple, the Tuple went unnaturally still -- something Hindemith has never seen before. He notes it and returns to work. The scene establishes Hindemith's competence, the hotel's domesticated horror, and the Tuple as a recurring element.
+
 ### Questions Posed (for future scenes)
 
 - Why did the Tuple go still after Sixpounder walked through it? What did the revenant imprint on it?
