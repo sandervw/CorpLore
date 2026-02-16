@@ -6,7 +6,7 @@ This is a revision pass. Read back through the **entire working document** — s
 
 ### 1. Pre-Scene Alignment
 
-Does the scene reflect the pre-scene work done in Step 1? Check the prose against the stated purpose (audience and story), the character goals, the location details, and any crosscut or counterpoint decisions. If the scene has drifted from its original intent, determine whether the drift is an improvement or a loss — and edit accordingly.
+Does the scene reflect the pre-scene work done in Step 1? Check the prose against the stated purpose (audience and story), the character goals, the location details, and any crosscut or counterpoint decisions. If the user provided **scene priorities**, does the scene accurately reflect these. If the scene has drifted from its original intent, determine whether the drift is an improvement or a loss — and edit accordingly. 
 
 ### 2. Question Coverage Audit
 

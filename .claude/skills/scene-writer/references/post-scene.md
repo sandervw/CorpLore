@@ -15,8 +15,6 @@ For each character who was introduced or meaningfully referenced in the scene, w
 - **Physical**: What they look like — distinctive features, build, dress, mannerisms.
 - **Personality**: How they behave — temperament, speech patterns, disposition, any shifts revealed in this scene.
 
-These descriptions should be self-contained — someone reading only the post-scene material should be able to picture and understand each character.
-
 ## Output
 
 Fill in the **Scene Summary** and **Characters Introduced or Referenced** subsections in the working document's Post-Scene section. The full Post-Scene section (including the already-completed Questions Posed and Reflection subsections) will then be transferred to the final scene file in the next step.

@@ -58,20 +58,20 @@
 
 ## Post-Scene
 
-### Scene Summary (created during post-scene step)
+### Scene Summary (created during Step 11)
 
 [Text]
 
-### Questions Posed (created after resolution)
+### Questions Posed (created during Step 8)
 
 - [Unresolved thread or tension that carries forward]
 - [...]
 
-### Characters Introduced or Referenced (created during post-scene step)
+### Characters Introduced or Referenced (created during Step 11)
 
 **[Character Name]** — [Physical/Personality Description]
 
-### Reflection (created during review)
+### Reflection (created during Step 9)
 
 **What worked:** [Text]
 

@@ -4,7 +4,7 @@
 
 [Complete scene prose — setup, conflict, and resolution combined as continuous text. Do not include phase subheaders.]
 
-## Post-Scene Analysis
+## Post-Scene Analysis (Appended in Step 12)
 
 ### Scene Summary
 

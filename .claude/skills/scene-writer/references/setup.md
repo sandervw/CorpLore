@@ -1,6 +1,6 @@
 # Setup
 
-This is the opening phase of the scene. You are writing only the **setup** — the first act of the scene that establishes the situation before the central conflict takes hold.
+This is the opening phase of the scene. You are writing only the **setup** — the first act of the scene that establishes the situation before the central conflict takes hold. If the user provided **scene priorities**, keep these in mind as you write.
 
 ## Texture Budget
 
@@ -10,11 +10,11 @@ Draw on **only 1–2 textures** from your working document's inventory. The setu
 
 Use the following questions to shape your setup. You do not need to answer "yes" to every one — they are priorities to weigh, not a checklist to complete. Let the scene's needs dictate which matter most.
 
-1. **False expectations**: Does the setup create tense or hopeful expectations for the outcome — expectations that are likely to be subverted?
-2. **Active setting**: Does the setting force the characters to be active rather than passive? Is the environment itself pressuring or intimidating in some way?
+1. **False expectations**: Does the setup create tense/hopeful (and usually false) expectations for the outcome?
+2. **Active setting**: Does the scene establish a setting that forces the characters to be *active*; is the setting intimidating?
 3. **Non-plot complication**: Is there at least one element unrelated to the main plot that complicates the scene throughout — a secondary friction, a mundane problem, an environmental nuisance?
 4. **Ticking clock**: Does the scene carry a sense of subconscious anticipation or an actual time constraint? Something that makes the reader feel the window is closing?
-5. **Environmental subtext**: Does the weather or physical environment project subtext or mirror character emotion — without being heavy-handed about it?
+5. **Environmental subtext**: Does the weather or physical environment project subtext or mirror character emotion — without being heavy-handed?
 
 ## Wordcount Constraint
 
