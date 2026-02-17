@@ -1,118 +1,125 @@
-# Mr. Sixpounder -- Scene 1 Working Doc
+# Mr. Sixpounder: Scene 1 Working Doc
 
-## Purpose
+## Pre-Scene Work
 
-**Audience:** First handshake with the world. Teaches what Hotel Stackz is, who Hindemith is, and that the horror here is domesticated but real. The new employee is the reader's proxy; Hindemith's calm competence is the answer.
+### Purpose
 
-**Story:** Establishes the status quo that Scenes 2-6 dismantle. Sixpounder is manageable. Hindemith has a system. The hotel runs on routine and denial. Plants the Tuple as a recurring thread. Sets the comedic register: dark and strange, not grim.
+**Audience:** Meet the world through a terrified newcomer's eyes; feel the strangeness of Hotel Stackz, laugh at the absurdity, wonder what Sixpounder really is.
 
-## Textures
+**Story:** Establishes Hindemith as competent caretaker, introduces the revenant's patrol routine, plants the Tuple as recurring nuisance, sets the comedic-horror tone.
 
-(All used)
+### Textures
 
-## Characters
+1. ~~Frayed carpet with raw geometric patterns bleeding through worn weave~~ USED
+2. ~~Tuple rising from carpet - translucent, slightly wrong copy, half-second delay in movements~~ USED
+3. ~~Sixpounder's decomposition~~ USED
+4. ~~3 AM fluorescent buzz in the stairwell~~ USED
+5. ~~New employee's still-creased uniform, crooked name tag~~ USED
+6. ~~Hindemith's overstuffed contact book held shut with a rubber band~~ USED
+7. ~~Sixpounder's wet rhythmic footfall on carpet~~ USED
+8. ~~Brass railing polished only where Sixpounder's hand drags nightly~~ USED
+9. ~~Dropped flashlight rolling down stairs, beam spinning~~ USED
+10. ~~Ambient hotel hum - ice machines, elevator cables~~ USED
+11. ~~Old hallway smell - cleaning chemicals over decades of trapped air~~ USED
+12. ~~Hindemith's practiced, measured voice~~ USED
 
-- **Mr. Hindemith** -- POV. Chief caretaker, Conciergerie warlock. Calm, practiced, fond of his routines.
-- **Mr. Sixpounder** -- The revenant on patrol. Not a villain; part of the furniture.
-- **New Employee** -- Audience surrogate. Panics. Exits quickly.
-- **The Tuple** -- Doppelganger of the new employee, risen from Frayed carpet. Doubles the panic; funnier that way.
+### Characters
 
-## Location
+1. **Hindemith:** Mid-shift, fatigued but composed. Wants to defuse the situation and keep the routine intact.
+2. **Sixpounder:** On 3 AM patrol, docile, following the pattern. No conscious wants.
+3. **New Employee:** First night, nervous, unprepared. Wants to survive and understand.
+4. **The Tuple:** Rises from Frayed carpet. Not sentient - a weave-hiccup that mimics.
 
-**Eastmark Stairwells** -- High up near Room 30,713. Deeply Frayed: no Pile, hard slick carpet, raw Weave geometry showing through. Stairwells climb in tangled clusters with landings connecting hallways at odd intervals. Fluorescent, under-maintained, staff-only space. The Fraying is why the Tuple can emerge here.
+### Location
 
-## Crosscut
+Eastmark Stairwells, 3 AM. Interconnected stairs climbing high into Hotel Stackz. Deeply Frayed carpet from decades of revenant patrol. Fluorescent lighting, brass railings. Sounds carry strangely - echoes from three floors up, or no echo at all.
 
-Two 3 AM threads: Hindemith doing the towel delivery (routine) and the new employee encountering the Tuple then Sixpounder (panic). They converge when Hindemith arrives to find the situation in progress.
+### Crosscut (Optional)
 
-## Image-Sound Counterpoint
+N/A
 
-**Image:** The Tuple standing motionless, carpet pattern visible through its legs. Silent. Uncanny.
-**Sound:** Sixpounder's drag-step approaching from two floors up. Rhythmic, unhurried, mechanical.
+### Image-Sound Counterpoint (Optional)
 
-The visual threat (Tuple) is harmless. The audible threat (revenant) is real. Teaches the audience to distrust their instincts about what's dangerous here.
+Sixpounder's wet footsteps arrive before the visual. Hindemith's bored, calm voice against the horror he's explaining.
 
 ---
 
 ## Draft
 
-### Setup (~237 words)
+### Setup
 
-The carpet on the Eastmark Stairwells had no Pile left. Hindemith could feel the Weave through his shoes -- hard, slick, the geometric skeleton of reality printed bare where ten thousand footsteps had worn the Face clean off. The fluorescents buzzed at a pitch that changed between landings, as if each flight of stairs ran on a different circuit. Nobody came up here. That was the point.
+The carpet on the landing of the 307th floor had been walked thin decades before anyone working tonight was born. Where the weave gave out, raw geometry showed through - repeating chevrons and impossible tessellations that had nothing to do with any decorator's intention. The patterns belonged to the Backing, the lowest layer of the Textile, and they pulsed faintly in the fluorescent light like something breathing under a sheet.
 
-He was running late on the towels.
+It was from this bare patch that the Tuple rose.
 
-Three AM was not a suggestion. Three AM was the number stitched into the routine that kept a decomposing revenant warrior from remembering what it was. Hindemith had the cart, had the towels folded in hotel thirds -- still warm, though no one had heated them -- and had exactly the amount of time it would take to walk the last two flights before the drag-step patrol rounded the corner above.
+It came up slowly, the way water climbs a napkin. One moment the worn carpet lay flat; the next, a shape stood on it - translucent, vaguely female, wearing what looked like a housekeeper's uniform. It turned its head a half-second after the original motion, as though receiving instructions on delay. Its face was almost right. The nose was where a nose should be. The mouth moved, but the words it produced were a low, meaningless hum, like a phone left on speaker in an empty room.
 
-Then the new kid screamed.
+Darva, the new girl, was standing six steps below on the Eastmark Stairwell when she saw it. She had been on shift for four hours. Her uniform was still creased from the packaging, and her name tag read DARVA - TRAINEE, slightly crooked where she'd pinned it without a mirror.
 
-It came from one landing up, where the carpet was thinnest. Hindemith took the stairs two at a time and found the boy backed against the handrail -- brass rubbed bright at one specific height, not his -- staring at himself.
+She watched the Tuple sway in place, humming at nothing.
 
-The Tuple stood in the middle of the landing. It looked exactly like the new employee, down to the lanyard still smelling of its plastic sleeve. But the carpet pattern showed through its feet, printed on its legs like cloth seen through cloth, and it smelled like new carpet in a building that hadn't been new in decades.
+She had not yet learned to ignore these things. She had not yet learned there were worse things on this stairwell to worry about. She was about to.
 
-It blinked at the boy. The boy stared back. Neither moved.
+### Conflict
 
-From two floors up: the drag. The settle. The rhythmic pull of something heavy crossing seams.
+The sound came first. A wet, measured slap against carpet, steady as a metronome, rising from somewhere above. It was the sound of someone walking in soaked dress shoes, and it had been keeping time on this stairwell since before the hotel switched to electronic key cards.
 
-Sixpounder was early.
+Darva looked up. The fluorescent tube on the next landing buzzed and stuttered, and in that strobe-flash interruption she saw him.
 
-### Conflict (~430 words)
+Mr. Sixpounder came around the turn of the stairwell with the unhurried certainty of a man who has walked the same route ten thousand times and expects to walk it ten thousand more. His suit had been fine once. Now it hung from a frame that had lost the argument with gravity years ago - one shoulder riding higher than the other where a tendon had dried taut, his jaw slightly unhinged on the left side, giving him the look of someone perpetually about to say something reasonable. The smell preceded him: old hotel hallway, cleaning chemicals layered over decades of trapped air, and underneath that, something older and sweeter that the cleaning chemicals had long since stopped pretending to cover.
 
-"Don't run," Hindemith said. He said it to the boy, but he was watching the Tuple. It had the kid's face, the kid's posture, even the slight hunch from carrying trays too heavy for someone on their second week. It stood there breathing wrong -- too even, too shallow, like carpet fibers rising and falling in an air current.
+His right hand dragged along the brass railing as he descended. The metal there had been polished to a bright streak by years of this exact contact, while the rest of the banister had greened with neglect.
 
-"That's me," the boy said. "That's -- that's *me*."
+Darva screamed and dropped her flashlight. It hit the stair edge, bounced, and began a long tumbling descent, its beam swinging wild arcs across the walls - illuminating the Tuple (still swaying), the revenant (still walking), and the geometric bleed of the carpet in strobing flashes that made the whole stairwell look like it was coming apart at the seams.
 
-"It's a Tuple. Carpet fold. Ignore it."
+Sixpounder did not react to the scream. He did not react to the light. He walked past Darva the way a river goes around a stone, close enough that she could hear the faint ambient machinery of the hotel - ice machines, elevator cables, the whole building humming through his body as though he were part of its infrastructure. He turned at the next landing and continued down.
 
-"It has my *face*."
+Darva pressed herself against the wall, breathing in short, high sounds.
 
-"And it's confused and mostly harmless. The thing coming down those stairs is not." Hindemith grabbed a towel from the cart and pushed it into the boy's hands. "Hold this. Go to the landing below. Wait there. Do not leave the stairwell, do not go up, do not talk to the Tuple if it follows you."
+This was the scene Mr. Hindemith arrived to: a new hire hyperventilating on the Eastmark Stairwell, a flashlight spinning itself to death four floors below, a Tuple humming on the landing above, and the fading wet footsteps of Room 30,713's permanent guest continuing his nightly rounds right on schedule.
 
-The boy looked at the towel like he'd been handed a grenade.
+"Ah," said Hindemith, from the doorway to the 306th floor corridor. He was holding two towels and regarding the scene with the expression of a man who has seen this exact situation before, possibly last Tuesday. "You've met Mr. Sixpounder."
 
-"It's a towel," Hindemith said. "Move."
+### Resolution
 
-The kid moved. The Tuple watched him go, then turned to Hindemith with the boy's exact expression of bewildered panic printed on a face made of textile. Up close, the silence of the upper floors pressed in -- no ice machine, no elevator chime, nothing but the vents breathing through the walls and the drag-step getting closer.
+Hindemith spoke the way a hotel phone gives you the checkout time: measured, practiced, as though the information had been delivered so many times it had worn its own groove. He explained that Mr. Sixpounder was a long-term guest. That his patrol was scheduled. That the towels were for 3 AM, as they always were, and that Darva had simply been in the right stairwell at the right time.
 
-Hindemith parked the cart at the top of the landing and waited.
+"Is he-" Darva started.
 
-Sixpounder came around the corner the way he always did: one shoulder against the wall, dragging the right leg, the rusted plate armor catching on every door frame he passed. His jaw clicked -- dry-rot settling, not chewing -- and his head was fixed forward in the empty stare of something running a patrol it had run ten thousand times. He did not see Hindemith. He never did, during the walk. He saw the route.
+"A valued guest," Hindemith said. He tucked one towel under his arm and pulled his contact book from his coat - leather, swollen with loose pages, held shut by a rubber band that had seen better centuries. He flipped it open, checked something, and closed it again. "You'll get used to him. Everyone does."
 
-Hindemith stepped aside. The revenant passed within arm's reach, trailing the smell of old iron and something sweeter underneath, and Hindemith set two towels on the cart's edge where the patrol route would carry Sixpounder past them on the return loop. A ritual. Not magic -- just the way it was done. The way it had been done every night for longer than the boy downstairs had been alive.
+Above them, the Tuple hummed on. Hindemith glanced up at it, then back at Darva, as though deciding which problem to address first. He chose neither.
 
-The Tuple, still standing in the middle of the landing, did not step aside.
+"That'll sort itself out by morning," he said. "They always do."
 
-Sixpounder walked through it.
+Darva looked at the bare patch of carpet where it stood, then at the polished streak on the railing, then at Mr. Hindemith, who was already walking toward the stairwell with the towels, descending in the same direction the dead man had gone.
 
-Not around, not over. Through. The Tuple shivered, its printed pattern rippling like cloth hit by a wave, and then it was two feet to the left, blinking, rearranged, the kid's face now wearing an expression no employee of Hotel Stackz had ever worn: absolute stillness. Acceptance. It stood where the revenant had pushed it and did not move again.
-
-Hindemith let out a breath he hadn't measured.
-
-### Resolution (~160 words)
-
-He found the boy one landing down, holding the towel in both hands like something precious. The Tuple had not followed. Small mercy.
-
-"What *is* that thing?" the boy whispered. "The -- the armored one."
-
-"Mr. Sixpounder. Room 30,713. Permanent guest." Hindemith took the towel back, refolded it in thirds, set it on the cart. "He patrols at three. You were on his route."
-
-"He's a *guest*?"
-
-"He tips," Hindemith said. "Go home. Don't take this stairwell again."
-
-The boy left. Hindemith stood in the quiet and listened to the drag-step fading two floors above, steady again, back on schedule. The routine had held. It always held.
-
-He thought about the Tuple's face after Sixpounder walked through it. That stillness. He had never seen a Tuple go still before. They panicked, wandered, unraveled. They did not stand in place and accept.
-
-Something to watch.
-
-He wheeled the cart back up to finish the delivery.
+She followed him. She did not know why.
 
 ---
 
-## Questions Posed (for future scenes)
+## Post-Scene
 
-- Why did the Tuple go still after Sixpounder walked through it? Tuples normally panic and unravel -- what did the revenant imprint on it?
-- Sixpounder was early. Is the routine starting to slip, or was this a one-off?
-- The boy now knows about Sixpounder. Will he keep quiet, or does word spread among staff?
-- The Tuple is still up there on the landing. What happens to a Tuple that stops moving?
+### Scene Summary (created during Step 11)
+
+[Text]
+
+### Questions Posed (created during Step 8)
+
+- What is the Tuple, and will it follow them? (It recurs as a minor nuisance throughout the story.)
+- What does Hindemith check in his contact book? What's written there about Sixpounder?
+- Why does Darva follow Hindemith? What is it about the routine that draws people in?
+- The revenant's patrol is "right on schedule" - but what happens when the schedule breaks?
+- Hindemith delivers the 3 AM towels himself. The relationship between caretaker and revenant is more personal than professional.
+
+### Characters Introduced or Referenced (created during Step 11)
+
+**[Character Name]** — [Physical/Personality Description]
+
+### Reflection (created during Step 9)
+
+**What worked:** The sound-before-visual approach to Sixpounder's entrance. The Tuple as a false-alarm opener that makes the real threat land harder. Hindemith's "You've met Mr. Sixpounder" as a tonal pivot from horror to dark comedy. The brass railing detail (polished only where Sixpounder's hand drags) does a lot of worldbuilding in one image. Darva following Hindemith at the end - unexplained, instinctive, carries forward.
+
+**What was cut in review:** Nothing cut. Added Hindemith's dismissal of the Tuple and his "possibly last Tuesday" expression to strengthen the humor priority.
+
+**What's missing:** Darva's interiority is thin by design (she's a lens, not the protagonist), but Scene 2 could develop her more. The Conciergerie is name-dropped only through Hindemith's contact book - no explicit mention yet. The towel ritual (why towels? what does Sixpounder do with them?) is left entirely to the reader's imagination, which is intentional but could frustrate if not paid off soon.
