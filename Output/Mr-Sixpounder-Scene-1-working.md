@@ -1,6 +1,51 @@
-# Mr. Sixpounder: Scene 1
+# Mr. Sixpounder: Scene 1 Working Doc
 
-## Full Scene
+## Pre-Scene Work
+
+### Purpose
+
+**Audience:** First contact with the world through controlled panic. Feel the strangeness, then the comfort of a system that accommodates it. Humor from the gap between what Sixpounder is and how he's managed.
+
+**Story:** Establishes Hindemith as competent and exhausted. Establishes Sixpounder as dangerous but domesticated. Introduces the Tuple. Sets baseline normalcy for later destabilization.
+
+### Textures
+
+~~1. Carpet fibers woven into Sixpounder's shins, catching stairwell light~~ *(used in resolution)*
+~~2. Right knee's double-click -- stuck door latch sound~~ *(used in conflict)*
+~~3. Cutlery fingers scraping banister, bright scratches in old lacquer~~ *(used in conflict)*
+~~4. Smell of towel detergent and old pennies preceding him around corners~~ *(used in conflict)*
+~~5. The Tuple: translucent copy of the new employee, rising from frayed carpet like steam~~ *(used in setup)*
+~~6. Hindemith's tremoring eyelid, well past midnight~~ *(used in conflict)*
+~~7. Charcoal suit with mismatched seam-thread under fluorescent light~~ *(used in conflict)*
+~~8. New employee's lanyard still in plastic sleeve, uncracked~~ *(used in conflict)*
+~~9. Fused chestplate-ribcage creaking -- neither metal nor bone~~ *(used in resolution)*
+~~10. Eastmark Stairwells: narrow, over-lit, carpet worn to geometric backing patterns~~ *(used in setup)*
+~~11. 3 AM towel cart at the landing, towels folded with ritual precision~~ *(used in resolution)*
+
+### Characters
+
+1. **Hindemith:** End of long shift, favoring bad knee, maintenance-mode. Wants quiet resolution.
+2. **Sixpounder:** Mid-patrol, mechanical, routine. Wants to complete the route. Content.
+3. **New Employee:** First night. Terrified. Wants explanation. Wants to survive.
+4. **The Tuple:** Byproduct of frayed Weave. No wants. Doppelganger of new employee.
+
+### Location
+
+Eastmark Stairwells: narrow vertical staircase cluster in Hotel Stackz. Over-lit fluorescents. Ancient carpet worn to geometric Weave-backing in patches. Dark wood banisters scratched bright at hip-height. Towel cart at third-floor landing. Air warm, stale, detergent-and-copper.
+
+### Crosscut (Optional)
+
+N/A
+
+### Image-Sound Counterpoint (Optional)
+
+Visually horrifying revenant against mundane soundscape: fluorescent hum, towel cart wheel, measured footsteps. The mismatch sells normalization.
+
+---
+
+## Draft
+
+### Setup
 
 The carpet on the seventeenth landing of the Eastmark Stairwells had worn through to the backing three decades ago. Where the pile had been -- where color and softness once pretended at hospitality -- raw geometric patterns now showed through, the Weave's own grain exposed like bone through skin. Fluorescents hummed above. The air was warm and close and smelled of nothing that belonged to the living.
 
@@ -11,6 +56,8 @@ The real Dariusz -- new hire, first night, lanyard still factory-sealed in its p
 The Tuple steadied itself against the banister with fingers that didn't quite reach. Then it walked to the towel cart parked at the landing -- the real one, the one that had been waiting there since midnight -- and began refolding the towels incorrectly.
 
 Two floors below, climbing, the real Dariusz heard the double-click of a knee joint that was not his own. Something above him. Something descending.
+
+### Conflict
 
 They met on the sixteenth landing.
 
@@ -50,6 +97,8 @@ The double-click of the knee joint was closer now. Rhythmic. Patient.
 
 Dariusz stood. His legs didn't want to, but Hindemith's tone had the quality of a building code -- it did not invite compliance so much as assume it.
 
+### Resolution
+
 Mr. Sixpounder arrived at the third-floor landing the way weather arrives -- not suddenly, but inevitably, and only noticed when it was already there.
 
 Up close, the carpet fibers woven into both shins caught the fluorescent light like stitching in old upholstery. His chestplate -- fused to the ribcage along its lower edge -- creaked as he turned toward the cart, a sound that was neither metal nor bone but something maintenance had long ago decided was not their problem.
@@ -64,30 +113,26 @@ Dariusz watched this happen.
 
 Behind them, the Tuple was still refolding towels. It would be doing this for some time.
 
-## Post-Scene Analysis (Appended in Step 12)
+---
 
-### Scene Summary
+## Post-Scene
 
-A Tuple -- a doppelganger born from frayed hotel carpet -- rises in the Eastmark Stairwells and begins incorrectly refolding towels on the 3 AM delivery cart. The real new employee, Dariusz, encounters Mr. Sixpounder mid-patrol and panics. Mr. Hindemith arrives, talks Dariusz down with procedural calm, and instructs him to complete the towel delivery. Sixpounder arrives, takes a towel without incident, and continues his route. Dariusz learns the first rule of Hotel Stackz: the revenant is a permanent guest, the routine is sacred, and the Tuple is apparently his problem now. The system holds. Hindemith walks away favoring his bad knee.
+### Scene Summary (created during Step 11)
 
-### Questions Posed
+[Text]
+
+### Questions Posed (created during Step 8)
 
 - What is the Tuple, and what does it mean that it's "yours, unfortunately"?
 - What is Sixpounder's actual history? Why is he here?
 - What happens when the routine breaks -- when the towels don't come, or the wrong person is on the route?
 - Hindemith's practiced calm suggests this system has failed before. What happened last time?
 
-### Characters Introduced or Referenced
+### Characters Introduced or Referenced (created during Step 11)
 
-**Mr. Hindemith:** Gaunt, angular, charcoal suit with mismatched seam-thread from decades of re-stitching. Tremoring left eyelid past midnight, weight shifted off a bad left knee. Voice is flat, procedural, never comforting -- delivers information like structural assessments. Treats supernatural crises as maintenance problems. His competence is total but visibly costly.
+**[Character Name]** — [Physical/Personality Description]
 
-**Mr. Sixpounder:** Decomposing revenant warrior. Left knee locked, right knee double-bends. Three original fingers plus cutlery replacements on the sword-hand. Chestplate fused to ribcage. Carpet fibers woven into both shins from decades of the same patrol. Smells of towel detergent and old pennies. Mechanical, routine-driven, neither hostile nor friendly -- operates like infrastructure.
-
-**Dariusz:** New hire, first night. Lanyard still factory-sealed. No distinguishing physical features yet -- defined entirely by his terror and his willingness to eventually stand up when told to. A blank slate being written on by Hotel Stackz.
-
-**The Tuple:** Translucent doppelganger of Dariusz, risen from frayed carpet. Wears his face slightly too high on its head. Blinks wrong. Refolds towels incorrectly. A byproduct of worn Weave, apparently permanent, apparently Dariusz's problem.
-
-### Reflection
+### Reflection (created during Step 9)
 
 **What worked:** Hindemith's voice -- dry, procedural, never comforting. The "He *receives*" distinction sells the entire character in one line. The Tuple as comic background radiation (refolding towels incorrectly) gives the world texture without stealing focus. The vending machine simile in the resolution lands the tone perfectly.
 

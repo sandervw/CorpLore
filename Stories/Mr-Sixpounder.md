@@ -1,4 +1,5 @@
 # Mr. Sixpounder
+
 ## Story Idea
 
 For years Mr. Hindemith; chief caretaker of Hotel Stackz; member of The Conciergerie, the warlock caretakers of all hotels, who truck deal in pacts and demons; for years Mr. Hindemith has maintained a quiet arrangement with "Mr. Sixpounder". Mr. Sixpounder is the decomposing revenant warrior in Room 30,713 - a permanent guest no one can evict, kept docile through strict routine: 3 AM towels, monthly mattress replacement, a patrol route along the ridges of the Eastmark Stairwells, which the staff pretend is security.
@@ -8,6 +9,17 @@ When a week brings multiple guests who trigger the revenant's broken recognition
 Mr. Hindemith must choose between revealing the truth (saving the descendants but condemning the revenant to purposeless eternity) or maintaining the fiction that keeps both the revenant and the hotel functioning - knowing that the routine they've built together, this strange companionship with something that should horrify them, is the only thing holding any of it together.
 
 ---
+
+## Characters
+
+**Mr. Hindemith:**
+Gaunt, angular, and immaculately vertical. His face has the architecture of a building whose decorative facade has long since fallen away, leaving only load-bearing cheekbones and deep-set eyes that inventory a room the way a structural engineer inventories cracks. His suit, charcoal and perpetually pressed, has been re-stitched so many times the seams are a slightly different shade than the fabric. His posture suggests a man who decided to stand correctly forty years ago and never revisited the decision. Up close, the cracks show: a tremor in one eyelid that worsens past midnight, a jaw held so tight the tendons are visible, and weight shifted to favor one knee that hasn't been right in years.
+
+**Mr. Sixpounder:**
+The left knee no longer bends. The right bends twice. Three of the original fingers remain on the sword-hand; the others have been replaced at various points by what appears to be cutlery. The chestplate, once ceremonial, has fused to the ribcage along its lower edge, creating a single structure that is neither armor nor skeleton but a third thing that maintenance has learned not to think about. Carpet fibers from the Eastmark Stairwells have woven themselves into both shins from decades of the same patrol route. He smells of towel detergent and old pennies.
+
+---
+
 ## Scenes
 
 **Scene 1:**
