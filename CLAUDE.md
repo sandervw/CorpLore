@@ -40,7 +40,7 @@ Setting documents are organized hierarchically:
 - **Stories/** -- Narrative concepts and scene outlines
 - **Output/** -- Default destination for files generated via skills and agents (unless the user specifies otherwise)
 
-**IMPORTANT:** after creating a new document, ask the user if they want you to run a text-trimmer subagent on the result document.
+**IMPORTANT:** after creating a new document, ask the user if they want you to run a text-trimmer or draft-editor subagent on the result document.
 
 ## Code Conventions
 
