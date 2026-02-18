@@ -90,11 +90,19 @@ Read `references/post-scene.md`.
 
 Follow the reference file's instructions to generate post-scene material — filling in the **Scene Summary** and **Characters Introduced or Referenced** subsections.
 
-### Step 12: Append Post-Scene & Present
+### Step 12: Write Post-Scene Summary
 
-Append the full **Post-Scene** section (now complete — Scene Summary, Questions Posed, Characters, and Reflection) to your `[Storyname]-Scene-[X].md` file.
+Copy the `assets/post-scene-summary.md` template to a new file named `[Storyname]-Scene-[X]-Summary.md`.
 
-Present the finished file to the user.
+Write the full post-scene material (Scene Summary, Questions Posed, Characters, and Reflection) into this file.
+
+### Step 13: Clean Up & Present
+
+Delete the working document created in Step 2.
+
+Present both finished files to the user:
+- `[Storyname]-Scene-[X].md` — the scene prose
+- `[Storyname]-Scene-[X]-Summary.md` — the post-scene summary
 
 ## File Structure
 
@@ -110,5 +118,6 @@ scene-writer/
 │   └── post-scene.md
 └── assets/
     ├── working-doc.md
-    └── scene-template.md
+    ├── scene-template.md
+    └── post-scene-summary.md
 ```

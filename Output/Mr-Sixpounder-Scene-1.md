@@ -2,106 +2,80 @@
 
 ## Full Scene
 
-The carpet on the landing of the thirty-thousand-seventh floor had been threatening to do something for weeks. Hindemith had noted the fraying in his maintenance log -- a patch near the fourth switchback of the Eastmark Stairwells where the pile had gone thin as gauze, the Weave showing through in raw geometric patterns that hurt the eyes if you looked too long. He'd requisitioned a replacement. The requisition had been denied. He'd requisitioned again. Denied again. Now, at twelve minutes past three in the morning, the carpet was doing something.
+The Tuple rose from the carpet at 2:47 AM, thirteen minutes before Mr. Sixpounder was due.
 
-It started as a bump. A slow rising, like a blister forming in real time, the fibers separating and rearranging themselves into something with shoulders. Hindemith watched from the landing above, both hands on the railing, his weight shifted to his good knee. The shape assembled itself the way a photograph develops in a chemical bath -- details surfacing through murk. First a torso. Then a head. Then, with an almost apologetic shudder, a face.
+It came up through a bald patch near the fourteenth landing of the Eastmark Stairwells, where decades of the revenant's patrol had worn the fibers down to backing. The geometric pattern underneath had been showing for years -- raw Weave, the structural grammar of reality made visible, the kind of exposure that meant things could use it. Hindemith had requisitioned a replacement runner twice. Both times, Maintenance had sent a form back asking him to specify which of the hotel's nine thousand stairwells he meant. Both times, he had specified. Both times, they had recarpeted the wrong one.
 
-His face.
+Now something was using the thin spot.
 
-The Tuple looked up at him with his own deep-set eyes, wearing his own charcoal suit -- though the seams were wrong, all one color, which Hindemith found oddly insulting. It opened its mouth. No sound came out. It closed its mouth. It looked at its hands as though checking whether it had been given the right ones.
+It looked like Dettmer. Specifically, it looked like Dettmer if Dettmer had been photocopied and the copy photocopied again -- the general shape was right but the details had been negotiated away. The name badge said DTTMR. The tie was the right color but tied in a knot that didn't exist. It stood at the edge of the landing, staring at nothing with an expression of vague administrative purpose, and Hindemith had the immediate and depressing certainty that it was not going to go away on its own.
 
-The fluorescent lights above the stairwell buzzed at their usual frequency -- a D-flat, or near enough -- and Hindemith noted, with the same detachment he'd note a slow elevator, that the Tuple's appearance meant the Weave was thinner here than he'd estimated. That was a problem for tomorrow. Tonight's problem was already making its way up from the twenty-ninth floor, announced as always by the faint smell of towel detergent and old pennies, and by a sound like someone sorting silverware in a dark kitchen.
+He didn't have time for this. Sixpounder's patrol would bring him through in thirteen -- now eleven -- minutes, and there was a new hire somewhere in the building who was supposed to be restocking the vending machines on East 14, which opened off the Eastmark Stairwells two landings above the Tuple, and had not checked in for the last forty. Two problems in the same stairwell. One clock.
 
-Mr. Sixpounder was on schedule.
+Hindemith adjusted his cuff and started climbing.
 
-Hindemith heard the scream before he reached the next landing.
+The stairwells rose in tight spirals, each landing identical to the last except for the incremental decay. Somewhere above, the sound had already started: a rhythmic, uneven percussion. Metal on metal, then something softer, then a creak that split the difference. Hitch. Drop. Hitch. Mr. Sixpounder making his rounds, his double-bending right knee giving the gait a lurching musicality, like a waltz played on a broken piano.
 
-It was the particular scream of someone who has just discovered that the thing they assumed was a piece of set decoration is, in fact, approaching them. A good scream. Energetic. The kind that suggested the lungs behind it had not yet spent forty years breathing hotel air.
+The new hire was about to have a very educational night.
 
-He descended faster than his knee wanted him to, gripping the railing with one hand while the other held his lapel flat against the draft that funneled through the stairwell's vertical tangle. Two flights down, on the landing where the patrol route bent east along the thirty-thousand-fifth-floor ridge, he found them.
+He found her on the sixteenth landing, pressed flat against the wall with the posture of someone who had recently discovered that their skeleton was removable.
 
-The new employee -- Vasik, according to the badge that hung perfectly horizontal on a lanyard so stiff it could have been starched -- had backed himself into the corner where the railing met the wall. His clipboard was raised like a shield. His eyes were the size of the complimentary cookies they left on pillows.
+Her name was -- Hindemith checked his mental roster -- Kovac. Night logistics. Three days in. Her lanyard badge was still stiff and unswung against her chest, the clip still bright, the photo still a reasonable likeness. Give it a week.
 
-Mr. Sixpounder stood four paces away, occupying the center of the landing with the particular stillness of something that has stopped moving but has not decided whether to start again. The fluorescent light caught the three remaining original fingers on his sword-hand. The other two -- a butter knife and what appeared to be a cake server -- clicked softly against the railing as the arm settled. His left knee was locked straight. His right had bent twice to accommodate the stop, folding at two separate points like a drafting ruler, and now held at an angle that made Hindemith's own bad knee ache in sympathy. Carpet fibers from decades of the same route had woven themselves into both shins, thick and green-gray, like moss colonizing a foundation stone.
+"Ms. Kovac."
 
-"Mr. Vasik," Hindemith said.
+"There's a -- " She pointed up the stairwell. Her finger was shaking. "There's a thing."
 
-Vasik did not look at him. Vasik was busy watching the revenant's chestplate expand and contract -- not breathing, precisely, but performing some structural memory of breathing that the fused armor-and-ribcage assembly still carried out.
+"Yes."
 
-"Mr. Vasik."
+"It has a sword."
 
-"It's looking at me," Vasik whispered.
+"He has a sword."
 
-"He is not looking at you. He is looking at the stairwell. You happen to be in it."
+"It has -- some of its fingers are forks."
 
-"There is a dead man in the stairwell."
+Hindemith's left eyelid twitched. It did that past midnight, and it was well past midnight. "He prefers 'Mr. Sixpounder.' The designation is historical. You'll find it in the guest registry under Permanent Residents, subsection Non-Responsive."
 
-"There is a permanent guest conducting his nightly patrol." Hindemith crossed the landing with the measured stride of a man walking past a sleeping dog he has walked past ten thousand times. He positioned himself between Vasik and the revenant -- not protectively, but the way a tour guide positions themselves between a group and a painting they'd rather not have touched. "Mr. Sixpounder has been a resident of this hotel for longer than either of us has been alive. He has a routine. You are standing in it."
+From above, the sound grew: click-click-click of cutlery-fingers tapping against a sword pommel that had been tapped ten thousand times before. The rhythm was almost pleasant if you didn't think about what was making it.
 
-Vasik's clipboard trembled. "Nobody mentioned--"
+Kovac had not stopped pointing. "It smells like -- "
 
-"Page forty-seven of the employee handbook. Appendix C. 'Permanent Residents and Long-Term Territorial Obligations.' You did read it?"
+"Towel detergent," Hindemith said. "Housekeeping launders his linens on a dedicated cycle. The underlying copper note is, I'm told, just what happens."
 
-"I thought it was metaphorical."
+"What happens when *what*?"
 
-"Nothing in this hotel is metaphorical, Mr. Vasik. That is the one luxury we do not offer."
+"When a body has been decomposing at a controlled rate for longer than this hotel has had its current carpeting. Which, as you may have noticed, is quite some time." He adjusted his cuff again. It didn't need adjusting. The gesture was load-bearing -- it held the sentence together. "Mr. Sixpounder is a permanent guest. He patrols the Eastmark Stairwells between 2:40 and 4:15 AM nightly, has done for decades, and will continue to do so as long as the hotel stands and possibly after. Your role, and mine, is to stay out of his route."
 
-Sixpounder's head turned. The movement produced a sound like a heavy door swinging on a dry hinge, and Hindemith felt his left eyelid begin its tremor -- the one that started up past midnight and worsened with each hour. The revenant was not looking at Vasik. It was looking past Vasik, at the landing above, where the Tuple still stood wearing Hindemith's face with the wrong-colored seams.
+On cue, the revenant rounded the landing above them. The fluorescent tubes, which had been humming their decades-long single note, flickered once in something that might have been deference.
 
-"Is that--" Vasik started.
+Mr. Sixpounder was, by any reasonable measure, appalling. The chestplate had fused to the ribcage so thoroughly that the join had developed its own texture -- neither metal nor bone but a corroded hybrid that maintenance had, over the years, simply categorized as "structural." Carpet fibers from the stairwell had woven themselves into both shins, swaying with each step like pale anemones anchored to a reef. Three original fingers gripped the sword. The others -- a salad fork, a butter knife, and something that might once have been a corkscrew -- clicked against the pommel in metronomic sequence.
 
-"Ignore it."
+He did not look at them. He did not look at anything. He looked at the middle distance the way long-haul security guards look at the middle distance, with the glazed focus of someone monitoring a perimeter that existed only in operational memory.
 
-"It looks like--"
+Hitch. Drop. Hitch. He passed within four feet of Kovac, who had stopped breathing.
 
-"I am aware of what it looks like. It is a Tuple. A carpet doppelganger. It will dissipate by morning or it won't. Either way, it is not your concern." Hindemith gestured toward the stairs leading down. "Your concern is the supply closet on thirty-thousand-four, which should have been restocked twenty minutes ago. Mr. Sixpounder's 3 AM towels are late."
+"Good evening, Mr. Sixpounder," Hindemith said.
 
-Vasik stared at him. "You want me to bring towels. To that."
+The revenant's head moved. Not toward Hindemith -- toward the wall beside Hindemith, as if tracking something just behind it. Then it moved back. The patrol continued. The clicking resumed.
 
-"To him. And yes."
+Kovac exhaled.
 
-Vasik went to get the towels. Hindemith listened to his footsteps descend -- quick, uneven, the rhythm of a man who wanted to run but had been told not to.
+"He does that," Hindemith said. "It isn't personal. He responds to proximity. The protocol is to remain still, speak in a measured tone, and under no circumstances offer him anything from the minibar."
 
-When the stairwell was quiet again, Hindemith turned back to Mr. Sixpounder. The revenant had resumed his route, already two steps past the landing, climbing with that broken metronome gait toward the thirty-thousand-eighth floor. The fused chestplate creaked with each stride -- a slow, structural sound, like a building settling in the cold. From this angle, in this light, with the carpet fibers trailing from his shins and the butter knife catching the fluorescent glow, he looked less like a threat and more like a piece of the hotel that had learned to walk.
+"Why -- "
 
-Halfway up the next flight, Sixpounder paused. Not a stop -- a hesitation. His head turned a few degrees to the left, toward the guest floors, as though something had caught in whatever mechanism served him for attention. Then the moment passed and the patrol continued.
+"Because the last person who did is now part of the arrangement on the ninth landing. We tell guests it's a decorative installation." He paused. "It is, now."
 
-Hindemith watched. That was new.
+They descended together, Kovac keeping close enough to his shoulder that he could hear her breathing normalize one landing at a time. Above, the clicking faded. Below, the Tuple was still standing where he'd left it, staring at the wall with DTTMR's borrowed patience.
 
-He straightened his jacket. The gesture was automatic -- a thing he did after any disruption, the way other people crack their knuckles. Up close, the seams of the suit were visible: re-stitched so many times they'd become a shade lighter than the charcoal fabric, a map of every late night and every crisis smoothed over. He watched the revenant round the next switchback and disappear.
+Kovac stopped. "Is that -- "
 
-"Goodnight, Mr. Sixpounder," he said to the empty stairwell.
+"A Tuple. It rose from the carpet about twenty minutes ago. Looks like Dettmer from Accounts, if Dettmer had been assembled from a description of Dettmer." He moved past Kovac and crouched at the edge of the fourteenth landing, studying the bald patch in the carpet -- the exposed Weave still faintly active, a dull geometric shimmer where the fibers had given out. The Tuple did not acknowledge him. "It'll need to be filed. There's a form."
 
-Above him, the Tuple tilted its head, mimicking the angle perfectly, and said nothing back.
+"There's a form for *that*?"
 
-## Post-Scene Analysis (Appended in Step 12)
+"There's a form for everything, Ms. Kovac. The hotel is very old and very thorough and has encountered most things at least twice." He straightened. His suit caught the stairwell light as he turned -- the seams, re-stitched so many times they'd become a shade of their own, picking up the fluorescent glare differently than the charcoal fabric around them. A map of repairs on a man who did not replace things, only maintained them.
 
-### Scene Summary
+Hindemith handed Kovac a pen and a clipboard that had been clipped to the underside of the fourteenth-landing railing for exactly this purpose.
 
-At 3 AM in the Eastmark Stairwells, Hindemith watches a Tuple -- a carpet doppelganger wearing his face -- rise from frayed Weave on the revenant's patrol route. New employee Vasik encounters Mr. Sixpounder mid-patrol and panics. Hindemith intervenes with practiced calm, correcting Vasik's pronoun ("He, not it"), citing the employee handbook, and dispatching him to fetch the revenant's overdue towels. In the aftermath, Sixpounder resumes his route but pauses mid-flight, turning toward the guest floors -- a deviation Hindemith has never seen. Hindemith bids the revenant goodnight. The Tuple remains, watching.
-
-### Questions Posed
-
-- The Tuple: Will it dissipate, or persist? What does its presence (and the thinning Weave) mean for the hotel's stability?
-- Hindemith's "goodnight" -- is this companionship, or is he managing his own loneliness? What is the real nature of his attachment to the revenant?
-- Vasik as a wildcard: Will the new employee adapt to the hotel's strangeness, or will his by-the-book instincts cause problems?
-- The 3 AM towel routine: What happens when the routine breaks? (Foreshadows Scene 2's destabilization.)
-- Sixpounder's hesitation toward the guest floors -- what caught his attention? First sign of the bloodline recognition that drives the central plot.
-
-### Characters Introduced or Referenced
-
-**Mr. Hindemith:** Gaunt, angular, immaculately vertical. Charcoal suit re-stitched so often the seams are a lighter shade. Deep-set eyes, bad knee, eyelid tremor past midnight. Speaks with dry, clipped authority. Treats the hotel's horrors as logistical problems. His calm is not indifference -- there's an unspoken attachment to the revenant, visible in the "goodnight" and in how carefully he watches the patrol.
-
-**Mr. Sixpounder:** Decomposing revenant warrior. Left knee locked, right bends at two points. Three original fingers; two replaced with cutlery (butter knife, cake server). Chestplate fused to ribcage, creaks when moving. Carpet fibers woven into both shins. Smells of towel detergent and old pennies. Non-verbal, non-sentient in any conversational sense -- operates on a patrol loop. Showed one anomaly: a hesitation toward the guest floors.
-
-**Vasik:** New employee, first night. Stiff lanyard, horizontal badge, clipboard. Panicked but compliant -- he screamed, but when told to fetch towels, he went. Represents the "normal" reaction the hotel no longer permits.
-
-**The Tuple:** Hindemith's doppelganger, risen from frayed carpet. Wrong-colored suit seams. Opens and closes its mouth without sound. A Weave phenomenon, not a creature -- but it lingers, watching, mimicking.
-
-### Reflection
-
-**What worked:** The Tuple opening -- it establishes the Weave-fraying as a physical phenomenon and gives Hindemith something to react to with practiced indifference before the main event. The dialogue rhythm between Hindemith and Vasik carries the humor without breaking the tone. "I thought it was metaphorical" is the scene's best line. The image-sound counterpoint (cutlery clicking / decomposing warrior) landed naturally. The "Goodnight, Mr. Sixpounder" closing captures the companionship thread without overselling it.
-
-**What was cut in review:** Nothing cut. Added a beat in the resolution where Sixpounder pauses mid-patrol and turns toward the guest floors -- a small deviation from routine that Hindemith notices. This breaks the "everything is under control" wrap-up and plants a seed for Scene 2's destabilization.
-
-**What's missing:** The scene doesn't establish Hotel Stackz as a named entity or the Conciergerie as an organization -- that context is implied but not stated. This is appropriate for Scene 1 (show before you tell), but Scene 2 will need to name these things. Vasik's character is thin by design (he's a lens, not a protagonist), but if he recurs he'll need more specificity.
+"Welcome to Hotel Stackz," he said. "Your orientation was incomplete."
