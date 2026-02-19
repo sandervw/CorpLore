@@ -22,13 +22,11 @@ Hindemith turned his coffee cup a quarter rotation on its saucer. He opened the 
 
 One target. But the head kept turning.
 
-He watched Sixpounder's left knee lock and release, lock and release, as the torso swiveled. The carpet fibers woven into both shins -- remnants of the Eastmark Stairwells, a corridor he'd worn grooves into over years of the same patrol, threaded through him now like a second skin -- caught the breakfast-lounge light at a different angle than the surrounding floor, marking him as something transplanted. Something that belonged elsewhere and had wandered down.
+He watched Sixpounder's left knee lock and release, lock and release, as the torso swiveled. The carpet fibers woven into both shins caught the breakfast-lounge light at a different angle than the surrounding floor, marking him as something transplanted. Something that belonged elsewhere and had wandered down.
 
 A boy at a corner table, maybe six years old, was stirring his cereal without eating it. He was staring at the revenant. Not frightened. Not even particularly curious. Just watching, the way a child watches a relative they've been told about but never met. Sixpounder's head swung toward him and paused -- longer than the others. The boy stirred his cereal. The revenant watched. Neither of them blinked.
 
 Hindemith counted backward. The original target -- the demon whose death Sixpounder had been contracted to collect -- had died forty-three years ago. He knew this. It was in the book. What he hadn't thought about, because the arrangement had never required him to think about it, was what a grievance does when the target dies before collection. Where it goes. What it follows.
-
-Blood. It follows blood.
 
 He counted the guests Sixpounder's head had tracked since he'd sat down. The woman with two children. The man with the newspaper. The teenager. The boy with the cereal. Four others at scattered tables who'd drawn that same slow, locked-knee pivot.
 
@@ -40,4 +38,4 @@ Through the wall behind him, the hold music from Conference Room 6B whined on --
 
 Hindemith closed the pact book. He adjusted his cuffs. He looked at the families, the long-stays, the children -- and stood. Left the coffee. Walked toward the lobby.
 
-He had phone calls to make. Several of them.
+He had phone calls to make.
