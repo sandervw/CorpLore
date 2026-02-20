@@ -2,68 +2,82 @@
 
 ## Full Scene
 
-Hindemith had arranged them at the waffle station before any of them understood they were arranged.
+The plan had the elegance of desperation dressed as cleverness. The road-trance had held Sixpounder for four hours before it frayed - Hindemith hadn't been there when it broke, only heard about it secondhand from Withaazz. By then, Hindemith had already moved to the breakfast station.
 
-It had taken most of the night. Quiet words at doors, adjusted wake-up calls, a complimentary breakfast voucher slipped under each room that happened to share the bloodline. Seventeen descendants now occupied the breakfast lounge in a loose queue that did not know it was a queue, each waiting for the same iron, each pouring batter into the same grid of tiny squares -- squares within squares, filling unevenly from the center outward, the way blood relations do.
+He positioned himself behind the continental breakfast station at 6:40 AM, twenty minutes before the buffet opened, wearing the expression of a man who had not slept and intended to make that everyone else's problem. He adjusted the waffle maker's temperature dial. He repositioned the batter pitcher. He angled the laminated instruction card so that it funneled foot traffic into a single-file approach, because the one thing you could count on about hotel guests was that they would follow instructions only if they were laminated.
 
-The theory was simple enough. If the revenant tracked the bloodline, then the bloodline concentrated into a single object might register as the target fulfilled. One waffle, seventeen pours. A ritual disguised as continental breakfast.
+The theory was blood-sympathy. Layer enough descendants onto the same cooking surface - skin oils, breath moisture, the ambient shed of whatever made a bloodline legible to something like Sixpounder - and you'd get a composite signal. A bloodline so thick it became noise.
 
-His eyelid had started again. The left one. It pulled at the corner in a rhythm he could not control and had stopped trying to, twitching against the fluorescent morning light that gave every surface in the lounge the complexion of a waiting room. He stood near the coffee urns with his hands behind his back, watching the queue with the expression of a man supervising a fire drill he personally set.
+They came in ones and twos. The insurance adjusters from Galvanic Mutual. A family of four whose youngest had the same jawline as the portrait in the Sesame Corridors. A woman traveling alone who kept touching her collarbone the way the revenant touched its chestplate. Hindemith counted eleven descendants through the waffle line by 7:15. The iron hissed and pressed. Batter spread into the grid and cooked into something that was, if you squinted at the pattern, almost a face.
 
-The Commuter descendant was fourth in line. She held her highway-mantra mug but not with conviction. Whatever the road-trance had cost her the night before, it showed in the way she poured -- tentative, the batter barely reaching the grid's edge. Hindemith noted it and said nothing.
+He brought the waffle to Room 30,713 on a room service cart with a fresh towel folded beneath it. Knocked twice. Waited.
 
-Twelve had poured. Thirteen. The waffle maker's timer ticked its mechanical countdown, a click-hiss rotation that gave the room its only pulse. Guests who were not part of the arrangement ate cereal at nearby tables and noticed nothing unusual, because there was nothing unusual about a breakfast queue in a hotel, which was the point.
+Sixpounder ate the waffle the way Sixpounder ate everything - mechanically, without chewing, the jaw working in a lateral motion that suggested the original hinges had been replaced with something architectural. Crumbs fell into the fused gap between chestplate and ribcage. Hindemith watched the revenant's head for the telltale swivel, the targeting rotation that meant recognition had locked.
 
-Seventeen. The last descendant closed the iron and stepped away.
+Nothing happened. Hindemith's eyelid ticked once, twice - the tremor that always worsened past midnight, though it was now seven in the morning and the distinction had stopped meaning anything two days ago.
 
-Hindemith lifted the finished waffle with a cloth napkin. It was golden, uniform, unremarkable. It smelled like every hotel waffle that had ever been made. He placed it on a room-service plate, centered it, and carried it toward the corridor.
+Sixpounder's head turned. Not toward Hindemith, not toward the waffle cart, but toward the floor. Toward the breakfast-lounge thirty stories down, where eleven descendants were still eating under fluorescent lights that buzzed at a frequency Hindemith could hear from here, or maybe that was his own nerves finally finding a voice. The revenant stood. The left knee, the one that no longer bent, bore weight it shouldn't have been able to bear. The right knee bent twice, a staircase motion, and then Sixpounder was moving.
 
-Somewhere above them, a gait that favored one leg and bent the other twice was already descending.
+Not patrolling. Walking with purpose. The cutlery-fingers opened and closed at his side.
 
-They met in the corridor outside the lounge. Hindemith held the plate at the correct height for room service -- shoulder level, cloth draped -- and the revenant stopped three paces away, its gait clicking to a halt the way a mechanical thing stops: all parts at once.
+"No," Hindemith said, to no one, because the revenant was already past him and the room service cart was spinning slowly on one wheel where Sixpounder had shouldered it aside. "No, that's-"
 
-The cutlery-fingers reached first. The fork-finger -- a dessert fork, tarnished silver, fused to the second knuckle -- pierced the waffle's center and lifted it. Sixpounder held it at eye level, if the sockets still qualified, and the skull tilted. Reading it. Smelling it. Whatever a revenant does with information that arrives through a body it no longer fully operates.
+He followed. The bad knee screamed on the first step and he overrode it on the second.
 
-Hindemith did not breathe.
+By the time he reached the breakfast-lounge, the descendants were already running.
 
-The waffle tore. Two halves. The revenant dropped both and looked past the plate, past Hindemith, through the open lounge doors to the seventeen demons sitting at tables with their orange juice and their ignorance, and its head began to turn from one to the next to the next, the same scanning motion Hindemith had seen at the first breakfast, and the left hand -- the one with three real fingers -- closed into something that was not a fist but was no longer open.
+They did not run far. The breakfast-lounge emptied into the corridor and the corridor emptied into the hotel pool. This was a room the size of an ocean, far walls beyond the limit of vision, tiled in institutional blue-white that had yellowed at the waterline from decades of chlorine and neglect. The ceiling was high enough to echo. The air was warm, wet, and tasted of chemicals. Under normal circumstances, Bloodsea was the kind of pool where middle-management demons did half-hearted laps before conference sessions. Today the descendants poured through the glass doors in a stumbling wave, and Sixpounder followed them in.
 
-"Out," Hindemith said to the lounge. His voice carried the authority of a man who had been saying that word in hotel corridors for forty years. "Everyone out. Now. Use the east stairs."
+The first demon died before Hindemith had cleared the doors.
 
-They moved because hotel guests move when the staff speaks in that register. Chairs scraped. Someone asked about the voucher. The Commuter descendant was already walking, mug tucked against her chest, and she did not look back.
+It was a Galvanic Mutual adjuster, mid-level, lanyard still on, who had stopped to hold the door for the family behind him. Sixpounder caught him across the throat with the cutlery-hand. The three fingers repurposed from hotel silverware caught the chlorinated light for one bright instant and then they were red. The adjuster folded. Sixpounder stepped over him without looking down, because the revenant had never looked down, not once in forty years. What was behind him did not exist. What was ahead was the target.
 
-Sixpounder followed.
+Hindemith had the Contact Book open before the body hit the tile.
 
-The retreat funneled down the east stairs toward the lower levels. Hindemith stayed between the revenant and the descendants, which meant he was walking backward on a bad knee down a stairwell, which meant the knee gave once on the fourth landing and he caught himself on the railing and kept moving. The revenant did not hurry. It descended the way it patrolled -- methodical, certain, following the route of something it had done before in a life it did not remember living.
+The first page he tore was Marchetti. A pact sixteen years old, originally brokered over a noise complaint on the fourteenth floor. The summoning arrived with the sound of a telephone ringing in an empty office - Marchetti's signature - and the demon materialized between Sixpounder and the fleeing family, already swinging. Marchetti lasted eleven seconds. The revenant took his left arm off at the shoulder, pivoted on the knee that bent twice, and drove the cutlery-fingers through the pact-demon's sternum.
 
-The chlorine hit them two flights above Bloodsea. That specific chemical sweetness that belongs to indoor water and nowhere else, cutting through the stairwell's dust like a blade through gauze. The descendants smelled it and moved faster. Hindemith smelled it and understood, with a clarity that landed in his chest rather than his head, that this was where it would end.
+Second page. Delacroix. Twenty-two years. A favor owed from a plumbing catastrophe on the east wing. She arrived with the sound of a lobby bell and put herself between the revenant and a pair of descendants scrambling for the deep end. She was faster than Marchetti. She bought thirty seconds. Then Sixpounder broke her across the pool's edge and the tiles cracked under the impact, grout lines splitting in fractures that ran three feet in each direction.
 
-Bloodsea opened below them: the hotel pool, vast and still under emergency lighting that turned the surface into something between water and wound. Red ripples moved without cause. The pool deck stretched in both directions, slick with the permanent condensation of a room that had been humid for decades, and the fluorescent tubes above kept it all flat and merciless.
+Third page. Fourth page. Each tear was a sound - elevator chime, fax machine whine, hold music, dial tone - and each sound produced a demon who had owed Hindemith something, and each demon fought, and each demon died, and the pool water gradually shifted to the color of old pennies. That copper-and-rot smell that had always clung to Sixpounder's corridor was spreading through the whole of Bloodsea now, names bleeding away in the chlorine as if they'd never been written.
 
-The descendants spread along the far wall. Seventeen of them, plus however many had joined the evacuation without belonging to the bloodline, all pressed against towel racks and supply closets with the specific terror of people who have just learned they are prey and have not yet learned why.
+The descendants scattered along the pool's perimeter. Some made it to the far doors. Some didn't. Tiles cracked under each of Sixpounder's footfalls. The carpet fibers woven into both shins left wet trails on the tile like the patrol route was following him, insisting on itself even here, even now.
 
-Sixpounder came through the stairwell door and the pool deck changed. The carpet fibers woven into both shins -- decades of the Eastmark Stairwells, gray and matted -- darkened instantly on the wet tile. The fused chestplate caught the fluorescent light along its lower edge where metal and bone had become the same material, and the reflection rippled across the pool's surface as though the water recognized something it should not have.
+Hindemith tore pages and summoned the dead. Every demon that materialized was a relationship he had built through decades of favors and carefully maintained obligations. Every demon that died on the poolside was a name he would never speak into the Contact Book again. The pages floated on the reddening water.
 
-The revenant scanned the wall of descendants. All of them. Every face. The head turned and turned and did not stop turning because the target was all of them and none of them, because the target was dead, because the target had been dead for longer than most of these descendants had been alive, and what was left was a bloodline that smelled like something a dead warrior could almost remember.
+He was down to the last third of the book when his suit finally gave. The re-stitched left shoulder seam separated along the line where the original tailor's work ended and Hindemith's own mending began. The jacket sagged. He kept tearing pages.
 
-Hindemith stood on the pool deck between the revenant and the wall. His knee locked. His eyelid pulled. His hands were empty -- no bell, no pact book, no waffle, no tool left in the inventory of a man who had built his entire career on having the right tool.
+The second-to-last page was someone whose name he couldn't read anymore. The ink had smeared from pool water. He tore it anyway. A demon appeared - he didn't recognize it - fought for eight seconds, and was destroyed.
 
-He had known this since the first breakfast. He had known it, probably, for years.
+The last page was blank. He'd torn past the entries into the endpaper.
 
-The revenant advanced. One stride, then two, the double-bending right knee producing a wet click on the pool tile. The left hand -- three real fingers and a butter knife -- caught the edge of a towel rack and tore it from the wall without slowing. Metal and a descendant's scream crossed the deck at the same moment. Sixpounder's head locked onto the sound the way a compass locks north, and the gait accelerated, and the cutlery-hand rose, and the thing that had been a ceremonial warrior and was now pure forward motion bore down on seventeen demons who had never done anything to it except inherit a smell.
+Hindemith stood at the edge of Bloodsea holding the empty spine of the Contact Book. It sat in his hand like a skeleton jawbone.
 
-The towel cart stood against the near wall, between a supply closet and a fire extinguisher. White towels, folded in thirds, stacked the way housekeeping stacked them everywhere in Hotel Stackz. The same brand. The same weight. The same towels Hindemith had been delivering to Room 30,713 at three in the morning for longer than some of these descendants had been alive.
+The pact framework had failed. The "arrangement" - the towels, the patrol, the mattress replacements, the forty years of careful management - had never been a binding. It had been routine. Routine dressed up in the language of pacts because that was the only language Hindemith knew.
 
-He walked to the cart. Took a towel. Quartered, not thirded -- Sixpounder's room had always gotten quartered towels, a specification that existed in no manual and no pact book but had never once been forgotten.
+Sixpounder stood in the shallow end. The water was up to the fused line where chestplate met ribcage. Three descendants huddled behind an overturned lounge chair near the diving board. The revenant's head swiveled between them.
 
-He stepped between the revenant and the wall.
+Hindemith stepped into the pool. The water was warm and wrong. It soaked through his trousers, his shoes, the hem of the charcoal jacket that was already coming apart at one shoulder. He walked toward Sixpounder the way he'd walked toward Room 30,713 ten thousand times: upright, measured, carrying nothing but the intention to be there.
 
-"Three AM delivery," Hindemith said. His voice was the patrol voice. The corridor voice. The voice of a forty-year routine that had never been about keeping a monster docile but about two broken things agreeing, without ever saying so, to share a building.
+His bad knee gave on the third step. Despite the water's added buoyancy, forty years of favoring the joint had left nothing in reserve. He went down to one knee in the shallow end, three meters from the revenant, and stayed there because getting up would have required something he no longer had.
 
-The revenant's head stopped turning.
+"He's dead," Hindemith said.
 
-The cutlery-fingers unclenched. The three real fingers on the left hand opened, and the palm -- whatever was left of the palm -- extended the way it extended every night at the door of 30,713, and Hindemith placed the towel in it, and the hand closed, and Mr. Sixpounder stood very still on the wet pool deck, holding a towel, smelling of chlorine and old pennies, while the water lapped against the tile in a rhythm that had nothing to do with any of them and everything to do with the fact that some things just keep going.
+Sixpounder's head stopped mid-swivel.
 
-The descendants watched from the far wall. They did not understand. They did not need to.
+"Whoever you're looking for. Whoever started this. They died decades ago. Before I took this post. Before the carpet grew into your shins. These people -" He gestured at the descendants, still pressed behind the lounge chair, still breathing. "They're echoes. They carry the blood but not the debt. There's no one left to kill."
 
-Hindemith's knee hurt. His eyelid twitched. He stood next to the revenant the way he had stood next to it for forty years -- not because it was safe, but because it was his.
+It was not a spell. It was not a pact-word or a binding or a clause. It was the truth, delivered without apparatus.
+
+Sixpounder stood in the water for a long time. The cutlery-fingers unclenched. The head completed its swivel - past the descendants, past Hindemith, past the carnage - and found the direction of the Eastmark Stairwells.
+
+The revenant stepped from the pool. The left knee bore its impossible weight. The right knee bent twice.
+
+The patrol resumed.
+
+Hindemith knelt in the shallow end of Bloodsea and listened to the pool filter cycle on. Somewhere down the corridor, the breakfast-lounge lights still buzzed. A vending machine hummed in its alcove. The sounds of a Tuesday.
+
+At the far end of the pool, the Tuple stood at the water's edge. It wore the face of someone - Hindemith couldn't tell who anymore, and it didn't matter - and stared at the surface of the water with the placid vacancy of a guest considering a swim. It had no context for what had happened here. It had no context for anything. It stood there, meaningless and precise, and after a moment it wandered off toward the vending machines.
+
+Hindemith knelt in the red water of Bloodsea for a moment, thinking. He'd need to update the guest registry. Housekeeping would need notifying of the freshly-vacated rooms by 12 PM.
+
+The 3 AM towels needed to be ready in eighteen hours.

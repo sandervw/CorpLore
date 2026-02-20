@@ -16,15 +16,15 @@ The Weave is held taut on **the Loom**. The Loom has no builder. It is the oldes
 
 ### The Five Layers
 
-1. **The Face** -- Visible surface of reality. Weather, stone, skin, language. Everything perceived by ordinary senses. The Face is decorative, meant to be seen.
+1. **The Face** - Visible surface of reality. Weather, stone, skin, language. Everything perceived by ordinary senses. The Face is decorative, meant to be seen.
 
-2. **The Pile** -- Sound-absorbing layer beneath the Face. Emotion, instinct, atmosphere. Why a place feels wrong despite looking fine. The Pile deadens footsteps and makes you lower your voice without knowing why.
+2. **The Pile** - Sound-absorbing layer beneath the Face. Emotion, instinct, atmosphere. Why a place feels wrong despite looking fine. The Pile deadens footsteps and makes you lower your voice without knowing why.
 
-3. **The Warp** -- Structural threads running in one direction. Time. Cause and effect. Cannot be cut without unraveling everything downstream. Rigid, load-bearing, unforgiving.
+3. **The Warp** - Structural threads running in one direction. Time. Cause and effect. Cannot be cut without unraveling everything downstream. Rigid, load-bearing, unforgiving.
 
-4. **The Weft** -- Structural threads running crosswise through the Warp. Choice. Agency. Free will. The Weft makes the pattern. Without it, the Warp would be bare parallel lines with no texture or meaning. The Weft is fragile. It can be pulled, re-threaded, or removed, but the hole remains visible forever.
+4. **The Weft** - Structural threads running crosswise through the Warp. Choice. Agency. Free will. The Weft makes the pattern. Without it, the Warp would be bare parallel lines with no texture or meaning. The Weft is fragile. It can be pulled, re-threaded, or removed, but the hole remains visible forever.
 
-5. **The Backing** -- Unseen foundation holding the structure together. Nobody knows what it is. Some say the Loom's memory, others say accumulated weight of every Knot ever tied. The Backing is never exposed except where the Weave has worn completely through. Those places are not safe to stand.
+5. **The Backing** - Unseen foundation holding the structure together. Nobody knows what it is. Some say the Loom's memory, others say accumulated weight of every Knot ever tied. The Backing is never exposed except where the Weave has worn completely through. Those places are not safe to stand.
 
 ### The Fraying
 
