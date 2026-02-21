@@ -1,4 +1,6 @@
-# Picaro Story Outline
+# Rafe Scigley Story Outline
+
+*The Portfolio of Mr. Rafe Scigley, Professional*
 
 ## Ideas
 
@@ -9,65 +11,69 @@ Add overall style/tone to story outline
 - Freeman style?
 - Wierd Fantasy/Fiction Tone? (The Dying Earth)
 
+---
+
 ## High Concept
 
-| #   | Problem                              | Chosen Solution                                |
-| --- | ------------------------------------ | ---------------------------------------------- |
-| 1   | Why do failures reshape the building | Stolen DSVPI Word in a motivational poster     |
-| 2   | What does the protagonist want       | Escape to the Highway; exits keep sealing      |
-| 3   | What breaks the status quo           | A mapper demon follows his architectural trail |
-| 4   | What makes the mapper compelling     | She's the poster's previous owner              |
-| 5   | How was the poster stolen            | Swiped the frame, kept the "worthless" poster  |
-| 6   | The signature image                  | Labyrinth walls readable as autobiography      |
-| 7   | How does it resolve                  | Escapes to Highway, leaves labyrinth behind    |
+**The concept:** A picaresque demon rogue, surviving by wit and shamelessness in TODO (one of CorpLore's endless corporate office-dungeons), unknowingly carries a stolen Word of the DSVPI sealed inside a motivational poster he uses as a bedroll. Every time one of his schemes backfires, the Word leaks power and reshapes the surrounding architecture, building new corridors, dead ends, and rooms from the wreckage of his failures. His greatest desire is to reach the highway - The Daily Commute - and escape his current employment, but his trail of botched cons keeps sealing exits and spawning new wings of labyrinth. When a methodical finance demon - the poster's original owner, member of the *January Financials* cult - begins following his architectural trail, the rogue must finally outrun someone who knows exactly what he's carrying and can track him by the disasters he leaves in his wake. The story ends as picaresque stories do: the rogue escapes through the Parking Garage of Most Esteemed Reserve (bereft of wealth), but not to the highway. The last and greatest backfire opens an Exit Ramp which leads directly into an enclosed room of shared desks and terminals (windowed, but with windows looking out onto interior halls): the onboarding room for just another, different Corporate Office.
 
-**The concept:** A picaresque demon rogue, surviving by wit and shamelessness in TODO (one of CorpLore's endless corporate office-dungeons), unknowingly carries a stolen Word of the DSVPI sealed inside a motivational poster he uses as a bedroll. Every time one of his schemes backfires, the Word leaks power and reshapes the surrounding architecture, building new corridors, dead ends, and rooms from the wreckage of his failures. His greatest desire is to reach the highway - The Daily Commute - and escape his current employment, but his trail of botched cons keeps sealing exits and spawning new wings of labyrinth. When a methodical finance demon - the poster's original owner, member of the *January Financials* cult - begins following his architectural trail, the rogue must finally outrun someone who knows exactly what he's carrying and can track him by the very disasters he leaves in his wake. The story ends as picaresque stories do: the rogue escapes through the Parking Garage of Most Esteemed Reserve (bereft of wealth), but not to the highway. The last and greatest backfire opens an Exit Ramp which leads directly into an enclosed room of shared desks and terminals (windowed, but with windows looking out onto interior halls): the onboarding room for just another, different Corporate Office.
+---
 
 ## Characters
 
-**Mr. Rafe Scigley (Main Character Picaro):**
+### Mr. Rafe Scigley (Main Character Picaro):
 
-Description:
+**Description:**
 - symbolic_animal: Fox
 - gender: Male
-- rough_age: Middle-aged (indeterminate, but experienced and world-worn)
+- rough_age: Middle-aged (indeterminate, but experienced)
 - height: Tall
 - build: Lean, bony, spare
 - stance: Loose-jointed, restless
 - hands: Long-fingered, deft, light of touch
 - hair: short, dark, and slightly unkempt; practical and low-maintainence
-- face: Lean and bony; dominated by a long inquisitive nose, and a droll mouth
+- face: Lean and bony; an angular nose, a droll mouth
 - eyes: Darting, sharp
 - expression: Vivacity, candor, and affability - a mask of agreeable openness
 - voice: Soft of tongue; smooth
 - movement: Supple, quick
 - equipment:
     - clothing: A rumpled sport coat over an shirt untucked, tie long-gone, slacks fraying at the cuffs; coat has too many inside pockets
-    - weapons: a corporate letter opener, worn at his belt
+    - weapons: a sharpened corporate letter opener, worn at his belt
     - footwear: brown loafers
     - bags: messenger bag
     - other: rolled-up motivation office poster tucked into bag
 
-Personality:
-- TODO
+**Personality:**
+- A self-styled cunning 'job man' - can perform any job required of him; really a less-than-competent sociopath who schemes his way through problems
+- Genuinely despicable
+- Remains fundamentally unchanged throughout the story
+- Values: wealth, status, leisure, freedom
+- No backstory (beyond what he invents for his schemes)
+- Metaphor Family: a patois of corporate jargon, aristocratic vocabulary, and vulgar innuendo
+- Fallback Personality: Grandiose self-assurance
+- Fallback argument tactic: Verbal misdirection, and appeal to personal-authority
+- Goal: "clock out" - escape his current office, terminating his employment
+- Weakness: narcissism, greed, impulsiveness
+- Strength: resourcefulness, quick thinking
 
-Quotes:
+**Quotes:**
 1. "I must consider." (Recurring)
 2. "I shall add this to my expenses." (Recurring)
 3. "I submit to the stakeholders three points: that the requisition was unsigned, that I was never briefed on the subject in question, and that my valuable time has been personally inconvenienced by this audit."
 4. "You stand before a demon of senior tenure, unblemished review history, and a corner desk by the window - though the window, I grant you, overlooks an interior hall. You may address me as Mr. Scigley."
 5. "My calendar shows nothing."
-6. "The corridor is longer than the map suggested, and the map was discouraging."
+6. "The corridor is longer than the map suggested, and the map was not encouraging."
 7. "The architecture of the fraud is genuinely beautiful - a nested series of forwarded approvals, each stamped by demons who do not exist. I could not bring myself to dismantle such craftsmanship. That I also profited is incidental."
 8. "I am Rafe Scigley; my ability is proven fact."
 9. "A minor variance in the floor plan. The corridor was there this morning; I am confident it will return."
+10. TODO - convert this. "Be so good as to remove these corpses; then bring a further mug of spiced wine."
 
-TODO 4. "Be so good as to remove these corpses; then bring a further mug of spiced wine."
-TODO 9. "Mr. Sinocarre, you shall pay dearly for this inconvenience!"
-
-**Mr. Purslane Sinocarre (Financial Demon):**
+### Mr. Purslane Sinocarre (Financial Demon):
 
 Only seen in first/last story - a threat in the background, visible secondhand through events
+
+---
 
 ## Storie/Scene ideas
 
@@ -77,6 +83,8 @@ TODO - pick based on works of Vance, Ashton Smith
 ### "Xedilian" Story:
 
 Basically, Xedilian from *The Shivering Isles*, but told from the perspective of one of the adventurers caught in the testing chambers
+
+Convert what is below into a Picaro adventure, from the perspective of one of the adventurers
 
 #### Dungeon Description
 
