@@ -26,12 +26,50 @@ Add overall style/tone to story outline
 ## Characters
 
 **Mr. Rafe Scigley (Main Character Picaro):**
-Text
+
+Description:
+- symbolic_animal: Fox
+- gender: Male
+- rough_age: Middle-aged (indeterminate, but experienced and world-worn)
+- height: Tall
+- build: Lean, bony, spare
+- stance: Loose-jointed, restless
+- hands: Long-fingered, deft, light of touch
+- hair: short, dark, and slightly unkempt; practical and low-maintainence
+- face: Lean and bony; dominated by a long inquisitive nose, and a droll mouth
+- eyes: Darting, sharp
+- expression: Vivacity, candor, and affability - a mask of agreeable openness
+- voice: Soft of tongue; smooth
+- movement: Supple, quick
+- equipment:
+    - clothing: A rumpled sport coat over an shirt untucked, tie long-gone, slacks fraying at the cuffs; coat has too many inside pockets
+    - weapons: a corporate letter opener, worn at his belt
+    - footwear: brown loafers
+    - bags: messenger bag
+    - other: rolled-up motivation office poster tucked into bag
+
+Personality:
+- TODO
+
+Quotes:
+1. "I must consider." (Recurring)
+2. "I shall add this to my expenses." (Recurring)
+3. "I submit to the stakeholders three points: that the requisition was unsigned, that I was never briefed on the subject in question, and that my valuable time has been personally inconvenienced by this audit."
+4. "You stand before a demon of senior tenure, unblemished review history, and a corner desk by the window - though the window, I grant you, overlooks an interior hall. You may address me as Mr. Scigley."
+5. "My calendar shows nothing."
+6. "The corridor is longer than the map suggested, and the map was discouraging."
+7. "The architecture of the fraud is genuinely beautiful - a nested series of forwarded approvals, each stamped by demons who do not exist. I could not bring myself to dismantle such craftsmanship. That I also profited is incidental."
+8. "I am Rafe Scigley; my ability is proven fact."
+9. "A minor variance in the floor plan. The corridor was there this morning; I am confident it will return."
+
+TODO 4. "Be so good as to remove these corpses; then bring a further mug of spiced wine."
+TODO 9. "Mr. Sinocarre, you shall pay dearly for this inconvenience!"
 
 **Mr. Purslane Sinocarre (Financial Demon):**
-Text
 
-## Stories/Scenes
+Only seen in first/last story - a threat in the background, visible secondhand through events
+
+## Storie/Scene ideas
 
 TODO - pick based on works of Vance, Ashton Smith
 - Rework their best scenes to fit your setting?

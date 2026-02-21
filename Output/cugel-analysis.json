@@ -1,0 +1,93 @@
+{
+  "purpose": {
+    "name": "Cugel the Clever",
+    "description": "Self-styled cunning rogue; actually a selfish, cowardly sociopath whose schemes perpetually backfire",
+    "storyFunction": "Picaresque anti-hero; satirical vehicle for human pretension",
+    "archetype": {
+      "type": "Trickster",
+      "polarization": "Head",
+      "avoidsCliches": true
+    },
+    "heroComparison": "Inverts heroic convention; selfish where heroes are selfless",
+    "mystery": "Gap between self-image as sophisticate and reality as petty sociopath",
+    "characterArc": {
+      "doesChange": false,
+      "changeDescription": "Remains static; repeats cycles of greed and failure",
+      "isOptimalArc": true
+    },
+    "values": [
+      "Self-preservation",
+      "Wealth accumulation",
+      "Personal comfort",
+      "Perceived sophistication"
+    ],
+    "symbolism": {
+      "animal": "Fox",
+      "movement": "Circular",
+      "forms": [
+        "Ironic name",
+        "Recurring collapsed scheme"
+      ],
+      "symbolsEvolveWithCharacter": false
+    }
+  },
+  "believe": {
+    "earlyHumanityMoment": "Comically inflated self-regard and indignant reactions to being cheated",
+    "definedByActionsNotBackstory": true,
+    "publicIdentity": "Man of discernment, taste, and superior intellect",
+    "hiddenInteriorSelf": "Impulsive, naive, far less clever than he believes",
+    "metaphorFamily": "Commerce, negotiation, social status",
+    "defaultPersonalityTrait": "Grandiose self-assurance",
+    "defaultArgumentTactic": "Elaborate verbal misdirection",
+    "primaryMotivation": "Return home and exact revenge on Iucounu"
+  },
+  "care": {
+    "selfRevelation": "None; learns nothing, which is the thematic statement",
+    "falsePhilosophy": "His cleverness makes him superior and entitled to exploit others",
+    "falseGoal": "Accumulating wealth and status along the journey",
+    "fears": {
+      "open": "Parasitic creature enforcing his quest",
+      "hidden": "Awareness of his own mediocrity"
+    },
+    "weaknessesAndNeeds": {
+      "psychological": [
+        "Narcissism",
+        "Compulsive greed",
+        "Impulsiveness"
+      ],
+      "moral": [
+        "Inability to empathize",
+        "Willingness to exploit anyone"
+      ]
+    },
+    "socialProblem": "Rootless outsider in every community",
+    "specificDesireLine": "Return to Almery and destroy Iucounu"
+  },
+  "invest": {
+    "greatestWeakness": "Reckless greed",
+    "correspondingStrength": "Audacious resourcefulness",
+    "isCurious": true,
+    "isResourceful": true,
+    "plan": "Always elaborate, plausible-sounding, and self-defeating",
+    "rulesForLiving": [
+      "Take what you can",
+      "Trust no one",
+      "Maintain an air of superiority"
+    ],
+    "uniqueQualityOthersLack": "Quick-witted improvisational thinking",
+    "assertsThisQuality": true,
+    "introductoryAction": "Attempting to burglarize Iucounu's manse",
+    "hasDecisionAuthority": false,
+    "specialSkills": [
+      "Verbal manipulation",
+      "Con artistry",
+      "Quick improvisation"
+    ],
+    "opponent": {
+      "name": "Iucounu the Laughing Magician",
+      "sharedGoal": "Power and dominance over the other",
+      "exploitsWeakness": "Genuinely clever where Cugel only pretends",
+      "moralConflict": "None; both amoral; pure contest of cunning"
+    }
+  }
+}
