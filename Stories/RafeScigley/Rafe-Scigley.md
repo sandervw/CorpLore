@@ -39,7 +39,7 @@ Add overall style/tone to story outline
 - movement: Supple, quick
 - equipment:
     - clothing: A rumpled sport coat over an shirt untucked, tie long-gone, slacks fraying at the cuffs; coat has too many inside pockets
-    - weapons: a sharpened corporate letter opener, worn at his belt
+    - weapons: a stainless steel bonsai root hook, worn at his belt
     - footwear: brown loafers
     - bags: messenger bag
     - other: rolled-up motivation office poster tucked into bag

@@ -50,11 +50,11 @@
 
 **What if a schemer whose plans always backfire discovers that every failed scheme physically reshapes the office architecture, so his trail of disasters has been unknowingly building a labyrinth?**
 
-**Why this one:** The idea of a con artist as accidental architect -- his moral failures literally written into floor plans -- resists mapping onto existing picaresque or dungeon-crawl stories. It turns the genre's episodic failure structure into a cumulative, physical consequence that the protagonist can't walk away from.
+**Why this one:** The idea of a con artist as accidental architect - his moral failures literally written into floor plans - resists mapping onto existing picaresque or dungeon-crawl stories. It turns the genre's episodic failure structure into a cumulative, physical consequence that the protagonist can't walk away from.
 
 ---
 
-## Development -- Problems and Solutions
+## Development - Problems and Solutions
 
 ### Problem 1:
 
@@ -84,7 +84,7 @@ What does the protagonist want, and why can't he have it?
 
 What breaks the status quo and forces change?
 
-*Solution A:* A Facilities demon -- an ancient being fused with the building's infrastructure -- notices the unauthorized construction and begins hunting the source. The protagonist now has a pursuer who can feel him through the walls.
+*Solution A:* A Facilities demon - an ancient being fused with the building's infrastructure - notices the unauthorized construction and begins hunting the source. The protagonist now has a pursuer who can feel him through the walls.
 
 *Solution B:* Another demon, a middle-manager type who's been mapping the building for decades, realizes the new corridors follow a pattern. She starts following the protagonist's trail, not to stop him but to exploit the architecture he's creating.
 
@@ -130,7 +130,7 @@ What is the specific, concrete image that only this concept could produce?
 
 How does the resolution tie back to the original collision's friction?
 
-*Solution A:* The protagonist finally reaches an exit to the Highway, but the mapper catches up and reveals what the poster is. He faces a choice: keep the poster (and the power to reshape architecture, which he could learn to control) or give it up and escape clean. He tries to do both, naturally. The resulting backfire creates a massive architectural event that tears open the wall to the Highway but also builds a permanent bridge back into the labyrinth. He escapes, but the labyrinth he built is now a real place -- a new wing of the building -- and it has his name on it.
+*Solution A:* The protagonist finally reaches an exit to the Highway, but the mapper catches up and reveals what the poster is. He faces a choice: keep the poster (and the power to reshape architecture, which he could learn to control) or give it up and escape clean. He tries to do both, naturally. The resulting backfire creates a massive architectural event that tears open the wall to the Highway but also builds a permanent bridge back into the labyrinth. He escapes, but the labyrinth he built is now a real place - a new wing of the building - and it has his name on it.
 
 *Solution B:* The mapper corners him and offers a deal: she'll show him the exit if he gives her the poster. He agrees, then tries to double-cross her. The scheme backfires one final time, and the resulting architectural shift seals them both into a new room with no doors. The poster, spent, goes blank. They're stuck together in the one room his failures built that has no way out, because for the first time, he tried to cheat someone who knew exactly what he was carrying.
 
@@ -152,4 +152,4 @@ How does the resolution tie back to the original collision's friction?
 
 **The central tension:** A con artist's every failure literally builds the walls of his own prison, and the only way out is through the monument to everything he's done wrong.
 
-**The concept:** A picaresque demon rogue, surviving by wit and shamelessness in CorpLore's endless corporate office-dungeon, unknowingly carries a stolen Word of the DSVPI sealed inside a motivational poster he uses as a bedroll. Every time one of his schemes backfires, the Word leaks power and reshapes the surrounding architecture, building new corridors, dead ends, and rooms from the wreckage of his failures. He wants nothing more than to reach the Highway and escape the building forever, but his trail of botched cons keeps sealing exits and spawning new wings of labyrinth behind him. When a methodical mapper demon -- the poster's original owner -- begins following his architectural trail, reading his autobiography in the shape of the walls, the rogue must finally outrun someone who knows exactly what he's carrying and can track him by the very disasters he leaves in his wake. The story ends as picaresque stories do: the rogue escapes, but his last and greatest backfire tears open the Highway wall while simultaneously building a permanent bridge back into the labyrinth he created, leaving behind a new wing of the building bearing his name and an open door for everything he wronged to follow him through.
+**The concept:** A picaresque demon rogue, surviving by wit and shamelessness in CorpLore's endless corporate office-dungeon, unknowingly carries a stolen Word of the DSVPI sealed inside a motivational poster he uses as a bedroll. Every time one of his schemes backfires, the Word leaks power and reshapes the surrounding architecture, building new corridors, dead ends, and rooms from the wreckage of his failures. He wants nothing more than to reach the Highway and escape the building forever, but his trail of botched cons keeps sealing exits and spawning new wings of labyrinth behind him. When a methodical mapper demon - the poster's original owner - begins following his architectural trail, reading his autobiography in the shape of the walls, the rogue must finally outrun someone who knows exactly what he's carrying and can track him by the very disasters he leaves in his wake. The story ends as picaresque stories do: the rogue escapes, but his last and greatest backfire tears open the Highway wall while simultaneously building a permanent bridge back into the labyrinth he created, leaving behind a new wing of the building bearing his name and an open door for everything he wronged to follow him through.
