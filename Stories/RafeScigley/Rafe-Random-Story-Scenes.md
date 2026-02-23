@@ -1,7 +1,5 @@
 # The "Xedilian" Story - Scene Breakdown
 
-*A 12,000-15,000 word story.*
-
 ## Scene 1 - "The Cubicle Garden"
 - **Wordcount:** ~1,200
 - **Break after:** Hard divider
