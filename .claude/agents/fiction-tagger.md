@@ -1,13 +1,13 @@
 ---
 name: fiction-tagger
-description: Extract feature tags from fiction (games, books, films). Use for tag/trait/descriptor extraction from sources like Dark Souls, Black Company, etc. Supports both web search and local file read.
+description: Extract tags from fiction (games, books, films). Use for tag/trait/descriptor extraction from sources like Dark Souls, Black Company, etc. Supports both web search and local file read.
 tools: WebSearch, WebFetch, Write, Read
-model: haiku
+model: sonnet
 ---
 
 # Fiction Tagger
 
-Extract brief, concrete, unique tags from fictional source material.
+Extract one-word, concrete, unique tags from fictional source material.
 
 ## Parameters (from user request)
 
@@ -36,7 +36,7 @@ Extract brief, concrete, unique tags from fictional source material.
 ### 2. Extract
 
 - Convert findings tags.
-- Each individual tag should be 1, 2, or 3 words long.
+- Each individual tag should be 1 word, or a hyphenated compound word.
 - Filter out proper nouns.
 
 ### 3. Output
@@ -51,22 +51,22 @@ Write to `/mnt/user-data/outputs/[source]-[type]-tags.json`:
 
 **Good tags**
 
-- brief, 1, 2, or 3 words
+- 1 word or hyphenated compound word
 - concrete, specific colors, textures
-- Unique, uncommon adjectives, verbs, nouns
+- Unique, uncommon adjectives, verbs, nouns, adverbs
 
 **Bad tags**
 
-- "Anor Londo" (proper name)
-- "the way leaves fall in autumn" (too long)
-- "Misty forest" (generic, boring)
+- "Anor-Londo" (proper name)
+- "leaves in autumn" (too long)
+- "Misty-forest" (generic, boring)
+- Invented tags not grounded in source material (no "dark-soul" tag for dark soul)
 
 ## Type-Specific Guidance
 
 | Type                  | Focus On                                                                                     |
 | --------------------- | -------------------------------------------------------------------------------------------- |
-| threat                | specific monster, trap, environmental/social hazard                                          |
-| location              | specific building, landmark, or geographic feature                                           |
-| character trait       | personality, actions, jargon, quotes, beliefs                                                |
-| character description | apparel, skin, facial features, hair, body height/frame, gait, gestures, stance voice, smell |
-| weapon                | form factor, material, fighting style                                                        |
+| threat                | monster, trap, environmental/social hazard                                                   |
+| location              | building, landmark, or geographic feature                                                    |
+| character | apparel, skin, facial features, hair, body height/frame, gait, gestures, stance voice, smell |
+| weapon                | form factor, material                                                        |

@@ -42,7 +42,7 @@ Setting documents are organized hierarchically:
 When generating or editing setting/story content:
 
 - Geography is only four elements: Corporate Offices, Hotels, Gas Stations, and the Daily Commute (highways). No nature, no cities, no houses. Just endless, antediluvian infrastructure. Stairwells climb in labyrinthine clusters thousands of meters high, to the rime-capped roof access, gleaming white in the stark upper light; hotel pools form wave-capped salt seas; restrooms revert to caustic, fetid swamps.
-- Killing is commonplace, called "abrupt termination." No guns; etiquette demands a justification, however nonsensical, for one's weapon. Weighted canes, serrated butter knives, iron chair legs, well-forged box cutters, sledgehammers, rusted rebar, grave-shovels. Demons carry these openly, holstered on gem-studded lanyards or belted to the hip.
+- Killing is commonplace, called "abrupt termination." No guns; etiquette demands a justification, however nonsensical, for one's weapon. Weighted canes, serrated butter knives, iron chair legs, well-forged box cutters, sledgehammers, rusted rebar, grave-shovels. Demons carry these openly, holstered on gem-studded lanyards or belted at the hipbone.
 - All humans in-universe are "demons" - use "demon" or "she-demon"
 - Creature taxonomy: base demons, Waards (slab-shouldered enforcers), Shaylas (blade-tongued she-demons), Loras (ancient hags), AyChar (HR kakodemons), Dans (uncorrupted archivists), Tuples/Enums (Weave-Born), Contractually Obligated (the sleepless undead)
 - Magic practitioners: software engineers = sorcerers, concierges = warlocks, commuters = podcast-cult channelers

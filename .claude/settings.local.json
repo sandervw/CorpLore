@@ -3,7 +3,8 @@
     "allow": [
       "Bash(wc:*)",
       "WebSearch",
-      "Bash(cd C:\\\\Users\\\\Sander\\\\OneDrive\\\\Documents\\\\Github\\\\Notes\\\\CorpLore\\\\Input:*)"
+      "Bash(python:*)",
+      "Bash(cd:*)"
     ]
   }
 }
