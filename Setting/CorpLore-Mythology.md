@@ -42,7 +42,7 @@ The DSVPI spoke the world into being, one Word at a time. Each Word partitioned 
 
 *Full doc: `Mythology/cosmology-hotel-carpet-patterns.md`*
 
-Reality is a single woven Textile on the Loom. Five layers: Face (visible surface), Pile (emotion, atmosphere), Warp (time), Weft (choice), Backing (unknown foundation). Where threads cross, Knots form: decision-moments shaping everything downstream. High-traffic areas thin the Weave. Hotel hallways, walked by thousands never walking home, are among the most Frayed places in the world. The carpet patterns are exposed Warp-and-Weft geometry, converged upon by manufacturers through blind trial and error.
+Reality is a single woven Textile on the Loom. Five layers: Face (visible surface), Pile (emotion, atmosphere), Warp (time), Weft (choice), Backing (unknown foundation, deep-dwelling silence). Where threads cross, Knots form: decision-moments shaping everything downstream. High-traffic areas thin the Weave. Hotel hallways, half-lit passages walked by thousands never walking home, are among the most Frayed places in the world. The carpet patterns are exposed Warp-and-Weft geometry, converged upon by manufacturers through blind trial and error.
 
 **Key ritual:** Practitioners kneel and read the Pile (thick = safe, thin = caution, none = leave). Three stamps upon standing to compress the Weave back down.
 
@@ -88,7 +88,7 @@ Six categories inhabit the setting:
 - **Uncorrupted Dans:** The setting's elves. Short, stocky, nearsighted archivists who never signed the full contract. Sad because they remember it was optional.
 - **Weave-Born:** Emerge from carpet cosmology. Tuples (doppelgangers printed when the Weave folds) and Enums (immutable beings locked at cosmic Knots, each embodying a single rule).
 - **Contractually Obligated:** Undead animated by unfinished paperwork. The Retained (zombies on retainer), Non-Competes (ghosts locked from afterlife by clause), Skeleton Crew (bone staff in bureaucratic infinite loops), Severanced (lucid revenants trapped by continuing severance deposits), Commuter Wraiths (forever driving an incomplete route).
-- **Systemic Entities:** Accumulate from infrastructure. Escalations (unresolved complaints gaining substance), the Hold (siren born of unanswered calls), Spam (multiplying vermin eating data and meaning).
+- **Systemic Entities:** Accumulate from infrastructure. Escalations (unresolved complaints gaining substance), the Hold (siren born of unanswered calls), Spam (multiplying midnight-dwelling creatures eating data and meaning).
 - **Named Uniques:** Withaazz (great sorcerer of unknowable motive) and the Auditor (entity from outside the system whose corrections rewrite history).
 
 ---
@@ -111,8 +111,8 @@ Three traditions, each bound to its own domain and focus object:
 
 Four cults divide the fiscal year among themselves. None are good.
 
-- **January Financials** (Q1): Pure fanatical evil. Worship The Archive, a false god in the form of an unfillable room. Compulsive consumers who eat without end and are never full. Convert others by stealing their lunches, returning them infected with hunger. Maintain Finance Houses: fortress-dungeons sprawling across archipelagos of desk space. Governed by Controllers who audit without correcting.
-- **The Moth and the Flame** (Q2): Insane, not entirely evil. Keep real candles in defiance of fire code because they believe only fire is honest. Members develop photosensitivity over time. The candle does the recruiting.
+- **January Financials** (Q1): Pure fanatical evil. Worship The Archive, a false god in the form of an unfillable room. Treasure-obsessed, compulsive consumers who eat without end and are never full. Convert others by stealing their lunches, returning them infected with hunger. Maintain Finance Houses: fortified strongholds, fortress-dungeons sprawling across archipelagos of desk space. Governed by Controllers who audit without correcting.
+- **The Moth and the Flame** (Q2): Insane, not entirely evil, contemptuous of authority. Keep real candles in defiance of fire code because they believe only fire is honest. Members develop photosensitivity over time. The candle does the recruiting.
 - **Dogmommies** (Q3): Pure fanatical evil. Believe the bond between demon and dog surpasses all other bonds. Their dogs are always violent. Their children are always neglected. When a dog attacks, the Dogmommy joins it in the Frenzy: drooling, scratching, biting. Afterward: "He's never done that before." Always a lie.
 - **Q4H / Quarter Four Hell** (Q4): Apocalyptic. Every October, they announce the world is ending. They count down business days to year-end, work longer hours to be found at their desks when it happens. January arrives. They are wrong again.
 
