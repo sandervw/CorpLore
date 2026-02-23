@@ -4,12 +4,14 @@
 
 ## Ideas
 
-Break into 4-5 seperate stories (IE. *The Eyes of the Overworld*, by Jack Vance)
-- Base off of one of ashton smith's?
+Break into 4-7 separate stories (IE. *The Eyes of the Overworld*, by Jack Vance)
 
 Add overall style/tone to story outline
 - Freeman style?
-- Wierd Fantasy/Fiction Tone? (The Dying Earth)
+- Weird Fantasy/Fiction Tone?
+
+For individual stories - base them on works of Vance, Ashton-Smith
+- Rework their best scenes to fit your setting?
 
 ---
 
@@ -75,37 +77,20 @@ Add overall style/tone to story outline
 
 **Description:**
 - Basically: "The G-man" from *Half-Life 2*, but with pale blonde hair
-- symbolic_animal: Heron
-- gender: Male
-- rough_age: indeterminate; gives the impression of long tenure
-- height: Average
-- face: Composed; moves too little
-- eyes: Pale
-- expression: Professional courtesy that never reaches the eyes
-- voice: Quiet; never raises it
-- movement: Never runs
-- equipment:
-    - clothing: A well-pressed charcoal suit, buttoned correctly; a tie pinned with a small January Financials sigil (a frozen numeral)
-    - weapons: a heavy brass hole-punch, carried at his belt like a sidearm
-    - footwear: polished black oxfords
-    - bags: a slim leather portfolio case, always clasped shut
-    - other: a fountain pen used to update Rafe's outstanding balance
+- Composed; moves too little
+- Professional courtesy that never reaches the eyes
+- Never runs
+- A well-pressed charcoal suit, buttoned correctly; a tie pinned with a small January Financials sigil (a frozen numeral)
+- a heavy brass hole-punch
+- polished black oxfords
 
 **Personality:**
-- A Liquidator of the January Financials cult: collects outstanding debts, "by any means"
-- Not cruel; simply certain of what is owed
+- A Liquidator of the January Financials cult: collects outstanding debts
 - Metaphor Family: accounting terminology used with liturgical weight
 - Fallback Personality: Absolute professional composure
-- Fallback argument tactic: Cites the exact figure owed, to the decimal, and waits
+- Fallback argument tactic: Cites the exact figure owed, then waits
 - Goal: Recover the poster; collect the full outstanding balance from Rafe by any means the cult's doctrine permits
 - Weakness: Rigid adherence to process; cannot improvise
 - Strength: Patience, inevitability
 
 ---
-
-## Storie/Scene ideas
-
-*Each to be fleshed out in their own story doc - keeps context clean.*
-
-Pick based on works of Vance, Ashton Smith
-- Rework their best scenes to fit your setting?

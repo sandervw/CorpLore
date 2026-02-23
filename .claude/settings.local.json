@@ -2,7 +2,8 @@
   "permissions": {
     "allow": [
       "Bash(wc:*)",
-      "WebSearch"
+      "WebSearch",
+      "Bash(cd C:\\\\Users\\\\Sander\\\\OneDrive\\\\Documents\\\\Github\\\\Notes\\\\CorpLore\\\\Input:*)"
     ]
   }
 }
