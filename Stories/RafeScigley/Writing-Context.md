@@ -12,7 +12,7 @@
 - **Style lean:** Vance
 - **Scene Priorities:** Character, Humor, Description
 
-While passing through a Cubicle Garden in the 'Department of Gender-Appropriate Commination - Teams 7.A through 8.G', Rafe attempts to steal a Forever World from one of the employees (he has no 'capacity' to build his own). He poses as a Compliance Liaison conducting ergonomic spot-checks, and directs the employee to report to a nonexistent Calibration Office on the fourth mezzanine for "corrective alignment." By the time the employee departs and Rafe gets access to his unlocked terminal, the Ward of User Authentication has faded due to inactivity. Instead, Rafe sees an advertisement for new hires in this department; he comes up with a scheme to apply and fail the interview. Before leaving the alcove, Rafe pockets the employee's badge - a laminated ID card left on the desk. This ID becomes important later.
+While passing through a Cubicle Garden in the 'Department of Gender-Appropriate Commination - Teams 7.A through 8.G', Rafe attempts to steal a Forever World from one of the employees (he has no 'capacity' to build his own). He poses as a Compliance Liaison conducting ergonomic spot-checks, and directs the employee to report to a nonexistent Calibration Office on the fourth mezzanine for "corrective alignment." By the time the employee departs and Rafe gets access to his unlocked terminal, the Ward of User Authentication has faded due to inactivity, and Rafe loses access to the Forever World. Instead, Rafe sees an advertisement for new hires in this department; he comes up with a scheme to apply and fail the interview. Before leaving the alcove, Rafe pockets the employee's badge - a laminated ID card left on the desk. This ID becomes important later.
 
 ## Characters
 
@@ -47,7 +47,7 @@ While passing through a Cubicle Garden in the 'Department of Gender-Appropriate 
 - Weakness: greed, impulsiveness
 - Strength: resourcefulness, quick thinking
 
-**EXAMPLE Quotes (for voice only; DO NOT USE):**
+**EXAMPLE Quotes (for voice only; DO NOT USE THESE IN THE SCENE):**
 1. "I must consider."
 2. "I shall add this to my expenses."
 3. "The architecture of the fraud is genuinely beautiful - a nested series of forwarded approvals, each invoked by demons who do not exist. I could not bring myself to dismantle such craftsmanship. That I also profited is incidental."

@@ -2,32 +2,25 @@
 
 ## Scene Summary
 
-*150 WORD TOTAL, MAXIMUM*
-
-[Text]
+[Text - *150 WORD TOTAL, MAXIMUM*]
 
 ## Ending Text
 
-*50 WORD TOTAL, MAXIMUM*
-
-[The concluding paragraph/sentences of the scene - use ellipses if necessary]
+[The concluding paragraph/sentences of the scene - use ellipses if necessary - *50 WORD TOTAL, MAXIMUM*]
 
 ## Questions Posed
 
-*50 WORDS TOTAL, MAXIMUM*
-
+[*50 WORDS TOTAL, MAXIMUM* for questions]
 - [Unresolved thread or tension that carries forward]
 - [...]
 
 ## Characters Introduced or Referenced
 
-*50 WORDS PER CHARACTER, MAXIMUM*
-
-**[Character Name]:** [Physical/Personality Description]
+**[Character Name]:** [Physical/Personality Description - *50 WORDS PER CHARACTER, MAXIMUM*]
 
 ## Reflection
 
-*50 WORDS TOTAL, MAXIMUM*
+[*50 WORDS TOTAL, MAXIMUM* for reflection]
 
 **What worked:** [Text]
 
