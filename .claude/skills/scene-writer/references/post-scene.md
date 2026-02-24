@@ -8,9 +8,13 @@ This is the final assembly step before presenting the finished scene. The goal h
 
 Write a **brief summary (under 150 words)** of the full scene you just wrote. Cover what happened, what changed, and where things stand at the end. This is a narrative synopsis, not a craft analysis — save that for the Reflection (which should already be filled in from the review step).
 
-### 2. Characters Introduced or Referenced
+### 2. Ending Text
 
-For each character who was introduced or meaningfully referenced in the scene, write a **brief description (under 100 words each)** covering:
+Copy the concluding paragraph or sentences of the scene **(under 50 words)**. Use ellipses to start the text if necessary. This provides a jumping-off point if it is needed by the next scene.
+
+### 3. Characters Introduced or Referenced
+
+For each character who was introduced or meaningfully referenced in the scene, write a **brief description (under 50 words each)** covering:
 
 - **Physical**: What they look like — distinctive features, build, dress, mannerisms.
 - **Personality**: How they behave — temperament, speech patterns, disposition, any shifts revealed in this scene.

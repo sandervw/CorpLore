@@ -60,18 +60,33 @@
 
 ### Scene Summary (created during Step 11)
 
+*150 WORD TOTAL, MAXIMUM*
+
 [Text]
 
+## Ending Text (created during Step 11)
+
+*50 WORD TOTAL, MAXIMUM*
+
+[The concluding paragraph/sentences of the scene - use ellipses if necessary]
+
 ### Questions Posed (created during Step 8)
+
+*50 WORDS TOTAL, MAXIMUM*
 
 - [Unresolved thread or tension that carries forward]
 - [...]
 
+
 ### Characters Introduced or Referenced (created during Step 11)
+
+*50 WORDS PER CHARACTER, MAXIMUM*
 
 **[Character Name]** — [Physical/Personality Description]
 
 ### Reflection (created during Step 9)
+
+*50 WORDS TOTAL, MAXIMUM*
 
 **What worked:** [Text]
 

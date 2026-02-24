@@ -13,6 +13,9 @@ Add overall style/tone to story outline
 For individual stories - base them on works of Vance, Ashton-Smith
 - Rework their best scenes to fit your setting?
 
+One story based on best Morrowind ancestral tomb delving
+- pick the best tomb, based on involved quest, compelx layout
+
 ---
 
 ## High Concept
@@ -26,37 +29,30 @@ For individual stories - base them on works of Vance, Ashton-Smith
 ### Mr. Rafe Scigley (Protagonist - The "Professional"):
 
 **Description:**
-- symbolic_animal: Fox
-- gender: Male
 - rough_age: Middle-aged (indeterminate, but experienced)
 - height: Tall
-- build: Lean, bony, spare
-- stance: Loose-jointed, restless
-- hands: Long-fingered, deft, light of touch
-- hair: short, dark, and slightly unkempt; practical and low-maintainence
-- face: Lean and bony; an angular nose, a droll mouth
-- eyes: Darting, sharp
-- expression: Vivacity, candor, and affability - a mask of agreeable openness
+- build: Lean, loose-jointed, long-fingered
+- hair: short, dark, and slightly unkempt
+- face: An angular nose, a droll mouth, sharp eyes
+- expression: A mask of vivacity, candor and affability,
 - voice: Soft of tongue; smooth
 - movement: Supple, quick
 - equipment:
-    - clothing: A rumpled sport coat over an shirt untucked, tie long-gone, slacks fraying at the cuffs; coat has too many inside pockets
-    - weapons: a stainless steel bonsai root hook, worn at his belt
+    - clothing: A rumpled sport coat with too many inside pockets
+    - weapons: a sharpened, stainless steel bonsai root hook, worn at his belt
     - footwear: brown loafers
-    - bags: messenger bag
-    - other: rolled-up motivation office poster tucked into bag
+    - other: rolled-up motivation office poster tucked into a messenger bag (unknown to Rafe - a stolen word of the DSVPI)
 
 **Personality:**
-- A self-styled cunning 'job man' - can perform any job required of him; really a less-than-competent sociopath who schemes his way through problems
-- Genuinely despicable
+- A self-styled 'job man' - can perform any job required of him; really a less-than-competent sociopath and schemer
 - Remains fundamentally unchanged throughout the story
-- Values: wealth, status, leisure, freedom
+- Values: wealth, status, beauty (women and art), leisure
 - No backstory (beyond what he invents for his schemes)
 - Metaphor Family: a patois of corporate jargon, aristocratic vocabulary, and vulgar innuendo
 - Fallback Personality: Grandiose self-assurance
 - Fallback argument tactic: Verbal misdirection, and appeal to personal-authority
-- Goal: "clock out" - escape his current office, terminating his employment
-- Weakness: narcissism, greed, impulsiveness
+- Goal: "clock out" - escape his current office
+- Weakness: greed, impulsiveness
 - Strength: resourcefulness, quick thinking
 
 **Quotes:**
@@ -66,9 +62,9 @@ For individual stories - base them on works of Vance, Ashton-Smith
 4. "You stand before a demon of senior tenure, unblemished review history, and a corner desk by the window - though the window, I grant you, overlooks an interior hall. You may address me as Mr. Scigley."
 5. "My calendar shows nothing."
 6. "The corridor is longer than the map suggested, and the map was not encouraging."
-7. "The architecture of the fraud is genuinely beautiful - a nested series of forwarded approvals, each stamped by demons who do not exist. I could not bring myself to dismantle such craftsmanship. That I also profited is incidental."
-8. "I am Rafe Scigley; my ability is proven fact."
-9. "A minor variance in the floor plan. The corridor was there this morning; I am confident it will return."
+7. "The architecture of the fraud is genuinely beautiful - a nested series of forwarded approvals, each invoked by demons who do not exist. I could not bring myself to dismantle such craftsmanship. That I also profited is incidental."
+8. "A hiccup in the floor plan. The corridor was there this morning; I am confident it will return."
+9. "I am Rafe Scigley; my ability is proven fact."
 10. "I trust Janitorial will manage the rest. I believe I noticed a break room six doors down from here; you may bring me a coffee."
 
 ### Mr. Purslane Sinocarre (Antagonist - The Liquidator):

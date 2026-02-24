@@ -1,22 +1,35 @@
-# The "Xedilian" Story - Scene Breakdown
+# The "Xedilian" Story
 
 *A 12,000-15,000 word story.*
 
+Priorities:
+- Movement
+- Blodshed
+- Description
+- Character
+- Subtext
+- Humor
+- Lore
+
+**Prompt:** Hey claude, take a read through @Stories/RafeScigley/Writing-Context.md . Use your scene-writer skill to work through the current scene of the story. Note the scene placement/number, prioties, wordcount, and description. Before you start, Read through @Setting/CorpLore.md to get extra setting context. Do not read any other files in the stories folder.
+
 ## Scene 1 - "The Cubicle Garden"
 - **Wordcount:** ~1,200
-- **Break after:** Hard divider
+- **Break after:** None
 - **Style lean:** Vance
+- **Scene Priorities:** Character, Humor, Description
 
-While passing through a Cubicle Garden in the 'Department of Gender-Appropriate Commination - Teams 7.A through 8.G', Rafe attempts to steal a Forever World from one of the employees (he has no 'capacity' to build his own). By the time he gets access to the employee's unlocked terminal, the session has logged out due to inactivity. Instead, Rafe sees an advertisement for new hires in the department; he comes up with a scheme to apply and fail the interview. Before leaving the alcove, Rafe pockets the employee's badge - a laminated ID card left on the desk. This ID becomes important in the Chamber of Conversion.
+While passing through a Cubicle Garden in the 'Department of Gender-Appropriate Commination - Teams 7.A through 8.G', Rafe attempts to steal a Forever World from one of the employees (he has no 'capacity' to build his own). He poses as a Compliance Liaison conducting ergonomic spot-checks, and directs the employee to report to a nonexistent Calibration Office on the fourth mezzanine for "corrective alignment." By the time the employee departs and Rafe gets access to his unlocked terminal, the Ward of User Authentication has faded due to inactivity. Instead, Rafe sees an advertisement for new hires in this department; he comes up with a scheme to apply and fail the interview. Before leaving the alcove, Rafe pockets the employee's badge - a laminated ID card left on the desk. This ID becomes important in the Chamber of Conversion.
 
 ---
 
 ## Scene 2 - "The Word Misapplied"
-- **Wordcount:** ~1,000
-- **Break after:** Soft/None
+- **Wordcount:** ~500
+- **Break after:** Hard divider
 - **Style lean:** Vance
+- **Scene Priorities:** Exposition, Humor
 
-When he accidentally speaks the word of power in his poster, it destroys his plan without his knowing, altering the geometry of the building so that he wanders directly into the orientation ceremony by HR.
+Rafe accidentally and unknowingly speaks the word of power in his poster just as the presceding scene is ending. It destroys his plan without his knowing, altering the geometry of the building so that he will wander directly into the orientation ceremony by HR (skipping the interview).
 
 ---
 

@@ -88,13 +88,13 @@ Write your reviewed scene prose into the **Full Scene** section. Combine the set
 
 Read `references/post-scene.md`.
 
-Follow the reference file's instructions to generate post-scene material — filling in the **Scene Summary** and **Characters Introduced or Referenced** subsections.
+Follow the reference file's instructions to generate post-scene material — filling in the **Scene Summary**, **Ending Text**, and **Characters Introduced or Referenced** subsections.
 
 ### Step 12: Write Post-Scene Summary
 
 Copy the `assets/post-scene-summary.md` template to a new file named `[Storyname]-Scene-[X]-Summary.md`.
 
-Write the full post-scene material (Scene Summary, Questions Posed, Characters, and Reflection) into this file.
+Write the full post-scene material (Scene Summary, Ending Text, Questions Posed, Characters, and Reflection) into this file.
 
 ### Step 13: Clean Up & Present
 
