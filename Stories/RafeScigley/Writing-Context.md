@@ -4,15 +4,15 @@
 
 ## Scene Description
 
-*Scene 1 / 10*
+*Scene 2 / 10*
 
 ### Scene 1 - "The Cubicle Garden"
-- **Wordcount:** ~1,200
-- **Break after:** None
+- **Wordcount:** ~500
+- **Break after:** Hard divider
 - **Style lean:** Vance
-- **Scene Priorities:** Character, Humor, Description
+- **Scene Priorities:** Exposition, Humor
 
-While passing through a Cubicle Garden in the 'Department of Gender-Appropriate Commination - Teams 7.A through 8.G', Rafe attempts to steal a Forever World from one of the employees (he has no 'capacity' to build his own). He poses as a Compliance Liaison conducting ergonomic spot-checks, and directs the employee to report to a nonexistent Calibration Office on the fourth mezzanine for "corrective alignment." By the time the employee departs and Rafe gets access to his unlocked terminal, the Ward of User Authentication has faded due to inactivity, and Rafe loses access to the Forever World. Instead, Rafe sees an advertisement for new hires in this department; he comes up with a scheme to apply and fail the interview. Before leaving the alcove, Rafe pockets the employee's badge - a laminated ID card left on the desk. This ID becomes important later.
+Rafe accidentally and unknowingly speaks the word of power in his poster just as the presceding scene is ending. It destroys his plan without his knowing, altering the geometry of the building so that he will wander directly into the orientation ceremony by HR (skipping the interview).
 
 ## Characters
 
@@ -56,4 +56,10 @@ While passing through a Cubicle Garden in the 'Department of Gender-Appropriate 
 
 ## Prior Scene Reference
 
-None - first scene
+### Scene Summary
+
+Rafe Scigley infiltrates the Cubicle Garden of the Department of Gender-Appropriate Commination, seeking to steal a Forever World from an employee's terminal. Posing as a Compliance Liaison conducting ergonomic spot-checks, he cons a cubicle worker named Gorben Felch into leaving his desk to report to a nonexistent Calibration Office on the fourth mezzanine, layering the deception with invented forms and processing requirements. Once alone, Rafe finds the terminal's Ward of User Authentication still active - but it times out before he can act, locking him out. The Forever World is lost. Scanning the now-generic login screen, he spots a hiring advertisement for the department and conceives a new scheme: apply for a position and deliberately fail the interview, gaining insider access through the attempt itself. Before leaving, he pockets Felch's laminated ID badge from the desk.
+
+### Ending Text
+
+Rafe turned from the terminal and found, beside the glyphboard, a laminated ID card on a coffee-stained lanyard, still warm from its owner's neck. The photograph had faded to a pinkish blur. The name read GORBEN FELCH, COMMINATION ASSOCIATE, TEAM 7.D. Rafe took it.

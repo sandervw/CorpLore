@@ -1,4 +1,4 @@
-the jewelers beheld more clearly the thing that bulked prodigious and monstrous, rearing above them from the fragment-lit-tered floor to the shadowy roof.
+...the jewelers beheld more clearly the thing that bulked prodigious and monstrous, rearing above them from the fragment-lit-tered floor to the shadowy roof.
 
 The thing was like some blasphemous dream of a mad devil. Its main portion or body was urn-like in form and was pedestalled on a queerly tilted block of stone at the vault's center. It was palish and pitted with innumerable small apertures. From its bosom and flat-tened base many arm-like and leg-like projections trailed in swollen nightmare segments to the ground; and two other members, sloping tautly, reached down like roots into an open and seemingly empty sarcophagus of gilded metal, graven with weird archaic ciphers, that stood beside the block.
 
