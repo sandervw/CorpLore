@@ -7,9 +7,3 @@ Rafe Scigley infiltrates the Cubicle Garden of the Department of Gender-Appropri
 ## Ending Text
 
 Rafe turned from the terminal and found, beside the glyphboard, a laminated ID card on a coffee-stained lanyard, still warm from its owner's neck. The photograph had faded to a pinkish blur. The name read GORBEN FELCH, COMMINATION ASSOCIATE, TEAM 7.D. Rafe took it.
-
-## Characters Introduced or Referenced
-
-**Mr. Rafe Scigley:** Tall, lean, angular-nosed, with sharp eyes and a droll mouth. Wears a rumpled sport coat with too many pockets and a sharpened bonsai root hook at his belt. Voice is smooth and authoritative. A self-styled professional whose confidence outpaces his competence; adapts quickly when schemes collapse.
-
-**Gorben Felch:** Round-shouldered, hunched, flat-eyed. A mid-level commination associate of Team 7.D. Speaks without conviction, moves with trained obedience. Departs his cubicle without protest when presented with sufficiently official-sounding nonsense.

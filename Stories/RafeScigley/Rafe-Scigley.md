@@ -16,11 +16,13 @@ For individual stories - base them on works of Vance, Ashton-Smith
 One story based on best Morrowind ancestral tomb delving
 - pick the best tomb, based on involved quest, compelx layout
 
+**PROMPT:** Hey claude, take a read through @Stories/RafeScigley/Rafe-Random-Story.md . Use your scene-writer skill to work through **scene 2** of the story. Note the scene prioties, wordcount, and description. Before you start, Read through @Stories/RafeScigley/Writing-Context.md for prior scene context, and @Setting/CorpLore.md to get extra setting context. Do not read any other files in the stories folder.
+
 ---
 
 ## High Concept
 
-**The concept:** A picaresque demon rogue, surviving by wit and shamelessness in TODO (one of CorpLore's endless corporate office-dungeons), unknowingly carries a stolen Word of the DSVPI sealed inside a motivational poster he uses as a bedroll. Every time one of his schemes backfires, the Word leaks power and reshapes the surrounding architecture, building new corridors, dead ends, and rooms from the wreckage of his failures. His greatest desire is to reach the highway - The Daily Commute - and escape his current employment, but his trail of botched cons keeps sealing exits and spawning new wings of labyrinth. When a methodical finance demon - the poster's original owner, member of the *January Financials* cult - begins following his architectural trail, the rogue must finally outrun someone who knows exactly what he's carrying and can track him by the disasters he leaves in his wake. The story ends as picaresque stories do: the rogue escapes through the Parking Garage of Most Esteemed Reserve (bereft of wealth), but not to the highway. The last and greatest backfire opens an Exit Ramp which leads directly into an enclosed room of shared desks and terminals (windowed, but with windows looking out onto interior halls): the onboarding room for just another, different Corporate Office.
+**The concept:** A picaresque demon rogue, surviving by wit and shamelessness in TODO (one of CorpLore's endless corporate office-dungeons), unknowingly carries a stolen Word of the DSVPI sealed inside a motivational poster he uses as a bedroll. Every time Rafe accidentally speaks the word (usually as part of a scheme), the Word leaks power and reshapes the surrounding architecture, building new corridors, dead ends, and rooms from the wreckage of his failures. His greatest desire is to reach the highway - The Daily Commute - and escape his current employment, but his trail of botched cons keeps sealing exits and spawning new wings of labyrinth. When a methodical finance demon - the poster's original owner, member of the *January Financials* cult - begins following his architectural trail, the rogue must finally outrun someone who knows exactly what he's carrying and can track him by the disasters he leaves in his wake. The story ends as picaresque stories do: the rogue escapes through the Parking Garage of Most Esteemed Reserve (bereft of wealth), but not to the highway. The last and greatest backfire opens an Exit Ramp which leads directly into an enclosed room of shared desks and terminals (windowed, but with windows looking out onto interior halls): the onboarding room for just another, different Corporate Office.
 
 ---
 
@@ -41,7 +43,7 @@ One story based on best Morrowind ancestral tomb delving
     - clothing: A rumpled sport coat with too many inside pockets
     - weapons: a sharpened, stainless steel bonsai root hook, worn at his belt
     - footwear: brown loafers
-    - other: rolled-up motivation office poster tucked into a messenger bag (unknown to Rafe - a stolen word of the DSVPI)
+    - A rolled up motivation poster, tucked inside a messenger bag; unrolled it reads, "*INTEGRITY*. Below, in smaller type: *Doing the right thing when no one is watching.*" (unknown to Rafe - this is a stolen word of the DSVPI)
 
 **Personality:**
 - A self-styled 'job man' - can perform any job required of him; really a less-than-competent sociopath and schemer

@@ -1,23 +1,21 @@
-# Rafe Scigley: Scene 2
+# Xedilian: Scene 2 - "The Word Misapplied"
 
 ## Full Scene
 
-As Rafe stepped toward TODO, he paused to consult the rolled poster he had lifted from the supply corridor on his way through the Cubicle Garden. Its laminate sleeve had come partially undone, exposing the image beneath: a mountain range in deep violet, captioned in gold serif capitals. PERSEVERANCE. Below, in smaller type: *The summit rewards those who endure the climb.*
+Rafe left the cubicle garden with Gorben Felch's badge warm against his thigh. This heat, the result of a badge's separation from it's employee, would fade gradually before the next sunrise.
 
-"Perseverance," Rafe read aloud, approving the sentiment. He tucked the poster back.
+The hiring summons had specified a location: Sub-Level 3, Corridor 9-West, Room 1170. Rafe would present himself, answer every question incorrectly, and be escorted out through whatever service exit the department maintained for failed supplicants. From there, the building's lower arteries would be open to him.
 
-The corridor beyond the Cubicle Garden should have turned left. He had memorized the floor plan on his way in. Instead it ran straight for an improbable distance, fluorescent tubes buzzing at competing frequencies, one of them flickering toward death. At the next junction, the hallways met at a wrong angle. The left corridor, which should have led to the administrative wing, terminated in a blank wall. The right corridor, which Rafe did not recall existing, stretched forward, well-lit and recently mopped.
+*'Although this is a simple gambit'*, rafe thought, *'it is entirely serviceable. The sort of maneuver that separates the professional from the ostentatious.'*
 
-He looked down. The carpet's geometric lattice of interlocking diamonds appeared to be migrating, shapes drifting leftward at the periphery of his vision. He looked back up. From deep within the building came a groan, the sound of an enormous desk being dragged across a floor several stories below.
+He rehearsed as he walked. The corridor narrowed. Overhead, fluorescent tubes cast a flat, antiseptic light that hummed at a frequency just below thought. The messenger bag rode his hip; inside it, the rolled poster shifted against the flap.
 
-*Unremarkable.* Buildings settled. Corridors were occasionally revised. He had worked in offices where entire wings vanished over a long weekend, and the surviving staff simply adjusted their commute. This was infrastructure. It did what it liked.
+Rafe, practicing his introduction almost unconsciously, said, "I would characterize my greatest professional asset as perseverance."
 
-He chose the right corridor and kept moving. Twenty paces in he paused, checked the way behind him, and resettled the bag strap on his shoulder. A water cooler occupied a wall nook ahead. His loafers, which had been scuffing carpet, were now clapping against tile. He had not noticed the transition.
+The ceiling tiles above him shifted. A fluorescent tube stuttered, died, and relit in a colder register, so that the corridor's complexion changed from institutional cream to the blue-white of an operating theater. Rafe did not look up. He was deciding whether to affect a lisp during the rite.
 
-The corridor ended at a pair of double doors, propped open with a rubber wedge. Above them, a motivational poster displayed the same violet mountain range, the same gold word: PERSEVERANCE. Its glass bore a hairline fracture running diagonally from corner to corner, as though something had struck it from the inside.
+Beneath his loafers, the carpet ended. Linoleum began -- the sticky, liver-colored variety found in basement commissaries and disciplinary holding rooms. Gone too was the door behind him. A fire-exit sign rotated on its bracket and came to rest pointing into blank drywall. The corridor, which had run east-west, now ran in a direction that resisted cardinal description.
 
-Beyond the doors, folding chairs had been arranged in rows. A projection screen glowed at the front. A placard on an easel read: ORIENTATION - NEW HIRES - PLEASE BE SEATED.
+He paused at a directory placard mounted at shoulder height. The department names were rearranging themselves: DEPARTMENT OF GENDER-APPROPRIATE COMMINATION flickered, blanked, and was replaced by ONBOARDING - ORIENTATION HALL C. Rafe consulted the new directions. *Closer than I anticipated*, he thought. *The building is cooperating.*
 
-Rafe considered this. He had not applied, had not submitted to any intake rite, had not filled out a single requisition form. The building had delivered him here. *Of course it had.* He touched the badge once and withdrew his hand.
-
-He straightened his sport coat, pressed the poster deeper into his bag, and sat down in the second row.
+It was five-o-clock everywhere now, and Rafe set out to find a place to rest.

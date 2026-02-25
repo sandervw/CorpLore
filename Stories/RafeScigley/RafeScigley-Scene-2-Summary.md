@@ -1,27 +1,9 @@
-# Rafe Scigley: Scene 2 - Post-Scene Summary
+# Xedilian: Scene 2 - Post-Scene Summary
 
 ## Scene Summary
 
-Leaving the Cubicle Garden with Gorben Felch's stolen badge and a new scheme to infiltrate the department via a job interview, Rafe pauses to read aloud the word PERSEVERANCE from a motivational poster in his messenger bag. The Word, a fragment of the DSVPI's original creation utterance, reshapes the building's geometry around him. Corridors extend, junctions reorient, and the path to the hiring office vanishes. Rafe, attributing the changes to ordinary infrastructure drift, follows the only available route and arrives at an orientation room for new hires. He has bypassed the interview entirely. Unaware that his own spoken Word rerouted him, he takes a seat and waits for what he assumes is a convenient shortcut into employment.
+Walking away from the cubicle garden, Rafe rehearses his plan to deliberately fail a hiring interview and gain access to the building's lower levels. While practicing interview responses, he speaks the word "perseverance" aloud - unknowingly activating the stolen motivational poster in his messenger bag, which contains a Word of the DSVPI. The building's geometry silently restructures around him: ceiling tiles shift, fluorescent lighting changes temperature, carpet gives way to linoleum, doors vanish, and a directory placard rearranges its listings from the Department of Gender-Appropriate Commination to "Onboarding - Orientation Hall C." Rafe, oblivious to the transformation, reads the new directions as a convenient shortcut. He follows the rerouted corridor toward a pair of open double doors, walking directly into the HR orientation ceremony - bypassing the interview entirely and rendering his scheme moot before it begins.
 
 ## Ending Text
 
-...and selected a seat in the second row. Not the front. The front suggested eagerness. The second row suggested a man who had been expected.
-
-## Questions Posed
-
-- What will the HR orientation ceremony involve, and what has Rafe unknowingly committed to by sitting down?
-- Does the building now recognize Rafe as an employee? Has the Word bound him into the architecture?
-- Will the cracked poster be noticed by others?
-
-## Characters Introduced or Referenced
-
-**Rafe Scigley:** Tall, lean, angular-nosed, wearing a rumpled sport coat and brown loafers. Carries a messenger bag with a rolled motivational poster and a stolen ID badge. Self-assured to the point of comedy; treats impossible architectural shifts as minor administrative inconveniences. Adapts instantly, always positioning himself as expected.
-
-## Reflection
-
-**What worked:** The Vancean voice carried the humor well. The "buildings settled, corridors were occasionally revised" paragraph does double duty as worldbuilding and comedy. The cracked poster payoff lands.
-
-**What was cut in review:** Nothing major cut; ending expanded for stronger character beat.
-
-**What's missing:** No interaction with other demons. The scene is entirely internal/environmental.
+...Rafe did not find this remarkable. He had worked in older buildings. Ahead, a pair of double doors stood open. Light and voices spilled from within.

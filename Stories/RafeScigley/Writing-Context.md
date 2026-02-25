@@ -2,18 +2,6 @@
 
 **Overall Story Idea:** Picaresque Dungeon Crawl meets the *CorpLore* Setting
 
-## Scene Description
-
-*Scene 2 / 10*
-
-### Scene 1 - "The Cubicle Garden"
-- **Wordcount:** ~500
-- **Break after:** Hard divider
-- **Style lean:** Vance
-- **Scene Priorities:** Exposition, Humor
-
-Rafe accidentally and unknowingly speaks the word of power in his poster just as the presceding scene is ending. It destroys his plan without his knowing, altering the geometry of the building so that he will wander directly into the orientation ceremony by HR (skipping the interview).
-
 ## Characters
 
 *Below are pre-specified characters - introduce additional as needed*
@@ -33,33 +21,50 @@ Rafe accidentally and unknowingly speaks the word of power in his poster just as
     - clothing: A rumpled sport coat with too many inside pockets
     - weapons: a sharpened, stainless steel bonsai root hook, worn at his belt
     - footwear: brown loafers
-    - other: rolled-up motivation office poster tucked into a messenger bag (unknown to Rafe - a stolen word of the DSVPI)
+    - A rolled up motivation poster, tucked inside a messenger bag; unrolled it reads, "*INTEGRITY*. Below, in smaller type: *Doing the right thing when no one is watching.*" (unknown to Rafe - this is a stolen word of the DSVPI)
 
 **Personality:**
 - A self-styled 'job man' - can perform any job required of him; really a less-than-competent sociopath and schemer
 - Remains fundamentally unchanged throughout the story
-- Values: wealth, status, beauty (women and art), leisure
 - No backstory (beyond what he invents for his schemes)
+- Values: wealth, status, beauty (women and art), leisure
 - Metaphor Family: a patois of corporate jargon, aristocratic vocabulary, and vulgar innuendo
 - Fallback Personality: Grandiose self-assurance
 - Fallback argument tactic: Verbal misdirection, and appeal to personal-authority
-- Goal: "clock out" - escape his current office
+- Goal: "clock out" - escape his current office/employment; reach The Daily Commute
 - Weakness: greed, impulsiveness
 - Strength: resourcefulness, quick thinking
 
-**EXAMPLE Quotes (for voice only; DO NOT USE THESE IN THE SCENE):**
-1. "I must consider."
-2. "I shall add this to my expenses."
-3. "The architecture of the fraud is genuinely beautiful - a nested series of forwarded approvals, each invoked by demons who do not exist. I could not bring myself to dismantle such craftsmanship. That I also profited is incidental."
-4. "A hiccup in the floor plan. The corridor was there this morning; I am confident it will return."
-5. "I trust Janitorial will manage the rest. I believe I noticed a break room six doors down from here; you may bring me a coffee."
+### Applicant 1 (Lorre-type):
+
+Small, soft-faced, dark liquid eyes. Folds and refolds a crumpled résumé with nervous, restless hands. Whispering voice. Retreats to corners when violence breaks out. Wants safety and a desk.
+
+### Applicant 2 (Greenstreet-type):
+
+Enormous, broad, well-fed. Fills chairs like a river fills a canyon. Laughter rumbles like furniture dragged across stone. Watches violence with genial interest, hands folded across belly. Jovial, dangerous.
+
+### Applicant 3 (Astor-type):
+
+A she-demon of composed beauty. Cool, appraising eyes. Carries a leather portfolio like armor. Says nothing, moves little, tracks everything. Hiding something.
+
+### Facilities Coordinator:
+
+Gaunt, towering, in a threadbare custodial robe. Face like a ledger of creases. Eyes set deep like lights at a hallway's end. Carries iron keys and a black leather clipboard. Dry, precise voice. Ancient.
 
 ## Prior Scene Reference
 
 ### Scene Summary
 
-Rafe Scigley infiltrates the Cubicle Garden of the Department of Gender-Appropriate Commination, seeking to steal a Forever World from an employee's terminal. Posing as a Compliance Liaison conducting ergonomic spot-checks, he cons a cubicle worker named Gorben Felch into leaving his desk to report to a nonexistent Calibration Office on the fourth mezzanine, layering the deception with invented forms and processing requirements. Once alone, Rafe finds the terminal's Ward of User Authentication still active - but it times out before he can act, locking him out. The Forever World is lost. Scanning the now-generic login screen, he spots a hiring advertisement for the department and conceives a new scheme: apply for a position and deliberately fail the interview, gaining insider access through the attempt itself. Before leaving, he pockets Felch's laminated ID badge from the desk.
+Rafe enters the Aychar's office posing as a job applicant, intending to fail the interview and be ejected from the building. Three other applicants wait in the reception area: a small, nervous demon; an enormous, jovial one; and a composed, watchful she-demon. The Aychar, a floating mass of HR flesh, informs Rafe there is no interview. His application was already processed and approved; fabricated credentials are not disqualifying. Rafe is hired on the spot. He refuses, fights the hiring demons, and is beaten and dragged through the far door. His bonsai root hook is taken. In the corridor beyond, the Facilities Coordinator, a gaunt, ancient figure in custodial robes, takes charge of all four applicants and announces they will enter three chambers. Rafe follows, his original plan destroyed.
 
 ### Ending Text
 
-Rafe turned from the terminal and found, beside the glyphboard, a laminated ID card on a coffee-stained lanyard, still warm from its owner's neck. The photograph had faded to a pinkish blur. The name read GORBEN FELCH, COMMINATION ASSOCIATE, TEAM 7.D. Rafe took it.
+...He was not in the habit of discarding advantages.
+
+He followed the Coordinator. The iron keys rang with each step, echoing off the corridor walls.
+
+### Questions Posed
+
+- What are the three chambers, and will Rafe survive them?
+- What is the Astor-candidate hiding? She alone showed no fear.
+- Can Rafe recover his confiscated bonsai root hook?
