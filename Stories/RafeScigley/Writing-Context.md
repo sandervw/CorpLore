@@ -35,28 +35,40 @@
 - Weakness: greed, impulsiveness
 - Strength: resourcefulness, quick thinking
 
-### Applicant 1 (Lorre-type):
+### Mr. Purslane Sinocarre (Antagonist - The Liquidator):
 
-Small, soft-faced, dark liquid eyes. Folds and refolds a crumpled résumé with nervous, restless hands. Whispering voice. Retreats to corners when violence breaks out.
+**Role:** Background antagonist. Not seen in person. His influence is felt through escalating collection notices (paper slips, terminal messages, intercom announcements) that remind Rafe his account balance has grown and that Mr. Sinocarre is looking for him.
 
-### Applicant 2 (Greenstreet-type):
+**Description:**
+- Basically: "The G-man" from *Half-Life 2*, but with pale blonde hair
+- Composed; moves too little
+- Professional courtesy that never reaches the eyes
+- Never runs
+- A well-pressed charcoal suit, buttoned correctly; a tie pinned with a small January Financials sigil (a frozen numeral)
+- a heavy brass hole-punch
+- polished black oxfords
 
-corpulent with hideous quantities of flesh. Fills chairs like pus in a blister. Laughter rumbles like furniture dragged across stone. Watches violence with genial interest, hands folded across belly. Jovial, dangerous.
+**Personality:**
+- A Liquidator of the January Financials cult: collects outstanding debts
+- Metaphor Family: accounting terminology used with liturgical weight
+- Fallback Personality: Absolute professional composure
+- Fallback argument tactic: Cites the exact figure owed, then waits
+- Goal: Recover the poster; collect the full outstanding balance from Rafe by any means the cult's doctrine permits
+- Weakness: Rigid adherence to process; cannot improvise
+- Strength: Patience, inevitability
 
-### Applicant 3 (Astor-type):
+### The AyChar
 
-A she-demon of composed beauty. Cool, appraising eyes. Carries a leather portfolio like armor. Cool eyes measuring the distance from clipboard to door. Says nothing. Reveals nothing.
-
-### Facilities Coordinator:
-
-Gaunt, towering, in a threadbare custodial robe. GIron keys at his belt, black leather clipboard in hand. Moves with dry precision, never looks back. Announces the chambers' rules with the indifference of a demon who has done this many times.
+A floating mass of swollen bureaucratic flesh. Bulging lips, distended rippling throat, eyes like filled-in checkboxes. Drifts through HR corridors; doors open before it arrives. Warm, procedural voice. Pure evil wearing the mask of process. Does not interview; it processes.
 
 ## Prior Scene Reference
 
 ### Scene Summary
 
-The Coordinator unlocks the Chamber of Conversion and ushers the four applicants inside. A printer is already running, generating integration documents for whoever scans an ID at its terminal. Rafe scans his stolen badge as a "Returning Employee," triggering a flood of paperwork under the original owner's name. While the Lorre candidate's mounting panic draws the Coordinator's attention, Rafe convinces the Greenstreet candidate to sign a W-4 as a "witness." The Coordinator stamps the document PROCESSED, binding the Greenstreet candidate to the position. Before the Coordinator can cross-reference Rafe's falsified badge against the scan record, Rafe jams the printer with a roll of toilet paper, destroying the evidence trail. The Coordinator herds the remaining three applicants through the far door. The Greenstreet candidate remains behind, employed.
+Rafe, trapped in the Chamber of Anathema with the Lorre candidate and the Skeleton Crew, unknowingly speaks the word of power -- INTEGRITY -- as a sardonic aside. The chamber warps: the compliance slideshow is replaced by Rafe's own orientation photo from years ago, and the walls resolve into a past version of the room. The Skeleton Crew, their eternal routine shattered by the spatial disruption, shudder in their chairs. The Coordinator attempts the contractual binding invocation regardless, but the Lorre candidate -- paralyzed and broken -- screams, causing the Coordinator to stutter mid-formula. The Crew, their parliamentary procedure violated, rise and tear both the Coordinator and the Lorre candidate apart. Rafe recovers his bonsai root hook from the table wreckage. The exit door unlocks -- the room now exists in a temporal state where Rafe was already employed -- and he escapes into darkness.
 
 ### Ending Text
 
-...The Greenstreet candidate did not follow. He remained in the chamber, PROCESSED, his signet ring glinting under the dead fluorescents as the door closed between them.
+...He pulled the handle. Cold air and the faint hum of fluorescent tubes, somewhere far above.
+
+Rafe stepped through, and dragged the door shut.

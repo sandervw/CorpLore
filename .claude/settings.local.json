@@ -5,7 +5,8 @@
       "WebSearch",
       "Bash(python:*)",
       "Bash(node:*)",
-      "Bash(cd:*)"
+      "Bash(cd:*)",
+      "Bash(rm:*)"
     ]
   }
 }
