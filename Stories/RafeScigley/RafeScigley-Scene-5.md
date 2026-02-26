@@ -26,4 +26,4 @@ The first door swung inward. From somewhere deeper in the annex, past corridors 
 
 *Rafe Scigley, naturalist, artisan, gentleman of portable means, had walked willingly into processing vaults before. Not often. Not happily. But a demon of his particular talents did not confuse danger with disadvantage.*
 
-He adjusted the strap of his messenger bag, felt the rolled poster shift inside, and walked through.
+...He adjusted the strap of his messenger bag, and walked through.

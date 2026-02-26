@@ -37,34 +37,26 @@
 
 ### Applicant 1 (Lorre-type):
 
-Small, soft-faced, dark liquid eyes. Folds and refolds a crumpled résumé with nervous, restless hands. Whispering voice. Retreats to corners when violence breaks out. Wants safety and a desk.
+Small, soft-faced, dark liquid eyes. Folds and refolds a crumpled résumé with nervous, restless hands. Whispering voice. Retreats to corners when violence breaks out.
 
 ### Applicant 2 (Greenstreet-type):
 
-Enormous, broad, well-fed. Fills chairs like a river fills a canyon. Laughter rumbles like furniture dragged across stone. Watches violence with genial interest, hands folded across belly. Jovial, dangerous.
+corpulent with hideous quantities of flesh. Fills chairs like pus in a blister. Laughter rumbles like furniture dragged across stone. Watches violence with genial interest, hands folded across belly. Jovial, dangerous.
 
 ### Applicant 3 (Astor-type):
 
-A she-demon of composed beauty. Cool, appraising eyes. Carries a leather portfolio like armor. Says nothing, moves little, tracks everything. Hiding something.
+A she-demon of composed beauty. Cool, appraising eyes. Carries a leather portfolio like armor. Cool eyes measuring the distance from clipboard to door. Says nothing. Reveals nothing.
 
 ### Facilities Coordinator:
 
-Gaunt, towering, in a threadbare custodial robe. Face like a ledger of creases. Eyes set deep like lights at a hallway's end. Carries iron keys and a black leather clipboard. Dry, precise voice. Ancient.
+Gaunt, towering, in a threadbare custodial robe. GIron keys at his belt, black leather clipboard in hand. Moves with dry precision, never looks back. Announces the chambers' rules with the indifference of a demon who has done this many times.
 
 ## Prior Scene Reference
 
 ### Scene Summary
 
-Rafe enters the Aychar's office posing as a job applicant, intending to fail the interview and be ejected from the building. Three other applicants wait in the reception area: a small, nervous demon; an enormous, jovial one; and a composed, watchful she-demon. The Aychar, a floating mass of HR flesh, informs Rafe there is no interview. His application was already processed and approved; fabricated credentials are not disqualifying. Rafe is hired on the spot. He refuses, fights the hiring demons, and is beaten and dragged through the far door. His bonsai root hook is taken. In the corridor beyond, the Facilities Coordinator, a gaunt, ancient figure in custodial robes, takes charge of all four applicants and announces they will enter three chambers. Rafe follows, his original plan destroyed.
+The Coordinator unlocks the Chamber of Conversion and ushers the four applicants inside. A printer is already running, generating integration documents for whoever scans an ID at its terminal. Rafe scans his stolen badge as a "Returning Employee," triggering a flood of paperwork under the original owner's name. While the Lorre candidate's mounting panic draws the Coordinator's attention, Rafe convinces the Greenstreet candidate to sign a W-4 as a "witness." The Coordinator stamps the document PROCESSED, binding the Greenstreet candidate to the position. Before the Coordinator can cross-reference Rafe's falsified badge against the scan record, Rafe jams the printer with a roll of toilet paper, destroying the evidence trail. The Coordinator herds the remaining three applicants through the far door. The Greenstreet candidate remains behind, employed.
 
 ### Ending Text
 
-...He was not in the habit of discarding advantages.
-
-He followed the Coordinator. The iron keys rang with each step, echoing off the corridor walls.
-
-### Questions Posed
-
-- What are the three chambers, and will Rafe survive them?
-- What is the Astor-candidate hiding? She alone showed no fear.
-- Can Rafe recover his confiscated bonsai root hook?
+...The Greenstreet candidate did not follow. He remained in the chamber, PROCESSED, his signet ring glinting under the dead fluorescents as the door closed between them.

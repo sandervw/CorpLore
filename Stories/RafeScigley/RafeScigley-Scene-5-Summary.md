@@ -6,7 +6,7 @@ The Coordinator leads Rafe and three applicants down a narrowing corridor into t
 
 ## Ending Text
 
-...He adjusted the strap of his messenger bag, felt the rolled poster shift inside, and walked through.
+...He adjusted the strap of his messenger bag, and walked through.
 
 ## Questions Posed
 
