@@ -1,6 +1,4 @@
-# Rafe Scigley: Scene 1
-
-## Full Scene
+# Rafe Scigley: Scene 1 - "The Cubicle Garden"
 
 Mr. Rafe Scigley moved through the Cubicle Garden with the unhurried stride of a demon who belonged there. The Department of Gender-Appropriate Commination occupied a full half-floor of the eastern wing, its territory marked by a hand-lettered placard reading TEAMS 7.A THROUGH 8.G and by the particular quality of its air: recycled beyond all memory of freshness, carrying notes of stale toner and carpet adhesive and, from the floor vents, something faintly sulfurous that Rafe chose not to investigate. The carpet underfoot had been worn to a greasy sheen along the traffic paths between cubicle rows. Decades of trudging feet had ground its original pattern into indeterminacy.
 

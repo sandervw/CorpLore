@@ -1,6 +1,4 @@
-# Xedilian: Scene 7
-
-## Full Scene
+# Rafe Scigley: Scene 7
 
 The Coordinator unlocked the next chamber with a key the color of a dead tooth, and the four of them filed through.
 

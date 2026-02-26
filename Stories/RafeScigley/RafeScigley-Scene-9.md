@@ -1,7 +1,5 @@
 # RafeScigley: Scene 9
 
-## Full Scene
-
 The compliance slideshow had entered its fourth cycle. On the pull-down screen, a block-lettered heading read WORKPLACE SENSITIVITY: A SHARED RESPONSIBILITY, and beneath it a diagram showed two featureless silhouettes shaking hands across a desk that appeared to be on fire. The funereal narrator intoned corrective language with the cadence of a eulogy.
 
 Rafe stood with his back to the exit door, hands in the pockets of his sport coat, and studied the room with practiced disinterest. The Skeleton Crew sat as they had sat since before the building's foundations were poured: upright, attentive, their bejeweled lanyards glinting dully in the projector's phosphorescent cone -- which narrowed and widened and narrowed again. At the head of the table, one of the Crew still gripped a tarnished coffee mug in its phalanges, the interior crusted with mineral residue, the last drink ordered and never finished.

@@ -1,7 +1,5 @@
 # Rafe Scigley: Scene 10
 
-## Full Scene
-
 The corridor deposited him into a room he had not chosen to enter. Rafe steadied himself against the doorframe. His limbs were present. That would do.
 
 The desk before him was enormous, built from filing cabinets crushed together under tremendous pressure until they had fused into a single geological stratum of pressed steel. Behind it, motivational posters hung in frames whose glass had fogged from the inside. The office was deep in the administrative viscera of HR, a windowless chamber carpeted in something so ancient and compressed it had become geological.

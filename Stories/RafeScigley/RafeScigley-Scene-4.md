@@ -1,7 +1,5 @@
 # Rafe Scigley: Scene 4
 
-## Full Scene
-
 Rafe presented himself at the processing desk. A supply clerk's hand-drawn map and a hum he could not refuse had brought him here, but he straightened his sport coat and decided he had arrived precisely when intended.
 
 "Good morning," he said. "I understand you are hiring."

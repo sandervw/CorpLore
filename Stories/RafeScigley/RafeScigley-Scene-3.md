@@ -1,7 +1,5 @@
 # Rafe Scigley: Scene 3 — "The Supply-Forest"
 
-## Full Scene
-
 The corridor widened, and the ceiling rose, and the shelves began.
 
 They climbed in rusted iron columns from the linoleum to a height that defeated the eye, their upper reaches lost behind sagging acoustic tiles hung in warped, overlapping layers. Each shelf bore its freight of office supplies in quantities beyond stockpiling: reams of copy paper, yellowed at the edges and fused by damp into solid bricks; industrial drums of binder clips, their wire mouths oxidized to a greenish patina; toner cartridges stacked in towers, their labels printed in a dead typeface. The shelves had bowed under these burdens, warping over the centuries into organic curves, so that no two aisles ran parallel and the whole grid had settled into the wandering, branching pattern of a forest grown without a forester.

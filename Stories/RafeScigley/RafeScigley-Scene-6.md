@@ -1,7 +1,5 @@
 # Rafe Scigley: Scene 6
 
-## Full Scene
-
 The door bore the numeral "1" in government yellow, stenciled on riveted iron. The Coordinator produced a key from the cluster at his belt, turned it without ceremony, and held the door wide with one skeletal arm.
 
 Rafe entered first. Naturally he entered first. A demon of his caliber did not linger in doorways while lesser applicants shuffled through. The chamber was smaller than he expected. Filing cabinets lined the walls in decommissioned rows, their drawers half-open, stuffed with yellowed forms from previous processing rites. The fluorescent tubes overhead buzzed in sickly alternation, one dead for every two alive, casting the room in stripes of jaundiced light and shadow.

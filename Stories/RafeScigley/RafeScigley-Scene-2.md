@@ -1,6 +1,4 @@
-# Xedilian: Scene 2 - "The Word Misapplied"
-
-## Full Scene
+# Rafe Scigley: Scene 2 - "The Word Misapplied"
 
 Rafe left the cubicle garden with Gorben Felch's badge warm against his thigh. This heat, the result of a badge's separation from it's employee, would fade gradually before the next sunrise.
 

@@ -1,7 +1,5 @@
 # Rafe Scigley: Scene 8
 
-## Full Scene
-
 The Coordinator led them down.
 
 Not along a corridor, nor through any passage belonging to the building's known architecture, but down -- through vertical darkness. The fluorescent tubes died one by one as they passed beneath. The carpet gave way to bare concrete, then to stone. The Lorre candidate walked close behind. Close enough that Rafe could hear the small wet sounds of his breathing.
