@@ -1,6 +1,6 @@
 ---
 name: voice-revision
-description: Revise, rewrite, or redo prose in specific character 'voices'. Use when user asks to revise text in Freeman, or Cugel voice. Also use for any request to rewrite with a particular voice or as a particular character.
+description: Revise, rewrite, or redo prose in specific character 'voices'. Use when user asks to revise text in Freeman, Cugel, or Gittes voice. Also use for any request to rewrite with a particular voice or as a particular character.
 ---
 
 # Literary Revision
@@ -20,10 +20,14 @@ Revise user-provided prose into a specific character voice while preserving core
 | Voice         | Voice                                    | Use Case                                      | Reference            |
 | ------------- | ---------------------------------------- | --------------------------------------------- | -------------------- |
 | **Freeman**   | Neurotic 1st person, stream of consciousness | Comedic self-interested survival narration | [freeman-voice.md]   |
+| **Cugel**   | Grandiose rogue, ornate self-assured inner monologue | Entitled swindler narration with Vancian diction | [cugel-voice.md]   |
+| **Gittes**  | Cynical PI, hard-boiled inner monologue              | Suspicious detective narration with noir diction  | [gittes-voice.md]  |
 
 ## Voice Selection
 
 - User says "Freeman," "Freeman's Mind," "neurotic," "inner monologue," "stream of consciousness" → Load freeman-voice.md
+- User says "Cugel," "Cugel's Saga," "Vancian," "grandiose rogue," "swindler narration" → Load cugel-voice.md
+- User says "Gittes," "Chinatown," "hard-boiled," "noir," "gumshoe," "cynical PI" → Load gittes-voice.md
 - Ambiguous request → Ask user to specify voice
 
 ## Output Guidelines

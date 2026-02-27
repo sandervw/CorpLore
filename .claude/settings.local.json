@@ -2,6 +2,7 @@
   "permissions": {
     "allow": [
       "Bash(wc:*)",
+      "Bash(sed:*)",
       "WebSearch",
       "Bash(python:*)",
       "Bash(node:*)",
