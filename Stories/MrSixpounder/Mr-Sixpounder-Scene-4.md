@@ -2,13 +2,13 @@
 
 The smell found him two floors away.
 
-Copper and hotel soap - the two scents that had no business together, that together meant only one thing. Hindemith adjusted his cuff and walked faster, though his knee argued against it, and by the time he reached the corridor on Sixpounder's floor the carpet told the rest. It had gone dark from the baseboard outward, a slow saturation that might have been mistaken for water damage if water damage smelled like the inside of a coin purse. The hallway lighting hummed. An ice machine cycled somewhere behind the walls.
+Copper and hotel soap. Hindemith adjusted his cuff and walked faster, though his knee argued against it, and by the time he reached the corridor on Sixpounder's floor the carpet told the rest. It had gone dark from the baseboard outward, a slow saturation that might have been mistaken for water damage if water damage smelled like the inside of a coin purse. The hallway lighting hummed. An ice machine cycled somewhere behind the walls.
 
 A room-service cart lay on its side near 30,709. One wheel still turned, slow enough to count the rotations. The cart hadn't fallen - it had been struck laterally, with force. Two plates lay shattered against the far wall, suggesting a direction of impact. The cloche lid had rolled to a stop against Sixpounder's door. Room 30,713. Still closed. The DND sign - replaced after the housekeeper's error - hung at its correct angle.
 
-Three guests. That was Hindemith's first count as he reached the scene proper and looked at what Sixpounder had left in his wake. Two of them he could identify by their room slippers - a married couple from 30,711, insurance demons from the Galvanic Mutual group. The third had been wearing a conference lanyard, but whatever name had been printed on it was no longer legible. The walls on both sides of the corridor bore parallel scratch marks at shoulder height - three lines each, evenly spaced, the signature of cutlery-fingers dragged along drywall with the mechanical consistency of a man trailing his hand along a railing.
+What Sixpounder had left in his wake numbered three. Two he could identify by their room slippers - a married couple from 30,711, insurance demons from the Galvanic Mutual group. The third had been wearing a conference lanyard, but whatever name had been printed on it was no longer legible. The walls on both sides of the corridor bore parallel scratch marks at shoulder height - three lines each, evenly spaced, the signature of cutlery-fingers dragged along drywall with the mechanical consistency of a man trailing his hand along a railing.
 
-Hindemith stood very still. He listened to the ice machine. He listened to the elevator chime two floors down, carrying someone to a breakfast they would eat without incident. He let the hotel continue around him - the vast indifferent mechanism of it, the ten thousand rooms that did not know and would not care - and then he reached into his jacket for the pact book.
+Hindemith stood very still. He listened to the ice machine. The elevator chimed two floors down, carrying someone to a breakfast they would eat without incident. He let the hotel continue around him - the vast indifferent mechanism of it, the ten thousand rooms that did not know and would not care - and then he reached into his jacket for the pact book.
 
 The pages stuck. Something had bled through the binding, and the leather was tacky along the spine where the Sixpounder entry would be, where it always was, where Hindemith's thumb fell by decades of muscle memory. He peeled it open. The contract text was undamaged. The terms were clear, had always been clear: one target, named and specified, deceased forty-three years. The grievance had found new vessels. The contract had not authorized this.
 
@@ -16,7 +16,7 @@ He closed the book. He looked at the three shapes on the carpet and calculated -
 
 A laugh. Low, wet, and deeply amused. The kind of laugh that had been waiting.
 
-She was sitting in the alcove between the ice machine and the fire exit, in one of the hotel's wingback chairs that nobody used because the upholstery smelled of decades. She had not been there an hour ago. Hindemith was certain of this because he had walked this hallway an hour ago and the chair had been empty and the air had been hotel air - recycled, conditioned, carrying nothing more than carpet fiber and the ghost of someone's perfume from 2003. The air now carried something older. Wet earth and burnt sugar and the particular staleness of a room where someone has been breathing for a very long time without opening a window.
+She was sitting in the alcove between the ice machine and the fire exit, in one of the hotel's wingback chairs that nobody used because the upholstery smelled of decades. She had not been there an hour ago. Hindemith was certain of this because he had walked this hallway an hour ago and the chair had been empty and the air had been hotel air - recycled, conditioned, carrying nothing more than carpet fiber and old perfume. The air now carried something older. Wet earth and burnt sugar and the particular staleness of a room where someone has been breathing for a very long time without opening a window.
 
 "Three," she said, and her voice came from the wrong direction - from the ceiling, or from behind the ice machine, or from the fire-exit stairwell, all at once, the way a speakerphone fills a conference room that nobody scheduled. "I counted three. Did you count three?"
 
@@ -54,7 +54,7 @@ She was right. He opened the book.
 
 The negotiation took eleven minutes. Hindemith wrote the terms in the margin of the Sixpounder entry - the only space left, the pages having filled over forty years of amendments, addenda, and increasingly desperate notes in increasingly small handwriting. The Lora spoke her half of the terms aloud; the book recorded them in a script that was neither his handwriting nor hers but a third thing - the Conciergerie's own notation, which existed only when both parties were bound by it.
 
-What she told him, when the binding sealed: the Anchor was a woman on the ninth floor. Not a conference guest. Not an insurance demon. A commuter, passing through, who had checked in for two nights and used the complimentary toiletries without reading the labels. The bottles had not been complimentary. They had been arranged - shampoo, conditioner, body lotion - in a pattern that mirrored the architecture of the Eastmark Stairwells, and the woman had used them in sequence, and in doing so had drawn the patrol route into her skin.
+What she told him, when the binding sealed: the Anchor was a woman on the ninth floor. Not a conference guest. Not an insurance demon. A commuter, passing through, who had checked in for two nights and used the complimentary toiletries without reading the labels. The bottles had not been complimentary. They had been arranged - shampoo, conditioner, body lotion - in a pattern that mirrored the architecture of the Eastmark Stairwells, the labyrinthine service flights behind the east wing, and the woman had used them in sequence, and in doing so had drawn the patrol route into her skin.
 
 "Who arranged the bottles?" Hindemith asked.
 
@@ -64,7 +64,7 @@ He closed the book. The massacre fluid had pooled and channeled during their con
 
 He found the commuter at 1:49 AM.
 
-The Eastmark Stairwells were never fully dark - the emergency lighting gave everything the color of weak tea. In that amber wash the woman looked almost as if she belonged. Her eyes were open. Her face was slack. She turned at the landing exactly where Sixpounder always turned, paused at the same duration, and continued up the next flight with the precision of someone following marks on a stage floor.
+The Eastmark Stairwells were never fully dark - the emergency lighting gave everything the color of weak tea. In that amber wash the woman moved with strange precision. Her eyes were open. Her face was slack. She turned at the landing exactly where Sixpounder always turned, paused at the same duration, and continued up the next flight with the precision of someone following marks on a stage floor.
 
 Hindemith took the stairs two at a time. His knee clicked on every other step, loud enough in the stairwell silence to echo. The woman did not react. She was walking the patrol route in her sleep, walking it perfectly, and somewhere above or below - he could not tell which - there was a faint metallic ticking that might have been the revenant or might have been the building settling or might have been both.
 

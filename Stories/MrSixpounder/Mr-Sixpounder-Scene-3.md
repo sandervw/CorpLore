@@ -14,7 +14,7 @@ Hindemith didn't move. He watched from his corner table, coffee cooling against 
 
 The revenant's head turned toward a woman at the juice station. Held. Released. Turned toward a man buttering toast two tables away - held longer, then released. The waffle-maker queue came next, and his head tracked one guest after another as they rotated through, slow and methodical as a surveillance camera that had learned patience.
 
-Not all of them. Most of the insurance demons passed through Sixpounder's field of vision and drew nothing - someone laughed at the buffet, a plate clinked, the waffle-maker clicked open again. But a woman with two children. A man in a wrinkled dress shirt reading a folded newspaper. A teenager hunched over a phone. Each one pulled the revenant's head around like a compass needle finding north.
+Not all of them. Most of the insurance demons passed through Sixpounder's field of vision and drew nothing - someone laughed at the buffet, a plate clinked, the waffle-maker clicked open again. But certain ones pulled the revenant's head around: a woman with two children, a man in a wrinkled dress shirt reading a folded newspaper, a teenager hunched over a phone. Each like a compass needle swinging north.
 
 Hindemith turned his coffee cup a quarter rotation on its saucer. He opened the pact book to the binding schedule, ran one finger down the column of names, and found what he already knew: the revenant's original contract specified a single target. One demon. One grievance. One death to collect on, held in suspension by the arrangement they'd built together over decades.
 
@@ -24,16 +24,16 @@ He watched Sixpounder's left knee lock and release, lock and release, as the tor
 
 A boy at a corner table, maybe six years old, was stirring his cereal without eating it. He was staring at the revenant. Not frightened. Not even particularly curious. Just watching, the way a child watches a relative they've been told about but never met. Sixpounder's head swung toward him and paused - longer than the others. The boy stirred his cereal. The revenant watched. Neither of them blinked.
 
-Hindemith counted backward. The original target - the demon whose death Sixpounder had been contracted to collect - had died forty-three years ago. He knew this. It was in the book. What he hadn't thought about, because the arrangement had never required him to think about it, was what a grievance does when the target dies before collection. Where it goes. What it follows.
+Hindemith counted backward. The original target - the demon whose death Sixpounder had been contracted to collect - had died forty-three years ago. It was in the book. What he hadn't thought about, because the arrangement had never required him to think about it, was what a grievance does when the target dies before collection. Where it goes. What it follows.
 
-He counted the guests Sixpounder's head had tracked since he'd sat down. The woman with two children. The man with the newspaper. The teenager. The boy with the cereal. Four others at scattered tables who'd drawn that same slow, locked-knee pivot.
+The woman with two children. The man with the newspaper. The teenager. The boy with the cereal. Four others at scattered tables who'd drawn that same slow, locked-knee pivot. He tallied them without moving his eyes from the doorway.
 
 Eleven.
 
 And those were only the ones at breakfast.
 
-Through the wall behind him, the hold music from Conference Room 6B whined on - thin, persistent, a frequency just below notice. Sixpounder's three remaining fingers twitched against the cutlery handles fitted into his sword-hand, producing a faint metallic ticking, like a clock that had forgotten how to keep time but wouldn't stop trying.
+Through the wall behind him, the hold music from Conference Room 6B whined on - thin, persistent, a frequency just below notice. Sixpounder's three remaining fingers twitched against the cutlery handles fitted into the iron brace of his sword-hand, producing a faint metallic ticking, like a clock that had forgotten how to keep time.
 
-Hindemith closed the pact book. He adjusted his cuffs. He looked at the families, the long-stays, the children - and stood. Left the coffee. Walked toward the lobby.
+Hindemith closed the pact book. He adjusted his cuffs and looked at the families, the long-stays, the children - then stood, left the coffee, and walked toward the lobby.
 
 He had phone calls to make.

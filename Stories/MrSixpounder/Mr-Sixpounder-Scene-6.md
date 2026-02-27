@@ -1,12 +1,12 @@
 # Mr. Sixpounder: Scene 6
 
-The plan had the elegance of desperation dressed as cleverness. The road-trance had held Sixpounder for four hours before it frayed - Hindemith hadn't been there when it broke, only heard about it secondhand from Withaazz. By then, Hindemith had already moved to the breakfast station.
+The plan was desperation dressed as cleverness. The road-trance had held Sixpounder for four hours before it frayed - Hindemith hadn't been there when it broke, only heard about it after the fact. By then, he had already moved to the breakfast station.
 
-He positioned himself behind the continental breakfast station at 6:40 AM, twenty minutes before the buffet opened, wearing the expression of a man who had not slept and intended to make that everyone else's problem. He adjusted the waffle maker's temperature dial. He repositioned the batter pitcher. He angled the laminated instruction card so that it funneled foot traffic into a single-file approach, because the one thing you could count on about hotel guests was that they would follow instructions only if they were laminated.
+He positioned himself behind the continental breakfast station at 6:40 AM, twenty minutes before the buffet opened, wearing the expression of a man who had not slept and intended to make that everyone else's problem. He adjusted the waffle maker's temperature dial. He repositioned the batter pitcher. He angled the laminated instruction card so that it funneled foot traffic into a single-file approach - because the one thing you could count on about hotel guests was that they would follow instructions only if they were laminated. The line formed on its own.
 
 The theory was blood-sympathy. Layer enough descendants onto the same cooking surface - skin oils, breath moisture, the ambient shed of whatever made a bloodline legible to something like Sixpounder - and you'd get a composite signal. A bloodline so thick it became noise.
 
-They came in ones and twos. The insurance adjusters from Galvanic Mutual. A family of four whose youngest had the same jawline as the portrait in the Sesame Corridors. A woman traveling alone who kept touching her collarbone the way the revenant touched its chestplate. Hindemith counted eleven descendants through the waffle line by 7:15. The iron hissed and pressed. Batter spread into the grid and cooked into something that was, if you squinted at the pattern, almost a face.
+They came in ones and twos. The insurance adjusters from Galvanic Mutual. A family of four whose youngest had the same jawline as the portrait in the Sesame Corridors, that long haunted gallery on the thirty-seventh floor. A woman traveling alone who kept touching her collarbone the way the revenant touched its chestplate. Hindemith counted eleven descendants through the waffle line by 7:15. The iron hissed and pressed. Batter spread into the grid and cooked into something that was, if you squinted at the pattern, almost a face.
 
 He brought the waffle to Room 30,713 on a room service cart with a fresh towel folded beneath it. Knocked twice. Waited.
 
@@ -24,7 +24,7 @@ He followed. The bad knee screamed on the first step and he overrode it on the s
 
 By the time he reached the breakfast-lounge, the descendants were already running.
 
-They did not run far. The breakfast-lounge emptied into the corridor and the corridor emptied into the hotel pool. This was a room the size of an ocean, far walls beyond the limit of vision, tiled in institutional blue-white that had yellowed at the waterline from decades of chlorine and neglect. The ceiling was high enough to echo. The air was warm, wet, and tasted of chemicals. Under normal circumstances, Bloodsea was the kind of pool where middle-management demons did half-hearted laps before conference sessions. Today the descendants poured through the glass doors in a stumbling wave, and Sixpounder followed them in.
+They did not run far. The breakfast-lounge emptied into the corridor and the corridor emptied into the hotel pool - Bloodsea, in the staff registers, a room the size of an ocean, far walls beyond the limit of vision. It was tiled in institutional blue-white that had yellowed at the waterline from decades of chlorine and neglect. The ceiling was high enough to echo. The air was warm, wet, and tasted of chemicals. Under normal circumstances, it was the kind of pool where middle-management demons did half-hearted laps before conference sessions. Today the descendants poured through the glass doors in a stumbling wave, and Sixpounder followed them in.
 
 The first demon died before Hindemith had cleared the doors.
 
@@ -34,7 +34,7 @@ Hindemith had the Contact Book open before the body hit the tile.
 
 The first page he tore was Marchetti. A pact sixteen years old, originally brokered over a noise complaint on the fourteenth floor. The summoning arrived with the sound of a telephone ringing in an empty office - Marchetti's signature - and the demon materialized between Sixpounder and the fleeing family, already swinging. Marchetti lasted eleven seconds. The revenant took his left arm off at the shoulder, pivoted on the knee that bent twice, and drove the cutlery-fingers through the pact-demon's sternum.
 
-Second page. Delacroix. Twenty-two years. A favor owed from a plumbing catastrophe on the east wing. She arrived with the sound of a lobby bell and put herself between the revenant and a pair of descendants scrambling for the deep end. She was faster than Marchetti. She bought thirty seconds. Then Sixpounder broke her across the pool's edge and the tiles cracked under the impact, grout lines splitting in fractures that ran three feet in each direction.
+Second page. Delacroix. Twenty-two years, a favor owed from a plumbing catastrophe on the east wing. She put herself between the revenant and a pair of descendants scrambling for the deep end - faster than Marchetti, already moving when the lobby bell that announced her faded from the air. She bought thirty seconds. Then Sixpounder broke her across the pool's edge and the tiles cracked under the impact, grout lines splitting in fractures that ran three feet in each direction.
 
 Third page. Fourth page. Each tear was a sound - elevator chime, fax machine whine, hold music, dial tone - and each sound produced a demon who had owed Hindemith something, and each demon fought, and each demon died, and the pool water gradually shifted to the color of old pennies. That copper-and-rot smell that had always clung to Sixpounder's corridor was spreading through the whole of Bloodsea now, names bleeding away in the chlorine as if they'd never been written.
 
@@ -50,7 +50,7 @@ The last page was blank. He'd torn past the entries into the endpaper.
 
 Hindemith stood at the edge of Bloodsea holding the empty spine of the Contact Book. It sat in his hand like a skeleton jawbone.
 
-The pact framework had failed. The "arrangement" - the towels, the patrol, the mattress replacements, the forty years of careful management - had never been a binding. It had been routine. Routine dressed up in the language of pacts because that was the only language Hindemith knew.
+The pact framework had failed. The "arrangement" - the towels, the patrol, the mattress replacements, the forty years of careful management - had never been a binding. It had been routine. Routine dressed up in the language of pacts.
 
 Sixpounder stood in the shallow end. The water was up to the fused line where chestplate met ribcage. Three descendants huddled behind an overturned lounge chair near the diving board. The revenant's head swiveled between them.
 
