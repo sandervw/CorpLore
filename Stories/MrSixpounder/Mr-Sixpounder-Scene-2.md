@@ -1,7 +1,5 @@
 # Mr. Sixpounder: Scene 2
 
-## Full Scene
-
 The elevator had been chiming for forty minutes.
 
 Hindemith stood behind the front desk - not his station, not his role, but Grosz was somewhere in the back offices filing an incident report about the Tuple and the night concierge had clocked out at six without logging the overflow. So here he was, charcoal suit pressed, eyelids holding, watching the brass doors open every four seconds to deliver another insurance demon into his lobby.

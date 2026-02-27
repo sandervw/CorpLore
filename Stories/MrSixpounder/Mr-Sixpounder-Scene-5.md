@@ -1,7 +1,5 @@
 # Mr. Sixpounder: Scene 5
 
-## Full Scene
-
 He heard it before he saw it - the sound of cutlery on drywall, three fingers drawing three lines at shoulder height, moving faster than it had ever moved in four decades of patrol. Not the rhythmic scrape of routine. This was purpose.
 
 As Hindemith rounded the corridor at the junction of the upper-floor hallway, having returned to the Eastmark Stairwells, the revenant was thirty meters ahead and accelerating. The left knee still didn't bend. The right still bent twice. But the gait had changed - the shuffling patrol replaced by something that covered ground, something with a destination, and the destination was a cluster of conference guests waiting at the elevator bank who had no idea what was coming toward them down the hallway because they were arguing about breakfast vouchers.

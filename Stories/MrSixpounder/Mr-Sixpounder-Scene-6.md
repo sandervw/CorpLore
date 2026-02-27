@@ -1,7 +1,5 @@
 # Mr. Sixpounder: Scene 6
 
-## Full Scene
-
 The plan had the elegance of desperation dressed as cleverness. The road-trance had held Sixpounder for four hours before it frayed - Hindemith hadn't been there when it broke, only heard about it secondhand from Withaazz. By then, Hindemith had already moved to the breakfast station.
 
 He positioned himself behind the continental breakfast station at 6:40 AM, twenty minutes before the buffet opened, wearing the expression of a man who had not slept and intended to make that everyone else's problem. He adjusted the waffle maker's temperature dial. He repositioned the batter pitcher. He angled the laminated instruction card so that it funneled foot traffic into a single-file approach, because the one thing you could count on about hotel guests was that they would follow instructions only if they were laminated.

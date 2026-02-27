@@ -1,7 +1,5 @@
 # Mr. Sixpounder: Scene 3
 
-## Full Scene
-
 The continental breakfast at Hotel Stackz operated on the principle that food, if sufficiently wrapped in cellophane, could not expire. Hindemith stood at the entrance of the lounge and inventoried it the way he inventoried everything: systematically, without appetite. Pastries in plastic. A fruit bowl arranged three days ago and touched by no one since. Juice carafes sweating condensation rings onto the white tablecloth.
 
 He took a coffee. The cup was the hotel standard - porcelain so thin it conducted heat directly into the palm, which he'd long suspected was a design choice intended to keep guests from lingering. He lingered anyway. Took his usual table in the far corner, set the pact book beside his plate, and opened it to no page in particular. The ink was dry. That was something.

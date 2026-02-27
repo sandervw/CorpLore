@@ -1,7 +1,5 @@
 # Mr. Sixpounder: Scene 4
 
-## Full Scene
-
 The smell found him two floors away.
 
 Copper and hotel soap - the two scents that had no business together, that together meant only one thing. Hindemith adjusted his cuff and walked faster, though his knee argued against it, and by the time he reached the corridor on Sixpounder's floor the carpet told the rest. It had gone dark from the baseboard outward, a slow saturation that might have been mistaken for water damage if water damage smelled like the inside of a coin purse. The hallway lighting hummed. An ice machine cycled somewhere behind the walls.

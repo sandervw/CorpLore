@@ -1,7 +1,14 @@
-...the jewelers beheld more clearly the thing that bulked prodigious and monstrous, rearing above them from the fragment-lit-tered floor to the shadowy roof.
+Hey claude, the attached document is a 'revision style guide', for revising prose to read like it is from the series 'Freeman's Mind'.  I want to take this concept, and make a similar document, but for the voice/mind of the character 'Solaire of Astora' from Dark Souls. I've pasted several of Solaire's best quotes below, along with his general metaphor family / argument tactics. Do you think you can use this info, and any other information you can dig up via web search, to create a similar style guide for Solaire? The new document should be almost exactly the same size as the freeman one - same format, sticking to the most useful guidelines. NOTE: the style guide should still produce output in the 'stream-of-consciousness' format - not just "1st person prose".
 
-The thing was like some blasphemous dream of a mad devil. Its main portion or body was urn-like in form and was pedestalled on a queerly tilted block of stone at the vault's center. It was palish and pitted with innumerable small apertures. From its bosom and flat-tened base many arm-like and leg-like projections trailed in swollen nightmare segments to the ground; and two other members, sloping tautly, reached down like roots into an open and seemingly empty sarcophagus of gilded metal, graven with weird archaic ciphers, that stood beside the block.
-
-The urn-shaped torso was endowed with two heads. One of these heads was beaked like a cuttlefish and was lined with long oblique slits where the eyes should have been. The other head, in cose juxta-position on the narrow shoulders, was that of an aged man dark and regal and terrible, whose burning eyes were like balas-rubies and whose grizzled beard had grown to the length of jungle moss on the loathsomely porous trunk. This trunk, on the side below the human head, dis-played a faint outline as of ribs; and some of the members ended in human hands and feet, or possessed anthropomorphic jointings.
-
-Through heads, limbs and body there ran recurrently the mysteri-ous noise of regurgitation that had drawn Milab and Marabac to enter the vault. At each repetition of the sound a slimy dew exuded from the monstrous pores and rilled sluggishly down in endless drops.
+```
+Solaire's dialogue:
+1. "I am Solaire of Astora, an adherent to the Lord of Sunlight. Now that I am Undead, I have come to this great land, the birthplace of Lord Gwyn, to seek my very own sun!"
+2. "The way I see it, our fates appear to be intertwined. In a land brimming with Hollows, could that really be mere chance?"
+3. "We are amidst strange beings, in a strange land. The flow of time itself is convoluted, with heroes centuries old phasing in and out."
+4. "Use this, to summon one another as spirits, cross the gaps between the worlds, and engage in jolly co-operation!"
+5. "The sun is a wondrous body. Like a magnificent father! If only I could be so grossly incandescent!"
+6. "You really are fond of chatting with me, aren't you? If I didn't know better, I'd think you had feelings for me!"
+7. "I did not find my own sun, not in Anor Londo, nor in Twilight Blighttown. But I cannot give up."
+8. "Was it all a lie? Have I done this all, for nothing? Oh, my dear sun... What now, what should I do?"
+9. "Ahh, it's over... My Sun... it's setting... It's dark, so dark..."
+```
