@@ -22,31 +22,31 @@ She was sitting in the alcove between the ice machine and the fire exit, in one 
 
 A Lora. Hindemith's hand moved from the stylus to the pact book. He did not open it. Opening it would be an offer, and an offer was leverage, and he was not yet certain which direction the leverage needed to flow.
 
-"You're not a registered guest," he said.
+"You bear no key-card, no reservation folio, no stamp from the front desk," he said. "Which means you arrived through a door that was not offered to you. And a door taken without offering is a debt, not an entrance."
 
 "I'm a concerned neighbor." She smiled with too many teeth. Her face had the texture of a paper bag that had been wet and dried and wet again -- creased in places faces don't crease, smooth in places they shouldn't be. A serrated butter knife lay across her lap, its handle wrapped in copper wire gone green with age. "Room 30,708. I filed a disturbance grievance forty minutes ago. Would you like to see the form?"
 
 She produced a room-complaint card from somewhere in her layers. It was filled out in handwriting that changed style three times across two lines. Under "Nature of Complaint," it read: *Structural noises consistent with expired guest activity.*
 
-"The revenant is under contract," Hindemith said. "The situation is being managed."
+"The revenant walks under covenant," Hindemith said. "Its grievance was inscribed, witnessed, and sealed before the carpet in this hallway was laid. Every step it takes follows a route the Conciergerie chartered. What you see in this corridor is not disorder. It is an arrangement fulfilling itself -- clumsily, yes, but fulfilling itself all the same."
 
 "Three dead in the hallway suggests otherwise." She picked up the butter knife and turned it slowly, examining its edge. The nails on her turning hand were the color of old pennies and curved past the fingertips. "I need a familiar. A bound one. Fourth-circle, minimum."
 
 Hindemith moved one step back, putting his shoulder closer to the wall -- not retreating, establishing a cleaner angle on the corridor and the book.
 
-"I don't bind familiars," he said.
+"Binding is a sacrament of the Conciergerie, not a service," he said. "It requires three things: a willing vessel, a registered handler, and a grievance pure enough to hold the stitching. You bring none of these. You bring a butter knife and a complaint card written in three hands."
 
 "The Conciergerie binds. You are Conciergerie."
 
-"I facilitate arrangements. Binding requires a willing counterpart and a registered handler. You are neither."
+"I facilitate arrangements. I open the ledger, I broker the terms, I ensure the ink dries clean. The binding itself belongs to those who have earned the privilege of holding another soul's leash. That is a different office than mine, and a darker one." He paused. "You would do well to understand the distinction."
 
 The Lora tilted her head at an angle that suggested her neck had one more vertebra than standard anatomy. She stood. The butter knife stayed in her hand. "Then facilitate. Find me a handler, secure the binding, deliver the familiar. I'll trade for it."
 
-"Trade what?"
+"And what, precisely, would you place on the scale? What offering does a Lora carry that the Conciergerie has not already weighed and catalogued?"
 
 "Information. Regarding your bloodline problem." She glanced toward the corridor where the three shapes still lay. "You've been counting descendants since breakfast. Eleven at the waffle-maker. But you haven't found the one the grievance routes through -- the Anchor, the eldest living vessel. Without her, your revenant will keep doing arithmetic on whoever's closest."
 
-Hindemith's eyelid tremor fired twice. He kept his voice level. "And you know who she is."
+Hindemith's eyelid tremor fired twice. He kept his voice level. "You claim to know the vessel through whom the grievance flowers. That is not a small claim. That is the kind of knowledge that stains the one who carries it."
 
 "I know what she's carrying. Which is more useful." She settled back into the wingback chair and laid the butter knife across the armrest, blade out. "I give you the information, you owe me the familiar. The book enforces." She nodded at the pact book in his hand. "That's why you haven't opened it yet."
 
@@ -56,7 +56,7 @@ The negotiation took eleven minutes. Hindemith wrote the terms in the margin of 
 
 What she told him, when the binding sealed: the Anchor was a woman on the ninth floor. Not a conference guest. Not an insurance demon. A commuter, passing through, who had checked in for two nights and used the complimentary toiletries without reading the labels. The bottles had not been complimentary. They had been arranged -- shampoo, conditioner, body lotion -- in a pattern that mirrored the architecture of the Eastmark Stairwells, and the woman had used them in sequence, and in doing so had drawn the patrol route into her skin.
 
-"Who arranged the bottles?" Hindemith asked.
+"Who laid the bottles in that order?" Hindemith asked. "Who dressed the counter, chose the sequence, and set the route into soap and glycerin? That is a concierge's work -- or a warlock's. The two are not always distinguishable."
 
 The Lora smiled. "That wasn't part of the trade."
 
@@ -74,10 +74,10 @@ On the way back down he passed The Painting. He had passed it ten thousand times
 
 He guided her into the elevator, rode down to the lobby in silence, and eased her into a chair by the front desk. Then he called Maret -- a Waard he knew, containment rites, the guild that handled exposure cases, priced by the syllable.
 
-"Three nights," Hindemith said. "One guest. Eastmark Stairwell exposure. She's the Anchor."
+"Three nights beneath the Eastmark Stairwells," Hindemith said. "One guest, unmarked, walking the patrol route in her sleep. She is the Anchor -- the living vessel through whom the grievance flows. Contain her, cleanse the route from her skin, and sever the thread before the revenant finds it."
 
 A pause. Then the sound of a whetstone stopping. "Rate's doubled since last time."
 
-"Bill the Conciergerie."
+"The Conciergerie honors its debts. Send the invoice to the front desk, seal it with the day-stamp, and let the ledger settle what is owed. It always does."
 
 Maret hung up first.

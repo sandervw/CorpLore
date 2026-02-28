@@ -18,7 +18,7 @@ Sixpounder's head turned. Not toward Hindemith, not toward the waffle cart, but 
 
 Not patrolling. Walking with purpose. The cutlery-fingers opened and closed at his side.
 
-"No," Hindemith said, because the revenant was already past him and the room service cart was spinning slowly on one wheel where Sixpounder had shouldered it aside. "No, that's--"
+"No," Hindemith said, because the revenant was already past him and the room service cart was spinning slowly on one wheel where Sixpounder had shouldered it aside. "No -- this was not the covenant. The waffle iron, the eleven bloodlines pressed into the same grid, the grease and the shed and the offering -- that was a drowning, not a summoning. You were meant to lose the scent, brother, not sharpen it."
 
 He followed. The bad knee screamed on the first step and he overrode it on the second.
 
@@ -58,11 +58,11 @@ Hindemith stepped into the pool. The water was warm and wrong. It soaked through
 
 His bad knee gave on the third step. He went down to one knee in the shallow end, three meters from the revenant, and stayed there.
 
-"He's dead," Hindemith said.
+"The one you seek has already been collected," Hindemith said. "That debt was fulfilled long before I folded my first towel for this room. Before the carpet claimed your shins. Before the corridor learned your weight."
 
 Sixpounder's head stopped mid-swivel.
 
-"Whoever you're looking for. Whoever started this. They died decades ago. Before I took this post. Before the carpet grew into your shins. These people--" He gestured at the descendants, still pressed behind the lounge chair, still breathing. "They're echoes. They carry the blood but not the debt. There's no one left to kill."
+"Consider what remains, brother. You have pursued a scent through eleven bodies and found nothing, because there is nothing left to find. The bloodline thins. It carries the face but not the sin, the jawline but not the name. These three behind the chair -- do you know what they are? Echoes. Sediment. The last residue of a debt already paid in full." He gestured, one slow motion, toward the descendants still pressed behind the lounge chair, still breathing. "There is no contract here to fulfill. No covenant. No offering worthy of those hands. Whomever lit this hunger in you perished in a corridor you will never patrol again. Go now. The route is waiting. The 30,700 block. The stairwell. The long walk that was given to you. Return to it."
 
 Sixpounder stood in the water for a long time. The cutlery-fingers unclenched. The head completed its swivel -- past the descendants, past Hindemith, past the carnage -- and found the direction of the Eastmark Stairwells.
 

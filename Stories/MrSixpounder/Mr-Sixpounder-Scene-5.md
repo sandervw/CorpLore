@@ -22,7 +22,7 @@ Withaazz came around the corner. He was tall and he occupied space the way a loa
 
 "Guest complaint," he said, not looking at Hindemith. His eyes tracked Sixpounder the way a debugger tracks a fault. "Noise. Structural damage. Something that isn't a guest walking the halls with what appears to be a bread knife fused to its wrist." He shifted his weight toward the revenant. "I assume this is your department."
 
-"Stand down," Hindemith said. "I'm handling it."
+"Stand where you are, brother." Hindemith's voice carried the flat calm of a man reading checkout terms to a lobby that had already caught fire. "This creature walks under my seal. Bound by pact-ink, tethered to the Conciergerie's own ledger. What you see is not a breach of contract. It is a covenant in duress, and the covenant is mine to shepherd." He touched the brass bell at his breast pocket the way a priest touches a reliquary. "I am handling its passage. You would do well to let me."
 
 Withaazz turned his back on him. His glyphboard materialized under his fingers, keys that existed only as light, floating at waist height, each one trailing blue-white afterimages when struck. He typed a three-key shortcut sequence to compile and execute the Words of Mighty Danger, "Per My Last Email." The air between him and the revenant compressed and produced a barrier that smelled of ozone and the burnt-dust scent of a server room running hot. The barrier held for exactly as long as it took Sixpounder to walk through it.
 
@@ -32,11 +32,11 @@ Withaazz's hands moved faster. A longer sequence, both hands, the glyphboard exp
 
 The corridor went amber. Emergency lighting kicked in along the baseboards. Withaazz threw spell after spell, scorch marks spreading across the walls in lines that branched and forked like syntax errors burnt into drywall. Sixpounder absorbed them, reflected some, ignored others. Advance, sweep, drag. The same three-step pattern it had walked for forty years, now repurposed as killing. The cutlery-fingers caught Withaazz's coat on the second sweep and tore through it. The fabric smoldered where it was cut. Withaazz wrenched the iron rebar from his belt and drove it at the revenant's shoulder joint. The point skidded off fused plate and gouged a line of sparks across the chestplate. Sixpounder did not notice.
 
-"Stop," Hindemith said. Neither of them stopped.
+"Enough." Hindemith spoke the word the way a concierge speaks a room number at three in the morning: quietly, to no one, and with the absolute expectation of being obeyed. "You are burning a hallway to kill what cannot be killed. You are scorching the Conciergerie's plaster, cracking the Conciergerie's baseboards, dimming the Conciergerie's lights. And still it walks." He stepped between them, one hand open, the other resting on the pact book at his hip. "Ask yourself what your spellwork has accomplished. Ask yourself what it will accomplish next. The answer to both is the same."
 
 He was between them now. Not by choice, by geometry. The corridor was narrow and the fight was moving and he was in the path of movement because stopping the movement was his job. He put his hand on the pact book. He put his body in the line of advance. The revenant's sword-hand came within a foot of his shoulder.
 
-"Sixpounder." He used the tone he used for towel delivery. Routine. Expectation. The cadence of an arrangement that had held for decades. "This is not your route. Return to the stairwells. Your patrol-rite is incomplete."
+"Sixpounder." He used a tone he had never used for towel delivery. Lower. Reverent. The cadence of a sermon delivered to a congregation of one. "You were given a route. Stairwell to stairwell, landing to landing, forty years of faithful passage through the marrow of this building. That is your rite. That is your covenant. That is the only road the Conciergerie ever asked you to walk." He let the words settle into the amber light. "Whatever blood calls to you now, it is not written in your contract. Return to the stairwells, old sentinel. Your patrol-rite is unfinished, and the landings grow cold without you."
 
 The revenant paused. Not the bell's blank-page pause. Something older. The hesitation of a mechanism encountering a familiar input in an unfamiliar context. The sword-hand wavered. Then a stairwell door opened twenty feet behind Hindemith, and he turned.
 
