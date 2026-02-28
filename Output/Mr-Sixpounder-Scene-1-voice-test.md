@@ -20,33 +20,33 @@ Hindemith found her on the sixteenth landing, pressed flat against the wall with
 
 Her name was Kovac. Night logistics. Three days in. Her badge was gleaming and unsullied where it nested upon her heaving chest, the photo still a reasonable likeness. He had seen a hundred Kovacs come through these stairwells. Most of them eventually stopped flinching.
 
-"Ms. Kovac."
+"Ms. Kovac. Child of the night shift. You were expected three hours ago."
 
 "There's a--" She pointed up the stairwell with the box cutter. Her hand was shaking. "There's a thing."
 
-"Yes."
+"There is."
 
 "It has a sword."
 
-"He has a sword."
+"He has a sword. He has carried it since before the Eastmark Stairwells bore their name, since before this carpet knew the weight of a single footfall. You would do well to speak of him accordingly."
 
-"It has--some of its fingers are forks."
+"It's- some of his fingers are forks."
 
-Hindemith's left eyelid twitched. "He prefers 'Mr. Sixpounder.' You'll find him among the guest incunabula, in the Book of Permanent Residents."
+Hindemith's left eyelid twitched. "He prefers 'Mr. Sixpounder.' You will find his name inscribed among the guest incunabula, in the Book of Permanent Residents. A ward of these stairwells. A keeper of its landings.."
 
 Kovac shifted her weight and angled the box cutter toward the upper landing. "I'm not going back up there."
 
-"You won't need to. He's coming down."
+"You will not need to. He descends. He has always descended. Every night, the same circuit: from the upper risers to the fourteenth landing." He paused. "Consider it a privilege, Ms. Kovac, that you should witness the passage. Most who work these landings toil for months before they are granted such an audience."
 
 From above, the sound grew: click-click-click of cutlery-fingers tapping against a sword pommel that had been tapped ten thousand times before.
 
 Kovac said, "It smells like--"
 
-"Towel detergent and copper. Stay still. Speak in a measured tone. Offer it no refreshment."
+"He, Ms. Kovac. Towel detergent and copper. The twin sacraments of his procession." He raised one hand, measured as a blessing. "Stand still. Speak in low and measured tones. And offer him no refreshment."
 
 "Why?"
 
-"The last person to suggest some small libation from the minibar is now stuck on the ninth landing, as laquer upon a stone sculpture of a cocatrice."
+"Why? Because hospitality, to Mr. Sixpounder, is a covenant. The last demon to suggest some small libation from the minibar now resides upon the ninth landing, sealed in lacquer upon a stone sculpture of a cockatrice. She meant well."
 
 On cue, the revenant rounded the landing above them. The fluorescent tubes flickered once.
 
@@ -56,7 +56,7 @@ Hitch. Drop. Hitch.
 
 The Revenant passed within four feet of Kovac. She held the box cutter between them, knuckles white, and held her breath.
 
-"Good evening, Mr. Sixpounder," said Hindemith.
+"Good evening, Mr. Sixpounder. May your blade find no cause to sing, and your landings rest quiet beneath you."
 
 The revenant's head moved toward the wall beside Hindemith, as if tracking something just behind it. Then it moved back. The patrol continued. The clicking resumed.
 
@@ -66,10 +66,10 @@ They descended together, Kovac keeping close enough to his shoulder that he coul
 
 Kovac stopped. Raised the box cutter again. "What's this now?"
 
-"A Tuple. It rose from the carpet about twenty minutes ago. It looks like Dettmer from Accounts." He moved past Kovac and crouched at the edge of the fourteenth landing, studying the bald patch. "We'll need to place our signatures upon a Form of the Obscure, and watch as Maintainence seals it in wax."
+"A Tuple. It rose from the carpet some twenty minutes past, wearing Dettmer's face. Dettmer, who has not set foot in these stairwells in seven months." He moved past Kovac and crouched at the edge of the fourteenth landing, studying the bald patch. "When the textile thins like this, things apply themselves." He straightened. "We shall place our signatures upon a Form of the Obscure, and Maintenance will seal it in wax. And the carpet, in time, will forget that whih it has birthed."
 
 "I didn't know there was a form for that thing."
 
-"There's a form for everything, Ms. Kovac." He straightened and unclipped a rosewood pen and clipboard from the underside of the fourteenth-landing railing.. He held both out to her.
+"There is a form for everything, Ms. Kovac. For every signature, a demon willing to hold the pen." He straightened and unclipped a rosewood pen and clipboard from the underside of the fourteenth-landing railing. He held both out to her. "Tonight, that demon is you."
 
 Kovac took them. She looked at the Tuple, then at the stairwell above where the clicking had gone quiet, then back at Hindemith. She set her box cutter in its holster, and uncapped the pen.

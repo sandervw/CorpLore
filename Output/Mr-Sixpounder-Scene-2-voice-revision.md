@@ -6,7 +6,7 @@ Hindemith stood behind the front desk -- not his station, not his role. Grosz wa
 
 They came in groups of three and four, each carrying identical black briefcases that hummed at slightly different frequencies. The combined effect, as sixty-odd demons milled between the front desk and the continental breakfast staging area, was a chord -- a low, oscillating drone Hindemith could feel in his back teeth. Their lanyards said GALVANIC MUTUAL: REGIONAL SYNC in a font that seemed to shift weight depending on the angle. Most of them carried weapons openly: letter openers in belt sheaths, weighted rulers clipped to briefcase handles, one demon near the back with a short-handled claw hammer swinging from a gem-studded lanyard. They wanted rooms. They wanted receipts. They wanted to know if the hotel validated parking, and if so, whether that validation covered their vehicles -- the standard-class sedans, obviously, but also the others.
 
-"Standard-class only," Hindemith said, for the ninth time, to a demon whose name badge read either VOSS or VOSZ. "The garage does not recognize non-Euclidean axle configurations. I can offer you surface lot C."
+"Standard-class only," Hindemith said, for the ninth time, to a demon whose name badge read either VOSS or VOSZ. "The garage was consecrated for four wheels, four axles, and the geometries that bind them. It does not suffer deviation. It does not forgive deviation. It does not forget it." He adjusted his cuffs a quarter-inch. "I can, however, offer you surface lot C -- an open sanctuary, unwarded, where your vehicles may rest without covenant. Consider it a courtesy of the house."
 
 He processed the next three arrivals through the rites on muscle memory alone, his attention split between the lobby and the sound leaking from Conference Room 6B down the east corridor. Hold music. Faint, tinny, looping. A jingle that had once advertised something, though no one on staff could remember what. It had been playing since yesterday afternoon. The door was shut. The brass placard on the handle read OCCUPIED, though no one had booked the room. A Hold: a room that had sealed itself around a problem and would not release it through ordinary means.
 
@@ -20,7 +20,7 @@ Hindemith adjusted his cuffs and kept working.
 
 At 7:14, Grosz emerged from the back office with the suppression report signed in triplicate and a notch-bladed box cutter riding his hip. Hindemith held out the key drawer. Grosz looked at it, then at the lobby full of insurance demons, and set his jaw. His hand drifted toward the box cutter.
 
-"Conference Room 6B is a Hold," Hindemith said. "Do not open the door. Do not acknowledge the music."
+"Conference Room 6B has become a Hold," Hindemith said. "You know what a Hold is, brother? It is a room that has swallowed a grievance and sealed its own throat. Two guests sit inside, breathing recycled air and listening to a hymn none of us composed." He let that settle. "Do not open the door. Do not knock. Do not acknowledge the music -- not its melody, not its rhythm, not the silence between its loops. A Hold feeds on recognition the way the continental breakfast feeds on syrup: slowly, then all at once."
 
 Grosz took the drawer.
 
@@ -42,19 +42,19 @@ The door to 30,713 was open. Not wide -- cracked, the way a door opens when the 
 
 He found the housekeeper two rooms down, restocking a linen closet. A serrated bread knife hung from her lanyard beside the badge.
 
-"Room 30,713," Hindemith said. His voice was the same temperature it always was. "You removed the sign."
+"Room 30,713," Hindemith said. His voice was the same temperature it always was. "You removed the sign. Do you know what that sign is, child? It is not cardstock. It is not a suggestion. It is a ward -- older than your rotation, older than the binder that holds your rotation, older than the lamination on the binder that holds your rotation. You lifted a seal."
 
 "It's past the morning rotation. Protocol says --"
 
-"Room 30,713 does not have a rotation."
+"Protocol." Hindemith repeated the word as though tasting something that had turned. "Protocol governs the living floors, the waking guests, the demons who check in and check out by the ordinary rites. Room 30,713 does not check out. Room 30,713 has not checked out in longer than you or I have carried keycards. What sleeps behind that door honors one covenant only, and that covenant is silence."
 
 The housekeeper -- her badge said LINDEN, first rotation, three weeks in -- stopped restocking. She turned to face him with one hand still on a stack of towels and the other resting on the bread knife. "There's a standing note?"
 
-"There is a permanent Do Not Disturb on that room. It is not in your rotation binder because it predates the binder system. It predates the lamination of the binder system." He paused. Linden's grip on the knife had not relaxed. "I will have it added. In the meantime, the sign goes back on the door, and you do not enter that room again."
+"There is a permanent Do Not Disturb on that room. It predates the binder system. It predates the lamination of the binder system. It predates, I suspect, the very concept of disturbing." He paused. Linden's grip on the knife had not relaxed. "I will have it inscribed in your rotation -- an entry in red, child, so that it cannot be missed, cannot be misread, cannot be mistaken for suggestion. In the meantime: the sign returns to the door. You do not enter that room again. You do not knock on that door again. You do not linger in the warmth of that carpet again. Go now."
 
 "I didn't enter. I knocked, and no one answered, so I --"
 
-"The sign goes back. Now."
+"The sign goes back." His voice did not rise. It lowered -- half a register, the way hold music lowers when it bleeds through twenty-six floors of copper pipe. "Now. While the latch still remembers how to close."
 
 Linden held his gaze for a beat, then pulled a fresh DND placard from the cart and walked past him toward 30,713. She moved like someone complying under protest -- deliberate, unhurried, the bread knife swinging with each step.
 

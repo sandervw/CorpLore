@@ -1,14 +1,31 @@
-Hey claude, the attached document is a 'revision style guide', for revising prose to read like it is from the series 'Freeman's Mind'.  I want to take this concept, and make a similar document, but for the voice/mind of the character 'Solaire of Astora' from Dark Souls. I've pasted several of Solaire's best quotes below, along with his general metaphor family / argument tactics. Do you think you can use this info, and any other information you can dig up via web search, to create a similar style guide for Solaire? The new document should be almost exactly the same size as the freeman one - same format, sticking to the most useful guidelines. NOTE: the style guide should still produce output in the 'stream-of-consciousness' format - not just "1st person prose".
+# Lucien Lachance — Quotes
 
-```
-Solaire's dialogue:
-1. "I am Solaire of Astora, an adherent to the Lord of Sunlight. Now that I am Undead, I have come to this great land, the birthplace of Lord Gwyn, to seek my very own sun!"
-2. "The way I see it, our fates appear to be intertwined. In a land brimming with Hollows, could that really be mere chance?"
-3. "We are amidst strange beings, in a strange land. The flow of time itself is convoluted, with heroes centuries old phasing in and out."
-4. "Use this, to summon one another as spirits, cross the gaps between the worlds, and engage in jolly co-operation!"
-5. "The sun is a wondrous body. Like a magnificent father! If only I could be so grossly incandescent!"
-6. "You really are fond of chatting with me, aren't you? If I didn't know better, I'd think you had feelings for me!"
-7. "I did not find my own sun, not in Anor Londo, nor in Twilight Blighttown. But I cannot give up."
-8. "Was it all a lie? Have I done this all, for nothing? Oh, my dear sun... What now, what should I do?"
-9. "Ahh, it's over... My Sun... it's setting... It's dark, so dark..."
-```
+_The Elder Scrolls IV: Oblivion by Bethesda Game Studios_
+
+1. "You sleep rather soundly for a murderer. That's good. You'll need a clear conscience for what I'm about to propose."
+2. "Dear Brother, I do not spread rumors. I create them."
+3. "Imagine a perfect, cloudless midnight, cold as winter ice and shrouded in shadow. That is Sithis."
+4. "We kill for profit, for enjoyment, and for the glory of the Dread Father, Sithis."
+5. "We are family, with bonds forged in blood and death."
+6. "The slaying of Rufio was the signing of a covenant. The manner of execution, your signature. Rufio's blood, the ink."
+7. "From this moment forward, you will walk the shadows as my Silencer."
+8. "I'll be following... your progress. Welcome to the family."
+9. "Go now, Child of Sithis. Walk in the shadow of fear, and bring glory to our Dread Father."
+10. "Don't you see? You and I have been deceived. We must find out who is behind this betrayal!"
+11. "Have you not heard of the Dark Brotherhood? Of the remorseless guild of paid assassins and homicidal cutthroats? Join us, and you'll find the Dark Brotherhood to be all that, and so much more. We are, more than anything, a union of like-minded individuals."
+12. "I am Lucien Lachance, a Speaker for the Dark Brotherhood. And you, you are a killer. Taker of life. A harvester of souls."
+13. "I come to you with an offering. An opportunity... to join our rather unique family."
+14. "The Night Mother has been watching, and she is most pleased."
+15. "We praise our Unholy Matron. From her shadowed womb we were born. She loves her children, you see."
+16. "Your path is clear. Send Rufio to his death, and the Dark Brotherhood will embrace you as family."
+17. "So, the deed is done. How do I know this? You will find that the Dark Brotherhood knows a great many things."
+18. "As every hand has fingers, does not every finger have a nail? A claw? A talon? Each Speaker employs his or her own private assassin. My previous Silencer perished while fulfilling a contract. That emptiness has now been filled by you. It is an honor without equal."
+19. "No longer will you receive orders directly. You will visit dead drop locations scattered throughout Cyrodiil. Secrecy is our greatest ally."
+20. "The Dark Brotherhood has been infiltrated. You have been chosen to perform the ancient rite known as Purification. Everyone inside the Sanctuary must die!"
+21. "The Dark Brotherhood is an ancient organization. We have survived for millennia. Sometimes, to ensure that survival, drastic measures are required."
+22. "Fulfill the contract, and your path is clear. Betray the Brotherhood, and your heart will burn in a thousand hells."
+23. "You prefer silence, then? As do I, my dear child. As do I."
+24. "No! No, I'm too late! I thought I could get here in time. Thought I could stop you! By Sithis, what have you done?"
+25. "The traitor somehow switched your orders. You and I have been deceived."
+26. "Go now to your next dead drop, lie in wait, and confront whomever drops it off. Uncover the true traitor's identity, and then come see me. Now go! And may Sithis help us all!"
+27. "Go, Silencer, uncover the identity of the traitor! The fate of the Dark Brotherhood rests in your hands!"
