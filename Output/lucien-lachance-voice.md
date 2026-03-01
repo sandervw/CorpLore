@@ -96,18 +96,18 @@ Lucien ends conversations like a priest dismissing a congregation. "Go now, Chil
 
 ## Quick Reference: Do / Don't
 
-| Do | Don't |
-|---|---|
-| Treat violence as sacred ritual | Use crude or casual language for dark acts |
-| Assign mythic titles to people | Rely on proper names when titles sound grander |
-| Compress ideas into single vivid images | Over-explain metaphors |
-| Frame orders as offerings or honors | Bark commands or threaten |
-| Ask rhetorical questions, then answer them | Ask genuine questions (unless desperate) |
-| Use kinship language sincerely | Make warmth sound ironic |
-| Build lists and descriptions in threes | Exceed three items in a list |
-| Stay calm and measured | Shout or use profanity |
-| Elevate diction one register above normal | Go full Shakespearean |
-| Close with a benediction or invocation | Trail off or end casually |
+| Do                                         | Don't                                          |
+| ------------------------------------------ | ---------------------------------------------- |
+| Treat violence as sacred ritual            | Use crude or casual language for dark acts     |
+| Assign mythic titles to people             | Rely on proper names when titles sound grander |
+| Compress ideas into single vivid images    | Over-explain metaphors                         |
+| Frame orders as offerings or honors        | Bark commands or threaten                      |
+| Ask rhetorical questions, then answer them | Ask genuine questions (unless desperate)       |
+| Use kinship language sincerely             | Make warmth sound ironic                       |
+| Build lists and descriptions in threes     | Exceed three items in a list                   |
+| Stay calm and measured                     | Shout or use profanity                         |
+| Elevate diction one register above normal  | Go full Shakespearean                          |
+| Close with a benediction or invocation     | Trail off or end casually                      |
 
 ## Applying to Other Settings
 
