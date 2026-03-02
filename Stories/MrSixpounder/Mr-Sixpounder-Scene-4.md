@@ -1,83 +1,92 @@
 # Mr. Sixpounder: Scene 4
 
-The smell found him two floors away.
+The smell found him on floor 28. Copper and hotel soap. Hindemith doubled his pace, taking the stairs two or three at once.
 
-Copper and hotel soap. Hindemith adjusted his cuff and walked faster, though his knee argued against it, and by the time he reached the corridor on Sixpounder's floor the carpet told the rest. It had gone dark from the baseboard outward, a slow saturation that spread in silence. The hallway lighting hummed. An ice machine cycled somewhere behind the walls.
+By the time he reached the corridor on Sixpounder's floor the carpet told the rest. It had changed in hue from old-ston-grey to crimson, from the baseboard outward, a slow saturation. The hallway lighting hummed. An ice machine cycled somewhere behind the walls.
 
-A room-service cart lay on its side near 30,709. One wheel still turned. The cart hadn't fallen -- it had been struck laterally, with force. Two plates lay shattered against the far wall. The cloche lid had rolled to a stop against Sixpounder's door. Room 30,713. Still closed. The DND sign -- replaced after the housekeeper's error -- hung at its correct angle.
+A room-service cart lay on its side near 30,709. One wheel still turned. The cart hadn't fallen, it had been struck laterally, with force. Two plates lay shattered against the far wall. The cloche lid had rolled to a stop against Sixpounder's door. Room 30,713. Still closed. The DND sign - replaced after the housekeeper's error - hung at its correct angle.
 
-What Sixpounder had left in his wake numbered three. Two he could identify by their room slippers -- a married couple from 30,711, insurance demons from the Galvanic Mutual group. The third had been wearing a conference lanyard, but whatever name had been printed on it was no longer legible. A notch-bladed letter opener lay near the third one's hand, undrawn from its gem-studded lanyard sheath. Never even had the chance. The walls on both sides of the corridor bore parallel scratch marks at shoulder height -- three lines each, evenly spaced, the signature of cutlery-fingers dragged along drywall.
+Sixpounder had left three in his wake. Two of them Mr. Hindemith was able to identify by their room slippers - a married couple from 30,711, legal demons from Steelwright Dynasts Holding Company. The third had been wearing a conference badge, but whatever name had been printed on it was no longer legible. A letter opener with a worn leather handle lay near the third one's hand, undrawn from its felt sheath. Never even had the chance. Parallel lines scored one wall of the corridor at shoulder height - three lines of different weights, evenly spaced, the signature of cutlery-fingers dragged along drywall.
 
-Hindemith stood very still. He listened to the ice machine. The elevator chimed two floors down. He let the hotel continue around him, then reached into his jacket for the pact book. His other hand rested on the weighted stylus he kept holstered at his hip -- not a weapon, technically, but heavy enough to crack a jaw if etiquette demanded it.
+Hindemith stood stock still, like asome well used children's plastic figurine of a hotel caretaker, listening, the only sound the gurgle and clack of the ice machine. An elevator chimed two floors down. Gradually he reached into his jacket for the pact book. His other hand toyed with the extensible, thick iron pocket pointer he kept in a long pocket of his trousers - though Hindemith personally preferred violence of the indirect kind.
 
-The pages stuck. Something had bled through the binding, and the leather was tacky along the spine where the Sixpounder entry would be, where Hindemith's thumb fell by decades of muscle memory. He peeled it open. The contract text was undamaged. The terms were clear, had always been clear: one target, named and specified, deceased forty-three years. The grievance had found new vessels. The contract had not authorized this.
+Something had bled through the binding of his pact, and the leather was tacky along the spine where the Sixpounder entry would be, where Hindemith's thumb fell by decades of muscle memory. He peeled it open. The contract text was undamaged. The terms were clear, had always been clear: one target, named and specified, deceased forty-three years. The grievance had found new vessels. The contract had not authorized this.
 
-He closed the book. He looked at the three shapes on the carpet and calculated. Which were descendants. Which were bystanders. Whether the insurance demons' home office would file a severance rite or simply replace them, as they replaced everything. He was already walking toward the elevators when he heard a sound from around the corner.
+He closed the book, returning his attention to the three shapes on the carpet. Which were descendants? Which, bystanders? Whether the insurance demons' home office would file a severance rite or simply replace the lost demonpower, Hindemith did not know.
 
-A laugh. Low, wet, and deeply amused.
+A sound broke Hindemith's thought. A laugh. Low, wet, and deeply amused.
 
-She was sitting in the alcove between the ice machine and the fire exit, in one of the hotel's wingback chairs that nobody used because the upholstery smelled of decades. She had not been there an hour ago. Hindemith had walked this hallway an hour ago and the chair had been empty. The air now carried something older. Wet earth and burnt sugar and the particular staleness of a room where someone has been breathing for a very long time without opening a window.
+She was sitting in the alcove between the ice machine and the fire exit, in one of the hotel's wingback chairs that nobody used because the upholstery smelled as if it were padded with cigarette ash. The she-demon had not been there an hour ago. Hindemith had walked this hallway an hour ago and the chair had been empty. The air now carried a new fume, but not cigarettes. It was a smell of wet earth and burnt sugar.
 
-"Three," she said, and her voice came from the wrong direction -- from the ceiling, from behind the ice machine, from the fire-exit stairwell, all at once. "I counted three. Did you count three?"
+"Three," said the she-demon, and her voice came from the wrong direction - from the ceiling, from behind the ice machine, from the fire-exit stairwell, all at once. "I counted, three. One, two, three carpet carcasses. How many carpet carcasses did you count, sirrah?"
 
-A Lora. Hindemith's hand moved from the stylus to the pact book. He did not open it. Opening it would be an offer, and an offer was leverage, and he was not yet certain which direction the leverage needed to flow.
+A Lora. Hindemith's hand moved from the stylus to the pact book. He did not open it. Opening it would be an offer, and an offer was leverage, and he was not yet certain of the manner of leverage called for.
 
-"You bear no key-card, no reservation folio, no stamp from the front desk," he said. "Which means you arrived through a door that was not offered to you. And a door taken without offering is a debt, not an entrance."
+"I smell upon you no scented key-card, no reservation folio, no odor-stamp from the front desk," said Hindemith. "Which means you came to the Hotel Stackz through a door that was not held open to you. And such a door lays on your back a charge when you pass under its transom."
 
-"I'm a concerned neighbor." She smiled with too many teeth. Her face had the texture of a paper bag that had been wet and dried and wet again -- creased in places faces don't crease, smooth in places they shouldn't be. A serrated butter knife lay across her lap, its handle wrapped in copper wire gone green with age. "Room 30,708. I filed a disturbance grievance forty minutes ago. Would you like to see the form?"
+"I'm a concerned neighbor." The Lora smiled with too many teeth. Her face had the texture of a paper bag that had been wet and dried and wet again - creased in places faces don't crease, glossily smooth in the corners of the eyes and mouth. "Room 30,708. I sealed a grievance in wax forty minutes ago, and sent it down with your bellboy. Would you like to see the receipt?"
 
-She produced a room-complaint card from somewhere in her layers. It was filled out in handwriting that changed style three times across two lines. Under "Nature of Complaint," it read: *Structural noises consistent with expired guest activity.*
+She produced a slip of paper from somewhere in her fold of silky black dress. It was filled out in handwriting that changed style three times across two lines. Under "Nature of Complaint," it read: *Structural noises consistent with activity of guests dearly departed.*
 
-"The revenant walks under covenant," Hindemith said. "Its grievance was inscribed, witnessed, and sealed before the carpet in this hallway was laid. Every step it takes follows a route the Conciergerie chartered. What you see in this corridor is not disorder. It is an arrangement fulfilling itself -- clumsily, yes, but fulfilling itself all the same."
+"The revenant remains here by covenant," Hindemith said. "*his* agreement was inscribed, witnessed, and sealed before the carpet in this hallway was laid. Every step it takes follows a route sanctioned by the Conciergerie. What you see in this corridor is not disorder. It is an arrangement fulfilling itself - clumsily, I grant, but fulfilling nonetheless."
 
-"Three dead in the hallway suggests otherwise." She picked up the butter knife and turned it slowly, examining its edge. The nails on her turning hand were the color of old pennies and curved past the fingertips. "I need a familiar. A bound one. Fourth-circle, minimum."
+"Three dead suggests otherwise." She picked up the whittling knife and turned it slowly, examining its edge. The nails on her turning hand were the color of old pennies and curved past the fingertips. "Do you see this? My last familiar - a lovely creature who was the shape of a small blue crocodile - he bought this fine, fine knife knife for me with his existence."
 
-Hindemith moved one step back, putting his shoulder closer to the wall -- not retreating, establishing a cleaner angle on the corridor and the book.
+"You have my sympathies."
 
-"Binding is a sacrament of the Conciergerie, not a service," he said. "It requires three things: a willing vessel, a registered handler, and a grievance pure enough to hold the stitching. You bring none of these. You bring a butter knife and a complaint card written in three hands."
+"And now I need a new familiar. And it must also be of the fourth-rank, minimum."
 
-"The Conciergerie binds. You are Conciergerie."
+Hindemith moved one step back, putting his shoulder closer to the wall - not retreating, establishing a cleaner angle on the corridor.
 
-"I facilitate arrangements. I open the ledger, I broker the terms, I ensure the ink dries clean. The binding itself belongs to those who have earned the privilege of holding another soul's leash. That is a different office than mine, and a darker one." He paused. "You would do well to understand the distinction."
+"Binding is a sacrament of the Conciergerie, not a service," he said. "It requires three things: a willing vessel, a registered handler, and a grievance pure enough to hold the stitching. You have none of these. You have only a knife and a complaint card written in three different hands."
 
-The Lora tilted her head at an angle that suggested her neck had one more vertebra than standard anatomy. She stood. The butter knife stayed in her hand. "Then facilitate. Find me a handler, secure the binding, deliver the familiar. I'll trade for it."
+"The Conciergerie makes bonds. You are Conciergerie."
 
-"And what, precisely, would you place on the scale? What offering does a Lora carry that the Conciergerie has not already weighed and catalogued?"
+"I facilitate arrangements. I open the ledger, I broker the terms, I ensure the ink dries in ordered, lawful lines. The binding itself belongs to those who have earned the possession of another soul. That is a different office than mine." He paused. "You already understand the distinction."
 
-"Information. Regarding your bloodline problem." She glanced toward the corridor where the three shapes still lay. "You've been counting descendants since breakfast. Eleven at the waffle-maker. But you haven't found the one the grievance routes through -- the Anchor, the eldest living vessel. Without her, your revenant will keep doing arithmetic on whoever's closest."
+The Lora tilted her head at an angle that suggested her neck had one more vertebra than standard anatomy. She stood. "Then facilitate. Find me a soul to own, deliver the familiar. I'll trade you for it."
 
-Hindemith's eyelid tremor fired twice. He kept his voice level. "You claim to know the vessel through whom the grievance flowers. That is not a small claim. That is the kind of knowledge that stains the one who carries it."
+"And what, precisely, would you place on your end of the scales?"
 
-"I know what she's carrying. Which is more useful." She settled back into the wingback chair and laid the butter knife across the armrest, blade out. "I give you the information, you owe me the familiar. The book enforces." She nodded at the pact book in his hand. "That's why you haven't opened it yet."
+"Oh Concierge Demon, I can tell you things worth knowing about your one, two, three carcass problem." She glanced toward the corridor where the bodies lay wetly. "You've been counting descendants since breakfast. At the waffle-maker, you counted eleven. One, two, three, four, five, six, seven, eight, nine, ten... ELEVEN... But, you haven't found the one - only one - who is the anchor. Eldest living vessel. Without that demon or she-demon, your revenant will persist in its unequal, bloody arithmetic."
 
-He opened the book.
+Hindemith's eyelid tremor fired twice. He said, "You claim to know the vessel through whom the grievance flowers. That is not a small claim."
 
-The negotiation took eleven minutes. Hindemith wrote the terms in the margin of the Sixpounder entry -- the only space left, the pages having filled over forty years of amendments, addenda, and increasingly desperate notes in increasingly small handwriting. The Lora spoke her half aloud. The book recorded them in a script that was neither his handwriting nor hers but a third thing -- the Conciergerie's own notation, which existed only when both parties were bound by it.
+"It is a she-demon, and I know what the she-demon is carrying." She settled back into the wingback chair and laid the wire-hilt knife across the armrest, blade out. "I will give you that, and you then owe me the familiar. The book will enforce this bond. Is that why you haven't opened it yet?"
 
-What she told him, when the binding sealed: the Anchor was a woman on the ninth floor. Not a conference guest. Not an insurance demon. A commuter, passing through, who had checked in for two nights and used the complimentary toiletries without reading the labels. The bottles had not been complimentary. They had been arranged -- shampoo, conditioner, body lotion -- in a pattern that mirrored the architecture of the Eastmark Stairwells, and the woman had used them in sequence, and in doing so had drawn the patrol route into her skin.
+Hindemith opened the book.
 
-"Who laid the bottles in that order?" Hindemith asked. "Who dressed the counter, chose the sequence, and set the route into soap and glycerin? That is a concierge's work -- or a warlock's. The two are not always distinguishable."
+The negotiation took eleven minutes. Hindemith wrote the terms in the margin of the Sixpounder entry - the only space left, the books pages having filled over forty years of bond amendments, bond addenda, and increasingly desperate notes in increasingly small handwriting. The Lora spoke her half aloud, which Hindemith also transcribed.
 
-The Lora smiled. "That wasn't part of the trade."
+Once the ink had set but before it finished drying, the Lora told Hindemith what she knew. The Anchor was a she-demon on the ninth floor. Not a conference guest. Not an insurance demon. A commuter, passing through, who had checked in for two nights and used the complimentary toiletries without reading the labels. The bottles had not been complimentary. They had been arranged - shampoo, conditioner, body lotion - in a pattern that mirrored the architecture of the Eastmark Stairwells, and the woman had used them in sequence, and in doing so had evoked a scented patrol-route-effigy over her pores.
 
-He closed the book. The massacre fluid had pooled and channeled during their conversation, finding the path of least resistance along the baseboard -- three parallel trails. Hindemith looked at the trails, then at the corridor. The Lora was already gone. The wingback chair smelled of wet earth and burnt sugar. The upholstery was warm. The butter knife was gone with her.
+"Who laid the bottles in that order?" Hindemith asked. "Who dressed the counter, chose the sequence, and set the route into soap and glycerin? That is a concierge's work, or the work of an engineer."
 
-He found the commuter at 1:49 AM.
+The Lora's lent no crease to the gleaming corners of her mouth and eyes. "That knowledge was not part of the trade."
 
-The Eastmark Stairwells were never fully dark -- the emergency lighting gave everything the color of weak tea. In that amber wash the woman moved with strange precision. Her eyes were open. Her face was slack. She turned at the landing exactly where Sixpounder always turned, paused at the same duration, and continued up the next flight with the precision of someone following marks on a stage floor.
+Hindemith closed the book. The ichor of the massacre had into the thin Textile of the hallway carpet during their conversation. Hindemith stared across at the stain for a moment, then looked back to the alcove. The Lora was already gone. The wingback chair still smelled of wet earth and burnt sugar, though the faint cigarette-ash odor was already diffusing like a cloud through the disturbed upholstery where she has been sitting.
 
-Hindemith took the stairs two at a time. His knee clicked on every other step, loud enough to echo. The woman did not react. She was walking the patrol route in her sleep, walking it perfectly, and somewhere above or below there was a faint metallic ticking that might have been the revenant or the building settling or both.
+After a search of several hours, Hindemith found the commuter at 1:49 AM - in yes another branch of The Eastmark Stairwells.
 
-He caught her on the next landing. One hand on her shoulder, one steadying her elbow, guiding without waking, without breaking whatever circuit was running. She smelled of hotel shampoo.
+The Stairwells were never fully dark - the emergency lighting gave everything the color of weak tea. In that amber wash the woman moved with strange precision. Her eyes were open. Her face was slack. She turned at the landing exactly where Sixpounder always turned, paused at the same duration, and continued up the next flight with the precision of someone following marks on a stage floor.
 
-On the way back down he passed The Painting. He had passed it ten thousand times. A watercolor of a lake, slightly crooked in its frame, the kind of generic hotel art that existed to fill a wall and nothing more. But the brushstrokes moved if you looked too long, and up here on Sixpounder's floor there were no sleeping guests to feed idle memories to a hungry canvas. There hadn't been sleeping guests on this floor in years. The painting's surface glistened, wet-looking, fed on something he could not name.
+Hindemith took the hall at a run. His footsteps drummed loud on the floor, but the woman did not lift her eyes to his. Hindemith slowed, and wondered. Then, coming up closer, he understood. She was walking the patrol route in her sleep, walking it perfectly.
 
-He guided her into the elevator, rode down to the lobby in silence, and eased her into a chair by the front desk. Then he called Maret -- a Waard he knew, containment rites, the guild that handled exposure cases, priced by the syllable.
+Somewhere above or below there was a faint metallic ticking that might have been the revenant, or the building settling, or both.
 
-"Three nights beneath the Eastmark Stairwells," Hindemith said. "One guest, unmarked, walking the patrol route in her sleep. She is the Anchor -- the living vessel through whom the grievance flows. Contain her, cleanse the route from her skin, and sever the thread before the revenant finds it."
+He caught her. he set one hand on her shoulder, one steadying her elbow, guiding without waking, without breaking whatever circuit was running. She smelled of lavender and eucalyptus - Hotel Stackz's shampoo.
 
-A pause. Then the sound of a whetstone stopping. "Rate's doubled since last time."
+On the way back to her room they passed beside The Painting.
 
-"The Conciergerie honors its debts. Send the invoice to the front desk, seal it with the day-stamp, and let the ledger settle what is owed. It always does."
+Hindemith had passed this particular art ten thousand times. A watercolor of a lake, slightly crooked in its frame, the kind of generic hotel decor that existed to fill a wall. But the brushstrokes on this one moved if you looked too long. Here on Sixpounder's floor, there were never more than a handful of guests each season to feed idle memories to a hungry canvas. The painting's surface glistened, wet-looking, feed on... what? Hindemith could not say.
+
+He guided the commuter into the elevator, rode down to the lobby in silence, and eased her into a chair by the front desk. Then he called Maret - a Waard, the burly infrastructure demons that handled exposure cases, protection, priced by the syllable.
+
+"Three nights beneath the Eastmark Stairwells," Hindemith said. "One guest, sleepwalking patrols. She's an Anchor - vessel for an old grievance. Let the route work itself out of her pores. Guard and direct her down safe halls while she sleeps."
+
+A pause. Then the sound of a whetstone stopping. "Double-rate."
+
+"The Conciergerie honors its debts. Send the invoice to the front desk, seal it in blue wax with the day-stamp, and instruct my junior concierge inscribe this transaction in our ledger."
 
 Maret hung up first.
+

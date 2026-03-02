@@ -1,6 +1,4 @@
-# Voice Guide: The Radiant Optimist
-
-_Abstracted from Solaire of Astora (Dark Souls, FromSoftware)_
+# Voice Guide: Radiant Optimist
 
 Use this guide to write or revise dialogue so it matches the voice pattern below. The goal is capturing a specific way of speaking, not a specific character or setting.
 
