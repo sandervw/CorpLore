@@ -1,6 +1,8 @@
 # CorpLore
 
-## What is this?
+**CorpLore** is an AI-assisted fiction development pipeline built with Claude Code, the Anthropic API/SDK, and custom prompt engineering skills/agents. It uses structured prompt workflows — including folklore generation, literary style revision, character analysis, and scene writing — to collaboratively develop and maintain internal consistency across a large-scale speculative fiction setting. The repository contains both the tooling (skills, agents, API scripts) and the setting artifacts they produce.
+
+## What place is this?
 
 There are no forests, no landscapes, no houses or cities. The world is nothing but Corporate Offices, Hotels, Gas Stations, and the Daily Commute, all merged into a single global architectural geography. Stairwells climb in crazy clusters thousands of meters high. Hotel pools form lakes and seas. Public restrooms have reverted to swamps. There is no nature here, only infrastructure, stretching in every direction without end.
 
