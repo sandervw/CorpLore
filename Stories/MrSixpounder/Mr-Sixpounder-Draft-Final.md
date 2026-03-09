@@ -1,4 +1,4 @@
-# Mr. Sixpounder: Scene 1
+# Mr. Sixpounder
 
 The Tuple rose from the carpet at 2:47 AM, thirteen minutes before Mr. Sixpounder was due.
 
@@ -74,7 +74,7 @@ Kovac stopped. Raised the box cutter again. "What's this now?"
 
 Kovac took them. She looked at the Tuple, then at the stairwell above where the clicking had gone quiet, then back at Hindemith. At last she set her box cutter in its holster, and uncapped the pen.
 
-# Mr. Sixpounder: Scene 2
+---
 
 The elevator had been chiming for forty minutes.
 
@@ -172,7 +172,7 @@ He had time. Not much. But some.
 
 The sixty insurance demons were still in the lobby with their sixty humming briefcases, sixty unrealized complaints routing upward floor by floor toward the room above the revenant. Mr. Hindemith, ruminating on the day's unusual excitement, began the long journey down the nearest stairwell.
 
-# Mr. Sixpounder: Scene 3
+---
 
 The continental breakfast at Hotel Stackz was cellophane and condensation. Hindemith stood at the entrance of the lounge and inventoried it: three archon's-eye in plastic, a thousand-pound fruit bowl carved of solid crystal, full of fruit three days untouched, two charred juice carafes sweating rings onto the white tablecloth. A she-demon near the toast station had a serrated butter knife belted at her hip, its handle worn smooth.
 
@@ -220,7 +220,7 @@ Hindemith smoothed a crease on his book's cover. "But a pact requires a living p
 
 Hindemith stood, leaving his continental coffee untasted and cold, and walked toward the lobby.
 
-# Mr. Sixpounder: Scene 4
+---
 
 The smell found him on floor 28. Copper and hotel soap. Hindemith doubled his pace, taking the stairs two or three at once.
 
@@ -312,7 +312,7 @@ A pause. Then the sound of a whetstone stopping. "Double-rate."
 
 Maret hung up first.
 
-# Mr. Sixpounder: Scene 5
+---
 
 Hindemith heard it before he saw it. Cutlery on drywall, three fingers drawing three lines at shoulder height, a higher pitch of scrape than any that had sounded in four decades of patrol. 
 
@@ -380,7 +380,7 @@ Withaazz lowered his hands. The double deck of white-blue glyphboard keys vanish
 
 Hindemith stood in the amber hallway between a frozen revenant and a trembling Commuter with a branded mug. The mug shook in her grip, but the coffee within did not move. The revenant did not move. Down the corridor, the conference guests had drawn their weapons, but they did not move either. They watched, some crouching now behind an overturned luggage cart, and waited to see what happened next.
 
-# Mr. Sixpounder: Scene 6
+---
 
 As Hindemith considered it carefully, and though it was he who had devised it, the plan stank of desperation. But, he argued to himself, there had been little time for its devising. The road-trance had held Sixpounder in a perfect status - for four hours exactly. Then, it broke. Hindemith hadn't been there when it happened. He heard later that Mr. Sixpounder had loped back to his room. By then, Hindemith had already returned to the dining area.
 
