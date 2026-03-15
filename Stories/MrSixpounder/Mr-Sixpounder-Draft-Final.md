@@ -16,7 +16,7 @@ The stairwells rose in tight spirals, each landing identical to the last except 
 
 The new hire was in for an educational night.
 
-Hindemith found her on the sixteenth landing, pressed flat against the wall with one hand on the serrated box cutter clipped with scrollwork bronze carabiner to her lanyard of jade-colored silk.
+Hindemith found her on the sixteenth landing, pressed flat against the wall with one hand on the serrated box cutter clipped with a scrollwork bronze carabiner to her lanyard of jade-colored silk.
 
 Her name was Kovac. Night logistics. Three days in. Her badge gleamed under the fluorescents where it nested upon her heaving chest, the photo still a reasonable likeness. He had seen a hundred Kovacs come through these stairwells. Most of them eventually stopped flinching.
 
@@ -92,13 +92,13 @@ The housekeeper rotation on floors twenty through thirty had gone out unsupervis
 
 And, where was Hindemith's pact book? Not in his jacket pocket where it had been every day for eleven years. He felt the absence every time he shifted his weight.
 
-The elevator chimed again. Three more briefcases. The chord shifted a quarter-tone sharper.
+The elevator chimed again. Three more briefcases.
 
 Hindemith adjusted his cuffs again.
 
 At 7:14, Grosz emerged from the back office with the suppression report signed in triplicate and a notched blade from a paper guillotine riding his hip. Hindemith held out the key drawer. Grosz looked at it, then at the lobby full of insurance demons, and set his jaw. His hand drifted toward the guillotine.
 
-"Conference Room 6B has become a Hold," Hindemith said. "You know what a Hold is, brother. Two guests sit inside breathing recycled air, listening to a hymn never composed." He paused, studied Grosz, then resumed, "Do not open the door. Do not listen to the music - not its melody, not its rhythm, not the silence between its loops."
+"Conference Room 6B has become a Hold," Hindemith said. "You know what a Hold is, Brother. Two guests sit inside breathing recycled air, listening to a hymn never composed." He paused, studied Grosz, then resumed, "Do not open the door. Do not listen to the music - not its melody, not its rhythm, not the silence between its loops."
 
 Grosz took the drawer.
 
@@ -186,11 +186,11 @@ Mr. Sixpounder stood in the doorway.
 
 Hindemith unmoving, watched from his corner table, coffee cooling against his fingers, and counted.
 
-The revenant's head turned toward a woman at the juice station. Held. Released. It swung to a man buttering pumpernickel toast two tables away, and held longer. A demon in the waffle-maker queue saw the head tracking and stepped sideways, one hand dropping to a cane topped with a weighty agate at his belt. The revenant didn't notice. Its attention moved through the queue, slow and methodical, locking on certain guests.
+The revenant's head turned toward a woman at the juice station. Held. Released. It swung to a man buttering pumpernickel toast two tables away, and held longer. A demon in the waffle-maker queue saw the head tracking and stepped sideways, one hand dropping to a cane topped with a weighty agate at his belt. The revenant didn't notice. his attention moved through the queue, slow and methodical, locking on certain guests.
 
-Not all of them drew its vacant eye. Most of the insurance demons passed through Sixpounder's field of vision without pulling his gaze. But a woman with two children caught his eye. And a man in a wrinkled dress shirt, a grave-shovel strapped flat across his back, reading a folded newspaper. A teenager hunched over a phone. Each one swung the revenant's head around like a compass needle.
+Not all of them drew his vacant eye. Most of the insurance demons passed through Sixpounder's field of vision without pulling his gaze. But a woman with two children caught his eye. And a man in a wrinkled dress shirt, a grave-shovel strapped flat across his back, reading a folded newspaper. A teenager hunched over a phone. Each one swung the revenant's head around like a compass needle.
 
-"There," Hindemith murmured, tracing the rim of his coffee cup with one finger. "The woman at the juice carafe. The man with the grave-shovel. The child with the phone. Do you see the thread, brother?" He spoke the question rhetorically, low, so that no one heard. "Three faces that share nothing, and yet each one drags the needle north."
+"There," Hindemith murmured, tracing the rim of his coffee cup with one finger. "The woman at the juice carafe. The man with the grave-shovel. The child with the phone. Do you see the thread, Brother?" He spoke the question rhetorically, low, so that no one heard. "Three faces that share nothing, and yet each one drags the needle north."
 
 He turned his coffee cup a quarter rotation on its saucer. He opened the pact book to the binding ledger, ran one finger down the column of names, and found what he already knew.
 
@@ -206,9 +206,9 @@ A boy at a table just beside Hindemith's, maybe six years old, was stirring his 
 
 The original target - the demon whose death Sixpounder had been pact-bound to collect - had died forty-three years ago. It was in the book. Hindemith had never thought about what a grievance does when the target dies before collection.
 
-Eleven guests had drawn that vacant stare. And those were only the ones at breakfast.
+Twelve guests had drawn that vacant stare. And those were only the ones at breakfast.
 
-"Forty-three years," he said to the pact book, his voice still rolling in that usual temperature, black and measured, like oil mixed with little stars of sand. "A pact unfulfilled. What happens to such a pact as this? It seedds, flowers, fruits through a bloodline like mildew through wet carpet. One target perishes, but the debt does not perish with him. It scatters into sons, daughters, grandchildren who have never heard the dead man's name. Every descendant is an heir to the vengeful killing."
+"Forty-three years," he said to the pact book, his voice still rolling in that usual temperature, black and measured, like oil mixed with little stars of sand. "A pact unfulfilled. What happens to such a pact as this? It seeds, flowers, fruits through a bloodline like mildew through wet carpet. One target perishes, but the debt does not perish with him. It scatters into sons, daughters, grandchildren who have never heard the dead man's name. Every descendant is an heir to the vengeful killing."
 
 Through the wall behind him, the hold music from Conference Room 6B whined on, thin and persistent. Sixpounder's three remaining fingers twitched against the cutlery handles fitted into the iron brace of his sword-hand, producing a faint metallic ticking.
 
@@ -230,7 +230,7 @@ A room-service cart lay on its side near 30,709. One wheel still turned. The car
 
 Sixpounder had left three in his wake. Two of them Mr. Hindemith was able to identify by their room slippers - a married couple from 30,711, legal demons from Steelwright Dynasts Holding Company. The third had been wearing a conference badge, but whatever name had been printed on it was no longer legible. A letter opener with a worn leather handle lay near the third one's hand, undrawn from its felt sheath. Never even had the chance. Parallel lines scored one wall of the corridor at shoulder height - three lines of different weights, evenly spaced, the signature of cutlery-fingers dragged along drywall.
 
-Hindemith stood stock still, like some well used children's plastic figurine of a hotel caretaker, listening, the only sound the gurgle and clack of the ice machine. An elevator chimed two floors down. Gradually he reached into his jacket for the pact book. His other hand toyed with the extensible, thick iron pocket pointer he kept in a long pocket of his trousers - though Hindemith personally preferred violence of the indirect kind.
+Hindemith stood stock still, like some well-used children's plastic figurine of a hotel caretaker, listening, the only sound the gurgle and clack of the ice machine. An elevator chimed two floors down. Gradually he reached into his jacket for the pact book. His other hand toyed with the extensible, thick iron pocket pointer he kept in a long pocket of his trousers - though Hindemith personally preferred violence of the indirect kind.
 
 Something had bled through the binding of his pact, and the leather was tacky along the spine where the Sixpounder entry would be, where Hindemith's thumb fell by decades of muscle memory. He peeled it open. The contract text was undamaged. The terms were clear, had always been clear: one target, named and specified, deceased forty-three years. The grievance had found new vessels. The contract had not authorized this.
 
@@ -250,7 +250,7 @@ A Lora. Hindemith's hand moved from the pocket pointer to the pact book. He did 
 
 She produced a slip of paper from somewhere in her fold of silky black dress. It was filled out in handwriting that changed style three times across two lines. Under "Nature of Complaint," it read: *Structural noises consistent with activity of guests dearly departed.*
 
-"The revenant remains here by covenant," Hindemith said. "*his* agreement was inscribed, witnessed, and sealed before the carpet in this hallway was laid. Every step it takes follows a route sanctioned by the Conciergerie. What you see in this corridor is not disorder. It is an arrangement fulfilling itself - clumsily, I grant, but fulfilling nonetheless."
+"The revenant remains here by covenant," Hindemith said. "*His* agreement was inscribed, witnessed, and sealed before the carpet in this hallway was laid. Every step he takes follows a route sanctioned by the Conciergerie. What you see in this corridor is not disorder. It is an arrangement fulfilling itself - clumsily, I grant, but fulfilling nonetheless."
 
 "Three dead suggests otherwise." She picked up the whittling knife and turned it slowly, examining its edge. The nails on her turning hand were the color of old pennies and curved past the fingertips. "Do you see this? My last familiar - a lovely creature who was the shape of a small blue crocodile - he bought this fine, fine knife for me with his existence."
 
@@ -278,7 +278,7 @@ Hindemith's eyelid tremor fired twice. He said, "You claim to know the vessel th
 
 Hindemith opened the book.
 
-The negotiation took eleven minutes. Hindemith wrote the terms in the margin of the Sixpounder entry - the only space left, the books pages having filled over forty years of bond amendments, bond addenda, and increasingly desperate notes in increasingly small handwriting. The Lora spoke her half aloud, which Hindemith also transcribed.
+The negotiation took eleven minutes. Hindemith wrote the terms in the margin of the Sixpounder entry - the only space left, the book's pages having filled over forty years of bond amendments, bond addenda, and increasingly desperate notes in increasingly small handwriting. The Lora spoke her half aloud, which Hindemith also transcribed.
 
 Once the ink had set but before it finished drying, the Lora told Hindemith what she knew. The Anchor was a she-demon on the ninth floor. Not a conference guest. Not an insurance demon. A commuter, passing through, who had checked in for two nights and used the complimentary toiletries without reading the labels. The bottles had not been complimentary. They had been arranged - shampoo, conditioner, body lotion - in a pattern that mirrored the architecture of the Eastmark Stairwells, and the woman had used them in sequence, and in doing so had evoked a scented patrol-route-effigy over her pores.
 
@@ -288,7 +288,7 @@ The Lora's smile lent no crease to the gleaming corners of her mouth and eyes. "
 
 Hindemith closed the book. The ichor of the massacre had seeped into the thin Textile of the hallway carpet during their conversation. Hindemith stared across at the stain for a moment, then looked back to the alcove. The Lora was already gone. The wingback chair still smelled of wet earth and burnt sugar, though the faint cigarette-ash odor was already diffusing like a cloud through the disturbed upholstery where she had been sitting.
 
-After a search of several hours, Hindemith found the commuter at 1:49 AM - t another branch of The Eastmark Stairwells.
+After a search of several hours, Hindemith found the commuter at 1:49 AM - at another branch of The Eastmark Stairwells.
 
 The Stairwells were never fully dark - the emergency lighting gave everything the color of weak tea. In that amber wash the woman moved with strange precision. Her eyes were open. Her face was slack. She turned at the landing exactly where Sixpounder always turned, paused at the same duration, and continued up the next flight with the precision of someone following marks on a stage floor.
 
@@ -308,7 +308,7 @@ He guided the commuter into the elevator, rode down to the lobby in silence, and
 
 A pause. Then the sound of a whetstone stopping. "Double-rate."
 
-"The Conciergerie honors its debts. Send the invoice to the front desk, seal it in blue wax with the day-stamp, and instruct my junior concierge inscribe this transaction in our ledger."
+"The Conciergerie honors its debts. Send the invoice to the front desk, seal it in blue wax with the day-stamp, and instruct my junior concierge to inscribe this transaction in our ledger."
 
 Maret hung up first.
 
@@ -338,7 +338,7 @@ The engineer - the demon of many a story told by gas firelight - came like a boo
 
 "I recognized a breaking point," said the storied engineer sharply, not looking at Hindemith. His deep orange eyes tracked Sixpounder. "I heard the sound, and saw the damage upon your walls. Now behold, the monster, with what appears to be a bread knife fused to its wrist."
 
-"Stand where you are, brother," called Hindemith, even as Sixpounder drew nearer the elevator crowd. "I am handling this arrangement. This is a concierge's affair."
+"Stand where you are, Brother," called Hindemith, even as Sixpounder drew nearer the elevator crowd. "I am handling this arrangement. This is a concierge's affair."
 
 Withaazz ignored him. The engineer's glyphboard materialized under his fingers, keys that existed only as light, floating at waist height, each one trailing blue-white afterimages when struck. He typed a three-key shortcut sequence to compile and execute the Words of Mighty Danger, "Per My Last Email." The air between him and the revenant compressed and produced a barrier that smelled of ozone.
 
@@ -346,23 +346,23 @@ The revenant made not so much as a stutter in its step. As it reached the sorcer
 
 Withaazz's fingers tapped faster. A longer sequence, both hands, the glyphboard expanding to a second deck of keys. The engineer's next spell struck Sixpounder's chestplate-ribs. The sound that came back was wrong. Not metal. Not bone. Fused armor and ribcage vibrating as a single structure, a frequency that resonated in Hindemith's teeth and caused the overhead fluorescents to dim from 3,000 lumens to six-hundred-and-sixty-six.
 
-Emergency lighting kicked in along the baseboards. Withaazz threw spell after spell, scorch marks spreading across the walls in lines that branched and forked, producing markings like syntax errors burnt into drywall. Sixpounder absorbed some of the spells, reflected some, ignored all. Hitch, drag. The same pattern it had walked for forty years, now redoubled to murder-clip. The grimy sword caught Withaazz's century-old coat as the revenant reached the engineer, lopping off several of the cloth tails. The fabric smoldered where it was cut. Withaazz wrenched the bicycle handlebar from his belt and drove it at the revenant's shoulder joint. The point skidded off fused plate and gouged a line of sparks across the chestplate. Sixpounder did not notice.
+Emergency lighting kicked in along the baseboards. Withaazz threw spell after spell, scorch marks spreading across the walls in lines that branched and forked, producing markings like syntax errors burnt into drywall. Sixpounder absorbed some of the spells, reflected some, ignored all. Hitch, drag. The same pattern he had walked for forty years, now redoubled to murder-clip. The grimy sword caught Withaazz's century-old coat as the revenant reached the engineer, lopping off several of the cloth tails. The fabric smoldered where it was cut. Withaazz wrenched the bicycle handlebar from his belt and drove it at the revenant's shoulder joint. The point skidded off fused plate and gouged a line of sparks across the chestplate. Sixpounder did not notice.
 
-"Enough." Hindemith stepped between them, one hand open, the other resting on the pact book at his hip. Ask yourself what your spellwork has accomplished. "Ask yourself what it will accomplish next. The answer to both is the same."
+"Enough." Hindemith stepped between them, one hand open, the other resting on the pact book at his hip. "Ask yourself what your spellwork has accomplished. Ask yourself what it will accomplish next. The answer to both is the same."
 
 The revenant did not stop. His sword flashed out again toward Withaazz, and came within a foot of Hindemith's shoulder as the latter swayed and crouched.
 
 "Mr. Sixpounder." Hindemith used a tone he had never used for towel delivery. Lower. More familiar. The revenant paused. "You were given a route. Stairwell to stairwell, landing to landing, forty years of faithful passage through the marrow of this building. That is your covenant. Whatever blood calls to you now, it is not written in your contract. Return to the stairwells - to your patrol - old sentinel."
 
-The revenant maintained its stillness. Not the bell's blank-page pause. Something older. The sword-hand wavered.
+The revenant maintained his stillness. Not the bell's blank-page pause. Something older. The sword-hand wavered.
 
 Then a stairwell door opened twenty feet behind Hindemith, and he turned.
 
-Framed in the doorway stood the she-demon Commuter. The sleepwalker, though now she was awake. Now as well was she armed, the branded mug of her chosen podcast in a white-knuckle grip, 'Daily Red', with a logo featuring two lines of electrical tape the color lipstick plastered over the mouth of a pale-faced demon. She stood in the doorway, particularly still.
+Framed in the doorway stood the she-demon Commuter. The sleepwalker, though now she was awake. Now as well was she armed, the branded mug of her chosen podcast in a white-knuckle grip, 'Daily Red', with a logo featuring two lines of electrical tape the color of lipstick plastered over the mouth of a pale-faced demon. She stood in the doorway, particularly still.
 
 The revenant's head snapped toward her. Whatever bloodline it had been tracking all morning, it had found the source.
 
-Withaazz hit the revenant with a long phrasing of the Words of Mighty Danger; something structural. The corridor wall cracked along its length, plaster splitting in a line that followed no natural fracture, and Sixpounder was slammed sideways into the drywall, hard enough to make the surface buckle. The revenant peeled itself from the wall, plaster dust coating the fused chestplate, and lurched toward the commuter.
+Withaazz hit the revenant with a long phrasing of the Words of Mighty Danger; something structural. The corridor wall cracked along its length, plaster splitting in a line that followed no natural fracture, and Sixpounder was slammed sideways into the drywall, hard enough to make the surface buckle. The revenant peeled himself from the wall, plaster dust coating the fused chestplate, and lurched toward the commuter.
 
 The she-demon stepped back into the stairwell doorframe and planted her feet. Hindemith called for her to leave the corridor. The crowd by the elevator watched the scene with expressions anxious and dumbfounded. The commuter did not move. She tightened her grip on the mug, and her eyes went glassy.
 
@@ -388,13 +388,13 @@ He now positioned himself behind the continental breakfast station at 6:40 AM, t
 
 The guests filtered in. The line formed on its own.
 
-The waffle-maker was the center of the theory, and that theory was blood-sympathy. Layer enough descendants onto the same cooking surface - skin oils, breath moisture, the ambient shed of whatever made a bloodline legible to something like Sixpounder - and you'd get a compote signal. A bloodline so thick it became noise.
+The waffle-maker was the center of the theory, and that theory was blood-sympathy. Layer enough descendants onto the same cooking surface - skin oils, breath moisture, the ambient shed of whatever made a bloodline legible to something like Sixpounder - and you'd get a composite signal. A bloodline so thick it became noise.
 
 They came in ones and twos. The insurance adjusters from Galvanic Cabal, their tie clasps shifting from helvetica-graveyard to new-times-new-roman. There was also a family of four whose youngest had the same jawline as the portrait in the Sesame Corridors, that long haunted gallery on the thirty-seventh floor. There was a she-demon traveling alone, who kept touching her collarbone the way the revenant touched its chestplate. Hindemith counted eleven descendants through the waffle line by 7:15. The iron hissed. Batter spread into the grid and cooked.
 
 After every guest had passed through the lines, Hindemith stepped up, and pressed the last waffle. He set it on a clean white plate, placed this on a room service cart, and set a silver cloche over all.
 
-Hindemith brought the waffle to Room 30,713 a fresh towel folded neatly and tucked under his arm. He knocked twice. He waited.
+Hindemith brought the waffle to Room 30,713, a fresh towel folded neatly and tucked under his arm. He knocked twice. He waited.
 
 Sixpounder answered the door. Without greeting, he ate the waffle the way Sixpounder ate everything - mechanically, without chewing, the jaw working in a lateral motion that suggested the original hinges had been replaced with something fabricated. Crumbs fell down the fused chestplate and ribcage. Hindemith watched the revenant's head for the telltale swivel, the targeting rotation that meant recognition had locked.
 
@@ -402,7 +402,7 @@ Nothing happened.
 
 Sixpounder's head turned. Not toward Hindemith, not toward the waffle cart - toward the floor. Toward the breakfast-lounge thirty stories down, where eleven descendants were still eating under lights that buzzed at a frequency Hindemith could hear from here. The revenant stood. The left knee, the one that no longer bent, bore weight it shouldn't have been able to bear. The right knee bent twice. And then Sixpounder was moving.
 
-"No," Hindemith said, because the revenant was already past him and the room service cart was spinning slowly on one wheel where Sixpounder had shouldered it aside. "No - this was not the covenant. The waffle iron - eleven bloodlines touching into the same grid, eleven atomic follicles of dry skin trapped in the same grease... You were meant to lose the scent, brother."
+"No," Hindemith said, because the revenant was already past him and the room service cart was spinning slowly on one wheel where Sixpounder had shouldered it aside. "No - this was not the covenant. The waffle iron - eleven bloodlines touching into the same grid, eleven atomic follicles of dry skin trapped in the same grease... You were meant to lose the scent, Brother."
 
 Sixpounder pressed on toward the nearest stair as though he had not heard. Hindemith followed, but his own knee began to throb. As the revenant reached the top step and the distance between them widened, Hindemith veered toward the nearest elevator.
 
@@ -436,7 +436,7 @@ The last page was blank. He'd torn past the entries into the endpaper.
 
 Hindemith stood at the edge of Bloodsea holding the empty spine of the Contact Book.
 
-Sixpounder stood in the shallow end. The water was up to the fused line where chestplate met ribcage. Three descendants huddled behind an overturned lounge chair near the diving board. The revenant's head swiveled between them.
+Sixpounder stood in the shallow end. The water was up to the fused line where chestplate met ribcage. Three descendants huddled behind an overturned lounge chair near the diving board. The revenant's head swiveled among them.
 
 Hindemith stepped into the pool's shallow shore. The water was warm and wrong. It soaked through his trousers, his shoes, the hem of the charcoal jacket that was already coming apart at one shoulder. He walked toward Sixpounder the way he'd walked toward Room 30,713 ten thousand times: upright, measured, carrying nothing.
 
@@ -446,7 +446,7 @@ His bad knee gave on the third step. He went down to one knee in the shallow end
 
 Sixpounder's head stopped mid-swivel.
 
-"Consider what remains, brother. You have pursued a scent through eleven bodies and found nothing, because there is nothing left to find. The bloodline has run thin. It carries the face but not the sin, the jawline but not the name. These three behind the chair - do you know what they are? They are echoes, brother. Sediment. The last residue of a debt already paid in full." He gestured, one slow motion, toward the descendants still pressed behind the lounge chair, still breathing. "There is no contract here to fulfill. Whomever lit this hunger in you perished in an hour you can never return to, for no demon escapes the stream of time. Go now. Return, brother. Your route is waiting. The thirty-thousandth block. The Eastmark Stairwell. That was the long walk given to you. Return to it."
+"Consider what remains, Brother. You have pursued a scent through eleven bodies and found nothing, because there is nothing left to find. The bloodline has run thin. It carries the face but not the sin, the jawline but not the name. These three behind the chair - do you know what they are? They are echoes, Brother. Sediment. The last residue of a debt already paid in full." He gestured, one slow motion, toward the descendants still pressed behind the lounge chair, still breathing. "There is no contract here to fulfill. Whoever lit this hunger in you perished in an hour you can never return to, for no demon escapes the stream of time. Go now. Return, Brother. Your route is waiting. The thirty-thousandth block. The Eastmark Stairwell. That was the long walk given to you. Return to it."
 
 Sixpounder stood in the water for a long time. The cutlery-fingers unclenched. The head completed its swivel - past the descendants, past Hindemith, past the carnage - and found the direction of the Eastmark Stairwells.
 

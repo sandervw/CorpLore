@@ -46,6 +46,7 @@ One story based on best Morrowind ancestral tomb delving
     - A rolled up motivation poster, tucked inside a messenger bag; unrolled it reads, "*INTEGRITY*. Below, in smaller type: *Doing the right thing when no one is watching.*" (unknown to Rafe - this is a stolen word of the DSVPI)
 
 **Personality:**
+- Works (*is enslaved by*) the company CARCANA
 - A self-styled 'job man' - can perform any job required of him; really a less-than-competent sociopath and schemer
 - Remains fundamentally unchanged throughout the story
 - Values: wealth, status, beauty (women and art), leisure
