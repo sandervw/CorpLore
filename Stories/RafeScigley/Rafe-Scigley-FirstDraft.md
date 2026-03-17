@@ -189,34 +189,100 @@ The corridor beyond was long. When they had passed through the doors at its far 
 
 His bonsai root hook was gone. He registered its absence before anything else. One lapel of his sport coat was torn. His ear rang.
 
-The three supplicants filed through behind him, herded by a creature Rafe had not yet seen: a gaunt, towering figure in a threadbare custodial robe that brushed the floor. It left a faint track in the carpet's industrial pile. The figure's face was a ledger of deep creases and hollows, eyes set far back in the skull. Ancient. It carried a ring of iron keys and a clipboard of black leather, and it moved with digestive torpor.
+The three supplicants filed through behind him, herded by a creature Rafe had not yet seen: a gaunt, towering figure in a threadbare custodial robe that brushed the floor. The figure was vaguely masculine, and left a faint track in the carpet's industrial pile. His face was a ledger of deep creases and hollows, eyes set far back in the skull. Ancient. He carried a ring of iron keys and a clipboard of black leather, and moved with digestive torpor.
 
-"I am the Facilities Coordinator," it said. Its voice was dry and precise, like paper being folded along a rule. "You will follow me. There are three chambers, three rites, and each must be entered, and each must be executed."
+"I am the Facilities Coordinator," He said. His voice was dry and precise. "You will follow me. There are three chambers, three rites, and each must be entered, and each must be executed."
 
 ## Scene 5 - Exposition: The Onboarding Annex
 
-The corridor narrowed by degrees. Scuffed linoleum gave way to older stone, and the fluorescent tubes overhead, some dead, some flickering at mismatched intervals, cast a stuttering light across walls that predated the department by centuries. Rafe had heard of places like this. Every corporate office of sufficient age developed them: trap-vaults sunk into the lower levels, designed in an earlier epoch to process the unauthorized. Demons who wandered in from adjacent buildings, vagrants, trespassers, the merely lost, were drawn inward by promise and tested by ordeal. Those who failed were terminated. Those who endured were broken into compliance, their wills dissolved, entered into permanent employment. A corporate immune system. It required no executive oversight, no annual review, no budget allocation. Only a caretaker.
+As the facilities coordinator led the group on, the narrow corridor of cuffed linoleum gave way to older stone, and the fluorescent tubes overhead, some dead, some flickering at mismatched intervals, cast a stuttering light across walls that predated the department by centuries. Rafe had heard of places like this. Every corporate office of sufficient age developed them: trap-vaults sunk into the lower levels, designed in an earlier epoch to process alien demons. Demons who wandered in from adjacent offices, daily commute vagrants, the random trespassers and the merely lost, were drawn by some promise, and tested. Those who failed were terminated. Those who endured were made compliant, entered into permanent employment. This was a corporate immune system. It required no executive oversight, no annual review, no budget allocation. Only a caretaker.
 
-The Coordinator walked ahead, iron keys tolling at his hip. He had not looked back once. Rafe's ribs ached where the hiring demons had struck him, and the absence of his bonsai root hook, confiscated, belted now on some lesser functionary's lanyard, left a conspicuous lightness at his side. *They had taken his instrument. His instrument. The one tool in his possession calibrated to pry open sealed filing cabinets and sealed minds alike, and they had clipped it to some middling clerk's belt like a souvenir.* Ahead of him, the she-demon's visitor badge caught the stuttering light: crisp, level, already clipped to her lapel. She had been ready before she arrived. Rafe pressed two fingers to his inside pocket and felt the hard edge of the stolen employee badge against his ribs. *Still there. They had not thought to search him properly. Their mistake, and one he intended to collect on.*
+The Coordinator walked ahead, iron keys tolling at his hip. He had not looked back once. Rafe's ribs ached where the hiring demons had struck him, and the absence of his root hook, belted now on some lesser functionary's lanyard, felt like a heavy nakedness of his person. Ahead of him, the she-demon with the crisp visitor-badge dogged the coordinator heel. She had been eager from the beginning, and Rafe suspected she lacked a full appreciation for the realities of corporate welcoming rites.
 
-The group emerged into a wider space, a junction, or what had once been one. Three heavy doors stood along the far wall, each fitted with a brass numeral plate: I, II, III. The metal had gone green with age. Dust lay undisturbed on decommissioned card readers bolted beside sealed secondary exits. Faded evacuation maps, their routes leading to rooms that no longer existed, hung crooked in their frames. The air smelled of old toner and damp carpet.
+The group emerged into a wider space, a junction, or what had once been one. Three heavy doors stood along the far wall, each fitted with a brass numeral plate: I, II, III. The metal had gone green with age. Dust lay undisturbed on two decommissioned card readers bolted beside sealed secondary exits. A faded evacuation map, with routes leading to rooms that no longer existed, hung crooked in its frame.
 
-Mounted above the junction's entrance, angled slightly downward, was the Performance Panel of Ringing Sunrise.
+Mounted above the junction's three numbered door, angled slightly downward, was the Performance Panel of Ringing Sunrise.
 
-Rafe stopped. The Panel was cracked and yellowed, its motivational surface long since faded past legibility, but it still hummed, a low, warm, promising vibration that bypassed the ears and settled directly in the teeth. A comprehensive benefits package. Competitive compensation. Room to grow. The three applicants had followed that hum here. *Of course they had. He had nearly followed one himself, years ago, before a more immediate swindle had pulled him sideways. The Panel did not distinguish between the desperate and the cunning. It simply called, and the called came walking.*
+Rafe studied the panel. It was cracked and parchment-colored, its backing LEDs burned and blurred beyond legibility, but it still hummed, a low, warm, promising vibration that bypassed the ears and settled directly in the teeth. A comprehensive benefits package. Competitive compensation. Room to grow. The other three applicants had, doubtless, followed that hum here.
 
-The Coordinator stopped before the first door and consulted his clipboard, black leather, the pages stiff with age, the ink faded to the color of old rust. He ran one finger down a column of entries, paused, and tapped twice. "Three chambers," he announced, still reading. "Conversion. Avarice. Anathema." He turned the page. "Each offers two outcomes." A pause. "Onboarding, or termination."
+The Coordinator stopped before the first door and consulted his black leather clipboard, the pages stiff with age, the ink faded to the color of old rust. He ran one finger down a column of entries, paused, and tapped twice. "Three chambers," he announced, still reading, as if he were somehow unfamiliar with the rites. "Each offers two outcomes: integration or termination."
 
-The small demon looked up from his crumpled resume. "Termination," he repeated. "Termination of... employment?"
+The small demon looked up from his crumpled resume. "Termination?" he asked in a voice that cracked.
 
 The Coordinator did not clarify. He produced an iron key from the ring at his belt and crossed to the first door.
 
-The enormous demon rose from his place along the wall and unfolded to his full height. "Sporting," he said. He cracked one knuckle against the opposite palm, slow and deliberate, and settled his weight back.
+The corpulent demon rose from his place along the wall and unfolded to his full height. "Sporting," he said. "Hahaha. Let's crack our knuckles then my small fellow. Come now, one must show a little more enthusiasm on one's first day. Hahaha."
 
-The she-demon shifted her leather portfolio from one hand to the other and stepped forward, placing herself between Rafe and the door. Her eyes tracked from the Coordinator's clipboard to the brass numeral on the wall. She did not yield the position.
+The first door swung inward. From somewhere deeper in the annex, past corridors Rafe could not yet see, a faint jingle echoed back: tinny, distorted. The Coordinator stepped aside and gestured with his clipboard. "First the chamber of Identity," he said.
 
-The first door swung inward. From somewhere deeper in the annex, past corridors Rafe could not yet see, a faint jingle echoed back: tinny, distorted, a benefits enrollment reminder playing on a loop for an audience long since processed. The Coordinator stepped aside and gestured with his clipboard. "Conversion first," he said.
+ Rafe, recognizing well the futility of resistance, and the potential advantage of initiative, went through first.
 
-*Rafe Scigley, naturalist, artisan, gentleman of portable means, had walked willingly into processing vaults before. Not often. Not happily. But a demon of his particular talents did not confuse danger with disadvantage.*
+## Scene 6 - The Chamber of Identity
 
-...He adjusted the strap of his messenger bag, and walked through.
+The chamber beyond was smaller than Rafe expected. Filing cabinets lined the walls in decommissioned rows, their drawers half-open, stuffed with yellowed forms from other processing rites, other ages.
+
+At the center of the room stood a printer.
+
+The machine was institutional in every dimension, tall as a lectern, radiating heat. Beside it, a terminal shone with amber text on a black screen. The cursor blinked.
+
+**NEW HIRE ID <> RETURNING EMPLOYEE ID**
+
+"I hold in this skinny hand the Body Justification," said the Coordinator. He detached and help up a yellowed paper from his clipboard. "'Tis signed. One body is then justified, and must scan at the terminal. That machine will commence your integration rites upon receipt of valid identification.  Those who do not scan will be alternatively integrated."
+
+The fat demon filled the doorway for a long moment before easing himself through. He surveyed the printer, then the terminal, then the Coordinator's key ring, cataloguing the room's geometry with small, patient eyes. The smaller nervous candidate slipped in behind him, folding and refolding his crumpled resume with fingers that had not been still since the waiting chamber. Last came the she-demon, sliding the door softly shut behind her. She positioned herself in the far corner, and said nothing. Her eyes had moved to the Coordinator's key ring before the door had fully closed.
+
+Rafe felt the weight of the stolen badge in his coat pocket. The laminated edge pressed against his thigh through the lining, warm from proximity to his body. He had not planned for this particular rite, but the badge had been riding with him since the cubicle garden. Rafe Scigley did not plan for every contingency; he simply arrived at each one already equipped.
+
+He approached the terminal. The amber screen pulsed. Two options. He drew the stolen badge from his pocket, angled the photo away from the Coordinator, and pressed the magnetic strip to the scanner.
+
+"Returning Employee," he said aloud, for the benefit of the room.
+
+The terminal chimed. The screen refreshed: **IDENTITY CONFIRMED -- GENERATING INTEGRATION RITES.** The printer surged. Its rhythm quickened to a mechanical grinding, and the warm stink of ozone and hot toner filled the chamber. Pages began to emerge: badges, org charts, benefits enrollment forms, each bearing the name and employee number of the demon whose badge Rafe had stolen.
+
+The Coordinator's pen scratched across his clipboard. He noted the scan without expression.
+
+"An expedient choice," the Greenstreet candidate observed from behind Rafe, his voice a low rumble. He had moved closer while Rafe scanned. "Though I wonder, sir, if the position is now settled."
+
+"The printer determines the position," the Coordinator said, without looking up. "The printer has not finished."
+
+Paper cascaded from the output tray. The pile grew. The printer did not stop.
+
+A signature was worth more than a badge in a room like this. Rafe had always understood that. Badges could be revoked; signatures bound.
+
+He lifted a W-4 from the pile. The form was warm, its small print dense, the signature line at the bottom a black rule underscored by the word **EMPLOYEE**.
+
+"I believe," Rafe said, turning to the Greenstreet candidate, "that this requires co-authorization. Standard processing rite protocol. Two signatures, one from the primary hire, one from a witness. Purely procedural."
+
+The Greenstreet candidate considered this. His small eyes moved from Rafe's face to the form and back again. A signet ring caught the fluorescent light as he shifted his massive hand.
+
+"I have witnessed a great many procedures," the Greenstreet candidate said. "Though I confess this is the first time a returning employee has asked me to verify his own paperwork." He did not reach for the pen. Instead, he turned the form over, read the back, and turned it face-up again.
+
+"The chamber demands it," Rafe said. "I do not make the architecture."
+
+From the far side of the room, a sound: the Lorre candidate had backed himself against a filing cabinet and was whispering something rapid and formless, his resume crushed into a damp wad in both hands. His eyes were fixed on the printer.
+
+The Coordinator turned his head. He rotated toward the Lorre candidate, pen pausing over his clipboard. The whispering was growing louder.
+
+Rafe did not waste distractions. He never had.
+
+"Sign here," he said quietly to the Greenstreet candidate, offering the form and producing a pen from his sport coat's interior pocket. "Before the auditor notices we are behind schedule."
+
+The Greenstreet candidate reached for the pen, then paused. His hand hovered. He glanced at the Coordinator's turned back, at the Lorre candidate's mounting distress, at Rafe's face. Then he took the pen and signed.
+
+The Coordinator's head snapped back. He crossed the room in three strides, lifted the W-4 from the Greenstreet candidate's fingers, and examined it. The Quarterly Headcount Justification, still printing, had produced a fresh roster page: a column of names in serif font, and at the bottom, the blank row now filled. The Coordinator reached into his custodial robe, produced a stamp the color of dried blood, and brought it down on the document with a single, percussive crack.
+
+**PROCESSED.**
+
+The Greenstreet candidate looked at the stamp. He looked at Rafe. The signet ring glinted as his hand closed slowly into a fist.
+
+"You are a demon of uncommon initiative," he said.
+
+The printer ground onward, pages spilling without pause. The Coordinator was already turning from the Lorre candidate, clipboard raised, eyes moving toward the terminal where the badge scan record waited. Rafe had thirty seconds, if that, before cross-referencing began. He had a roll of institutional toilet paper in his sport coat's deepest pocket.
+
+He fed the roll into the printer's intake. The rollers caught the paper. A whine rose from somewhere deep in the machine, climbing in pitch, and then the printer seized with a shuddering cough and went still.
+
+The Coordinator's iron keys jangled as he pivoted. The silence was enormous. He stared at the machine, then at Rafe, then at the machine again. His pen hovered over the clipboard, motionless, recording nothing.
+
+"Paper jam," Rafe said.
+
+The Coordinator said nothing. Then he produced a key, unlocked the far door, and herded them through. The Greenstreet candidate did not follow. He remained in the chamber, PROCESSED, his signet ring glinting under the dead fluorescents as the door closed between them.
