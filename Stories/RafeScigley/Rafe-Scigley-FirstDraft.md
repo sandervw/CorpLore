@@ -1,6 +1,6 @@
 # Rafe Scigley
 
-## Scene 1 - "The Cubicle Garden"
+## Scene 1 - The Cubicle Garden
 
  CARCANA's Department of Gender-Appropriate Commination occupied a full half-floor of the eastern wing, the department's territory marked by a hand-lettered placard reading TEAMS 7.A THROUGH 8.G and by the particular quality of its air: recycled beyond all memory of freshness, carrying notes of stale toner and carpet adhesive and, from the floor vents, something faintly sulfurous. The carpet underfoot had been worn to a greasy sheen along the traffic paths between cubicle rows. Decades of trudging feet had ground its original pattern into indeterminacy.
  
@@ -55,7 +55,7 @@ Rafe read it twice. A considering expression settled over his angular features.
 
 Rafe turned from the terminal and found, beside the glyphboard, a laminated ID card on a coffee-stained lanyard, still warm from its owner's neck. The photograph had faded to a pinkish blur. The name read GORBEN FELCH, COMMINATION ASSOCIATE, TEAM 7.D. Rafe took it.
 
-## Scene 2 - "The Word Misapplied"
+## Scene 2 - The Word Misapplied
 
 So quickly did Rafe discover the nearest stairwell access from the cubicle garden that Gorben Felch's badge still pressed warmth into his thigh. This heat, the result of a badge's separation from it's employee, would fade gradually before the next sunrise.
 
@@ -75,7 +75,7 @@ Rafe paused at a directory placard mounted at shoulder height. Below the enormou
 
 It was five-o-clock everywhere now. Rafe, rubbing his eyes again, sought a place to rest.
 
-## Scene 3 — "The Supply-Forest"
+## Scene 3 - The Supply-Forest
 
 The corridor eventually widened one more, and the ceiling rose and higher, and Rafe beheld against every wall a redundancy of shelves.
 
@@ -136,3 +136,87 @@ Rafe found himself standing at the edge of things.
 A set of double doors waited at the aisle's terminus. Their frosted-glass transoms were half-obscured by stacked boxes, but he could make out lettering etched into the glass: **ONBOARDING -- ORIENTATION HALL C**. A low sound reached him. Not the HVAC. Not the building's respiration. A hum. Steady and warm. It seemed to emanate from behind the doors, or from the walls themselves.
 
 *Right on schedule.*
+
+---
+
+## Scene 4 - The Interview
+
+When the doors of tall double bronze behind the ebony receiving counter opened - opened of their own accord, no muscle having applied to it any force - the creature that entered entered through it did not step with any brisk secretarial gait - did not walk at all in fact, but rather, hovered above the polished tile.
+
+The aychar was a swollen mass of bureaucratic flesh suspended at desk-height, bulging lips perpetually parted, a distended throat that rippled when it spoke. Its eyes were two filled-in checkboxes, perfect black squares pressed into the doughy expanse of its face.
+
+"Mr. Scigley," it said. The voice was warm and procedural. "You are late."
+
+Rafe had not given his name. He applied his most affable smile, and placed his palms on the ebony counter, leaning forward in a manner of familiarity.
+
+"A minor navigational discrepancy," he said. "I trust the interview can still proceed on schedule."
+
+"Interview," it repeated. The word came out taxonomic.
+
+Behind Rafe, three other applicants waited in the hiring antechamber. The first was a small demon folding and refolding a crumpled attestation with hands that never stopped moving. Across from the fidgeter sprawled an enormous demon, corpulent with hideous quantities of flesh, filling his waiting-room chair completely. From his mouth came an unaccountable, short chuckling laugh - some kind of tic, for no one had spoken in the silence following the Aychar's last word. The third  applicant was a she-demon of composed beauty.
+
+"There is no interview, Mr. Scigley." Said the Aychar after a moment. It drifted sideways along the desk, consulting a form that had materialized in the bloated fingers of one of its several mismatched limbs. "Your interview was conducted and passed on the fourteenth. You were expected on the fifteenth for your Rites of Integration. It is now... the fifteenth."
+
+"I see," said Rafe. Behind his affable mask, rapid calculations. He had applied only yesterday, which had surely been the thirteenth, hours before he found the supply-forest, via a terminal accessed through fraud in a cubicle garden two floors above. The fourteenth had not yet occurred when he submitted the application. The fifteenth, by any reasonable lunar reckoning, was tomorrow. Unless his calendrical orientation were skewed? But even then, he had surely never passed any interview; he hadn't sat through an interview in year.
+
+Rafe decided not to raise the point. Temporal disputes with processing departments were, in his considerable experience, unwinnable.
+
+"A clerical misunderstanding," he offered. "I shall plan a fresh appointment for some near futurue date. If you could direct me to the nearest..."
+
+"You are already on the correct date, Mr. Scigley." The Aychar drifted two inches closer, so that rafe could smell the adhesive breath misting from its shining lips. "Your onboarding cohort has been waiting."
+
+Rafe could feel the three applicants at his back, watching. He said, "I am afraid there has been an error. I applied for the position with no fixed intention of filling it. My references are in-part, more optimistic than strictly factual. Candidly, my candidacy is a sustained act of..."
+
+"Yes," said the Aychar. "Fabricated qualifications are not disqualifying. Fictional references are accepted in lieu of actual ones, provided they are fictitiously consistent. You have been hired, Mr. Scigley. You may proceed to the Onboarding Annex for your Rites of Integration."
+
+Behind the Aychar and the table, an org chart hung high upon the wall. So many revision stickers had been applied over so many fiscal quarters that the chart had become three-dimensional: a topographic map of departmental restructurings, whole divisions entombed beneath adhesive. Rafe stared at it. His name was already on that chart. Somewhere, under something.
+
+"No," said Rafe. He turned for the door through which he had entered. It was closed. Two demons stood in front of it: squat, grey-skinned creatures in ill-fitting blazers, heavy steel dining trays strapped to their forearms like bucklers. Their eyes were disinterested; their identity-badges, without names.
+
+"Orientation is mandatory," said the Aychar behind him.
+
+The chair-filler demon applicant rose from his chair. Not to help. He stood and stretched, rolling his enormous shoulders, and the motion placed him squarely between Rafe and the corridor to the left. He smiled at Rafe with genial indifference and belched another short, purposeless chuckle.
+
+Rafe hit the first hiring demon with a straight palm to the dining tray, driving the steel edge into its chin. The demon staggered. The second swung its tray in a lateral arc that caught Rafe across the ear. He stumbled, caught himself on the water cooler, and kicked the second demon in the knee. It kept its footing. With surprising speed it adjusted its twisted and swung, shield-bashing Rafe.
+
+Rafe grabbed and threw a waiting-room chair. Swiftly he produced his bonsai root hook and slashed a line across one demon's blazer, exposing grey flesh beneath.
+
+The small supplicant had retreated to the far corner. The she-demon had not moved. She had produced a visitor badge from her portfolio and was clipping it to her lapel.
+
+The melee lasted perhaps ninety seconds. relative size and a one-sided numeric superiority made the outcome inevitable. The hiring demons worked with clerical efficiency: one pinned Rafe's arms, the other stamped a form, and together they bore him, struggling, past the Aychar's desk and through the far door.
+
+The corridor beyond was long. When they had passed through the doors at its far end, the hiring demons deposited Rafe on his feet and stepped back.
+
+His bonsai root hook was gone. He registered its absence before anything else. One lapel of his sport coat was torn. His ear rang.
+
+The three supplicants filed through behind him, herded by a creature Rafe had not yet seen: a gaunt, towering figure in a threadbare custodial robe that brushed the floor. It left a faint track in the carpet's industrial pile. The figure's face was a ledger of deep creases and hollows, eyes set far back in the skull. Ancient. It carried a ring of iron keys and a clipboard of black leather, and it moved with digestive torpor.
+
+"I am the Facilities Coordinator," it said. Its voice was dry and precise, like paper being folded along a rule. "You will follow me. There are three chambers, three rites, and each must be entered, and each must be executed."
+
+## Scene 5 - Exposition: The Onboarding Annex
+
+The corridor narrowed by degrees. Scuffed linoleum gave way to older stone, and the fluorescent tubes overhead, some dead, some flickering at mismatched intervals, cast a stuttering light across walls that predated the department by centuries. Rafe had heard of places like this. Every corporate office of sufficient age developed them: trap-vaults sunk into the lower levels, designed in an earlier epoch to process the unauthorized. Demons who wandered in from adjacent buildings, vagrants, trespassers, the merely lost, were drawn inward by promise and tested by ordeal. Those who failed were terminated. Those who endured were broken into compliance, their wills dissolved, entered into permanent employment. A corporate immune system. It required no executive oversight, no annual review, no budget allocation. Only a caretaker.
+
+The Coordinator walked ahead, iron keys tolling at his hip. He had not looked back once. Rafe's ribs ached where the hiring demons had struck him, and the absence of his bonsai root hook, confiscated, belted now on some lesser functionary's lanyard, left a conspicuous lightness at his side. *They had taken his instrument. His instrument. The one tool in his possession calibrated to pry open sealed filing cabinets and sealed minds alike, and they had clipped it to some middling clerk's belt like a souvenir.* Ahead of him, the she-demon's visitor badge caught the stuttering light: crisp, level, already clipped to her lapel. She had been ready before she arrived. Rafe pressed two fingers to his inside pocket and felt the hard edge of the stolen employee badge against his ribs. *Still there. They had not thought to search him properly. Their mistake, and one he intended to collect on.*
+
+The group emerged into a wider space, a junction, or what had once been one. Three heavy doors stood along the far wall, each fitted with a brass numeral plate: I, II, III. The metal had gone green with age. Dust lay undisturbed on decommissioned card readers bolted beside sealed secondary exits. Faded evacuation maps, their routes leading to rooms that no longer existed, hung crooked in their frames. The air smelled of old toner and damp carpet.
+
+Mounted above the junction's entrance, angled slightly downward, was the Performance Panel of Ringing Sunrise.
+
+Rafe stopped. The Panel was cracked and yellowed, its motivational surface long since faded past legibility, but it still hummed, a low, warm, promising vibration that bypassed the ears and settled directly in the teeth. A comprehensive benefits package. Competitive compensation. Room to grow. The three applicants had followed that hum here. *Of course they had. He had nearly followed one himself, years ago, before a more immediate swindle had pulled him sideways. The Panel did not distinguish between the desperate and the cunning. It simply called, and the called came walking.*
+
+The Coordinator stopped before the first door and consulted his clipboard, black leather, the pages stiff with age, the ink faded to the color of old rust. He ran one finger down a column of entries, paused, and tapped twice. "Three chambers," he announced, still reading. "Conversion. Avarice. Anathema." He turned the page. "Each offers two outcomes." A pause. "Onboarding, or termination."
+
+The small demon looked up from his crumpled resume. "Termination," he repeated. "Termination of... employment?"
+
+The Coordinator did not clarify. He produced an iron key from the ring at his belt and crossed to the first door.
+
+The enormous demon rose from his place along the wall and unfolded to his full height. "Sporting," he said. He cracked one knuckle against the opposite palm, slow and deliberate, and settled his weight back.
+
+The she-demon shifted her leather portfolio from one hand to the other and stepped forward, placing herself between Rafe and the door. Her eyes tracked from the Coordinator's clipboard to the brass numeral on the wall. She did not yield the position.
+
+The first door swung inward. From somewhere deeper in the annex, past corridors Rafe could not yet see, a faint jingle echoed back: tinny, distorted, a benefits enrollment reminder playing on a loop for an audience long since processed. The Coordinator stepped aside and gestured with his clipboard. "Conversion first," he said.
+
+*Rafe Scigley, naturalist, artisan, gentleman of portable means, had walked willingly into processing vaults before. Not often. Not happily. But a demon of his particular talents did not confuse danger with disadvantage.*
+
+...He adjusted the strap of his messenger bag, and walked through.
