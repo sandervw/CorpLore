@@ -133,7 +133,7 @@ It wound through the stacks in long, deliberate curves that avoided certain aisl
 
 Rafe found himself standing at the edge of things.
 
-A set of double doors waited at the aisle's terminus. Their frosted-glass transoms were half-obscured by stacked boxes, but he could make out lettering etched into the glass: **ONBOARDING -- ORIENTATION HALL C**. A low sound reached him. Not the HVAC. Not the building's respiration. A hum. Steady and warm. It seemed to emanate from behind the doors, or from the walls themselves.
+A set of double doors waited at the aisle's terminus. Their frosted-glass transoms were half-obscured by stacked boxes, but he could make out lettering etched into the glass: **ONBOARDING - ORIENTATION HALL C**. A low sound reached him. Not the HVAC. Not the building's respiration. A hum. Steady and warm. It seemed to emanate from behind the doors, or from the walls themselves.
 
 *Right on schedule.*
 
@@ -285,86 +285,170 @@ Then he saw The Daily Commute.
 
 Through the panels, dimly, past the stained geometry: other offices rising in dark columns, and below them, the Commute. Moving. And beyond it, he could hear it now - faint, but unmistakable in its arrhythmic music of horn and cough and rattle and chuckle and under all that signature hum like a fan-blade whirring through liquid rubber. Traffic.
 
-The other two applicants moved past him into what this small anteroom, which was crammed with surplus office furniture: filing cabinets pushed against the walls, ergonomic chairs stacked seat-to-seat, a water cooler standing upright with no jug, its spigot dripping onto the carpet.
+The other two applicants moved past him into this small room, which was crammed with surplus office furniture: filing cabinets pushed against the walls, ergonomic chairs stacked seat-to-seat, a water cooler standing upright with no jug, its spigot dripping onto the carpet. Beyond the clutter, set into the far stained-glass wall, was a door. Also stained glass, also leaded, fitted with an iron deadbolt and a key-reader. The reader stared with a steady, patient red eye. Rafe took closer note of the door's hinges: heavy, spring-loaded, the kind that close themselves whether you want them to or not.
 
-**Pickup**
+It was this door which separated the anteroom which they had entered from the chamber's main attraction: a corner office. A single desk. A high-backed chair. And beyond the office, windows - real windows, clear glass - opening onto the highway. Rafe could see an on-ramp. He could see, with a specificity that tightened something behind his sternum, an echo of a memory forgotten by his concscious brain; a green-lit EXIT sign hanging above the merge lane.
 
-Beyond the clutter, set into the far stained-glass wall, was a door. Also stained glass, also leaded, fitted with an iron deadbolt and a keycard reader. The reader's indicator light pulsed a steady, patient red. Rafe noted the hinges: heavy, spring-loaded, the kind that close themselves whether you want them to or not.
+"The Chamber of The Dragon presents a simple question of initiative," the Coordinator said. "The office beyond the door is empty, and has lain thus for quarters uncountered, and now desires an occupant. The first among you to enter and take the seat will be recognized as the office's rightful holder, and shall enter the Rite of Initiative, and shall recieve thereafter all of the chamber attendant benefits, responsibilities, and non-compete obligations. The keycard is somewhere in this anteroom."
 
-Through that door: a corner office. A single desk. A high-backed chair. Nothing else. And beyond the office, windows -- real windows, clear glass -- opening onto the highway. He could see an on-ramp. He could see, with a specificity that tightened something behind his sternum, a green-lit EXIT sign hanging above the merge lane.
+The Coordinator stepped forward from the wall, positioning himself in the open space at the room's center. He watched.
 
-The Daily Commute.
+Rafe turned his attention from the far distant road to the anteroom, and his eye settled on an ergonomic chair with a steel-tube frame and a pneumatic height cylinder thick as his forearm. Thick enough to break glass? He dragged the chair into a clearing between two filing cabinets, flipped it onto its back, and set to work.
 
-"The Chamber of The Dragon presents a simple question of initiative," the Coordinator said. He consulted his leather clipboard without haste. "The office beyond the door is unoccupied. It requires an occupant. The first among you to enter and take the seat will be recognized as the office's rightful holder, with all attendant benefits, responsibilities, and non-compete obligations." He paused, turned a page. "The keycard is somewhere in this anteroom. I suggest you begin."
+Rafe had never been industrious. He was, by vocation and temperament, a demon who preferred to have things done for him, or therwise, to have them done by someone else under the impression they were doing the things for themselves. But that EXIT sign had put a heat into his brain. Rafe gripped the chair's armrest and twisted. He braced his loafer against the seat pan and pulled, harder. The metal groaned.
 
-He stepped forward from the wall, positioning himself in the open space at the room's center, and clicked his pen.
+Across the anteroom, the nervous candidate had begun to search. He moved between the stacked furniture, pulling open filing cabinets one after another. The first was empty but for a single rubber band and a dried-out highlighter. He shut it. Opened another. His damp, crumpled resume fell from his breast pocket onto the floor. He did not notice.
 
-Rafe looked at the locked door. He looked at the window beyond it. The office was irrelevant. He, Rafe Scigley, had not descended through six chambers of bureaucratic purgatory to sit in another chair behind another desk.
+Rafe wrenched the first armrest free. It came away trailing a stripped bolt, and he set it aside. He moved to the pneumatic cylinder - the piece he wanted: a steel tube, heavy, blunt at both ends, long enough and thick enough to wield like a battering. Gripping it and twisting, he discovered the cylinder to be coated in a layer of ancient grease, his hands sliding along its slimy face. He changed his angle, planted his foot on the chair's star base, and heaved. Finally, the cylinder came loose with a gasp. Rafe gasped himself, then he lifted the item. He tested its weight: a solid half-meter of steel. He swung it once, experimentally. It felt momentous. Good.
 
-He turned to the anteroom and his gaze settled on an ergonomic chair with a steel-tube frame and a pneumatic height cylinder thick as his forearm. The plan was immediate: get through the door, ignore the desk, cross to the window, break it, drop to the highway. Simple. Direct. Beneath his talents, frankly, but the highway did not care about his talents.
+"What," said the nervous candidate, sidling up next to Rafe, "are you doing?"
 
-He dragged the chair into a clearing between two filing cabinets, flipped it onto its back, and set to work.
+Rafe did not look up. "I am improving my posture."
 
-He had never been industrious. He was, by vocation and temperament, a demon who preferred to have things done for him, or better yet, to have them done by someone else under the impression they were doing them for themselves. But that EXIT sign had put a heat into his hands. He gripped the chair's armrest and twisted. The bolt held. He braced his loafer against the seat pan and pulled harder. Metal groaned.
+The nervous candidate stared at the dismantled chair, then at the locked door. "You're not looking for the keycard at all, you're going to break it down."
 
-Across the anteroom, the Lorre candidate had begun to search. He moved between the stacked furniture, pulling open filing cabinets one after another. The first was empty but for a single rubber band and a dried-out highlighter. He shut it. Opened another. His damp, crumpled resume fell from his breast pocket onto the floor. He did not notice.
+"I am conducting a personal audit of this furniture. I would prefer to conduct it without commentary."
 
-The Astor candidate did not search. She stood near the stained-glass door, portfolio at her side, and watched.
+But the would-be competitor had seen the plan now, or thought he had, and he wanted part of it. He crouched beside the overturned chair and began pulling at the seat cushion. What it yielded was a puff of ancient foam and a cloud of dust that caught the colored light.
 
-Rafe wrenched the first armrest free. It came away trailing a stripped bolt, and he set it aside. He moved to the pneumatic cylinder -- the piece he wanted: a steel tube, heavy, blunt at both ends, long enough to swing with leverage. He gripped it and pulled. The cylinder resisted. He changed his angle, planted his foot on the chair's star base, and heaved. The cylinder gave with a hiss. He tested its weight: a solid half-meter of steel. He swung it once, experimentally, and the air moved. Good.
+Rafe shouldered him aside. The demon stumbled against a filing cabinet; the cabinet rang, a flat metallic note.
 
-"What," said the Lorre candidate, "are you doing?"
-
-Rafe did not look up. "Improving my posture."
-
-The Lorre candidate stared at the dismantled chair, then at the locked door. He abandoned the filing cabinets and moved toward Rafe.
-
-"You're not looking for the keycard," he whispered. "You're going to break it down."
-
-"I am conducting a personal audit of this furniture," Rafe said, "and I would prefer to conduct it without commentary."
-
-But the Lorre candidate had seen the plan now, or thought he had, and he wanted part of it. He crouched beside the overturned chair and began pulling at the seat cushion. What it yielded was a puff of ancient foam and a cloud of dust that caught the colored light.
-
-Rafe shouldered him aside. The Lorre candidate stumbled against a filing cabinet; the cabinet rang, a flat metallic note. The Coordinator made a notation on his clipboard without looking up. His iron keys clicked softly against the leather.
-
-"Please refrain from damaging company property," the Coordinator said.
+"Please refrain from damaging company property," said the Coordinator.
 
 Rafe turned toward the stained-glass door.
 
-The Lorre candidate darted in front of him and planted both hands on the door frame. "If you break that door," he hissed, "we both go through. I go first."
+The nervous candidate darted in front of him and planted both hands on the door frame. "If you break that door," he hissed, "we both go through. I go first."
 
 "You go nowhere," Rafe said. "You are welcome to search for the keycard, which I am sure is hidden somewhere educational, perhaps inside that water cooler."
 
-He feinted left. The Lorre candidate matched him. Rafe feinted right. The Lorre candidate matched him again. They faced each other in the colored light, the dust still swirling between them, and for a moment neither moved. The Lorre candidate's hands were raised, half-reaching -- not quite blocking, not quite grasping. Beyond the glass, the traffic hummed.
+He feinted left. The nervous candidate matched him. Rafe feinted right. The nervous candidate matched him again. They faced each other in the colored light, the dust still swirling between them, and for a moment neither moved. The nervous candidate's hands were raised, half-reaching - not quite blocking, not quite grasping. Beyond the glass, the traffic hummed.
 
-It was during this moment -- while Rafe and the Lorre candidate blocked each other's path -- that the Astor candidate acted.
+It was during this moment - while Rafe and the little jumpy demon were thus engaged - that the she-demon made her own move. From the mometn they'd been introduced to the Facilities Coordinator, she had kept at least one steady eye upon the ancient demon. She had awaited only a choice moment such as this, when his own attention was seemingly caught by the struggle over the chair cylinder.
 
-She had not searched. She had not asked. She had watched the Coordinator step to the center of the room, she had watched his keys catch the light, and she had waited until both men were occupied with each other.
+Three long, quick steps. Her painted fingers dusted the Coordinator's belt. The iron keys - and one iron keycard - came away easily as her fingers pinched open the carabiner, and by the time the Coordinator had turned his head, she had already reached the door.
 
-Three steps. Her hand went to the Coordinator's belt. The iron keys came away with a soft click, and by the time the Coordinator turned his head, she was already at the door.
+She swiped the iron keycard before the reader. The indicator eye shone luridly green. The deadbolt clacked. The stained-glass door swung inward.
 
-The keycard reader did not accept keys. But clipped to the ring, alongside the iron teeth, was a slim white card.
-
-She swiped it. The indicator light turned green.
-
-The deadbolt retracted with a heavy clack. The stained-glass door swung inward.
-
-The Astor candidate stepped through without hesitation, without looking back, without a word. Her portfolio swung at her side. The colored light from the anteroom fell across her shoulders and then she was past it, into the pristine office, moving toward the desk and the chair and the clear windows beyond.
+Rafe and the beetle-eye demon gaped for half-a-moment. The she-demon candidate stepped through without hesitation, without a word. The colored light from the anteroom fell across her shoulders and then she was past it, into the pristine office, moving toward the desk and the chair and the clear windows beyond.
 
 Rafe lunged for the open door.
 
-Something caught him. The Lorre candidate had seized the back of his sport coat with both hands and was pulling -- not to stop him, but to be carried through. One hand gripped cloth; the other scrabbled at Rafe's arm.
+Something caught him. The nervous candidate had seized the back of his sport coat with both hands and was pulling. Rafe twisted, shoved, felt the coat rip at one inside pocket.
 
-The door began to close. Spring hinges, as advertised. Rafe twisted, shoved, felt the coat rip at one inside pocket. The Lorre candidate held on. The gap narrowed.
+Then from the corner office there bloomed a flash like lightning. All were momentarily blinded. Rafe heard the door slam shut - and in that same instant, from beyond the closed door, came another sound: a wet, mechanical crunch, followed by a long pneumatic noise. Like a chomp followed by a satisfied low belch.
 
-From beyond the closing door came a sound: a wet, mechanical crunch, followed by a long pneumatic sigh. The corner office exhaled. Something in its walls had shifted, adjusted, and finished.
+Something within that room had shifted, adjusted, and finished.
 
-The door shut. The indicator light returned to red.
+Rafe and the nervous demon, as their sight returned, still breathing hard from their struggle, peered through the stained glass. The office looked much the same. The desk. The chair. The clear windows beyond. All were as before. Rafe could still see the highway, and the familiar EXIT sign.
 
-Rafe and the Lorre candidate stood in the anteroom, breathing hard, fingers still tangled in rumpled fabric. Through the stained glass they could see the corner office. The desk. The chair. The clear windows beyond, and the highway, and the EXIT sign still burning its patient green.
+The only difference was that the she-dmon has dissapeared, and in her place were two rough spots of mashed, bloody, broken, wet ruddy demon-pulp; one great puddle on the otherwise clean carpet; one smaller stain drooling directly above it on the ceiling.
 
-The Astor candidate was no longer visible.
+The Coordinator pulled a second, identical set of keys from a pocket. He made a final note on his clipboard, then moved past the remaining two candidates to small access door.
 
-The Coordinator retrieved his keys from the keycard reader, clipped them back to his belt, and made a final note on his clipboard. He turned toward the far door.
+"Let us fare to the final chamber."
 
-"This way, please. One chamber remains."
+## Scene 8 - The Chamber of Eternal Comradery
+
+The Coordinator led them down.
+
+Not along a corridor, nor through any passage belonging to the building's known architecture, but down into a steep slope into thickening gloom. The noonday light of the flourescent tubes seems to waver and die as they went. The carpet gave way to bare concrete, then to stone.
+
+"I don't care for this," the nervous demon whispered, so close and sudden behind Rafe's ear that voice seem like a thunderclap in the stillness. Rafe spun an angry glare on the demon and shoves him off a step, but made no answer.
+
+The next chamber's peculiar smell preceded actual sight of the room: calcium and toner ink, dry as kiln-dust, a mineral exhalation that coated the back of the throat. The corridor widened abruptly, the sloping ceased, and they found themselves standing at the verge of a mighty conference chamber. A long table of black-lacquered wood stretched from the threshold to a far end lost in shadow - and around it were ranged the dead.
+
+They were twelve, or perhaps fourteen; the cone of light shot by a single projector mounted into the ceiling, the only light, did not reach the table's full length. The cadavers reclined in heavy ergonomic chairs carved of solid ivory and upholstered with horse leather. Before each lay a printed meeting agenda. At the head of the room, mounted against the wall and illumined in the projector's ghastly beam, a slideshow slid riverlike through 'Pending' slides of curling format and fine black letters.
+
+The Coordinator stopped at the threshold. He said, "Take seats, applicants, here in the Chamber of Eternal Comradery; for the Rite of Eternal Comradery waits only upon your attendance."
+
+Rafe took the nearest empty chair. The upholstery seemed to kiss at his body like leather lips; the ivory casters were locked to the floor. The other candidate sat beside him, fingers squeezing the cold armrests.
+
+A new slide resolved in the projector's cast light:
+
+*COMPULSORY NON-DISCRIMINATION OBEDIENCE INSTRUCTION - MODULE 7: ACCEPTABLE TERMINATION METHODS*
+
+A voice began to narrate. It came from nowhere identifiable - a droning, sexless recitation that seemed to rise from the floor. It spoke of the correct open-minded language a proper CARCANA employee leveraged when engaged in an act of termination: nonviolent, or highly so.
+
+One skeleton on the middle left-end of the conference table adjusted its posture. Another turned a page of its agenda with yellowed phalanges, the tarnished ring on its fourth finger scraping the paper. Their gem-studded lanyards caught the projector's light and scattered it on the wall in cold constellations. Before each stood a placard of hammered gold and polished jet, engraved with titles in a fiscal alphabet that predated ageless CARCANA itself.
+
+"They are a long dead," hissed the little demon beside Rafe. "Skeleton, my confrere, what can it mean? I have heard, but never- And look, they are taking *notes*."
+
+"They are a Skeleton Crew," said Rafe. He had seen it once before - a department that remained under contract, that could not be dissolved, whose employees were forever bound. The Crew was bound to this agenda. They could not deviate from the agenda, not though they lacked flesh and blood and breath.
+
+*Which meant the agenda could be leveraged.*
+
+Rafe stood. The Crew's empty sockets turned toward him. The narration continued.
+
+"Point of order," Rafe said. His voice was steady, professionally pitched. "I am an external auditor, retained on contract for spectral review. I move to table agenda item nine - the judgement of present-era personnel - pending a quorum confirmation of the judgement's jurisdictional scope."
+
+The nervous demon stood too. "No, no, no. We should leave," he said. He reached for Rafe's sleeve. Rafe pulled his arm free.
+
+A skeleton at the far end of the table raised one thin, dessicate phalanx.
+
+"This proposal has been recognized by those in attendance," the Coordinator said, from his position by the door. "Parliamentary procedure requires each render a vote."
+
+The Crew deliberated. Bone indices tapped the lacquered wood in sequence, a dry percussion that traveled the table's length like a sterile tribal music. One tap for aye. Two for nay.
+
+Rafe meanwhile rose from his chair, stepped behind the row of skeletons, and moved toward the far wall, where a door was barely visible in the projector's peripheral glow. He tried the handle. Locked. He pressed his full weight against the frame. The metal was cold and unyielding, and the lock had no keyhole, no card reader, no mechanism he could identify.
+
+Behind Rafe, the tapping ceased. The vote had concluded. The Skeleton Crew sat in renewed stillness along the table's length. The nervous demon had not risen from his chair. His eyes were fixed on the screen, reflecting the projector's glow.
+
+The next slide advanced.
+
+## Scene 9 - The Poster Word
+
+The compliance slideshow had entered its fourth cycle. On the pull-down screen, a block-lettered heading read WORKPLACE SENSITIVITY: A SHARED RESPONSIBILITY, and beneath it a diagram showed two featureless silhouettes shaking hands across a desk that appeared to be on fire. The funereal narrator intoned corrective language with the cadence of a eulogy.
+
+Rafe stood with his back to the exit door, hands in the pockets of his sport coat, and studied the room with practiced disinterest. The Skeleton Crew sat as they had sat since before the building's foundations were poured: upright, attentive, their bejeweled lanyards glinting dully in the projector's phosphorescent cone -- which narrowed and widened and narrowed again. At the head of the table, one of the Crew still gripped a tarnished coffee mug in its phalanges, the interior crusted with mineral residue, the last drink ordered and never finished.
+
+The Coordinator had not acknowledged Rafe's parliamentary maneuver. He stood at the far end of the table, leather clipboard angled toward the projector light, his gaunt frame casting a shadow that bisected the screen. His pen moved in small, precise notations. The Lorre candidate had not moved from his chair. His dark liquid eyes reflected the slideshow, unblinking. He had the posture of a demon already elsewhere.
+
+Rafe shifted his weight. The door behind him was sealed -- confirmed during the vote -- locked by something that predated keycards and tumblers alike. His root hook was gone; he had felt the absence of it at his hip since they'd descended into the chamber, The room offered no other exit. No windows, no ducts, no adjoining corridors. Just the table, the dead, the projector, and the slow cycling of corporate platitudes.
+
+The situation, Rafe decided, required his particular attention.
+
+"Well," Rafe said, to no one in particular, adjusting the strap of his messenger bag. "If nothing else, one has to admire the *integrity* of the presentation."
+
+The room answered.
+
+The projector screen rippled -- not physically, but in the way a reflection ripples when you disturb the water beneath it. The compliance training slide held for a half-second, then flickered, and behind it, bleeding through like a palimpsest, a second image surfaced: a company photograph, yellowed at the edges, curling where the screen had warped with age. A row of demons in ill-fitting business vestments stood before a banner reading WELCOME TO THE TEAM. Third from the left, a younger Rafe Scigley -- angular nose already sharp, but the droll mouth not yet set in its permanent half-smile -- stared out from the screen with the blank, cooperative expression of a new hire.
+
+Rafe stared at his own face. He did not yet understand what he had done. But the photograph -- that he recognized, and the recognition was physical.
+
+The black-lacquered conference table split. Not dramatically -- a hairline fracture that ran from one end to the other, following no grain, opening along fault lines that had not existed a moment before. The walls, previously lost in darkness beyond the projector's reach, resolved into close, water-stained plasterboard hung with a single motivational poster -- *TEAMWORK: Together Everyone Achieves More* -- its glass cracked, its frame askew. The temperature dropped further. The overhead projector stuttered between two realities: the compliance deck, then the orientation slideshow, then both at once, layered and illegible.
+
+The Skeleton Crew felt it first. Their lanyards swung as their ribcages shuddered in the ergonomic chairs -- not pain, not surprise, but the deep structural tremor of beings whose eternal routine had been, for the first time in epochs, interrupted. Tarnished rings clinked against the table's fractured surface. Placards of gold and jet rattled in their stands.
+
+The Coordinator's pen froze. Ink pooled at the nib, spreading into a dark blot on his clipboard. He looked up -- not at Rafe, not at the screen, but at the Crew -- and something in his gaunt face shifted: recognition, then calculation, then the first flicker of alarm Rafe had ever seen cross those indifferent features.
+
+He began the invocation anyway.
+
+"By the authority vested in this division," the Coordinator intoned, his funereal voice cutting through the projector's drone, "and pursuant to Article Nine of the Binding Compendium, subsection--"
+
+The Lorre candidate screamed.
+
+It was not a word, not a protest. It was the sound of a demon who had held himself rigid for too long and snapped. Thin, wheedling, it rose from his throat and climbed until it became something beyond language -- animal and raw, filling the low-ceilinged chamber like pressurized steam finding a crack.
+
+"--sub-sub-section, sub--" The invocation caught. The syllables skipped and repeated, the Coordinator's lips still moving as the formula lost its thread beneath him. A contractual binding required perfect precision. One stammer was a flaw. Two was a failure.
+
+The Crew's deliberation ceased. Twelve skulls turned in unison -- not toward Rafe, not toward the screaming candidate, but toward the Coordinator. Their parliamentary procedure had been violated. The meeting had been disrupted. The slideshow was wrong, and the Crew's response to wrongness was older than the wrongness itself.
+
+They rose.
+
+It was the movement of things that had been sitting for so long that standing was itself an act of violence. Chairs scraped back across the fractured floor. Bony fingers, still bearing their tarnished rings, closed around whatever lay nearest: agenda papers, placard stands, the splintered edge of the table itself.
+
+The compliance narrator, indifferent to all of it, advanced to a new section: CONFLICT RESOLUTION IN THE MODERN WORKPLACE.
+
+The Coordinator raised the clipboard between himself and the nearest skull. One more syllable left his mouth before the first skeleton reached him.
+
+What followed was not combat. It was correction.
+
+Rafe was already moving when the first placard stand came down. He circled wide along the wall, keeping the chaos between himself and the exit, eyes on the table's fractured surface. The Coordinator's clipboard struck the floor somewhere behind him -- he heard the crack, did not turn. Phalanges skittered across the lacquer like spilled dice, fingers snapped loose from wrist-joints and still twitching with procedural indignation. Something tore: the custodial robe at the shoulder, something darker than fabric coming away with it. The Lorre candidate's scream rose once, sharply, as three skeletons dragged him across the table by his collar -- and then his face met the table's fractured edge, and he did not scream again.
+
+Rafe's hand found what it was looking for. Half-buried under scattered agenda papers, his bonsai root hook caught the projector's dying light -- stainless steel, sharpened to a whisper. He palmed it and belted it at his hip where it belonged.
+
+The lock clicked. No tumblers, no bolt. It simply ceased to be locked.
+
+He pulled the handle. Cold air and the faint hum of fluorescent tubes, somewhere far above.
+
+Rafe stepped through, and dragged the door shut.
