@@ -393,62 +393,50 @@ Rafe meanwhile rose from his chair, stepped behind the row of skeletons, and mov
 
 Behind Rafe, the tapping ceased. The vote had concluded. The Skeleton Crew sat in renewed stillness along the table's length. The nervous demon had not risen from his chair. His eyes were fixed on the screen, reflecting the projector's glow.
 
-The next slide advanced.
+The slideshow advanced.
 
 ## Scene 9 - The Poster Word
 
-The compliance slideshow had entered its fourth cycle. On the pull-down screen, a block-lettered heading read WORKPLACE SENSITIVITY: A SHARED RESPONSIBILITY, and beneath it a diagram showed two featureless silhouettes shaking hands across a desk that appeared to be on fire. The funereal narrator intoned corrective language with the cadence of a eulogy.
+Rafe stood with his back to the exit door, hands in the pockets of his sport coat, and considered. The attentions of the skeleton crew, and the Facilities Coordinator, had returned to the illumined presentation. The room offered no other exit. No windows, no ducts, no adjoining corridors. Only the door through which they had entered - blocked by the near-cadaver of the Coordinator - and the locked door at Rafe's spine, sealed in some earlier epoch by majority accord.
 
-Rafe stood with his back to the exit door, hands in the pockets of his sport coat, and studied the room with practiced disinterest. The Skeleton Crew sat as they had sat since before the building's foundations were poured: upright, attentive, their bejeweled lanyards glinting dully in the projector's phosphorescent cone -- which narrowed and widened and narrowed again. At the head of the table, one of the Crew still gripped a tarnished coffee mug in its phalanges, the interior crusted with mineral residue, the last drink ordered and never finished.
+"Well," said Rafe, moving resignedly back to his ivory chair. "when ingenuity offers one no way of escape, perseverance must suffice."
 
-The Coordinator had not acknowledged Rafe's parliamentary maneuver. He stood at the far end of the table, leather clipboard angled toward the projector light, his gaunt frame casting a shadow that bisected the screen. His pen moved in small, precise notations. The Lorre candidate had not moved from his chair. His dark liquid eyes reflected the slideshow, unblinking. He had the posture of a demon already elsewhere.
+But though Rafe had spoken to no one in particular, The Chamber of Eternal Comradery itself replied.
 
-Rafe shifted his weight. The door behind him was sealed -- confirmed during the vote -- locked by something that predated keycards and tumblers alike. His root hook was gone; he had felt the absence of it at his hip since they'd descended into the chamber, The room offered no other exit. No windows, no ducts, no adjoining corridors. Just the table, the dead, the projector, and the slow cycling of corporate platitudes.
+The projector screen rippled - in the way a reflection ripples when you disturb the water casting it. The compliance training slide held for a half-second, then flickered, and behind it, bleeding through like a palimpsest, a second image surfaced: a company photograph, yellowed at the edges, curling where the screen had warped with age. A row of demons in ill-fitting business vestments stood before a banner reading WELCOME TO THE TEAM. Third from the left in this lot stood a younger Rafe Scigley - the angular nose the same, but the mouth with perhaps somewhat less of the smirk about it - stared out from the screen with a cooperative expression.
 
-The situation, Rafe decided, required his particular attention.
+Rafe stared back at his own face. He did not understand what had occurred. But the photograph - that he recognized, and the slide presenting is was the slide of an older, familiar show. Rafe had persevered through this same slide once already, ten years of employment ago.
 
-"Well," Rafe said, to no one in particular, adjusting the strap of his messenger bag. "If nothing else, one has to admire the *integrity* of the presentation."
+The black-lacquered conference table cracked - a hairline fracture zipped from one end to the other, following no grain, opening along fault lines that had not existed a moment before. The walls, previously lost in darkness beyond the projector's reach, bubbled into water-stained plasterboard hung with a single motivational poster - *TEAMWORK: Together Everyone Achieves More* - this one a genuine oil-painting in the cubist style. The temperature plunged by twenty degrees. The overhead projector stuttered between two realities: the OBEDIENCE INSTRUCTION deck, then Rafe's orientation photo, then both at once, layered and illegible.
 
-The room answered.
+A shiver ran among The Skeleton Crew. Their chattered against their ribs as they began to toss and twist while remaining seated in their chairs. Their eternal routine had been, for the first time in epochs, interrupted. Tarnished rings clinked against the table's fractured surface. The hammered-gold placards jumped about like fleas.
 
-The projector screen rippled -- not physically, but in the way a reflection ripples when you disturb the water beneath it. The compliance training slide held for a half-second, then flickered, and behind it, bleeding through like a palimpsest, a second image surfaced: a company photograph, yellowed at the edges, curling where the screen had warped with age. A row of demons in ill-fitting business vestments stood before a banner reading WELCOME TO THE TEAM. Third from the left, a younger Rafe Scigley -- angular nose already sharp, but the droll mouth not yet set in its permanent half-smile -- stared out from the screen with the blank, cooperative expression of a new hire.
+Ink pooled at the nib of the Coordinator's pen, spreading into a dark blot on his clipboard. He stared at the Crew - and something in his gaunt face shifted: recognition, then the first flicker of alarm Rafe had seen cross that face which was hard like wax.
 
-Rafe stared at his own face. He did not yet understand what he had done. But the photograph -- that he recognized, and the recognition was physical.
+Nevertheless, he began to intone, "By the fiscal authority vested in the third hiring body of the Entity Carcana, and pursuant to the stellar articles etched upon the ebon tablets of Binding Compendium, subsection--"
 
-The black-lacquered conference table split. Not dramatically -- a hairline fracture that ran from one end to the other, following no grain, opening along fault lines that had not existed a moment before. The walls, previously lost in darkness beyond the projector's reach, resolved into close, water-stained plasterboard hung with a single motivational poster -- *TEAMWORK: Together Everyone Achieves More* -- its glass cracked, its frame askew. The temperature dropped further. The overhead projector stuttered between two realities: the compliance deck, then the orientation slideshow, then both at once, layered and illegible.
+The other candidate screamed.
 
-The Skeleton Crew felt it first. Their lanyards swung as their ribcages shuddered in the ergonomic chairs -- not pain, not surprise, but the deep structural tremor of beings whose eternal routine had been, for the first time in epochs, interrupted. Tarnished rings clinked against the table's fractured surface. Placards of gold and jet rattled in their stands.
+It was the sound of a demon who had held himself rigid for too long and snapped. It rose from a wheedle and climbed until it became something beyond language - animal and raw, filling the low-ceilinged chamber like a train whistle.
 
-The Coordinator's pen froze. Ink pooled at the nib, spreading into a dark blot on his clipboard. He looked up -- not at Rafe, not at the screen, but at the Crew -- and something in his gaunt face shifted: recognition, then calculation, then the first flicker of alarm Rafe had ever seen cross those indifferent features.
+"sub- sub- section, sub-" The Coordinator stuttered. His lips stumbled as the formula lost its thread beneath him. A contractual binding required perfect precision. One stammer was a flaw. Two was failure.
 
-He began the invocation anyway.
+Twelve skulls turned in unison; turned toward the little screaming demon; turned toward the Coordinator.
 
-"By the authority vested in this division," the Coordinator intoned, his funereal voice cutting through the projector's drone, "and pursuant to Article Nine of the Binding Compendium, subsection--"
+They rose. Chairs scraped back across the fractured floor. Their fingers, sticks of chalk banded in gold and bejeweled rings, closed around whatever lay nearest: placard stands, the conference soundbar, the splintered edge of the table itself.
 
-The Lorre candidate screamed.
+The compliance narrator, indifferent to all of it, advanced to a new section: TERMINATION METHODS - MODERN MURDER MODES.
 
-It was not a word, not a protest. It was the sound of a demon who had held himself rigid for too long and snapped. Thin, wheedling, it rose from his throat and climbed until it became something beyond language -- animal and raw, filling the low-ceilinged chamber like pressurized steam finding a crack.
-
-"--sub-sub-section, sub--" The invocation caught. The syllables skipped and repeated, the Coordinator's lips still moving as the formula lost its thread beneath him. A contractual binding required perfect precision. One stammer was a flaw. Two was a failure.
-
-The Crew's deliberation ceased. Twelve skulls turned in unison -- not toward Rafe, not toward the screaming candidate, but toward the Coordinator. Their parliamentary procedure had been violated. The meeting had been disrupted. The slideshow was wrong, and the Crew's response to wrongness was older than the wrongness itself.
-
-They rose.
-
-It was the movement of things that had been sitting for so long that standing was itself an act of violence. Chairs scraped back across the fractured floor. Bony fingers, still bearing their tarnished rings, closed around whatever lay nearest: agenda papers, placard stands, the splintered edge of the table itself.
-
-The compliance narrator, indifferent to all of it, advanced to a new section: CONFLICT RESOLUTION IN THE MODERN WORKPLACE.
-
-The Coordinator raised the clipboard between himself and the nearest skull. One more syllable left his mouth before the first skeleton reached him.
+The Coordinator raised the clipboard between himself and the nearest approaching skull. He managed to utter a final stutter before the first bonewalker reached him.
 
 What followed was not combat. It was correction.
 
-Rafe was already moving when the first placard stand came down. He circled wide along the wall, keeping the chaos between himself and the exit, eyes on the table's fractured surface. The Coordinator's clipboard struck the floor somewhere behind him -- he heard the crack, did not turn. Phalanges skittered across the lacquer like spilled dice, fingers snapped loose from wrist-joints and still twitching with procedural indignation. Something tore: the custodial robe at the shoulder, something darker than fabric coming away with it. The Lorre candidate's scream rose once, sharply, as three skeletons dragged him across the table by his collar -- and then his face met the table's fractured edge, and he did not scream again.
+Rafe had clocked the surge, along with a particular gleam at the table's far end, and was already dodging in that direction when the first placard stand whistled down. It caught the Coordinator across the nose-bridge with a wet, cartilaginous pop; his head snapped sidelong and the clipboard cartwheeled free. A second skeleton seized his custodial robe at the shoulder and wrenched - the fabric peeled, and something darker than cloth sloughed away with it, fibrous and slick. The Coordinator staggered, fumbling syllables no longer words, and a third bonewalker drove the blunt foot of a conference soundbar into the soft architecture of his throat. He folded. Four more descended: chalk-fingers seized wrists and ankles, tarnished rings biting flesh, and they bent him backward over the fractured table-edge until something in his spine surrendered with a sound like a green branch splitting. His legs ceased to kick. The remaining five swarmed the little demon. He shrieked once, bovine, before two hauled him by his collar across the lacquered surface, cheek plowing through scattered papers and splintered wood. A third palmed his skull and hammered it into the table's fracture-line below the orbital bone, and one eye went dark and weeping. Phalanges skittered loose like spilled dice, fingers snapped free of wrist-joints still twitching with procedural indignation. His second scream curdled to a gargle as they folded him over the table's lip, and when released he dropped with the particular heaviness of something no longer organizing itself against gravity. Rafe circled wide along the wall through it all, keeping the pandemonium between himself and the exit.
 
-Rafe's hand found what it was looking for. Half-buried under scattered agenda papers, his bonsai root hook caught the projector's dying light -- stainless steel, sharpened to a whisper. He palmed it and belted it at his hip where it belonged.
+At the end of the table Rafe's hand jumped at the gleam he had seen. He found what he had expected. Half-buried under scattered agenda papers, his bonsai root hook - the old hook, the one from his original orientation - caught the projector's dying light; stainless steel, sharpened to a whisper. He belted it at his hip where it belonged.
 
-The lock clicked. No tumblers, no bolt. It simply ceased to be locked.
+The tearing-apart of the other two demons proceeded, and Rafe saw now two of The Skeleotn Crew clattering swiftly towards him. Just below the room-filling clamor of rattling bones, Rafe's ear caught another sound - a click - he glanced over his shoulder, and behind the exit door, cracked ajar. No tumblers, no bolt. It had simply ceased to be locked.
 
-He pulled the handle. Cold air and the faint hum of fluorescent tubes, somewhere far above.
+Rafe leapt for the door and dragged it open. Upon his cheeks he felt the blast of cold air; on the drums of his ears, the dusk-hour hum of distant fluorescents; at his shoulder the calcified hardness of a skeleton claw.
 
-Rafe stepped through, and dragged the door shut.
+Rafe stepped through the door and dragged it shut with a slam.
