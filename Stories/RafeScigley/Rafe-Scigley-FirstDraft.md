@@ -2,7 +2,7 @@
 
 ## Scene 1 - The Cubicle Garden
 
- CARCANA's Department of Gender-Appropriate Commination occupied a full half-floor of the eastern wing, the department's territory marked by a hand-lettered placard reading TEAMS 7.A THROUGH 8.G and by the particular quality of its air: recycled beyond all memory of freshness, carrying notes of stale toner and carpet adhesive and, from the floor vents, something faintly sulfurous. The carpet underfoot had been worn to a greasy sheen along the traffic paths between cubicle rows. Decades of trudging feet had ground its original pattern into indeterminacy.
+ CARCANA MC's Department of Gender-Appropriate Commination occupied a full half-floor of the eastern wing, the department's territory marked by a hand-lettered placard reading TEAMS 7.A THROUGH 8.G and by the particular quality of its air: recycled beyond all memory of freshness, carrying notes of stale toner and carpet adhesive and, from the floor vents, something faintly sulfurous. The carpet underfoot had been worn to a greasy sheen along the traffic paths between cubicle rows. Decades of trudging feet had ground its original pattern into indeterminacy.
  
  Mr. Rafe Scigley, sauntered along these hedging cubicles at a leisurely pace.
 
@@ -51,7 +51,7 @@ The login prompt winked at him. Beneath it, filling the lower third of the displ
 
 Rafe read it twice. A considering expression settled over his angular features. 
 
-*Why not apply?* Rafe thought. The meagerest display of his professional qualities must secure for him a following interview. And if he then chose to fail that interview - spectacularly enough to be memorable, modestly enough to incur no excessive demoniac wrath - he could secure for himself a speedy escort to CARCANA's nearest parking garage. And from there, release. Escape.
+*Why not apply?* Rafe thought. The meagerest display of his professional qualities must secure for him a following interview. And if he then chose to fail that interview - spectacularly enough to be memorable, modestly enough to incur no excessive demoniac wrath - he could secure for himself a speedy escort to CARCANA MC's nearest parking garage. And from there, release. Escape.
 
 Rafe turned from the terminal and found, beside the glyphboard, a laminated ID card on a coffee-stained lanyard, still warm from its owner's neck. The photograph had faded to a pinkish blur. The name read GORBEN FELCH, COMMINATION ASSOCIATE, TEAM 7.D. Rafe took it.
 
@@ -71,7 +71,7 @@ Now the ceiling tiles underwent a metamorphosis-of-hue, from vending-machine-mus
 
 Beneath his loafers, the carpet ended. Linoleum began - the variety of linoleum found in basement commissaries and disciplinary holding rooms. Gone too was the door behind him. A fire-exit sign rotated on its bracket and came to rest pointing into blank drywall. The corridor, which had run east-west, now ran along an axis which resisted cardinal description.
 
-Rafe paused at a directory placard mounted at shoulder height. Below the enormous golden studs spelling out the company name, CARCANA, the department names were rearranging themselves, letters sliding behind their laminate casing. DEPARTMENT OF GENDER-APPROPRIATE COMMINATION dispersed, garbling like letter-soup, and coalesced back into ONBOARDING - ORIENTATION HALL C. Rafe rubbed his eyes, and consulted the new directions. *Closer than I anticipated*, he thought. *The building is cooperating.*
+Rafe paused at a directory placard mounted at shoulder height. Below the enormous golden studs spelling out the company name, CARCANA MC, the department names were rearranging themselves, letters sliding behind their laminate casing. DEPARTMENT OF GENDER-APPROPRIATE COMMINATION dispersed, garbling like letter-soup, and coalesced back into ONBOARDING - ORIENTATION HALL C. Rafe rubbed his eyes, and consulted the new directions. *Closer than I anticipated*, he thought. *The building is cooperating.*
 
 It was five-o-clock everywhere now. Rafe, rubbing his eyes again, sought a place to rest.
 
@@ -367,9 +367,9 @@ A new slide resolved in the projector's cast light:
 
 *COMPULSORY NON-DISCRIMINATION OBEDIENCE INSTRUCTION - MODULE 7: ACCEPTABLE TERMINATION METHODS*
 
-A voice began to narrate. It came from nowhere identifiable - a droning, sexless recitation that seemed to rise from the floor. It spoke of the correct open-minded language a proper CARCANA employee leveraged when engaged in an act of termination: nonviolent, or highly so.
+A voice began to narrate. It came from nowhere identifiable - a droning, sexless recitation that seemed to rise from the floor. It spoke of the correct open-minded language a proper CARCANA MC employee leveraged when engaged in an act of termination: nonviolent, or highly so.
 
-One skeleton on the middle left-end of the conference table adjusted its posture. Another turned a page of its agenda with yellowed phalanges, the tarnished ring on its fourth finger scraping the paper. Their gem-studded lanyards caught the projector's light and scattered it on the wall in cold constellations. Before each stood a placard of hammered gold and polished jet, engraved with titles in a fiscal alphabet that predated ageless CARCANA itself.
+One skeleton on the middle left-end of the conference table adjusted its posture. Another turned a page of its agenda with yellowed phalanges, the tarnished ring on its fourth finger scraping the paper. Their gem-studded lanyards caught the projector's light and scattered it on the wall in cold constellations. Before each stood a placard of hammered gold and polished jet, engraved with titles in a fiscal alphabet that predated ageless CARCANA MC itself.
 
 "They are a long dead," hissed the little demon beside Rafe. "Skeleton, my confrere, what can it mean? I have heard, but never- And look, they are taking *notes*."
 
@@ -413,7 +413,7 @@ A shiver ran among The Skeleton Crew. Their chattered against their ribs as they
 
 Ink pooled at the nib of the Coordinator's pen, spreading into a dark blot on his clipboard. He stared at the Crew - and something in his gaunt face shifted: recognition, then the first flicker of alarm Rafe had seen cross that face which was hard like wax.
 
-Nevertheless, he began to intone, "By the fiscal authority vested in the third hiring body of the Entity Carcana, and pursuant to the stellar articles etched upon the ebon tablets of Binding Compendium, subsection--"
+Nevertheless, he began to intone, "By the fiscal authority vested in the third hiring body of the Entity CARCANA MC, and pursuant to the stellar articles etched upon the ebon tablets of Binding Compendium, subsection--"
 
 The other candidate screamed.
 
@@ -435,8 +435,59 @@ Rafe had clocked the surge, along with a particular gleam at the table's far end
 
 At the end of the table Rafe's hand jumped at the gleam he had seen. He found what he had expected. Half-buried under scattered agenda papers, his bonsai root hook - the old hook, the one from his original orientation - caught the projector's dying light; stainless steel, sharpened to a whisper. He belted it at his hip where it belonged.
 
-The tearing-apart of the other two demons proceeded, and Rafe saw now two of The Skeleotn Crew clattering swiftly towards him. Just below the room-filling clamor of rattling bones, Rafe's ear caught another sound - a click - he glanced over his shoulder, and behind the exit door, cracked ajar. No tumblers, no bolt. It had simply ceased to be locked.
+The tearing-apart of the other two demons proceeded, and Rafe saw now two of The Skeleton Crew clattering swiftly towards him. Just below the room-filling clamor of rattling bones, Rafe's ear caught another sound - a click - he glanced over his shoulder, and behind the exit door, cracked ajar. No tumblers, no bolt. It had simply ceased to be locked.
 
 Rafe leapt for the door and dragged it open. Upon his cheeks he felt the blast of cold air; on the drums of his ears, the dusk-hour hum of distant fluorescents; at his shoulder the calcified hardness of a skeleton claw.
 
 Rafe stepped through the door and dragged it shut with a slam.
+
+---
+
+## Scene 10 - Re-Orientation
+
+The desk before Rafe sprawled all the way from one stucco wall of the fifty-foot, stone-tiled office, to the glass wall opposite, the translucent panes on that end facing no exterior view of the highway, but rather only another corridor of CARCANA MC's architectural intestines. The desk was built from filing cabinets crushed together under tremendous pressure until they had fused into a single geological stratum of pressed steel. Behind it, a trio of motivational posters depicted a dog chasing a kite, a cross-section of the planet mars, and a painting of Maeo Zedong in the baroque style; each bearing the word, DETERMINATION, TRANSPARENCY, and DOMINATE respectively.
+
+Behind the desk floated the Aychar.
+
+It did not look up at the slamming of the door. Its swollen bulk hovered above the red cushion of a high-backed executive throne.
+
+"Ah," said the Aychar warmly when it at last looked up. "So there you are, Rafe Scigley."
+
+Rafe brushed plaster dust from the torn shoulder of his sport coat. He said, "A regrettable outcome, but I am afraid my particular abilities aligned poorly with the integrating cermonies. Three chambers, not a single binding contract signed. I understand, no, no need to expostulate gently on the 'unfitness of the match'. If you will only direct me to the nearest parking garage, I shall shall readily see myself out."
+
+The Aychar's lips stretched wide. "Mr. Scigley, you survived. That is integration's object. CARCANA MC twines her fingers through the hair of such employees, those who survive to turn a company profit."
+
+One bloated deformation-of-limb extended itself to a glyphboard on the comrpessed steel surface of the desk, and pressed a key. The motivational poster of Mao Zedong slid aside to reveal a digital display, which flickered to life and began cycling through scanned pages of a benefits-enrollment scroll. Each field had been pre-filled with Rafe's name in a typeface of otherworldly original.
+
+"I decline the offer," said Rafe. He stepped forward and tapped his root hook on the desk's fused surface.
+
+The Aychar's fingers raced across the glyphs in some other task now, as if it had not heard. With another limb it produced a leather manilla packet from beneath the desk and slid it forward. The packet was warm and smelled of toner. "You will find your new role assignment on page 3, company-defined Words of Mighty Danger on page 7, and your updated seniority classification on page 11."
+
+Rafe began to protest, then latched onto the Aychar's last comment. "Updated seniority?"
+
+"All years of prior service have been recalibrated to zero for purposes of treasure accrual, pension eligibility, etc." The Aychar's mouth split across its orb-body. "We find it motivates."
+
+Rafe suppressed a turn in his stomach with soem difficulty, and considered the words. *Zero seniority. Zero accumulated obligations.* Rafe sensed a loophole. *Years of compounding company debt, gone, by their own hand.*
+
+"Well," said Rafe at last. "After all, one must accept the the laws set out for all equally. As this reset must also surely extend to prior financial encumbrances - small as they were in my own case - I should like to commission-"
+
+"It does not extend." The Aychar's smile moved not by so much as a fingernail's-width. "Company debts carry over in full per the ADDENDUM OF SHARES, SORROWS, AND BURDENS: *All prior obligations endur, through reclassification and reorganization, yea, though the season may pass uncounted.* Your balance has actually increased."
+
+The Aychar gestured toward the door. A collection notice hung pinned to the wall beside the frame, ink still damp:
+
+*1x Ergonomic Task Chair, Series 7, Lumbar-Adaptive: DESTROYED*
+*Replacement cost: $14,772.03*
+*Charged to: SCIGLEY, R.*
+*Referred to: Office of Mr. P. Sinocarre, High Commissioner, January Financials*
+
+Rafe read it twice.
+
+"Additionally," said the Aychar, producing a second leather manilla folder from under the desk, "Mr. Sinocarre has booked an immediate appointment with you. He was most specific about the timing."
+
+The intercom above the door crackled. A voice, bright and clerical, read from what sounded like a scheduling template: "Mr. Scigley, your appointment with Mr. Sinocarre, High Commissioner of the January Financials, has been confirmed for immediate availability. Please remain at your current location."
+
+Rafe quickly looked his bonsai hook back through his belt. "Where is my new desk assignment?" he asked.
+
+The Aychar pulled the laminated packet back across the desk, squared it against the terminal, and only then consulted the screen. "Gallery of the Stone Saints, 11-West. Cubicle block F, row 9."
+
+Rafe collected the re-orientation packet and tucked it into his messenger bag. Seeing that the door to his right was open, and that the Aychar seemed to have lost all concern for him, he made a swift exit from the room, and the Hiring Annex altogether.
