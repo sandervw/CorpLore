@@ -38,7 +38,7 @@ A signature was worth more than a badge in a room like this; Rafe had always und
 
 From the far side of the room, a sound: the demon with the beetling eyes and wringing fingers had backed himself against a filing cabinet, and was whispering something rapid and formless. He had his eyes fixed upon the printer. The Coordinator faced the candidate with an expression as devoid of emotion as waxwork, yet with that same subconscious, horrible threat somehow conveyed.
 
-"Sign here," Rafe said quietly to the fat demon, offering the form and producing a pen from his sport coat's interior pocket. "Else this coordinator may decide we are laggards, and decide that termination were the better choice for us all."
+"Sign here," Rafe said quietly to the fat demon, offering the form and producing an antipquated marble pen from some secret pocket of his sport's coat. "Else this coordinator may decide we are laggards, and decide that termination were the better choice for us all."
 
 The demon reached for the pen, then paused, pink fingers hovering. He glanced at the Coordinator's turned back, then back at Rafe's face. Then he took the pen and signed.
 

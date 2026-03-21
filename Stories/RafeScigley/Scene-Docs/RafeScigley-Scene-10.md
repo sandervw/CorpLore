@@ -18,7 +18,7 @@ One bloated deformation-of-limb extended itself to a glyphboard on the compresse
 
 "I decline the offer," said Rafe. He stepped forward and tapped his root hook on the desk's fused surface.
 
-The Aychar's fingers raced across the glyphs in some other task now, as if it had not heard. With another limb it produced a leather manilla folder from beneath the desk and slid it forward. The folder was warm and smelled of toner. "You will find your new role assignment on page 3, company-defined Words of Mighty Danger on page 7, and your updated seniority classification on page 11."
+The Aychar's fingers raced across the glyphs in some other task now, as if it had not heard. With another limb it produced a leather manilla folder from beneath the desk and slid it forward. The folder was warm and smelled of toner. "You will find your new role assignment on page 3, sanctioned Words of Mighty Danger on page 7, and your updated seniority classification on page 11."
 
 Rafe began to protest, then latched onto the Aychar's last comment. "Updated seniority?"
 
@@ -39,7 +39,7 @@ The Aychar gestured toward the door. A collection notice hung pinned to the wall
 
 Rafe read it twice.
 
-"Additionally," said the Aychar, producing a second leather manilla folder from under the desk, "Mr. Sinocarre has booked an immediate appointment with you. He was most specific about the timing."
+"Additionally," said the Aychar, producing a second leather manilla folder from under the desk, this one textured in that prickly, fish-skin-like surface which was indicative of having been drawn from an unfillable filing cabinet, "Mr. Sinocarre has booked an immediate appointment with you. He was most specific about the timing."
 
 The intercom above the door crackled. A voice, bright and clerical, read from what sounded like a scheduling template: "Mr. Scigley, your appointment with Mr. Sinocarre, High Commissioner of the January Financials, has been confirmed for immediate availability. Please remain at your current location."
 

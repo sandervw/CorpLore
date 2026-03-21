@@ -34,7 +34,7 @@ The demon was crouched on a low shelf three aisles over, visible through a gap w
 
 "I am not here to requisition supplies," Rafe said. "I am in transit. A brief and authorized repose, nothing more."
 
-The clerk descended from the shelf. He landed without sound. He consulted a clipboard of particle-board lacquered in white gold, holding it at an angle that suggested Rafe's position in the annex was a matter for astrological record. "Transit requires a Writ... let me see- 7. Overnight occupancy of this Archival Annex without Writ 7-Z is a January-class offense." He made a mark on the clipboard. "You are in Aisle 5,004. Junction C."
+The clerk descended from the shelf. He landed without sound. He consulted a clipboard of particle-board lacquered in white gold, holding it at an angle that suggested Rafe's position in the annex was a matter for astrological record. "Transit requires a Writ... let me see- 7. Overnight occupancy of this Archival Annex without Writ 7-Z is a System-Maintainer-Class offense." He made a mark on the clipboard. "You are in Aisle 5,004. Junction C."
 
 "Then perhaps you might direct me to the onboarding annex. Department of Gender-Appropriate Commination. I have an interview."
 
@@ -44,7 +44,7 @@ The clerk lowered his clipboard a fraction. He touched the edge of his badge wit
 
 The clerk crossed the junction to a pillar at its center and pointed with his clipboard at a laminated sheet bolted to its face. Rafe had not noticed it in the dark. The grid of shelf coordinates had been overlaid with hand-drawn routes in red marker: winding paths through the stacks, annotated in a crabbed hand with notes like *flooded past Q3* and *ceiling collapse, use detour* and *DO NOT OPEN*.
 
-"Onboarding is that way," the clerk said, and pointed down an aisle Rafe had not yet explored. He tore a slip of paper from his clipboard and did not extend it. He placed it on the nearest shelf, tucked his clipboard under his armpit, wrung the wrist of his left hand with his right thumb and forefinger in a ceremonial sort of way, and stepped back. Rafe took the slip. It was a shelf-coordinate chit, stamped with a routing number and a date from a fiscal quarter he did not recognize.
+"Onboarding is that way," the clerk said, and pointed down an aisle Rafe had not yet explored. He tore a slip of paper from his clipboard and did not extend it. He placed it on the nearest shelf, tucked his clipboard under his armpit, wrung the wrist of his left hand with his right thumb and forefinger in a ceremonial sort of way, and stepped back. Rafe took the slip. It was a shelf-coordinate chit, stamped with a routing number and a date from a quarter predating the Red Year of Consolidation.
 
 "Follow the red line," continued the clerk. He paused and glanced toward the deeper aisles, where the red murk thickened. "Do not take anything. When you hear the hum, you are close to Onboarding. If you hear it and you are not close - if the shelves are still full and the tiles are still sagging - turn around."
 

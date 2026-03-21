@@ -50,7 +50,7 @@ He feinted left. The nervous candidate matched him. Rafe feinted right. The nerv
 
 It was during this moment - while Rafe and the little jumpy demon were thus engaged - that the she-demon made her own move. From the moment they'd been introduced to the Facilities Coordinator, she had kept her attention fixed upon the ancient demon. She had awaited only a choice moment such as this, when his own attention was seemingly caught by the struggle over the chair cylinder.
 
-Three long, quick steps. Her painted fingers dusted the Coordinator's belt. The iron keys - and one iron keycard - came away easily as her fingers pinched open the carabiner, and by the time the Coordinator had turned his head, she had already reached the door.
+Three long, quick steps. Her painted fingers dusted the Coordinator's belt. The iron keys - and one iron keycard which vibrated constantly with an innate electric-sorcery - came away easily as her fingers pinched open the carabiner, and by the time the Coordinator had turned his head, she had already reached the door.
 
 She swiped the iron keycard before the reader. The indicator eye shone luridly green. The deadbolt clacked. The stained-glass door swung inward.
 
@@ -66,7 +66,7 @@ Something within that room had shifted, adjusted, and finished.
 
 Rafe and the nervous demon, as their sight returned, still breathing hard from their struggle, peered through the stained glass. The office looked much the same. The desk. The chair. The clear windows beyond. All were as before. Rafe could still see the highway, and the familiar EXIT sign.
 
-The only difference was that the she-demon had disappeared, and in her place were two rough spots of mashed, bloody, broken, wet ruddy demon-pulp; one great puddle on the otherwise clean carpet; one smaller stain drooling directly above it on the ceiling.
+The only difference was that the she-demon had disappeared - abruptly terminated - and in her place were two rough spots of mashed, bloody, broken, wet ruddy demon-pulp; one great puddle on the otherwise clean carpet; one smaller stain drooling directly above it on the ceiling.
 
 The Coordinator pulled a second, identical set of keys from a pocket. He made a final note on his clipboard, then moved past the remaining two candidates to a small access door.
 

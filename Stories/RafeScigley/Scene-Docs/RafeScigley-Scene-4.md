@@ -18,7 +18,7 @@ Behind Rafe, three other applicants waited in the hiring antechamber. The first 
 
 "There is no interview, Mr. Scigley." said the Aychar after a moment. It drifted sideways along the desk, consulting a form that had materialized in the bloated fingers of one of its several mismatched limbs. "Your interview was conducted and passed on the fourteenth. You were expected on the fifteenth for your Rites of Integration. It is now... the fifteenth."
 
-"I see," said Rafe. Behind a careful mask, rapid calculations. He had applied only yesterday, which had surely been the thirteenth, hours before he found the supply-forest, via a terminal accessed through fraud in a cubicle garden two floors above. The fourteenth had not yet occurred when he submitted the application. The fifteenth, by any reasonable lunar reckoning, was tomorrow. Unless his calendrical orientation were skewed? But even then, he had surely never passed any interview; he hadn't sat through an interview in years.
+"I see," said Rafe. Behind a careful mask, rapid calculations. He had applied only yesterday, which had surely been the thirteenth, hours before he found the supply-forest, via a terminal accessed through fraud in a cubicle garden two floors above. The fourteenth had not yet occurred when he submitted the application. The fifteenth, by any reasonable lunar reckoning, was tomorrow. Unless temporal discrepancies had been itnroduced during a traversal-by-elevator? But even then, he had surely never passed any interview; he hadn't sat through an interview in years.
 
 Rafe decided not to raise the point. Temporal disputes with processing departments were, in his considerable experience, unwinnable.
 
@@ -32,7 +32,7 @@ Rafe could feel the three applicants at his back, watching. He said, "I am afrai
 
 Behind the Aychar and the table, an org chart hung high upon the wall. So many revision stickers had been applied over so many fiscal quarters that the chart had become three-dimensional: a topographic map of departmental restructurings, whole divisions entombed beneath layers of revision. Rafe stared at it. His name was already on that chart. Somewhere, under something.
 
-"No," said Rafe. He turned for the door through which he had entered. It was closed. Two demons stood in front of it: squat, grey-skinned creatures in ill-fitting blazers, heavy steel dining trays strapped to their forearms like bucklers. Their eyes were disinterested; their identity-badges, without names.
+"No," said Rafe. He turned for the door through which he had entered. It was closed. Two demons stood in front of it: squat, grey-skinned creatures in ill-fitting blazers, heavy steel dining trays strapped to their forearms like bucklers - for catering purposes. Their eyes were disinterested; their identity-badges, without names.
 
 "Orientation is mandatory," said the Aychar behind him.
 

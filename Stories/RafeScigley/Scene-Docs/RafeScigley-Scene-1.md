@@ -38,7 +38,7 @@ The demon stood. He collected a binder from his desk with bovine movements, and 
 
 He was alone. The telephone two rows over continued to ring. Rafe stepped into the alcove.
 
-The terminal screen still glowed; the employee had not touched the board of glyphs before he left. Around the terminal - just barely visible, like heat haze shimmering above summer asphalt - the Ward of User Authentication formed a distinct line of vapor. Rafe's own fingers moved to the glyphboard.
+The terminal screen still glowed; the employee had not touched the board of glyphs before he left. Around the terminal - just barely visible, like heat haze shimmering above summer asphalt - the Salt-magic of User Authentication formed a distinct line of vapor. Rafe's own fingers moved to the glyphboard.
 
 Just as Rafe was about to press the longest, bottommost key among the glyphs, that vapor line shuddered. It guttered, dimmed, and dissolved into nothing - the session had simply timed out. The screen reset to a generic login prompt, the phosphor green characters rearranging themselves into the departmental seal and a blinking cursor. The Forever World, whatever this employee's world had looked like, now lay sealed behind that employee's identity, an extraplanar layer removed from any interface, summonable once more only at the behest of the employee with the flat voice and matte pupils.
 
