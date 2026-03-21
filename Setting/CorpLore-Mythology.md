@@ -84,7 +84,7 @@ Life is the away-state. At birth a unique seed generates a raw Minecraft world t
 
 Six categories inhabit the setting:
 
-- **Corruption Spectrum:** Demonkind. Base demons (general population), Waards (warrior enforcers thickened by violence), Shaylas (acid-tongued she-demons sharpened by cruelty), Loras (spine-crowned ancient hags embedded so deep they are the infrastructure), AyChar (kakodemon of pure HR evil).
+- **Corruption Spectrum:** Demonkind. Base demons (general population), Waards (warrior enforcers thickened by violence), Shaylas (acid-tongued she-demons sharpened by cruelty), Loras (spine-crowned ancient hags embedded so deep they are the infrastructure), Aychar (kakodemon of pure HR evil).
 - **Uncorrupted Dans:** The setting's elves. Short, stocky, nearsighted archivists who never signed the full contract. Sad because they remember it was optional.
 - **Weave-Born:** Emerge from carpet cosmology. Tuples (doppelgangers printed when the Weave folds) and Enums (immutable beings locked at cosmic Knots, each embodying a single rule).
 - **Contractually Obligated:** Undead animated by unfinished paperwork. The Retained (zombies on retainer), Non-Competes (ghosts locked from afterlife by clause), Skeleton Crew (ash-colored bone staff in bureaucratic infinite loops), Severanced (lucid revenants trapped by continuing severance deposits), Commuter Wraiths (forever driving an incomplete route).

@@ -59,11 +59,11 @@ Here are the identified issues:
 - "the creature that entered entered through it" — redundant phrasing ("entered" twice) and "it" is ambiguous (referring to doors, plural, but "it" is singular). The opening sentence is overloaded with nested clauses and trips over itself.
 - "no muscle having applied to it any force" — "it" again singular for double doors.
 - Three applicants are described, but later they're called "supplicants" without transition or explanation - change to 'applicants'
-- The corpulent demon is described twice with near-identical language — once as a waiting applicant ("corpulent with hideous quantities of flesh") and the aychar itself is also "a swollen mass of bureaucratic flesh." Replace corpulent demon 'flesh' with 'skin', and replace Aychar with 'swollen mass of malformed bureaucratic tissues, limbs, and organs'
+- The corpulent demon is described twice with near-identical language — once as a waiting applicant ("corpulent with hideous quantities of flesh") and the Aychar itself is also "a swollen mass of bureaucratic flesh." Replace corpulent demon 'flesh' with 'skin', and replace Aychar with 'swollen mass of malformed bureaucratic tissues, limbs, and organs'
 
 **Repeated Beats:**
 - Rafe's "affable" manner is noted twice in close proximity ("most affable smile," "affable mask") - remove one
-- Adhesive imagery appears twice (aychar's "adhesive breath," org chart's "adhesive" stickers) — remove org chart instance
+- Adhesive imagery appears twice (Aychar's "adhesive breath," org chart's "adhesive" stickers) — remove org chart instance
 
 **Tropes/Rough Spots:**
 - The "composed beauty" she-demon is a stock placeholder; she does almost nothing except clip a badge decoratively; as some distinguishing action, 15-25 somewhere to add character.

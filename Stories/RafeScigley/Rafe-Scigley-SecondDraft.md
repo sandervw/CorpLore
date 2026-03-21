@@ -143,7 +143,7 @@ A set of double doors waited at the aisle's terminus. Their frosted-glass transo
 
 When the doors of tall double bronze behind the ebony receiving counter opened - opened of their own accord, no muscle having applied to them any force - the creature that entered through them did not step with any brisk secretarial gait - did not walk at all in fact, but rather, hovered above the polished tile.
 
-The aychar was a swollen mass of malformed bureaucratic tissues, limbs, and organs suspended at desk-height, bulging lips perpetually parted, a distended throat that rippled when it spoke. Its eyes were two filled-in checkboxes, perfect black squares pressed into the doughy expanse of its face.
+The Aychar was a swollen mass of malformed bureaucratic tissues, limbs, and organs suspended at desk-height, bulging lips perpetually parted, a distended throat that rippled when it spoke. Its eyes were two filled-in checkboxes, perfect black squares pressed into the doughy expanse of its face.
 
 "Mr. Scigley," it said. The voice was warm and procedural. "You are late."
 

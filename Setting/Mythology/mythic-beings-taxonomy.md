@@ -26,7 +26,7 @@ The general population. Office workers, hotel clerks, gas station attendants, co
 
 *Hags / witches.* Old demons, so embedded in the system they have become its infrastructure. They know where the bodies are filed, which contracts have loopholes, which hallways lead nowhere on purpose. Sit in offices no one remembers assigning, behind desks stacked with paperwork from decades that do not add up. Their magic is institutional: they do not cast spells, they invoke precedent.
 
-### The AyChar
+### The Aychar
 
 *HR: a Kakodemon.* Most feared high-corruption demon. A floating mass of swollen bureaucratic flesh: bulging lips, distended throat, eyes like filled-in checkboxes. Drifts through HR corridors, doors opening before it arrives. Pure evil wearing the mask of procedure.
 
@@ -84,7 +84,7 @@ The most bitter undead. They know what was taken and by whom. Can see the door t
 
 *Skeletons.* Dissolving a department requires signatures from department head, floor manager, and regional overseer. If those demons are dead, paperwork stalls. If all are dead, it enters an infinite loop: dead demons requiring dead demons' signatures to confirm the death of the department employing the dead demons.
 
-Result: the department persists on paper. Employees remain contractually obligated. Flesh rots, muscle falls, bones remain. Bone is the last thing a contract releases. Found on forgotten floors: sub-basements, mezzanines between mezzanines, the 14th floor of 13-story buildings. Lights flicker on at 8 AM. Keyboards clatter at dark monitors. Not hostile unless you attempt to dissolve their department, at which point they defend it with the ferocity of beings whose existence depends on a bureaucratic technicality.
+Result: the department persists on paper. Employees remain contractually obligated. Flesh rots, muscle falls, bones remain. Bone is the last thing a contract releases. Found on forgotten floors: sub-basements, mezzanines between mezzanines, the 14th floor of 13-story buildings. Lights flicker on at 8 AM. Keyboards clatter at dark monitors. Not hostile unless you attempt to disrupt their routine, at which point they defend it with the violence.
 
 ### The Severanced
 
