@@ -1,6 +1,6 @@
 ---
 name: literary-revision
-description: Revise, rewrite, or redo prose in specific literary styles. Use when user asks to revise text in Howard, Thorogood, Peake, Conan, Eddison, or archaic style. Also use for any request to rewrite with a particular tone or aesthetic.
+description: Revise, rewrite, or redo prose in specific literary styles. Use when user asks to revise text in Howard, Peake, Conan, Eddison, or archaic style. Also use for any request to rewrite with a particular tone or aesthetic.
 ---
 
 # Literary Revision
@@ -19,15 +19,13 @@ Revise user-provided prose into a specific literary style while preserving core 
 
 | Style         | Voice                                    | Use Case                                      | Reference            |
 | ------------- | ---------------------------------------- | --------------------------------------------- | -------------------- |
-| **Thorogood** | Bar-band storyteller, 2nd person, bluesy | Punchy, rhythmic retellings with attitude     | [thorogood-style.md] |
 | **Peake**     | Slow gothic camera, animate inanimate    | Dense atmospheric description, uncanny mood   | [peake-style.md]     |
 | **Howard**    | Pulp heroic, elevated diction            | Dramatic adventure prose, visceral action     | [howard-style.md]    |
 | **Eddison**   | Archaic diction, inverted syntax         | Elevated courtly prose, high fantasy gravitas | [eddison-style.md]   |
 
 ## Style Selection
 
-- User says "Thorogood," "bluesy," "bar story," "roadhouse" → Load thorogood-style.md
-- User says "Peake," "gothic," "Gormenghast," "atmospheric" → Load peake-style.md  
+- User says "Peake," "gothic," "Gormenghast," "atmospheric" → Load peake-style.md
 - User says "Howard," "Conan," "pulp," "heroic fantasy" → Load howard-style.md
 - User says "Eddison," "Shakespearean," "Mallory," "archaic," "courtly" → Load eddison-style.md
 - Ambiguous request → Ask user to specify style

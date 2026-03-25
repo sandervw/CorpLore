@@ -6,7 +6,7 @@ Generate a list of significant quotes or statements made by a character. Focus e
 
 **ALL QUOTES MUST BE VERBATIM FROM THE SOURCE**.
 
-**Search queries (run 3-4, harvest quotes from result snippets):**
+**Search queries:**
 - `"[character]" "[work title]" quotes`
 - `"[character]" said site:fandom.com`
 - `"[character]" [work] dialogue transcript`

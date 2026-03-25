@@ -1,4 +1,4 @@
-# Thorogood Style
+# Thorogood Voice
 
 Bar-band storyteller voice. Think guy at a dive bar telling you a story over a 12-bar blues riff.
 
