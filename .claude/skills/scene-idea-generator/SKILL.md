@@ -19,7 +19,7 @@ Read `references/element-combination.md`.
 
 Use your full list of generated combinations in the next step.
 
-### Step 2: Bisociation -- Finding Friction
+### Step 2: Bisociation - Finding Friction
 
 Read `references/bisociation.md`.
 

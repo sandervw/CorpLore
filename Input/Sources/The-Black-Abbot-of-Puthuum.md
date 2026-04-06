@@ -6,7 +6,7 @@
 > And rosy love put off its maidenhood:  
 > By blackening moons, in lands without a name,  
 > We slew the Incubus and all his brood.  
->      -- Song of King Hoaraph's Bowmen
+>      - Song of King Hoaraph's Bowmen
 
 Zobal the archer and Cushara the pikebearer had poured many a libation to their friendship in the sanguine liquors of Yoros and the blood of the kingdom's enemies. In that long and lusty amity, broken only by such passing quarrels as concerned the division of a wine-skin or the apportioning of a wench, they had served amid the soldiery of King Hoaraph for a strenuous decade. Savage warfare and wild, fantastic hazard had been their lot. The renown of their valor had drawn upon them, ultimately, the honor of Hoaraph's attention, and he had assigned them for duty among the picked warriors that guarded his palace in Faraad. And sometimes the twain were sent together on such missions as required no common hardihood and no disputable fealty to the king.
 

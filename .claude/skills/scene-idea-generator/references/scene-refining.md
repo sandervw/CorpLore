@@ -1,4 +1,4 @@
-# Scene Refining -- Four Questions
+# Scene Refining - Four Questions
 
 For each scene candidate, answer these four questions. Each answer should be 1 sentence, 10-15 words.
 
@@ -26,7 +26,7 @@ This is the moment a reader would remember - the image that would appear on the 
 
 **Ask:** What are the characters physically doing? Where are their bodies going?
 
-Characters must never be still -- there is always physical motion within a scene. This can be travel, labor, combat, ritual, or gestures, but bodies must be in motion. Movement reveals character and drives pacing.
+Characters must never be still - there is always physical motion within a scene. This can be travel, labor, combat, ritual, or gestures, but bodies must be in motion. Movement reveals character and drives pacing.
 
 ## Guidelines
 

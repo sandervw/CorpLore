@@ -4,7 +4,7 @@
 
 For each input element, ask: **What makes this thing inherently interesting, strange, or tense?**
 
-Note which element leans toward "character/agent" and which toward "setting/situation", but allow traits to override this during collision -- these are soft suggestions, not constraints.
+Note which element leans toward "character/agent" and which toward "setting/situation", but allow traits to override this during collision - these are soft suggestions, not constraints.
 
 **Good traits** are:
 - Concrete and specific
