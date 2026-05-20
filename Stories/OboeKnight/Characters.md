@@ -2,9 +2,10 @@
 
 ## Igon (Protagonist)
 
-**Name:** Igon ("the Oboe Knight") of Ald Soad
+**Name:** Igon ("the Oboe Knight") of Allsode
+*(Allsode: a defunct gas station franchise)*
 
-**Summary:** A wind-worshipping pilgrim-knight. He descends into an ancestral tohmb, drawn in search of a "beautiful, haunting, swan-like song of an oboe, which he heard on the wind as a child." He has obsessed over this song his whole life - finding it is his driving force, his reason for existence. Within his soul, he carries his own "personal song", a kind of vibrancy or animating force, seperate from necromancy or any faith in the Necromancer-Gods: it is not magic, it is more like 'Luck', an unquantifiable inner music that gives him power.
+**Summary:** A demon pilgrim-knight. He descends into a sealed sub-basement, drawn in search of a "beautiful, haunting, swan-like song of an oboe, which he heard on hold music as a child." He has obsessed over this song his whole life - finding it is his driving force, his reason for existence. Within his soul, he carries his own "personal song", a kind of vibrancy or animating force, separate from electric magic or any faith in the four demon cults: it is not magic, it is more like 'Luck', an unquantifiable inner music that gives him power.
 
 **Values:** Cooperation, faith, joy in struggle, self-reliance
 
@@ -15,7 +16,7 @@
 **Strength:** Passionate, strong
 
 **Description:**
-- symbolic_animal: Albatross - endless, untiring following of the wind
+- symbolic_animal: Albatross - endless, untiring following of the hold music
 - gender: Male
 - rough_age: Mature Adult
 - height: taller than average
@@ -28,7 +29,7 @@
     - Clothing: Scuffed Iron plate armor over chain mail; tabard or surcoat bearing hand-painted oboe
     - Weapons: Blue Glass Claymore
     - Headwear: Iron full-face helm with slitted visor; silver-feather plume
-    - Other: A 'Hip Light', a glowbug lantern, worn at the hip
+    - Other: A 'Hip Light', a battery lantern, worn at the hip
 
 ## Guilliam (Antagonist)
 
