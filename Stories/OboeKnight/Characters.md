@@ -27,7 +27,7 @@
 - sound: Clink and rattle of iron plate and chain mail
 - equipment:
     - Clothing: Scuffed Iron plate armor over chain mail; tabard or surcoat bearing hand-painted oboe
-    - Weapons: Blue Glass Claymore
+    - Weapons: Blue Brass (stair rail) Baluster
     - Headwear: Iron full-face helm with slitted visor; silver-feather plume
     - Other: A 'Hip Light', a battery lantern, worn at the hip
 
