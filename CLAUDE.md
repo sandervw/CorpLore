@@ -41,6 +41,7 @@ Setting documents are organized hierarchically:
 
 When generating or editing setting/story content:
 
+- There is no pre-corporate era; the corporate world has always existed. "Old" or "defunct" things are older companies/franchises, not a prior age.
 - Geography is only four elements: Corporate Offices, Hotels, Gas Stations, and the Daily Commute (highways). No nature, no cities, no houses. Just endless, antediluvian infrastructure. Stairwells climb in labyrinthine clusters thousands of meters high, to the rime-capped roof access, gleaming white in the stark upper light; hotel pools form wave-capped salt seas; restrooms revert to caustic, fetid swamps.
 - Killing is commonplace, called "abrupt termination." No guns; etiquette demands a justification, however nonsensical, for one's weapon. Weighted canes, serrated butter knives, iron chair legs, well-forged box cutters, sledgehammers, rusted rebar, grave-shovels. Demons carry these openly, holstered on gem-studded lanyards or belted at the hipbone.
 - All humans in-universe are "demons" - use "demon" or "she-demon"

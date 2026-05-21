@@ -7,7 +7,9 @@
       "Bash(python:*)",
       "Bash(node:*)",
       "Bash(cd:*)",
-      "Bash(rm:*)"
+      "Bash(rm:*)",
+      "PowerShell($content = Get-Content -Raw \"C:\\\\Users\\\\Sander\\\\OneDrive\\\\Documents\\\\Github\\\\Notes\\\\CorpLore\\\\Stories\\\\OboeKnight\\\\Characters.md\"; $start = $content.IndexOf\\(\"## Guilliam\"\\); $section = $content.Substring\\($start\\); Write-Output \"Length: $\\($section.Length\\)\")",
+      "Bash(git *)"
     ]
   }
 }
