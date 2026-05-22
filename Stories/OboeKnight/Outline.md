@@ -40,13 +40,13 @@
   - treat baskets hold various dessicated goods - one has shriveled stones that were dried muffins
 - Beside one of the shrines stands a "Worm Locker" (setting name for an upright, hollow, glass-fronted display-cabinet, for storing/preserving an employee)
 - A skeletal figure is pinned upright inside, wearing an ancient, ragged business-casual shirt/slacks, with a portable bluetooth speaker/reciever pinned to his chest
-- As Igon approaches, the portable speaker emitting one perfect sustained note (there is something familiar in the melody, but the knight doesn't realize it's his own song)
+- As Igon approaches, the portable speaker emits one perfect sustained note - tinny, synthetic (there is something familiar in the melody, but the knight doesn't realize it's his own song)
 - The knight presses ear to the worm locker's glass front, humming in tune with the note
 - Then the corpse in the locker awakens, and the fax-machine speaks to Igon in a tinny music voice
 - The corpse attacks
   - Brief but *specific* description of violence
 	- *Excrutiating detail*: what specific maneuvers does Igon use, what specific movements for Igon and the corpse, how specifically is the body affected?
-- Igon destroys corpse, still not sure what he's up against
+- Igon destroys corpse, still not understanding the nature of his foe; he does not yet know what the bluetooth speaker does
 
 ### Scene 3:
 

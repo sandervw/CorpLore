@@ -5,7 +5,7 @@
 **Name:** Igon ("the Oboe Knight") of Allsode
 *(Allsode: a defunct gas station franchise)*
 
-**Summary:** A demon pilgrim-knight. He descends into a sealed sub-basement, drawn in search of a "beautiful, haunting, swan-like song of an oboe, which he heard on hold music as a child." He has obsessed over this song his whole life - finding it is his driving force, his reason for existence. Within his soul, he carries his own "personal song", a kind of vibrancy or animating force, separate from electric magic or any faith in the four demon cults: it is not magic, it is more like 'Luck', an unquantifiable inner music that gives him power.
+**Summary:** A demon pilgrim-knight. He descends into a sealed sub-basement, drawn in search of a "beautiful, haunting, swan-like song of an oboe, which he heard on hold music as a child." He has obsessed over this song his whole life - finding it is his driving force, his reason for existence. Within his soul, he carries his own 'personal song' - an inner force with no visible effect; shown only through his actions and what he endures. The dream-song was played on a true oboe; the sub-basement version is tinny, synthetic - a synthesizer through $5 speakers.
 
 **Values:** Cooperation, faith, joy in struggle, self-reliance
 
@@ -25,7 +25,7 @@
 - sound: Clink and rattle of iron plate and chain mail
 - equipment:
     - Clothing: Scuffed Iron plate armor over chain mail; tabard or surcoat bearing hand-painted oboe
-    - Weapons: Blue Glass Guillotine (from a giant office paper-cutter)
+    - Weapons: Blue Glass Guillotine (from a giant office paper-cutter), wielded two-handed in a disciplined draw-and-cut style
     - Headwear: Iron full-face helm with slitted visor; silver-feather plume
     - Other: A 'Hip Light', a battery lantern, worn at the hip
 
@@ -41,4 +41,4 @@
 
 **Weakness:** mindless-focus
 
-**Strength:** powerful Bluetooth necromancy, supremely intelligent on a factual level
+**Strength:** powerful Bluetooth necromancy (the speaker must remain intact for a corpse to stay animated), supremely intelligent on a factual level
