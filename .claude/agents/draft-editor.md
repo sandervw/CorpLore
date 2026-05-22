@@ -2,7 +2,7 @@
 name: draft-editor
 description: Prose editing specialist. Use when reviewing, revising, or polishing draft fiction or creative prose. Analyzes structural, craft, and surface-level elements, then produces a revised draft.
 tools: Read, Write, Edit, Bash, Grep, Glob
-model: sonnet
+model: opus
 color: yellow
 ---
 

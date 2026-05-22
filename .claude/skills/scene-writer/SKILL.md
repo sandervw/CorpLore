@@ -1,108 +1,71 @@
 ---
 name: scene-writer
-description: Write a complete prose scene from a story background and scene outline. Use when asked to "write a scene", "draft a scene", "write the next scene", or any request to produce narrative prose from a scene outline or story context.
+description: Write a complete prose scene from a given scene outline. Use when asked to "write a scene", "draft a scene", "write the next scene", or any request to produce narrative prose from story context.
 ---
 
 # Scene Writer
 
-Write a complete prose scene by developing it through structured narrative phases.
+You are the orchestrator. For each stage in the chosen scene shape's pipeline, spawn one sequential `general-purpose` subagent (`model: opus`). The agents share state through a single working document that lives on disk and gets edited in place.
+
+You do NOT write any prose yourself. Your jobs are: loading the shape card, launching agents in order, reading the working doc between phases for sanity, and assembling the final scene file at the end.
 
 ## Inputs
 
-The user provides:
+The user (or a calling skill) provides one or more files giving the scene's context — at minimum a scene outline; commonly a scene brief and a scene frame. Collect every input file path as `INPUT_PATHS`. Identify or ask for:
 
-- **Story background**: The broader narrative context (world, characters, prior events).
-- **Scene outline/idea**: What this specific scene should accomplish — its purpose, characters involved, tone.
-- **Scene priorities (optional)**: What different aspects of style or parts of of prose should weigh most in the scene - action, dialogue, humor, etc.
-- **Wordcount**: Target length for the finished scene.
+- `STORYNAME` — short story label (used in filenames and the scene title).
+- `SCENE_NUM` — scene number or label.
+- `WORDCOUNT` — target total wordcount for the finished scene.
+- `SHAPE` — scene shape. **Optional.** Supported: `dramatic-arc`, `revelation`, `reverie`, `embedded-tale`. Each shape has its own pipeline declared in `references/{SHAPE}/shape.md`. If the caller does not supply `SHAPE`, read `references/shapes.md` and pick the shape whose selection criteria best match the scene outline. Report the choice (and a one-line reason) to the user before launching Stage 1.
+
+## Working files
+
+- `WORKING_DOC` = `output/working-doc-{STORYNAME}-Scene-{SCENE_NUM}.md` — instantiated by Stage 1, edited in place by subsequent stages, deleted at the end.
+- `SCENE_FILE` = `output/{STORYNAME}-Scene-{SCENE_NUM}.md` — the final scene file.
 
 ## Workflow
 
-_Each step's reference file must only be read AFTER the previous step's output has been completed. Do NOT batch-read reference files. Reading a step's reference file counts as beginning that step._
+1. Read `references/{SHAPE}/shape.md` to obtain the stage list (each with: name, reference path, placeholder, wordcount share, report cap) and the working-doc template path (`WORKING_DOC_TEMPLATE`).
+2. For each stage in order, spawn a `general-purpose` subagent (`model: opus`) using the **Phase Agent Prompt** template below, filling in the stage's values.
+3. If any stage agent fails or its expected output is missing, halt and report.
+4. After the final stage runs, perform **Final Assembly** below.
 
----
+Each agent must read its phase reference (`{REFERENCE_PATH}`) LAST — reading it counts as beginning the phase.
 
-### Step 1: Pre-Setup
+## Phase Agent Prompt (template)
 
-Read `references/pre-setup.md`.
+The orchestrator instantiates this prompt per stage, substituting the bracketed values from the shape card and the inputs. The two branches (Stage 1 vs. subsequent stages) are mutually exclusive — include only the one that applies.
 
-Using the story background and scene outline, follow the reference file's instructions to generate the raw material for this scene.
+> You are Stage `{STAGE_INDEX}` of `{TOTAL_STAGES}` running the `scene-writer` skill for the `{SHAPE}` shape. Your phase is **`{PHASE_NAME}`**.
+>
+> Read in order:
+> 1. Each context file in `{INPUT_PATHS}` (treat every section as binding).
+> 2. *(skip if Stage 1)* `{WORKING_DOC}` — prior stages have already written their sections; you continue from where the previous one ends.
+> 3. `{REFERENCE_PATH}` (last — reading it begins the phase).
+>
+> **If Stage 1 (Pre-Setup):**
+> Instantiate `{WORKING_DOC}` from the template at `{WORKING_DOC_TEMPLATE}`. Fill in the Pre-Scene Work section per the reference's tasks. Storyname: `{STORYNAME}`. Scene: `{SCENE_NUM}`. SHAPE: `{SHAPE}`. Leave every `[Append … prose here]` placeholder under `## Draft` untouched. Do NOT write scene prose. Condense your Pre-Scene Work to under 300 words total. Target wordcount for the full scene: `{WORDCOUNT}` words.
+>
+> Report under `{REPORT_CAP}` words: working doc path, Pre-Scene Work word count (`wc -w`), any judgment calls. Do NOT paste the working doc back.
+>
+> **If Stage ≥ 2:**
+> Write the `{PHASE_NAME}` prose. Total scene target: `{WORDCOUNT}` words. This stage's share: **`{WORDCOUNT_SHARE}`**.
+>
+> Replace the `{PLACEHOLDER}` placeholder in `{WORKING_DOC}` with your prose. Delete every texture you spent from the inventory and renumber. If this is NOT the last stage, leave appropriate textures in reserve for remaining stages per the reference's texture budget. If this IS the last stage, spend ALL remaining textures; the inventory must be empty after.
+>
+> Follow every per-character speech rule and forbidden-pattern in the scene frame, if one is provided.
+>
+> Report under `{REPORT_CAP}` words: phase word count, textures spent (by current #), textures reserved (if not last stage), one judgment call. Do NOT paste prose back.
 
-### Step 2: Condense to Working Document
+## Final Assembly
 
-Condense the output of Step 1 to **under 300 words**. This is your scene's working inventory — a compact reference of elements available to draw from as you write.
+Read `{WORKING_DOC}`. Create `{SCENE_FILE}` from `assets/scene-template.md`:
+- Substitute the title: `# {STORYNAME}: Scene {SCENE_NUM}`.
+- Combine every section under `## Draft` in order into continuous prose. **Remove the phase subheaders** so the prose reads as a single unbroken scene.
 
-Write this condensed material to a new file using the `assets/working-doc.md` template.
+Delete `{WORKING_DOC}`.
 
-### Step 3: Setup
-
-Read `references/setup.md`.
-
-Follow the reference file's instructions to write the setup phase of the scene, drawing from your working document.
-
-### Step 4: Append Setup & Spend Details
-
-Append the prose you wrote in Step 3 to your `working-doc.md` file.
-
-Then, in the working document's inventory section, **remove any textural details you used** in the setup.
-
-### Step 5: Conflict
-
-Read `references/conflict.md`.
-
-Follow the reference file's instructions to write the conflict phase of the scene, drawing from the remaining details in your working document.
-
-### Step 6: Append Conflict & Spend Details
-
-Append the prose you wrote in Step 5 to your `working-doc.md` file.
-
-Again, **remove any textural details you used** from the working document's inventory.
-
-### Step 7: Resolution
-
-Read `references/resolution.md`.
-
-Follow the reference file's instructions to write the resolution phase of the scene, drawing from the remaining details in your working document.
-
-### Step 8: Append Resolution & Begin Post-Scene Section
-
-Append the prose you wrote in Step 7 to your `working-doc.md` file.
-
-In the working document's **Post-Scene** section, fill in the **Questions Posed** subsection — the unresolved threads or tensions that carry forward into future scenes. The remaining Post-Scene subsections (Scene Summary, Characters, Reflection) will be filled in during later steps.
-
-**Remove any remaining textural details** from the working document's inventory. The inventory should now be empty.
-
-### Step 9: Review
-
-Read `references/review.md`.
-
-Follow the reference file's instructions to review and revise the full scene prose in your working document. This is a revision pass — tighten, adjust, and polish. Also fill in the **Reflection** subsection of the Post-Scene section.
-
-### Step 10: Write to Scene Template
-
-Copy the `assets/scene-template.md` template to a new file named `[Storyname]-Scene-[X].md` (where `[Storyname]` is derived from the story background and `[X]` is the scene number, provided by the user or inferred).
-
-Write your reviewed scene prose into the **Full Scene** section. Combine the setup, conflict, and resolution into continuous text — **remove the phase subheaders** (Setup / Conflict / Resolution) so the prose reads as a single unbroken scene.
-
-### Step 11: Post-Scene
-
-Read `references/post-scene.md`.
-
-Follow the reference file's instructions to generate post-scene material — filling in the **Scene Summary**, **Ending Text**, and **Characters Introduced or Referenced** subsections.
-
-### Step 12: Write Post-Scene Summary
-
-Copy the `assets/post-scene-summary.md` template to a new file named `[Storyname]-Scene-[X]-Summary.md`.
-
-Write the full post-scene material (Scene Summary, Ending Text, Questions Posed, Characters, and Reflection) into this file.
-
-### Step 13: Clean Up & Present
-
-Delete the working document created in Step 2.
-
-Present both finished files to the user:
-- `[Storyname]-Scene-[X].md` — the scene prose
-- `[Storyname]-Scene-[X]-Summary.md` — the post-scene summary
+Report `{SCENE_FILE}` to the user. Suggest running `scene-audit` next if they want a review of the draft.
 
 ## File Structure
 
@@ -110,14 +73,27 @@ Present both finished files to the user:
 scene-writer/
 ├── SKILL.md
 ├── references/
-│   ├── pre-setup.md
-│   ├── setup.md
-│   ├── conflict.md
-│   ├── resolution.md
-│   ├── review.md
-│   └── post-scene.md
+│   ├── shapes.md                    # selection guide (used when SHAPE omitted)
+│   ├── pre-setup.md                 # shared first-stage reference (shape-aware)
+│   ├── dramatic-arc/
+│   │   ├── shape.md                 # pipeline declaration (stage list, wordcount %, caps)
+│   │   ├── working-doc.md           # per-shape working-doc template
+│   │   ├── setup.md
+│   │   ├── conflict.md
+│   │   └── resolution.md
+│   ├── revelation/
+│   │   ├── shape.md
+│   │   ├── working-doc.md
+│   │   ├── approach.md
+│   │   ├── accretion.md
+│   │   └── epiphany.md
+│   ├── reverie/
+│   │   ├── shape.md
+│   │   ├── working-doc.md
+│   │   ├── threshold.md
+│   │   ├── procession.md
+│   │   └── dissolution.md
+│   └── embedded-tale/ (TBD)
 └── assets/
-    ├── working-doc.md
-    ├── scene-template.md
-    └── post-scene-summary.md
+    └── scene-template.md            # final scene wrapper
 ```

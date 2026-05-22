@@ -4,7 +4,17 @@ This is the groundwork phase. Before writing any prose, you need to understand w
 
 Work through each of the following tasks using the user's **story background**, **scene outline**, and optional **scene priorities** as your source material. Keep the user's **target wordcount** in mind throughout.
 
+The orchestrator passes a `{SHAPE}` parameter naming the scene shape (e.g. `dramatic-arc`, `revelation`, `reverie`, `embedded-tale`). Most tasks below are universal; Tasks 0 and 2 have shape-specific guidance noted inline.
+
 ## Tasks
+
+### 0. Scene Type
+
+Decide whether this is an **establishing scene** or a **continuation scene**:
+- **Establishing**: new location, new time-jump, new POV, or first appearance of a major character.
+- **Continuation**: same location and time as the prior scene, no major new characters, picking up mid-stride. Do not re-orient the reader to a setting they were just in.
+
+State which type this scene is. The shape's first downstream stage owns the wordcount swing on this distinction — your job here is just to declare the type.
 
 ### 1. Scene Purpose
 
@@ -15,9 +25,17 @@ Describe the purpose of this scene along two axes:
 
 ### 2. Textures
 
-List **8–12 textures** — these are magnified sensory details, minute specifics, and concrete physical particulars that you will weave into the prose as you write.
+List **5-8 textures** for short scenes (under 700 words) or continuation scenes; **8-12 textures** for establishing scenes 700+ words.
 
-These textures are your inventory. You will spend them across the setup, conflict, and resolution phases. Once used in prose, they get crossed off.
+Do not list a texture if its sensory content has been depicted in prior scenes. **Textures are magnified sensory details, minute specifics, and concrete physical particulars that you will weave into the prose as you write.**
+
+These textures are your inventory. You will spend them across the scene's downstream stages. Once used in prose, they get crossed off.
+
+**Texture flavor by shape:**
+- `dramatic-arc` — sensory specifics tied to physical or verbal action: weapons, terrain, gestures, vocal grain, traded objects, the texture of a held thing about to be used.
+- `revelation` — evidence-fragments: half-glimpsed objects, document phrases, overheard speech, contradictions between accounts. List fragments in the order they will be deployed, with the final fragment marked as the tipping element.
+- `reverie` — atmospheric textures: light quality, ambient sound, weather, color, scent, slow movement, the texture of surfaces and air.
+- `embedded-tale` — split into **two inventories**: a smaller frame-scene inventory (the listener's setting and body) and a larger inner-tale inventory (the events being recounted). List them separately under sub-headers.
 
 ### 3. Characters
 

@@ -2,7 +2,7 @@
 
 ## Manual
 
-Add line ot Guilliam somewhere: "By giving answer to my grave's unspoken evocation, you have fallen into the trap of my black magic."
+Add line to Guilliam somewhere: "By giving answer to my grave's unspoken evocation, you have fallen into the trap of my black magic."
 
 Add early line to Igon, something about 'he came here to find his song. he means to accompany it, not let it play alone in a dream until it dwindles.'
 
