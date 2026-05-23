@@ -20,7 +20,6 @@ Great, all I want you to do is search through the stories for examples of self-c
 - Characters: @Stories\OboeKnight\Characters.md
 - Prior Scene: None
 - Scene Number: 1 (the first scene)
-- Scene Shape: Your Pick
 **Note** - some cards are already defined in @output/ . Can you pass those to the second agent, so that it uses those cards for those characters?
 Also, I'd like to run this in **interactive** mode.
 Any questions?
