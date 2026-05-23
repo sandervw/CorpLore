@@ -34,10 +34,6 @@ When generating or editing setting/story content:
 - Four demon cults by fiscal quarter: January Financials (Q1), The Moth and the Flame (Q2), Dogmommies (Q3), Q4H (Q4)
 - Tone is dark, mythopoeic, treating mundane corporate/hospitality objects as sacred. Sprinkle 1-3 word mythic or violent modifiers onto ordinary nouns: "antediluvian corkboard," "gem-studded lanyard," "notch-bladed letter opener." Weapons, objects, and architecture should feel old, as if they came from an ancient empire's treasure vault, even when they are just office supplies.
 
-## Agents (.claude/agents/)
+## Agents and Skills (.claude/agents/ and .claude/skills/)
 
-- TODO
-
-## Skills (.claude/skills/)
-
-- TODO
+**All agents and skills are project-level.** Do not try to use personal/user-level skills or agents.
