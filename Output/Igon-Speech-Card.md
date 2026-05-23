@@ -1,8 +1,4 @@
-# Scene Frame — paladin-speech
-
-## Speech Rules
-
-### Paladin (Radiant Optimist)
+# Speech Rules — Igon
 
 - **Positive mode:** Warm exclamatory opener ("Ohh," / "Aha!") + greeting; self-deprecating "Hah!" after grandiosity or awkwardness.
 - **Register:** Slightly formal, old-fashioned, courtly-but-conversational. Sparing contractions.
