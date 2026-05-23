@@ -1,25 +1,25 @@
-Guyal said gravely, “We go in the mental frame of adventure, aggressiveness, zeal. Thus does fear vanish and the ghosts become creatures of mind-weft; thus does our élan burst the under-earth terror.”
+He stood on the bank of a limpid pool. Blue flowers grew about his ankles and at his back reared a grove of tall blue-green trees, the leaves blurring on high into mist. Was Embelyon of Earth? The trees were Earth-like, the flowers were of familiar form, the air was of the same texture … But there was an odd lack to this land and it was difficult to determine. Perhaps it came of the horizon’s curious vagueness, perhaps from the blurring quality of the air, lucent and uncertain as water. Most strange, however, was the sky, a mesh of vast ripples and cross-ripples, and these refracted a thousand shafts of colored light, rays which in mid-air wove wondrous lace, rainbow nets, in all the jewel hues. So as Turjan watched, there swept over him beams of claret, topaz, rich violet, radiant green. He now perceived that the colors of the flowers and the trees were but fleeting functions of the sky, for now the flowers were of salmon tint, and the trees a dreaming purple. The flowers deepened to copper, then with a suffusion of crimson, warmed through maroon to scarlet, and the trees had become sea-blue.
 
-“We go.”
+“The Land None Knows Where,” said Turjan to himself. “Have I been brought high, low, into a pre-existence or into the after-world?” He looked toward the horizon and thought to see a black curtain raising high into the murk, and this curtain encircled the land in all directions.
 
-They started down the stairs.
+The sound of galloping hooves approached; he turned to find a black horse lunging break-neck along the bank of the pool. The rider was a young woman with black hair streaming wildly. She wore loose white breeches to the knee and a yellow cape flapping in the wind. One hand clutched the reins, the other flourished a sword.
 
-Back, forth, back, forth, down flights at varying angles, stages of varying heights, treads at varying widths, so that each step was a matter for concentration. Back, forth, down, down, down, and the black-barred shadows moved and jerked in bizarre modes on the walls.
+Turjan warily stepped aside, for her mouth was tight and white as if in anger, and her eyes glowed with a peculiar frenzy. The woman hauled back on the reins, wheeled her horse high around, charged Turjan, and struck out at him with her sword.
 
-The flight ended, they stood in a room similar to the entry above. Before them was another black portal, polished at one spot by use; on the walls to either side were inset brass plaques bearing messages in unfamiliar characters.
+Turjan jumped back and whipped free his own blade. When she lunged at him again, he fended off the blow and leaning forward, touched the point to her arm and brought a drop of blood. She drew back startled; then up from her saddle she snatched a bow and flicked an arrow to the string. Turjan sprang forward, dodging the wild sweep of the sword, seized her around the waist, and dragged her to the ground.
 
-Guyal pushed the door open against a slight pressure of cold air, which, blowing through the aperture, made a slight rush, ceasing when Guyal opened the door farther.
+She fought with a crazy violence. He had no wish to kill her, and so struggled in a manner not entirely dignified. Finally he held her helpless, her arms pinioned behind her back.
 
-“Listen.”
+“Quiet, vixen!” said Turjan, “lest I lose patience and stun you!”
 
-It was a far sound, an intermittent clacking, and it held enough fell significance to raise the hairs at Guyal’s neck. He felt Shierl’s hand gripping his with clammy pressure.
+“Do as you please,” the girl gasped. “Life and death are brothers.”
 
-Dimming the dagger’s glow to a glimmer, Guyal passed through the door, with Shierl coming after. From afar came the evil sound, and by the echoes they knew they stood in a great hall.
+“Why do you seek to harm me?” demanded Turjan. “I have given you no offense.”
 
-Guyal directed the light to the floor: it was of a black resilient material. Next the wall: polished stone. He permitted the light to glow in the direction opposite to the sound, and a few paces distant they saw a bulky black case, studded with copper bosses, topped by a shallow glass tray in which could be seen an intricate concourse of metal devices.
+“You are evil, like all existence.” Emotion ground the delicate fibers of her throat. “If power were mine, I would crush the universe to bloody gravel, and stamp it into the ultimate muck.”
 
-With the purpose of the black cases not apparent, they followed the wall, and as they walked similar cases appeared, looming heavy and dull, at regular intervals. The clacking receded as they walked; then they came to a right angle, and turning the corner, they seemed to approach the sound. Black case after black case passed; slowly, tense as foxes, they walked, eyes groping for sight through the darkness.
+Turjan in surprise relaxed his grip, and she nearly broke loose. But he caught her again.
 
-The wall made another angle, and here there was a door.
+“Tell me, where may I find Pandelume?”
 
-Guyal hesitated. To follow the new direction of the wall would mean approaching the source of the sound. Would it be better to discover the worst quickly or to reconnoitre as they went?
+The girl stilled her exertion, twisted her head to stare at Turjan. Then: “Search all Embelyon. I will assist you not at all.”

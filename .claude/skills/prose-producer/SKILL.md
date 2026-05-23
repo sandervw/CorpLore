@@ -74,6 +74,8 @@ When scene-writer completes, capture the final scene file path as `SCENE_DRAFT_P
 
 Interactive-mode pause (if `INTERACTIVE = true`) happens BETWEEN phases.
 
+Reminder: if `INTERACTIVE = true`, **pause** before launching the next stage. The user can edit `SCENE_DRAFT_PATH` directly before responding.
+
 ## Stage 4 — Audit (sonnet)
 
 Launch a `general-purpose` subagent with `model: sonnet`. Prompt: `references/stage4-audit.md`.
