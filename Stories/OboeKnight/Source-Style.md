@@ -1,47 +1,27 @@
-Iucounu uttered a cry of laughter. “Sadlark also protects me, as you will see!” He threw aside his garments and with a quick movement inserted himself into the center of the matrix, so that his legs fitted into Sadlark’s motilators and his face showed behind the gap in the turret. The wires and scales contracted around his pudgy body; the scales fit him as if they were his own skin.
+The wall opened on a flight of steps. Ulan Dhor entered, and, with Elai breathing hard at his back, mounted the steps.
 
-Iucounu’s voice rang like a choir of brass horns: “Well then, Cugel: what do you think now?”
+They came out in a flood of daylight, under the dome itself. In the center on a pedestal sat a glistening round-topped cylinder, black and vitreous.
 
-Cugel stood gaping in wonder. At last he said: “Sadlark’s scales fit you remarkably well.”
+The whirring rose to a shrill whine. The cylinder quivered, softened, became barely transparent, slumped a trifle. In the center hung a pulpy white mass — a brain?
 
-“It is no accident, of this I am certain!”
+The cylinder was alive.
 
-“And why not?”
+It sprouted pseudopods which poised wavering in the air. Ulan Dhor and Elai watched frozen, close together. One black finger shaped itself to an eye, another formed a mouth. The eye inspected them carefully.
 
-“I am Sadlark’s avatar; I partake of his personal essence! This is my destiny, but before I can enjoy my full force, I must be whole! Without further quibbling you may fit ‘Spatterlight’ into place. Remember, Sadlark will no longer protect you against my magic, since it is his magic, as well.”
+The mouth said cheerfully, “Greetings across time, greetings. So you have come at last to rouse old Rogol Domedonfors from his dreams? I have dreamed long and well — but it seems for an unconscionable period. How long? Twenty years? Fifty years? Let me look.”
 
-A crawling sensation in Cugel’s glove indicated that Sadlark’s protonastic centrum ‘Spatterlight’ endorsed the remark. “So it must be,” said Cugel. He carefully detached the ornament from his cap and removed the diambroid. He held it in his hand a moment, then placed it against his forehead.
+The eye swung to a tube on the wall, a quarter full of gray powder.
 
-Iucounu cried out: “What are you doing?”
+The mouth gave a cry of wonder. “The energy has nearly dissipated! How long have I slept? With a half-life of 1,200 years — over five thousand years!” The eye swung back to Ulan Dhor and Elai. “Who are you then? Where are my bickering subjects, the adherents of Pansiu and Cazdal? Did they kill themselves then, so long ago?”
 
-“For the last time I am renewing my vitality. Often this scale has helped me through my trials.”
+“No,” said Ulan Dhor with a sick grin. “They are still fighting in the streets.”
 
-“Stop at once! I will be needing every iota of force for my own purposes. Hand it over!”
+The eye-tentacle extended swiftly, thrust through a window, and looked down over the city. The central jelly twitched, became suffused with an orange glow. The voice spoke again, and it held a terrible harshness. Ulan Dhor’s neck tingled and he felt Elai’s hand clenching deep into his arm.
 
-Cugel let the true scale slip into his gloved palm and concealed the false ornament. He spoke in a melancholy voice: “With pain I give up my treasure. May I for a final few moments hold it to my brow?”
+“Five thousand years!” cried the voice. “Five thousand years and the wretches still quarrel? Time has taught them no wisdom? Then stronger agencies must be used. Rogol Domedonfors will show them wisdom. Behold!”
 
-“By no means!” declared Iucounu. “I plan to put it to my own brow. Lay the scale on the work-bench, then stand back!”
+A vast sound came from below, a hundred sharp reports. Ulan Dhor and Elai hastened to the window and looked down. A mind-filling sight occupied the streets.
 
-“As you wish,” sighed Cugel. He placed ‘Spatterlight’ on the work-bench, then, taking his sword, walked mournfully from the room.
+The ten-foot vestibules leading below the city had snapped open. From each of these licked a great tentacle of black transparent jelly like the substance of the fluid roads.
 
-With a grunt of satisfaction, Iucounu applied the scale to his brow.
-
-Cugel went to stand by the fountain in the foyer, with one foot raised to the lip of the basin. In this position he listened gravely to the awful noises rising from Iucounu’s throat.
-
-Silence returned to the work-room.
-
-Several moments passed.
-
-A thudding clashing sound reached Cugel’s ears.
-
-Sadlark propelled himself by clumsy hops and jumps into the foyer, using his motilators in the manner of feet, with only fair success, so that he fell heavily from time to time, to wallow and roll with a great rattling of scales.
-
-Late afternoon light streamed through the door; Cugel made no move, hoping that Sadlark would blunder out into the open and return to the overworld.
-
-Sadlark came to a halt and spoke in a gasping voice. “Cugel! Where is Cugel? Each of the forces I have consumed, including eel and weasel, requests that they be joined by Cugel! Where are you? Cugel, announce yourself! I cannot see by this peculiar Earth-light, which explains why I plunged into the mire.”
-
-Cugel remained silent, scarcely daring to breathe. Sadlark slowly turned the red node of his sky-breaker around the foyer. “Ah, Cugel, there you are! Stand without motion!”
-
-Sadlark lurched forward. Disobeying the order, Cugel ran to the far side of the fountain. Angry at Cugel’s insubordination, Sadlark gave a great bound through the air. Cugel seized a basin, scooped up water and flung it upon Sadlark, who thereby misjudged his distance and fell flat into the fountain.
-
-The water hissed and bubbled as Sadlark’s force was spent. The scales fell apart and swirled idly about the bottom of the fountain.
+The tentacles reached into the air, sprouted a hundred branches which pursued the madly fleeing Ampridatvians, caught them, stripped away their robes of gray and green, then whipping them high through the air, dropped them into the great central square. In the chill morning air the populace of Ampridatvir stood mingled naked together and no man could distinguish Green from Gray.
