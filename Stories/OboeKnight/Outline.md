@@ -93,7 +93,8 @@
   - Extended, *specific* description of violence; describe the carnage; Igon battering/smashing through corpse after corpse, while the fax machine only sings louder and louder through its animated dead
   - *Excrutiating detail*: what specific maneuvers does Igon use, what are the specific movements for Igon and the risen dead, how many are their number, how are their bodies affected affected?
   - *Back-and-forth combat* the fight should have a back/forth, ups and downs - it should capture a mini-story-arc across the combat
-- All the while during the combat, the fax-machine's voice sings louder and louder with the knight's stolen hold music, through the bluetooth speaker-recievers
+- All the while during the combat, the fax-machine's voice speaks, taunting, studying, asking questions about hte outside world
+  - Louder and louder rings the knight's stolen hold music, through the bluetooth speaker-recievers
 - The scene cuts on Igon finally striking the last decisive blow
 
 ### Scene 6 (The Quiet Final Scene):
