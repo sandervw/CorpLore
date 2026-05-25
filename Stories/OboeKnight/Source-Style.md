@@ -1,47 +1,47 @@
-Iucounu uttered a cry of laughter. “Sadlark also protects me, as you will see!” He threw aside his garments and with a quick movement inserted himself into the center of the matrix, so that his legs fitted into Sadlark’s motilators and his face showed behind the gap in the turret. The wires and scales contracted around his pudgy body; the scales fit him as if they were his own skin.
+The cylinder was alive.
 
-Iucounu’s voice rang like a choir of brass horns: “Well then, Cugel: what do you think now?”
+It sprouted pseudopods which poised wavering in the air. Ulan Dhor and Elai watched frozen, close together. One black finger shaped itself to an eye, another formed a mouth. The eye inspected them carefully.
 
-Cugel stood gaping in wonder. At last he said: “Sadlark’s scales fit you remarkably well.”
+The mouth said cheerfully, “Greetings across time, greetings. So you have come at last to rouse old Rogol Domedonfors from his dreams? I have dreamed long and well — but it seems for an unconscionable period. How long? Twenty years? Fifty years? Let me look.”
 
-“It is no accident, of this I am certain!”
+The eye swung to a tube on the wall, a quarter full of gray powder.
 
-“And why not?”
+The mouth gave a cry of wonder. “The energy has nearly dissipated! How long have I slept? With a half-life of 1,200 years — over five thousand years!” The eye swung back to Ulan Dhor and Elai. “Who are you then? Where are my bickering subjects, the adherents of Pansiu and Cazdal? Did they kill themselves then, so long ago?”
 
-“I am Sadlark’s avatar; I partake of his personal essence! This is my destiny, but before I can enjoy my full force, I must be whole! Without further quibbling you may fit ‘Spatterlight’ into place. Remember, Sadlark will no longer protect you against my magic, since it is his magic, as well.”
+“No,” said Ulan Dhor with a sick grin. “They are still fighting in the streets.”
 
-A crawling sensation in Cugel’s glove indicated that Sadlark’s protonastic centrum ‘Spatterlight’ endorsed the remark. “So it must be,” said Cugel. He carefully detached the ornament from his cap and removed the diambroid. He held it in his hand a moment, then placed it against his forehead.
+The eye-tentacle extended swiftly, thrust through a window, and looked down over the city. The central jelly twitched, became suffused with an orange glow. The voice spoke again, and it held a terrible harshness. Ulan Dhor’s neck tingled and he felt Elai’s hand clenching deep into his arm.
 
-Iucounu cried out: “What are you doing?”
+“Five thousand years!” cried the voice. “Five thousand years and the wretches still quarrel? Time has taught them no wisdom? Then stronger agencies must be used. Rogol Domedonfors will show them wisdom. Behold!”
 
-“For the last time I am renewing my vitality. Often this scale has helped me through my trials.”
+A vast sound came from below, a hundred sharp reports. Ulan Dhor and Elai hastened to the window and looked down. A mind-filling sight occupied the streets.
 
-“Stop at once! I will be needing every iota of force for my own purposes. Hand it over!”
+The ten-foot vestibules leading below the city had snapped open. From each of these licked a great tentacle of black transparent jelly like the substance of the fluid roads.
 
-Cugel let the true scale slip into his gloved palm and concealed the false ornament. He spoke in a melancholy voice: “With pain I give up my treasure. May I for a final few moments hold it to my brow?”
+The tentacles reached into the air, sprouted a hundred branches which pursued the madly fleeing Ampridatvians, caught them, stripped away their robes of gray and green, then whipping them high through the air, dropped them into the great central square. In the chill morning air the populace of Ampridatvir stood mingled naked together and no man could distinguish Green from Gray.
 
-“By no means!” declared Iucounu. “I plan to put it to my own brow. Lay the scale on the work-bench, then stand back!”
+“Rogol Domedonfors has great long arms now,” cried a vast voice, “strong as the moon, all-seeing as the air.”
 
-“As you wish,” sighed Cugel. He placed ‘Spatterlight’ on the work-bench, then, taking his sword, walked mournfully from the room.
+The voice came from everywhere, nowhere.
 
-With a grunt of satisfaction, Iucounu applied the scale to his brow.
+“I am Rogol Domedonfors, the last ruler of Ampridatvir. And to this state have you descended? Dwellers in hovels, eaters of filth? Watch — in a moment I repair the neglect of five thousand years!”
 
-Cugel went to stand by the fountain in the foyer, with one foot raised to the lip of the basin. In this position he listened gravely to the awful noises rising from Iucounu’s throat.
+The tentacles sprouted a thousand appendages — hard horny cutters, nozzles that spouted blue flame, tremendous scoops, and each appendage sprouted an eye-stalk. These ranged the city, and wherever there was crumbling or mark of age the tentacles dug, tore, blasted, burnt; then spewed new materials into place, and when they passed, new and gleaming structures remained behind.
 
-Silence returned to the work-room.
+Many-armed tentacles gathered the litter of ages; when loaded they snapped high through the air, a monstrous catapult, flinging the rubbish far out over the sea. And wherever was gray paint or green paint a tentacle ground off the color, sprayed new various pigments.
 
-Several moments passed.
+Down every street ran the tremendous root-things and off-shoots plunged into every tower, every dwelling, every park and square — demolishing, stripping, building, clearing, repairing. Ampridatvir was gripped and permeated by Rogol Domedonfors as a tree’s roots clench the ground.
 
-A thudding clashing sound reached Cugel’s ears.
+In a time measured by breaths, a new Ampridatvir had replaced the ruins, a gleaming, glistening city — proud, intrepid, challenging the red sun.
 
-Sadlark propelled himself by clumsy hops and jumps into the foyer, using his motilators in the manner of feet, with only fair success, so that he fell heavily from time to time, to wallow and roll with a great rattling of scales.
+Ulan Dhor and Elai had watched in a half-conscious, uncomprehending daze. Was it possibly reality; was there such a being which could demolish a city and build it anew while a man watched?
 
-Late afternoon light streamed through the door; Cugel made no move, hoping that Sadlark would blunder out into the open and return to the overworld.
+Arms of black jelly darted over the hills of the island, threaded the caves where the Gauns lay gorged and torpid. It seized, snatched them through the air, and dangled them above the huddled Ampridatvians — a hundred Gauns on a hundred tentacles, horrible fruits on a weird tree.
 
-Sadlark came to a halt and spoke in a gasping voice. “Cugel! Where is Cugel? Each of the forces I have consumed, including eel and weasel, requests that they be joined by Cugel! Where are you? Cugel, announce yourself! I cannot see by this peculiar Earth-light, which explains why I plunged into the mire.”
+“Look!” boomed a voice, boastful and wild. “These whom you have feared! See how Rogol Domedonfors deals with these!”
 
-Cugel remained silent, scarcely daring to breathe. Sadlark slowly turned the red node of his sky-breaker around the foyer. “Ah, Cugel, there you are! Stand without motion!”
+The tentacles flicked, and a hundred Gauns hurtled — sprawling, wheeling shapes — high over Ampridatvir; and they fell far out in the sea.
 
-Sadlark lurched forward. Disobeying the order, Cugel ran to the far side of the fountain. Angry at Cugel’s insubordination, Sadlark gave a great bound through the air. Cugel seized a basin, scooped up water and flung it upon Sadlark, who thereby misjudged his distance and fell flat into the fountain.
+“The creature is mad,” whispered Ulan Dhor to Elai. “The long dreaming has addled its brain.”
 
-The water hissed and bubbled as Sadlark’s force was spent. The scales fell apart and swirled idly about the bottom of the fountain.
+“Behold the new Ampridatvir!” boomed the mighty voice. “See it for the first and last time. For now you die! You have proved unworthy of the past — unworthy to worship the new god Rogol Domedonfors. There are two here beside me who shall found the new race —”
