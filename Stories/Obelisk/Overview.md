@@ -30,6 +30,14 @@ the rest of the world has sealed off the office
 
 Demonkind is on the brink of destruction, or so the inhabitants of the obelisk think think
 
+### The Creatures Electric
+
+Various monsters, originating from floor 134 and down
+
+**Wheevils** - vermin; body and head like a mouse, but with two long, round-tipped ears extending back; half-a-man's height, standing on two long crane-like legs, with small arms tucked up against its chest; a mouth full of flat teeth; eats only exoskeletons, other carapace-like features, but has poor eyesight and mistakes clothed humans for prey; unthinkingly vicious in large packs
+
+**Mittens** - giant cats (these replace dragons in traditional fantasy)
+
 ## Characters
 
 Character like **Erwin Smith**
@@ -42,4 +50,4 @@ Character like **Erwin Smith**
 
 ## Other Ideas
 
-Giant cats (these replace dragons in traditional fantasy)
+Names inspired by "witchy latin song lyrics"? Think *Ghost*.
