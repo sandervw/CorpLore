@@ -44,9 +44,11 @@ Character like **Erwin Smith**
 - willing to abandon their own humanity, make the unspeakable decision, for the good of mankind
 - believes that mankind needs to be "hardened"
 
-**Jaspar:** villain based on **Hisoka**, **Lord Arioch** - loving, tender, and unimaginably cruel
+**Gneiss ("nice"):** villain based on **Hisoka**, **Lord Arioch** - loving, tender, and unimaginably cruel
+- *His expression is fixed in a glassy stare that suggests a quiet insanity*
 
-**Withazz** a sorcerous engineer, wears a heavy, iridescent cloak hooded coat of gold (think a Morrowing Telvanni Wizard)
+One character who... 
+- Speaks only in similes (make it slightly annoying)
 
 ## Other Ideas
 
