@@ -1,18 +1,17 @@
 {
   "permissions": {
     "allow": [
+      "WebSearch",
       "Bash(wc:*)",
       "Bash(sed:*)",
-      "WebSearch",
       "Bash(python:*)",
       "Bash(node:*)",
       "Bash(cd:*)",
       "Bash(rm:*)",
-      "PowerShell($content = Get-Content -Raw \"C:\\\\Users\\\\Sander\\\\OneDrive\\\\Documents\\\\Github\\\\Notes\\\\CorpLore\\\\Stories\\\\OboeKnight\\\\Characters.md\"; $start = $content.IndexOf\\(\"## Guilliam\"\\); $section = $content.Substring\\($start\\); Write-Output \"Length: $\\($section.Length\\)\")",
       "Bash(git *)",
-      "Bash(awk '/^## Pre-Scene Work/,/^---$/' \"C:/Users/Sander/OneDrive/Documents/Github/Notes/CorpLore/output/working-doc-oboe-knight-Scene-3.md\")",
       "Bash(cat)",
-      "Read(//tmp/**)"
+      "Read(//tmp/**)",
+      "Read(//c//**)"
     ]
   }
 }

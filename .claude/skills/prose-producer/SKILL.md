@@ -59,7 +59,7 @@ Capture the returned scene-frame path as `SCENE_FRAME_PATH`.
 
 Reminder: if `INTERACTIVE = true`, **pause** before launching the next stage.
 
-## Stage 3 — Compose (inline; spawns opus phase agents)
+## Stage 3 — Compose (inline; spawns sonnet phase agents)
 
 Do NOT launch a subagent for this stage. The `scene-writer` skill orchestrates four phase subagents itself, and a subagent cannot spawn its own subagents — so this stage runs in YOUR context.
 
@@ -73,8 +73,6 @@ Treat every section of the scene frame as binding constraints throughout draftin
 When scene-writer completes, capture the final scene file path as `SCENE_DRAFT_PATH`.
 
 Interactive-mode pause (if `INTERACTIVE = true`) happens BETWEEN phases.
-
-Reminder: if `INTERACTIVE = true`, **pause** before launching the next stage. The user can edit `SCENE_DRAFT_PATH` directly before responding.
 
 ## Stage 4 — Audit (sonnet)
 
