@@ -20,11 +20,11 @@ Beau and his fellow demons must defend cache of legacy replica weapons/gear from
 	- The Mulch Team (Mulchers)
 - Why was Beau trying to retrieve the Gatling Laser Axe from the armory?
 	- Because he saw it in a yellowed catalogue once, and thought it looked *sick*.
-- What is the specific layout of their *Frontier Facilities Department*?
-  - Main Mulch Team Office: 
-  - Vault: 
-  - Mulch Team Outpost Rooms: 
-  - Other Offices: 
+- What is the specific layout of their *Frontier Facilities Department* on floor 134?
+  - Main Mulch Team Office: A corporate cubicle floorspace, about 30 employees living in their cubicles, ~8 private office (for meals, 1 for the Chief Executive Mulcher, one each for the First and Second Mulcher, etc)
+  - Vault: Entrance is a pair of patterned steel doors, 50 feet along the hallway on the south side of main office
+  - Mulch Team Outpost Rooms: Two - one at the bottom of the main switchback stairway leading to floor 135, two miles north on the main supercorridor, one down a series of twisting connecting hallways, roughly southeast, about a 30-minute walk
+  - Other Offices: A Rationing Office (for food/water delivered from the nearest window-scaffolds); a power and waste office
   - Connecting Stairwells/Elevators: 
   - Floor below: 
 - Why is the armory so close to the frontier (floor 134)?
