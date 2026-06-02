@@ -59,7 +59,6 @@ Character like **Erwin Smith**
 
 **Gneiss ("nice"):** villain based on **Hisoka**, **Lord Arioch** - loving, tender, and unimaginably cruel
 - *His expression is fixed in a glassy stare that suggests a quiet insanity*
-## Characters
 
 One character who... 
 - Speaks only in similes (make it slightly annoying)
