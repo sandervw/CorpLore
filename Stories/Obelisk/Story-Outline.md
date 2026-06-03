@@ -25,16 +25,33 @@ Beau and his fellow demons must defend cache of legacy replica weapons/gear from
   - Vault: Entrance is a pair of patterned steel doors, 50 feet along the hallway on the south side of main office
   - Mulch Team Outpost Rooms: Two - one at the bottom of the main switchback stairway leading to floor 135, two miles north on the main supercorridor, one down a series of twisting connecting hallways, roughly southeast, about a 30-minute walk
   - Other Offices: A Rationing Office (for food/water delivered from the nearest window-scaffolds); a power and waste office
-  - Connecting Stairwells/Elevators: 
-  - Floor below: 
+  - Connecting Stairwells/Elevators: three stairs - 1 at the end of the supercorridor, going up, two within 5 minutes of the second mulch team outpost, one goes down 3 floors at a time, 1 is normal, both are sealed; the elevator (which is a limnal space *within* the elevator) has been defunct for 50 years - it only goes down
+  - Floor below: a labyrinth of flickering lights and malformations of architecture, semi-flooded
 - Why is the armory so close to the frontier (floor 134)?
 	- The armory is 'Capsule Vault', which was sealed (like a time capsule) after with only decommissioned replicas
 	- Many of these Vaults happened to exist on the lwoer half of the floors in the older ages of Obelisk Replicas
 	- Many Vaults have already been lost in the past
 - What does Beau's Coat of the Seven Senses look like? How does it work?
+  - A long wool trenchcoat that has a different color every time someone looks at it; Beau activites it by buttoning up the front
 - How did The Creatures ascend a sealed-off stairway or elevator?
-- Where/Why has Beau met a dragon before?
-- What specific replica gear does the armory store?
+  - The Butler climbed out from a lower floor window, entered through an upper-floor garden terrace, disguised itself as an ordinary housecat, ingratiated itself with one of the outpost guard groups, stole a set of keys, and unsealed the stairway lock leading 3 floors down
+- What specific replica gear does the vault contain?
+  - Gatling Laser Axe
+  - Excalibur - mirror-bright, cursed sheath that stops the wearer from bleeding
+  - Stormbringer
+  - Lightsaber - a working plasma-blade hilt, Several color cells in stock
+  - The Lance of the Pale Rider - a long-hafted energy lance whose tip holds a sliver of contained starlight
+  - Foe-Hammer - elven longsword; glows cold blue when the Creatures are near
+  - Caladbolg - a spiral-bladed greatsword that fires an arcing beam along its rifling
+  - The Helm of Awe - a horned warhelm; makes the wearer loom larger
+  - Crown of the Lich - a black circlet that commands the dead
+  - Palantír
+  - The Horadric Cube - transmutes three lesser items into one greater
+  - Decoder Lens of True Seeing - a hand lens that reveals what's hidden
+  - EMP Charge - a thrown pulse that briefly stuns the Creatures
+  - The Sonic Screwdriver - opens any lock; reseals doors
+  - Optical Camo Cloak - light-bending cloak.
+  - Arc Caster - throws chain-lightning between the Creatures.
 
 **Scene 1:**
 - Beau has been detained by (TODO - Obelisk's demon police force) at their frontier outpost
@@ -43,7 +60,7 @@ Beau and his fellow demons must defend cache of legacy replica weapons/gear from
 - The police receive word that the communication wires to the adjoining levels/floors have been cut (chewed through) - they know something is coming
 - The police think it impossible that it is The Creatures electric, because all stairways/elevators to the lower levels have been permanently sealed
 
-**Scene 2:** Jump to scene with random guards in the access halls; they are destroyed entirely by The Creatures Electric
+**Scene 2:** Jump to scene with random guards in the access halls; starts with one of them asking if anyone has seen the new pet cat lately, it's been missing for a day; then they are destroyed entirely by The Creatures Electric
 
 **Scene 3:** The Creatures arrive at the armory defense outpost; the police are able to hold them off, barely; Beau survives by using his Coat to remain unseen
 
