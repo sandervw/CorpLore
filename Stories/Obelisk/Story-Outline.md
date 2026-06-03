@@ -4,17 +4,36 @@
 
 Beau and his fellow demons must defend cache of legacy replica weapons/gear from The Creatures Electric
 
-**Partially based on The House on the Borderland**
+**Break down into 250-character-max blobs:**
+- **Exposition:** Third-person lore, description, lists, stated facts, etc
+- **First-personal:** First-person personal observation, update, thought, etc.
+- **Quote or Dialogue:** Basically the following - "Speaker1: 'DIRECT_QUOTE.' \n\n Speaker2: 'RESPONSE.' \n\n Speaker1: 'RESPONSE 2.'"
+- **Question/Poll:** "What's the best way to combat wheevil's when they're coming from an adjacent office?"
+- **Action Poem:** Battle, action, or other physical movement, framed in the form of loose verse
 
 ## Scenes
 
-**Scene 1:**
+### Scene 1:
+
+Outline:
 - Beau has been detained by The Mulch Team (Mulchers; Obelisk's demon police force) at their frontier outpost
 - Describe Beau's coat: A long wool trenchcoat that has a different color every time someone looks at it; Beau activites it by buttoning up the front
-- He was trying to steal from *The Armory* - an old storage supply of decommissioned Obelisk Replicas gear
+- He was trying to steal from *The Capsule Vault* - an old storage supply of decommissioned Obelisk Replicas gear
 - He is locked in a 'holding cell' - a private office with a a shatterproof window and locked door
 - The Mulchers receive word that the communication wires to the adjoining levels/floors have been cut (chewed through) - they know something is coming
 - The Mulchers think it impossible that it is The Creatures electric, because all stairways/elevators to the lower levels have been permanently sealed
+
+Blobs:
+- *First-Personal:* Beau opens, saying: downside, he's been detained for "Grand Theft Replica"; downside, the holding office they've got him in is right next to the main heat-radiator for floor 134; upside, they let him keep his Coat of Seven Senses
+- *Exposition:* The Coat of Senses - what it looks like, and how it works
+- *Question/Poll:* Why is the Mulch Team in charge of blockign access to legacy replicas stored in vaults?
+- *First-Personal:* Beau explains he was trying to steal from *The Capsule Vault* - an old storage supply of decommissioned Obelisk Replicas gear
+- *Exposition:* Current Mulch Team Heirarchy, outpost, and duties on floor 134 (frame as news report)
+- *Dialogue:* The Mulchers receive word that the communication wires to the adjoining levels/floors have been cut (chewed through) - they know something is coming
+- *Quote:* The Mulcher Chief think it impossible that it is anything from below floor 134, because all stairways/elevators to the lower levels have been permanently sealed
+- *First-personal:* Beau says that he's never been below floor 134 of Obelisk Replicas; but he has seen The Creatures Electric before - he doesn't recommend
+
+### Remaining Scenes
 
 **Scene 2:** Jump to scene with random guards in the access halls; starts with one of them asking if anyone has seen the new pet cat lately, it's been missing for a day; then they are destroyed entirely by The Creatures Electric
 

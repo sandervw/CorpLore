@@ -73,4 +73,6 @@ One character who...
 - Longer, complex sentences for character with active thoughts; terse for tired old character
 - Need to pick a subject/setting for which there is a dearth of information
 
+**Partially based on The House on the Borderland**
+
 Names inspired by "witchy latin song lyrics"? Think *Ghost*.
