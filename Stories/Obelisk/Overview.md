@@ -30,6 +30,11 @@ the rest of the world has sealed off the office
 
 Demonkind is on the brink of destruction, or so the inhabitants of the obelisk think think
 
+**Different Obelisk Departments/Teams:**
+- The Mulch Department: The police force, in charge of protecting people and valuables
+- Team Yesteryear: In charge of company history
+- Product Retirement: In charge of deciding when to get rid of replicas from the catalogue of currently-sold ones
+
 ### The Creatures Electric
 
 Various monsters, originating from floor 134 and down

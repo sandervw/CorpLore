@@ -17,13 +17,7 @@ Beau and his fellow demons must defend cache of legacy replica weapons/gear from
 
 ### Scene 1:
 
-Outline:
-- Beau has been detained by The Mulch Team (Mulchers; Obelisk's demon police force) at their frontier outpost
-- Describe Beau's coat: A long wool trenchcoat that has a different color every time someone looks at it; Beau activites it by buttoning up the front
-- He was trying to steal from *The Capsule Vault* - an old storage supply of decommissioned Obelisk Replicas gear
-- He is locked in a 'holding cell' - a private office with a a shatterproof window and locked door
-- The Mulchers receive word that the communication wires to the adjoining levels/floors have been cut (chewed through) - they know something is coming
-- The Mulchers think it impossible that it is The Creatures electric, because all stairways/elevators to the lower levels have been permanently sealed
+Beau has been detained by The Mulch Team (Mulchers; Obelisk's demon police force) at their frontier outpost. Describe Beau's coat: A long wool trenchcoat that has a different color every time someone looks at it; Beau activites it by buttoning up the front. He was trying to steal from *The Capsule Vault* - an old storage supply of decommissioned Obelisk Replicas gear. He is locked in a 'holding cell' - a private office with a a shatterproof window and locked door. The Mulchers receive word that the communication wires to the adjoining levels/floors have been cut (chewed through) - they know something is coming. The Mulchers think it impossible that it is The Creatures electric, because all stairways/elevators to the lower levels have been permanently sealed
 
 Blobs:
 - *Personal:* Beau opens, saying: downside, he's been detained for "Grand Theft Replica"; downside, the holding office they've got him in is right next to the main heat-radiator for floor 134; upside, they let him keep his Coat of Seven Senses
@@ -35,9 +29,17 @@ Blobs:
 - *Quote:* The Mulcher Chief think it impossible that it is anything from below floor 134, because all stairways/elevators to the lower levels have been permanently sealed
 - *Personal:* Beau says that he's never been below floor 134 of Obelisk Replicas; but he has seen The Creatures Electric before - he doesn't recommend
 
+### Scene 2
+
+Jump to a short scene with mulcher guards in the remote station (a small office post) near the two descending stairwells and the elevator. This scene starts with one of them asking if anyone has seen the new pet cat lately, it's been missing for a day. One of the mulchers is smoking beside a full-glass wall looking out on the tiered, garden-scaffolded Obelisk exterior. Suddenly the interior-windows looking out onto the hallway explodes inward. A host of creatures electric attack: wheevils,
+
+then they are destroyed entirely by The Creatures Electric
+
+Blobs:
+
+
 ### Remaining Scenes
 
-**Scene 2:** Jump to scene with random guards in the access halls; starts with one of them asking if anyone has seen the new pet cat lately, it's been missing for a day; then they are destroyed entirely by The Creatures Electric
 
 **Scene 3:** The Creatures arrive at the armory defense outpost; the Mulchers are able to hold them off, barely; Beau survives by using his Coat to remain unseen
 - Mr. Vincent Ulakhan (The Chief Executive Mulcher) leads the defense
@@ -99,10 +101,10 @@ Blobs:
 
 *What they look like, how dangerous they are - and add them to the setting docs?*
 
-**Wheevils** - vermin; body and head like a mouse, but with two long, round-tipped ears extending back; half-a-man's height, standing on two long crane-like legs, with small arms tucked up against its chest; a mouth full of flat teeth; eats only exoskeletons, other carapace-like features, but has poor eyesight and mistakes clothed humans for prey; unthinkingly vicious in large packs
+**Wheevils** - vermin; body and head like a mouse, but with two long, round-tipped ears extending back; half-a-man's height, standing on two long crane-like legs, with small arms tucked up against its chest; a mouth full of flat teeth; eats only exoskeletons, other carapace-like features, but has poor eyesight and mistakes clothed humans for prey; unthinkingly vicious in large packs.
 
-**TODO** - Text
+**Red Apes** - pinkly-glowing humanoid-like creatures with glossy, plastic-like skin, and eyes covered in large opaque glass lenses; often run on their knuckles, though slightly taller than men when standing upright, with a long face; gangly but muscular, hunting in 4-5, they will eat almost anything; they hate and attack anything that speaks english
 
-**TODO** - Text
+**Jurasiks** - Some kind of bull
 
-**TODO** - Text
+**Mr. Montags** - Text
