@@ -43,3 +43,54 @@ They are not cuddly.
 
 ## Scene 2
 
+**Exposition:**
+Mulch Team Branch Division B, floor 134: a coffin of cubicles fumigated by old cigarettes. Lit by two long, hazy, buzzing fluorescence tubes. From its interior windows and peeling door it gapes into a corridor, between two stairwells whose emergency doors are shut with strong magic.
+
+**Dialogue:**
+Deputy Mulcher Davidson: "has anyone laid eyes on the new cat? It's been gone a day."
+
+Mulcher Larzod: "Hopefully it fell down a stairwell. Best cat's a dead cat."
+
+Davidson: "...It liked you best."
+
+**Quote:**
+"The last hour of my watch. I stand at the thick crystal - an exterior window - and behold. The tiers below. Scaffolded gardens drinking dusk. Soon I trade the smoke for a cot. Quiet shift. Not bad for a third Wednesday." - Mulcher Kieth
+
+**Question/Poll:**
+Night-shift question for my fellow doomed wretches: which omen bugs you the most?
+- A light flashing in morse code
+- The elevator chiming with no car
+- Silence
+- None. Superstition is for tea-drinkers
+
+**Exposition:**
+Some Creatures Electric:
+
+Wheevils - mouse-faced vermin on crane legs, 90% blind, form large groups called attacks.
+
+Red Apes - glass-eyed and glossy, they loathe the English tongues.
+
+The Jurasik - a bull.
+
+**Action Poem:**
+The hallway-facing glass soared inside,
+A thousand teeth of light,
+Then the Jurasik,
+Monolithic,
+Gored through drywall and studs,
+And over the splinters, knuckling, glistering,
+Red Apes poured,
+A pink flood.
+
+**Action Poem:**
+The Mulchers died without ceremony.
+Nicholson, kneaded by apes.
+Larzod, gored.
+Kieth turned about from his crystal prospect,
+and was thrown through the glass.
+The last glowing cigarettes stub faded to black.
+Silence upon Branch Division B.
+
+**Quote:**
+"AUTO-LOG 03:14 // Mulch Team Branch Division B, Floor 134 // channel open: Hi all, please advise on the noi-" - Unsent Inter-Department Communications
+
