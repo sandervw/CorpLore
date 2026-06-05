@@ -2,7 +2,7 @@
 
 ## Setting Overview
 
-Obelisk is a setting based in  single, massive company office, shaped like an obelisk
+Obelisk is a setting within the larger CorpLore universe, based in a single, massive company office, shaped like an obelisk
 - the company is *Obelisk Replicas*
 - They specialize in working, replica weapons/armor/uniforms from fantasy and science-fiction
 
