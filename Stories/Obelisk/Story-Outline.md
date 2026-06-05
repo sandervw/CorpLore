@@ -31,9 +31,7 @@ Blobs:
 
 ### Scene 2
 
-Jump to a short scene with mulcher guards in the remote station (a small office post) near the two descending stairwells and the elevator. This scene starts with one of them asking if anyone has seen the new pet cat lately, it's been missing for a day. One of the mulchers is smoking beside a full-glass wall looking out on the tiered, garden-scaffolded Obelisk exterior. Suddenly the interior-windows looking out onto the hallway explodes inward. A host of creatures electric attack: wheevils,
-
-then they are destroyed entirely by The Creatures Electric
+Jump to a short scene with mulcher guards in the remote station (a small office post) near the two descending stairwells and the elevator. This scene starts with one of them asking if anyone has seen the new pet cat lately, it's been missing for a day. One of the mulchers is smoking beside a full-glass wall looking out on the tiered, garden-scaffolded Obelisk exterior. Suddenly the interior-windows looking out onto the hallway explodes inward. A host of creatures electric attack: wheevils, Red Apes, and a Jurasik. The police are massacred by the Creatures Electric.
 
 Blobs:
 
@@ -107,4 +105,4 @@ Blobs:
 
 **Jurasiks** - Some kind of bull
 
-**Mr. Montags** - Text
+**Mr. Montags** - Flying whales; their call is like an air-raid siren; when prodded, their calls can shatter glass, light filaments, and bones
