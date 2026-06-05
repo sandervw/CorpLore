@@ -40,3 +40,6 @@ Mr. Dustman: "...Chewed by what?"
 I was born and raised in Obelisk Replicas. (The same as every demon in the last fiscal millenia.) They call me Big Beau. Big Beau's never been below. But Big Beau HAS seen what comes from below. The Creatures Electric. 
 
 They are not cuddly.
+
+## Scene 2
+

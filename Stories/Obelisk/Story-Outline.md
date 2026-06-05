@@ -1,17 +1,17 @@
 # The Battle for the Armory
 
-## Plot Ideas
+## Plot Summary
 
-Beau and his fellow demons must defend cache of legacy replica weapons/gear from The Creatures Electric
+Beau and his fellow demons must defend cache of legacy replica weapons/gear from The Creatures Electric.
 
-**Break down into 250-character-max blobs:**
+**This story is written in a series of social media posts.** Break down each scene like its a series of tweets, but if the tweets were written by Elric of Melnibone, or 
+
+The following are the different types of posts, or "blobs":
 - **Exposition:** Third-person lore, description, lists, stated facts, etc
 - **personal:** First-person personal observation, update, thought, etc.
 - **Quote or Dialogue:** Basically the following - "Speaker1: 'DIRECT_QUOTE.' \n\n Speaker2: 'RESPONSE.' \n\n Speaker1: 'RESPONSE 2.'"
 - **Question/Poll:** "What's the best way to combat wheevil's when they're coming from an adjacent office?"
 - **Action Poem:** Battle, action, or other physical movement, framed in the form of loose verse
-
-*Write them like tweets, but as if the tweet came from Berserk, or some other Dark-Fantasy Manga*
 
 ## Scenes
 
@@ -34,6 +34,14 @@ Blobs:
 Jump to a short scene with mulcher guards in the remote station (a small office post) near the two descending stairwells and the elevator. This scene starts with one of them asking if anyone has seen the new pet cat lately, it's been missing for a day. One of the mulchers is smoking beside a full-glass wall looking out on the tiered, garden-scaffolded Obelisk exterior. Suddenly the interior-windows looking out onto the hallway explodes inward. A host of creatures electric attack: wheevils, Red Apes, and a Jurasik. The police are massacred by the Creatures Electric.
 
 Blobs:
+- *Exposition:* Describe the remote station - a small office post in the same hallway as the two descending stairwells and the dead elevator. Keep most of the description on the office interior: smell of cigarettes, hazy flourescent-lit ceiling, a small set of cubicle-homes.
+- *Dialogue:* The guards, bored. One asks if anyone's seen the new pet cat - it's been missing a day. A shrug, a joke about it falling down the stairwell.
+- *Quote:* A first-person update from one guard (smoker at the full-glass wall), looking out on the tiered, garden-scaffolded exterior. Quiet, almost tender. End-of-shift mundanity.
+- *Question/Poll:* Posted by a guard - something idle about night-shift superstitions. Crowd-sourced unease, comically casual given what's coming.
+- *Exposition:* Brief, clinical catalogue of certain Creatures Electric - the Wheevils, the Red Apes, the Jurasik. Frame it almost like a field-guide entry.
+- *Action Poem:* The interior hallway-windows explode inward. The first wave hits. Loose verse, fast and visceral - glass, the Jurasik's bulk, the Red Apes coming over the cubicle walls.
+- *Action Poem:* The massacre proper. Continue the verse but turn it elegiac/brutal - the guards overwhelmed, the smoker and the glass wall, the station going quiet.
+- *Quote:* A single closing line - something found later, a last logged inter-department communication system message.
 
 
 ### Remaining Scenes
