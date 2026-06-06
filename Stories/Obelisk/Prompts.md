@@ -9,3 +9,9 @@ I've made a few edits to your suggested outline. Now, let's try to draft it. I t
 - The blobs are 250 characters max
 - The blobs are written like social media posts written by a dark fantasy character (pass it a random character name: Elric of Menibone, Guts, Mazirian the Magician, or Kane from Legacy of Kane)
 Any questions?
+
+I've edited the agent's original draft of the blobs. I want you to analyze what the agent wrote, and how I changed it. Come up with a brief (under 100 word) list of general 'types' or 'styles' of edit I made. Don't give specific examples: focus on patterns to stress, and focus on anti-patterns to avoid.
+Once you have your list, can you put it under the new 'Ongoing editing notes' section I added to the outline. After that, we'll proceed.
+
+
+claude --resume dac67900-a4ac-4ac6-a221-35030f8b740e

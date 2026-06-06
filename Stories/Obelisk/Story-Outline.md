@@ -13,6 +13,10 @@ The following are the different types of posts, or "blobs":
 - **Question/Poll:** "What's the best way to combat wheevil's when they're coming from an adjacent office?"
 - **Action Poem:** Battle, action, or other physical movement, framed in the form of loose verse
 
+## Ongoing Editing Notes
+
+TODO
+
 ## Scenes
 
 ### Scene 1:
