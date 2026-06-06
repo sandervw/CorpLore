@@ -13,9 +13,53 @@ The following are the different types of posts, or "blobs":
 - **Question/Poll:** "What's the best way to combat wheevil's when they're coming from an adjacent office?"
 - **Action Poem:** Battle, action, or other physical movement, framed in the form of loose verse
 
+## Narrator (read first)
+
+**The entire feed is Beau's.** He is tweeting the whole story after the fact, curating it for an audience. This is the most important rule: *every blob is Beau posting*, regardless of type.
+- **Personal** = Beau speaking plainly as himself.
+- **Exposition** = Beau explaining lore/setting to his followers, in his own voice and with his own asides (NOT a neutral encyclopedia narrator).
+- **Quote/Dialogue** = Beau relaying what others said, often with his spin or a tag.
+- **Question/Poll** = Beau working the crowd.
+- **Action Poem** = Beau's dramatized reconstruction of events (even ones he didn't witness; he's narrating from logs, rumor, and imagination).
+
+**Beau's voice:** vain, wry, self-mythologizing ("Big Beau"), a doomed-aristocrat melancholy under the jokes (Elric meets Meleoron). An outsider thief who is always working an angle. Hindsight and dark humor color everything. He name-drops himself, undercuts dread with a quip, and quips to hide dread.
+
+## Character Voice Bible
+
+When a blob quotes a character, that character speaks in their OWN voice below. Do NOT collapse quotes into Beau's voice or a generic clipped tone.
+- **Beau** - narrator of all blobs; see Narrator section.
+- **Vincent Ulakhan (Chief Executive Mulcher)** - Napoleonic orator: grand, paternal, posterity-minded, rhetorical sweep, addresses his troops, invokes destiny and history. Never terse.
+- **Gneiss Dustman** - formal, archaic, oddly tender phrasing; a quiet, glassy strangeness beneath (e.g. "Why has not grandmother, who always has something to say, replied to my last email?").
+- **Generic Mulchers** - flat, corporate, procedural; distinct from Beau, and from each other where named.
+- *(Add new characters here as they appear: Withazz = Daggerfall questionnaire; the simile-only character; etc.)*
+
+## Canon Established (do NOT re-explain)
+
+Already described in earlier scenes. Reference by name and add only NEW, oblique detail. Never re-teach the reader.
+- The Coat of Seven Senses (Scene 1)
+- Mulch Team hierarchy, floor 134, the Capsule Vault (Scene 1)
+- Wheevils, Red Apes, the Jurasik, "the Creatures Electric" (Scene 2)
+- Stampers, Clevers (Scene 3)
+- The missing cat (planted; never flag its significance)
+
 ## Ongoing Editing Notes
 
-TODO
+**Voice comes first.** Every blob is Beau narrating his own feed after the fact; his personality must color narration, exposition, and action alike. Concreteness and terseness are tools that serve the voice - they never replace it. The #1 failure mode is generic, clipped, voiceless dark-fantasy.
+
+**Patterns to stress:**
+- Keep Beau's hindsight, vanity, angle-working, and dark wit present in EVERY blob - not just the Personal ones.
+- Give each quoted character a distinct voice from the Voice Bible. A quote should be unmistakable as that speaker.
+- Ground description in concrete, specific nouns (ranks, floor/division numbers, real materials) as texture beneath the voice.
+- Use numeric and technical precision where it is funny or telling (timestamps, percentages, exact times).
+- Tie details to setting mechanics (magic key-phrases, corporate banality, the timeless date).
+- Vary rhythm deliberately: fragments AND longer rolling lines. Terseness is a choice, not the default.
+
+**Anti-patterns to avoid:**
+- Generic dark-fantasy register / a flat "clipped grim narrator." This is the cardinal sin.
+- Re-explaining already-established canon (see Canon list). Reference it; never re-teach.
+- Flattening every speaker into one voice (or into Beau's voice).
+- Purple personification, ornate flourish, sentimental abstraction.
+- Terseness so total it strips out personality.
 
 ## Scenes
 
@@ -47,12 +91,19 @@ Blobs:
 - *Action Poem:* The massacre proper. Continue the verse but turn it elegiac/brutal - the guards overwhelmed, the smoker and the glass wall, the station going quiet.
 - *Quote:* A single closing line - something found later, a last logged inter-department communication system message.
 
+### Scene 3
+
+Scene 3 opens back at the main Mulcher office on floor 134. Start with a focused, detailed, but brief still-frame of The Creatures Electric about to break in. Then show the mulchers ready for them, defending the office. The mulchers use their company-issued weapons (not replicas; a mix of Obelisk-issued "stampers", which are basically six-chambered guns that launch metal dowels, and Obelisk-issued clevers). Sicne there are more mulchers here (about 20) and since they are ready, they are able to hold off the initial wave. Mr. Vincent Ulakhan (The Chief Executive Mulcher) leads the defense. Beau can only watch from his holding room, but he calls out encouragement to the beleagured mulchers (somewhat trying ot ingratiate himself).
+
+Blobs:
+- *Exposition:* A still-frame - the Creatures Electric massed at the three thresholds of the main office. Describe it like a heronymous-bosch painting. Tight, focused description of the specific creatures. Ends right as they move.
+- *Exposition:* The company arsenal, field-guide style - Obelisk-issued *stampers* (six-chambered guns that launch metal dowels) and *clevers*. Cold catalogue tone.
+- *Quote:* Chief Executive Ulakhan - a single grim line as the wave hits - like something Napoleon Bonaparte might have said before Austerlitz. Establishes him as the steady hand leading roughly 20 ready mulchers.
+- *Action Poem:* The breach and the holding. The creatures electric burst in, attacking from all three sides at once; dowels and clevers answer; the line bends but holds. Visceral, concrete material, literal action. Focus on specific injuries, bodily damage, how The Creatures Electric and the defending demons move (and bleed). Be greusome.
+- *Personal:* Beau from his holding room, pressed to the shatterproof glass, shouting encouragement to mulchers who are not his friends. Transparently ingratiating, darkly funny, angling to be useful (and freed).
+- *Quote:* A mulcher notes, flatly, that it was mostly wheevils, and that they normally form into much larger attacks than this - and that wheevils shouldn't be here anyway...
 
 ### Remaining Scenes
-
-
-**Scene 3:** The Creatures arrive at the armory defense outpost; the Mulchers are able to hold them off, barely; Beau survives by using his Coat to remain unseen
-- Mr. Vincent Ulakhan (The Chief Executive Mulcher) leads the defense
 
 **Scene 4:** The demon Mulchers assess their situation; the outpost is surrounded; Beau tries again to convince them to let him fight/help - use his cloak for their mutual good - he could sneak past the Creatures
 - Describe the mulcher office: A corporate cubicle floorspace, about 30 employees living in their cubicles, ~8 private office (for meals, 1 for the Chief Executive Mulcher, one each for the First and Second Mulcher, etc)

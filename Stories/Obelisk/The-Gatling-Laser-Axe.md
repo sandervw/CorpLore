@@ -93,3 +93,48 @@ Silence upon the branch office.
 
 **Quote:**
 "AUTO-LOG ????-06-06T03:31:21.011-05:00 // Mulch Team Branch Division B, Floor 134 // channel open: Hi all, please advise on the noi-"
+
+## Scene 3
+
+**Exposition:**
+Three Frozen shots, one after the other. Three open sets of double oak office doors. Meter-tall creatures there. Dozens of long thin fingers on short arms tucked to their white, flat teeth. Dozen of fingers, frozen mid-twitch.
+
+Neon eyes blink.
+
+**Exposition:**
+Slide 4 - Your Equipment and You:
+
+Stamper: Six-chamber. Fires metal dowels. Reload is slow.
+
+Clever: A Mulcher demon's best and sharpest friend.
+
+For Civilians: Apply both to undesirable activity.
+
+For Creatures: Apply liberally.
+
+**Quote:**
+Chief Ulakhan, hand raised: "Mulchers. When they ask which were the twenty who withheld the abhorrent hoard from this our office, let no demon say 'the others.' Let each say 'I.' Pack your chambers. my soldiers. History is watching."
+
+**Action Poem:**
+Invasion.
+Shlunk, flashing steel,
+Smoke in slow motion wanders high in a line,
+As a dowel punches,
+Through a rodent skullbone.
+Clevers sever stubby arms,
+the line of Mulchers buckles - 
+like a bad fiscal year - 
+then rises,
+Back in the black.
+
+**Personal:**
+Me, nose flat against mesh-reinforced glass, halloaing: "GLAMOUROUSLY BLOODY, kind sir! Proper mulching! Mulchering? Big Beau would butcher with you, gentlemen, if SOMEONE had a key."
+
+Mulcher: *fighting, ignoring me.*
+
+Me: "Or I can just watch."
+
+**Quote:**
+"Mostly wheevils. Wheevils come in thousands, not dozens. And how did they even get here? The ways below are blocked, aren't they?" - An anonymous mulcher
+
+"...'cause I'm the king of wishful thinking." - An ancient ballad
