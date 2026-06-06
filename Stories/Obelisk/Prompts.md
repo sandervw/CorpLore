@@ -21,4 +21,17 @@ I've edited. Same thing as before: Pass the necessary info to an opus-level sub-
 - *Make sure to highlight the editing notes we worked on with this run.*
 Any questions?
 
+Okay, this is better. Before we proceed to the 'editing notes' and next scene, lets update our workflow and get it fixed in place. I'm thinking something like the following:
+1. I flesh out the scene file, and have you (**Orchestrator**) suggest a blob breakdown (usually with a set number of blobs).
+2. You write your 400 word response (your words, my formatting) to the outline.
+3. I edit the breakdown. I tell you to pass the necessary info to an opus-level sub-agent (**Writer**). Instruct it to draft the blobs for the scene. Make sure 250-character max, social-media-post-like text. Plus, any ongoing style/editing notes we have. *New*: for this, I want you to customize your prompt, and the editing notes, to fit the current scene. Just like you took out the "match Guts voice" note - remove, add, and change notes as needed based on our discussion.
+4. The agent writes the prose (*new* have it actually write the prose to the story file from now on - I prefer to review text in the actual file).
+5. *New*: you pass the freshly-written prose, along with the original goal, to *another* opus level sub-agent (**Reviewer**). The reviewer decides if the prose is generic/unfitting to the original idea, or if it genuinely matches the outline and style we set up. DO NOT prompt the agent with anything that would encourage it to rate positively - the goal is for the Reviewer to be completely arbitrary.
+6. You (Orchestrator) and I review what the agent decided. I tell you if we need to rewrite (new Writer) with prompt/style adjustments.
+7. After potential rewrites, I edit for the final time.
+8. You update the editing guide based on my manual edits.
+9. Repeat.
+
+Does this make sense? Do you have any questions/suggestions?
+
 claude --resume dac67900-a4ac-4ac6-a221-35030f8b740e
