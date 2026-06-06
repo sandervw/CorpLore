@@ -26,6 +26,8 @@ The following are the different types of posts, or "blobs":
 
 **Beau narrates, but does not step on a quoted speaker's grandeur.** When relaying an oration (e.g. Ulakhan), let it stand at full height; save the deflating tag/quip for elsewhere, not stapled onto the quote.
 
+**Beau is never a named speaker in a Dialogue/Quote blob.** Those blobs relay OTHER characters' exchanges (a poster does not transcribe a back-and-forth with himself). Beau may be the *subject* of such a blob - others talking to or about him, even interrogating him - but his own lines never appear as speaker turns there. When Beau's own words in an exchange matter, use a **Personal** blob in his framing (he may dramatize himself as "Me:" and quote the others' replies); that post is his account, not a neutral transcript.
+
 ## Character Voice Bible
 
 When a blob quotes a character, that character speaks in their OWN voice below. Do NOT collapse quotes into Beau's voice or a generic clipped tone.
@@ -106,12 +108,24 @@ Blobs:
 - *Personal:* Beau from his holding room, pressed to the shatterproof glass, shouting encouragement to mulchers who are not his friends. Transparently ingratiating, darkly funny, angling to be useful (and freed).
 - *Quote:* A mulcher notes, flatly, that it was mostly wheevils, and that they normally form into much larger attacks than this - and that wheevils shouldn't be here anyway...
 
-### Remaining Scenes
+### Scene 4
 
-**Scene 4:** The demon Mulchers assess their situation; the outpost is surrounded; Beau tries again to convince them to let him fight/help - use his cloak for their mutual good - he could sneak past the Creatures
-- Describe the mulcher office: A corporate cubicle floorspace, about 30 employees living in their cubicles, ~8 private office (for meals, 1 for the Chief Executive Mulcher, one each for the First and Second Mulcher, etc)
-- The Mulchers can't figure out how the creatures could have gotten up
-- The Mulchers question Beau as to why he wanted into the vault; he admits he saw one of vault's items in a yellowed catalogue, and thought it looked *sick*
+Describe the mulcher office, post-destruction: A corporate cubicle floorspace, about 20 employees living in their cubicles, ~8 private office (1 for meals, 1 for the Chief Executive Mulcher, one each for the First and Second Mulcher, etc) - but the whole thing is slightly dishevled now, after the attack. Now, the demon Mulchers assess their situation; they know that more Creatures cannot be far - they must be swarming the halls. Beau tries again to convince them to let him fight/help - to let them use his Coat of the Seven Senses for their mutual good. He does not explain it fully, but mentions his coat would give him the power to sneak past the Creatures, and warn another department. The mulchers don't answer him right away; they debate how the creatures could have gotten up. Finally they remember Beau. The Mulchers question him as to why he wanted into the vault. After dodging, he admits he saw one of vault's items in a yellowed catalogue, and thought it looked *sick*. He doesn't say which item.
+
+Blobs:
+- *Exposition:* Beau describes the office post-attack - the disheveled cubicle-floorspace (~20 cubicle-homes, ~8 private offices), wrecked, from his cell vantage. His framing of corporate ruin.
+- *Personal:* Beau takes stock - Creatures still out in the halls, everyone knows it. His read on the room's mood: fear papered over with procedure. He laments *still* being locked in.
+- *Dialogue:* Two named mulchers debate Beau's pitch: let him help, he says, his coat can slip him past the Creatures to warn another department. One comments on how he is cagey on the *how*.
+- *Personal:* Why Beau won't explain the coat fully. Touch the curse *subtextually*. He'd rather be thought a charlatan than be pitied.
+- *Quote:* Ulakhan, ignoring Beau, addresses his mulchers instead - napoleonic, paternal, his "demonkind must be hardened" philosophy.
+- *Dialogue:* The mulchers debate how the Creatures climbed past sealed stairs, trading possibilities, each more impossible/nonsensical than the last (like some kind of Dr. Seuss parody of a fiscal disaster).
+- *Personal:* Beau's private frustration - he's the only one here who's *seen* the Creatures, the most useful demon in the room, and he's *a specific piece of* furniture.
+- *Dialogue:* They finally round on Beau. Ulakhan and the First Mulcher interrogate him - why the vault? They don't allow him to speak, or divert
+- *Quote:* Ulakhan's verdict on Beau - posterity-flavored, distrustful of a thief, but a flicker of seeing his use.
+- *Personal:* The confession he gives his followers but not the mulchers - he saw the *Gatling Laser Axe* in a yellowed catalogue and thought it looked *sick*.
+- *Question/Poll:* Beau works the crowd - is it so wrong to want one beautiful thing? Frame as an open question, not a poll.
+
+### Remaining Scenes
 
 **Scene 5:** Before Chief Ulakhan can decide, the Creatures close off the remaining escape hallways; they hear renewed fighting in the distance; the Mulchers continue to argue how the creatures could have gotten through (possibly do a crosscut here; outpost Mulchers debating, while hallway guards, including Mr. Gneiss Dustman are torn apart)
 

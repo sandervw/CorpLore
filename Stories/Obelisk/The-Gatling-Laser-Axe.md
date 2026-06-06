@@ -138,3 +138,47 @@ Me: "Or I can just watch."
 "Mostly wheevils. Wheevils come in thousands, not dozens. And how did they even get here? The ways below are blocked, aren't they?" - An anonymous mulcher
 
 "...'cause I'm the king of wishful thinking." - An ancient ballad
+
+## Scene 4
+
+**Exposition:**
+Picture the office. Twenty cubicle-homes, eight private offices, decorated for a Tuesday, now, wearing the guts of an apocalyptically-casual Friday. Chairs on their backs like beetles. Corkboard walls, broken. Scattered manilla, spattered in red.
+
+**Personal:**
+Me, watching them right the chairs: *they know.*
+
+The halls are full of teeth and everyone's filing reports. Fear folded neatly, stapled. Fighting employees, shivering in their oxfords.
+
+And here's me, humble as a celibate uncle, jailed. Outrageous.
+
+**Dialogue:**
+Mulcher Vane Fiasco: "He says his coat smuggles him around trouble. He says he'll warn another department for us."
+
+First Mulcher Milo Landonsonmum: "HE says. HE won't say HOW. A man that cagey about a coat has stitched in the lining."
+
+**Personal:**
+The Mulchers wanted to know the trick of my coat. I'll keep that to myself, thank you. That's one of those private (and privately distressing) secrets. Let them think me a charlatan in a nice coat. I'll take temporary detention over potential indenture.
+
+**Quote:**
+"My team. A gentle career is an exploited one. I would have my demons made fierd. I would have us pay, in our careers, that heavy sum, so the demons of loftier vantages may never ask the price. Posterity is our client." - Vincent Ulakhan
+
+**Dialogue:**
+Mulcher Fiasco: "The stairs are sealed. So they tunneled the walls."
+
+Junior-Mulcher Pell: "Or they came up the elevator."
+
+Vane: "The elevator's isolated temporally."
+
+Pell: "Maybe they FELL up. Or were always here. Or we sealed them IN."
+
+**Personal:**
+I'm the demon in this room who's studied, most-closely, the Creatures Electric, and these 'experts' consult each other. I've seen more Creatures than a sub-134 cockroach, but this roach beside me gets more respect. For it, they keep the lights off.
+
+**Quote:**
+"A burglar tells history only the version that flatters him. I do not trust the burglar; a knife also is a thing one does not trust set free, and one carries it anyway. Keep the burglar sheathed, yet close." - Vincent Ulakhan
+
+**Personal:**
+Here is what I told no mulcher, lovelies, only you: there was this yellowed, waterstained Obelisk catalogue of replica: Doomsday Edition, Vol 27. And on page whatever: the Gatling Laser Axe. And my stupid heart thought, 'That looks unbearably SICK.'
+
+**Question/Poll:**
+Inquiry. In a four-sided, pointy-tipped, hundred-thousand-foot headquarters, last bastion of demonkind on the broad grey interstate, where every room, every coffee mug, is alike - is it sinful to want one beautiful Gatling Laser Axe?
