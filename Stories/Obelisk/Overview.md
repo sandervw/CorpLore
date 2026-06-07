@@ -34,6 +34,8 @@ Demonkind is on the brink of destruction, or so the inhabitants of the obelisk t
 - The Mulch Department: The police force, in charge of protecting people and valuables
 - Team Yesteryear: In charge of company history
 - Product Retirement: In charge of deciding when to get rid of replicas from the catalogue of currently-sold ones
+- Rationing: a department for food/water delivered from the nearest window-scaffolds
+- Power and Waste
 
 ### The Creatures Electric
 

@@ -34,4 +34,4 @@ Okay, this is better. Before we proceed to the 'editing notes' and next scene, l
 
 Does this make sense? Do you have any questions/suggestions?
 
-claude --resume dac67900-a4ac-4ac6-a221-35030f8b740e
+claude --resume 3c592bf6-0336-42a4-bb53-3c3cc160738b

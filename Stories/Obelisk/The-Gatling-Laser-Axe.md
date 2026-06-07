@@ -182,3 +182,85 @@ Here is what I told no mulcher, lovelies, only you: there was this yellowed, wat
 
 **Question/Poll:**
 Inquiry. In a four-sided, pointy-tipped, hundred-thousand-foot headquarters, last bastion of demonkind on the broad grey interstate, where every room, every coffee mug, is alike - is it sinful to want one beautiful Gatling Laser Axe?
+
+## Scene 5
+
+**Personal:**
+I'm staring at a picture of a sabretooth dangling from a telephone wire. Outside, the law's still playing word-foosball.
+
+".....climbed HOW...."
+
+".....trust him..."
+
+*Business-appropriate pause.*
+
+How's a cat reach a situation where it needs to "Hang in there"?
+
+**Dialogue:**
+Mulcher Fiasco: "A sorcerer-engineer welded those stairs shut decades back. I filed the maintenance ticket myself. So. How."
+
+Drudge Allan Smike: "Wire's chewed too. Same teeth, probably."
+
+Fiasco: "That isn't a HOW. That's a what."
+
+**Exposition:**
+Reposting the floor-bulletin, ????-06-06: "RATIONS PATROL, 6 mulchers, Dustman among them, returns from Rationing, full mailcart, up Corridor 134-C. No contact logged. Status: nominal. ETA: imminent." They are walking into the teeth.
+
+**Dialogue:**
+Mulcher Pell: "Beef-flavor again. I'd kill a man for the chicken-flavor."
+
+Drudge: "You'd kill a man for the beef."
+
+Junior-Mulcher Gneiss Dustman: "Grandmother loved the chicken. I shall save her a packet, for when she answers."
+
+**Dialogue:**
+Junior-Mulcher Pell: "Time never passes INSIDE the elevator. Liminal. So maybe the car still runs, and they rode it up."
+
+Mulcher Fiasco: "The car's been defunct fifty years, Pell. A clock that's stopped doesn't drive the bus. Sit down."
+
+**Action Poem:**
+Corridor 134-C.
+Beef-flavor in the cart, jokes in the air.
+Then the dark inventories them.
+Eleven wheevils first,
+Crane-legging from a vent,
+Flat teeth bared,
+Mistaking six clothed demons,
+For lunch.
+
+**Dialogue:**
+Mulcher Fiasco: "Tie his hands."
+
+Junior-Mulcher Pell: "His hands aren't the trick. It's the coat. Or words. Or the buttons."
+
+Fiasco: "Then gag him."
+
+Pell: "Gag WHAT? We don't know the part that works. He won't say. He just smiles."
+
+**Action Poem:**
+Then the attack proper, thousands.
+A wheevil tide overruns the cart.
+Smike, pulled under,
+Subtracted line by line.
+Pell's Stamper, Shlunk, Shlunk, empty.
+In slow motion a beef-flavor packet
+Spins through red mist,
+Lands soft.
+Five down. Books closed.
+
+**Quote:**
+Chief Executive Mulcher Ulakhan, rising: "My team. The burglar's fate I shall now set into the record, that posterity might weigh how an office treats a knife in lean season. Hear, then, my judgment. It is this -"
+
+**Action Poem:**
+The cart, abandoned, one wheel spinning.
+Beef-flavor scattered like fallen leaves on tile.
+And Gneiss,
+Coat torn,
+Alone of six,
+Walking - not running - 
+Toward the office door,
+Carrying nothing,
+Saving grandmother no packet.
+
+**Personal:**
+Ulakhan's mouth still open on his verdict, and then it stops. Down the hall, faint, men screaming. The whole office goes quiet, heads up, listening to it. I keep my mouth shut. I already knew the sound. So now do you.

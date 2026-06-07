@@ -74,14 +74,33 @@ Blobs:
 - *Personal:* The confession he gives his followers but not the mulchers - he saw the *Gatling Laser Axe* in a yellowed catalogue and thought it looked *sick*.
 - *Question/Poll:* Beau works the crowd - is it so wrong to want one beautiful thing? Frame as an open question, not a poll.
 
-### Remaining Scenes
+### Scene 5
 
-**Scene 5:** Before Chief Ulakhan can decide, the Creatures close off the remaining escape hallways; they hear renewed fighting in the distance; the Mulchers continue to argue how the creatures could have gotten through (possibly do a crosscut here; outpost Mulchers debating, while hallway guards, including Mr. Gneiss Dustman are torn apart)
+**Scene 5 is a crosscut** - it jumps back and forth several times between the two narratives below (*figure out a way to handle this in the blob-based format*).
+
+**Narrative 1:** The Mulchers continue to argue how The Creatures Electric could have gotten up to floor 134 when the two main stairways leading down were sealed by a sorcerer-engineer decades ago; and the only downward-going elevator on this floor has been defunct for years. One of the mulchers points out that time never passes *within* an elevator (thsi is defined setting lore) and tries to explain how this could allow it to start working. The other mulchers are not convinced with his flawed logic (it *is* wrong, after all). They also continue to argue about Beau, and whether or not they should trust/release him. Before Chief Ulakhan can decide, they hear renewed fighting in the distance.
+
+**Narrative 2:** A patrol of mulchers, Gneiss Dustman among them, returns with a mailcart of rations from the Rationing Department, they were absent during the initial attack, and have no idea. Abruptly, they are assaulted by The Creatures Electric. Give an extended, *specific* description of violence; specific maneuvers or movements by the Creatures and the mulchers, specific numbers of each, how their bodies are affected. In the end, only Gneiss Dustman escapes.
+
+Blobs (N1 = office; N2 = patrol; begins and ends in N1, Beau's anchor narrative. N2 is Beau's after-the-fact reconstruction, leaning on Action Poems and a found log. The crosscut converges: the distant fighting the office hears near the end *is* the massacre we just watched - Beau in hindsight knows it, the room does not):
+
+- *N1 Personal:* Beau frames the resumed argument among the mulchers - a corporate, roundabout undertone of dread, now with worse acoustics as he could only hear snippets.
+- *N1 Dialogue:* Mulchers - stairs sealed by a sorcerer-engineer decades back, so *how* did they climb?
+- *N2 Exposition:* The returning mulcher patrol, Gneiss among them, wheels a mailcart back from Rationing, oblivious to the slaughter within the halls they are entering. (Since these are all social media posts, frame this as a snippet from a news article)
+- *N2 Dialogue:* The patrol, mundane and bored, joking over rations; dramatic irony thick.
+- *N1 Dialogue:* The elevator-theory mulcher - time never passes *within* an elevator, so maybe it runs again. Another mulcher dismantles the flawed logic, flatly.
+- *N2 Action Poem:* The ambush hits. First wave, specific creatures, specific count.
+- *N1 Dialogue:* The Beau question arises again among the mulchers - They wonder amout tying up his hands, or gagging his mouth. They can't decide *how* he works his magic, and he won't tell them.
+- *N2 Action Poem:* The massacre proper. Gruesome, specific maneuvers, bodies, numbers.
+- *N1 Quote:* Ulakhan, about to render his verdict on Beau. Cuts off right before the verdict is given
+- *N2 Action Poem:* The cart abandoned, rations scattered, only Gneiss escapes.
+- *N1 Personal:* Beau describes a silence falling over the office as the mulchers hear the distant screams of dying men (the very thing we just saw).
+
+### Remaining Scenes
 
 **Scene 6:** The overhead lights shake, the air is full of the smell of a flensing beach, and they hear a distant growl; the Mulchers are not familiar, but Beau is - a *Butler* has came
 - Exposition break - explain the floor layout:
   - Mulch Team Outpost Rooms: Two - one at the bottom of the main switchback stairway leading to floor 135, two miles north on the main supercorridor, one down a series of twisting connecting hallways, roughly southeast, about a 30-minute walk
-  - Other Offices: A Rationing Office (for food/water delivered from the nearest window-scaffolds); a power and waste office
   - Connecting Stairwells/Elevators: three stairs - 1 at the end of the supercorridor, going up, two within 5 minutes of the second mulch team outpost, one goes down 3 floors at a time, 1 is normal, both are sealed; the elevator (which is a limnal space *within* the elevator) has been defunct for 50 years - it only goes down
   - Floor below: a labyrinth of flickering lights and malformations of architecture, semi-flooded
 
