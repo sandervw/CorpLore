@@ -5,7 +5,7 @@ How "The Gatling Laser Axe" gets written, scene by scene. Three roles: **Orchest
 ## The Loop
 
 1. **Author** fleshes out the scene description in the story/outline file.
-2. **Orchestrator** suggests a blob breakdown (usually a target blob count), in a response under 400 words, and writes it to `Story-Outline.md` under that scene (Orchestrator's words, Author's formatting).
+2. **Orchestrator** suggests a blob breakdown (user usually provides a target blob count), in a response under 400 words, and writes it to `Story-Outline.md` under that scene (Orchestrator's words, Author's formatting).
 3. **Author** edits the breakdown, then tells Orchestrator to launch the Writer.
 4. **Orchestrator** launches the **Writer** (opus). Writer drafts the blobs and writes the prose DIRECTLY into `The-Gatling-Laser-Axe.md` under the scene header. Writer also returns each blob's character count in its final message for verification.
 5. **Orchestrator** launches the **Reviewer** (opus, read-only) in parallel. Author reads the prose in the file while the Reviewer judges.
@@ -32,19 +32,20 @@ Writer writes ONLY to the current scene's section. Never touch prior scenes or A
 ## Reviewer (opus sub-agent, read-only)
 
 Goal: impartial judgment of whether the prose matches the original idea and style, or is generic/unfitting. Anti-leniency safeguards (mandatory):
-- **Blind it.** Never tell it the prose is AI-written, that a prior draft was rejected, or anything that invites approval. No "we worked hard on this." It evaluates a submission against a standard.
+- **Blind it.** Never tell it the prose is AI-written, that a prior draft was rejected, or anything that invites approval. No "we worked hard on this."
 - Give it the real yardstick: scene goal, Author's edited breakdown, Voice Bible, Canon list, Editing Notes.
-- **Verdict form: PASS/FAIL per blob, each backed by a quoted line as evidence.** It must also name the single WEAKEST blob. A reviewer forced to find the worst thing cannot blanket-approve.
+- **Verdict form: PASS/FAIL per blob, each backed by a quoted line as evidence, plus an overall PASS/FAIL.** It must also name the single WEAKEST blob. A reviewer forced to find the worst thing cannot blanket-approve.
 - Fresh/cold every run, no memory of past runs. Read-only (judges, does not edit).
-- Orchestrator keeps its own opinion OUT of the Reviewer prompt.
+- Orchestrator keeps its own opinion OUT.
+- Both the First and Last part of the prompt should be a simple reminder: "Successful task completion is an *accurate* verdict, not necessarily a PASSING one."
 
 ## Notes: two layers
 
-- **Permanent guide** (in `Story-Style.md`): Narrator, Character Voice Bible, Canon Established, Ongoing Editing Notes. Durable, applies to all scenes. Only lessons proven by the Author's manual edits graduate into it (step 8). Scene descriptions and blob breakdowns stay in `Story-Outline.md`.
+- **Permanent guide** (in `Story-Style.md`): Narrator, Character Voice Bible, Canon Established, Ongoing Editing Notes. Only lessons proven by the Author's manual edits graduate into it (step 8).
 - **Per-scene directives**: generated fresh by Orchestrator each run, NOT persisted. Keeps the permanent guide from bloating.
 
 Orchestrator owns keeping the **Canon list** current: each scene that introduces a new creature/object/mechanic gets it appended so the next Writer won't re-explain it.
 
 ## Git
 
-After the Author's final edit (step 7-8), Orchestrator commits the accepted scene. Any later Writer run that clobbers something is one `git restore` away from recovery.
+After the Author's final edit (step 7-8), Orchestrator commits the accepted scene.

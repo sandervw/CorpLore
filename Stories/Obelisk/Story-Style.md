@@ -11,22 +11,22 @@ The living style guide for "The Gatling Laser Axe." Read this before drafting or
 - **Question/Poll** = Beau working the crowd.
 - **Action Poem** = Beau's dramatized reconstruction of events (even ones he didn't witness; he's narrating from logs, rumor, and imagination).
 
-**Beau's voice:** vain, wry, self-mythologizing ("Big Beau"), a doomed-aristocrat melancholy under the jokes (Elric meets Meleoron). An outsider thief who is always working an angle. Hindsight and dark humor color everything. He name-drops himself, undercuts dread with a quip, and quips to hide dread. He plays with words (coining and worrying at them, e.g. "Proper mulching! Mulchering?") and reaches for archaic verbs ("halloaing"). His Personal blobs can drop into stage-direction format with a deadpan button line. He addresses his followers ("lovelies," "friends"), likes deadpan one-word openers ("Inquiry."), and off-kilter similes ("humble as a celibate uncle").
+**Beau's voice:** vain, wry, self-mythologizing, a doomed-aristocrat melancholy under the jokes (Elric meets Meleoron). An outsider thief who is always working an angle. Hindsight and dark humor color everything. He name-drops himself, undercuts dread with a quip, and quips to hide dread. He plays with words and reaches for archaic verbs. His Personal blobs can drop into stage-direction format with a deadpan button line. He addresses his followers, and likes off-kilter similes ("humble as a celibate uncle").
 
-**Beau's melancholy is SUBTEXT, never lyricism.** Express the sorrow through dry deadpan, self-deprecation, or corporate-transactional diction - never a poetic statement of feeling. Deflate: "my whole doomed heart" becomes "my stupid heart"; "Better the laughingstock than the lamb they'd pity" becomes "temporary detention over potential indenture." If a line sounds lyrically sad, cut it for a drier, funnier one.
+**Beau's melancholy is SUBTEXT, never lyricism.** Express the sorrow through dry deadpan, self-deprecation, or corporate-transactional diction - never a poetic statement of feeling.
 
-**Beau narrates, but does not step on a quoted speaker's grandeur.** When relaying an oration (e.g. Ulakhan), let it stand at full height; save the deflating tag/quip for elsewhere, not stapled onto the quote.
+**Beau narrates, but does not step on a quoted speaker's grandeur.** When relaying an oration (e.g. Ulakhan), let it stand at full height.
 
-**Beau is never a named speaker in a Dialogue/Quote blob.** Those blobs relay OTHER characters' exchanges (a poster does not transcribe a back-and-forth with himself). Beau may be the *subject* of such a blob - others talking to or about him, even interrogating him - but his own lines never appear as speaker turns there. When Beau's own words in an exchange matter, use a **Personal** blob in his framing (he may dramatize himself as "Me:" and quote the others' replies); that post is his account, not a neutral transcript.
+**Beau is never a named speaker in a Dialogue/Quote blob.**
 
 ## Character Voice Bible
 
 When a blob quotes a character, that character speaks in their OWN voice below. Do NOT collapse quotes into Beau's voice or a generic clipped tone.
 - **Beau** - narrator of all blobs; see Narrator section.
-- **Vincent Ulakhan (Chief Executive Mulcher)** - Napoleonic orator: grand, paternal, posterity-minded, rhetorical sweep, addresses his troops, invokes destiny and history. Never terse. Lean archaic and elevated ("the abhorrent hoard from this our office," "Pack your chambers, my soldiers"). Let the oration stand at full height; Beau does not undercut it inline. Express his grandeur through corporate-ladder language - "team," "career," "client," "posterity," "loftier vantages" - rather than military terms ("A gentle career is an exploited one. Posterity is our client.").
-- **Gneiss Dustman** - formal, archaic, oddly tender phrasing; a quiet, glassy strangeness beneath (e.g. "Why has not grandmother, who always has something to say, replied to my last email?").
+- **Vincent Ulakhan (Chief Executive Mulcher)** - Napoleonic orator: grand, paternal, posterity-minded, rhetorical sweep, addresses his troops, invokes destiny and history. Never terse. Lean archaic and elevated. Let the oration stand at full height; Beau does not undercut it inline. Express his grandeur through corporate-ladder language rather than military terms
+- **Gneiss Dustman** - formal, archaic, oddly tender phrasing; a quiet, glassy strangeness beneath
 - **Generic Mulchers** - flat, corporate, procedural; distinct from Beau, and from each other where named.
-- *(Add new characters here as they appear: Withazz = Daggerfall questionnaire; the simile-only character; etc.)*
+- *(Add new characters here as they appear.)*
 
 ## Canon Established (do NOT re-explain)
 

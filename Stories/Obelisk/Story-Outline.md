@@ -13,7 +13,7 @@ The following are the different types of posts, or "blobs":
 - **Question/Poll:** "What's the best way to combat wheevil's when they're coming from an adjacent office?"
 - **Action Poem:** Battle, action, or other physical movement, framed in the form of loose verse
 
-> **Style, voice, canon, and editing notes have moved to `Story-Style.md`.** Read that file before drafting or reviewing any scene. This file holds only the plot: scene descriptions and blob breakdowns.
+> **Style, voice, canon, and editing notes are in `Story-Style.md`.** Read that file before drafting or reviewing any scene.
 
 ## Scenes
 
@@ -115,23 +115,15 @@ Blobs:
 - *The Seven Senses:* vision, hearing, touch, smell, taste, balance, and... (keep the seventh mysterious)
 - **Elric of Melnibone** meets **Meleoron from Hunter X Hunter**
 
-**Mr. Vincent Ulakhan - Chief Executive Mulcher:**
-- Text
+**Chief Executive Mulcher Vincent Ulakhan:**
+- Leads the mulcher team on floor 134, nearest to the creatures electric
+- Character like **Erwin Smith**
+- willing to abandon their own humanity, make the unspeakable decision, for the good of mankind
+- believes that mankind needs to be "hardened"
+- Napoleonic orator: grand, paternal, posterity-minded, rhetorical sweep, addresses his troops, invokes destiny and history
 
 **Mr. Gneiss Dustman - Junior Mulchers:**
-- Text
+- TODO - flesh out as writing progresses
 
 **Wonderland - The Butler (Dragon):**
-- Text
-
-## The Creatures Electric
-
-*What they look like, how dangerous they are - and add them to the setting docs?*
-
-**Wheevils** - vermin; body and head like a mouse, but with two long, round-tipped ears extending back; half-a-man's height, standing on two long crane-like legs, with small arms tucked up against its chest; a mouth full of flat teeth; eats only exoskeletons, other carapace-like features, but has poor eyesight and mistakes clothed humans for prey; unthinkingly vicious in large packs.
-
-**Red Apes** - pinkly-glowing humanoid-like creatures with glossy, plastic-like skin, and eyes covered in large opaque glass lenses; often run on their knuckles, though slightly taller than men when standing upright, with a long face; gangly but muscular, hunting in 4-5, they will eat almost anything; they hate and attack anything that speaks english
-
-**Jurasiks** - Some kind of bull
-
-**Mr. Montags** - Flying whales; their call is like an air-raid siren; when prodded, their calls can shatter glass, light filaments, and bones
+- TODO - flesh out as writing progresses

@@ -39,7 +39,15 @@ Demonkind is on the brink of destruction, or so the inhabitants of the obelisk t
 
 Various monsters, originating from floor 134 and down
 
-**Butler** - giant cats (these replace dragons in traditional fantasy)
+**Butler** - giant cats (these replace dragons in traditional fantasy). Incredibly rare. They never stop growing, and can change their size at will (IE - shrinking back to the size of a housecat at any time). They are intelligent and self-serving. They have nine lives, and must be slain 9 times to be truly destroyed.
+
+**Wheevils** - vermin; body and head like a mouse, but with two long, round-tipped ears extending back; half-a-man's height, standing on two long crane-like legs, with small arms tucked up against its chest; a mouth full of flat teeth; eats only exoskeletons, other carapace-like features, but has poor eyesight and mistakes clothed humans for prey; unthinkingly vicious in large packs.
+
+**Red Apes** - pinkly-glowing humanoid-like creatures with glossy, plastic-like skin, and eyes covered in large opaque glass lenses; often run on their knuckles, though slightly taller than men when standing upright, with a long face; gangly but muscular, hunting in 4-5, they will eat almost anything; they hate and attack anything that speaks english
+
+**Jurasiks** - Some kind of bull
+
+**Mr. Montags** - Flying whales; their call is like an air-raid siren; when prodded, their calls can shatter glass, light filaments, and bones
 
 ## Characters
 
@@ -56,11 +64,9 @@ Various monsters, originating from floor 134 and down
 - Based on Peter Chan (bonsai artist)
 - *Moves in the way of some elderly people, where the upper and lower body act with no relation to one another, the legs propelling the hips forward with slow and delicate care, the arms and torso twisting or swinging or grasping at all manner of objects, slightly hunched, but otherwise in complete independence, as though they were the upper half of an animatronic fortune teller.*
 
-Character like **Erwin Smith**
-- willing to abandon their own humanity, make the unspeakable decision, for the good of mankind
-- believes that mankind needs to be "hardened"
 
-**Gneiss ("nice"):** villain based on **Hisoka**, **Lord Arioch** - loving, tender, and unimaginably cruel
+
+Villain based on **Hisoka**, **Lord Arioch** - loving, tender, and unimaginably cruel
 - *His expression is fixed in a glassy stare that suggests a quiet insanity*
 
 One character who... 
