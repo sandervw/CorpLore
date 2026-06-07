@@ -17,7 +17,7 @@ How "The Gatling Laser Axe" gets written, scene by scene. Three roles: **Orchest
 ## Writer (opus sub-agent)
 
 Prompt is CUSTOMIZED per scene. Always include:
-- The single most important rule: the entire feed is **Beau's**, tweeting after the fact (see `Story-Outline.md` > Narrator).
+- The single most important rule: the entire feed is **Beau's**, tweeting after the fact (see `Story-Style.md` > Narrator).
 - The Voice Bible (per-quote character voices). Do not flatten voices into one tone.
 - The Canon list (do NOT re-explain established creatures/objects).
 - The Editing Notes (voice first; anti-generic).
@@ -40,7 +40,7 @@ Goal: impartial judgment of whether the prose matches the original idea and styl
 
 ## Notes: two layers
 
-- **Permanent guide** (in `Story-Outline.md`): Narrator, Character Voice Bible, Canon Established, Ongoing Editing Notes. Durable, applies to all scenes. Only lessons proven by the Author's manual edits graduate into it (step 8).
+- **Permanent guide** (in `Story-Style.md`): Narrator, Character Voice Bible, Canon Established, Ongoing Editing Notes. Durable, applies to all scenes. Only lessons proven by the Author's manual edits graduate into it (step 8). Scene descriptions and blob breakdowns stay in `Story-Outline.md`.
 - **Per-scene directives**: generated fresh by Orchestrator each run, NOT persisted. Keeps the permanent guide from bloating.
 
 Orchestrator owns keeping the **Canon list** current: each scene that introduces a new creature/object/mechanic gets it appended so the next Writer won't re-explain it.
