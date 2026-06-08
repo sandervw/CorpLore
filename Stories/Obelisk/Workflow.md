@@ -14,30 +14,30 @@ How "The Gatling Laser Axe" gets written, scene by scene. Three roles: **Orchest
 8. **Orchestrator** updates the permanent guide based on the Author's manual edits, and commits the accepted scene to git.
 9. Repeat.
 
+## Prompt templates (durable, session-independent)
+
+The Writer and Reviewer prompts are NOT improvised each session. Fill-in-the-blank templates live in:
+- `Writer-Template.md`
+- `Reviewer-Template.md`
+
+The Orchestrator MUST open the relevant template, fill every `{{PLACEHOLDER}}` with the current scene's material, and launch that. This is what keeps quality steady across separate chat sessions. The notes below are the rationale; the templates are the source of truth.
+
 ## Writer (opus sub-agent)
 
-Prompt is CUSTOMIZED per scene. Always include:
-- The single most important rule: the entire feed is **Beau's**, tweeting after the fact (see `Story-Style.md` > Narrator).
-- The Voice Bible (per-quote character voices). Do not flatten voices into one tone.
-- The Canon list (do NOT re-explain established creatures/objects).
-- The Editing Notes (voice first; anti-generic).
-- The scene goal + the Author's edited breakdown.
-- 250-character max per blob. No em-dashes.
-- Any prior good blobs in the scene, passed as LOCKED exemplars / the quality bar.
+Use `Writer-Template.md`. The Writer is NOT blind: the template has it READ `Story-Style.md` itself, so the anti-literary standard lives in one place and never drifts. The Orchestrator only inlines per-scene material: scene goal, the Author's edited blob breakdown, fresh per-scene voice/framing notes, and 2-4 LOCKED exemplars (prefer the Author's final edited lines from earlier scenes, not a prior Writer draft).
 
-Do NOT assign one random character voice to the whole scene. The constant narrator is Beau; only quoted speakers get their own named voice. Customize notes per scene: remove, add, or change them to fit (e.g. earlier we dropped the "match Guts" note because it flattened everything).
+Customize per scene: which speakers appear, how Beau plausibly KNOWS reconstructed parts (log, rumor, recording), which canon to reference. Do NOT assign one character voice to the whole scene; the constant narrator is Beau, only quoted speakers get a named voice. Writer writes ONLY to the current scene's section; never touch prior scenes or Author-locked blobs.
 
-Writer writes ONLY to the current scene's section. Never touch prior scenes or Author-locked blobs.
+Remember the root failure this loop exists to fight: a capable writer's instinct is *literary competence*, and literary competence is the failure mode here. The template front-loads the anti-literary test and the five moves for exactly this reason.
 
 ## Reviewer (opus sub-agent, read-only)
 
-Goal: impartial judgment of whether the prose matches the original idea and style, or is generic/unfitting. Anti-leniency safeguards (mandatory):
-- **Blind it.** Never tell it the prose is AI-written, that a prior draft was rejected, or anything that invites approval. No "we worked hard on this."
-- Give it the real yardstick: scene goal, Author's edited breakdown, Voice Bible, Canon list, Editing Notes.
-- **Verdict form: PASS/FAIL per blob, each backed by a quoted line as evidence, plus an overall PASS/FAIL.** It must also name the single WEAKEST blob. A reviewer forced to find the worst thing cannot blanket-approve.
-- Fresh/cold every run, no memory of past runs. Read-only (judges, does not edit).
-- Orchestrator keeps its own opinion OUT.
-- Both the First and Last part of the prompt should be a simple reminder: "Successful task completion is an *accurate* verdict, not necessarily a PASSING one."
+Use `Reviewer-Template.md`. Fresh/cold every run, read-only, Orchestrator's own opinion kept OUT.
+
+- **Blind it.** Never reveal the prose is AI-written, that a draft was rejected, or that anyone worked hard. The Reviewer is therefore NOT pointed at `Story-Style.md` (that file discusses writer/model instincts and would tip authorship). The template inlines a sanitized, authorship-neutral rubric instead. The Orchestrator pastes only the scene-specific yardstick (Voice Bible entries, current Canon list, scene goal + breakdown).
+- **Default to FAIL.** The template's rubric assumes the prose is flawed until proven clean, grades on the "would a real person post this?" test, and FAILS the scene overall if three or more blobs lean literary/over-written. This is the fix for the loop's proven weakness: a rubric calibrated to literary competence rubber-stamps the exact tropes the Author then cuts.
+- **Verdict form:** PASS/FAIL per blob with a quoted line, an overall PASS/FAIL, the single WEAKEST blob named, a dedicated CONTINUITY CHECK (cross-blob facts: who is where, who dies, counts, names), plus character-limit/em-dash violations.
+- First and last line of the prompt: "Successful task completion is an *accurate* verdict, not necessarily a PASSING one."
 
 ## Notes: two layers
 

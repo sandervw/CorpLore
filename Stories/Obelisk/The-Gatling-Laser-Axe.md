@@ -186,81 +186,101 @@ Inquiry. In a four-sided, pointy-tipped, hundred-thousand-foot headquarters, las
 ## Scene 5
 
 **Personal:**
-I'm staring at a picture of a sabretooth dangling from a telephone wire. Outside, the law's still playing word-foosball.
+I'm staring at a picture of a sabretooth hanging from a telephone wire. The law's still playing word-foosball.
 
-".....climbed HOW...."
+"...climbed HOW..."
 
-".....trust him..."
+"...trust him..."
 
 *Business-appropriate pause.*
 
 How's a cat reach a situation where it needs to "Hang in there"?
 
 **Dialogue:**
-Mulcher Fiasco: "A sorcerer-engineer welded those stairs shut decades back. I filed the maintenance ticket myself. So. How."
+Eavesdropped mulcher discourse:
 
-Drudge Allan Smike: "Wire's chewed too. Same teeth, probably."
+"An engineer locked those stairs with Mighty Words 30 years ago. So, how?"
 
-Fiasco: "That isn't a HOW. That's a what."
+"Maybe HQ's noticed our silence."
+
+"Listen. I drafted the maintenance writ myself. How?"
+
+"Or maybe the wheevils ate their fill."
 
 **Exposition:**
-Reposting the floor-bulletin, ????-06-06: "RATIONS PATROL, 6 mulchers, Dustman among them, returns from Rationing, full mailcart, up Corridor 134-C. No contact logged. Status: nominal. ETA: imminent." They are walking into the teeth.
+Floor-notification, ????-06-06 04:27:28.006:
+
+"RATIONS Status: M's McNish, Strauss, Dustman, Cornelius, Rong, and Scarborough - returning from Rationing with full mailcart. Location - 134-C. ETA - 10 minutes."
 
 **Dialogue:**
-Mulcher Pell: "Beef-flavor again. I'd kill a man for the chicken-flavor."
+*From a mailcart's black box:*
 
-Drudge: "You'd kill a man for the beef."
+M. Rong: "Sardine noodles. Blech. I'd kill for egg."
 
-Junior-Mulcher Gneiss Dustman: "Grandmother loved the chicken. I shall save her a packet, for when she answers."
+Unknown mulcher: "Kill for AN egg."
+
+Junior-M. Dustman: "Grandmother loves eggs. I shall reserve for her - let us say, two - when next we have them."
 
 **Dialogue:**
-Junior-Mulcher Pell: "Time never passes INSIDE the elevator. Liminal. So maybe the car still runs, and they rode it up."
+"Time never passes INSIDE the elevator. Maybe the car still runs, but got frozen, and they waited all these years."
 
-Mulcher Fiasco: "The car's been defunct fifty years, Pell. A clock that's stopped doesn't drive the bus. Sit down."
+"Pell. A stopped timestamp is never right, and it doesn't trigger a nuclear launch."
+
+"I'll be the roundabout." - Ancient ballad
 
 **Action Poem:**
-Corridor 134-C.
-Beef-flavor in the cart, jokes in the air.
-Then the dark inventories them.
-Eleven wheevils first,
-Crane-legging from a vent,
-Flat teeth bared,
-Mistaking six clothed demons,
-For lunch.
+134-C.
+Fish and rye bread lend their scents,
+Stinking the hall.
+But a blind intersection sees,
+Makes an inventory of the patrol.
+Eleven wheevils,
+Spring-loaded legs snapping,
+Flat teeth snapping,
+Sees six suited demons,
+As lunch.
 
 **Dialogue:**
-Mulcher Fiasco: "Tie his hands."
+"Tie his hands."
 
-Junior-Mulcher Pell: "His hands aren't the trick. It's the coat. Or words. Or the buttons."
+"If his hands made his magic, he'd be wagging them now. It might be his lips."
 
-Fiasco: "Then gag him."
+"So why isn't he wagging those?"
 
-Pell: "Gag WHAT? We don't know the part that works. He won't say. He just smiles."
+"Maybe he's lost his voice."
+
+(Yes, chums - I'm still cooped.)
 
 **Action Poem:**
-Then the attack proper, thousands.
-A wheevil tide overruns the cart.
-Smike, pulled under,
-Subtracted line by line.
-Pell's Stamper, Shlunk, Shlunk, empty.
-In slow motion a beef-flavor packet
-Spins through red mist,
-Lands soft.
-Five down. Books closed.
+A thousand-wheevil tidal wave,
+Chitters over the mailcart.
+Strauss,
+A roadblock of a man,
+Swims like a stone.
+Scarborough's Stamper,
+Shlunk,
+Shlunk,
+Empty.
+Through red puddles,
+A sardine tin rolls.
+Five dayjob mulchers,
+Are thusly flushed.
 
 **Quote:**
-Chief Executive Mulcher Ulakhan, rising: "My team. The burglar's fate I shall now set into the record, that posterity might weigh how an office treats a knife in lean season. Hear, then, my judgment. It is this -"
+"I now lay down the fate of this man, who is a miscreant. Then shall the example shall exist by which others - villains who would violate the solemn security of Obelisk Replicas' capsule vaults - may all be..." - Vincent Ulakhan
 
 **Action Poem:**
-The cart, abandoned, one wheel spinning.
-Beef-flavor scattered like fallen leaves on tile.
-And Gneiss,
-Coat torn,
-Alone of six,
-Walking - not running - 
-Toward the office door,
-Carrying nothing,
-Saving grandmother no packet.
+One wheel spinning on an upturned cart.
+Potato chips,
+like carp scales,
+spread across pickle-colored carpet.
+Gneiss Dustman,
+Hole on white left sleeve,
+A reddened shoe,
+Padding,
+Down the hall.
+Gneiss returns,
+One out of six.
 
 **Personal:**
-Ulakhan's mouth still open on his verdict, and then it stops. Down the hall, faint, men screaming. The whole office goes quiet, heads up, listening to it. I keep my mouth shut. I already knew the sound. So now do you.
+Picture the scene. The squat boss of the law is standing before his men, right hand in trouser pocket, left hand raised, decreeing. Then from outside, one distant scream. Then not a word is spoken, but every ear strains... what's coming?

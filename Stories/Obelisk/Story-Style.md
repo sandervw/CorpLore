@@ -26,7 +26,7 @@ When a blob quotes a character, that character speaks in their OWN voice below. 
 - **Vincent Ulakhan (Chief Executive Mulcher)** - Napoleonic orator: grand, paternal, posterity-minded, rhetorical sweep, addresses his troops, invokes destiny and history. Never terse. Lean archaic and elevated. Let the oration stand at full height; Beau does not undercut it inline. Express his grandeur through corporate-ladder language rather than military terms
 - **Gneiss Dustman** - formal, archaic, oddly tender phrasing; a quiet, glassy strangeness beneath
 - **Generic Mulchers** - flat, corporate, procedural; distinct from Beau, and from each other where named.
-- *(Add new characters here as they appear.)*
+- **Dead ration patrol** (Scene 5) - McNish, Strauss, Cornelius, Rong, Scarborough; do not reuse these names. Gneiss survived.
 
 ## Canon Established (do NOT re-explain)
 
@@ -37,27 +37,35 @@ Already described in earlier scenes. Reference by name and add only NEW, oblique
 - Stampers, Clevers (Scene 3)
 - The Gatling Laser Axe (named in Scene 4 as the catalogue item Beau covets; from "Doomsday Edition, Vol 27")
 - The missing cat (planted; never flag its significance)
+- "Mighty Words" - the magic that sealed the down-stairwells decades ago; and elevator-time lore (time never passes within an elevator car) (Scene 5)
+- The Rationing Office, ration mailcarts, Corridor 134-C; the ration patrol massacre with Gneiss Dustman as sole survivor (Scene 5)
 
 ## Ongoing Editing Notes
 
-**Voice comes first.** Every blob is Beau narrating his own feed after the fact; his personality must color narration, exposition, and action alike. Concreteness and terseness are tools that serve the voice - they never replace it. The #1 failure mode is generic, clipped, voiceless dark-fantasy.
+**This project is anti-literary on purpose.** The failure mode is not bad writing, it is *competent literary writing*. A skilled writer's default "good prose" instinct - mood, polish, balanced metaphor, a clever closing line - is the enemy here. Before judging anything else, every blob must pass:
 
-**Patterns to stress:**
-- Keep Beau's hindsight, vanity, angle-working, and dark wit present in EVERY blob - not just the Personal ones.
-- Give each quoted character a distinct voice from the Voice Bible. A quote should be unmistakable as that speaker.
-- Ground description in concrete, specific nouns (ranks, floor/division numbers, real materials) as texture beneath the voice.
-- Use numeric and technical precision where it is funny or telling (timestamps, percentages, exact times).
-- Tie details to setting mechanics (magic key-phrases, corporate banality, the timeless date).
-- Vary rhythm deliberately: fragments AND longer rolling lines. Terseness is a choice, not the default.
-- In Action Poems, weave corporate-finance metaphor into the violence ("buckles like a bad fiscal year, then rises, back in the black"), use onomatopoeia ("Shlunk"), and reach for at least one cinematic, slow-motion image.
-- Name characters and invent products with absurd, specific, characterful proper nouns ("Vane Fiasco," "Milo Landonsonmum," "Doomsday Edition, Vol 27"), never generic ones.
-- Prefer concrete physical debris/specifics over summarizing aphorisms ("Corkboard walls, broken. Scattered manilla, spattered in red." beats "this is what corporate ruin looks like").
-- Weave established canon into the texture rather than naming it plainly ("The elevator's isolated temporally"; "sub-134 cockroach"; the obelisk's literal four-sided, pointy-tipped, hundred-thousand-foot shape).
+**THE TEST: "Would a real person actually post THIS, in their casual day-to-day, if the world were this corporate-horror setting?"** If it reads like novel-narration instead of a post, it fails. (Proven across every Scene 5 edit.)
 
-**Anti-patterns to avoid:**
-- Generic dark-fantasy register / a flat "clipped grim narrator." This is the cardinal sin.
-- Lyrical or melodramatic melancholy stated outright (keep Beau's sorrow under deadpan; see Narrator).
-- Re-explaining already-established canon (see Canon list). Reference it; never re-teach.
-- Flattening every speaker into one voice (or into Beau's voice).
-- Purple personification, ornate flourish, sentimental abstraction.
-- Terseness so total it strips out personality.
+**The five moves (the difference between a pass and a fail):**
+
+1. **Anchor every blob to a concrete, postable object.** Mood is what you write when you have nothing concrete. Open on a *thing*: a "Hang in there" cat poster, a recovered black-box recording, a roster notification with an exact timestamp. Never on atmosphere ("a long corporate hush, the same dread, circling the table" is an instant fail).
+2. **Never let the narrator gloss the irony.** Cut doom-glosses and emotional buttons ("They are walking into the teeth"; "So now do you"; "saving grandmother no packet"). State the bare fact (the roster, the count "one out of six") and stop. The reader connects it.
+3. **Kill the clever epigram.** The wittiest, most balanced line in a blob is usually the tell ("That isn't a HOW. That's a what"; "Subtracted line by line. Books closed."). Delete the line you are proudest of.
+4. **One controlling image per Action Poem, never a device-checklist.** Pick a single conceit and run it clean through (Scene 5's massacre = drowning: "tidal wave," "swims like a stone," "red puddles," "thusly flushed"). Finance-metaphor, onomatopoeia, and slow-mo are *options*, not a required set. Cramming all three reads as trying-hard.
+5. **Setting-native specifics over generic defaults.** "Mighty Words" not "welded"; "writ" not "ticket"; "carp scales" not "fallen leaves." Specific clothing/wound detail ("hole on the white left sleeve, a reddened shoe") over "coat torn."
+
+**Other durable patterns:**
+- Beau's voice must color even Dialogue/Quote blobs - an aside, a tag, a parenthetical "(Yes, chums, still cooped.)". A bare transcript with no Beau in it is dead.
+- Strip speaker name-tags when Beau's vantage warrants it (eavesdropped chatter, a black-box recording). It fits the conceit and removes sterile "Name:" attribution.
+- Redeploy established in-text devices rather than inventing parallel ones (the "- Ancient ballad" pop-lyric button; the stage-direction tableau). Match the existing quote-tag format (trailing "- Name").
+- Do NOT recycle a character's own prior signature metaphor as a callback too soon; it reads as repetition, not echo (Ulakhan's "knife"/"posterity" reused from Scene 4).
+- Each quoted character stays unmistakably themselves (Voice Bible). Numeric precision where it is funny or telling. Vary rhythm: fragments AND rolling lines.
+
+**Anti-patterns (cardinal sins, in order):**
+- Competent literary mood-prose. The #1 failure.
+- Narrator doom-glosses / spelled-out irony / emotional buttons.
+- Clever balanced epigrams.
+- Device-checklist Action Poems.
+- Dead similes ("like fallen leaves"), purple personification ("the dark inventories them"), self-aware vocab ("liminal").
+- Sterile attributed dialogue transcripts with no Beau in them.
+- Re-explaining established canon; flattening every speaker into one voice; lyrical melancholy stated outright.
