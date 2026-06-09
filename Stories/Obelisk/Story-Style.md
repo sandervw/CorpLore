@@ -35,8 +35,9 @@ Already described in earlier scenes. Reference by name and add only NEW, oblique
 - Mulch Team hierarchy, floor 134, the Capsule Vault (Scene 1)
 - Wheevils, Red Apes, the Jurasik, "the Creatures Electric" (Scene 2)
 - Stampers, Clevers (Scene 3)
-- The Gatling Laser Axe (named in Scene 4 as the catalogue item Beau covets; from "Doomsday Edition, Vol 27")
+- The Gatling Laser Axe ("Doomsday Edition, Vol 27"; Beau's coveted item, Scene 4)
 - The missing cat (planted; never flag its significance)
+- The Butler (named in Scene 6 with dread, never explained - keep it that way); Biting Tapioca, the Orias (passing mentions); the flooded floor-below labyrinth (hearsay only)
 - "Mighty Words" - the magic that sealed the down-stairwells decades ago; and elevator-time lore (time never passes within an elevator car) (Scene 5)
 - The Rationing Office, ration mailcarts, Corridor 134-C; the ration patrol massacre with Gneiss Dustman as sole survivor (Scene 5)
 
@@ -48,23 +49,23 @@ Already described in earlier scenes. Reference by name and add only NEW, oblique
 
 **The five moves (the difference between a pass and a fail):**
 
-1. **Anchor every blob to a concrete, postable object.** Mood is what you write when you have nothing concrete. Open on a *thing*: a "Hang in there" cat poster, a recovered black-box recording, a roster notification with an exact timestamp. Never on atmosphere ("a long corporate hush, the same dread, circling the table" is an instant fail).
-2. **Never let the narrator gloss the irony.** Cut doom-glosses and emotional buttons ("They are walking into the teeth"; "So now do you"; "saving grandmother no packet"). State the bare fact (the roster, the count "one out of six") and stop. The reader connects it.
-3. **Kill the clever epigram.** The wittiest, most balanced line in a blob is usually the tell ("That isn't a HOW. That's a what"; "Subtracted line by line. Books closed."). Delete the line you are proudest of.
+1. **Anchor every blob to a concrete, postable object.** Mood is what you write when you have nothing concrete. Open on a *thing*: a cat poster, a black-box recording, a timestamped roster - never on atmosphere ("a long corporate hush, circling the table" is an instant fail). Keep every artifact true to its moment of creation: pre-heist casing notes cannot know post-attack facts.
+2. **Never let the narrator gloss the irony or perform his dread.** Cut doom-glosses, emotional buttons, AND knowing winks ("They are walking into the teeth"; "I have stopped typing"; "(I already know. Do you?)"). State the bare fact - or just type the sound, "*HHHGGGGUUUUURR*" - and stop. The reader connects it.
+3. **Kill the symmetric line.** Balanced epigrams ("A wall does not beg the house for bricks") and neat anaphora builds ("They have... They have... I do.") are the deepest tells - the well-made line is the giveaway. Replace symmetry with asymmetric coinage ("we hominify the shield"; "keyhole-ear"). Delete the line you are proudest of.
 4. **One controlling image per Action Poem, never a device-checklist.** Pick a single conceit and run it clean through (Scene 5's massacre = drowning: "tidal wave," "swims like a stone," "red puddles," "thusly flushed"). Finance-metaphor, onomatopoeia, and slow-mo are *options*, not a required set. Cramming all three reads as trying-hard.
-5. **Setting-native specifics over generic defaults.** "Mighty Words" not "welded"; "writ" not "ticket"; "carp scales" not "fallen leaves." Specific clothing/wound detail ("hole on the white left sleeve, a reddened shoe") over "coat torn."
+5. **Setting-native specifics over generic defaults; similes scale DOWN.** "Mighty Words" not "welded"; "writ" not "ticket." Aim similes domestic and gross, never cinematic: "a skinned guineapig and turpentine" beats "a beach where something huge was skinned." Specific wound detail ("a reddened shoe") over "coat torn."
 
 **Other durable patterns:**
 - Beau's voice must color even Dialogue/Quote blobs - an aside, a tag, a parenthetical "(Yes, chums, still cooped.)". A bare transcript with no Beau in it is dead.
 - Strip speaker name-tags when Beau's vantage warrants it (eavesdropped chatter, a black-box recording). It fits the conceit and removes sterile "Name:" attribution.
 - Redeploy established in-text devices rather than inventing parallel ones (the "- Ancient ballad" pop-lyric button; the stage-direction tableau). Match the existing quote-tag format (trailing "- Name").
 - Do NOT recycle a character's own prior signature metaphor as a callback too soon; it reads as repetition, not echo (Ulakhan's "knife"/"posterity" reused from Scene 4).
-- Each quoted character stays unmistakably themselves (Voice Bible). Numeric precision where it is funny or telling. Vary rhythm: fragments AND rolling lines.
+- Each quoted character stays unmistakably themselves (Voice Bible). Numeric precision where it is funny or telling. Spend new throwaway proper nouns freely ("Biting Tapioca," "an Orias," "Eau de Tannery") - named in passing, never explained.
 
 **Anti-patterns (cardinal sins, in order):**
 - Competent literary mood-prose. The #1 failure.
-- Narrator doom-glosses / spelled-out irony / emotional buttons.
-- Clever balanced epigrams.
+- Narrator doom-glosses / spelled-out irony / performed-dread winks.
+- Symmetric rhetoric: balanced epigrams, anaphora builds.
 - Device-checklist Action Poems.
 - Dead similes ("like fallen leaves"), purple personification ("the dark inventories them"), self-aware vocab ("liminal").
 - Sterile attributed dialogue transcripts with no Beau in them.
