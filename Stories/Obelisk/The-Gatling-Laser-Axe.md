@@ -288,58 +288,52 @@ Picture the scene. The squat boss of the law is standing before his men, right h
 ## Scene 6
 
 **Dialogue:**
-Overheard from my cell:
+Snatched this nugget with a keyhole-ear:
 
-"Wall the door with the broken cubicles. A barricade for the ages, raised by your own hands."
+"Cover that door with broken corkboard. Erect a barricade."
 
-"Sir, deputize the supercorridor clerks?"
+"Sir, might we not deputize the supercorridor clerks?"
 
-"We are the wall those clerks sleep behind. A wall does not beg the house for bricks."
+"Nay. We are the buckler - we hominify the shield - behind which those clerks sleep."
 
 **Personal:**
-Then the long fluorescent tubes shudder, all at once.
+I see the long fluorescent tubes shudder, then throb slowly.
 
-A smell rolls in. Wet hide and lye, like a beach where something huge was skinned.
+A smell like a skinned guineapig and turpentine leaks through the keyhole.
 
-Far off, below, a growl.
+The law stops talking, listens.
 
-The mulchers look at each other.
+And from far (but not too far) off - thunderously:
 
-I have stopped typing.
+*HHHGGGGUUUUURR*
 
 **Question/Poll:**
-A poll, loves, purely for science. You catch a stink of lye and skinned hide off a cold beach, then a growl comes up from below your feet. What is it?
+Ambush! A feral friend poll attacks.
 
-- A draft
-- The plumbing
-- Nothing, sleep it off
-- (I already know. Do you?)
+You detect a whiff of Eau de Tannery, then a growl shakes the architecture. What is it?
 
-**Exposition:**
-My casing notes, from back when this was a job and not a cage:
-
-North outpost - up the switchback to 135. Comms dead. Fate unknown.
-
-Southeast outpost - gone.
-
-Downstairs - shut by Mighty Words.
-
-Elevator - only goes down.
+- Cursed Plumbing
+- A fat man's fart
+- Nothing
+- None of above - a whole different universe of bad
 
 **Exposition:**
-The floor below, which I know only by hearsay: a half-drowned maze, lights guttering in the wet, hallways bent wrong. Demons go down. Few come back up.
+Some casing notes from this botched job:
 
-That is the door the growl came through.
+Non-viable exits:
+- North office switchback; leads back to 135; 24/7 sentries
+- Southeast office; exterior windows; close to mulcher hq
+- Two stairwells; both magic-sealed
+- One elevator... going down
+
+**Exposition:**
+Personally I'm witless about Obelisk Replicas' first floors.
+
+Plagiarizedly: "...a sorcery-warped maze, lights flickering in flooded halls. Demons have gone down, dreaming of other lives, other companies. Perhaps they escaped; they never returned."
 
 **Personal:**
-Picture me at the glass, gone quiet for once.
+The mulchers trade the question: "What was that?" Even the old-timers only know Creatures Electric. Wheevils. Biting Tapioca. One or two have heard the cry of an Orias.
 
-The mulchers ask each other what it is.
+They don't know this sound - don't know what yours truly knows.
 
-They have a name for the wheevils. The apes. The Jurasik.
-
-They have no name for this one.
-
-I do.
-
-It is a Butler.
+...A Butler.
