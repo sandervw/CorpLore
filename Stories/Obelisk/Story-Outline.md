@@ -96,13 +96,37 @@ Blobs (N1 = office; N2 = patrol; begins and ends in N1, Beau's anchor narrative.
 - *N2 Action Poem:* The cart abandoned, rations scattered, only Gneiss escapes.
 - *N1 Personal:* Beau describes a silence falling over the office as the mulchers hear the distant screams of dying men (the very thing we just saw).
 
-### Remaining Scenes
+### Scene 6
 
-**Scene 6:** The overhead lights shake, the air is full of the smell of a flensing beach, and they hear a distant growl; the Mulchers are not familiar, but Beau is - a *Butler* has came
-- Exposition break - explain the floor layout:
-  - Mulch Team Outpost Rooms: Two - one at the bottom of the main switchback stairway leading to floor 135, two miles north on the main supercorridor, one down a series of twisting connecting hallways, roughly southeast, about a 30-minute walk
-  - Connecting Stairwells/Elevators: three stairs - 1 at the end of the supercorridor, going up, two within 5 minutes of the second mulch team outpost, one goes down 3 floors at a time, 1 is normal, both are sealed; the elevator (which is a limnal space *within* the elevator) has been defunct for 50 years - it only goes down
-  - Floor below: a labyrinth of flickering lights and malformations of architecture, semi-flooded
+The mulchers are preparing to defend themselves. Ulakhan orders them to throw up a barricade from the broken cubicles; some of the men argue for enlisting civilian aid from the nearby offices. As they prepare, the overhead lights shake, the air is full of the smell of a flensing beach, and they hear a distant growl; the Mulchers are not familiar with the sound.
+
+At this moment, pause for an exposition break - beau expands upon the floor layout, describing it like he scoped it out beforehand (for the purposes of his heist):
+- Mulch Team Outpost Rooms - Two:
+  - one at the bottom of the main switchback stairway leading UP, to floor 135, two miles north on the main supercorridor (contact lost when comms were chewed)
+  - one down a series of twisting connecting hallways, roughly southeast, about a 30-minute walk (now destroyed)
+- Connecting Stairwells - three:
+  - 1 at the end of the supercorridor, going UP, to floor 135 (where the unknown-fate outpost i)
+  - two within 5 minutes of the destroyed outpost
+    - one goes down 3 floors at a time
+    - 1 is normal
+    - both are sealed
+- the elevator (which is a limnal space *within* the elevator - time never passes inside) has been defunct for 50 years - it only goes down
+- Floor below: a labyrinth of flickering lights and malformations of architecture, semi-flooded (Beau knows only of this place only through heresay - few are the demons who have returned)
+
+After the exposition break, have Beau jump back in. As the mulchers stand in silence, Beau breaks it. He tells the Mulchers that *he* know what the distant sounds was...
+
+...A Bulter. (*set it up like Gandalf in Moria: "A balrog. A demon of the ancient world."*)
+
+Blobs:
+
+- *Dialogue:* The mulchers prepare defenses. Ulakhan orders a barricade thrown up from the broken cubicles; a mulcher argues for enlisting civilian aid from the nearby offices. (Beau relays it overheard from his cell; distinct mulcher voices, Ulakhan in his own.)
+- *Personal:* The omen. The overhead lights shudder, a flensing-beach reek floods the room, a distant growl. The mulchers do not know the sound - no naming yet.
+- *Question/Poll:* Beau works his followers about the smell and the sound - he asks the question in a way that suggests *he* knows the answer.
+- *Exposition:* Beau's thief's-eye recon of the floor's exits, as if he cased it for the heist: the north outpost up the switchback to 135 (comms dead, fate unknown), the southeast one already gone, the down-stairs sealed, the elevator only descends. (Reference the sealed stairs / elevator-time obliquely.)
+- *Exposition:* The floor below, known to Beau only by hearsay: a semi-flooded labyrinth of flickering light and warped architecture; few who go down return.
+- *Personal:* Beau breaks the silence and names it - a Butler - delivered like Gandalf naming the Balrog. End on the name.
+
+### Remaining Scenes
 
 **Scene 7:** Gneiss runs in, last survivor of forward unit, with creatures on his heels; the defensive outpost is overrun; Beau is finally set free by the rookie, but it is too late; they all retreat into the main armory
 - Describe the vault: Entrance is a pair of patterned steel doors, 50 feet along the hallway on the south side of main office

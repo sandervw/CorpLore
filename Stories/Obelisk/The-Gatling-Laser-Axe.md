@@ -284,3 +284,62 @@ One out of six.
 
 **Personal:**
 Picture the scene. The squat boss of the law is standing before his men, right hand in trouser pocket, left hand raised, decreeing. Then from outside, one distant scream. Then not a word is spoken, but every ear strains... what's coming?
+
+## Scene 6
+
+**Dialogue:**
+Overheard from my cell:
+
+"Wall the door with the broken cubicles. A barricade for the ages, raised by your own hands."
+
+"Sir, deputize the supercorridor clerks?"
+
+"We are the wall those clerks sleep behind. A wall does not beg the house for bricks."
+
+**Personal:**
+Then the long fluorescent tubes shudder, all at once.
+
+A smell rolls in. Wet hide and lye, like a beach where something huge was skinned.
+
+Far off, below, a growl.
+
+The mulchers look at each other.
+
+I have stopped typing.
+
+**Question/Poll:**
+A poll, loves, purely for science. You catch a stink of lye and skinned hide off a cold beach, then a growl comes up from below your feet. What is it?
+
+- A draft
+- The plumbing
+- Nothing, sleep it off
+- (I already know. Do you?)
+
+**Exposition:**
+My casing notes, from back when this was a job and not a cage:
+
+North outpost - up the switchback to 135. Comms dead. Fate unknown.
+
+Southeast outpost - gone.
+
+Downstairs - shut by Mighty Words.
+
+Elevator - only goes down.
+
+**Exposition:**
+The floor below, which I know only by hearsay: a half-drowned maze, lights guttering in the wet, hallways bent wrong. Demons go down. Few come back up.
+
+That is the door the growl came through.
+
+**Personal:**
+Picture me at the glass, gone quiet for once.
+
+The mulchers ask each other what it is.
+
+They have a name for the wheevils. The apes. The Jurasik.
+
+They have no name for this one.
+
+I do.
+
+It is a Butler.
