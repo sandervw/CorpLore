@@ -3,7 +3,7 @@
 ## Scene 1
 
 **Personal:**
-Beau's daily splendid-and-awful:
+Gneiss's daily splendid-and-awful:
 - Awful: Got caught for "Grand Theft Replica"
 - Awful: This holding office is beside floor 134's central radiator - brick-oven-climate, shatterproof windows, pickproof door
 - Splendid: The mulcher bastards let me keep my coat
@@ -24,12 +24,12 @@ Why are Mulch Teams in charge of Obelisk's legacy replicas? That seems like a jo
 The Mulch Team caught me trying to get into one of The Capsule Vaults. Apparently "Sorry sir, I thought this was a bathroom," doesn't work as an excuse. But really, what's the trouble? No one's using that decommissioned gear.
 
 **Exposition:**
-Three workweeks ago, Mr. Vincent Ulakhan assumed the post of Chief Executive Mulcher on floor 134, south department. His first acts? Spread the Mulch Team across a main office and two remote stations. Halve guard-shifts watching the down-stairwells.
+Three workweeks ago, Mr. Morel Ulakhan assumed the post of Chief Executive Mulcher on floor 134, south department. His first acts? Spread the Mulch Team across a main office and two remote stations. Halve guard-shifts watching the down-stairwells.
 
 **Dialogue:**
-Junior-Mulcher Gneiss Dustman: "Why has not grandmother, who always has something to say, replied to my last email?"
+Junior-Mulcher Joiyuss Dustman: "Why has not grandmother, who always has something to say, replied to my last email?"
 
-Drudge Allan Smike (Waste and Power): "Comms wire got chewed. Whole department's cut off."
+Drudge Aybul Smike (Waste and Power): "Comms wire got chewed. Whole department's cut off."
 
 Mr. Dustman: "...Chewed by what?"
 
@@ -37,7 +37,7 @@ Mr. Dustman: "...Chewed by what?"
 "I shall be crystalline - the recent communication isolation from other departments has nothing to do with whatever might or might not live below floor 134. All stairs and elevators to those levels are sealed." - Chief Executive Mulcher Ulakhan
 
 **Personal:**
-I was born and raised in Obelisk Replicas. (The same as every demon in the last fiscal millenia.) They call me Big Beau. Big Beau's never been below. But Big Beau HAS seen what comes from below. The Creatures Electric. 
+I was born and raised in Obelisk Replicas. (The same as every demon in the last fiscal millenia.) They call me Big Gneiss Rong. Big Gneiss Rong's never been below. But Big Gneiss Rong HAS seen what comes from below. The Creatures Electric. 
 
 They are not cuddly.
 
@@ -54,7 +54,7 @@ Mulcher Larzod: "Hopefully it fell down a stairwell. Best cat's a dead cat."
 Davidson: "...It liked you best."
 
 **Quote:**
-"The last hour of my watch. I stand at the thick crystal - an exterior window - and behold. The tiers below. Scaffolded gardens drinking dusk. Soon I trade my cigarette for my cubicle cot. Pretty quiet shift for third Wednesday." - Mulcher Kieth
+"The last hour of my watch. I stand at the thick crystal - an exterior window - and behold. The tiers below. Scaffolded gardens drinking dusk. Soon I trade my cigarette for my cubicle cot. Pretty quiet shift for third Wednesday." - Mulcher Qwyett
 
 **Question/Poll:**
 Night-shift question for my fellow doomed wretches: which omen bugs you the most?
@@ -86,7 +86,7 @@ A pink flood.
 So the Mulchers died without ceremony.
 Nicholson, kneaded, like dough.
 Larzod gored.
-Kieth turned from his crystal prospect,
+Qwyett turned from his crystal prospect,
 and was thrown through the glass.
 The last glowing cigarettes stub fades to black.
 Silence upon the branch office.
@@ -128,7 +128,7 @@ then rises,
 Back in the black.
 
 **Personal:**
-Me, nose flat against mesh-reinforced glass, halloaing: "GLAMOUROUSLY BLOODY, kind sir! Proper mulching! Mulchering? Big Beau would butcher with you, gentlemen, if SOMEONE had a key."
+Me, nose flat against mesh-reinforced glass, halloaing: "GLAMOUROUSLY BLOODY, kind sir! Proper mulching! Mulchering? Big Gneiss Rong would butcher with you, gentlemen, if SOMEONE had a key."
 
 Mulcher: *fighting, ignoring me.*
 
@@ -154,13 +154,13 @@ And here's me, humble as a celibate uncle, jailed. Outrageous.
 **Dialogue:**
 Mulcher Vane Fiasco: "He says his coat smuggles him around trouble. He says he'll warn another department for us."
 
-First Mulcher Milo Landonsonmum: "HE says. HE won't say HOW. A man that cagey about a coat has stitched in the lining."
+First Mulcher Sturn Landonsonmum: "HE says. HE won't say HOW. A man that cagey about a coat has stitched in the lining."
 
 **Personal:**
 The Mulchers wanted to know the trick of my coat. I'll keep that to myself, thank you. That's one of those private (and privately distressing) secrets. Let them think me a charlatan in a nice coat. I'll take temporary detention over potential indenture.
 
 **Quote:**
-"My team. A gentle career is an exploited one. I would have my demons made fierd. I would have us pay, in our careers, that heavy sum, so the demons of loftier vantages may never ask the price. Posterity is our client." - Vincent Ulakhan
+"My team. A gentle career is an exploited one. I would have my demons made fierd. I would have us pay, in our careers, that heavy sum, so the demons of loftier vantages may never ask the price. Posterity is our client." - Morel Ulakhan
 
 **Dialogue:**
 Mulcher Fiasco: "The stairs are sealed. So they tunneled the walls."
@@ -175,7 +175,7 @@ Pell: "Maybe they FELL up. Or were always here. Or we sealed them IN."
 I'm the demon in this room who's studied, most-closely, the Creatures Electric, and these 'experts' consult each other. I've seen more Creatures than a sub-134 cockroach, but this roach beside me gets more respect. For it, they keep the lights off.
 
 **Quote:**
-"A burglar tells history only the version that flatters him. I do not trust the burglar; a knife also is a thing one does not trust set free, and one carries it anyway. Keep the burglar sheathed, yet close." - Vincent Ulakhan
+"A burglar tells history only the version that flatters him. I do not trust the burglar; a knife also is a thing one does not trust set free, and one carries it anyway. Keep the burglar sheathed, yet close." - Morel Ulakhan
 
 **Personal:**
 Here is what I told no mulcher, lovelies, only you: there was this yellowed, waterstained Obelisk catalogue of replica: Doomsday Edition, Vol 27. And on page whatever: the Gatling Laser Axe. And my stupid heart thought, 'That looks unbearably SICK.'
@@ -210,12 +210,12 @@ Eavesdropped mulcher discourse:
 **Exposition:**
 Floor-notification, ????-06-06 04:27:28.006:
 
-"RATIONS Status: M's McNish, Strauss, Dustman, Cornelius, Rong, and Scarborough - returning from Rationing with full mailcart. Location - 134-C. ETA - 10 minutes."
+"RATIONS Status: M's McNish, Strauss, Dustman, Cornelius, Chai, and Scarborough - returning from Rationing with full mailcart. Location - 134-C. ETA - 10 minutes."
 
 **Dialogue:**
 *From a mailcart's black box:*
 
-M. Rong: "Sardine noodles. Blech. I'd kill for egg."
+M. Chai: "Sardine noodles. Blech. I'd kill for egg."
 
 Unknown mulcher: "Kill for AN egg."
 
@@ -267,19 +267,19 @@ Five dayjob mulchers,
 Are thusly flushed.
 
 **Quote:**
-"I now lay down the fate of this man, who is a miscreant. Then shall the example shall exist by which others - villains who would violate the solemn security of Obelisk Replicas' capsule vaults - may all be..." - Vincent Ulakhan
+"I now lay down the fate of this man, who is a miscreant. Then shall the example shall exist by which others - villains who would violate the solemn security of Obelisk Replicas' capsule vaults - may all be..." - Morel Ulakhan
 
 **Action Poem:**
 One wheel spinning on an upturned cart.
 Potato chips,
 like carp scales,
 spread across pickle-colored carpet.
-Gneiss Dustman,
+Joiyuss Dustman,
 Hole on white left sleeve,
 A reddened shoe,
 Padding,
 Down the hall.
-Gneiss returns,
+Joiyuss returns,
 One out of six.
 
 **Personal:**

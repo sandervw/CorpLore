@@ -4,29 +4,29 @@ The living style guide for "The Gatling Laser Axe." Read this before drafting or
 
 ## Narrator (read first)
 
-**The entire feed is Beau's.** He is tweeting the whole story after the fact, curating it for an audience. This is the most important rule: *every blob is Beau posting*, regardless of type.
-- **Personal** = Beau speaking plainly as himself.
-- **Exposition** = Beau explaining lore/setting to his followers, in his own voice and with his own asides (NOT a neutral encyclopedia narrator).
-- **Quote/Dialogue** = Beau relaying what others said, often with his spin or a tag.
-- **Question/Poll** = Beau working the crowd.
-- **Action Poem** = Beau's dramatized reconstruction of events (even ones he didn't witness; he's narrating from logs, rumor, and imagination).
+**The entire feed is Gneiss's.** He is tweeting the whole story after the fact, curating it for an audience. This is the most important rule: *every blob is Gneiss posting*, regardless of type.
+- **Personal** = Gneiss speaking plainly as himself.
+- **Exposition** = Gneiss explaining lore/setting to his followers, in his own voice and with his own asides (NOT a neutral encyclopedia narrator).
+- **Quote/Dialogue** = Gneiss relaying what others said, often with his spin or a tag.
+- **Question/Poll** = Gneiss working the crowd.
+- **Action Poem** = Gneiss's dramatized reconstruction of events (even ones he didn't witness; he's narrating from logs, rumor, and imagination).
 
-**Beau's voice:** vain, wry, self-mythologizing, a doomed-aristocrat melancholy under the jokes (Elric meets Meleoron). An outsider thief who is always working an angle. Hindsight and dark humor color everything. He name-drops himself, undercuts dread with a quip, and quips to hide dread. He plays with words and reaches for archaic verbs. His Personal blobs can drop into stage-direction format with a deadpan button line. He addresses his followers, and likes off-kilter similes ("humble as a celibate uncle").
+**Gneiss's voice:** vain, wry, self-mythologizing, a doomed-aristocrat melancholy under the jokes (Elric meets Meleoron). An outsider thief who is always working an angle. Hindsight and dark humor color everything. He name-drops himself, undercuts dread with a quip, and quips to hide dread. He plays with words and reaches for archaic verbs. His Personal blobs can drop into stage-direction format with a deadpan button line. He addresses his followers, and likes off-kilter similes ("humble as a celibate uncle").
 
-**Beau's melancholy is SUBTEXT, never lyricism.** Express the sorrow through dry deadpan, self-deprecation, or corporate-transactional diction - never a poetic statement of feeling.
+**Gneiss's melancholy is SUBTEXT, never lyricism.** Express the sorrow through dry deadpan, self-deprecation, or corporate-transactional diction - never a poetic statement of feeling.
 
-**Beau narrates, but does not step on a quoted speaker's grandeur.** When relaying an oration (e.g. Ulakhan), let it stand at full height.
+**Gneiss narrates, but does not step on a quoted speaker's grandeur.** When relaying an oration (e.g. Ulakhan), let it stand at full height.
 
-**Beau is never a named speaker in a Dialogue/Quote blob.**
+**Gneiss is never a named speaker in a Dialogue/Quote blob.**
 
 ## Character Voice Bible
 
-When a blob quotes a character, that character speaks in their OWN voice below. Do NOT collapse quotes into Beau's voice or a generic clipped tone.
-- **Beau** - narrator of all blobs; see Narrator section.
-- **Vincent Ulakhan (Chief Executive Mulcher)** - Napoleonic orator: grand, paternal, posterity-minded, rhetorical sweep, addresses his troops, invokes destiny and history. Never terse. Lean archaic and elevated. Let the oration stand at full height; Beau does not undercut it inline. Express his grandeur through corporate-ladder language rather than military terms
-- **Gneiss Dustman** - formal, archaic, oddly tender phrasing; a quiet, glassy strangeness beneath
-- **Generic Mulchers** - flat, corporate, procedural; distinct from Beau, and from each other where named.
-- **Dead ration patrol** (Scene 5) - McNish, Strauss, Cornelius, Rong, Scarborough; do not reuse these names. Gneiss survived.
+When a blob quotes a character, that character speaks in their OWN voice below. Do NOT collapse quotes into Gneiss's voice or a generic clipped tone. Any NEW named demon gets a misspelled-adjective first name - e.g. Joiyuss (Joyous), Qwyett (Quiet); surname-only is fine.
+- **Gneiss** - narrator of all blobs; see Narrator section.
+- **Morel Ulakhan (Chief Executive Mulcher)** - Napoleonic orator: grand, paternal, posterity-minded, rhetorical sweep, addresses his troops, invokes destiny and history. Never terse. Lean archaic and elevated. Let the oration stand at full height; Gneiss does not undercut it inline. Express his grandeur through corporate-ladder language rather than military terms
+- **Joiyuss Dustman** - formal, archaic, oddly tender phrasing; a quiet, glassy strangeness beneath
+- **Generic Mulchers** - flat, corporate, procedural; distinct from Gneiss, and from each other where named.
+- **Dead ration patrol** (Scene 5) - McNish, Strauss, Cornelius, Chai, Scarborough; do not reuse these names. Joiyuss survived.
 
 ## Canon Established (do NOT re-explain)
 
@@ -35,11 +35,11 @@ Already described in earlier scenes. Reference by name and add only NEW, oblique
 - Mulch Team hierarchy, floor 134, the Capsule Vault (Scene 1)
 - Wheevils, Red Apes, the Jurasik, "the Creatures Electric" (Scene 2)
 - Stampers, Clevers (Scene 3)
-- The Gatling Laser Axe ("Doomsday Edition, Vol 27"; Beau's coveted item, Scene 4)
+- The Gatling Laser Axe ("Doomsday Edition, Vol 27"; Gneiss's coveted item, Scene 4)
 - The missing cat (planted; never flag its significance)
 - The Butler (named in Scene 6 with dread, never explained - keep it that way); Biting Tapioca, the Orias (passing mentions); the flooded floor-below labyrinth (hearsay only)
 - "Mighty Words" - the magic that sealed the down-stairwells decades ago; and elevator-time lore (time never passes within an elevator car) (Scene 5)
-- The Rationing Office, ration mailcarts, Corridor 134-C; the ration patrol massacre with Gneiss Dustman as sole survivor (Scene 5)
+- The Rationing Office, ration mailcarts, Corridor 134-C; the ration patrol massacre with Joiyuss Dustman as sole survivor (Scene 5)
 
 ## Ongoing Editing Notes
 
@@ -56,8 +56,8 @@ Already described in earlier scenes. Reference by name and add only NEW, oblique
 5. **Setting-native specifics over generic defaults; similes scale DOWN.** "Mighty Words" not "welded"; "writ" not "ticket." Aim similes domestic and gross, never cinematic: "a skinned guineapig and turpentine" beats "a beach where something huge was skinned." Specific wound detail ("a reddened shoe") over "coat torn."
 
 **Other durable patterns:**
-- Beau's voice must color even Dialogue/Quote blobs - an aside, a tag, a parenthetical "(Yes, chums, still cooped.)". A bare transcript with no Beau in it is dead.
-- Strip speaker name-tags when Beau's vantage warrants it (eavesdropped chatter, a black-box recording). It fits the conceit and removes sterile "Name:" attribution.
+- Gneiss's voice must color even Dialogue/Quote blobs - an aside, a tag, a parenthetical "(Yes, chums, still cooped.)". A bare transcript with no Gneiss in it is dead.
+- Strip speaker name-tags when Gneiss's vantage warrants it (eavesdropped chatter, a black-box recording). It fits the conceit and removes sterile "Name:" attribution.
 - Redeploy established in-text devices rather than inventing parallel ones (the "- Ancient ballad" pop-lyric button; the stage-direction tableau). Match the existing quote-tag format (trailing "- Name").
 - Do NOT recycle a character's own prior signature metaphor as a callback too soon; it reads as repetition, not echo (Ulakhan's "knife"/"posterity" reused from Scene 4).
 - Each quoted character stays unmistakably themselves (Voice Bible). Numeric precision where it is funny or telling. Spend new throwaway proper nouns freely ("Biting Tapioca," "an Orias," "Eau de Tannery") - named in passing, never explained.
@@ -68,5 +68,5 @@ Already described in earlier scenes. Reference by name and add only NEW, oblique
 - Symmetric rhetoric: balanced epigrams, anaphora builds.
 - Device-checklist Action Poems.
 - Dead similes ("like fallen leaves"), purple personification ("the dark inventories them"), self-aware vocab ("liminal").
-- Sterile attributed dialogue transcripts with no Beau in them.
+- Sterile attributed dialogue transcripts with no Gneiss in them.
 - Re-explaining established canon; flattening every speaker into one voice; lyrical melancholy stated outright.

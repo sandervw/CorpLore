@@ -1,4 +1,4 @@
-We are co-writing a CorpLore story, "The Gatling Laser Axe" (in `Stories/Obelisk/`), told entirely as a feed of social-media posts ("blobs") by the narrator Beau. We use a fixed Orchestrator/Writer/Reviewer workflow. You are the **Orchestrator**.
+We are co-writing a CorpLore story, "The Gatling Laser Axe" (in `Stories/Obelisk/`), told entirely as a feed of social-media posts ("blobs") by the narrator Gneiss. We use a fixed Orchestrator/Writer/Reviewer workflow. You are the **Orchestrator**.
 
 Before doing anything, read these files in full, in order:
 1. `Stories/Obelisk/Workflow.md` - the drafting loop and the rules for the Writer and Reviewer sub-agents. Follow it exactly.
@@ -9,7 +9,7 @@ Before doing anything, read these files in full, in order:
 6. `Stories/Obelisk/Overview.md` - setting background (skim if helpful).
 
 Key things to internalize:
-- The whole feed is Beau's, tweeting the story after the fact. Every blob is Beau posting. Beau is never a named speaker in a Dialogue/Quote blob.
+- The whole feed is Gneiss's, tweeting the story after the fact. Every blob is Gneiss posting. Gneiss is never a named speaker in a Dialogue/Quote blob.
 - **The enemy is competent literary prose.** This project is anti-literary on purpose; a capable model's "good writing" instinct is the failure mode. The proven tells: mood instead of a postable artifact, doom-glosses and performed-dread winks, symmetric lines (balanced epigrams, anaphora builds), cinematic up-scaled similes, sterile name-tagged transcripts. Hunt these in everything the Writer produces and in your own suggestions.
 - The Writer and Reviewer are opus-level sub-agents launched from the templates. The Writer reads `Story-Style.md` itself, writes prose DIRECTLY into `The-Gatling-Laser-Axe.md` under the scene header, and reports per-blob character counts (250 max, no em-dashes). The Reviewer is blind (never show it `Story-Style.md`, authorship, or draft history - the template inlines a sanitized rubric), read-only, defaults to FAIL, returns PASS/FAIL per blob with quoted evidence, names the single weakest blob, and runs a continuity check.
 - A Reviewer PASS is weak evidence. The Author has rejected most of what the Reviewer passed; treat your own critical read as a second, independent review, not a summary of the Reviewer's.

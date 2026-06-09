@@ -2,7 +2,7 @@
 
 ## Plot Summary
 
-Beau and his fellow demons must defend cache of legacy replica weapons/gear from The Creatures Electric.
+Gneiss and his fellow demons must defend cache of legacy replica weapons/gear from The Creatures Electric.
 
 **This story is written in a series of social media posts.** Break down each scene like its a series of tweets, but if the tweets were written by Elric of Melnibone, or 
 
@@ -19,17 +19,17 @@ The following are the different types of posts, or "blobs":
 
 ### Scene 1:
 
-Beau has been detained by The Mulch Team (Mulchers; Obelisk's demon police force) at their frontier outpost. Describe Beau's coat: A long wool trenchcoat that has a different color every time someone looks at it; Beau activites it by buttoning up the front. He was trying to steal from *The Capsule Vault* - an old storage supply of decommissioned Obelisk Replicas gear. He is locked in a 'holding cell' - a private office with a a shatterproof window and locked door. The Mulchers receive word that the communication wires to the adjoining levels/floors have been cut (chewed through) - they know something is coming. The Mulchers think it impossible that it is The Creatures electric, because all stairways/elevators to the lower levels have been permanently sealed
+Gneiss has been detained by The Mulch Team (Mulchers; Obelisk's demon police force) at their frontier outpost. Describe Gneiss's coat: A long wool trenchcoat that has a different color every time someone looks at it; Gneiss activites it by buttoning up the front. He was trying to steal from *The Capsule Vault* - an old storage supply of decommissioned Obelisk Replicas gear. He is locked in a 'holding cell' - a private office with a a shatterproof window and locked door. The Mulchers receive word that the communication wires to the adjoining levels/floors have been cut (chewed through) - they know something is coming. The Mulchers think it impossible that it is The Creatures electric, because all stairways/elevators to the lower levels have been permanently sealed
 
 Blobs:
-- *Personal:* Beau opens, saying: downside, he's been detained for "Grand Theft Replica"; downside, the holding office they've got him in is right next to the main heat-radiator for floor 134; upside, they let him keep his Coat of Seven Senses
+- *Personal:* Gneiss opens, saying: downside, he's been detained for "Grand Theft Replica"; downside, the holding office they've got him in is right next to the main heat-radiator for floor 134; upside, they let him keep his Coat of Seven Senses
 - *Exposition:* The Coat of Senses - what it looks like, and how it works
 - *Question/Poll:* Why is the Mulch Team in charge of blockign access to legacy replicas stored in vaults?
-- *Personal:* Beau explains he was trying to steal from *The Capsule Vault* - an old storage supply of decommissioned Obelisk Replicas gear
+- *Personal:* Gneiss explains he was trying to steal from *The Capsule Vault* - an old storage supply of decommissioned Obelisk Replicas gear
 - *Exposition:* Current Mulch Team Heirarchy, outpost, and duties on floor 134 (frame as news report)
 - *Dialogue:* The Mulchers receive word that the communication wires to the adjoining levels/floors have been cut (chewed through) - they know something is coming
 - *Quote:* The Mulcher Chief think it impossible that it is anything from below floor 134, because all stairways/elevators to the lower levels have been permanently sealed
-- *Personal:* Beau says that he's never been below floor 134 of Obelisk Replicas; but he has seen The Creatures Electric before - he doesn't recommend
+- *Personal:* Gneiss says that he's never been below floor 134 of Obelisk Replicas; but he has seen The Creatures Electric before - he doesn't recommend
 
 ### Scene 2
 
@@ -47,54 +47,54 @@ Blobs:
 
 ### Scene 3
 
-Scene 3 opens back at the main Mulcher office on floor 134. Start with a focused, detailed, but brief still-frame of The Creatures Electric about to break in. Then show the mulchers ready for them, defending the office. The mulchers use their company-issued weapons (not replicas; a mix of Obelisk-issued "stampers", which are basically six-chambered guns that launch metal dowels, and Obelisk-issued clevers). Sicne there are more mulchers here (about 20) and since they are ready, they are able to hold off the initial wave. Mr. Vincent Ulakhan (The Chief Executive Mulcher) leads the defense. Beau can only watch from his holding room, but he calls out encouragement to the beleagured mulchers (somewhat trying ot ingratiate himself).
+Scene 3 opens back at the main Mulcher office on floor 134. Start with a focused, detailed, but brief still-frame of The Creatures Electric about to break in. Then show the mulchers ready for them, defending the office. The mulchers use their company-issued weapons (not replicas; a mix of Obelisk-issued "stampers", which are basically six-chambered guns that launch metal dowels, and Obelisk-issued clevers). Sicne there are more mulchers here (about 20) and since they are ready, they are able to hold off the initial wave. Mr. Morel Ulakhan (The Chief Executive Mulcher) leads the defense. Gneiss can only watch from his holding room, but he calls out encouragement to the beleagured mulchers (somewhat trying ot ingratiate himself).
 
 Blobs:
 - *Exposition:* A still-frame - the Creatures Electric massed at the three thresholds of the main office. Describe it like a heronymous-bosch painting. Tight, focused description of the specific creatures. Ends right as they move.
 - *Exposition:* The company arsenal, field-guide style - Obelisk-issued *stampers* (six-chambered guns that launch metal dowels) and *clevers*. Cold catalogue tone.
 - *Quote:* Chief Executive Ulakhan - a single grim line as the wave hits - like something Napoleon Bonaparte might have said before Austerlitz. Establishes him as the steady hand leading roughly 20 ready mulchers.
 - *Action Poem:* The breach and the holding. The creatures electric burst in, attacking from all three sides at once; dowels and clevers answer; the line bends but holds. Visceral, concrete material, literal action. Focus on specific injuries, bodily damage, how The Creatures Electric and the defending demons move (and bleed). Be greusome.
-- *Personal:* Beau from his holding room, pressed to the shatterproof glass, shouting encouragement to mulchers who are not his friends. Transparently ingratiating, darkly funny, angling to be useful (and freed).
+- *Personal:* Gneiss from his holding room, pressed to the shatterproof glass, shouting encouragement to mulchers who are not his friends. Transparently ingratiating, darkly funny, angling to be useful (and freed).
 - *Quote:* A mulcher notes, flatly, that it was mostly wheevils, and that they normally form into much larger attacks than this - and that wheevils shouldn't be here anyway...
 
 ### Scene 4
 
-Describe the mulcher office, post-destruction: A corporate cubicle floorspace, about 20 employees living in their cubicles, ~8 private office (1 for meals, 1 for the Chief Executive Mulcher, one each for the First and Second Mulcher, etc) - but the whole thing is slightly dishevled now, after the attack. Now, the demon Mulchers assess their situation; they know that more Creatures cannot be far - they must be swarming the halls. Beau tries again to convince them to let him fight/help - to let them use his Coat of the Seven Senses for their mutual good. He does not explain it fully, but mentions his coat would give him the power to sneak past the Creatures, and warn another department. The mulchers don't answer him right away; they debate how the creatures could have gotten up. Finally they remember Beau. The Mulchers question him as to why he wanted into the vault. After dodging, he admits he saw one of vault's items in a yellowed catalogue, and thought it looked *sick*. He doesn't say which item.
+Describe the mulcher office, post-destruction: A corporate cubicle floorspace, about 20 employees living in their cubicles, ~8 private office (1 for meals, 1 for the Chief Executive Mulcher, one each for the First and Second Mulcher, etc) - but the whole thing is slightly dishevled now, after the attack. Now, the demon Mulchers assess their situation; they know that more Creatures cannot be far - they must be swarming the halls. Gneiss tries again to convince them to let him fight/help - to let them use his Coat of the Seven Senses for their mutual good. He does not explain it fully, but mentions his coat would give him the power to sneak past the Creatures, and warn another department. The mulchers don't answer him right away; they debate how the creatures could have gotten up. Finally they remember Gneiss. The Mulchers question him as to why he wanted into the vault. After dodging, he admits he saw one of vault's items in a yellowed catalogue, and thought it looked *sick*. He doesn't say which item.
 
 Blobs:
-- *Exposition:* Beau describes the office post-attack - the disheveled cubicle-floorspace (~20 cubicle-homes, ~8 private offices), wrecked, from his cell vantage. His framing of corporate ruin.
-- *Personal:* Beau takes stock - Creatures still out in the halls, everyone knows it. His read on the room's mood: fear papered over with procedure. He laments *still* being locked in.
-- *Dialogue:* Two named mulchers debate Beau's pitch: let him help, he says, his coat can slip him past the Creatures to warn another department. One comments on how he is cagey on the *how*.
-- *Personal:* Why Beau won't explain the coat fully. Touch the curse *subtextually*. He'd rather be thought a charlatan than be pitied.
-- *Quote:* Ulakhan, ignoring Beau, addresses his mulchers instead - napoleonic, paternal, his "demonkind must be hardened" philosophy.
+- *Exposition:* Gneiss describes the office post-attack - the disheveled cubicle-floorspace (~20 cubicle-homes, ~8 private offices), wrecked, from his cell vantage. His framing of corporate ruin.
+- *Personal:* Gneiss takes stock - Creatures still out in the halls, everyone knows it. His read on the room's mood: fear papered over with procedure. He laments *still* being locked in.
+- *Dialogue:* Two named mulchers debate Gneiss's pitch: let him help, he says, his coat can slip him past the Creatures to warn another department. One comments on how he is cagey on the *how*.
+- *Personal:* Why Gneiss won't explain the coat fully. Touch the curse *subtextually*. He'd rather be thought a charlatan than be pitied.
+- *Quote:* Ulakhan, ignoring Gneiss, addresses his mulchers instead - napoleonic, paternal, his "demonkind must be hardened" philosophy.
 - *Dialogue:* The mulchers debate how the Creatures climbed past sealed stairs, trading possibilities, each more impossible/nonsensical than the last (like some kind of Dr. Seuss parody of a fiscal disaster).
-- *Personal:* Beau's private frustration - he's the only one here who's *seen* the Creatures, the most useful demon in the room, and he's *a specific piece of* furniture.
-- *Dialogue:* They finally round on Beau. Ulakhan and the First Mulcher interrogate him - why the vault? They don't allow him to speak, or divert
-- *Quote:* Ulakhan's verdict on Beau - posterity-flavored, distrustful of a thief, but a flicker of seeing his use.
+- *Personal:* Gneiss's private frustration - he's the only one here who's *seen* the Creatures, the most useful demon in the room, and he's *a specific piece of* furniture.
+- *Dialogue:* They finally round on Gneiss. Ulakhan and the First Mulcher interrogate him - why the vault? They don't allow him to speak, or divert
+- *Quote:* Ulakhan's verdict on Gneiss - posterity-flavored, distrustful of a thief, but a flicker of seeing his use.
 - *Personal:* The confession he gives his followers but not the mulchers - he saw the *Gatling Laser Axe* in a yellowed catalogue and thought it looked *sick*.
-- *Question/Poll:* Beau works the crowd - is it so wrong to want one beautiful thing? Frame as an open question, not a poll.
+- *Question/Poll:* Gneiss works the crowd - is it so wrong to want one beautiful thing? Frame as an open question, not a poll.
 
 ### Scene 5
 
 **Scene 5 is a crosscut** - it jumps back and forth several times between the two narratives below (*figure out a way to handle this in the blob-based format*).
 
-**Narrative 1:** The Mulchers continue to argue how The Creatures Electric could have gotten up to floor 134 when the two main stairways leading down were sealed by a sorcerer-engineer decades ago; and the only downward-going elevator on this floor has been defunct for years. One of the mulchers points out that time never passes *within* an elevator (thsi is defined setting lore) and tries to explain how this could allow it to start working. The other mulchers are not convinced with his flawed logic (it *is* wrong, after all). They also continue to argue about Beau, and whether or not they should trust/release him. Before Chief Ulakhan can decide, they hear renewed fighting in the distance.
+**Narrative 1:** The Mulchers continue to argue how The Creatures Electric could have gotten up to floor 134 when the two main stairways leading down were sealed by a sorcerer-engineer decades ago; and the only downward-going elevator on this floor has been defunct for years. One of the mulchers points out that time never passes *within* an elevator (thsi is defined setting lore) and tries to explain how this could allow it to start working. The other mulchers are not convinced with his flawed logic (it *is* wrong, after all). They also continue to argue about Gneiss, and whether or not they should trust/release him. Before Chief Ulakhan can decide, they hear renewed fighting in the distance.
 
-**Narrative 2:** A patrol of mulchers, Gneiss Dustman among them, returns with a mailcart of rations from the Rationing Department, they were absent during the initial attack, and have no idea. Abruptly, they are assaulted by The Creatures Electric. Give an extended, *specific* description of violence; specific maneuvers or movements by the Creatures and the mulchers, specific numbers of each, how their bodies are affected. In the end, only Gneiss Dustman escapes.
+**Narrative 2:** A patrol of mulchers, Joiyuss Dustman among them, returns with a mailcart of rations from the Rationing Department, they were absent during the initial attack, and have no idea. Abruptly, they are assaulted by The Creatures Electric. Give an extended, *specific* description of violence; specific maneuvers or movements by the Creatures and the mulchers, specific numbers of each, how their bodies are affected. In the end, only Joiyuss Dustman escapes.
 
-Blobs (N1 = office; N2 = patrol; begins and ends in N1, Beau's anchor narrative. N2 is Beau's after-the-fact reconstruction, leaning on Action Poems and a found log. The crosscut converges: the distant fighting the office hears near the end *is* the massacre we just watched - Beau in hindsight knows it, the room does not):
+Blobs (N1 = office; N2 = patrol; begins and ends in N1, Gneiss's anchor narrative. N2 is Gneiss's after-the-fact reconstruction, leaning on Action Poems and a found log. The crosscut converges: the distant fighting the office hears near the end *is* the massacre we just watched - Gneiss in hindsight knows it, the room does not):
 
-- *N1 Personal:* Beau frames the resumed argument among the mulchers - a corporate, roundabout undertone of dread, now with worse acoustics as he could only hear snippets.
+- *N1 Personal:* Gneiss frames the resumed argument among the mulchers - a corporate, roundabout undertone of dread, now with worse acoustics as he could only hear snippets.
 - *N1 Dialogue:* Mulchers - stairs sealed by a sorcerer-engineer decades back, so *how* did they climb?
-- *N2 Exposition:* The returning mulcher patrol, Gneiss among them, wheels a mailcart back from Rationing, oblivious to the slaughter within the halls they are entering. (Since these are all social media posts, frame this as a snippet from a news article)
+- *N2 Exposition:* The returning mulcher patrol, Joiyuss among them, wheels a mailcart back from Rationing, oblivious to the slaughter within the halls they are entering. (Since these are all social media posts, frame this as a snippet from a news article)
 - *N2 Dialogue:* The patrol, mundane and bored, joking over rations; dramatic irony thick.
 - *N1 Dialogue:* The elevator-theory mulcher - time never passes *within* an elevator, so maybe it runs again. Another mulcher dismantles the flawed logic, flatly.
 - *N2 Action Poem:* The ambush hits. First wave, specific creatures, specific count.
-- *N1 Dialogue:* The Beau question arises again among the mulchers - They wonder amout tying up his hands, or gagging his mouth. They can't decide *how* he works his magic, and he won't tell them.
+- *N1 Dialogue:* The Gneiss question arises again among the mulchers - They wonder amout tying up his hands, or gagging his mouth. They can't decide *how* he works his magic, and he won't tell them.
 - *N2 Action Poem:* The massacre proper. Gruesome, specific maneuvers, bodies, numbers.
-- *N1 Quote:* Ulakhan, about to render his verdict on Beau. Cuts off right before the verdict is given
-- *N2 Action Poem:* The cart abandoned, rations scattered, only Gneiss escapes.
-- *N1 Personal:* Beau describes a silence falling over the office as the mulchers hear the distant screams of dying men (the very thing we just saw).
+- *N1 Quote:* Ulakhan, about to render his verdict on Gneiss. Cuts off right before the verdict is given
+- *N2 Action Poem:* The cart abandoned, rations scattered, only Joiyuss escapes.
+- *N1 Personal:* Gneiss describes a silence falling over the office as the mulchers hear the distant screams of dying men (the very thing we just saw).
 
 ### Scene 6
 
@@ -111,25 +111,37 @@ At this moment, pause for an exposition break - beau expands upon the floor layo
     - 1 is normal
     - both are sealed
 - the elevator (which is a limnal space *within* the elevator - time never passes inside) has been defunct for 50 years - it only goes down
-- Floor below: a labyrinth of flickering lights and malformations of architecture, semi-flooded (Beau knows only of this place only through heresay - few are the demons who have returned)
+- Floor below: a labyrinth of flickering lights and malformations of architecture, semi-flooded (Gneiss knows only of this place only through heresay - few are the demons who have returned)
 
-After the exposition break, have Beau jump back in. As the mulchers stand in silence, Beau breaks it. He tells the Mulchers that *he* know what the distant sounds was...
+After the exposition break, have Gneiss jump back in. As the mulchers stand in silence, Gneiss breaks it. He tells the Mulchers that *he* know what the distant sounds was...
 
 ...A Bulter. (*set it up like Gandalf in Moria: "A balrog. A demon of the ancient world."*)
 
 Blobs:
 
-- *Dialogue:* The mulchers prepare defenses. Ulakhan orders a barricade thrown up from the broken cubicles; a mulcher argues for enlisting civilian aid from the nearby offices. (Beau relays it overheard from his cell; distinct mulcher voices, Ulakhan in his own.)
+- *Dialogue:* The mulchers prepare defenses. Ulakhan orders a barricade thrown up from the broken cubicles; a mulcher argues for enlisting civilian aid from the nearby offices. (Gneiss relays it overheard from his cell; distinct mulcher voices, Ulakhan in his own.)
 - *Personal:* The omen. The overhead lights shudder, a flensing-beach reek floods the room, a distant growl. The mulchers do not know the sound - no naming yet.
-- *Question/Poll:* Beau works his followers about the smell and the sound - he asks the question in a way that suggests *he* knows the answer.
-- *Exposition:* Beau's thief's-eye recon of the floor's exits, as if he cased it for the heist: the north outpost up the switchback to 135 (comms dead, fate unknown), the southeast one already gone, the down-stairs sealed, the elevator only descends. (Reference the sealed stairs / elevator-time obliquely.)
-- *Exposition:* The floor below, known to Beau only by hearsay: a semi-flooded labyrinth of flickering light and warped architecture; few who go down return.
-- *Personal:* Beau breaks the silence and names it - a Butler - delivered like Gandalf naming the Balrog. End on the name.
+- *Question/Poll:* Gneiss works his followers about the smell and the sound - he asks the question in a way that suggests *he* knows the answer.
+- *Exposition:* Gneiss's thief's-eye recon of the floor's exits, as if he cased it for the heist: the north outpost up the switchback to 135 (comms dead, fate unknown), the southeast one already gone, the down-stairs sealed, the elevator only descends. (Reference the sealed stairs / elevator-time obliquely.)
+- *Exposition:* The floor below, known to Gneiss only by hearsay: a semi-flooded labyrinth of flickering light and warped architecture; few who go down return.
+- *Personal:* Gneiss breaks the silence and names it - a Butler - delivered like Gandalf naming the Balrog. End on the name.
+
+### Scene 7
+
+Joiyuss runs in, last survivor of the rationing cart attack, with creatures on his heels. The mulchers put up a token fight, but their main office is finally overrun. (Do some intense, specific action here, similar to `scene 5 - narrative 2`. *Use this as a chance to invent NEW features/traits of already-introduced creatures electric, and possibly some previously un-introduced creatures.*) Gneiss is almost left behind, but at the last minute Joiyuss notices him and finally sets him free. Gneiss's freedom comes to late for him to use his coat to get out - the creatures have crowded the two viable escape exits. The Mulchers' and Gneisss only choice is to flee down the hall that leads to the capsule vault, open it, and retreat inside. (Describe the vault entry: a pair of patterned steel doors, 50 feet along the hallway on the south side of main office.)
+
+Blobs:
+
+- *Personal:* Gneiss at his cell window spots Joiyuss first - one suited demon sprinting up the hall toward the half-built barricade, something concrete marking him as the ration-patrol survivor. The barricade gets pulled open for him. Bare facts, no dread-gloss.
+- *Dialogue:* Overheard: Joiyuss's winded report (formal-archaic even while gasping) tangled with the orders shouted over him - the wave is on his heels. Distinct mulcher voices.
+- *Action Poem:* The barricade fails. The host hits the office from the hall. ONE controlling image. The new creature traits/creatures debut here in action, not explanation.
+- *Exposition:* Mid-rout field-guide addendum, matching the Scene 2 catalogue format - corrections and new entries Gneiss learned the hard way tonight. This blob carries the new-creature canon as a shareable artifact.
+- *Dialogue:* Joiyuss, retreating past the holding office, stops and unlocks it. His line in his own voice; Gneiss frames it stage-direction style, never as a named speaker.
+- *Personal:* Freed and instantly cornered - both viable exits (north switchback, southeast route) are packed wall-to-wall. The coat makes him unseen, not untouchable; you cannot wade through a crowded hall. Deadpan; the too-late irony stays untyped.
+- *Action Poem:* The rearguard retreat - 50 feet down the south hallway to the vault, fighting backwards. Second poem takes a DIFFERENT controlling image than the breach poem.
+- *Personal:* The patterned steel doors of the Capsule Vault - the very doors Gneiss was arrested at - opened in a panic and boomed shut behind them. Anchor entirely on the doors as object. (Optional beat, Author's call: Gneiss is the one who gets them open - the thief's skill, at the law's need.)
 
 ### Remaining Scenes
-
-**Scene 7:** Gneiss runs in, last survivor of forward unit, with creatures on his heels; the defensive outpost is overrun; Beau is finally set free by the rookie, but it is too late; they all retreat into the main armory
-- Describe the vault: Entrance is a pair of patterned steel doors, 50 feet along the hallway on the south side of main office
 
 **Scene 8:** Long description/exposition scene of the armory; huge room, many gantries/arcades (The tower top deep in the dungeon, surrounded by void, where the merchant is, in *Delver*); ancient, unopened, full of old old replica weapons/armor that Obelisk used to stock; unfortunately the armory is sealed, the only ways in are the door they came through and blocked, or doors that lead deeper down, below floor 134...
 - Exposition Break - describe the armory: 
@@ -137,35 +149,35 @@ Blobs:
 	- Many of these Vaults happened to exist on the lwoer half of the floors in the older ages of Obelisk Replicas
 	- Many Vaults have already been lost in the past
 
-**Scene 9:** They hear a pounding on the door; Beau spots the Gatling Laser; he immediately suggests they use the weapons/armor; Gneiss liked the idea, but Chief Ulakhan is resistant; the pouding grows louder and louder; the Creatures burst through
+**Scene 9:** They hear a pounding on the door; Gneiss spots the Gatling Laser; he immediately suggests they use the weapons/armor; Joiyuss liked the idea, but Chief Ulakhan is resistant; the pouding grows louder and louder; the Creatures burst through
 
-**Scene 10:** Chaotic, visceral combat as the first wave of creatures hit; Beau uses the opportunity and his coat to retrieve the *Gatling Laser Axe*; he uses it to mow down the first wave
+**Scene 10:** Chaotic, visceral combat as the first wave of creatures hit; Gneiss uses the opportunity and his coat to retrieve the *Gatling Laser Axe*; he uses it to mow down the first wave
 
-**Scene 11:** The Mulchers regroup, re-sealing the door with a different replica-heat-gun, but more are coming; Chief Ulakhan finally agrees to Beau's plan to use the weapons/armor after the other Mulchers support him
+**Scene 11:** The Mulchers regroup, re-sealing the door with a different replica-heat-gun, but more are coming; Chief Ulakhan finally agrees to Gneiss's plan to use the weapons/armor after the other Mulchers support him
 
 **Scene 12:** Arming/gearing-up montage, as the polcie open up the various storage lockers and cabinets, and pick out weapons and armor; no creatures have attacked yet; scene ends with them deciding to march out and take the attack to the monsters; their plan to go *down* first, killing whatever they come across, then coming back up the same way the Creatures did, slipping behind
 - They find the following replicas use in their fight: Gatling Laser Axe, Excalibur, Stormbringer, Lightsaber with several color cells, , The Lance of the Pale Rider, Foe-Hammer which glows cold blue when the Creatures are near, Caladbolg, The Helm of Awe, Crown of the Lich, Palantír, The Horadric Cube, EMP Charge, The Sonic Screwdriver which opens any lock and reseals doors, Optical Camo Cloak, Arc Caster
 
-**Scene 13:** Extensive, visceral combat again, as the Mulchers force moves through the halls and offices mowing down creatures electric; Beau scouts ahead, but encounters the Butler, which is able to see him with it's hidden "Seventh Sense", which he forgot to obscure himself from; they spar physically (but Beau is no match even with his laser) then verbally; just as Beau is about to negotiate with it to let them flee, the Mulchers show up - they are brutally destroyed; Beau escapes thanks to his coat (he concealed himself from all senses this time)
+**Scene 13:** Extensive, visceral combat again, as the Mulchers force moves through the halls and offices mowing down creatures electric; Gneiss scouts ahead, but encounters the Butler, which is able to see him with it's hidden "Seventh Sense", which he forgot to obscure himself from; they spar physically (but Gneiss is no match even with his laser) then verbally; just as Gneiss is about to negotiate with it to let them flee, the Mulchers show up - they are brutally destroyed; Gneiss escapes thanks to his coat (he concealed himself from all senses this time)
 - The Butler explains how it led The Creatures up: The Butler climbed out from a lower floor window, entered through an upper-floor garden terrace, disguised itself as an ordinary housecat, ingratiated itself with one of the outpost guard groups, stole a set of keys, and unsealed the stairway lock leading 3 floors down
 
 ## Characters
 
-**Beau:**
+**Gneiss:**
 - Cursed because he was once tricked into donning the fabled **Coat of the Seven Senses** (an artifact created by Obelisk Replicas in an age long passed)
 - The coat allowed the wearer to go unseen
 - The one who dons it must thereafter wear it forever; taking off the coat means losing all one's senses, essentially becoming a vegetable, existing only as **"Massless Potential Energy** (maintains internal senses; the seven senses are only the external ones)
 - *The Seven Senses:* vision, hearing, touch, smell, taste, balance, and... (keep the seventh mysterious)
 - **Elric of Melnibone** meets **Meleoron from Hunter X Hunter**
 
-**Chief Executive Mulcher Vincent Ulakhan:**
+**Chief Executive Mulcher Morel Ulakhan:**
 - Leads the mulcher team on floor 134, nearest to the creatures electric
 - Character like **Erwin Smith**
 - willing to abandon their own humanity, make the unspeakable decision, for the good of mankind
 - believes that mankind needs to be "hardened"
 - Napoleonic orator: grand, paternal, posterity-minded, rhetorical sweep, addresses his troops, invokes destiny and history
 
-**Mr. Gneiss Dustman - Junior Mulchers:**
+**Mr. Joiyuss Dustman - Junior Mulchers:**
 - TODO - flesh out as writing progresses
 
 **Wonderland - The Butler (Dragon):**

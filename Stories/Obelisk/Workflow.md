@@ -26,7 +26,7 @@ The Orchestrator MUST open the relevant template, fill every `{{PLACEHOLDER}}` w
 
 Use `Writer-Template.md`. The Writer is NOT blind: the template has it READ `Story-Style.md` itself, so the anti-literary standard lives in one place and never drifts. The Orchestrator only inlines per-scene material: scene goal, the Author's edited blob breakdown, fresh per-scene voice/framing notes, and 2-4 LOCKED exemplars (prefer the Author's final edited lines from earlier scenes, not a prior Writer draft).
 
-Customize per scene: which speakers appear, how Beau plausibly KNOWS reconstructed parts (log, rumor, recording), which canon to reference. Do NOT assign one character voice to the whole scene; the constant narrator is Beau, only quoted speakers get a named voice. Writer writes ONLY to the current scene's section; never touch prior scenes or Author-locked blobs.
+Customize per scene: which speakers appear, how Gneiss plausibly KNOWS reconstructed parts (log, rumor, recording), which canon to reference. Do NOT assign one character voice to the whole scene; the constant narrator is Gneiss, only quoted speakers get a named voice. Writer writes ONLY to the current scene's section; never touch prior scenes or Author-locked blobs.
 
 Remember the root failure this loop exists to fight: a capable writer's instinct is *literary competence*, and literary competence is the failure mode here. The template front-loads the anti-literary test and the five moves for exactly this reason.
 

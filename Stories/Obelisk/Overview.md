@@ -53,7 +53,9 @@ Various monsters, originating from floor 134 and down
 
 ## Characters
 
-**Beau (The Main Character):**
+**Naming convention:** Demon first names are misspelled adjectives - Gneiss (Nice), Joiyuss (Joyous), Morel (Moral), Qwyett (Quiet). Surnames are exempt.
+
+**Gneiss (The Main Character):**
 - Cursed because he was once tricked into donning the fabled **Coat of the Seven Senses** (an artifact created by Obelisk Replicas in an age long passed)
 - The coat allowed the wearer to go unseen
 - The one who dons it must thereafter wear it forever; taking off the coat means losing all one's senses, essentially becoming a vegetable, existing only as **"Massless Potential Energy** (maintains internal senses; the seven senses are only the external ones)
