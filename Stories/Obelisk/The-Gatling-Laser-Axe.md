@@ -341,68 +341,74 @@ They don't know this sound - don't know what yours truly knows.
 ## Scene 7
 
 **Dialogue:**
-Heard from my box. Imagine every period comes with the sound of fists banging on corkboard.
 
-"OPEN. Please. It's Joiyuss."
+Just as I saw these mulcher put the bow on their barricade, this happened.
 
-"Sir, the wall's fixed. Ten minutes to re-screw it at least."
+Other side: *Knockknock.* "OPEN UP. Please. It's Dustman."
 
-"Proceed. The record shall not say we abandoned our teammates."
+"Uh, sir, it'd be ten minutes to-"
+
+The Boss: "No loyal servant deserted. You there, tear down that prop."
 
 **Action Poem:**
-So Dustman enters,
-And behind,
-The gap is a merge-hall at five o'clock.
-Creatures.
-Two mulchers fall,
-Under a drywall panel,
-Laminated.
-Swarming Creatures Electric.
-Snout-to-bumper,
-Red Apes enter.
-Each stops,
-to claw letters off the EXIT sign.
+
+Two men-
+M. Gobi,
+M. Towes-
+Become ruby pulp under a drywall panel,
+As Red Apes,
+On Joiyuss Dustman's heel,
+Jam the gap.
+
+Like water,
+Fissuring a levee,
+Squealing,
+Soulless,
+Come the Creatures Electric.
+
+Two men-
+M. Gobi,
+M. Towes-
+Died first.
 
 **Personal:**
-Posting live. The office is pouring south, a fire drill nobody rehearsed.
 
-Me, pounding shatterproof glass. Update: it's also soundproof, when everyone out there is busy dying.
+Life's grim and short. Four mulchers are dead - their entrails fly among the beasts like red streamers. The rest of the team's falling behind their desks toward the south hall.
 
-Hello? Asset in the box. Valuable asset, going unattended.
+But I'm still here banging on the glass.
+
+Might be farewell, friends.
 
 **Dialogue:**
-A metal tree hung with keys and keycards, felled in the rout. Joiyuss knelt in its litter, dealing rings like a bad hand.
 
-"Hold, friend burglar. Grandmother would not abide a guest left at table. Up, up."
+"Wait, prisoner, when did you arrive? Damn, they've knocked over the key tree. Which was the card for that door?"
 
-Third key turned.
+Hah. Not every mulcher's a useless joy-butcher. That rookie (Joiyuss?) is scrabbling for my prison key. But the Creatures are close...
 
 **Exposition:**
-Casing notes, revised:
 
-Formerly viable exits:
-- West doors to the supercorridor; now standing room only, teeth
-- East passage, remote office, stair to 135; fully catered, wheevils
-
-Remaining stock:
-- South hallway; patterned steel double doors
+Casing notes, exits, revised:
+- North office switchback; inaccessible, blocked by slobbering monsters
+- Southeast office; inaccessible, destroyed
+- Two stairwells; opened, somehow
+- One elevator... going down
 
 **Action Poem:**
-Fifty feet of south hall,
-A mail chute, us the post.
-Past Toner Recovery,
-Past Seasonal Decor,
-Slots of pale clerks,
-Undeliverable.
-Rearguard: Brayv Cost, Mott, Hargrave.
-Franked red in turn.
-Patterned steel swings,
-Slams.
-Sorted.
+
+Breathless,
+We sprint,
+Fifty feet down the south hall.
+Behind,
+Heavy hoofsteps on carpet,
+Scraping claws.
+Small departments-
+Odyssey, Field Testing-
+fall by on the right.
+They'll be dead soon too.
+Ahead,
+On the left,
+patterned double steel doors.
 
 **Personal:**
-Dark in here. Not closet-dark. Dark with acreage.
 
-No sound, but a vast no-sound: a breath leaves you and keeps going, like wind over a night interstate.
-
-So. The Capsule Vault. Eleven workweeks of casing, one arrest, and the law holds the door.
+The Capsule Vault. There's a sick replica in here somewhere. But it's jet-black (we slammed and barred those steel doors). Soundless too, except the slightest breath seems to spread like wind across a broad vista. Guess I made it. Wish I hadn't.
