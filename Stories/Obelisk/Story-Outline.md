@@ -122,15 +122,6 @@ Joiyuss runs in, last survivor of the rationing cart attack, with creatures on h
 
 Blobs:
 
-- *Personal:* Gneiss at his cell window spots Joiyuss first - one suited demon sprinting up the hall toward the half-built barricade, something concrete marking him as the ration-patrol survivor. The barricade gets pulled open for him. Bare facts, no dread-gloss.
-- *Dialogue:* Overheard: Joiyuss's winded report (formal-archaic even while gasping) tangled with the orders shouted over him - the wave is on his heels. Distinct mulcher voices.
-- *Action Poem:* The barricade fails. The host hits the office from the hall. ONE controlling image. The new creature traits/creatures debut here in action, not explanation.
-- *Exposition:* Mid-rout field-guide addendum, matching the Scene 2 catalogue format - corrections and new entries Gneiss learned the hard way tonight. This blob carries the new-creature canon as a shareable artifact.
-- *Dialogue:* Joiyuss, retreating past the holding office, stops and unlocks it. His line in his own voice; Gneiss frames it stage-direction style, never as a named speaker.
-- *Personal:* Freed and instantly cornered - both viable exits (north switchback, southeast route) are packed wall-to-wall. The coat makes him unseen, not untouchable; you cannot wade through a crowded hall. Deadpan; the too-late irony stays untyped.
-- *Action Poem:* The rearguard retreat - 50 feet down the south hallway to the vault, fighting backwards. Second poem takes a DIFFERENT controlling image than the breach poem.
-- *Personal:* The patterned steel doors of the Capsule Vault - the very doors Gneiss was arrested at - opened in a panic and boomed shut behind them. Anchor entirely on the doors as object. (Optional beat, Author's call: Gneiss is the one who gets them open - the thief's skill, at the law's need.)
-
 ### Remaining Scenes
 
 **Scene 8:** Long description/exposition scene of the armory; huge room, many gantries/arcades (The tower top deep in the dungeon, surrounded by void, where the merchant is, in *Delver*); ancient, unopened, full of old old replica weapons/armor that Obelisk used to stock; unfortunately the armory is sealed, the only ways in are the door they came through and blocked, or doors that lead deeper down, below floor 134...
