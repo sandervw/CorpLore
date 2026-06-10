@@ -1,14 +1,14 @@
 # Obelisk Drafting Workflow
 
-How "The Gatling Laser Axe" gets written, scene by scene. Three roles: **Orchestrator** (main Claude), **Writer** (opus sub-agent), **Reviewer** (opus sub-agent).
+How "The Gatling Laser Axe" gets written, scene by scene. Three roles: **Orchestrator** (main Claude), **Writer** (fable sub-agent), **Reviewer** (fable sub-agent).
 
 ## The Loop
 
 1. **Author** fleshes out the scene description in the story/outline file.
 2. **Orchestrator** suggests a blob breakdown (user usually provides a target blob count), in a response under 400 words, and writes it to `Story-Outline.md` under that scene (Orchestrator's words, Author's formatting).
 3. **Author** edits the breakdown, then tells Orchestrator to launch the Writer.
-4. **Orchestrator** launches the **Writer** (opus). Writer drafts the blobs and writes the prose DIRECTLY into `The-Gatling-Laser-Axe.md` under the scene header. Writer also returns each blob's character count in its final message for verification.
-5. **Orchestrator** launches the **Reviewer** (opus, read-only) in parallel. Author reads the prose in the file while the Reviewer judges.
+4. **Orchestrator** launches the **Writer** (fable). Writer drafts the blobs and writes the prose DIRECTLY into `The-Gatling-Laser-Axe.md` under the scene header. Writer also returns each blob's character count in its final message for verification.
+5. **Orchestrator** launches the **Reviewer** (fable, read-only) in parallel. Author reads the prose in the file while the Reviewer judges.
 6. **Orchestrator + Author** review the Reviewer's verdict. Orchestrator translates any failures into concrete Writer-prompt adjustments. Author decides whether to rewrite.
 7. **Author** does the final manual edit pass.
 8. **Orchestrator** updates the permanent guide based on the Author's manual edits, and commits the accepted scene to git.
@@ -22,7 +22,7 @@ The Writer and Reviewer prompts are NOT improvised each session. Fill-in-the-bla
 
 The Orchestrator MUST open the relevant template, fill every `{{PLACEHOLDER}}` with the current scene's material, and launch that. This is what keeps quality steady across separate chat sessions. The notes below are the rationale; the templates are the source of truth.
 
-## Writer (opus sub-agent)
+## Writer (fable sub-agent)
 
 Use `Writer-Template.md`. The Writer is NOT blind: the template has it READ `Story-Style.md` itself, so the anti-literary standard lives in one place and never drifts. The Orchestrator only inlines per-scene material: scene goal, the Author's edited blob breakdown, fresh per-scene voice/framing notes, and 2-4 LOCKED exemplars (prefer the Author's final edited lines from earlier scenes, not a prior Writer draft).
 
@@ -30,7 +30,7 @@ Customize per scene: which speakers appear, how Gneiss plausibly KNOWS reconstru
 
 Remember the root failure this loop exists to fight: a capable writer's instinct is *literary competence*, and literary competence is the failure mode here. The template front-loads the anti-literary test and the five moves for exactly this reason.
 
-## Reviewer (opus sub-agent, read-only)
+## Reviewer (fable sub-agent, read-only)
 
 Use `Reviewer-Template.md`. Fresh/cold every run, read-only, Orchestrator's own opinion kept OUT.
 

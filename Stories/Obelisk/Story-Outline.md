@@ -21,16 +21,6 @@ The following are the different types of posts, or "blobs":
 
 Gneiss has been detained by The Mulch Team (Mulchers; Obelisk's demon police force) at their frontier outpost. Describe Gneiss's coat: A long wool trenchcoat that has a different color every time someone looks at it; Gneiss activites it by buttoning up the front. He was trying to steal from *The Capsule Vault* - an old storage supply of decommissioned Obelisk Replicas gear. He is locked in a 'holding cell' - a private office with a a shatterproof window and locked door. The Mulchers receive word that the communication wires to the adjoining levels/floors have been cut (chewed through) - they know something is coming. The Mulchers think it impossible that it is The Creatures electric, because all stairways/elevators to the lower levels have been permanently sealed
 
-Blobs:
-- *Personal:* Gneiss opens, saying: downside, he's been detained for "Grand Theft Replica"; downside, the holding office they've got him in is right next to the main heat-radiator for floor 134; upside, they let him keep his Coat of Seven Senses
-- *Exposition:* The Coat of Senses - what it looks like, and how it works
-- *Question/Poll:* Why is the Mulch Team in charge of blockign access to legacy replicas stored in vaults?
-- *Personal:* Gneiss explains he was trying to steal from *The Capsule Vault* - an old storage supply of decommissioned Obelisk Replicas gear
-- *Exposition:* Current Mulch Team Heirarchy, outpost, and duties on floor 134 (frame as news report)
-- *Dialogue:* The Mulchers receive word that the communication wires to the adjoining levels/floors have been cut (chewed through) - they know something is coming
-- *Quote:* The Mulcher Chief think it impossible that it is anything from below floor 134, because all stairways/elevators to the lower levels have been permanently sealed
-- *Personal:* Gneiss says that he's never been below floor 134 of Obelisk Replicas; but he has seen The Creatures Electric before - he doesn't recommend
-
 ### Scene 2
 
 Jump to a short scene with mulcher guards in the remote station (a small office post) near the two descending stairwells and the elevator. This scene starts with one of them asking if anyone has seen the new pet cat lately, it's been missing for a day. One of the mulchers is smoking beside a full-glass wall looking out on the tiered, garden-scaffolded Obelisk exterior. Suddenly the interior-windows looking out onto the hallway explodes inward. A host of creatures electric attack: wheevils, Red Apes, and a Jurasik. The police are massacred by the Creatures Electric.

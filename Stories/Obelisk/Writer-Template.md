@@ -1,6 +1,6 @@
 # Writer Prompt Template
 
-Durable, reusable prompt for the WRITER sub-agent (opus). The Orchestrator copies the block below, fills every `{{PLACEHOLDER}}`, and launches it. Customize per scene; do not coast.
+Durable, reusable prompt for the WRITER sub-agent (fable). The Orchestrator copies the block below, fills every `{{PLACEHOLDER}}`, and launches it. Customize per scene; do not coast.
 
 The template tells the Writer to READ `Story-Style.md` itself (the Writer is NOT blind), so the anti-literary lessons stay in one source of truth and never drift. Inline only the per-scene material.
 

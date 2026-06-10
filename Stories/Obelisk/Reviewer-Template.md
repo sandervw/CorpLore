@@ -1,6 +1,6 @@
 # Reviewer Prompt Template
 
-Durable, reusable prompt for the REVIEWER sub-agent (opus, read-only). The Orchestrator copies the block below, fills every `{{PLACEHOLDER}}`, and launches it FRESH each run.
+Durable, reusable prompt for the REVIEWER sub-agent (fable, read-only). The Orchestrator copies the block below, fills every `{{PLACEHOLDER}}`, and launches it FRESH each run.
 
 CRITICAL BLINDNESS RULE: the Reviewer must NEVER be told the prose is AI-written, that a draft was rejected, or that anyone "worked hard." Therefore do NOT point the Reviewer at `Story-Style.md` (it discusses model/writer instincts and would tip authorship). Instead this template INLINES a sanitized, authorship-neutral rubric. Keep it that way. The rubric's default verdict is FAIL until the prose proves itself clean.
 
