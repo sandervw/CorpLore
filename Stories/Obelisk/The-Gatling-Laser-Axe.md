@@ -405,3 +405,34 @@ patterned double steel doors.
 
 **Personal:**
 The Capsule Vault. There's a sick replica in here somewhere. But it's jet-black (we slammed and barred those steel doors). Soundless too, except the slightest breath seems to spread like wind across a broad vista. Guess I made it. Wish I hadn't.
+
+## Scene 8
+
+**Personal:**
+Twas I that 'cracked the black'. Found my old pager this coat's pocket - still some juice. Boom, one lcd's-worth of light. Next, six other lcd's blink on. Next, two keychain flashlights. One dot crawls across a far, cold wall; a bright red flea.
+  
+**Exposition:**
+The Capsule Vault:
+
+"A grid of ceiling tiles, disorganized, corners hang loose from the metal frames, impends in a near sky 15ft above, scored here and there by shattered fluorescent tubes. A velvet sail of cobweb dangles, spiderless."
+
+**Exposition:**
+Cont.:
+
+"Across a flat, herringbone-brick bridge is a 24ft square courtyard. On all sides a gap of bottomless black runs like a moat, spanned only by the bridge. A man may drop his retirement pen over the side, and never hear it strike bottom."
+
+**Exposition:**
+Cont.:
+
+
+*The floor underfoot. Brick courtyard, dead scrub grass up through the cracks (grass that has never seen sun - bare fact, do not tie the bow), the short brick bridge behind them spanning back to the barred steel doors. Texture offers: collapsed velvet-rope queue stanchions leading nowhere; a single ground-out cigarette butt of a brand long discontinued.*
+
+**Exposition:**
+
+
+*The pedestals. Fake-marble plinths, some broken, each bearing exactly one decommissioned replica. Redeploy the catalogue device: Gneiss matching plinths against remembered pages of Doomsday Edition, Vol 27. Invention slot: name 2-3 replicas in passing (pull from the Scene 12 list or spend throwaways). No Gatling Laser Axe. Texture offer: the "marble" is contact paper, peeling at one corner like a sunburn.*
+
+**Exposition:**
+
+
+*The tower sides. Niches descending into the dark along the outer faces, each niche holding one replica, served by steps the width of a clipboard. The rule of the room stated flat: one copy of every decommissioned replica, no seconds. Texture offer: the nearest niche's occupant visible only as a single glint when the laser dot passes it.*

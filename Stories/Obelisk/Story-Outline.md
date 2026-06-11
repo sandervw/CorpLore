@@ -141,6 +141,28 @@ uge room, many gantries/arcades (The Well deep in the dungeon, surrounded by voi
 
 Many of these Vaults happened to exist on the lower half of the floors in the older ages of Obelisk Replicas. Many Vaults have already been lost in the past.
 
+Blobs (style-break scene: the feed slows down and tours the room. Gneiss witnesses everything first-hand, by failing light. Headcount continuity: ~16 mulchers (Scene 3's twenty minus Scene 7's four dead) plus Joiyuss plus Gneiss, Ulakhan among them. CRITICAL: Gneiss must NOT spot the Gatling Laser Axe here - that sighting is Scene 9's opening beat):
+
+- *Exposition:* The light inventory. Before the room, what they can see it BY: a few keychain flashlights, pager backlights, one safety-violating laser pointer (a mulcher's, not Gneiss's). The list itself is the artifact. Texture offers: the red dot crawling across far-off brick like a flea, the only light that reaches the other side; a mulcher who keeps checking his pager though comms are dead, just for the glow.
+
+- *Exposition:* Looking up. The ceiling 15 feet overhead - a grid of replaceable office tiles, half fallen away, shattered fluorescent tubes, cobwebs over all. Texture offers: one tile stamped with a maker's mark and a date code from an age no one can place; cobwebs everywhere, spiders never once seen.
+
+- *Exposition:* The void. The realization that the courtyard is a tower top - on all four sides, a gap of black, a square pit with no visible bottom. Artifact: somebody drops something over the edge (a dowel, a pen) and the room counts the seconds waiting on the landing-sound; give the exact count at which they quit. Irony/dread danger zone: state the bare fact, never say "bottomless."
+
+- *Exposition:* The floor underfoot. Brick courtyard, dead scrub grass up through the cracks (grass that has never seen sun - bare fact, do not tie the bow), the short brick bridge behind them spanning back to the barred steel doors. Texture offers: collapsed velvet-rope queue stanchions leading nowhere; a single ground-out cigarette butt of a brand long discontinued.
+
+- *Exposition:* The pedestals. Fake-marble plinths, some broken, each bearing exactly one decommissioned replica. Redeploy the catalogue device: Gneiss matching plinths against remembered pages of Doomsday Edition, Vol 27. Invention slot: name 2-3 replicas in passing (pull from the Scene 12 list or spend throwaways). No Gatling Laser Axe. Texture offer: the "marble" is contact paper, peeling at one corner like a sunburn.
+
+- *Exposition:* The tower sides. Niches descending into the dark along the outer faces, each niche holding one replica, served by steps the width of a clipboard. The rule of the room stated flat: one copy of every decommissioned replica, no seconds. Texture offer: the nearest niche's occupant visible only as a single glint when the laser dot passes it.
+
+- *Personal:* The room's effect on the law. Sixteen-odd armed mulchers gone quiet, flashlight beams wandering like searchlights at a vigil; procedure has no form for this place. Gneiss watching hard demons go small. Keep it concrete - what their lights do, not what anyone feels.
+
+- *Exposition:* Casing notes, vault edition - third use of the device. Ways out, line-itemed deadpan: the steel doors they barred behind themselves; or the clipboard-wide steps, down, to doors said to stand at the bottom of the pit. Below floor 134... This carries the trap having shut without one word of comment.
+
+- *Question/Poll:* Gneiss works the crowd - you're locked in demonkind's attic with one flashlight per five demons: what's your move? Options comic and practical. Crowd-sourced whistling past the void.
+
+- *Exposition:* Vault lore, last. Many Capsule Vaults were raised on the lower floors in Obelisk's older ages; the lower floors are gone; Gneiss leaves the arithmetic undone. In his own voice, with his own aside - no encyclopedia narrator. Texture offer: a brass dedication plaque on the bridge rail, its names polished off by decades of thumbs.
+
 ### Remaining Scenes
 
 **Scene 9:** They hear a pounding on the door; Gneiss spots the Gatling Laser; he immediately suggests they use the weapons/armor; Joiyuss liked the idea, but Chief Ulakhan is resistant; the pouding grows louder and louder; the Creatures burst through
