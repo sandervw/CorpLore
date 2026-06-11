@@ -21,6 +21,7 @@ When a blob quotes a character, that character speaks in their OWN voice. Any NE
 - **Joiyuss Dustman** - formal, archaic, oddly tender phrasing; a quiet, glassy strangeness beneath.
 - **Generic Mulchers** - flat, corporate, procedural; distinct from Gneiss, and from each other where named.
 - **Dead ration patrol** (Scene 5) - McNish, Strauss, Cornelius, Chai, Scarborough; do not reuse these names. Joiyuss survived.
+- **Dead at the office overrun** (Scene 7) - M. Gobi, M. Towes (crushed under the barricade panel), plus two more unnamed; do not reuse these names.
 
 ## Canon Established (do NOT re-explain)
 
@@ -34,3 +35,6 @@ Already described in earlier scenes. Reference by name and add only NEW, oblique
 - The Butler (named in Scene 6 with dread, never explained - keep it that way); Biting Tapioca, the Orias (passing mentions); the flooded floor-below labyrinth (hearsay only)
 - "Mighty Words" - the magic that sealed the down-stairwells decades ago; and elevator-time lore (time never passes within an elevator car) (Scene 5)
 - The Rationing Office, ration mailcarts, Corridor 134-C; the ration patrol massacre with Joiyuss Dustman as sole survivor (Scene 5)
+- The key tree - the office's ornamental metal stand hung with keys/keycards, felled in the rout; Joiyuss used it to free Gneiss (Scene 7)
+- The main office overrun; the survivors fled 50 feet down the south hall, past Odyssey and Field Testing (passing-mention departments), and barred themselves inside the Capsule Vault behind its patterned steel double doors (Scene 7)
+- The two down-stairwells found "opened, somehow" - the Mighty Words seals no longer hold; how is unrevealed (Scene 7)

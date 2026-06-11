@@ -341,7 +341,6 @@ They don't know this sound - don't know what yours truly knows.
 ## Scene 7
 
 **Dialogue:**
-
 Just as I saw these mulcher put the bow on their barricade, this happened.
 
 Other side: *Knockknock.* "OPEN UP. Please. It's Dustman."
@@ -351,7 +350,6 @@ Other side: *Knockknock.* "OPEN UP. Please. It's Dustman."
 The Boss: "No loyal servant deserted. You there, tear down that prop."
 
 **Action Poem:**
-
 Two men-
 M. Gobi,
 M. Towes-
@@ -372,7 +370,6 @@ M. Towes-
 Died first.
 
 **Personal:**
-
 Life's grim and short. Four mulchers are dead - their entrails fly among the beasts like red streamers. The rest of the team's falling behind their desks toward the south hall.
 
 But I'm still here banging on the glass.
@@ -380,13 +377,11 @@ But I'm still here banging on the glass.
 Might be farewell, friends.
 
 **Dialogue:**
-
 "Wait, prisoner, when did you arrive? Damn, they've knocked over the key tree. Which was the card for that door?"
 
 Hah. Not every mulcher's a useless joy-butcher. That rookie (Joiyuss?) is scrabbling for my prison key. But the Creatures are close...
 
 **Exposition:**
-
 Casing notes, exits, revised:
 - North office switchback; inaccessible, blocked by slobbering monsters
 - Southeast office; inaccessible, destroyed
@@ -394,7 +389,6 @@ Casing notes, exits, revised:
 - One elevator... going down
 
 **Action Poem:**
-
 Breathless,
 We sprint,
 Fifty feet down the south hall.
@@ -410,5 +404,4 @@ On the left,
 patterned double steel doors.
 
 **Personal:**
-
 The Capsule Vault. There's a sick replica in here somewhere. But it's jet-black (we slammed and barred those steel doors). Soundless too, except the slightest breath seems to spread like wind across a broad vista. Guess I made it. Wish I hadn't.
