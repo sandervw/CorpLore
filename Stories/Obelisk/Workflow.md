@@ -2,8 +2,6 @@
 
 How "The Gatling Laser Axe" gets written, scene by scene. Two roles: the **Author** (writes ALL prose) and **Claude** (suggests blob breakdowns, keeps canon and continuity straight).
 
-> History: earlier versions ran Writer/Reviewer sub-agents from prompt templates. Retired 2026-06-11. The Writer's prose required full rewrites regardless, and a controlled detection test showed Reviewer verdicts anti-correlate with authorship: an LLM writing to a rubric beats a human writing by ear, on that same rubric. No sub-agents are launched in this workflow.
-
 ## Session start
 
 Read, in order: `Story-Style.md` (narrator, voices, canon), `Story-Outline.md` (plot, scene descriptions, blob breakdowns), `The-Gatling-Laser-Axe.md` (prose so far). Skim `Overview.md` for setting background if helpful.

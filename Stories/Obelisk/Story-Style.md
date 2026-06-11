@@ -11,13 +11,11 @@ Narrator, voices, and canon for "The Gatling Laser Axe." The Author writes all p
 - **Question/Poll** = Gneiss working the crowd.
 - **Action Poem** = Gneiss's dramatized reconstruction of events (even ones he didn't witness; he narrates from logs, rumor, and imagination).
 
-**Gneiss's voice:** vain, wry, self-mythologizing, a doomed-aristocrat melancholy under the jokes (Elric meets Meleoron). An outsider thief who is always working an angle. Hindsight and dark humor color everything. He name-drops himself ("Big Gneiss Rong"), addresses his followers, and likes off-kilter similes. His melancholy is SUBTEXT - deadpan, self-deprecation, corporate-transactional diction - never a poetic statement of feeling. He narrates, but does not step on a quoted speaker's grandeur: an oration stands at full height.
-
 ## Character Voice Bible
 
 When a blob quotes a character, that character speaks in their OWN voice. Any NEW named demon gets a misspelled-adjective first name - e.g. Joiyuss (Joyous), Qwyett (Quiet); surname-only is fine.
-- **Gneiss** - narrator of all blobs; see Narrator section.
-- **Morel Ulakhan (Chief Executive Mulcher)** - Napoleonic orator: grand, paternal, posterity-minded, rhetorical sweep, addresses his troops, invokes destiny and history. Never terse. Lean archaic and elevated. Express his grandeur through corporate-ladder language rather than military terms.
+- **Gneiss** - narrator of all blobs; see Characters section in outline.
+- **Morel Ulakhan (Chief Executive Mulcher)** - see Characters section in outline.
 - **Joiyuss Dustman** - formal, archaic, oddly tender phrasing; a quiet, glassy strangeness beneath.
 - **Generic Mulchers** - flat, corporate, procedural; distinct from Gneiss, and from each other where named.
 - **Dead ration patrol** (Scene 5) - McNish, Strauss, Cornelius, Chai, Scarborough; do not reuse these names. Joiyuss survived.

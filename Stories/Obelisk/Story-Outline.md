@@ -1,4 +1,4 @@
-# The Battle for the Armory
+# The Battle for the Capsule Vault
 
 ## Plot Summary
 
@@ -130,13 +130,18 @@ Blobs:
 - *Action Poem:* The 50-foot run down the south hallway to the Capsule Vault - passing two small side corridors each leading to a cubicle space for a minor department (Writer: invent two small department names, named in passing, never explained) - dead ends, soon to be dead civilians; patterned steel double doors, the rearguard dying (invent and list a few random names), the doors opened and shut behind them. ONE controlling image.
 - *Personal:* Inside the sealed vault, initially black and lightless, soundless too, but in the way a vast chamber is soundless - no wind, but even the slightest breath seeming to spread out like wind across a broad vista. A short deadpan button - Gneiss finally inside the room he was arrested for trying to enter. State the bare fact; do not tie the bow on the irony.
 
-### Remaining Scenes
+### Scene 8
 
-**Scene 8:** Long description/exposition scene of the armory; huge room, many gantries/arcades (The tower top deep in the dungeon, surrounded by void, where the merchant is, in *Delver*); ancient, unopened, full of old old replica weapons/armor that Obelisk used to stock; unfortunately the armory is sealed, the only ways in are the door they came through and blocked, or doors that lead deeper down, below floor 134...
-- Exposition Break - describe the armory: 
-	- The armory is 'Capsule Vault', which was sealed (like a time capsule) after with only decommissioned replicas
-	- Many of these Vaults happened to exist on the lwoer half of the floors in the older ages of Obelisk Replicas
-	- Many Vaults have already been lost in the past
+Long description scene of the Capsule Vault - should be a visible break in style from other scenes, focused almsot exclusvely on various exposition blobs.
+
+*The room is based on 'The Well' in the video game 'Delver'.* Picture a bottomless, square pit, whose roof is a broken series of old replaceable office tiles, most half fallen out, with shattered flourescent lights, and cobwebs over all. In the middle of the pit, taking up most of the space, surrounded on all sides by a gap of 'void' is a flat, square courtyard - the top of a tower. It is about 15 feet below the ceiling. Uncarpeted, this courtyard is mostly brick, with (somehow) dead scrub grass growing up through cracks. Sitting on this courtyard are several pedastals made of fake marble, some broken, on which sit decommissioned replicas made by Obelisk replicas. All along the sides of this tower (leading down into the void) are niches, and very narrow steps. Each of the niches holds a replica. There is only one copy of every decommissioned replica in this room. Light must be provided by keychain flashlights (a few mulchers carry these), pagers, and one safety-violating laser pointer (not Beau's, one of the mulchers has this). The replicas are all old weapons, armor, gear, etc which Obelisk had at one point in their active inventory.
+
+There is only one way to the square courtyard tower top (the vault) a short brick bridge that spans the opening of the double steel doors to the courtyard space. That bridge and those doors form the only way to and from the vault; unless they were to descend into the black depths of the void, along the narrow stairs - for there are doors, somewhere, at the bottom of the bottomless pit. Below floor 134...
+uge room, many gantries/arcades (The Well deep in the dungeon, surrounded by void, where the merchant is, in *Delver*); ancient, unopened, full of old old replica weapons/armor that Obelisk used to stock; unfortunately the Capsule Vault is sealed, the only ways in are the door they came through and blocked, or doors that lead deeper down, below floor 134...
+
+Many of these Vaults happened to exist on the lower half of the floors in the older ages of Obelisk Replicas. Many Vaults have already been lost in the past.
+
+### Remaining Scenes
 
 **Scene 9:** They hear a pounding on the door; Gneiss spots the Gatling Laser; he immediately suggests they use the weapons/armor; Joiyuss liked the idea, but Chief Ulakhan is resistant; the pouding grows louder and louder; the Creatures burst through
 
@@ -158,13 +163,14 @@ Blobs:
 - The one who dons it must thereafter wear it forever; taking off the coat means losing all one's senses, essentially becoming a vegetable, existing only as **"Massless Potential Energy** (maintains internal senses; the seven senses are only the external ones)
 - *The Seven Senses:* vision, hearing, touch, smell, taste, balance, and... (keep the seventh mysterious)
 - **Elric of Melnibone** meets **Meleoron from Hunter X Hunter**
+- **Voice:** Vain, wry, self-mythologizing. Hindsight and dark humor color everything. He name-drops himself ("Big Gneiss Rong"), occassionally addresses his followers, and likes off-kilter similes. His melancholy is SUBTEXT - deadpan, self-deprecation, corporate-transactional diction He narrates, but does not step on a quoted speaker's grandeur: an oration stands at full height.
 
 **Chief Executive Mulcher Morel Ulakhan:**
 - Leads the mulcher team on floor 134, nearest to the creatures electric
 - Character like **Erwin Smith**
 - willing to abandon their own humanity, make the unspeakable decision, for the good of mankind
 - believes that mankind needs to be "hardened"
-- Napoleonic orator: grand, paternal, posterity-minded, rhetorical sweep, addresses his troops, invokes destiny and history
+- **Voice:** Napoleonic orator: grand, paternal, posterity-minded, rhetorical sweep, addresses his troops, invokes destiny and history. Never terse. Lean archaic and elevated. Express his grandeur through corporate-ladder language rather than military terms.
 
 **Mr. Joiyuss Dustman - Junior Mulchers:**
 - TODO - flesh out as writing progresses
