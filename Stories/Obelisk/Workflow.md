@@ -1,51 +1,35 @@
 # Obelisk Drafting Workflow
 
-How "The Gatling Laser Axe" gets written, scene by scene. Three roles: **Orchestrator** (main Claude), **Writer** (fable sub-agent), **Reviewer** (fable sub-agent).
+How "The Gatling Laser Axe" gets written, scene by scene. Two roles: the **Author** (writes ALL prose) and **Claude** (suggests blob breakdowns, keeps canon and continuity straight).
+
+> History: earlier versions ran Writer/Reviewer sub-agents from prompt templates. Retired 2026-06-11. The Writer's prose required full rewrites regardless, and a controlled detection test showed Reviewer verdicts anti-correlate with authorship: an LLM writing to a rubric beats a human writing by ear, on that same rubric. No sub-agents are launched in this workflow.
+
+## Session start
+
+Read, in order: `Story-Style.md` (narrator, voices, canon), `Story-Outline.md` (plot, scene descriptions, blob breakdowns), `The-Gatling-Laser-Axe.md` (prose so far). Skim `Overview.md` for setting background if helpful.
 
 ## The Loop
 
-1. **Author** fleshes out the scene description in the story/outline file.
-2. **Orchestrator** suggests a blob breakdown (user usually provides a target blob count), in a response under 400 words, and writes it to `Story-Outline.md` under that scene (Orchestrator's words, Author's formatting).
-3. **Author** edits the breakdown, then tells Orchestrator to launch the Writer.
-4. **Orchestrator** launches the **Writer** (fable). Writer drafts the blobs and writes the prose DIRECTLY into `The-Gatling-Laser-Axe.md` under the scene header. Writer also returns each blob's character count in its final message for verification.
-5. **Orchestrator** launches the **Reviewer** (fable, read-only) in parallel. Author reads the prose in the file while the Reviewer judges.
-6. **Orchestrator + Author** review the Reviewer's verdict. Orchestrator translates any failures into concrete Writer-prompt adjustments. Author decides whether to rewrite.
-7. **Author** does the final manual edit pass.
-8. **Orchestrator** updates the permanent guide based on the Author's manual edits, and commits the accepted scene to git.
-9. Repeat.
+1. **Author** fleshes out the scene description in `Story-Outline.md`.
+2. **Claude** proposes a blob breakdown (Author usually gives a target blob count) and writes it INTO `Story-Outline.md` under that scene BEFORE replying; the chat reply stays under 400 words (Claude's words, Author's formatting). The Author reviews the breakdown in the document, never in chat.
+3. **Author** edits the breakdown. Claude may be asked to clean up spelling/format afterward.
+4. **Author** writes the scene's prose into `The-Gatling-Laser-Axe.md`.
+5. **Claude** reads the finished scene: run a continuity check (who is where, who dies, counts, names, compass directions against earlier scenes), update the Canon list in `Story-Style.md` with anything new the scene establishes, and give an honest critical read only if asked - critical means critical, not cheerleading.
+6. Commit the scene. Check `git log`/`git status` first - the Author sometimes commits it themselves. Claude commits doc/workflow updates when it makes them.
 
-## Prompt templates (durable, session-independent)
+## Breakdown principles (proven across Scenes 2-7)
 
-The Writer and Reviewer prompts are NOT improvised each session. Fill-in-the-blank templates live in:
-- `Writer-Template.md`
-- `Reviewer-Template.md`
+- Apply **"would a real person actually post this, casually, in their day-to-day, if the world were this corporate-horror setting?"** to every blob proposed.
+- Anchor each blob to a concrete, postable artifact (a recording, a roster, a revised list, a timestamped notice) - never a mood.
+- When a blob's payload is dramatic irony, design the artifact to carry it silently and flag the blob as an irony danger zone in the breakdown ("state the bare fact; do not tie the bow").
+- Frame expositions as shareable artifacts; redeploy established in-text devices (casing notes, the "- Ancient ballad" pop-lyric button, the stage-direction tableau) instead of inventing parallel ones.
+- Merge over-split beats; no clever meta-buttons.
+- Mark invention as explicit slots ("debut one NEW Red Ape trait here"; "invent two minor department names, named in passing") rather than specifying the inventions.
+- Note per blob how Gneiss plausibly knows it (witnessed, log, rumor, recording) and which Voice Bible speakers appear. Strip speaker name-tags where the vantage warrants it (eavesdropped scraps, black-box recordings).
+- Spend new throwaway proper nouns freely; numeric precision where it is funny or telling.
 
-The Orchestrator MUST open the relevant template, fill every `{{PLACEHOLDER}}` with the current scene's material, and launch that. This is what keeps quality steady across separate chat sessions. The notes below are the rationale; the templates are the source of truth.
+## Format constraints (the Author's own targets)
 
-## Writer (fable sub-agent)
-
-Use `Writer-Template.md`. The Writer is NOT blind: the template has it READ `Story-Style.md` itself, so the anti-literary standard lives in one place and never drifts. The Orchestrator only inlines per-scene material: scene goal, the Author's edited blob breakdown, fresh per-scene voice/framing notes, and 2-4 LOCKED exemplars (prefer the Author's final edited lines from earlier scenes, not a prior Writer draft).
-
-Customize per scene: which speakers appear, how Gneiss plausibly KNOWS reconstructed parts (log, rumor, recording), which canon to reference. Do NOT assign one character voice to the whole scene; the constant narrator is Gneiss, only quoted speakers get a named voice. Writer writes ONLY to the current scene's section; never touch prior scenes or Author-locked blobs.
-
-Remember the root failure this loop exists to fight: a capable writer's instinct is *literary competence*, and literary competence is the failure mode here. The template front-loads the anti-literary test and the five moves for exactly this reason.
-
-## Reviewer (fable sub-agent, read-only)
-
-Use `Reviewer-Template.md`. Fresh/cold every run, read-only, Orchestrator's own opinion kept OUT.
-
-- **Blind it.** Never reveal the prose is AI-written, that a draft was rejected, or that anyone worked hard. The Reviewer is therefore NOT pointed at `Story-Style.md` (that file discusses writer/model instincts and would tip authorship). The template inlines a sanitized, authorship-neutral rubric instead. The Orchestrator pastes only the scene-specific yardstick (Voice Bible entries, current Canon list, scene goal + breakdown).
-- **Default to FAIL.** The template's rubric assumes the prose is flawed until proven clean, grades on the "would a real person post this?" test, and FAILS the scene overall if three or more blobs lean literary/over-written. This is the fix for the loop's proven weakness: a rubric calibrated to literary competence rubber-stamps the exact tropes the Author then cuts.
-- **Verdict form:** PASS/FAIL per blob with a quoted line, an overall PASS/FAIL, the single WEAKEST blob named, a dedicated CONTINUITY CHECK (cross-blob facts: who is where, who dies, counts, names), plus character-limit/em-dash violations.
-- First and last line of the prompt: "Successful task completion is an *accurate* verdict, not necessarily a PASSING one."
-
-## Notes: two layers
-
-- **Permanent guide** (in `Story-Style.md`): Narrator, Character Voice Bible, Canon Established, Ongoing Editing Notes. Only lessons proven by the Author's manual edits graduate into it (step 8).
-- **Per-scene directives**: generated fresh by Orchestrator each run, NOT persisted. Keeps the permanent guide from bloating.
-
-Orchestrator owns keeping the **Canon list** current: each scene that introduces a new creature/object/mechanic gets it appended so the next Writer won't re-explain it.
-
-## Git
-
-After the Author's final edit (step 7-8), Orchestrator commits the accepted scene.
+- Each blob aims for 250 characters or fewer.
+- No em-dashes anywhere; spaced hyphens or commas.
+- `## Scene N` headers, bold blob-type headers (`**Personal:**`), blank lines between blobs.
