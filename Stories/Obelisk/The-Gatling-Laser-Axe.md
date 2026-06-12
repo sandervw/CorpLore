@@ -419,20 +419,49 @@ The Capsule Vault:
 **Exposition:**
 Cont.:
 
-"Across a flat, herringbone-brick bridge is a 24ft square courtyard. On all sides a gap of bottomless black runs like a moat, spanned only by the bridge. A man may drop his retirement pen over the side, and never hear it strike bottom."
+"Across a flat treadplate bridge is a 24ft square courtyard. On all sides a gap of bottomless black runs like a moat. A man might drop his retirement pen down into that void moat, and never hear it strike bottom."
 
 **Exposition:**
 Cont.:
 
-
-*The floor underfoot. Brick courtyard, dead scrub grass up through the cracks (grass that has never seen sun - bare fact, do not tie the bow), the short brick bridge behind them spanning back to the barred steel doors. Texture offers: collapsed velvet-rope queue stanchions leading nowhere; a single ground-out cigarette butt of a brand long discontinued.*
-
-**Exposition:**
-
-
-*The pedestals. Fake-marble plinths, some broken, each bearing exactly one decommissioned replica. Redeploy the catalogue device: Gneiss matching plinths against remembered pages of Doomsday Edition, Vol 27. Invention slot: name 2-3 replicas in passing (pull from the Scene 12 list or spend throwaways). No Gatling Laser Axe. Texture offer: the "marble" is contact paper, peeling at one corner like a sunburn.*
+"The court is surfaced in a herringbone, lead-colored bricks. a few sprigs of sunblind grass knife through the cracked mortar. Between this court, guarded poorly by two fallen stanchions, and the barred steel doors, there is only the bridge."
 
 **Exposition:**
+Cont.:
 
+"Eight fake-marble plinths wait solemnly in this ancient space. Five are broken and empty - cracked fake gravel spread about them. The other three still carry their placards, and their replicas. 'Stuncane'. 'The Med-Gel Injector'. 'Mjölnir'."
 
-*The tower sides. Niches descending into the dark along the outer faces, each niche holding one replica, served by steps the width of a clipboard. The rule of the room stated flat: one copy of every decommissioned replica, no seconds. Texture offer: the nearest niche's occupant visible only as a single glint when the laser dot passes it.*
+**Exposition:**
+Cont.:
+
+"The three items atop the plinths are not the last. A keychain light illumines one outer face of the courtyard tower top. The stone is stitched with narrow stairs, pocked by niches. Within each niche? One last copy of a retired replica."
+
+**Personal:**
+Yours truly, the "villainous miscreant", looking down right now (I'm biggest) on sixteen sheriffs, and not one's twisting his mustache on how to screw me. They're all docile and saucer-eyed as grow-house hamsters, wagging their pagers at the dark.
+
+**Exposition:**
+Casing notes, addendum:
+
+Capsule Vault, entrance
+- Double steel doors.
+- 8in cylinder frame bar.
+- Two keycard copies - CEM Ulakhan, VP-134 Slabb.
+
+Capsule Vault, exits
+- Double steel doors...
+- Or, down the steps.
+- Into the pit.
+- Below floor 134.
+
+**Poll/Question:**
+Say you're standing atop a treasure tower, surrounded by the treasure's sentries, and the way out's swarming with horrors, and Down is a claustrophobic, monsterland hell. What's the play?
+- Team up, fight the horrors
+- Brave the depths
+- Jump
+
+**Exposition:**
+Vault's, Cont.:
+
+"47 were the vaults assigned on the lower 133. 47 troves, filled with 10,000 replicas of Obelisks ages. 47 lost - for the lower floors are no more for mortal demons.
+
+"On a brass plaque by steel doors: 'Capsule Vault No. 48'."
