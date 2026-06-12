@@ -36,3 +36,7 @@ Already described in earlier scenes. Reference by name and add only NEW, oblique
 - The key tree - the office's ornamental metal stand hung with keys/keycards, felled in the rout; Joiyuss used it to free Gneiss (Scene 7)
 - The main office overrun; the survivors fled 50 feet down the south hall, past Odyssey and Field Testing (passing-mention departments), and barred themselves inside the Capsule Vault behind its patterned steel double doors (Scene 7)
 - The two down-stairwells found "opened, somehow" - the Mighty Words seals no longer hold; how is unrevealed (Scene 7)
+- The Capsule Vault: tower-top brick courtyard ringed by a bottomless void moat; the treadplate bridge from the barred steel doors is the only way in; niches and narrow stairs descend to doors below floor 134 (Scene 8)
+- Eight plinths: five broken/empty, three intact - Stuncane, Med-Gel Injector, Mjölnir; each niche holds the one last copy of a retired replica (Scene 8)
+- Vault No. 48; the 47 lower-floor vaults (~10,000 replicas) all lost; two door keycards - Ulakhan, VP-134 Slabb (unseen) (Scene 8)
+- Sixteen mulchers + Gneiss inside (strict Scene 3/7 math = 17; assume one off-page death); the Axe still unseen until Scene 9 (Scene 8)

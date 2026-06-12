@@ -13,7 +13,7 @@ Read, in order: `Story-Style.md` (narrator, voices, canon), `Story-Outline.md` (
 3. **Author** edits the breakdown. Claude may be asked to clean up spelling/format afterward.
 4. **Author** writes the scene's prose into `The-Gatling-Laser-Axe.md`.
 5. **Claude** reads the finished scene: run a continuity check (who is where, who dies, counts, names, compass directions against earlier scenes), update the Canon list in `Story-Style.md` with anything new the scene establishes, and give an honest critical read only if asked - critical means critical, not cheerleading.
-6. Commit the scene. Check `git log`/`git status` first - the Author sometimes commits it themselves. Claude commits doc/workflow updates when it makes them.
+6. The Author commits. Claude NEVER commits unless explicitly told to.
 
 ## Breakdown principles (proven across Scenes 2-7)
 

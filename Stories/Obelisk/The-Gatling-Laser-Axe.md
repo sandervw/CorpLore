@@ -409,7 +409,7 @@ The Capsule Vault. There's a sick replica in here somewhere. But it's jet-black 
 ## Scene 8
 
 **Personal:**
-Twas I that 'cracked the black'. Found my old pager this coat's pocket - still some juice. Boom, one lcd's-worth of light. Next, six other lcd's blink on. Next, two keychain flashlights. One dot crawls across a far, cold wall; a bright red flea.
+Twas I 'cracked the black'. Found my old pager in a pocket - still some juice. Boom, an lcd's-worth of light. Next, six other lcd's blink on. Two keychain flashlights. One high-powered, contraband pointer searches a far, cold wall; a bright red flea.
   
 **Exposition:**
 The Capsule Vault:
@@ -424,12 +424,12 @@ Cont.:
 **Exposition:**
 Cont.:
 
-"The court is surfaced in a herringbone, lead-colored bricks. a few sprigs of sunblind grass knife through the cracked mortar. Between this court, guarded poorly by two fallen stanchions, and the barred steel doors, there is only the bridge."
+"The court is surfaced in herringbone, lead-colored bricks. a few sprigs of sunblind grass knife through the cracked mortar. Between this court, guarded poorly by two fallen stanchions, and the barred steel doors, there is only the bridge."
 
 **Exposition:**
 Cont.:
 
-"Eight fake-marble plinths wait solemnly in this ancient space. Five are broken and empty - cracked fake gravel spread about them. The other three still carry their placards, and their replicas. 'Stuncane'. 'The Med-Gel Injector'. 'Mjölnir'."
+"Eight fake-marble plinths wait in this old space. Five are broken and empty - cracked fake gravel spread about them. The other three still carry their placards, and their replicas. 'Stuncane'. 'The Med-Gel Injector'. 'Mjölnir'."
 
 **Exposition:**
 Cont.:
@@ -437,7 +437,7 @@ Cont.:
 "The three items atop the plinths are not the last. A keychain light illumines one outer face of the courtyard tower top. The stone is stitched with narrow stairs, pocked by niches. Within each niche? One last copy of a retired replica."
 
 **Personal:**
-Yours truly, the "villainous miscreant", looking down right now (I'm biggest) on sixteen sheriffs, and not one's twisting his mustache on how to screw me. They're all docile and saucer-eyed as grow-house hamsters, wagging their pagers at the dark.
+Yours truly, the "miscreant", looking down right now (I'm tallest) on sixteen sheriffs, and not one's twisting his mustache at me. They're all docile and saucer-eyed as grow-house hamsters, milling about this court, wagging their pagers at the dark.
 
 **Exposition:**
 Casing notes, addendum:
@@ -460,8 +460,8 @@ Say you're standing atop a treasure tower, surrounded by the treasure's sentries
 - Jump
 
 **Exposition:**
-Vault's, Cont.:
+Vaults, Cont.:
 
 "47 were the vaults assigned on the lower 133. 47 troves, filled with 10,000 replicas of Obelisks ages. 47 lost - for the lower floors are no more for mortal demons.
 
-"On a brass plaque by steel doors: 'Capsule Vault No. 48'."
+"On a brass plaque by the steel doors: 'Capsule Vault No. 48'."
