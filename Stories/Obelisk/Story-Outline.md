@@ -163,18 +163,42 @@ Blobs (style-break scene: the feed slows down and tours the room. Gneiss witness
 
 - *Exposition:* Vault lore, last. Many Capsule Vaults were raised on the lower floors in Obelisk's older ages; the lower floors are gone; Gneiss leaves the arithmetic undone. In his own voice, with his own aside - no encyclopedia narrator. Texture offer: a brass dedication plaque on the bridge rail, its names polished off by decades of thumbs.
 
-### Remaining Scenes
+### Scene 9
 
-**Scene 9:** They hear a pounding on the door; Gneiss spots the Gatling Laser; he immediately suggests they use the weapons/armor; Joiyuss liked the idea, but Chief Ulakhan is resistant; the pouding grows louder and louder; the Creatures burst through
+They hear a pounding on the door; Gneiss spots the Gatling Laser; he immediately suggests they use the weapons/armor; Joiyuss liked the idea, but Chief Ulakhan is resistant; the pouding grows louder and louder; the Creatures burst through
 
-**Scene 10:** Chaotic, visceral combat as the first wave of creatures hit; Gneiss uses the opportunity and his coat to retrieve the *Gatling Laser Axe*; he uses it to mow down the first wave
+Blobs (Gneiss witnesses everything first-hand, by failing light. The escalating pounding is the scene's clock: thread it through as interruptions, no blobs of its own):
 
-**Scene 11:** The Mulchers regroup, re-sealing the door with a different replica-heat-gun, but more are coming; Chief Ulakhan finally agrees to Gneiss's plan to use the weapons/armor after the other Mulchers support him
+- *Personal:* First impact on the steel doors. Concrete only: what the blow does to bar, doors, dust; sixteen pager-lights snapping to one sound. Scene 8 acoustics: a boom spreads like wind. Bare fact, no dread adjectives. Grounding - Sensory: the struck bar keeps ringing in its cradle, one long brass note. Human agency: old shin-height scuffs inside the doors, where someone once kicked to get out.
 
-**Scene 12:** Arming/gearing-up montage, as the polcie open up the various storage lockers and cabinets, and pick out weapons and armor; no creatures have attacked yet; scene ends with them deciding to march out and take the attack to the monsters; their plan to go *down* first, killing whatever they come across, then coming back up the same way the Creatures did, slipping behind
+- *Personal:* The sighting: a wandering light passes a niche - the Gatling Laser Axe, matching the remembered catalogue page. Invention slot: Author debuts its appearance. IRONY DANGER ZONE: arrested for this room, the thing twenty feet off; bare fact only. Grounding - Quantification: Scene 4's "page whatever" resolves to an exact odd page number. Embodiment: he's held the light on the niche too long; makes himself sweep on.
+
+- *Dialogue:* Gneiss's pitch, Scene 7 device: his side narration-only, answers quoted. A room of weapons, a room of demons - arithmetic. Joiyuss's support in his own voice; one generic mulcher wavering. Pounding interrupts mid-exchange. Grounding - Malfunction: the waverer's bent clever won't seat in its sheath; the gear argues for Gneiss. Wear: Joiyuss still in Scene 5 ruin - holed white sleeve, reddened shoe.
+
+- *Quote:* Ulakhan's refusal, full oration - Gneiss doesn't step on it. Napoleonic, posterity-minded, corporate-sacral: retired company property is not theirs to spend. Invention slot: one NEW lore reason (writ, rite, penalty) - Author invents specifics. Grounding - Economic: the replicas still sit on Obelisk's ledgers as unsold assets. Embodiment: he orates with one hand flat on a broken plinth, podium-style.
+
+- *Exposition:* The placard fine print. Gneiss reads decommission boilerplate off the nearest plinth, deadpan, clause by clause. The artifact carries Ulakhan's side silently: retired means retired. Ends mid-clause on a louder blow. Grounding - Procedural authority: true writ order - writ number, countersigning department, disposal clause "in abeyance." Wear: engraved clauses infilled with dust; Gneiss thumbs the grooves clean to read.
+
+- *Question/Poll:* Gneiss works the crowd at the worst moment: door failing, shelves armed, boss says hands off. Options comic and practical; the poll IS the cliffhanger. Grounding - Economic: one option costs out the crime: eat the writ fine, if payroll survives. Particularity: another names one exact item - "hand the Chief the Mjölnir."
+
+- *Action Poem:* The breach. Doors give; Creatures funnel onto the treadplate bridge, single-file violence over the void. ONE controlling image: the bridge. End the instant the first creature clears it; Scene 10 owns the combat. Grounding - Particularity: the bar doesn't snap - bends, walks from one cradle, rings onto treadplate. Wear: bridge treadplate worn smooth down the center; first claws find no grip.
+
+### Scene 10
+
+Chaotic, visceral combat as the first wave of creatures hit; Gneiss uses the opportunity and his coat to retrieve the *Gatling Laser Axe*; he uses it to mow down the first wave
+
+### Scene 11
+
+The Mulchers regroup, re-sealing the door with a different replica-heat-gun, but more are coming; Chief Ulakhan finally agrees to Gneiss's plan to use the weapons/armor after the other Mulchers support him
+
+### Scene 12
+
+Arming/gearing-up montage, as the polcie open up the various storage lockers and cabinets, and pick out weapons and armor; no creatures have attacked yet; scene ends with them deciding to march out and take the attack to the monsters; their plan to go *down* first, killing whatever they come across, then coming back up the same way the Creatures did, slipping behind
 - They find the following replicas use in their fight: Gatling Laser Axe, Excalibur, Stormbringer, Lightsaber with several color cells, The Lance of the Pale Rider, Foe-Hammer which glows cold blue when the Creatures are near, Caladbolg, The Helm of Awe, Crown of the Lich, Palantír, The Horadric Cube, EMP Charge, The Sonic Screwdriver which opens any lock and reseals doors, Optical Camo Cloak, Arc Caster
 
-**Scene 13:** Extensive, visceral combat again, as the Mulchers force moves through the halls and offices mowing down creatures electric; Gneiss scouts ahead, but encounters the Butler, which is able to see him with it's hidden "Seventh Sense", which he forgot to obscure himself from; they spar physically (but Gneiss is no match even with his laser) then verbally; just as Gneiss is about to negotiate with it to let them flee, the Mulchers show up - they are brutally destroyed; Gneiss escapes thanks to his coat (he concealed himself from all senses this time)
+### Scene 13
+
+Extensive, visceral combat again, as the Mulchers force moves through the halls and offices mowing down creatures electric; Gneiss scouts ahead, but encounters the Butler, which is able to see him with it's hidden "Seventh Sense", which he forgot to obscure himself from; they spar physically (but Gneiss is no match even with his laser) then verbally; just as Gneiss is about to negotiate with it to let them flee, the Mulchers show up - they are brutally destroyed; Gneiss escapes thanks to his coat (he concealed himself from all senses this time)
 - The Butler explains how it led The Creatures up: The Butler climbed out from a lower floor window, entered through an upper-floor garden terrace, disguised itself as an ordinary housecat, ingratiated itself with one of the outpost guard groups, stole a set of keys, and unsealed the stairway lock leading 3 floors down
 
 ## Characters

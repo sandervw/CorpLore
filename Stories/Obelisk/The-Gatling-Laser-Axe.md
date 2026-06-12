@@ -465,3 +465,20 @@ Vaults, Cont.:
 "47 were the vaults assigned on the lower 133. 47 troves, filled with 10,000 replicas of Obelisks ages. 47 lost - for the lower floors are no more for mortal demons.
 
 "On a brass plaque by the steel doors: 'Capsule Vault No. 48'."
+
+## Scene 9
+
+**Personal:**
+
+
+*First impact on the steel doors. Concrete only: what the blow does to bar, doors, dust; sixteen pager-lights snapping to one sound. Scene 8 acoustics: a boom spreads like wind. Bare fact, no dread adjectives. Grounding - Sensory: the struck bar keeps ringing in its cradle, one long brass note. Human agency: old shin-height scuffs inside the doors, where someone once kicked to get out.*
+
+**Personal:**
+
+
+*The sighting: a wandering light passes a niche - the Gatling Laser Axe, matching the remembered catalogue page. Invention slot: Author debuts its appearance. IRONY DANGER ZONE: arrested for this room, the thing twenty feet off; bare fact only. Grounding - Quantification: Scene 4's "page whatever" resolves to an exact odd page number. Embodiment: he's held the light on the niche too long; makes himself sweep on.*
+
+**Dialogue:**
+
+
+*Gneiss's pitch, Scene 7 device: his side narration-only, answers quoted. A room of weapons, a room of demons - arithmetic. Joiyuss's support in his own voice; one generic mulcher wavering. Pounding interrupts mid-exchange. Grounding - Malfunction: the waverer's bent clever won't seat in its sheath; the gear argues for Gneiss. Wear: Joiyuss still in Scene 5 ruin - holed white sleeve, reddened shoe.*

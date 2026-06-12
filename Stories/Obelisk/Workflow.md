@@ -25,6 +25,17 @@ Read, in order: `Story-Style.md` (narrator, voices, canon), `Story-Outline.md` (
 - Mark invention as explicit slots ("debut one NEW Red Ape trait here"; "invent two minor department names, named in passing") rather than specifying the inventions.
 - Note per blob how Gneiss plausibly knows it (witnessed, log, rumor, recording) and which Voice Bible speakers appear. Strip speaker name-tags where the vantage warrants it (eavesdropped scraps, black-box recordings).
 - Spend new throwaway proper nouns freely; numeric precision where it is funny or telling.
+- Word limits: each initial blob suggestion is 40 words or fewer; a blob's full entry (suggestion plus grounding details) never exceeds 70 words.
+
+## Grounding pass (after every breakdown)
+
+Only AFTER the full blob breakdown is written into `Story-Outline.md`, run a grounding pass, one blob at a time:
+
+1. Run `python Stories/Obelisk/sample_grounding.py 4` to sample four grounding-detail types.
+2. For the current blob, pick 2 of the 4 types and suggest one concrete detail per chosen type (2 details total, each 15 words or fewer), appended to that blob's breakdown entry in `Story-Outline.md`.
+3. Rerun the script fresh for the next blob and repeat until every blob has its two details.
+
+Never read `Grounding-Details.json` or `Grounding-Details.md` (or any other grounding file in the Obelisk folder) - the script's output is the only allowed window into them.
 
 ## Format constraints (the Author's own targets)
 
