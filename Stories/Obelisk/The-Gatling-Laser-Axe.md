@@ -178,7 +178,7 @@ I'm the demon in this room who's studied, most-closely, the Creatures Electric, 
 "A burglar tells history only the version that flatters him. I do not trust the burglar; a knife also is a thing one does not trust set free, and one carries it anyway. Keep the burglar sheathed, yet close." - Morel Ulakhan
 
 **Personal:**
-Here is what I told no mulcher, lovelies, only you: there was this yellowed, waterstained Obelisk catalogue of replica: Doomsday Edition, Vol 27. And on page whatever: the Gatling Laser Axe. And my stupid heart thought, 'That looks unbearably SICK.'
+Here is what I told no mulcher, lovelies, only you: there was this yellowed, waterstained Obelisk catalogue of replicas: Doomsday Edition, Vol 27. And on page whatever: the Gatling Laser Axe. And my stupid heart thought, 'That looks unbearably SICK.'
 
 **Question/Poll:**
 Inquiry. In a four-sided, pointy-tipped, hundred-thousand-foot headquarters, last bastion of demonkind on the broad grey interstate, where every room, every coffee mug, is alike - is it sinful to want one beautiful Gatling Laser Axe?
@@ -469,16 +469,31 @@ Vaults, Cont.:
 ## Scene 9
 
 **Personal:**
+BRUUMMM.
 
-
-*First impact on the steel doors. Concrete only: what the blow does to bar, doors, dust; sixteen pager-lights snapping to one sound. Scene 8 acoustics: a boom spreads like wind. Bare fact, no dread adjectives. Grounding - Sensory: the struck bar keeps ringing in its cradle, one long brass note. Human agency: old shin-height scuffs inside the doors, where someone once kicked to get out.*
+In-unison, I and the mulchers spun, merging our pager and keychain light, till we had the thick steel doors electric-spotlit. As that heavy gong sound sank into the void, we watched dust drift from the ringing, automatic, 8in crossbar.
 
 **Personal:**
-
-
-*The sighting: a wandering light passes a niche - the Gatling Laser Axe, matching the remembered catalogue page. Invention slot: Author debuts its appearance. IRONY DANGER ZONE: arrested for this room, the thing twenty feet off; bare fact only. Grounding - Quantification: Scene 4's "page whatever" resolves to an exact odd page number. Embodiment: he's held the light on the niche too long; makes himself sweep on.*
+Found it. The Gatling Laser Axe: Obelisk Quarterly - Doomsday Edition, Vol 27, Page 72, middle pane. The last living specimen of this awesome apparatus glares at me, out of the corner of it green-glowing laser-pommel, from a niche 10ft below.
 
 **Dialogue:**
+Joiyuss Dustman: "But brothers, the big thief has insight." (Of course I do.) "And Phansy, look. Your clever is blunted."
 
+Phancy: "I wouldn't mind more firepower."
 
-*Gneiss's pitch, Scene 7 device: his side narration-only, answers quoted. A room of weapons, a room of demons - arithmetic. Joiyuss's support in his own voice; one generic mulcher wavering. Pounding interrupts mid-exchange. Grounding - Malfunction: the waverer's bent clever won't seat in its sheath; the gear argues for Gneiss. Wear: Joiyuss still in Scene 5 ruin - holed white sleeve, reddened shoe.*
+BRUUMMM.
+
+Dustman: "We use the replicas once, save our skins, then return them."
+
+**Quote:**
+"The Penalty of the Reserve Asset Damage. Mooney's address to the governing C-suite, in the eighth year of the eggshell. My team, both law and precedent lay down no ambiguous decree. We shall not touch history's property." - Chief Ulakhan
+
+**Exposition:**
+Stuncane: This Obelisk Exclusive is a functional recreation of the original item from the Skymasters fiction setting. This is a capsule copy - it is intended for reference purposes only. The handling penalty is slow murder.
+- Congress of Historicity
+
+**Question/Poll:**
+BRUUMMM.
+
+For the ladies: on a scale of bad-to-likely, does a guy with Ulakhan's ego buy this (coming from me)? "That Jurisk's about to bust the doors. Hand your boss the Mjölnir - looks like he'd know how to use it."
+
