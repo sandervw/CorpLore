@@ -469,31 +469,48 @@ Vaults, Cont.:
 ## Scene 9
 
 **Personal:**
-BRUUMMM.
+BRUUMMM
 
 In-unison, I and the mulchers spun, merging our pager and keychain light, till we had the thick steel doors electric-spotlit. As that heavy gong sound sank into the void, we watched dust drift from the ringing, automatic, 8in crossbar.
 
 **Personal:**
-Found it. The Gatling Laser Axe: Obelisk Quarterly - Doomsday Edition, Vol 27, Page 72, middle pane. The last living specimen of this awesome apparatus glares at me, out of the corner of it green-glowing laser-pommel, from a niche 10ft below.
+Found it. The Gatling Laser Axe: Obelisk Quarterly - Doomsday Edition, Vol 27, Page 72, middle pane. The last living specimen of this awesome apparatus watches me out of the corner of its supernova laser-pommel eye, from a niche. Nearly touchable.
 
 **Dialogue:**
 Joiyuss Dustman: "But brothers, the big thief has insight." (Of course I do.) "And Phansy, look. Your clever is blunted."
 
-Phancy: "I wouldn't mind more firepower."
+Phansy: "I wouldn't mind more firepower."
 
-BRUUMMM.
+BRUUMMM
 
-Dustman: "We use the replicas once, save our skins, then return them."
+Dustman: "We should use the replicas, live, and return them." (66%-yes.)
 
 **Quote:**
-"The Penalty of the Reserve Asset Damage. Mooney's address to the governing C-suite, in the eighth year of the eggshell. My team, both law and precedent lay down no ambiguous decree. We shall not touch history's property." - Chief Ulakhan
+"Shall I raise the Law of the Reserve Asset Damage? Shall I quote Mooney's address to the Governing-C, in the eighth year of the eggshell? My team, we shant touch history's chattel. Law and precedent lay down no ambiguous decree." - Chief Ulakhan
 
 **Exposition:**
 Stuncane: This Obelisk Exclusive is a functional recreation of the original item from the Skymasters fiction setting. This is a capsule copy - it is intended for reference purposes only. The handling penalty is slow murder.
 - Congress of Historicity
 
 **Question/Poll:**
-BRUUMMM.
+BRUUMMM
 
-For the ladies: on a scale of bad-to-likely, does a guy with Ulakhan's ego buy this (coming from me)? "That Jurisk's about to bust the doors. Hand your boss the Mjölnir - looks like he'd know how to use it."
+For the ladies: on a scale of bad-to-likely, does a guy with Ulakhan's ego buy this (coming from me)? "That Jurasik's about to bust the doors. Hand your boss the Mjölnir - looks like he'd know how to use it."
 
+BRUUMMM
+
+**Action Poem:**
+BRRRRRUUUUMMMMMM,
+And the 8in crossbar buckles,
+And steel screams,
+And the broken doors smack,
+On the inner Vault.
+Four heavy hooves taptap,
+taptap,
+taptap,
+Over steel treadplate,
+And claws tap,
+tap,
+tap,
+As, single file,
+Come the Electric horde.

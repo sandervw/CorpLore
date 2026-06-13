@@ -20,6 +20,7 @@ When a blob quotes a character, that character speaks in their OWN voice. Any NE
 - **Generic Mulchers** - flat, corporate, procedural; distinct from Gneiss, and from each other where named.
 - **Dead ration patrol** (Scene 5) - McNish, Strauss, Cornelius, Chai, Scarborough; do not reuse these names. Joiyuss survived.
 - **Dead at the office overrun** (Scene 7) - M. Gobi, M. Towes (crushed under the barricade panel), plus two more unnamed; do not reuse these names.
+- **Phansy** (Scene 9, living) - a named mulcher; wants firepower, his clever is blunted. Generic-mulcher register.
 
 ## Canon Established (do NOT re-explain)
 
@@ -40,3 +41,6 @@ Already described in earlier scenes. Reference by name and add only NEW, oblique
 - Eight plinths: five broken/empty, three intact - Stuncane, Med-Gel Injector, Mjölnir; each niche holds the one last copy of a retired replica (Scene 8)
 - Vault No. 48; the 47 lower-floor vaults (~10,000 replicas) all lost; two door keycards - Ulakhan, VP-134 Slabb (unseen) (Scene 8)
 - Sixteen mulchers + Gneiss inside (strict Scene 3/7 math = 17; assume one off-page death); the Axe still unseen until Scene 9 (Scene 8)
+- The Gatling Laser Axe, first seen: green-glowing laser-pommel; "last living specimen"; in a niche 10ft below the courtyard; catalogued in Obelisk Quarterly, Doomsday Edition Vol 27, p.72 (Scene 9)
+- The Penalty of the Reserve Asset Damage - law/precedent forbidding use of decommissioned replicas (Mooney's C-suite address, "eighth year of the eggshell"); the Congress of Historicity authors the placards; replicas are "capsule copies, reference only," handling penalty is "slow murder" (Scene 9)
+- Scene 9 ends on the breach: the 8in crossbar buckles, the steel doors smack open, the Creatures enter single-file over the treadplate bridge, Jurasik leading (Scene 9)
