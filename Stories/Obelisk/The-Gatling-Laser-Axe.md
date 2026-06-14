@@ -106,7 +106,7 @@ Slide 4 - Your Equipment and You:
 
 Stamper: Six-chamber. Fires metal dowels. Reload is slow.
 
-Clever: A Mulcher demon's best and sharpest friend.
+Cleaver: A Mulcher demon's best and sharpest friend.
 
 For Civilians: Apply both to undesirable activity.
 
@@ -121,7 +121,7 @@ Shlunk, flashing steel,
 Smoke in slow motion wanders high in a line,
 As a dowel punches,
 Through a rodent skullbone.
-Clevers sever stubby arms,
+Cleavers sever stubby arms,
 the line of Mulchers buckles - 
 like a bad fiscal year - 
 then rises,
@@ -477,7 +477,7 @@ In-unison, I and the mulchers spun, merging our pager and keychain light, till w
 Found it. The Gatling Laser Axe: Obelisk Quarterly - Doomsday Edition, Vol 27, Page 72, middle pane. The last living specimen of this awesome apparatus watches me out of the corner of its supernova laser-pommel eye, from a niche. Nearly touchable.
 
 **Dialogue:**
-Joiyuss Dustman: "But brothers, the big thief has insight." (Of course I do.) "And Phansy, look. Your clever is blunted."
+Joiyuss Dustman: "But brothers, the big thief has insight." (Of course I do.) "And Phansy, look. Your cleaver is blunted."
 
 Phansy: "I wouldn't mind more firepower."
 
@@ -534,7 +534,7 @@ Gores.
 Two cleavers wag,
 Fending five tusks.
 The Jurasik stomps on,
-Leading Weevils.
+Leading Wheevils.
 
 Chokepoint; thwarted.
 
@@ -568,7 +568,7 @@ A heated haft.
 I always imagined the Gatling Laser Axe to weigh about 10lbs. Holding it now, I know that's just right. The lever between the beard and fusion-belly triggers at a caress. And lo, the pommel-barrel doth spin. And lo, there sounds a tocsin *zhoom*.
 
 **Quote:**
-"I'm creeping around right now. You just can't see me, as I've invoked invisibility." - Cloak of the Seven Senses, Commercial Transcript
+"I'm creeping around right now. You just can't see me, as I've invoked invisibility." - Coat of the Seven Senses, Commercial Transcript
 
 **Quote:**
 "zhoooom... zhooooom... zhooom. zhooom. zhoom.  'Children run!' zhoom. zhoom. zhoomzhoomzhoomzhoomzhomzhomzhomzhomzhmzhzhmzmzmzzzzzzzzzzZZZZZZZZ-BOOM-ZZZZZZ-BOOMBOOM-ZZZZZZ-'AHHHHH.'-ZZZZZ-'It Burns!'-ZZZZ." - Gatling Laser Axe, Commercial Transcript
@@ -586,4 +586,4 @@ In the middle,
 Of the platform,
 As the dogs retreat,
 And the monsters attack,
-Blasts the foe with strobing green beams.
+Blasts to atoms bull and mice with strobing green beams.

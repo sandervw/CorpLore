@@ -20,7 +20,7 @@ When a blob quotes a character, that character speaks in their OWN voice. Any NE
 - **Generic Mulchers** - flat, corporate, procedural; distinct from Gneiss, and from each other where named.
 - **Dead ration patrol** (Scene 5) - McNish, Strauss, Cornelius, Chai, Scarborough; do not reuse these names. Joiyuss survived.
 - **Dead at the office overrun** (Scene 7) - M. Gobi, M. Towes (crushed under the barricade panel), plus two more unnamed; do not reuse these names.
-- **Phansy** (Scene 9, living) - a named mulcher; wants firepower, his clever is blunted. Generic-mulcher register.
+- **Phansy** (Scene 9, living) - a named mulcher; wants firepower, his cleaver is blunted. Generic-mulcher register.
 
 ## Canon Established (do NOT re-explain)
 
@@ -28,7 +28,7 @@ Already described in earlier scenes. Reference by name and add only NEW, oblique
 - The Coat of Seven Senses (Scene 1)
 - Mulch Team hierarchy, floor 134, the Capsule Vault (Scene 1)
 - Wheevils, Red Apes, the Jurasik, "the Creatures Electric" (Scene 2)
-- Stampers, Clevers (Scene 3)
+- Stampers, Cleavers (Scene 3)
 - The Gatling Laser Axe ("Doomsday Edition, Vol 27"; Gneiss's coveted item, Scene 4)
 - The missing cat (planted; never flag its significance)
 - The Butler (named in Scene 6 with dread, never explained - keep it that way); Biting Tapioca, the Orias (passing mentions); the flooded floor-below labyrinth (hearsay only)
@@ -44,3 +44,8 @@ Already described in earlier scenes. Reference by name and add only NEW, oblique
 - The Gatling Laser Axe, first seen: green-glowing laser-pommel; "last living specimen"; in a niche 10ft below the courtyard; catalogued in Obelisk Quarterly, Doomsday Edition Vol 27, p.72 (Scene 9)
 - The Penalty of the Reserve Asset Damage - law/precedent forbidding use of decommissioned replicas (Mooney's C-suite address, "eighth year of the eggshell"); the Congress of Historicity authors the placards; replicas are "capsule copies, reference only," handling penalty is "slow murder" (Scene 9)
 - Scene 9 ends on the breach: the 8in crossbar buckles, the steel doors smack open, the Creatures enter single-file over the treadplate bridge, Jurasik leading (Scene 9)
+- The Coat's three buttons - Bottom (rough, blind-eye pale), Middle (grey), Top (black); fastened bottom-to-top to vanish from all seven senses; the unseen state ("this side") runs damp (Scene 10)
+- The Jurasik: a circuited "cowmouth" with five black tusks that swish and gore, atop the bull body and four hooves (Scenes 9-10)
+- The Gatling Laser Axe in use: ~10 lbs; trigger-lever between the beard and the "fusion-belly," fires at a touch; the pommel-barrel spins with a tocsin "zhoom," loosing strobing green beams; wielded under the Coat it reads as a floating, self-firing axe (Scene 10)
+- "Commercial Transcript" - a Quote device: period ad copy for replicas (the Coat, the Axe) (Scene 10)
+- Gneiss takes the Axe unseen; the mulchers do not yet know it was him (Scene 10)

@@ -37,13 +37,13 @@ Blobs:
 
 ### Scene 3
 
-Scene 3 opens back at the main Mulcher office on floor 134. Start with a focused, detailed, but brief still-frame of The Creatures Electric about to break in. Then show the mulchers ready for them, defending the office. The mulchers use their company-issued weapons (not replicas; a mix of Obelisk-issued "stampers", which are basically six-chambered guns that launch metal dowels, and Obelisk-issued clevers). Sicne there are more mulchers here (about 20) and since they are ready, they are able to hold off the initial wave. Mr. Morel Ulakhan (The Chief Executive Mulcher) leads the defense. Gneiss can only watch from his holding room, but he calls out encouragement to the beleagured mulchers (somewhat trying ot ingratiate himself).
+Scene 3 opens back at the main Mulcher office on floor 134. Start with a focused, detailed, but brief still-frame of The Creatures Electric about to break in. Then show the mulchers ready for them, defending the office. The mulchers use their company-issued weapons (not replicas; a mix of Obelisk-issued "stampers", which are basically six-chambered guns that launch metal dowels, and Obelisk-issued cleavers). Sicne there are more mulchers here (about 20) and since they are ready, they are able to hold off the initial wave. Mr. Morel Ulakhan (The Chief Executive Mulcher) leads the defense. Gneiss can only watch from his holding room, but he calls out encouragement to the beleagured mulchers (somewhat trying ot ingratiate himself).
 
 Blobs:
 **Exposition:** A still-frame - the Creatures Electric massed at the three thresholds of the main office. Describe it like a heronymous-bosch painting. Tight, focused description of the specific creatures. Ends right as they move.
-**Exposition:** The company arsenal, field-guide style - Obelisk-issued *stampers* (six-chambered guns that launch metal dowels) and *clevers*. Cold catalogue tone.
+**Exposition:** The company arsenal, field-guide style - Obelisk-issued *stampers* (six-chambered guns that launch metal dowels) and *cleavers*. Cold catalogue tone.
 **Quote:** Chief Executive Ulakhan - a single grim line as the wave hits - like something Napoleon Bonaparte might have said before Austerlitz. Establishes him as the steady hand leading roughly 20 ready mulchers.
-**Action Poem:** The breach and the holding. The creatures electric burst in, attacking from all three sides at once; dowels and clevers answer; the line bends but holds. Visceral, concrete material, literal action. Focus on specific injuries, bodily damage, how The Creatures Electric and the defending demons move (and bleed). Be greusome.
+**Action Poem:** The breach and the holding. The creatures electric burst in, attacking from all three sides at once; dowels and cleavers answer; the line bends but holds. Visceral, concrete material, literal action. Focus on specific injuries, bodily damage, how The Creatures Electric and the defending demons move (and bleed). Be greusome.
 **Personal:** Gneiss from his holding room, pressed to the shatterproof glass, shouting encouragement to mulchers who are not his friends. Transparently ingratiating, darkly funny, angling to be useful (and freed).
 **Quote:** A mulcher notes, flatly, that it was mostly wheevils, and that they normally form into much larger attacks than this - and that wheevils shouldn't be here anyway...
 
@@ -59,7 +59,7 @@ Blobs:
 **Quote:** Ulakhan, ignoring Gneiss, addresses his mulchers instead - napoleonic, paternal, his "demonkind must be hardened" philosophy.
 **Dialogue:** The mulchers debate how the Creatures climbed past sealed stairs, trading possibilities, each more impossible/nonsensical than the last (like some kind of Dr. Seuss parody of a fiscal disaster).
 **Personal:** Gneiss's private frustration - he's the only one here who's *seen* the Creatures, the most useful demon in the room, and he's *a specific piece of* furniture.
-**Dialogue:** They finally round on Gneiss. Ulakhan and the First Mulcher interrogate him - why the vault? They don't allow him to speak, or divert
+**Dialogue:** (Cut in the draft - the interrogation was folded into the following Ulakhan "burglar" verdict quote.)
 **Quote:** Ulakhan's verdict on Gneiss - posterity-flavored, distrustful of a thief, but a flicker of seeing his use.
 **Personal:** The confession he gives his followers but not the mulchers - he saw the *Gatling Laser Axe* in a yellowed catalogue and thought it looked *sick*.
 **Question/Poll:** Gneiss works the crowd - is it so wrong to want one beautiful thing? Frame as an open question, not a poll.
@@ -76,7 +76,7 @@ Blobs (N1 = office; N2 = patrol; begins and ends in N1, Gneiss's anchor narrativ
 
 **N1 Personal:** Gneiss frames the resumed argument among the mulchers - a corporate, roundabout undertone of dread, now with worse acoustics as he could only hear snippets.
 **N1 Dialogue:** Mulchers - stairs sealed by a sorcerer-engineer decades back, so *how* did they climb?
-**N2 Exposition:** The returning mulcher patrol, Joiyuss among them, wheels a mailcart back from Rationing, oblivious to the slaughter within the halls they are entering. (Since these are all social media posts, frame this as a snippet from a news article)
+**N2 Exposition:** The returning mulcher patrol, Joiyuss among them, wheels a mailcart back from Rationing, oblivious to the slaughter within the halls they are entering. (In the draft, framed as a floor-notification / system status message, not a news article.)
 **N2 Dialogue:** The patrol, mundane and bored, joking over rations; dramatic irony thick.
 **N1 Dialogue:** The elevator-theory mulcher - time never passes *within* an elevator, so maybe it runs again. Another mulcher dismantles the flawed logic, flatly.
 **N2 Action Poem:** The ambush hits. First wave, specific creatures, specific count.
@@ -143,7 +143,7 @@ Many of these Vaults happened to exist on the lower half of the floors in the ol
 
 Blobs (style-break scene: the feed slows down and tours the room. Gneiss witnesses everything first-hand, by failing light. Headcount continuity: ~16 mulchers (Scene 3's twenty minus Scene 7's four dead) plus Joiyuss plus Gneiss, Ulakhan among them. CRITICAL: Gneiss must NOT spot the Gatling Laser Axe here - that sighting is Scene 9's opening beat):
 
-**Exposition:** The light inventory. Before the room, what they can see it BY: a few keychain flashlights, pager backlights, one safety-violating laser pointer (a mulcher's, not Gneiss's). The list itself is the artifact. Texture offers: the red dot crawling across far-off brick like a flea, the only light that reaches the other side; a mulcher who keeps checking his pager though comms are dead, just for the glow.
+**Personal:** The light inventory. Before the room, what they can see it BY: a few keychain flashlights, pager backlights, one safety-violating laser pointer (a mulcher's, not Gneiss's). The list itself is the artifact. Texture offers: the red dot crawling across far-off brick like a flea, the only light that reaches the other side; a mulcher who keeps checking his pager though comms are dead, just for the glow.
 
 **Exposition:** Looking up. The ceiling 15 feet overhead - a grid of replaceable office tiles, half fallen away, shattered fluorescent tubes, cobwebs over all. Texture offers: one tile stamped with a maker's mark and a date code from an age no one can place; cobwebs everywhere, spiders never once seen.
 
@@ -173,7 +173,7 @@ Blobs (Gneiss witnesses everything first-hand, by failing light. The escalating 
 
 **Personal:** The sighting: a wandering light passes a niche - the Gatling Laser Axe, matching the remembered catalogue page. Invention slot: Author debuts its appearance. IRONY DANGER ZONE: arrested for this room, the thing twenty feet off; bare fact only. Grounding - Quantification: Scene 4's "page whatever" resolves to an exact odd page number. Embodiment: he's held the light on the niche too long; makes himself sweep on.
 
-**Dialogue:** Gneiss's pitch, Scene 7 device: his side narration-only, answers quoted. A room of weapons, a room of demons - arithmetic. Joiyuss's support in his own voice; one generic mulcher wavering. Pounding interrupts mid-exchange. Grounding - Malfunction: the waverer's bent clever won't seat in its sheath; the gear argues for Gneiss. Wear: Joiyuss still in Scene 5 ruin - holed white sleeve, reddened shoe.
+**Dialogue:** Gneiss's pitch, Scene 7 device: his side narration-only, answers quoted. A room of weapons, a room of demons - arithmetic. Joiyuss's support in his own voice; one generic mulcher wavering. Pounding interrupts mid-exchange. Grounding - Malfunction: the waverer's bent cleaver won't seat in its sheath; the gear argues for Gneiss. Wear: Joiyuss still in Scene 5 ruin - holed white sleeve, reddened shoe.
 
 **Quote:** Ulakhan's refusal, full oration - Gneiss doesn't step on it. Napoleonic, posterity-minded, corporate-sacral: retired company property is not theirs to spend. Invention slot: one NEW lore reason (writ, rite, penalty) - Author invents specifics. Grounding - Economic: the replicas still sit on Obelisk's ledgers as unsold assets. Embodiment: he orates with one hand flat on a broken plinth, podium-style.
 
@@ -187,19 +187,21 @@ Blobs (Gneiss witnesses everything first-hand, by failing light. The escalating 
 
 Chaotic, visceral combat as the first wave of creatures hit; Gneiss uses the opportunity and his coat to retrieve the *Gatling Laser Axe*; he uses it to mow down the first wave
 
-Blobs (Gneiss witnesses first-hand; the breach is live, no pounding-clock now - that ended in Scene 9. The bridge is a one-creature-wide chokepoint over the void, which the breakdown leans on: it both helps the defenders and bottles the Jurasik. Scene 10 ENDS the instant the first wave lies dead - Scene 11 owns the regroup and Ulakhan's reckoning. Headcount: 16 mulchers + Joiyuss + Gneiss. The mulchers must NOT know it was Gneiss working the Axe - he is unseen; they figure that out next scene):
+Blobs (reconciled to the final prose - 7 blobs as drafted. Gneiss witnesses first-hand. Headcount unchanged: 16 mulchers + Joiyuss + Gneiss. The Axe is worked unseen; the mulchers do NOT know it was Gneiss - that lands in Scene 11. NB the draft diverged from the original breakdown: two Commercial Transcript quotes were added, the planned closing mulcher-reaction quote was cut, and the mow-down moved to last):
 
-**Action Poem:** The bridge as a butcher's chute. Single-file, the Jurasik leads; stampers and clevers work the chokepoint; dowels swallowed in its hide; it comes on regardless. ONE image: the bridge. Invention slot: the wave's count and one non-Jurasik creature behind the bull. Ends with the line bending, the bull nearly across. Grounding - Quantification: eleven dowels spent before the bull reaches the third treadplate, stopping none. Wear: old dowels healed into the Jurasik's hide, stubs left by defenders long dead.
+**Action Poem:** The bridge chokepoint. The Jurasik ("Cowmouth," five black tusks, circuited) takes dowels and gores through; two cleavers fend; it stomps on, leading Wheevils. ("Chokepoint; thwarted.")
 
-**Personal:** No one is watching the thief. Gneiss buttons the coat and drops out of all seven fields - first on-page use. IRONY DANGER ZONE: jailed for this very room, he now robs it in front of his jailers; state the bare fact. Curse SUBTEXT: one cost or sensation of vanishing, oblique. Invention slot: one NEW coat detail. Grounding - Cultural artifact: Obelisk mothers still warn never to button a coat to the throat after dark. Human agency: the topmost button bears a sealed-floor tailor's mark, worn nearly smooth.
+**Personal:** Gneiss buttons the coat - three buttons, Bottom/Middle/Top - and vanishes from all seven senses, unnoticed. NEW coat detail. Curse subtext: "always damp on this side."
 
-**Action Poem:** The descent. Unseen, down the clipboard-wide niche steps, war overhead, void below, to the niche ten feet down; his hand closes on the Gatling Laser Axe. ONE image. Ends hand-on-haft. Grounding - Embodiment: he descends heel-sideways, calves cramping, palms flat to the cold niche-lips. Malfunction: a step two down has crumbled to a gap; he stretches across the void to clear it.
+**Action Poem:** The descent. Unseen, down the narrow step over the void - 5ft, 3ft, kneel, reach - invisible fingers close on the heated haft.
 
-**Personal:** Holding it. Gneiss flexes to his followers, matching the real weight against remembered Vol 27, p.72 (redeploy the catalogue device). The laser-pommel wakes. Invention slot: how the Axe activates and fires - Author invents. Vanity over mechanics; keep it short. Grounding - Sensory: the pommel warms green, a hot-penny reek, a hum climbing the haft to his wrist. Cultural artifact: Vol 27's caption beneath it - "Doomsday Edition: some assembly of courage required."
+**Personal:** Holding the Axe (~10lbs). Activation invented: a trigger-lever between the beard and "fusion-belly," fires at a caress; the pommel-barrel spins with a tocsin "zhoom."
 
-**Action Poem:** The mow-down. The first wave cut apart on the bridge, the Jurasik dropped. ONE controlling image: from the mulchers' side, an Axe firing on its own, wielder nowhere. Ends the instant the first wave lies dead. Grounding - Sensory: green bolts strobe the void; ozone and seared fur; brick glazes where they miss. Embodiment: the haft kicks; his hidden shoulders jolt; heat reddens palms no eye can see.
+**Quote:** Commercial Transcript - the Coat of the Seven Senses ad copy, an invisibility jingle. NEW device (took the slot of the cut mulcher-reaction beat).
 
-**Quote:** A mulcher reacts to the self-wielding Axe - awe and terror, not knowing it is Gneiss. Generic-mulcher or Phansy register; Joiyuss optional. Carries "the forbidden replica just saved them" silently. Ulakhan does NOT reckon yet - that is Scene 11. Grounding - Sensory: green afterimages still swimming in his eyes as he speaks, ozone in his teeth. Human agency: he credits the Vault itself, or some dead saint - anything but a man.
+**Quote:** Commercial Transcript - the Gatling Laser Axe ad copy; the carnage rendered as onomatopoeic jingle ("It Burns!").
+
+**Action Poem:** The mow-down, now last. The Axe floats "unsuspended," vibrating a hidden hand; the dogs retreat, the monsters attack; it blasts bull and mice to atoms with strobing green beams.
 
 “Against all the evil that hell can conjure, all the wickedness that mankind can produce. We’ll send unto them, only you. Rip and Tear until it is done”
 
