@@ -201,6 +201,8 @@ Blobs (Gneiss witnesses first-hand; the breach is live, no pounding-clock now - 
 
 **Quote:** A mulcher reacts to the self-wielding Axe - awe and terror, not knowing it is Gneiss. Generic-mulcher or Phansy register; Joiyuss optional. Carries "the forbidden replica just saved them" silently. Ulakhan does NOT reckon yet - that is Scene 11. Grounding - Sensory: green afterimages still swimming in his eyes as he speaks, ozone in his teeth. Human agency: he credits the Vault itself, or some dead saint - anything but a man.
 
+“Against all the evil that hell can conjure, all the wickedness that mankind can produce. We’ll send unto them, only you. Rip and Tear until it is done”
+
 ### Scene 11
 
 The Mulchers regroup, re-sealing the door with a different replica-heat-gun, but more are coming; Chief Ulakhan finally agrees to Gneiss's plan to use the weapons/armor after the other Mulchers support him
