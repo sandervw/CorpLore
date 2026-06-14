@@ -26,43 +26,43 @@ Gneiss has been detained by The Mulch Team (Mulchers; Obelisk's demon police for
 Jump to a short scene with mulcher guards in the remote station (a small office post) near the two descending stairwells and the elevator. This scene starts with one of them asking if anyone has seen the new pet cat lately, it's been missing for a day. One of the mulchers is smoking beside a full-glass wall looking out on the tiered, garden-scaffolded Obelisk exterior. Suddenly the interior-windows looking out onto the hallway explodes inward. A host of creatures electric attack: wheevils, Red Apes, and a Jurasik. The police are massacred by the Creatures Electric.
 
 Blobs:
-- *Exposition:* Describe the remote station - a small office post in the same hallway as the two descending stairwells and the dead elevator. Keep most of the description on the office interior: smell of cigarettes, hazy flourescent-lit ceiling, a small set of cubicle-homes.
-- *Dialogue:* The guards, bored. One asks if anyone's seen the new pet cat - it's been missing a day. A shrug, a joke about it falling down the stairwell.
-- *Quote:* A first-person update from one guard (smoker at the full-glass wall), looking out on the tiered, garden-scaffolded exterior. Quiet, almost tender. End-of-shift mundanity.
-- *Question/Poll:* Posted by a guard - something idle about night-shift superstitions. Crowd-sourced unease, comically casual given what's coming.
-- *Exposition:* Brief, clinical catalogue of certain Creatures Electric - the Wheevils, the Red Apes, the Jurasik. Frame it almost like a field-guide entry.
-- *Action Poem:* The interior hallway-windows explode inward. The first wave hits. Loose verse, fast and visceral - glass, the Jurasik's bulk, the Red Apes coming over the cubicle walls.
-- *Action Poem:* The massacre proper. Continue the verse but turn it elegiac/brutal - the guards overwhelmed, the smoker and the glass wall, the station going quiet.
-- *Quote:* A single closing line - something found later, a last logged inter-department communication system message.
+**Exposition:** Describe the remote station - a small office post in the same hallway as the two descending stairwells and the dead elevator. Keep most of the description on the office interior: smell of cigarettes, hazy flourescent-lit ceiling, a small set of cubicle-homes.
+**Dialogue:** The guards, bored. One asks if anyone's seen the new pet cat - it's been missing a day. A shrug, a joke about it falling down the stairwell.
+**Quote:** A first-person update from one guard (smoker at the full-glass wall), looking out on the tiered, garden-scaffolded exterior. Quiet, almost tender. End-of-shift mundanity.
+**Question/Poll:** Posted by a guard - something idle about night-shift superstitions. Crowd-sourced unease, comically casual given what's coming.
+**Exposition:** Brief, clinical catalogue of certain Creatures Electric - the Wheevils, the Red Apes, the Jurasik. Frame it almost like a field-guide entry.
+**Action Poem:** The interior hallway-windows explode inward. The first wave hits. Loose verse, fast and visceral - glass, the Jurasik's bulk, the Red Apes coming over the cubicle walls.
+**Action Poem:** The massacre proper. Continue the verse but turn it elegiac/brutal - the guards overwhelmed, the smoker and the glass wall, the station going quiet.
+**Quote:** A single closing line - something found later, a last logged inter-department communication system message.
 
 ### Scene 3
 
 Scene 3 opens back at the main Mulcher office on floor 134. Start with a focused, detailed, but brief still-frame of The Creatures Electric about to break in. Then show the mulchers ready for them, defending the office. The mulchers use their company-issued weapons (not replicas; a mix of Obelisk-issued "stampers", which are basically six-chambered guns that launch metal dowels, and Obelisk-issued clevers). Sicne there are more mulchers here (about 20) and since they are ready, they are able to hold off the initial wave. Mr. Morel Ulakhan (The Chief Executive Mulcher) leads the defense. Gneiss can only watch from his holding room, but he calls out encouragement to the beleagured mulchers (somewhat trying ot ingratiate himself).
 
 Blobs:
-- *Exposition:* A still-frame - the Creatures Electric massed at the three thresholds of the main office. Describe it like a heronymous-bosch painting. Tight, focused description of the specific creatures. Ends right as they move.
-- *Exposition:* The company arsenal, field-guide style - Obelisk-issued *stampers* (six-chambered guns that launch metal dowels) and *clevers*. Cold catalogue tone.
-- *Quote:* Chief Executive Ulakhan - a single grim line as the wave hits - like something Napoleon Bonaparte might have said before Austerlitz. Establishes him as the steady hand leading roughly 20 ready mulchers.
-- *Action Poem:* The breach and the holding. The creatures electric burst in, attacking from all three sides at once; dowels and clevers answer; the line bends but holds. Visceral, concrete material, literal action. Focus on specific injuries, bodily damage, how The Creatures Electric and the defending demons move (and bleed). Be greusome.
-- *Personal:* Gneiss from his holding room, pressed to the shatterproof glass, shouting encouragement to mulchers who are not his friends. Transparently ingratiating, darkly funny, angling to be useful (and freed).
-- *Quote:* A mulcher notes, flatly, that it was mostly wheevils, and that they normally form into much larger attacks than this - and that wheevils shouldn't be here anyway...
+**Exposition:** A still-frame - the Creatures Electric massed at the three thresholds of the main office. Describe it like a heronymous-bosch painting. Tight, focused description of the specific creatures. Ends right as they move.
+**Exposition:** The company arsenal, field-guide style - Obelisk-issued *stampers* (six-chambered guns that launch metal dowels) and *clevers*. Cold catalogue tone.
+**Quote:** Chief Executive Ulakhan - a single grim line as the wave hits - like something Napoleon Bonaparte might have said before Austerlitz. Establishes him as the steady hand leading roughly 20 ready mulchers.
+**Action Poem:** The breach and the holding. The creatures electric burst in, attacking from all three sides at once; dowels and clevers answer; the line bends but holds. Visceral, concrete material, literal action. Focus on specific injuries, bodily damage, how The Creatures Electric and the defending demons move (and bleed). Be greusome.
+**Personal:** Gneiss from his holding room, pressed to the shatterproof glass, shouting encouragement to mulchers who are not his friends. Transparently ingratiating, darkly funny, angling to be useful (and freed).
+**Quote:** A mulcher notes, flatly, that it was mostly wheevils, and that they normally form into much larger attacks than this - and that wheevils shouldn't be here anyway...
 
 ### Scene 4
 
 Describe the mulcher office, post-destruction: A corporate cubicle floorspace, about 20 employees living in their cubicles, ~8 private office (1 for meals, 1 for the Chief Executive Mulcher, one each for the First and Second Mulcher, etc) - but the whole thing is slightly dishevled now, after the attack. Now, the demon Mulchers assess their situation; they know that more Creatures cannot be far - they must be swarming the halls. Gneiss tries again to convince them to let him fight/help - to let them use his Coat of the Seven Senses for their mutual good. He does not explain it fully, but mentions his coat would give him the power to sneak past the Creatures, and warn another department. The mulchers don't answer him right away; they debate how the creatures could have gotten up. Finally they remember Gneiss. The Mulchers question him as to why he wanted into the vault. After dodging, he admits he saw one of vault's items in a yellowed catalogue, and thought it looked *sick*. He doesn't say which item.
 
 Blobs:
-- *Exposition:* Gneiss describes the office post-attack - the disheveled cubicle-floorspace (~20 cubicle-homes, ~8 private offices), wrecked, from his cell vantage. His framing of corporate ruin.
-- *Personal:* Gneiss takes stock - Creatures still out in the halls, everyone knows it. His read on the room's mood: fear papered over with procedure. He laments *still* being locked in.
-- *Dialogue:* Two named mulchers debate Gneiss's pitch: let him help, he says, his coat can slip him past the Creatures to warn another department. One comments on how he is cagey on the *how*.
-- *Personal:* Why Gneiss won't explain the coat fully. Touch the curse *subtextually*. He'd rather be thought a charlatan than be pitied.
-- *Quote:* Ulakhan, ignoring Gneiss, addresses his mulchers instead - napoleonic, paternal, his "demonkind must be hardened" philosophy.
-- *Dialogue:* The mulchers debate how the Creatures climbed past sealed stairs, trading possibilities, each more impossible/nonsensical than the last (like some kind of Dr. Seuss parody of a fiscal disaster).
-- *Personal:* Gneiss's private frustration - he's the only one here who's *seen* the Creatures, the most useful demon in the room, and he's *a specific piece of* furniture.
-- *Dialogue:* They finally round on Gneiss. Ulakhan and the First Mulcher interrogate him - why the vault? They don't allow him to speak, or divert
-- *Quote:* Ulakhan's verdict on Gneiss - posterity-flavored, distrustful of a thief, but a flicker of seeing his use.
-- *Personal:* The confession he gives his followers but not the mulchers - he saw the *Gatling Laser Axe* in a yellowed catalogue and thought it looked *sick*.
-- *Question/Poll:* Gneiss works the crowd - is it so wrong to want one beautiful thing? Frame as an open question, not a poll.
+**Exposition:** Gneiss describes the office post-attack - the disheveled cubicle-floorspace (~20 cubicle-homes, ~8 private offices), wrecked, from his cell vantage. His framing of corporate ruin.
+**Personal:** Gneiss takes stock - Creatures still out in the halls, everyone knows it. His read on the room's mood: fear papered over with procedure. He laments *still* being locked in.
+**Dialogue:** Two named mulchers debate Gneiss's pitch: let him help, he says, his coat can slip him past the Creatures to warn another department. One comments on how he is cagey on the *how*.
+**Personal:** Why Gneiss won't explain the coat fully. Touch the curse *subtextually*. He'd rather be thought a charlatan than be pitied.
+**Quote:** Ulakhan, ignoring Gneiss, addresses his mulchers instead - napoleonic, paternal, his "demonkind must be hardened" philosophy.
+**Dialogue:** The mulchers debate how the Creatures climbed past sealed stairs, trading possibilities, each more impossible/nonsensical than the last (like some kind of Dr. Seuss parody of a fiscal disaster).
+**Personal:** Gneiss's private frustration - he's the only one here who's *seen* the Creatures, the most useful demon in the room, and he's *a specific piece of* furniture.
+**Dialogue:** They finally round on Gneiss. Ulakhan and the First Mulcher interrogate him - why the vault? They don't allow him to speak, or divert
+**Quote:** Ulakhan's verdict on Gneiss - posterity-flavored, distrustful of a thief, but a flicker of seeing his use.
+**Personal:** The confession he gives his followers but not the mulchers - he saw the *Gatling Laser Axe* in a yellowed catalogue and thought it looked *sick*.
+**Question/Poll:** Gneiss works the crowd - is it so wrong to want one beautiful thing? Frame as an open question, not a poll.
 
 ### Scene 5
 
@@ -74,17 +74,17 @@ Blobs:
 
 Blobs (N1 = office; N2 = patrol; begins and ends in N1, Gneiss's anchor narrative. N2 is Gneiss's after-the-fact reconstruction, leaning on Action Poems and a found log. The crosscut converges: the distant fighting the office hears near the end *is* the massacre we just watched - Gneiss in hindsight knows it, the room does not):
 
-- *N1 Personal:* Gneiss frames the resumed argument among the mulchers - a corporate, roundabout undertone of dread, now with worse acoustics as he could only hear snippets.
-- *N1 Dialogue:* Mulchers - stairs sealed by a sorcerer-engineer decades back, so *how* did they climb?
-- *N2 Exposition:* The returning mulcher patrol, Joiyuss among them, wheels a mailcart back from Rationing, oblivious to the slaughter within the halls they are entering. (Since these are all social media posts, frame this as a snippet from a news article)
-- *N2 Dialogue:* The patrol, mundane and bored, joking over rations; dramatic irony thick.
-- *N1 Dialogue:* The elevator-theory mulcher - time never passes *within* an elevator, so maybe it runs again. Another mulcher dismantles the flawed logic, flatly.
-- *N2 Action Poem:* The ambush hits. First wave, specific creatures, specific count.
-- *N1 Dialogue:* The Gneiss question arises again among the mulchers - They wonder amout tying up his hands, or gagging his mouth. They can't decide *how* he works his magic, and he won't tell them.
-- *N2 Action Poem:* The massacre proper. Gruesome, specific maneuvers, bodies, numbers.
-- *N1 Quote:* Ulakhan, about to render his verdict on Gneiss. Cuts off right before the verdict is given
-- *N2 Action Poem:* The cart abandoned, rations scattered, only Joiyuss escapes.
-- *N1 Personal:* Gneiss describes a silence falling over the office as the mulchers hear the distant screams of dying men (the very thing we just saw).
+**N1 Personal:** Gneiss frames the resumed argument among the mulchers - a corporate, roundabout undertone of dread, now with worse acoustics as he could only hear snippets.
+**N1 Dialogue:** Mulchers - stairs sealed by a sorcerer-engineer decades back, so *how* did they climb?
+**N2 Exposition:** The returning mulcher patrol, Joiyuss among them, wheels a mailcart back from Rationing, oblivious to the slaughter within the halls they are entering. (Since these are all social media posts, frame this as a snippet from a news article)
+**N2 Dialogue:** The patrol, mundane and bored, joking over rations; dramatic irony thick.
+**N1 Dialogue:** The elevator-theory mulcher - time never passes *within* an elevator, so maybe it runs again. Another mulcher dismantles the flawed logic, flatly.
+**N2 Action Poem:** The ambush hits. First wave, specific creatures, specific count.
+**N1 Dialogue:** The Gneiss question arises again among the mulchers - They wonder amout tying up his hands, or gagging his mouth. They can't decide *how* he works his magic, and he won't tell them.
+**N2 Action Poem:** The massacre proper. Gruesome, specific maneuvers, bodies, numbers.
+**N1 Quote:** Ulakhan, about to render his verdict on Gneiss. Cuts off right before the verdict is given
+**N2 Action Poem:** The cart abandoned, rations scattered, only Joiyuss escapes.
+**N1 Personal:** Gneiss describes a silence falling over the office as the mulchers hear the distant screams of dying men (the very thing we just saw).
 
 ### Scene 6
 
@@ -109,12 +109,12 @@ After the exposition break, have Gneiss jump back in. As the mulchers stand in s
 
 Blobs:
 
-- *Dialogue:* The mulchers prepare defenses. Ulakhan orders a barricade thrown up from the broken cubicles; a mulcher argues for enlisting civilian aid from the nearby offices. (Gneiss relays it overheard from his cell; distinct mulcher voices, Ulakhan in his own.)
-- *Personal:* The omen. The overhead lights shudder, a flensing-beach reek floods the room, a distant growl. The mulchers do not know the sound - no naming yet.
-- *Question/Poll:* Gneiss works his followers about the smell and the sound - he asks the question in a way that suggests *he* knows the answer.
-- *Exposition:* Gneiss's thief's-eye recon of the floor's exits, as if he cased it for the heist: the north outpost up the switchback to 135 (comms dead, fate unknown), the southeast one already gone, the down-stairs sealed, the elevator only descends. (Reference the sealed stairs / elevator-time obliquely.)
-- *Exposition:* The floor below, known to Gneiss only by hearsay: a semi-flooded labyrinth of flickering light and warped architecture; few who go down return.
-- *Personal:* Gneiss breaks the silence and names it - a Butler - delivered like Gandalf naming the Balrog. End on the name.
+**Dialogue:** The mulchers prepare defenses. Ulakhan orders a barricade thrown up from the broken cubicles; a mulcher argues for enlisting civilian aid from the nearby offices. (Gneiss relays it overheard from his cell; distinct mulcher voices, Ulakhan in his own.)
+**Personal:** The omen. The overhead lights shudder, a flensing-beach reek floods the room, a distant growl. The mulchers do not know the sound - no naming yet.
+**Question/Poll:** Gneiss works his followers about the smell and the sound - he asks the question in a way that suggests *he* knows the answer.
+**Exposition:** Gneiss's thief's-eye recon of the floor's exits, as if he cased it for the heist: the north outpost up the switchback to 135 (comms dead, fate unknown), the southeast one already gone, the down-stairs sealed, the elevator only descends. (Reference the sealed stairs / elevator-time obliquely.)
+**Exposition:** The floor below, known to Gneiss only by hearsay: a semi-flooded labyrinth of flickering light and warped architecture; few who go down return.
+**Personal:** Gneiss breaks the silence and names it - a Butler - delivered like Gandalf naming the Balrog. End on the name.
 
 ### Scene 7
 
@@ -122,13 +122,13 @@ Joiyuss runs in, last survivor of the rationing cart attack, with creatures on h
 
 Blobs:
 
-- *Dialogue:* Joiyuss arrives - relayed by Gneiss as an overheard scrap, no clean transcript. Joiyuss hammering at the half-built barricade to be let through it, screaming that the other ration patrol members are dead; one mulcher raises the concern that they can't open the corkboard barricade, it would take them ten minutes to screw it back and replace the props; Ulakhan orders it opened.
-- *Action Poem:* What followed him hits the gap before it closes. The overrun of the main office - ONE controlling image. Two mulchers, replacing the main, heaviest barricade panel, are flattened under the panel as the Creatures Electric stomp over them; This is the slot to debut one NEW trait of an established Creature (Writer invents something the Red Apes have not done on-page yet).
-- *Personal:* Gneiss at his shatterproof window during the rout - the office emptying toward the south hall, and nobody coming for the demon in the box. Banging on glass no one can hear over the dying. Concrete and darkly funny, no self-pity. Frame this one as an in-the-moment post - he is posting this as they are being routed.
-- *Dialogue:* Joiyuss stops, comes back, unlocks the door to Gneiss's prison-office. Brief - Joiyuss's lines quoted, Gneiss's side in narration only (never a named speaker). Where the key comes from should be concrete (a fallen ornamental metal tree hung with various keys and keycards like ornaments - make part of Gneiss's narration a brief note of watching Joiyuss scrabble for a key).
-- *Exposition:* Casing notes, revised - redeploy the Scene 6 device. The two viable exits from the office, which led back to the supercorridor and the remote office by the stairway leading up to floor 135, are now listed as crowded/overrun, line by line, deadpan. This carries "freedom came too late for the coat" without Gneiss ever glossing it.
-- *Action Poem:* The 50-foot run down the south hallway to the Capsule Vault - passing two small side corridors each leading to a cubicle space for a minor department (Writer: invent two small department names, named in passing, never explained) - dead ends, soon to be dead civilians; patterned steel double doors, the rearguard dying (invent and list a few random names), the doors opened and shut behind them. ONE controlling image.
-- *Personal:* Inside the sealed vault, initially black and lightless, soundless too, but in the way a vast chamber is soundless - no wind, but even the slightest breath seeming to spread out like wind across a broad vista. A short deadpan button - Gneiss finally inside the room he was arrested for trying to enter. State the bare fact; do not tie the bow on the irony.
+**Dialogue:** Joiyuss arrives - relayed by Gneiss as an overheard scrap, no clean transcript. Joiyuss hammering at the half-built barricade to be let through it, screaming that the other ration patrol members are dead; one mulcher raises the concern that they can't open the corkboard barricade, it would take them ten minutes to screw it back and replace the props; Ulakhan orders it opened.
+**Action Poem:** What followed him hits the gap before it closes. The overrun of the main office - ONE controlling image. Two mulchers, replacing the main, heaviest barricade panel, are flattened under the panel as the Creatures Electric stomp over them; This is the slot to debut one NEW trait of an established Creature (Writer invents something the Red Apes have not done on-page yet).
+**Personal:** Gneiss at his shatterproof window during the rout - the office emptying toward the south hall, and nobody coming for the demon in the box. Banging on glass no one can hear over the dying. Concrete and darkly funny, no self-pity. Frame this one as an in-the-moment post - he is posting this as they are being routed.
+**Dialogue:** Joiyuss stops, comes back, unlocks the door to Gneiss's prison-office. Brief - Joiyuss's lines quoted, Gneiss's side in narration only (never a named speaker). Where the key comes from should be concrete (a fallen ornamental metal tree hung with various keys and keycards like ornaments - make part of Gneiss's narration a brief note of watching Joiyuss scrabble for a key).
+**Exposition:** Casing notes, revised - redeploy the Scene 6 device. The two viable exits from the office, which led back to the supercorridor and the remote office by the stairway leading up to floor 135, are now listed as crowded/overrun, line by line, deadpan. This carries "freedom came too late for the coat" without Gneiss ever glossing it.
+**Action Poem:** The 50-foot run down the south hallway to the Capsule Vault - passing two small side corridors each leading to a cubicle space for a minor department (Writer: invent two small department names, named in passing, never explained) - dead ends, soon to be dead civilians; patterned steel double doors, the rearguard dying (invent and list a few random names), the doors opened and shut behind them. ONE controlling image.
+**Personal:** Inside the sealed vault, initially black and lightless, soundless too, but in the way a vast chamber is soundless - no wind, but even the slightest breath seeming to spread out like wind across a broad vista. A short deadpan button - Gneiss finally inside the room he was arrested for trying to enter. State the bare fact; do not tie the bow on the irony.
 
 ### Scene 8
 
@@ -143,25 +143,25 @@ Many of these Vaults happened to exist on the lower half of the floors in the ol
 
 Blobs (style-break scene: the feed slows down and tours the room. Gneiss witnesses everything first-hand, by failing light. Headcount continuity: ~16 mulchers (Scene 3's twenty minus Scene 7's four dead) plus Joiyuss plus Gneiss, Ulakhan among them. CRITICAL: Gneiss must NOT spot the Gatling Laser Axe here - that sighting is Scene 9's opening beat):
 
-- *Exposition:* The light inventory. Before the room, what they can see it BY: a few keychain flashlights, pager backlights, one safety-violating laser pointer (a mulcher's, not Gneiss's). The list itself is the artifact. Texture offers: the red dot crawling across far-off brick like a flea, the only light that reaches the other side; a mulcher who keeps checking his pager though comms are dead, just for the glow.
+**Exposition:** The light inventory. Before the room, what they can see it BY: a few keychain flashlights, pager backlights, one safety-violating laser pointer (a mulcher's, not Gneiss's). The list itself is the artifact. Texture offers: the red dot crawling across far-off brick like a flea, the only light that reaches the other side; a mulcher who keeps checking his pager though comms are dead, just for the glow.
 
-- *Exposition:* Looking up. The ceiling 15 feet overhead - a grid of replaceable office tiles, half fallen away, shattered fluorescent tubes, cobwebs over all. Texture offers: one tile stamped with a maker's mark and a date code from an age no one can place; cobwebs everywhere, spiders never once seen.
+**Exposition:** Looking up. The ceiling 15 feet overhead - a grid of replaceable office tiles, half fallen away, shattered fluorescent tubes, cobwebs over all. Texture offers: one tile stamped with a maker's mark and a date code from an age no one can place; cobwebs everywhere, spiders never once seen.
 
-- *Exposition:* The void. The realization that the courtyard is a tower top - on all four sides, a gap of black, a square pit with no visible bottom. Artifact: somebody drops something over the edge (a dowel, a pen) and the room counts the seconds waiting on the landing-sound; give the exact count at which they quit. Irony/dread danger zone: state the bare fact, never say "bottomless."
+**Exposition:** The void. The realization that the courtyard is a tower top - on all four sides, a gap of black, a square pit with no visible bottom. Artifact: somebody drops something over the edge (a dowel, a pen) and the room counts the seconds waiting on the landing-sound; give the exact count at which they quit. Irony/dread danger zone: state the bare fact, never say "bottomless."
 
-- *Exposition:* The floor underfoot. Brick courtyard, dead scrub grass up through the cracks (grass that has never seen sun - bare fact, do not tie the bow), the short brick bridge behind them spanning back to the barred steel doors. Texture offers: collapsed velvet-rope queue stanchions leading nowhere; a single ground-out cigarette butt of a brand long discontinued.
+**Exposition:** The floor underfoot. Brick courtyard, dead scrub grass up through the cracks (grass that has never seen sun - bare fact, do not tie the bow), the short brick bridge behind them spanning back to the barred steel doors. Texture offers: collapsed velvet-rope queue stanchions leading nowhere; a single ground-out cigarette butt of a brand long discontinued.
 
-- *Exposition:* The pedestals. Fake-marble plinths, some broken, each bearing exactly one decommissioned replica. Redeploy the catalogue device: Gneiss matching plinths against remembered pages of Doomsday Edition, Vol 27. Invention slot: name 2-3 replicas in passing (pull from the Scene 12 list or spend throwaways). No Gatling Laser Axe. Texture offer: the "marble" is contact paper, peeling at one corner like a sunburn.
+**Exposition:** The pedestals. Fake-marble plinths, some broken, each bearing exactly one decommissioned replica. Redeploy the catalogue device: Gneiss matching plinths against remembered pages of Doomsday Edition, Vol 27. Invention slot: name 2-3 replicas in passing (pull from the Scene 12 list or spend throwaways). No Gatling Laser Axe. Texture offer: the "marble" is contact paper, peeling at one corner like a sunburn.
 
-- *Exposition:* The tower sides. Niches descending into the dark along the outer faces, each niche holding one replica, served by steps the width of a clipboard. The rule of the room stated flat: one copy of every decommissioned replica, no seconds. Texture offer: the nearest niche's occupant visible only as a single glint when the laser dot passes it.
+**Exposition:** The tower sides. Niches descending into the dark along the outer faces, each niche holding one replica, served by steps the width of a clipboard. The rule of the room stated flat: one copy of every decommissioned replica, no seconds. Texture offer: the nearest niche's occupant visible only as a single glint when the laser dot passes it.
 
-- *Personal:* The room's effect on the law. Sixteen-odd armed mulchers gone quiet, flashlight beams wandering like searchlights at a vigil; procedure has no form for this place. Gneiss watching hard demons go small. Keep it concrete - what their lights do, not what anyone feels.
+**Personal:** The room's effect on the law. Sixteen-odd armed mulchers gone quiet, flashlight beams wandering like searchlights at a vigil; procedure has no form for this place. Gneiss watching hard demons go small. Keep it concrete - what their lights do, not what anyone feels.
 
-- *Exposition:* Casing notes, vault edition - third use of the device. Ways out, line-itemed deadpan: the steel doors they barred behind themselves; or the clipboard-wide steps, down, to doors said to stand at the bottom of the pit. Below floor 134... This carries the trap having shut without one word of comment.
+**Exposition:** Casing notes, vault edition - third use of the device. Ways out, line-itemed deadpan: the steel doors they barred behind themselves; or the clipboard-wide steps, down, to doors said to stand at the bottom of the pit. Below floor 134... This carries the trap having shut without one word of comment.
 
-- *Question/Poll:* Gneiss works the crowd - you're locked in demonkind's attic with one flashlight per five demons: what's your move? Options comic and practical. Crowd-sourced whistling past the void.
+**Question/Poll:** Gneiss works the crowd - you're locked in demonkind's attic with one flashlight per five demons: what's your move? Options comic and practical. Crowd-sourced whistling past the void.
 
-- *Exposition:* Vault lore, last. Many Capsule Vaults were raised on the lower floors in Obelisk's older ages; the lower floors are gone; Gneiss leaves the arithmetic undone. In his own voice, with his own aside - no encyclopedia narrator. Texture offer: a brass dedication plaque on the bridge rail, its names polished off by decades of thumbs.
+**Exposition:** Vault lore, last. Many Capsule Vaults were raised on the lower floors in Obelisk's older ages; the lower floors are gone; Gneiss leaves the arithmetic undone. In his own voice, with his own aside - no encyclopedia narrator. Texture offer: a brass dedication plaque on the bridge rail, its names polished off by decades of thumbs.
 
 ### Scene 9
 
@@ -169,23 +169,37 @@ They hear a pounding on the door; Gneiss spots the Gatling Laser; he immediately
 
 Blobs (Gneiss witnesses everything first-hand, by failing light. The escalating pounding is the scene's clock: thread it through as interruptions, no blobs of its own):
 
-- *Personal:* First impact on the steel doors. Concrete only: what the blow does to bar, doors, dust; sixteen pager-lights snapping to one sound. Scene 8 acoustics: a boom spreads like wind. Bare fact, no dread adjectives. Grounding - Sensory: the struck bar keeps ringing in its cradle, one long brass note. Human agency: old shin-height scuffs inside the doors, where someone once kicked to get out.
+**Personal:** First impact on the steel doors. Concrete only: what the blow does to bar, doors, dust; sixteen pager-lights snapping to one sound. Scene 8 acoustics: a boom spreads like wind. Bare fact, no dread adjectives. Grounding - Sensory: the struck bar keeps ringing in its cradle, one long brass note. Human agency: old shin-height scuffs inside the doors, where someone once kicked to get out.
 
-- *Personal:* The sighting: a wandering light passes a niche - the Gatling Laser Axe, matching the remembered catalogue page. Invention slot: Author debuts its appearance. IRONY DANGER ZONE: arrested for this room, the thing twenty feet off; bare fact only. Grounding - Quantification: Scene 4's "page whatever" resolves to an exact odd page number. Embodiment: he's held the light on the niche too long; makes himself sweep on.
+**Personal:** The sighting: a wandering light passes a niche - the Gatling Laser Axe, matching the remembered catalogue page. Invention slot: Author debuts its appearance. IRONY DANGER ZONE: arrested for this room, the thing twenty feet off; bare fact only. Grounding - Quantification: Scene 4's "page whatever" resolves to an exact odd page number. Embodiment: he's held the light on the niche too long; makes himself sweep on.
 
-- *Dialogue:* Gneiss's pitch, Scene 7 device: his side narration-only, answers quoted. A room of weapons, a room of demons - arithmetic. Joiyuss's support in his own voice; one generic mulcher wavering. Pounding interrupts mid-exchange. Grounding - Malfunction: the waverer's bent clever won't seat in its sheath; the gear argues for Gneiss. Wear: Joiyuss still in Scene 5 ruin - holed white sleeve, reddened shoe.
+**Dialogue:** Gneiss's pitch, Scene 7 device: his side narration-only, answers quoted. A room of weapons, a room of demons - arithmetic. Joiyuss's support in his own voice; one generic mulcher wavering. Pounding interrupts mid-exchange. Grounding - Malfunction: the waverer's bent clever won't seat in its sheath; the gear argues for Gneiss. Wear: Joiyuss still in Scene 5 ruin - holed white sleeve, reddened shoe.
 
-- *Quote:* Ulakhan's refusal, full oration - Gneiss doesn't step on it. Napoleonic, posterity-minded, corporate-sacral: retired company property is not theirs to spend. Invention slot: one NEW lore reason (writ, rite, penalty) - Author invents specifics. Grounding - Economic: the replicas still sit on Obelisk's ledgers as unsold assets. Embodiment: he orates with one hand flat on a broken plinth, podium-style.
+**Quote:** Ulakhan's refusal, full oration - Gneiss doesn't step on it. Napoleonic, posterity-minded, corporate-sacral: retired company property is not theirs to spend. Invention slot: one NEW lore reason (writ, rite, penalty) - Author invents specifics. Grounding - Economic: the replicas still sit on Obelisk's ledgers as unsold assets. Embodiment: he orates with one hand flat on a broken plinth, podium-style.
 
-- *Exposition:* The placard fine print. Gneiss reads decommission boilerplate off the nearest plinth, deadpan, clause by clause. The artifact carries Ulakhan's side silently: retired means retired. Ends mid-clause on a louder blow. Grounding - Procedural authority: true writ order - writ number, countersigning department, disposal clause "in abeyance." Wear: engraved clauses infilled with dust; Gneiss thumbs the grooves clean to read.
+**Exposition:** The placard fine print. Gneiss reads decommission boilerplate off the nearest plinth, deadpan, clause by clause. The artifact carries Ulakhan's side silently: retired means retired. Ends mid-clause on a louder blow. Grounding - Procedural authority: true writ order - writ number, countersigning department, disposal clause "in abeyance." Wear: engraved clauses infilled with dust; Gneiss thumbs the grooves clean to read.
 
-- *Question/Poll:* Gneiss works the crowd at the worst moment: door failing, shelves armed, boss says hands off. Options comic and practical; the poll IS the cliffhanger. Grounding - Economic: one option costs out the crime: eat the writ fine, if payroll survives. Particularity: another names one exact item - "hand the Chief the Mjölnir."
+**Question/Poll:** Gneiss works the crowd at the worst moment: door failing, shelves armed, boss says hands off. Options comic and practical; the poll IS the cliffhanger. Grounding - Economic: one option costs out the crime: eat the writ fine, if payroll survives. Particularity: another names one exact item - "hand the Chief the Mjölnir."
 
-- *Action Poem:* The breach. Doors give; Creatures funnel onto the treadplate bridge, single-file violence over the void. ONE controlling image: the bridge. End the instant the first creature clears it; Scene 10 owns the combat. Grounding - Particularity: the bar doesn't snap - bends, walks from one cradle, rings onto treadplate. Wear: bridge treadplate worn smooth down the center; first claws find no grip.
+**Action Poem:** The breach. Doors give; Creatures funnel onto the treadplate bridge, single-file violence over the void. ONE controlling image: the bridge. End the instant the first creature clears it; Scene 10 owns the combat. Grounding - Particularity: the bar doesn't snap - bends, walks from one cradle, rings onto treadplate. Wear: bridge treadplate worn smooth down the center; first claws find no grip.
 
 ### Scene 10
 
 Chaotic, visceral combat as the first wave of creatures hit; Gneiss uses the opportunity and his coat to retrieve the *Gatling Laser Axe*; he uses it to mow down the first wave
+
+Blobs (Gneiss witnesses first-hand; the breach is live, no pounding-clock now - that ended in Scene 9. The bridge is a one-creature-wide chokepoint over the void, which the breakdown leans on: it both helps the defenders and bottles the Jurasik. Scene 10 ENDS the instant the first wave lies dead - Scene 11 owns the regroup and Ulakhan's reckoning. Headcount: 16 mulchers + Joiyuss + Gneiss. The mulchers must NOT know it was Gneiss working the Axe - he is unseen; they figure that out next scene):
+
+**Action Poem:** The bridge as a butcher's chute. Single-file, the Jurasik leads; stampers and clevers work the chokepoint; dowels swallowed in its hide; it comes on regardless. ONE image: the bridge. Invention slot: the wave's count and one non-Jurasik creature behind the bull. Ends with the line bending, the bull nearly across. Grounding - Quantification: eleven dowels spent before the bull reaches the third treadplate, stopping none. Wear: old dowels healed into the Jurasik's hide, stubs left by defenders long dead.
+
+**Personal:** No one is watching the thief. Gneiss buttons the coat and drops out of all seven fields - first on-page use. IRONY DANGER ZONE: jailed for this very room, he now robs it in front of his jailers; state the bare fact. Curse SUBTEXT: one cost or sensation of vanishing, oblique. Invention slot: one NEW coat detail. Grounding - Cultural artifact: Obelisk mothers still warn never to button a coat to the throat after dark. Human agency: the topmost button bears a sealed-floor tailor's mark, worn nearly smooth.
+
+**Action Poem:** The descent. Unseen, down the clipboard-wide niche steps, war overhead, void below, to the niche ten feet down; his hand closes on the Gatling Laser Axe. ONE image. Ends hand-on-haft. Grounding - Embodiment: he descends heel-sideways, calves cramping, palms flat to the cold niche-lips. Malfunction: a step two down has crumbled to a gap; he stretches across the void to clear it.
+
+**Personal:** Holding it. Gneiss flexes to his followers, matching the real weight against remembered Vol 27, p.72 (redeploy the catalogue device). The laser-pommel wakes. Invention slot: how the Axe activates and fires - Author invents. Vanity over mechanics; keep it short. Grounding - Sensory: the pommel warms green, a hot-penny reek, a hum climbing the haft to his wrist. Cultural artifact: Vol 27's caption beneath it - "Doomsday Edition: some assembly of courage required."
+
+**Action Poem:** The mow-down. The first wave cut apart on the bridge, the Jurasik dropped. ONE controlling image: from the mulchers' side, an Axe firing on its own, wielder nowhere. Ends the instant the first wave lies dead. Grounding - Sensory: green bolts strobe the void; ozone and seared fur; brick glazes where they miss. Embodiment: the haft kicks; his hidden shoulders jolt; heat reddens palms no eye can see.
+
+**Quote:** A mulcher reacts to the self-wielding Axe - awe and terror, not knowing it is Gneiss. Generic-mulcher or Phansy register; Joiyuss optional. Carries "the forbidden replica just saved them" silently. Ulakhan does NOT reckon yet - that is Scene 11. Grounding - Sensory: green afterimages still swimming in his eyes as he speaks, ozone in his teeth. Human agency: he credits the Vault itself, or some dead saint - anything but a man.
 
 ### Scene 11
 

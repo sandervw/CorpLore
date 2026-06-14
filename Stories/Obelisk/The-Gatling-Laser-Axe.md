@@ -514,3 +514,42 @@ tap,
 tap,
 As, single file,
 Come the Electric horde.
+
+## Scene 10
+
+**Action Poem:**
+
+
+*The bridge as a butcher's chute. Single-file, the Jurasik leads; stampers and clevers work the chokepoint; dowels swallowed in its hide; it comes on regardless. ONE image: the bridge. Invention slot: the wave's count and one non-Jurasik creature behind the bull. Ends with the line bending, the bull nearly across. Grounding - Quantification: eleven dowels spent before the bull reaches the third treadplate, stopping none. Wear: old dowels healed into the Jurasik's hide, stubs left by defenders long dead.*
+
+**Personal:**
+
+
+*No one is watching the thief. Gneiss buttons the coat and drops out of all seven fields - first on-page use. IRONY DANGER ZONE: jailed for this very room, he now robs it in front of his jailers; state the bare fact. Curse SUBTEXT: one cost or sensation of vanishing, oblique. Invention slot: one NEW coat detail. Grounding - Cultural artifact: Obelisk mothers still warn never to button a coat to the throat after dark. Human agency: the topmost button bears a sealed-floor tailor's mark, worn nearly smooth.*
+
+**Action Poem:**
+
+
+*The descent. Unseen, down the clipboard-wide niche steps, war overhead, void below, to the niche ten feet down; his hand closes on the Gatling Laser Axe. ONE image. Ends hand-on-haft. Grounding - Embodiment: he descends heel-sideways, calves cramping, palms flat to the cold niche-lips. Malfunction: a step two down has crumbled to a gap; he stretches across the void to clear it.*
+
+**Personal:**
+
+
+*Holding it. Gneiss flexes to his followers, matching the real weight against remembered Vol 27, p.72 (redeploy the catalogue device). The laser-pommel wakes. Invention slot: how the Axe activates and fires - Author invents. Vanity over mechanics; keep it short. Grounding - Sensory: the pommel warms green, a hot-penny reek, a hum climbing the haft to his wrist. Cultural artifact: Vol 27's caption beneath it - "Doomsday Edition: some assembly of courage required."*
+
+  
+
+**Action Poem:**
+
+
+*The mow-down. The first wave cut apart on the bridge, the Jurasik dropped. ONE controlling image: from the mulchers' side, an Axe firing on its own, wielder nowhere. Ends the instant the first wave lies dead. Grounding - Sensory: green bolts strobe the void; ozone and seared fur; brick glazes where they miss. Embodiment: the haft kicks; his hidden shoulders jolt; heat reddens palms no eye can see.*
+
+  
+
+**Quote:**
+
+
+*“Against all the evil that hell can conjure, all the wickedness that mankind can produce. We’ll send unto them, only you. Rip and Tear until it is done”*
+
+*A mulcher reacts to the self-wielding Axe - awe and terror, not knowing it is Gneiss. Generic-mulcher or Phansy register; Joiyuss optional. Carries "the forbidden replica just saved them" silently. Ulakhan does NOT reckon yet - that is Scene 11. Grounding - Sensory: green afterimages still swimming in his eyes as he speaks, ozone in his teeth. Human agency: he credits the Vault itself, or some dead saint - anything but a man.*
+
