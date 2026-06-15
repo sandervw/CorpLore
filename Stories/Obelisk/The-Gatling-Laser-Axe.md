@@ -587,3 +587,47 @@ Of the platform,
 As the dogs retreat,
 And the monsters attack,
 Blasts to atoms bull and mice with strobing green beams.
+
+## Scene 11
+
+**Dialogue:**
+"It's just glowing at us..."
+
+"M-must be a ghost."
+
+"No such thing, stupid. Some sorcerer's playing with us."
+
+"Herry, secure that laser."
+
+"Think I'd go near that thing? Did you see see how it melted those monsters?"
+
+"So, what does it want now?"
+
+**Personal:**
+And they watched, and behold a pale coat: and his name that wore the coat was Big Gneiss Rong, and the Axe burned in his hands.
+
+**Question/Poll:**
+I wrestled with the math until it said my best bet was flashing the mulchers- open my coat, reveal that I hold the burning axe that saved their skins. Did I miscalculate?
+- Yes
+- No
+- Doesn't matter, you have a Burning Laser Insurance Policy
+
+**Exposition:**
+(*Note to self: treat this as a posted painting/photo - below is the caption*)
+
+Second Mulcher Snapisch Crust (47, 2 wives, no kids) taking up an Protein Burner (from the popular series MORTIS), uses the Obelisk replica to melt the bent crossbeam onto the capsule vault doors. In the background his chief stares in astonishment.
+
+**Personal:**
+We heard it again just now. *HHHGGGGUUUUURR*. Even through welded, foot-thick steel doors and concrete walls, we heard The Butler's purr. One of the mulchers' flashlights flickered. 40 held breaths later we heard it again, louder.
+
+**Dialogue:**
+M. Herry Whitaker: "Think Obelisk ever made a Gatling Laser Sword?"
+
+M. Phansy Le: "I wouldn't mind double-more firepower."
+
+M. Joiyuss Dustman: "The supervisors who built this capsule, surely, would ask we use their age's artifacts in its defense."
+
+**Quote:**
+Finally this dogpig Ulakhan caved.
+
+"At one moment of one year of every century, a demon's work forces him to a Deed - to define paper for one millennium. Nothing is more dangerous, nor more precious, than such a demon. Let us arm ourselves."

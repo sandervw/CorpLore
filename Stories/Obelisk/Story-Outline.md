@@ -209,6 +209,22 @@ Blobs (reconciled to the final prose - 7 blobs as drafted. Gneiss witnesses firs
 
 The Mulchers regroup, re-sealing the door with a different replica-heat-gun, but more are coming; Chief Ulakhan finally agrees to Gneiss's plan to use the weapons/armor after the other Mulchers support him
 
+Blobs (Scene 10 aftermath: first wave atomized; doors broken open, the 8in crossbar wrecked from Scene 9. In Scene 10 Gneiss VANISHED from among them (buttoned the coat) to take the Axe; the floating axe mowed the wave and they don't yet know it was the missing thief. KEY CHOICE: this scene resolves that - Gneiss reappears holding the Axe and KEEPS it, openly in hand, from now on - no hiding, no setting it down. The reveal is what flips the room. By scene's end he is an armed, accepted team member, setting up Scene 12. Headcount: 16 mulchers + Joiyuss + Gneiss):
+
+**Dialogue:** The room reacts to the floating Axe - stunned eavesdropped scraps: where'd the burglar go, never mind him, is it just hanging there, don't touch it. Strip name-tags. IRONY DANGER ZONE: nobody connects the vanished thief to the ghost-weapon - the reader does. No near-guess. Grounding - Procedural Authority: a mulcher barks "secure that ordnance" by-the-book at a thing no protocol covers. Sensory: the pommel still ticks faint green, smoke curling off the beard.
+
+**Personal:** The reveal. Gneiss unbuttons and appears holding the Axe - the ghost unmasked, Big Gneiss Rong in full flex. He keeps it, openly, in hand from here on. A flicker of the coat's cost underneath (curse-damp subtext). Grounding - Embodiment: the haft scalds his palm; the coat's underside peels off him cold and damp. Traces of Human Agency: a worn maker's stamp on the beard, thumb-polished by some long-dead owner.
+
+**Question/Poll:** Gneiss works the crowd - caught red-handed cradling the forbidden, glorious Axe in front of demonkind's police; rate his odds. Comic options, practical and absurd. The flex, crowd-sourced. Grounding - Quantification: one option prices the crime, "a 4,000-quarter handling fine, payable never." Gratuitous Detail: a joke option unrelated to anything, "ask the Axe for its references."
+
+**Exposition:** The reseal. Scene 9 wrecked the crossbar, so the broken doors shut only by melting them. A mulcher welds them with a replica heat-gun (INVENTION SLOT: brand/name it) - the taboo crumbling by necessity, before Ulakhan ever says yes. Redeploy the placard device. Concrete: heat on steel. Grounding - Procedural Authority: he runs the heat-gun seam-to-hinge in three passes, off-label, fusing steel to steel. Wear: the doors already wear older scorch-scars - this seam isn't the first.
+
+**Personal:** But more come. Through the fresh weld, the Scene 6 omen returns, worse: the flensing-beach reek, a growl with weight behind it. The Butler nearer, unnamed here. The clock. Concrete sensory only - lights, dust, men's hands; no dread adjectives. Grounding - Quantification: two growls, roughly forty seconds apart, each one nearer. Malfunction: a fluorescent tube gutters with each growl, won't hold its light.
+
+**Dialogue:** The law backs Gneiss. Joiyuss (archaic, tender), Phansy (blunt cleaver, wants firepower), one NEW mulcher (misspelled-adjective name). The case makes itself: the Axe just saved them, the door's already a replica, the thing's coming. They press Ulakhan. Gneiss's side narration-only. Grounding - Embodiment: Phansy keeps thumbing the cleaver's rolled, blunt edge as he argues. Cultural Artifacts: close on an "- Ancient ballad" lyric button that reads as assent.
+
+**Quote:** Ulakhan's capitulation, full height - Gneiss doesn't step on it. He reframes surrender as command and destiny; invokes a loophole to his own Reserve Asset Damage law (INVENTION SLOT: emergency clause, rite, or precedent). "History's chattel" becomes "history demands the hand that wields it." Scene-ender, on his yes. Grounding - Embodiment: he unclips the keycard from his neck-lanyard mid-sentence, hand not quite steady. Traces of Human Agency: launders it through absent VP-134 Slabb, "as Slabb would countersign."
+
 ### Scene 12
 
 Arming/gearing-up montage, as the polcie open up the various storage lockers and cabinets, and pick out weapons and armor; no creatures have attacked yet; scene ends with them deciding to march out and take the attack to the monsters; their plan to go *down* first, killing whatever they come across, then coming back up the same way the Creatures did, slipping behind
@@ -226,6 +242,10 @@ Extensive, visceral combat again, as the Mulchers force moves through the halls 
 - The coat allowed the wearer to go unseen
 - The one who dons it must thereafter wear it forever; taking off the coat means losing all one's senses, essentially becoming a vegetable, existing only as **"Massless Potential Energy** (maintains internal senses; the seven senses are only the external ones)
 - *The Seven Senses:* vision, hearing, touch, smell, taste, balance, and... (keep the seventh mysterious)
+- Categorizes others into three groups: *Dogs*, *Pigs*, and *Sheep*
+	- *Dogs*: police, lawmen, enforcers, etc; will sometimes break these down further into 'hounds'/'mongrel-dogs' (the sadists who use authority to fulfill their kink) and 'pups' (young lawmen who still have a sense of misplaced idealism)
+	- *Pigs*: authority, upper-management, etc; 'hogs' are the fat ones; 'swine' are truly, truly evil
+	- *Sheep*: Commoner (weakling) demons; the masses; 'lamb/lambs' is reserved for the especially pathetic and helpless; 'rams' are good, honest tradesmen who might be relied upon
 - **Elric of Melnibone** meets **Meleoron from Hunter X Hunter**
 - **Voice:** Vain, wry, self-mythologizing. Hindsight and dark humor color everything. He name-drops himself ("Big Gneiss Rong"), occassionally addresses his followers, and likes off-kilter similes. His melancholy is SUBTEXT - deadpan, self-deprecation, corporate-transactional diction He narrates, but does not step on a quoted speaker's grandeur: an oration stands at full height.
 
