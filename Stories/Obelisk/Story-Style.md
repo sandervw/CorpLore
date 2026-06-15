@@ -20,7 +20,8 @@ When a blob quotes a character, that character speaks in their OWN voice. Any NE
 - **Generic Mulchers** - flat, corporate, procedural; distinct from Gneiss, and from each other where named.
 - **Dead ration patrol** (Scene 5) - McNish, Strauss, Cornelius, Chai, Scarborough; do not reuse these names. Joiyuss survived.
 - **Dead at the office overrun** (Scene 7) - M. Gobi, M. Towes (crushed under the barricade panel), plus two more unnamed; do not reuse these names.
-- **Phansy** (Scene 9, living) - a named mulcher; wants firepower, his cleaver is blunted. Generic-mulcher register.
+- **Phansy Le** (Scene 9, living) - a named mulcher; wants firepower, his cleaver is blunted. Generic-mulcher register.
+- **Living mulchers (Scene 11)** - Second Mulcher Snapisch Crust (47, two wives, no kids); M. Herry Whitaker. Generic-mulcher register; do not reuse these names for the dead.
 
 ## Canon Established (do NOT re-explain)
 
@@ -49,3 +50,7 @@ Already described in earlier scenes. Reference by name and add only NEW, oblique
 - The Gatling Laser Axe in use: ~10 lbs; trigger-lever between the beard and the "fusion-belly," fires at a touch; the pommel-barrel spins with a tocsin "zhoom," loosing strobing green beams; wielded under the Coat it reads as a floating, self-firing axe (Scene 10)
 - "Commercial Transcript" - a Quote device: period ad copy for replicas (the Coat, the Axe) (Scene 10)
 - Gneiss takes the Axe unseen; the mulchers do not yet know it was him (Scene 10)
+- The reveal: Gneiss opens the coat (this viewing: "a pale coat") and stands holding the Gatling Laser Axe; the law learns the "ghost" that atomized the wave was him; he keeps the Axe openly from here (Scene 11)
+- The Protein Burner - an Obelisk replica heat-gun from the fiction series "MORTIS"; Second Mulcher Snapisch Crust uses it to melt the bent crossbar back onto the steel vault doors, re-sealing them (Scene 11)
+- The Butler's "purr" - the Scene 6 growl (HHHGGGGUUUUURR) recurs through the welded, foot-thick doors, nearer and louder; Gneiss names it the Butler's to the reader (Scene 11)
+- Ulakhan relents and orders the team to arm with the replicas ("Let us arm ourselves"), framing it as a once-in-a-century "Deed" rather than citing a legal loophole (Scene 11)

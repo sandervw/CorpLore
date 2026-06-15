@@ -599,7 +599,7 @@ Blasts to atoms bull and mice with strobing green beams.
 
 "Herry, secure that laser."
 
-"Think I'd go near that thing? Did you see see how it melted those monsters?"
+"Think I'd go near that thing? Did you see how it melted those monsters?"
 
 "So, what does it want now?"
 
@@ -607,15 +607,15 @@ Blasts to atoms bull and mice with strobing green beams.
 And they watched, and behold a pale coat: and his name that wore the coat was Big Gneiss Rong, and the Axe burned in his hands.
 
 **Question/Poll:**
-I wrestled with the math until it said my best bet was flashing the mulchers- open my coat, reveal that I hold the burning axe that saved their skins. Did I miscalculate?
+I wrestled with the math until it said my best bet was flashing (and saving) the mulchers. Did I miscalculate?
 - Yes
 - No
-- Doesn't matter, you have a Burning Laser Insurance Policy
+- Doesn't matter when you have Gatling Laser Insurance
 
 **Exposition:**
 (*Note to self: treat this as a posted painting/photo - below is the caption*)
 
-Second Mulcher Snapisch Crust (47, 2 wives, no kids) taking up an Protein Burner (from the popular series MORTIS), uses the Obelisk replica to melt the bent crossbeam onto the capsule vault doors. In the background his chief stares in astonishment.
+Second Mulcher Snapisch Crust (47, 2 wives, no kids) taking up a Protein Burner (from the popular series MORTIS), uses the Obelisk replica to melt the bent crossbeam onto the capsule vault doors. In the background his chief stares in astonishment.
 
 **Personal:**
 We heard it again just now. *HHHGGGGUUUUURR*. Even through welded, foot-thick steel doors and concrete walls, we heard The Butler's purr. One of the mulchers' flashlights flickered. 40 held breaths later we heard it again, louder.
@@ -628,6 +628,22 @@ M. Phansy Le: "I wouldn't mind double-more firepower."
 M. Joiyuss Dustman: "The supervisors who built this capsule, surely, would ask we use their age's artifacts in its defense."
 
 **Quote:**
-Finally this dogpig Ulakhan caved.
 
 "At one moment of one year of every century, a demon's work forces him to a Deed - to define paper for one millennium. Nothing is more dangerous, nor more precious, than such a demon. Let us arm ourselves."
+
+Finally this dogpig Ulakhan caves.
+
+## Scene 12
+
+**Exposition:**
+An Aquarian Horoscopic Audit of Vault No. 48 reveals that the Mulchers of floor 134 connected their belts as a tether. They scaled down the uppermost portions of the vault tower, selecting - and picking the bronze gates covering - 12 replicas.
+
+**Exposition:**
+Selection of Obelisk Replicas found in Capsule Vault 
+
+*The haul manifest - redeploy the Doomsday Edition catalogue voice, one terse field-guide line each: Excalibur, Stormbringer, Lightsaber (several color cells), Caladbolg, the Lance of the Pale Rider, Foe-Hammer (PLANT: glows cold blue when Creatures near). Name ~6, imply the rest. Grounding - Quantification: Lightsaber ships with seven color cells, only three still holding a charge. Sensory: Caladbolg sweats a faint rainbow oil, Stormbringer hums one note below hearing.*
+
+**Question/Poll:**
+
+
+*Loadout poll - Gneiss works the crowd: one pull from demonkind's attic, which? Options comic and iconic, drawn from the list: Lightsaber, Palantir, the Horadric Cube, the Optical Camo Cloak. Surfaces more of the inventory. Grounding - Gratuitous Detail: a joke option, the Palantir "but only to check the weather." Quantification: the Horadric Cube "fits exactly three items, nobody knows which."*
