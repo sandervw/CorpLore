@@ -639,11 +639,53 @@ Finally this dogpig Ulakhan caves.
 An Aquarian Horoscopic Audit of Vault No. 48 reveals that the Mulchers of floor 134 connected their belts as a tether. They scaled down the uppermost portions of the vault tower, selecting - and picking the bronze gates covering - 12 replicas.
 
 **Exposition:**
-Selection of Obelisk Replicas found in Capsule Vault 
-
-*The haul manifest - redeploy the Doomsday Edition catalogue voice, one terse field-guide line each: Excalibur, Stormbringer, Lightsaber (several color cells), Caladbolg, the Lance of the Pale Rider, Foe-Hammer (PLANT: glows cold blue when Creatures near). Name ~6, imply the rest. Grounding - Quantification: Lightsaber ships with seven color cells, only three still holding a charge. Sensory: Caladbolg sweats a faint rainbow oil, Stormbringer hums one note below hearing.*
+Vault Log Cont. - Melee Weapons:
+- The Lance of the Pale Rider
+- Caladbolg
+- Excalibur
+- The Foe-Hammer (Archivist's note: Defective copy - "glows blue near orcs" procs for cats/dogs too)
+- Lightsaber (3 color cells incl.)
+- Stormbringer
 
 **Question/Poll:**
+Your up against black and glowing Things from the lower 133. You can have one trinket to use against them - what's your pick?
+- The Horadric Cube
+- The Optical Camo Cloak (worthless to yours truly)
+- EMP Charge
+- The Palantir
 
+**Dialogue:**
+"An 'Arc Caster', huh? Feels staticky. Definitely more firepower than this bent cutlery though."
 
-*Loadout poll - Gneiss works the crowd: one pull from demonkind's attic, which? Options comic and iconic, drawn from the list: Lightsaber, Palantir, the Horadric Cube, the Optical Camo Cloak. Surfaces more of the inventory. Grounding - Gratuitous Detail: a joke option, the Palantir "but only to check the weather." Quantification: the Horadric Cube "fits exactly three items, nobody knows which."*
+"Joiyuss, what's that?"
+
+"'The Crown of the Lich'. The tag says it commands the dead."
+
+"Your skull's too little for it."
+
+**Personal:**
+I've never like Law's dogs, especially ones with long teeth. But if your loosing them on mutant Creatures, I guess you don't want them fangless.
+
+Random: what's the best replica for use against the law? Probably a shiny, black, bottomless wallet.
+
+**Personal:**
+Here's the plan I put to the mulchers. Cunning, procedural, avoids Butlers:
+1. Skip the main exit; slip DOWN the vault to floor 133
+2. Tiptoe through the labyrinth; find the stairs to our floor
+3. Come up BEHIND the creatures
+4. Retreat, get backup
+
+**Quote:**
+"On floor 133 there will be numerous monsters born through dark astrology, which we must abstain from attacking. The genius of this war consists in using equipment such as this Mjölnir to eliminate only those foes we find in isolation." - CEM Ulakhan
+
+**Action Poem:**
+Single-file,
+Step by thin step,
+Hug the coarse bricks as you go,
+You eighteen demons,
+Your pagers shining,
+Against the outer vault wall,
+As you go into the void,
+One lcd leads the rest,
+Nine-by-nine yards down,
+And still finds no bottom.

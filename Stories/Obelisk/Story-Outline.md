@@ -228,7 +228,7 @@ Blobs (Scene 10 aftermath: first wave atomized; doors broken open, the 8in cross
 ### Scene 12
 
 This scene is primarily an arming/gearing-up montage, as the police open up the various storage lockers and cabinets, and pick out weapons and armor. No creatures attack - yet.  While they gather weapons, Gneiss comes up with a plan; they go *down* first, killing whatever they come across, then coming back up the same way the Creatures did, slipping behind. The scene ends with the mulchers agreeing to take the attack to the monsters, and starting down the tower sides.
-- They find the following replicas use in their fight: Gatling Laser Axe, Excalibur, Stormbringer, Lightsaber with several color cells, The Lance of the Pale Rider, Foe-Hammer which glows cold blue when the Creatures are near, Caladbolg, The Helm of Awe, Crown of the Lich, Palantír, The Horadric Cube, EMP Charge, Optical Camo Cloak, Arc Caster
+- They find the following replicas use in their fight: The Helm of Awe, Crown of the Lich
 
 Blobs (arming/gearing montage; no Creatures attack, but the Scene 11 purr is the clock - the door is welded, so OUT means the bridge-meatgrinder, and that pressure births Gneiss's down-and-around plan. Gneiss witnesses first-hand and keeps the Axe openly in hand throughout (Scene 11 canon). Headcount: 16 mulchers + Joiyuss + Gneiss. Niches/plinths are the only storage - reconcile the "lockers/cabinets" as grated niche-doors. Distribute the replica list across manifest, poll, and dialogue so no blob bloats):
 
