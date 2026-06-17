@@ -54,3 +54,8 @@ Already described in earlier scenes. Reference by name and add only NEW, oblique
 - The Protein Burner - an Obelisk replica heat-gun from the fiction series "MORTIS"; Second Mulcher Snapisch Crust uses it to melt the bent crossbar back onto the steel vault doors, re-sealing them (Scene 11)
 - The Butler's "purr" - the Scene 6 growl (HHHGGGGUUUUURR) recurs through the welded, foot-thick doors, nearer and louder; Gneiss names it the Butler's to the reader (Scene 11)
 - Ulakhan relents and orders the team to arm with the replicas ("Let us arm ourselves"), framing it as a once-in-a-century "Deed" rather than citing a legal loophole (Scene 11)
+- The arming: mulchers belted into a single tether, scaled the upper tower, picked the bronze gate-locks over the niches; 12 niche-replicas taken (Scene 12)
+- Replicas now in play: Lance of the Pale Rider, Caladbolg, Excalibur, Lightsaber (3 color cells), Stormbringer; the Foe-Hammer (defective copy - "glows blue near orcs," also procs for cats/dogs); the Arc Caster ("staticky," Phansy's); the Crown of the Lich ("commands the dead," too big for Joiyuss's head); Ulakhan bears Mjölnir; poll-named only: Horadric Cube, Optical Camo Cloak, EMP Charge, Palantir (Scene 12)
+- "Dark astrology" - Creatures framed as "born through dark astrology"; the vault inventory styled an "Aquarian Horoscopic Audit" (Scene 12)
+- Gneiss's plan: skip the bridge exit, descend the vault to floor 133, cross the lower labyrinth, find stairs up, come up BEHIND the Creatures, then retreat for backup; Ulakhan's rule - avoid the monster masses, strike only isolated foes (Scene 12)
+- Scene 12 ends with all eighteen descending single-file on the belt-tether into the bottomless void toward floor 133 (Scene 12)

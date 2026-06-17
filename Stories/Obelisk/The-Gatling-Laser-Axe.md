@@ -1,5 +1,7 @@
 # The Gatling Laser Axe
 
+> **REVISION NOTE:** Anchor the astrology/horoscope/occult lore in an early scene (1-4). Scene 12 debuts "dark astrology" and the "Aquarian Horoscopic Audit" cold, with no prior setup - either seed it earlier so it reads as a real system, or strip it from Scene 12.
+
 ## Scene 1
 
 **Personal:**
@@ -648,7 +650,7 @@ Vault Log Cont. - Melee Weapons:
 - Stormbringer
 
 **Question/Poll:**
-Your up against black and glowing Things from the lower 133. You can have one trinket to use against them - what's your pick?
+You're up against black and glowing Things from the lower 133. You can have one trinket to use against them - what's your pick?
 - The Horadric Cube
 - The Optical Camo Cloak (worthless to yours truly)
 - EMP Charge
@@ -664,7 +666,7 @@ Your up against black and glowing Things from the lower 133. You can have one tr
 "Your skull's too little for it."
 
 **Personal:**
-I've never like Law's dogs, especially ones with long teeth. But if your loosing them on mutant Creatures, I guess you don't want them fangless.
+I've never liked Law's dogs, especially ones with long teeth. But if you're loosing them on mutant Creatures, I guess you don't want them fangless.
 
 Random: what's the best replica for use against the law? Probably a shiny, black, bottomless wallet.
 
