@@ -691,3 +691,25 @@ As you go into the void,
 One lcd leads the rest,
 Nine-by-nine yards down,
 And still finds no bottom.
+
+## Scene 13
+
+**Exposition:**
+Now entering, floor 133:
+
+One tube undulated with dim teal color in a 400-yard hallway. The ceiling is bowed where it hangs. A gurgling sound betrays a water cooler, nearly outside the light. It's 5-gallon jug is full of ink. The hallway is flooded.
+
+**Personal:**
+
+
+*The stealth plan dies in seconds - "discovered almost immediately." Trigger: the Foe-Hammer wakes cold blue (Scene 12 plant) the instant they're spotted. Wry. Gneiss clocks the meat-grinder ahead. Dogs read. Grounding - Quantification: the plan survives exactly eleven steps onto floor 133. Embodiment: Phansy's knuckles whiten on the Foe-Hammer the instant it lights cold blue.*
+
+**Action Poem:**
+
+
+*First contact in the flood. Wheevils boil up the corridor, Red Apes over warped cubicles; the Axe opens, green beams, water steaming. Specific bodies and count. ONE image: the flooded chokepoint. Grounding - Quantification: seventeen wheevils in the first wave, counted later by teeth. Particularity: one Red Ape drags a drowned demon's lanyard snagged on its wrist.*
+
+**Action Poem:**
+
+
+*The room-by-room Doom march. Replicas live: Ulakhan's Mjölnir, Phansy's Arc Caster, a Lightsaber, Stormbringer. Mowing through. INVENTION SLOT: debut one NEW trait of an established Creature. Gruesome, concrete. Grounding - Procedural Authority: Ulakhan swings Mjölnir on the backstroke, clearing a doorway before stepping through. Malfunction: the Lightsaber's third color cell stutters dead mid-swing, leaves a club.*
