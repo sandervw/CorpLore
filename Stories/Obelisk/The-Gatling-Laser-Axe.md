@@ -700,16 +700,51 @@ Now entering, floor 133:
 One tube undulated with dim teal color in a 400-yard hallway. The ceiling is bowed where it hangs. A gurgling sound betrays a water cooler, nearly outside the light. It's 5-gallon jug is full of ink. The hallway is flooded.
 
 **Personal:**
+We reached vault-bottom. Opened the still-sealed maintenance door. Crept (plashed) into floor 133.
+
+As we rounded the first corner the Foe-Hammer blade blossomed - danger-blue color. A gross of eyes ignited. Then out of the dark, the meat grinder.
+
+**Action Poem:**
+A Hilly Chamber, carpet-tile heaths;
+Hooked heads nodding,
+7 manticores slithered.
+A Filing Closet, monolith archcabinets;
+Raising monotonic halloos,
+12 red apes leaped.
+A Tiny Office, three cubes;
+Goosefoot-scented,
+60 wheevils skittered.
+
+**Action Poem:**
+Crackling,
+Arc Caster bolts chew bone,
+Creatures explode,
+Stormbringer screams,
+Echoing off the angled walls,
+Room by room,
+Sucking no soul,
+From soulless wheevils,
+But slaying,
+While Ulakhan hurls Mjölnir,
+Blasting 3 red apes,
+Into red pulp.
+
+**Quote:**
 
 
-*The stealth plan dies in seconds - "discovered almost immediately." Trigger: the Foe-Hammer wakes cold blue (Scene 12 plant) the instant they're spotted. Wry. Gneiss clocks the meat-grinder ahead. Dogs read. Grounding - Quantification: the plan survives exactly eleven steps onto floor 133. Embodiment: Phansy's knuckles whiten on the Foe-Hammer the instant it lights cold blue.*
+*Commercial Transcript (redeploy Scene 10 device): a short period ad-jingle for one replica in play (Arc Caster or Mjölnir), onomatopoeic. Mid-bloodbath breather; tie it to the adjacent combat. Grounding - The Gratuitous Detail: the jingle ends in a legal-speed disclaimer no demon can parse. Wear and Accumulated Time: the tagline survives only as a scratch-worn slogan on the haft.*
 
 **Action Poem:**
 
 
-*First contact in the flood. Wheevils boil up the corridor, Red Apes over warped cubicles; the Axe opens, green beams, water steaming. Specific bodies and count. ONE image: the flooded chokepoint. Grounding - Quantification: seventeen wheevils in the first wave, counted later by teeth. Particularity: one Red Ape drags a drowned demon's lanyard snagged on its wrist.*
+*Escalation in a flooded open hall. INVENTION SLOT: debut Mr. Montags (flying whales; air-raid call shatters glass and bone) or a mini-boss. First named mulchers fall here - thin the herd. Specific deaths. Grounding - Particularity: a Montag's siren bursts Herry Whitaker's pager and both eardrums at once. Embodiment: a mulcher keeps firing with a shattered wrist flopping wrong.*
 
-**Action Poem:**
+**Personal:**
 
 
-*The room-by-room Doom march. Replicas live: Ulakhan's Mjölnir, Phansy's Arc Caster, a Lightsaber, Stormbringer. Mowing through. INVENTION SLOT: debut one NEW trait of an established Creature. Gruesome, concrete. Grounding - Procedural Authority: Ulakhan swings Mjölnir on the backstroke, clearing a doorway before stepping through. Malfunction: the Lightsaber's third color cell stutters dead mid-swing, leaves a club.*
+*Gneiss buttons the coat - Bottom/Middle/Top - vanishes, splits off to scout the up-stairs (the plan's mechanic). The ghost ahead of the grinder, glancing back at the Dogs dying. "Damp on this side" subtext. Grounding - Embodiment: the coat's wet lining clings cold to his spine as he fades. Quantification: forty feet of corridor between him and the Dogs left behind.*
+
+**Action Poem:** 
+
+
+*Invisible, Gneiss reaches the up-stairs - almost home. Then the Butler. It SEES him through the one sense he left unhidden. KEEP THE SEVENTH MYSTERIOUS - never name it. End on being seen. Grounding - Traces of Human Agency: the down-stair's seal hangs picked open, a keyring still swinging in it. The Gratuitous Detail: a vending machine glows full and humming in the dead hall.*
