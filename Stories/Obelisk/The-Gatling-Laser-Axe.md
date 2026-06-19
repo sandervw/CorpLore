@@ -730,21 +730,45 @@ Blasting 3 red apes,
 Into red pulp.
 
 **Quote:**
-
-
-*Commercial Transcript (redeploy Scene 10 device): a short period ad-jingle for one replica in play (Arc Caster or Mjölnir), onomatopoeic. Mid-bloodbath breather; tie it to the adjacent combat. Grounding - The Gratuitous Detail: the jingle ends in a legal-speed disclaimer no demon can parse. Wear and Accumulated Time: the tagline survives only as a scratch-worn slogan on the haft.*
+"(whispered) It hungers. So do you. SHRIEEE. Some call it a scream. We call it desire. Stormbringer: the blade that drinks. soulsnonrefundablenotforuseonthoseyoulove askabout0%interestinstallmentpricing." - Stormbringer, Commercial Transcript
 
 **Action Poem:**
-
-
-*Escalation in a flooded open hall. INVENTION SLOT: debut Mr. Montags (flying whales; air-raid call shatters glass and bone) or a mini-boss. First named mulchers fall here - thin the herd. Specific deaths. Grounding - Particularity: a Montag's siren bursts Herry Whitaker's pager and both eardrums at once. Embodiment: a mulcher keeps firing with a shattered wrist flopping wrong.*
+Waters of havoc had infested the hall.
+The flood on 133, and out of it, whales.
+That once we'd only feared in hearsay.
+No despair. We broke the dark with beams,
+as the Montags' air-raid hymn
+burst Herry Whitaker's pager,
+and both his ears.
 
 **Personal:**
+Was it 'dubious' to leave the dogs in the grinder, fasten buttons, and let the clammy touch of that invisible realm obscure ME from the fight; to leave them 40 feet off, fighting, dying, while I slipped away on a maintenance gantry?
 
-
-*Gneiss buttons the coat - Bottom/Middle/Top - vanishes, splits off to scout the up-stairs (the plan's mechanic). The ghost ahead of the grinder, glancing back at the Dogs dying. "Damp on this side" subtext. Grounding - Embodiment: the coat's wet lining clings cold to his spine as he fades. Quantification: forty feet of corridor between him and the Dogs left behind.*
+Nope. Fuck dogs.
 
 **Action Poem:** 
+I climbed toward the stairs unseen, past a glowing machine.
+Almost home, a keyring swinging in a picked-open seal.
+This ancient coat had hidden me from all the senses but one.
+And then the Butler turned, and through that one, saw me.
+
+**Action Poem:**
+Don't turn that pointed ear.
+I'd burn it, bone-bare, gone.
+Another cat's ear grows.
+Another beam lost in the dark.
+
+No, no.
+Jammed, mid-spin.
+Jammed, smoking.
+Ticking, too hot to hold.
+
+It won't die.
+It won't die.
+It won't die.
+It only grows a new life.
+
+**Dialogue:**
 
 
-*Invisible, Gneiss reaches the up-stairs - almost home. Then the Butler. It SEES him through the one sense he left unhidden. KEEP THE SEVENTH MYSTERIOUS - never name it. End on being seen. Grounding - Traces of Human Agency: the down-stair's seal hangs picked open, a keyring still swinging in it. The Gratuitous Detail: a vending machine glows full and humming in the dead hall.*
+*The Butler's confession in its own voice (Hisoka/Arioch: tender, cruel, glassy). The cat disguise, the terrace above 134, the stolen keys, the unsealed down-stair. PAYOFF: Scene 2's missing cat. Gneiss tags and realizes; don't info-dump. Grounding - Embodiment: it grooms one paw between sentences, never blinking the glassy stare. Quantification: it wore the housecat shape nine days before it took the keys.*
