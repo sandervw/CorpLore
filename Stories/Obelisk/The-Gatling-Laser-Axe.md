@@ -769,6 +769,40 @@ It won't die.
 It only grows a new life.
 
 **Dialogue:**
+Wonderland the Butler: "My darling demon, you have climbed so deeply down to this beauteous floor, and now wish to go?"
 
+Me, realizing I forgot to obscure myself from the 7th sense: "Great Butler, master shapechanger feline - yes please."
 
-*The Butler's confession in its own voice (Hisoka/Arioch: tender, cruel, glassy). The cat disguise, the terrace above 134, the stolen keys, the unsealed down-stair. PAYOFF: Scene 2's missing cat. Gneiss tags and realizes; don't info-dump. Grounding - Embodiment: it grooms one paw between sentences, never blinking the glassy stare. Quantification: it wore the housecat shape nine days before it took the keys.*
+Cont.
+
+**Dialogue:**
+Wonderland: "...the exterior, entered a window into the floors of you demons, and for nine days played adoringly a housecat for your 'Mulchers'."
+
+Me: "And pinched the keys. And broke the spell runes on the stairs."
+
+Wonderland: "Hhhgguurrr."
+
+Cont.
+
+**Dialogue:**
+Me: "On my favorite sister's life: let us return to our floors, and neither me nor those dogs'll blab."
+
+Wonderland: "That I might play in secret with demons again someday? But swear upon your coat, sweetling. That is a more precious-"
+
+**Action Poem:**
+No order given,
+No way to stay here.
+Phansy clears the corner,
+The Arc Caster,
+All their lights fading now.
+Leave behind Ulakhan, leave Mjölnir,
+Leave Joiyuss and all that team.
+Don't be afraid, pups.
+Let go.
+
+**Personal:**
+The mulchers are dead.
+
+Me, I plan to relax a spell, some floor nice and high. I'd ditch the coat if I could - I guess it did save my skin again (I remembered all seven senses, even the shapeshifter cat couldn't know me).
+
+I do have a Laser Axe now.
