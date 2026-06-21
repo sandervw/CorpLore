@@ -22,6 +22,7 @@ When a blob quotes a character, that character speaks in their OWN voice. Any NE
 - **Dead at the office overrun** (Scene 7) - M. Gobi, M. Towes (crushed under the barricade panel), plus two more unnamed; do not reuse these names.
 - **Phansy Le** (Scene 9, living) - a named mulcher; wants firepower, his cleaver is blunted. Generic-mulcher register.
 - **Living mulchers (Scene 11)** - Second Mulcher Snapisch Crust (47, two wives, no kids); M. Herry Whitaker. Generic-mulcher register; do not reuse these names for the dead.
+- **Wonderland (the Butler)** (Scene 13) - Hisoka/Arioch register: tender, cruel, glassy; calls demons "darling"/"sweetling," growls "Hhhgguurr." Nine-lived, unkilled, slinks off.
 
 ## Canon Established (do NOT re-explain)
 
@@ -59,3 +60,9 @@ Already described in earlier scenes. Reference by name and add only NEW, oblique
 - "Dark astrology" - Creatures framed as "born through dark astrology"; the vault inventory styled an "Aquarian Horoscopic Audit" (Scene 12)
 - Gneiss's plan: skip the bridge exit, descend the vault to floor 133, cross the lower labyrinth, find stairs up, come up BEHIND the Creatures, then retreat for backup; Ulakhan's rule - avoid the monster masses, strike only isolated foes (Scene 12)
 - Scene 12 ends with all eighteen descending single-file on the belt-tether into the bottomless void toward floor 133 (Scene 12)
+- Floor 133, first-hand: the Scene 6 hearsay-maze made real - flooded corridors, teal-flickering tubes, bowed ceilings, a water cooler whose 5-gallon jug is full of ink (Scene 13)
+- New Creatures debut: Manticores (hook-headed, slithering) and Mr. Montags (flying whales, hearsay-only before; their air-raid call bursts pagers, eardrums, bone) (Scene 13)
+- Stormbringer "drinks souls," but Creatures are soulless, so it slays without feeding; the Foe-Hammer's danger-blue glow (Scene 12 plant) pays off near Creatures (Scene 13)
+- Missing-cat payoff (Scene 2): Wonderland the Butler entered via an exterior window, played housecat nine days for the 134 outpost, stole its keys, broke the stairs' spell-runes (the Scene 7 "opened, somehow"); shrugs off the Axe, which jams mid-spin, too hot to hold (Scene 13)
+- The seventh sense: the one Gneiss forgot to obscure while scouting; the Butler saw him through it (never named); escaping, he hides all seven and even the Butler cannot perceive him (Scene 13)
+- The end: Gneiss swears silence for safe passage; the deal breaks when Phansy fires the Arc Caster unbidden; all 17 demons die (Ulakhan, Joiyuss, Phansy, Herry Whitaker among them); Gneiss alone walks back up and keeps the Axe; he swears on a "favorite sister" (Scene 13)

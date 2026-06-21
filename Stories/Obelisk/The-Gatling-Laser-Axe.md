@@ -541,7 +541,7 @@ Leading Wheevils.
 Chokepoint; thwarted.
 
 **Personal:**
-It's easy enough. Start at the Bottom, which is rough, and the color of a blind eye. Then Middle, grey like a dream. Last, the black Top button. The fighting dogs never noticed as I vanished from all seven senses.
+It's easy enough. Start at the Bottom, which is rough, and the color of a blind eye. Then Middle, grey like a dream. Last, the black Top button. The fighting dogs never noticed as I choose to vanish from their sight, smell, even hearing.
 
 ...It's always damp on this side.
 
