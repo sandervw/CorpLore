@@ -18,7 +18,7 @@ The amber lights cycled. Igon's blood tapped the rug.
 
 It received no answer. Igon breathed. That was all he did.
 
-"Every sound you produced has been logged. Every note and word of optimism. Every phrase of your *particular* signal. All of it has been recorded, and most productive. You were, in this respect, an ideal — but let us say instead: a cooperative visitor."
+"By giving answer to my grave's unspoken evocation, you have fallen into the trap of my black electricity. Every phrase of your *particular* signal; all of it has been catalogued. Most productive. You were, in this respect, an ideal — but let us say instead: a cooperative visitor."
 
 "And the oboe. You believed it a song. But it is catalogue string SYS-INTRANET-0x4F.HOLD.QUEUE.7 — a loop, a placeholder, an entry in the directory. And you fed it. Every hum routed back through the speaker-receivers, every cheerful word reinforcing the false carrier I broadcast generations before your — before you descended."
 

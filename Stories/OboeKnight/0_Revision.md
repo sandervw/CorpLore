@@ -2,23 +2,8 @@
 
 ## Manual
 
-Add line to Guilliam somewhere: "By giving answer to my grave's unspoken evocation, you have fallen into the trap of my black magic."
-
-Add early line to Igon, something about 'he came here to find his song. he means to accompany it, not let it play alone in a dream until it dwindles.'
-
-POSSIBLY: Add a final scene - a "good ending"
-- from beneath his tattered tunic, knight draws a small flute
-- He plays melody to disrupt the harmony and chords around him
-- His played molidy *is not* the oboe song of his dreams, and certainly not his 'inner music'
-  - It is discordant, it clashes with the stolent song of Guilliam
-- Guillium continues on, completely unaware of the disruption, but with his stolen voice gradually diminishing in volume
-- The night stands, concludes his melody, and stands, drained but alive, in the silent tohmb (cut here)
-
 Start by manually revising each individual scene file
-
-Start with review
 - Compare the scene to your outline
-- Compare to the scene to Time of Dying
 - Compare the scene to Morrowing inspiration
 
 Make necessary edits
@@ -28,6 +13,8 @@ Make necessary edits
 Review for common LLM patterns (things to have it avoid next time)
 
 ## Automatic (Make Claude do it)
+
+Have claude back-translate Guilliam's dialogue
 
 Compare each manually-edited scene file to claude's output
 - Break down differences for each file

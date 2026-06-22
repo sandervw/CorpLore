@@ -2,7 +2,7 @@
 
 The hallway opened at a T. A golden water cooler stood in the angle of it, sweating one slow bead down its flank, and beyond the cooler four slatted doors of white wood gave onto four server rooms.
 
-"Ohh, what a lovely station," said Igon. "And I do believe the song is nearer in this place. The oboe. That swan-throated hold-song I hold most dear from my dreams."
+"Ohh, what a lovely station," said Igon. "And I do believe the song is nearer in this place. The oboe. I came here to find that sweet and gentle music, so that I may accompany it, not let it play alone in a dream until it dwindles."
 
 At the first slatted door he stopped. A square of plum-and-ivory-colored carpet bristled before the threshold, its pile high, as if to welcome his step. Igon considered the carpet for a moment, then stepped widely around it.
 
