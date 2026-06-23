@@ -6,7 +6,7 @@ The corner gave onto another corner. Beyond that, another. Each sloping hall spo
 
 Under the helmet the synthetic note he had earlier noticed had lingered. It rode just behind the bone of his ear, a tinny needle threaded through the soft tissue, and when he hummed his courtly measures it sat half a hair above them, never quite the same pitch, never quite different.
 
-"Ohh, elder corridor," he murmured into the iron, "you are a vocal host. More welcome than I am accustomed to, I fear."
+"Oh, venerable corridor," he murmured into the iron, "thou art a most loquacious host. More welcoming than those to whom I am accustomed, this I fear."
 
 He stopped at the next bulb. A cracked fire-alarm housing lay against the stucco wall at chest height; the red bell was gone, and clipped where the bell should have been was a small black plastic speaker, no larger than a walnut, its mesh furred with the same powder. He pried the housing wider with two gauntleted fingers. The speakers, he understood then — clipped to the dead, or bolted where the dead passed — were the animating engine. The mesh hummed with what the corridor's occupants required to move.
 

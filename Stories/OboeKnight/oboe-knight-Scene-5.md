@@ -6,19 +6,19 @@ The nearest corpse turned its skull toward the shattered door.
 
 Igon stepped in. He brought the guillotine down in a diagonal sweep from his right shoulder. The heavy blade sundered the nearest corpse through its crackling torso. The silver weave parted along its jewel-sewn lapel with a crisp small report, scattering chips of bright stone over the table. The body folded at the waist and slid against the ebony.
 
-"Forgive this necessary violence," Igon panted.
+"Pardon me this violence that it was necessary," Igon panted.
 
 Two came at him from the left. He pivoted on the ball of his rear foot, took the first sword on the haft of his guillotine, and rammed the pommel forward and up, splitting the speaker clipped at the collarbone in one motion. The corpse went slack against him. The white pinlight at the speaker guttered.
 
-"And what light does the stair admit, at the top?" The fax machine voice echoed from the speaker of the dead. "And how many landings? And the doors, are they latched, or—"
+"That staircase, arrived at the top, what light does it let in?" The fax machine voice echoed from the speaker of the dead. "And how many landings are there? Those doors then, are they barred, or else are they —"
 
 The second sword came in low. Igon caught it on his greave, felt the point skid up the steel and bite at the seam of his knee, and answered with a backhand crescent that shattered the vertebrae of the wielder's neck. The skull rolled. Another speaker went black under his boot heel with a wet small crunch unlike the first.
 
 He counted as he worked. Six left. He drove forward against the table.
 
-"Ohh, friend below," Igon called, breath hitched between blows, "such fluorescent light is very far off..."
+"Oh, friend from below," Igon called, breath hitched between blows, "such fluorescent light holds itself well far from here..."
 
-"Guilliam, I am called. But the windows. Speak to me of the orientation of the windows."
+"I am called Guilliam. But those several windows. You tell me, those several windows, toward which direction do they face."
 
 A blade now opened Igon's forearm above the bracer. Cold steel, hot sting following. He answered with weighty glass, hewing through a wrist so that a skeletal forearm sheared free at the cuff and went on clutching its sword, twitching against the table leg below. Five. Two more pressed past the splintered body of the first.
 
@@ -28,13 +28,13 @@ Four.
 
 The false notes of the false oboe-song doubled. They doubled again. From the fire-alarm housings above, from the table's underside, fresh small voices joined the held pitch, each lagging the others by a sixteenth, and Igon's own humming had gone out like a crushed diode inside his helm.
 
-"And the sky," said Guilliam. "Describe the sky."
+"And that stretch of sky," said Guilliam. "That stretch of sky, describe it for me to hear."
 
 Igon could not answer, only grimace. He swung.
 
 Four. The guillotine clove a silver shoulder to the breastbone, and the corpse pinwheeled aside, trailing a thread of jewels. Three. Igon set his back to the ebony table. He breathed through his teeth.
 
-"And the sky," Guilliam said again, from the collar of the nearest. "And the sky," from a fire-alarm housing above. "And the sky," from beneath the table, a third voice trailing the second by a sixteenth. The held pitch fattened to a chord.
+"And that stretch of sky," Guilliam said again, from the collar of the nearest. "And that stretch of sky," from a fire-alarm housing above. "And that stretch of sky," from beneath the table, a third voice trailing the second by a sixteenth. The held pitch fattened to a chord.
 
 Two struck together. Igon ducked the high cut, took the low one across the cuisse, and rose under both swords with the guillotine hauled flat across his helm. The blade slammed through the shining square teeth of one skull and tore out the jaw entire. A collar-speaker came with it, dangling on a wire, still singing. He whipped the wire round and clubbed the second-to-last foe at the temple. The skull cracked, collapsed. The body sat down against the table, silver knees folded primly, and went still.
 

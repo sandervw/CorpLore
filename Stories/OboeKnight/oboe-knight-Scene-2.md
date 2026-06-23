@@ -1,6 +1,6 @@
 # oboe-knight: Scene 2
 
-In the chamber before Igon, the long arm of an L-shaped room bent out of sight past a far pillar. Treat tables stood at attention along both walls, ten in all, he saw as he rounded the corner, each crowned with a wicker basket. "What a courteous welcome," said Igon. He lifted one of the offerings between gauntlet-tips. It had once been a muffin. He pressed it toward his mouth, forgetting his helm. Calcified muffin burst into a cloud of dust against the slits of his visor, fine, tasting of slow centuries. "This department sets out the freshest batch for new faces, I see."
+In the chamber before Igon, the long arm of an L-shaped room bent out of sight past a far pillar. Treat tables stood at attention along both walls, ten in all, he saw as he rounded the corner, each crowned with a wicker basket. "What a welcome full of courtesy," said Igon. He lifted one of the offerings between gauntlet-tips. It had once been a muffin. He pressed it toward his mouth, forgetting his helm. Calcified muffin burst into a cloud of dust against the slits of his visor, fine, tasting of slow centuries. "This department reserves the freshest batch for the new faces, from what I see."
 
 The hip-lamp cone slid from basket to basket, as Igon proceeded down the ancient office-space.
 
@@ -8,23 +8,23 @@ At the third shrine along the long wall, a tall glass-fronted cabinet stood besi
 
 The speaker was singing now. One tinny, sustained note.
 
-Igon stopped. The note slid through his chestplate, and somewhere beneath the bonework of his memory a hinge turned, then stilled, then turned again without opening. "Ohh," he said, soft. "Ohh, and what is this little singer?" He leaned in, and his brow-plate met the cabinet's glass. This glass was very cold; the buzz of the sustained note climbed the iron of his helm and into his teeth like an indraw breath in deep winter. He hummed back into it, matching the pitch, delighted, the helmet broadcasting his hum.
+Igon stopped. The note slid through his chestplate, and somewhere beneath the bonework of his memory a hinge turned, then stilled, then turned again without opening. "Oh," he said, soft. "Oh, and what then is this little cantor?" He leaned in, and his brow-plate met the cabinet's glass. This glass was very cold; the buzz of the sustained note climbed the iron of his helm and into his teeth like an indraw breath in deep winter. He hummed back into it, matching the pitch, delighted, the helmet broadcasting his hum.
 
 The mandible twitched.
 
-The speaker said, in a voice flat as a fax-tone, "Continue the figure or repeat the opening interval. That sample was insufficient."
+The speaker said, in a voice flat as a fax-tone, "This melody, continue it onward, or else that opening interval, do it one more pass. Just now that sample, not enough."
 
-"Hmm, might one ask what manner of figure is preferred?" said Igon.
+"Hmm, would one dare to inquire after the figure that one prefers?" said Igon.
 
-"And preferred is not the operative variable. But the interval — the interval you just produced. Replicate the interval."
+"'Want-more' is not the key variable. But that interval — that interval you just now sounded out. This interval, copy it one pass."
 
-"Hah!" Igon said. "A fair request. Though I confess I do not recall the precise note."
+"Ha!" Igon said. "There is a most legitimate request. Even though I avow it: the exact note escapes me."
 
-"But you produced it. Or a close- Or the interval is still present. The resonance in the cabinet is measurable. Hold the position."
+"But you have already sounded it out. Or else it is — or else it is that interval still remains. The locker's resonance, it is something measurable. This posture, hold it."
 
-"And should I ask what is being measured, friend, or is that a discouraged inquiry?"
+"And must I ask what it is that one measures, my friend, or rather is that there a question that one discourages?"
 
-"Discouraged," the speaker said. "And introductions are a function of survival. Hold the pitch."
+"Lose-heart," the speaker said. "Besides, self-introduction, this kind of matter, is one function of staying-alive. This pitch, hold it."
 
 The skeleton ripped its right wrist off the bolt. The bolt held; the wristbone did not. The hand stayed pinned, a five-fingered ornament, and the radius and ulna swung free trailing dry shirtsleeve. The figure lurched forward into the cabinet glass and the glass exploded outward in jagged rain.
 
@@ -34,6 +34,6 @@ Yet the skeleton remained upright. Right arm reaching, the loose forearm swingin
 
 Among the bones lay a hand-sized wedge of sternum, the small black speaker still clipped to it by its brass clasp. Igon crouched, lifted the shard on the flat of his gauntlet, brought it near his visor. The speaker was silent. No note, no twitch. Verdigris veined the clasp; the plastic held a film of bone-dust.
 
-"Ahh, little singer," said Igon. "What a brief recital." He set the shard upright against the base of the nearest treat-table and rose.
+"Ah, little cantor," said Igon. "What a brief recital that was." He set the shard upright against the base of the nearest treat-table and rose.
 
 Down the long arm of the L, a second plexiglass door waited in its frame, fogged and patient. Igon shouldered the Guillotine and marched toward it.

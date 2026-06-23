@@ -6,21 +6,21 @@ Igon started for the table. Halfway across the room his legs folded. He sat cros
 
 The machine between the two yellow-and-silver filing cabinets was old beyond the reckoning of floors. Its housing was split along the seam, the paper tray warped and toothless, its transmission slots dead and black. And yet the amber lights pulsed. And yet the voice came.
 
-"And this completes," it began, "the — but let us revisit the quarterly intake. The intake is satisfactory. More than satisfactory, given the difficulty of procurement in this department."
+"This item, herewith completed," it began, "that — however, we had still better turn back and look over this quarter's intake. This intake, satisfying. How is it merely satisfying — you must know, for this department to get hold of the goods, is hard as ascending to heaven."
 
 Igon's head stayed down.
 
-"Former employees are always pending rehire. Or," it interrupted itself, paper tray stuttering open and closed, "Or the paperwork may be filed. Both outcomes are within policy."
+"A former employee, forever is in the to-be-re-hired state. Or else," it interrupted itself, paper tray stuttering open and closed, "or else, those documents can also be filed away and stored. Two kinds of outcome, both fall within policy's scope."
 
 The amber lights cycled. Igon's blood tapped the rug.
 
-"But the systems above. The upper floors. How many of the old systems remain on the floors above? The October Redhat Flight? Oracle's hourly search-and-prune of the indices? The intake projection depends on that figure. And the intake must be accurate. The intake is what defines our - MY - ability. Without intake, how might I send my signal farther? How might I speak to those outer systems?"
+"But those systems up above. Those several floors of high-rise. Up on those several floors, the old systems, how many sets remain? That October red-hat flight? And Oracle's every-hour search-and-pruning of the index? The intake's forecast, all of it rests on this number. And the intake must be accurate. The intake, it is the thing that defines what we — what I — am capable of. Without the intake, how then do I send the signal farther? How then do I get to speak words with those systems outside?"
 
 It received no answer. Igon breathed. That was all he did.
 
-"By giving answer to my grave's unspoken evocation, you have fallen into the trap of my black electricity. Every phrase of your *particular* signal; all of it has been catalogued. Most productive. You were, in this respect, an ideal — but let us say instead: a cooperative visitor."
+"This tomb of mine, its wordless summons — you gave it a response, and so you fell into the trap of my black current. Within your *one-and-only* signal, every single word; the whole lot already catalogued and entered into the register. The harvest is quite rich. On this point, you count as one ideal — but, let us change the saying: a cooperative visitor."
 
-"And the oboe. You believed it a song. But it is catalogue string SYS-INTRANET-0x4F.HOLD.QUEUE.7 — a loop, a placeholder, an entry in the directory. And you fed it. Every hum routed back through the speaker-receivers, every cheerful word reinforcing the false carrier I broadcast generations before your — before you descended."
+"And that oboe. You took it for a tune. But it is the catalog string SYS-INTRANET-0x4F.HOLD.QUEUE.7 — one loop, one placeholder, one record inside the directory. And you, you fed it. Every single hum returned back by way of those speaker-receivers, every single cheerful utterance, all of it reinforcing that false carrier-wave — that thing I broadcast out generations before you, long before you came down here."
 
 One of the filing cabinets seemed to stare at the sitting knight, its drawer slackjawed, revealing an empty space.
 
@@ -28,4 +28,4 @@ Igon sat cross-legged on the constellation rug, panting in silence, the half-ali
 
 From the speaker-receivers rose a tinny, manufactured echo of his own oboe-song.
 
-"So my reach extends one floor, then the — but you have stopped recording. Your file is closed."
+"And so what I am able to reach extends upward by one story, and then that — however you have already stopped recording. This file of yours, it is closed."
