@@ -1,18 +1,20 @@
 # oboe-knight: Scene 2
 
-In the chamber before Igon, the long arm of an L-shaped room bent out of sight past a far pillar. The electric lamp at his hip nodded with the cadence of his step. Treat tables stood at attention along both walls, ten in all, he saw as he rounded the corner, each crowned with a wicker basket. "Ohh, what a courteous welcome," he said to no one, and lifted one of the offerings between gauntlet-tips. It had once been a muffin. He pressed it toward his mouth, forgetting his helm. Calcified muffin burst into a cloud of dust against the slits of his visor, fine and ancient, tasting of the slow centuries between bakings. "Ahh, this department sets out the freshest batch for new faces, I see."
+In the chamber before Igon, the long arm of an L-shaped room bent out of sight past a far pillar. Treat tables stood at attention along both walls, ten in all, he saw as he rounded the corner, each crowned with a wicker basket. "What a courteous welcome," said Igon. He lifted one of the offerings between gauntlet-tips. It had once been a muffin. He pressed it toward his mouth, forgetting his helm. Calcified muffin burst into a cloud of dust against the slits of his visor, fine, tasting of slow centuries. "This department sets out the freshest batch for new faces, I see."
 
-The lamp-cone slid from basket to basket, as Igon proceeded down the office-space. At the third shrine along the long wall, a tall glass-fronted cabinet stood beside it against the stone. A Worm Locker. Inside it, pinned upright by two bolts furred green with verdigris driven through each wrist into the cabinet's back-board, stood a skeleton in a ragged khaki shirt and slacks the color of old tea. A black plastic speaker, no larger than a fist, was clipped to its sternum by a brass clasp.
+The hip-lamp cone slid from basket to basket, as Igon proceeded down the ancient office-space.
 
-The speaker was singing now. One note, sustained, tinny.
+At the third shrine along the long wall, a tall glass-fronted cabinet stood beside it against the stone. A Worm Locker. Inside it, pinned upright by two bolts, furred green with verdigris, driven through each wrist into the cabinet's back-board, stood a skeleton in a ragged khaki shirt and slacks the color of old tea. A black plastic speaker, no larger than a fist, was clipped to its sternum by a brass clasp.
 
-Igon stopped. The note slid through his chestplate, and somewhere beneath the bonework of his memory a hinge turned, then stilled, then turned again without opening. "Ohh," he said, soft. "Ohh, and what is this little singer." He leaned in, and his brow-plate met the cabinet's glass. This glass was very cold; the buzz of the sustained note climbed the iron of his helm and into his teeth. He hummed back into it, matching the pitch, delighted, the helmet broadcasting his hum into the cabinet.
+The speaker was singing now. One tinny, sustained note.
 
-The skeleton's jaw twitched.
+Igon stopped. The note slid through his chestplate, and somewhere beneath the bonework of his memory a hinge turned, then stilled, then turned again without opening. "Ohh," he said, soft. "Ohh, and what is this little singer?" He leaned in, and his brow-plate met the cabinet's glass. This glass was very cold; the buzz of the sustained note climbed the iron of his helm and into his teeth like an indraw breath in deep winter. He hummed back into it, matching the pitch, delighted, the helmet broadcasting his hum.
 
-The speaker said, in a voice flat as a fax-tone, "Resonance confirmed. Sample insufficient. Continue the figure. Or repeat the opening interval."
+The mandible twitched.
 
-"Ohh, and might one ask what manner of figure is preferred?" said Igon.
+The speaker said, in a voice flat as a fax-tone, "Continue the figure or repeat the opening interval. That sample was insufficient."
+
+"Hmm, might one ask what manner of figure is preferred?" said Igon.
 
 "And preferred is not the operative variable. But the interval — the interval you just produced. Replicate the interval."
 

@@ -26,4 +26,4 @@ He stepped through; behind, the plexiglass slid shut, a thump of the panel into 
 
 "How splendid. We are well-acquainted now."
 
-Igon let the door shut again. Beyond him now lay the chamber. A dimly-lit, blue space it was.
+Igon let the door shut again. Beyond him now lay the chamber. A dimly-lit, blue space it was. The electric lamp at his hip cast swooning green light over the space, nodding with each footstep as he proceeded forth.
