@@ -1,45 +1,47 @@
 # oboe-knight: Scene 5
 
-Igon shouldered past the last fang of plexiglass and into a vast conference room. An ebony table ran its length, dead center, mirror-black. Around the table stood the dead. Eight- no, nine. Their suits were of a precious silver weave, jewel-sewn at the lapel and cuff, fitted with the long care of old money. Each held an enterprise-grade steel sword. The grips were wrong, two-handed weapons clutched in one withered claw, the points lifting and lowering as the speakers at their collars chirped instruction. The false hold-music threaded resounded behind Igon's ragged breathing, half a hair off pitch.
+*A vast conference room. An ebony table runs its length, dead center, mirror-black. Around the table stand the dead. Eight- no, nine. Their suits are of a precious silver weave, jewels-sewn into the lapel and cuff, fitted. Each carries an enterprise-grade steel sword. Their grips are wrong, two-handed weapons clutched in one withered claw, the points lifting and lowering as the speakers at their collars chirp instruction. Through the chamber, the false hold-music resounds.*
 
-The nearest corpse turned its skull toward the shattered door.
+*The nearest corpse turns its skull toward the shattered door.*
 
-Igon stepped in. He brought the guillotine down in a diagonal sweep from his right shoulder. The heavy blade sundered the nearest corpse through its crackling torso. The silver weave parted along its jewel-sewn lapel with a crisp small report, scattering chips of bright stone over the table. The body folded at the waist and slid against the ebony.
+*The civil knight steps in. He brings his guillotine down in a diagonal sweep from his right shoulder. The heavy blade sunders the nearest corpse through its crisp torso. The silver weave parts along its jeweled lapel with a small snap, scattering chips of bright stone. The body folds at the waist and thumps dryly against the ebony table.*
 
-"Pardon me this violence that it was necessary," Igon panted.
+*"Pardon me this violence."*
 
-Two came at him from the left. He pivoted on the ball of his rear foot, took the first sword on the haft of his guillotine, and rammed the pommel forward and up, splitting the speaker clipped at the collarbone in one motion. The corpse went slack against him. The white pinlight at the speaker guttered.
+*From the left, two attack. The Knight pivots on the ball of his rear foot, taking the first sword on the haft of his guillotine. He rams the pommel forward and up, splitting the speaker clipped at the collarbone in one motion. The corpse collapses against him, a light, bloodless body.*
 
-"That staircase, arrived at the top, what light does it let in?" The fax machine voice echoed from the speaker of the dead. "And how many landings are there? Those doors then, are they barred, or else are they —"
+*"That staircase, arrived at the top, what light does it let in?" The fax machine voice echoes from all the speaker of the dead at once. "And how many landings are there? Those doors then, are they barred, or else are they-"*
 
-The second sword came in low. Igon caught it on his greave, felt the point skid up the steel and bite at the seam of his knee, and answered with a backhand crescent that shattered the vertebrae of the wielder's neck. The skull rolled. Another speaker went black under his boot heel with a wet small crunch unlike the first.
+*The sword of the second attacker whistles in low. The knight catches it on his greave. He feels the point skid up the steel; it bites the seam of his knee. He answers with a backhand crescent that shatters the vertebrae of the wielder's neck. The skull rolls. Another speaker goes black under his boot heel with a small crunch.*
 
-He counted as he worked. Six left. He drove forward against the table.
+*The knight counts. Six left. He drives forward along the table.*
 
-"Oh, friend from below," Igon called, breath hitched between blows, "such fluorescent light holds itself well far from here..."
+*"Oh basement voice," the knight calls gaspingly, "such fluorescent light holds itself well far from here."*
 
-"I am called Guilliam. But those several windows. You tell me, those several windows, toward which direction do they face."
+*"I am called Guilliam. Those several windows. You tell me, those several windows, toward which direction do they face."*
 
-A blade now opened Igon's forearm above the bracer. Cold steel, hot sting following. He answered with weighty glass, hewing through a wrist so that a skeletal forearm sheared free at the cuff and went on clutching its sword, twitching against the table leg below. Five. Two more pressed past the splintered body of the first.
+*A blade now opens the knight's forearm above the bracer. Cold steel. Hot sting following. He answers with weighty glass, hewing through a wrist so that a skeletal forearm shears free at the cuff, yet goes on clutching its sword, twitching against the table leg.*
 
-But now Igon's heel skidded. A jeweled cufflink, torn loose, rolled beneath his boot. Igon crashed to one knee. A sword came at his crown. He took it on the flat of the guillotine and shoved up from the floor with all the weight of his shoulders, splitting the skull of this cleanly, along an existing bone-scar of old surgery.
+*Five. Two more press past the splintered body of the first to fall.*
 
-Four.
+*But now The knight's heel skids. A jeweled cufflink, torn loose, wriggles like a worm underfoot. The knight crashes to one knee. A sword comes for the crown of his helmet. just in time he catches the corporate steel on the flat of the guillotine. He shoves up from the floor with all the weight of his shoulders, splitting the skull of this cadaver cleanly, along an existing bone-scar of old surgery.*
 
-The false notes of the false oboe-song doubled. They doubled again. From the fire-alarm housings above, from the table's underside, fresh small voices joined the held pitch, each lagging the others by a sixteenth, and Igon's own humming had gone out like a crushed diode inside his helm.
+*Four.*
 
-"And that stretch of sky," said Guilliam. "That stretch of sky, describe it for me to hear."
+*The false notes of the false oboe-song double. Quadruple. From the fire-alarm housings above, from the table's underside, choral voices join the held pitch, each lagging the others by a sixteenth, and the knight's own humming within his helmet has now diminished like the off-turned phosphoric afterglow of an incandescent bulb.*
 
-Igon could not answer, only grimace. He swung.
+*"And that stretch of sky," says Guilliam. "That stretch of sky, describe it for me to hear."*
 
-Four. The guillotine clove a silver shoulder to the breastbone, and the corpse pinwheeled aside, trailing a thread of jewels. Three. Igon set his back to the ebony table. He breathed through his teeth.
+*The knight can only grimace. He swings.*
 
-"And that stretch of sky," Guilliam said again, from the collar of the nearest. "And that stretch of sky," from a fire-alarm housing above. "And that stretch of sky," from beneath the table, a third voice trailing the second by a sixteenth. The held pitch fattened to a chord.
+*Four. For more razorous ancient blades remain. The knight's guillotine cleaves a silver shoulder to the breastbone, and the corpse pinwheels aside, trailing a thread of jewels. Three. The knight sets his back to the ebony table. Breath hisses through his teeth.*
 
-Two struck together. Igon ducked the high cut, took the low one across the cuisse, and rose under both swords with the guillotine hauled flat across his helm. The blade slammed through the shining square teeth of one skull and tore out the jaw entire. A collar-speaker came with it, dangling on a wire, still singing. He whipped the wire round and clubbed the second-to-last foe at the temple. The skull cracked, collapsed. The body sat down against the table, silver knees folded primly, and went still.
+*"And that stretch of sky," Guilliam says again, from the collar of the nearest. "And that stretch of sky," from a fire-alarm housing above. "And that stretch of sky," from beneath the table. The held pitch fattens to a chord.*
 
-The final foe was fragile, osseous, its bones like sponge. Igon clove it with a weary, almost idle swing.
+*Two strike together. The knight ducks the high cut, takes the low one across the cuisse, and rises under both swords with the guillotine hauled flat across his helm. The blade slams through the shining square teeth of one skull - tears out the jaw entire. Two. A collar-speaker comes with it, dangling on a wire, still singing. The knight whips the blade round and clubs the second-to-last foe at the temple with the flat. The skull cracks. The body sits down against the table, silver knees folded primly, and goes still.*
 
-Silence dropped among the contractually obligated.
+*The final foe is fragile. Osseous. Its bones are like sponge. The knight cleaves it with a weary, almost idle swing.*
 
-Yet the music remained.
+*Silence drops among the contractually obligated.*
+
+*Yet the music remains.*
