@@ -1,6 +1,6 @@
 # oboe-knight: Scene 3
 
-The newest corridor terminated at a T-intersection with a fat trunk. A golden water cooler stood in the beveled angle of the intersection, sweating one slow bead down its flank. Beyond the cooler, four slatted doors of white wood made access into four server rooms.
+The newest corridor terminated at a T-intersection with a fat trunk. A golden water cooler stood in the beveled angle of the intersection, sweating one slow bead down its flank. Beyond the cooler, four slatted doors of white pine made access into four server rooms.
 
 "Such a delightful and quaintly narrow crossroads," said Igon. "And I do believe that the song makes itself nearer in this place. The oboe... It is to find this tender and soft music that I am come, in order to accompany it, and not to leave it to play alone in the hollow of a dream until it pays the debt of silence."
 
@@ -30,7 +30,7 @@ Igon hummed for courage. He set his hip, and drove upward off the cooler. He bro
 
 Igon now recovered the center of the corridor, breathing heavily through his iron visor. The remaining five came on. He worked them now, footwork tight, draws short. A descending cut took an arm at the shoulder; the humerus parted clean; the skeletal-hand twitched where it fell. A parry, a pivot, a backhand cut that opened a ribcage like a shutter. One closed inside his guard and he answered with a kneeling grapple, hooked its ankle, and rode it down onto the worn tile.
 
-Two left. The nearer one shuffled toward him. Igon backed slowly, drawing it, and at the proper pace stepped carefullyover the plum-and-ivory carpet.
+Two left. The nearer one shuffled toward him. Igon backed slowly, drawing it on, and at the proper pace stepped carefully over the plum-and-ivory carpet.
 
 The corpse strode mindlessly onto it.
 
@@ -42,4 +42,4 @@ Igon swung his arms to loosen them. The razorous blue edge of his glass blade ca
 
 "Ah. Closed against me."
 
-He turned and walked carefully along the hall. There was no door at the other end. While passing the doors, however, he noticed something he had missed before in the third server room: a section of stucco the color of blanched almonds, crumbled inward, the rebar behind it bent like reeds around a fist of broken concrete. Igon stepped inside. He set the Guillotine through the hole first. By working one pauldron sideways, then the other, scraping his surcoat raw against the rebar, he was just able to squeeze through into the darkness beyond.
+He turned and edged along the hall. There was no door at the other end. While passing the doors, however, he noticed a gap he had missed before in the third server room: a section of stucco the color of blanched almonds, crumbled inward, the rebar behind it bent like reeds around a fist of broken concrete. Igon stepped inside. He set the Guillotine through the hole first. By working one pauldron sideways, then the other, scraping his surcoat raw against the rebar, he was just able to squeeze through into the darkness beyond.

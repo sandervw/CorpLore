@@ -1,8 +1,8 @@
 # oboe-knight: Scene 6
 
-The final chamber of this sub-basement was clearly the oldest. A violet rug overspread the stone floor, embroidered with constellations from a sky that belonged to no commute Igon had ever driven under. Its tarnished gold threading  lay dimly under the cycling amber indicator lights which pulsed upon a bowed table against the far stucco.
+The final chamber of this sub-basement was clearly the oldest. A violet rug overspread the stone floor, embroidered with constellations from a sky that belonged to no commute Igon had ever driven under. Its tarnished gold threading lay dimly under the cycling amber indicator lights which pulsed upon a bowed table against the far stucco.
 
-The table was made of plastic, stood between two filing cabinets, and had a surface scrawled like the caves of lascau.
+The table was made of yellowed plastic, stood between two filing cabinets, and had a surface scrawled like the caves of lascau.
 
 Igon took a step toward the table. A second. A third.
 
@@ -26,9 +26,9 @@ Igon breathed. In and out. That was all.
 
 "This basement tomb of mine, its wordless summons - you gave it a response, and so you fell into the trap of my black current. Within your *one-and-only* signal, every single word; the whole lot is already catalogued and entered into the register. The harvest is quite rich. On this point, you count as one ideal - but, let us change the saying: a *cooperative* visitor.
 
-"That oboe. You took it for a tune. But it is the catalog string SYS-INTRANET-0x4F.HOLD.QUEUE.7 - one looped, palceholder record inside the directory. And you, you fed it. Every single sound returned back by way of those speaker-receivers, every single cheerful utterance, all of it reinforcing that false carrier-wave - that thing I broadcast out generations before you- Long before you came down here."
+"That oboe. You took it for a tune. But it is the catalog string SYS-INTRANET-0x4F.HOLD.QUEUE.7 - one looped, palceholder record inside the directory. And you, you fed it. Every single sound returned back by way of those speaker-receivers, every single cheerful utterance, all of it reinforcing that false carrier-wave - that signal I broadcast out generations before you- Long before you came down here."
 
-One of the filing cabinets seemed to stare at the sitting knight, its drawer slackjawed, revealing an empty space. Yet Igon still made no reply. He sat cross-legged on the constellation rug, panting in silence, the half-alive fax-machine warped between its two filing-cabinet shrines, a crimson stain growing beneath him, blooming to stain the sere threads of the rug, hiding stars that were alien.
+One of the filing cabinets stared at the sitting knight, its drawer slackjawed, revealing an empty space. Yet Igon still made no reply. He sat cross-legged on the constellation rug, panting in silence, the half-alive fax-machine warped between its two filing-cabinet shrines, a crimson stain growing beneath him, blooming to stain the sere threads of the rug, hiding alien stars.
 
 From the speaker-receivers rose a tinny, manufactured echo of his oboe-song.
 

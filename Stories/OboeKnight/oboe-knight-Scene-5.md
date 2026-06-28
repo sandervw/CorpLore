@@ -1,6 +1,6 @@
 # oboe-knight: Scene 5
 
-*A vast conference room. An ebony table runs its length, dead center, mirror-black. Around the table stand the dead. Eight- no, nine. Their suits are of a precious silver weave, jewels-sewn into the lapel and cuff, fitted. Each carries an enterprise-grade steel sword. Their grips are wrong, two-handed weapons clutched in one withered claw, the points lifting and lowering as the speakers at their collars chirp instruction. Through the chamber, the false hold-music resounds.*
+*A vast conference room. An ebony table runs its length, dead center, mirror-black. Around the table stand the dead. Eight- no, nine. Their suits are of a precious silver weave, garnet-sewn along the lapel and cuff, fitted. Each carries an enterprise-grade steel sword. Their grips are wrong, two-handed weapons clutched in one withered claw, the points lifting and lowering as the speakers at their collars chirp instruction. Through the chamber, the false hold-music resounds.*
 
 *The nearest corpse turns its skull toward the shattered door.*
 
@@ -12,11 +12,11 @@
 
 *"That staircase, arrived at the top, what light does it let in?" The fax machine voice echoes from all the speaker of the dead at once. "And how many landings are there? Those doors then, are they barred, or else are they-"*
 
-*The sword of the second attacker whistles in low. The knight catches it on his greave. He feels the point skid up the steel; it bites the seam of his knee. He answers with a backhand crescent that shatters the vertebrae of the wielder's neck. The skull rolls. Another speaker goes black under his boot heel with a small crunch.*
+*The sword of the second attacker whistles in low. The knight catches it on his greave. The point skids up the steel; it bites the seam of his knee. He answers with a backhand crescent that shatters the vertebrae of the wielder's neck. The skull rolls. Another speaker goes black under his boot heel with a small crunch.*
 
 *The knight counts. Six left. He drives forward along the table.*
 
-*"Oh basement voice," the knight calls gaspingly, "such fluorescent light holds itself well far from here."*
+*"Oh basement voice," the knight calls, breath ragged, "such fluorescent light holds itself well far from here."*
 
 *"I am called Guilliam. Those several windows. You tell me, those several windows, toward which direction do they face."*
 
@@ -24,7 +24,7 @@
 
 *Five. Two more press past the splintered body of the first to fall.*
 
-*But now The knight's heel skids. A jeweled cufflink, torn loose, wriggles like a worm underfoot. The knight crashes to one knee. A sword comes for the crown of his helmet. just in time he catches the corporate steel on the flat of the guillotine. He shoves up from the floor with all the weight of his shoulders, splitting the skull of this cadaver cleanly, along an existing bone-scar of old surgery.*
+*But now The knight's heel skids. A garnet cufflink, torn loose, wriggles like a worm underfoot. The knight crashes to one knee. A sword comes for the crown of his helmet. just in time he catches the corporate steel on the flat of the guillotine. He shoves up from the floor with all the weight of his shoulders, splitting the skull of this cadaver cleanly, along an existing bone-scar of old surgery.*
 
 *Four.*
 
@@ -34,7 +34,7 @@
 
 *The knight can only grimace. He swings.*
 
-*Four. For more razorous ancient blades remain. The knight's guillotine cleaves a silver shoulder to the breastbone, and the corpse pinwheels aside, trailing a thread of jewels. Three. The knight sets his back to the ebony table. Breath hisses through his teeth.*
+*Four more razorous ancient blades remain. The knight's guillotine cleaves a silver shoulder to the breastbone, and the corpse pinwheels aside, trailing a thread of garnets. Three. The knight sets his back to the ebony table. Breath hisses through his teeth.*
 
 *"And that stretch of sky," Guilliam says again, from the collar of the nearest. "And that stretch of sky," from a fire-alarm housing above. "And that stretch of sky," from beneath the table. The held pitch fattens to a chord.*
 

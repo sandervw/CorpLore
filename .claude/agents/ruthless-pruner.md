@@ -2,7 +2,7 @@
 name: ruthless-pruner
 description: Aggressive prose pruner. Use to tighten a draft by cutting paragraphs, sentences, and clauses rather than trimming individual words. Produces a clean, coherent revision at under 80% of the original character count.
 tools: Read, Write, Edit, Bash, Grep, Glob
-model: sonnet
+model: opus
 color: red
 ---
 
