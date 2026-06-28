@@ -1,6 +1,6 @@
 # oboe-knight: Scene 2
 
-In the chamber before Igon, the long arm of an L-shaped room bent out of sight past a far pillar. Treat tables stood at attention along both walls, ten in all, he saw as he rounded the corner, each crowned with a wicker basket. "What a welcome full of courtesy," said Igon. He lifted one of the offerings between gauntlet-tips. It had once been a muffin. He pressed it toward his mouth, forgetting his helm. Calcified muffin burst into a cloud of dust against the slits of his visor, fine, tasting of slow centuries. "This department reserves the freshest batch for the new faces, from what I see."
+In the chamber before Igon, the long arm of an L-shaped room bent out of sight past a far pillar.Treat tables stood at attention along both walls, each crowned with a wicker basket. "What a welcome full of courtesy," said Igon. He lifted one of the offerings between gauntlet-tips. It had once been a muffin. He pressed it toward his mouth, forgetting his helm. Calcified muffin burst into a cloud of dust against the slits of his visor, tasting of slow centuries. "This department reserves the freshest batch for the new faces, from what I see."
 
 The hip-lamp cone slid from basket to basket, as Igon proceeded down the ancient office-space.
 
@@ -26,7 +26,7 @@ The speaker said, in a voice flat as a fax-tone, "This melody, continue it onwar
 
 "Lose-heart," the speaker said. "Besides, self-introduction, this kind of matter, is one function of staying-alive. This pitch, hold it."
 
-The skeleton ripped its right wrist off the bolt. The bolt held; the wristbone did not. The hand stayed pinned, a five-fingered ornament, and the radius and ulna swung free trailing dry shirtsleeve. The figure lurched forward into the cabinet glass - the glass exploded outward in jagged rain.
+The skeleton ripped its right wrist off the bolt. The hand stayed pinned, a five-fingered ornament, and the radius and ulna swung free trailing dry shirtsleeve. The figure lurched forward into the cabinet glass - the glass exploded outward in jagged rain.
 
 Igon drew. The Blue Glass Guillotine - a massive article of sharpened damage-giving, taken from a massive paper-cutter - came out of its baldric in a single rising motion, Igon's lead foot pivoting outward, rear heel anchored to the tile; the guillotine edge caught the bonefire-like light and threw it back as a long blue stripe across the chamber. Igon cut down across the angle of his draw. The blade took the skeleton at the left clavicle and travelled. Clavicle parted. Two floating ribs parted. The blade exited above the iliac crest, and the upper left quadrant of the ribcage came away as a hinged piece, and clattered against the nearest treat-table.
 
