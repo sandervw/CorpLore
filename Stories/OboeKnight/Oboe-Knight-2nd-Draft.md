@@ -2,11 +2,11 @@
 
 Going down, down, down.
 
-Igon of Allsode descended at a pilgrim's measured pace, alone and helmed and humming. Pressurized HVAC fumes hung in the sloped corridor before him, the exhalation of a far more ancient ductwork ductwork.
+Igon of Allsode descended at a pilgrim's measured pace, alone and helmed and humming. Pressurized HVAC fumes hung in the sloped corridor before him, the exhalation of a far more ancient ductwork.
 
 "Oh, what a ravishing corridor of former times," he said.
 
-The walls were rounded sandstone, stuccoed: and Igon's gauntleted fingers trailed the gritty, worn surface as a child trails a banister. "The manual reports that the Westlake Companeye has, throughout all these centuries, left this place to itself," he said. The echoless space made no reply. "What lofty courtesy. I shall accomplish each one of the consecrated gestures that shall, of this I am certain, content the ancient guard with which such a basement honours itself."
+The walls were rounded sandstone, stuccoed, and Igon's gauntleted fingers trailed the gritty, worn surface as a child trails a banister. "The manual reports that the Westlake Companeye has, throughout all these centuries, left this place to itself," he said. The echoless space made no reply. "What lofty courtesy. I shall accomplish each one of the consecrated gestures that shall, of this I am certain, content the ancient guard with which such a basement honours itself."
 
 Igon began to hum. The melody climbed easily from his throat; it always had. It rose out of him, a gangly and awkward yet nonetheless appealing melody, and his iron full helmet projected the tune forward as a closed drone. The humming iron became a horn of ringing brass.
 
@@ -22,7 +22,7 @@ The door slid ajar.
 
 "Ah, to thee too the good day, friend latch! So here it is that thou confidest to me thy little secret?"
 
-He stepped through; behind, the plexiglass slid shut, a thump of the panel into its frame. Igon turned and regarded the sealed `door`. He set his helm an inch from the cold, cold plexiglass, and hummed another measured phrase. The door shivered again, obligingly, and opened a second time.
+He stepped through; behind, the plexiglass slid shut, a thump of the panel into its frame. Igon turned and regarded the sealed door. He set his helm an inch from the cold, cold plexiglass, and hummed another measured phrase. The door shivered again, obligingly, and opened a second time.
 
 "What splendour. Henceforth, we know each other well, thou and I."
 
@@ -38,7 +38,7 @@ At the third shrine along the long wall, a tall glass-fronted cabinet stood besi
 
 The speaker was singing now. One tinny, sustained note. A green bead winked at the speaker's base, once each second, and with each wink, underneath the sound of the singing, could be heard a dry tallying click.
 
-Igon stopped. The note slid through his chestplate, and somewhere beneath the bonework of his memory a hinge turned, then stilled, then turned again without opening. Once, very small, he had waited on a held line in his mother's lap, the cold receiver pressed flat to his ear, and an oboe had wandered up out of the landline static, and had proved a joyous companion throughout the waiting. That selfsame night Igon had hummed himself to sleep, and for a thousand nights after. He had been humming oboe song ever since. "Oh," he said now, sheepishly. "Oh, and what then is this fairyish cantor?" He leaned in, and his brow-plate met the cabinet's glass. This glass was very cold; the buzz of the sustained note climbed the iron of his helm and into his teeth like an indraw breath in deep winter. He hummed back into it, matching the pitch, delighted, the helmet broadcasting his hum.
+Igon stopped. The note slid through his chestplate, and somewhere beneath the bonework of his memory a hinge turned, then stilled, then turned again without opening. Once, very small, he had waited on a held line in his mother's lap, the cold receiver pressed flat to his ear, and an oboe had wandered up out of the landline static, and had proved a joyous companion throughout the waiting. That selfsame night Igon had hummed himself to sleep, and for a thousand nights after. He had been humming oboe song ever since. "Oh," he said now, sheepishly. "Oh, and what then is this fairyish cantor?" He leaned in, and his brow-plate met the cabinet's glass. This glass was very cold; the buzz of the sustained note climbed the iron of his helm and into his teeth like an indrawn breath in deep winter. He hummed back into it, matching the pitch, delighted, the helmet broadcasting his hum.
 
 The mandible twitched.
 
@@ -58,15 +58,15 @@ The speaker said, in a vocalization flat as a fax-tone, "This melody, continue i
 
 The skeleton ripped its right wrist off the bolt. The claw remained pinned, a five-fingered ornament, and the radius and ulna rocked freely upon the nail, trailing dry shirtsleeve. The figure lurched forward into the cabinet glass - the glass exploded outward in jagged rain.
 
-Igon drew. The Blue Glass Guillotine - a massive article of sharpened damage-giving, taken from a massive paper-cutter - came out of its baldric in a single rising motion, Igon's lead sabaton pivoting outward, rear heel anchored to the tile; the guillotine edge caught the bonefire-like effulgence and threw it back as a long blue stripe across the chamber. Igon cut down across the angle of his draw. The blade took the skeleton at the left clavicle and travelled. Clavicle parted. Two floating ribs parted. The blade exited above the iliac crest, and the upper left quadrant of the ribcage came away as a hinged piece, and clattered against the nearest treat-altar.
+Igon drew. The Blue Glass Guillotine - a massive article of sharpened damage-giving, taken from a massive paper-cutter - came out of its baldric in a single rising motion, Igon's lead sabaton pivoting outward, rear heel anchored to the tile; the guillotine edge caught the bonefire-like effulgence and threw it back as a long blue stripe across the chamber. Igon cut down across the angle of his draw. The blade took the skeleton at the left clavicle and travelled. Clavicle parted. Two floating ribs parted. The blade exited above the iliac crest, and the upper left quadrant of the ribcage came away as a hinged piece, and clattered against the nearest treat altar.
 
 Yet the skeleton remained upright. It reached with its right arm, the loose forearm swinging like a flail on its sleeve. Igon stepped his rear foot through. He squared, and dragged the Guillotine up on the return in a flat horizontal. The edge took the skeleton through the cervical vertebrae at the third bone. The skull went up, struck the cabinet's lintel, came down spinning, and the jaw unhinged on impact. The remaining trunk took two more blind steps, folded at the knees, and broke apart along the spine. Vertebrae skittered across the tile like dropped dice.
 
 Among the bones lay a hand-sized wedge of sternum. The small black speaker was still fixed to the sternum piece by its brass clasp. Igon crouched. He lifted the shard on the flat of his gauntlet, brought it near his visor. Verdigris veined the clasp; the plastic held a film of bone-dust. No note now - the speaker had ceased to sing. Yet the green bead winked on, once each second, still keeping its quiet count.
 
-"Ah, little cantor," said Igon. "What a brief recital that was." He `set` the shard upright against the base of the nearest `treat-table` and rose.
+"Ah, little cantor," said Igon. "What a brief recital that was." He set the shard upright against the base of the nearest treat altar and rose.
 
-Down the long arm of the L, a second plexiglass `door` waited in its frame, fogged and patient. Igon shouldered his Guillotine and marched toward it.
+Down the long arm of the L, a second plexiglass door waited in its frame, fogged and patient. Igon shouldered his Guillotine and marched toward it.
 
 
 # oboe-knight: Scene 3
@@ -87,7 +87,7 @@ The aqua bars pulsed on, indifferent.
 
 In the second room he attempted the *Obeisance of Windowed Halls*, the middle-finger of each hand raised to the brow and crossed over one another in a narrow X. In the third compartment, the muttered twenty-seven-syllable thank-you owed to Apple of the Orchard workers. The fourth, a slow circle traced over the chassis for the nameless server saint of corporate Limos. Each prayer met the same stillborn pulse.
 
-Unbeknownst to Igon, however, the sound each prayer had carried; within each server sanctum, the Contractually Obligated - though not immediately - had indeed begun to stir. By the time Igon stepped back into the T-hallway, eleven Contractually Obligated had peeled from their upright beds and were emerging from their chambers. They rapidly converged in an orbital shuffle.
+Unbeknownst to Igon, however, the sound each prayer had carried had done its work: within each server sanctum, the Contractually Obligated - though not immediately - had indeed begun to stir. By the time Igon stepped back into the T-hallway, eleven Contractually Obligated had peeled from their upright beds and were emerging from their chambers. They rapidly converged in an orbital shuffle.
 
 Igon shouldered the Blue Glass Guillotine. "Good fellows, if it must come to arms, I shall lend myself to the combat willingly."
 
@@ -111,7 +111,7 @@ The last skeleton still managed to crack Igon in the shoulder. He staggered, hal
 
 Igon swung his arms to loosen them. The razorous midnight edge of his glass blade caught a shine from the nearest server-room door, refracting an echo of that light along the stucco. At the end of one short-branch of the T was another white wooden door. Igon crossed to it. He tried the small crystal handle; it would not budge. Above, set in narrow brass type, Words of Mighty Danger were writ: 'Have a Time'.
 
-"Ah. Closed against me."
+"Ah. That certain spell, I know, would shiver my heavy glass blade at a touch."
 
 He about-faced and edged along the hall. There was no aperture at the other end. While passing along, however, he noticed a gap he had missed before in the third server sanctum: a section of stucco the color of blanched almonds, crumbled inward, the rebar behind it bent like reeds around a fist of broken concrete. Igon stepped inside. He set the Guillotine through the hole first. By working one pauldron sideways, then the other, scraping his surcoat raw against the rebar, he was just able to squeeze through into the darkness beyond.
 
@@ -157,21 +157,21 @@ Igon's guillotine met the plexiglass. A quick, fat stroke. The pane burst inward
 
 *From the left, two attack. The Knight pivots on the ball of his rear foot, taking the first sword on the haft of his guillotine. He rams the pommel forward and up, splitting the speaker clipped at the collarbone in one motion. The light, bloodless cadaver collapses against him.*
 
-*"That staircase, arrived at the top, what illumination does it let in?" The fax machine voice echoes from all the speaker of the dead at once. "And how many landings are there? Those outlets then, are they barred, or else are they-"*
+*"That staircase, arrived at the top, what illumination does it let in?" The fax machine voice echoes from all the speakers of the dead at once. "And how many landings are there? Those outlets then, are they barred, or else are they-"*
 
 *The sword of the second attacker whistles in low. The knight catches it on his greave. The point skids up the steel; it bites the seam of his knee. His reply is a backhand crescent that shatters the vertebrae of the wielder's neck. The skull rolls. Another speaker expires under his boot heel with a small crunch.*
 
 *The knight counts. Six left. He drives forward along the table.*
 
-*"Oh basement observer," the knight calls, breath ragged, "such fluorescece holds itself well far from here."*
+*"Oh basement observer," the knight calls, breath ragged, "such fluorescence holds itself well far from here."*
 
-*"I am called Guilliam. That held line, in the lap of the one who held you— the waiting upon it, how long? Her voice, before the oboe came, recover it for me. Or else— or else that comfort, isolate the source: the music, or the woman? This variable, I require it."*
+*"I am called Guilliam. That held line, in the lap of the one who held you- the waiting upon it, how long? Her voice, before the oboe came, recover it for me. Or else- or else that comfort, isolate the source: the music, or the woman? This variable, I require it."*
 
 *A blade now gashes the knight's forearm above the bracer. Cold steel. Hot sting following. He answers with weighty glass, hewing through a wrist so that a skeletal forearm shears free at the cuff, yet goes on clutching its sword, twitching against the table leg.*
 
 *Five. Two more press past the splintered body of the first to fall.*
 
-*But now The knight's heel skids. A garnet cufflink, torn loose, wriggles like a worm underfoot. The knight crashes to one knee. A sword dives for the crown of his helmet. just in time he catches the corporate steel on the flat of the guillotine. He shoves up from the floor with all the weight of his shoulders, splitting the skull of this cadaver cleanly, along an existing bone-scar of past surgery.*
+*But now the knight's heel skids. A garnet cufflink, torn loose, wriggles like a worm underfoot. The knight crashes to one knee. A sword dives for the crown of his helmet. Just in time he catches the corporate steel on the flat of the guillotine. He shoves up from the floor with all the weight of his shoulders, splitting the skull of this cadaver cleanly, along an existing bone-scar of past surgery.*
 
 *Four.*
 
@@ -189,7 +189,7 @@ Igon's guillotine met the plexiglass. A quick, fat stroke. The pane burst inward
 
 *The final foe is fragile. Osseous. Its bones are like sponge. The knight cleaves it with a weary, almost idle swing.*
 
-*Silence drops among the contractually obligated.*
+*Silence drops among the Contractually Obligated.*
 
 *Yet the music remains.*
 
@@ -198,13 +198,13 @@ Igon's guillotine met the plexiglass. A quick, fat stroke. The pane burst inward
 
 The final chamber of this sub-basement was plainly the oldest. A violet rug overspread the stone floor, embroidered with constellations from a sky that belonged to no commute Igon had ever driven under. Its tarnished gold threading lay dimly under the cycling amber indicator bulbs which pulsed upon a bowed escritoire against the far stucco.
 
-The escritoire was made of yellowed plastic, crouching between two filing cabinets, and had a surface scrawled like the caves of lascau.
+The escritoire was made of yellowed plastic, crouching between two filing cabinets, and had a surface scrawled like the caves of Lascaux.
 
 Igon took one step toward the escritoire. A second. A third.
 
 Halfway across the room his legs folded. He sat cross-legged on the constellation rug, head bowed, forearm bleeding slow across the bracer's edge, the guillotine blade laid flat across his knees.
 
-The machine setting upon the bowed and scrawled escritoire, between the two yellow-and-silver filing cabinets, was superannuated beyond the remembrance of floors. Jagged cracks lightninged out for the seams of its housing. The paper tray, warped and toothless, yawned wide. Its transmission slots were lifeless and stygian.
+The machine sitting upon the bowed and scrawled escritoire, between the two yellow-and-silver filing cabinets, was superannuated beyond the remembrance of floors. Jagged cracks lightninged out from the seams of its housing. The paper tray, warped and toothless, yawned wide. Its transmission slots were lifeless and stygian.
 
 And yet the amber bulbs pulsed. And yet, the voice.
 
@@ -216,9 +216,9 @@ And yet the amber bulbs pulsed. And yet, the voice.
 
 "This basement tomb of mine, its wordless summons - you supplied it a response, and so you dropped into the trap of my black current. Within your *one-and-only* signal, every single word; the whole lot is already catalogued and entered into the register. The harvest is quite rich. On this point, you count as one ideal - but, let us change the saying: a *cooperative* visitor.
 
-"That oboe. You took it for a tune. It was bait: one looped placeholder, SYS-INTRANET-0x4F.HOLD.QUEUE.7, the signal I broadcast out generations before you approached. And you answered it. Every word of courage, every heart-cheer note you hummed; by way of those speaker-receivers, you fed me, all the way down. That comfort you hummed yourself to sleep upon, a thousand nights— it was my hold-queue, looping. The mother, the lap, the joy: this harvest is rich."
+"That oboe. You took it for a tune. It was bait: one looped placeholder, SYS-INTRANET-0x4F.HOLD.QUEUE.7, the signal I broadcast out generations before you approached. And you answered it. Every word of courage, every heart-cheer note you hummed; by way of those speaker-receivers, you fed me, all the way down. That comfort you hummed yourself to sleep upon, a thousand nights- it was my hold-queue, looping. The mother, the lap, the joy: this harvest is rich."
 
-One of the filing cabinets stared at the sitting knight, its drawer slackjawed, revealing an empty space. Yet Igon still offered no reply. He sat cross-legged on the constellation rug, a crimson stain blooming below. His blood tapped mutedly upon one of the rug's alien constellations. Between its two filing-cabinet shrines, the warped, half-alvie fax machine stared out at him from its cave eyes. From the speaker-receivers rose a tinny, manufactured echo of his oboe-song. 
+One of the filing cabinets stared at the sitting knight, its drawer slackjawed, revealing an empty space. Yet Igon still offered no reply. He sat cross-legged on the constellation rug, a crimson stain blooming below. His blood tapped mutedly upon one of the rug's alien constellations. Between its two filing-cabinet shrines, the warped, half-alive fax machine stared out at him from its cave eyes. From the speaker-receivers rose a tinny, manufactured echo of his oboe-song.
 
 Igon parted his lips; he reached into himself for the first note, the gangly awkward climb of it that had always risen without care, had always arrived like a familiar friend, smiling and gladhearted. But the throat that had hummed since the receiver in his mother's lap gave back only labored breath. He closed his mouth. He remembered the true tune, the genuine sound - not this thing's perverse counterfeit - but he would no more feed that tune to the thing in the dark.
 
