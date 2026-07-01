@@ -56,19 +56,22 @@ Various monsters, originating from floor 134 and down
 **Naming convention:** Demon first names are misspelled adjectives - Gneiss (Nice), Joiyuss (Joyous), Morel (Moral), Qwyett (Quiet). Surnames are exempt.
 
 **Gneiss (The Main Character):**
+- **Elric of Melnibone** meets **Meleoron from Hunter X Hunter**
 - Cursed because he was once tricked into donning the fabled **Coat of the Seven Senses** (an artifact created by Obelisk Replicas in an age long passed)
 - The coat allowed the wearer to go unseen
 - The one who dons it must thereafter wear it forever; taking off the coat means losing all one's senses, essentially becoming a vegetable, existing only as **"Massless Potential Energy** (maintains internal senses; the seven senses are only the external ones)
 - *The Seven Senses:* vision, hearing, touch, smell, taste, balance, and... (keep the seventh mysterious)
-- **Elric of Melnibone** meets **Meleoron from Hunter X Hunter**
+- Categorizes others into three groups: *Dogs*, *Pigs*, and *Sheep*
+	- *Dogs*: police, lawmen, enforcers, etc; will sometimes break these down further into 'hounds'/'mongrel-dogs' (the sadists who use authority to fulfill their kink) and 'pups' (young lawmen who still have a sense of misplaced idealism)
+	- *Pigs*: authority, upper-management, etc; 'hogs' are the fat ones; 'swine' are truly, truly evil
+	- *Sheep*: Commoner (weakling) demons; the masses; 'lamb/lambs' is reserved for the especially pathetic and helpless; 'rams' are good, honest tradesmen who might be relied upon
+- **Voice:** Vain, wry, self-mythologizing. Hindsight and dark humor color everything. He name-drops himself ("Big Gneiss Rong"), occassionally addresses his followers, and likes off-kilter similes. His melancholy is SUBTEXT - deadpan, self-deprecation, corporate-transactional diction He narrates, but does not step on a quoted speaker's grandeur: an oration stands at full height.
 
 **Withazz** a sorcerous engineer
 - Wears a heavy, iridescent cloak hooded coat of gold (think a Morrowind Telvanni Wizard)
 - initializes all conversations like a daggerfall character creation questionnaire (every statement is a proposed situation, followed by 2-4 suggested choices/paths)
 - Based on Peter Chan (bonsai artist)
 - *Moves in the way of some elderly people, where the upper and lower body act with no relation to one another, the legs propelling the hips forward with slow and delicate care, the arms and torso twisting or swinging or grasping at all manner of objects, slightly hunched, but otherwise in complete independence, as though they were the upper half of an animatronic fortune teller.*
-
-
 
 Villain based on **Hisoka**, **Lord Arioch** - loving, tender, and unimaginably cruel
 - *His expression is fixed in a glassy stare that suggests a quiet insanity*
