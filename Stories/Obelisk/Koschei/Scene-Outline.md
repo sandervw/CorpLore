@@ -12,7 +12,7 @@
 
 ## Scenes
 
-1. **The Empty Cubicle** — 850 — Parley
+1. **The Empty Office** — 850 — Parley
    Gneiss visits Perli's office on floor 253, and finds it empty. An old Word of Mighty Danger, scrawled in crayon on the window by her cubicle, has transferred Perli below floor 134, into the department of Ostrabawgewlus. The local Mulch Department files the rescue as "pending." Gneiss, after arguing, tells them he'l go alone alone; they warn him of the prior two attempts.
 
 2. **The Blind and the Deaf** — 950 — Parley
