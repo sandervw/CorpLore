@@ -1,12 +1,22 @@
 # Koschei — Scene Breakdown (~10,250 w)
 
-> Scene types per the Dying Earth vocabulary: Sanctum, Parley, Journey, Wonder, Violence, Chase, Coda.
+## Scene Types
+
+- **Sanctum** — home-base craft/preparation
+- **Parley** — bargaining, interrogation, exposition delivered through dialogue
+- **Journey** — travel and arrival
+- **Wonder** — spectacle, strange-place discovery
+- **Violence** — fights, kills, torture
+- **Chase** — pursuit or flight
+- **Coda** — resolution, justice, aftermath
+
+## Scenes
 
 1. **The Empty Cubicle** — 850 — Parley
-   Perli's cubicle stands ransacked-empty; an old Word of Mighty Danger has transferred Perli below floor 134, into the department of Ostrabawgewlus. The Mulch Department files the rescue as "pending." Gneiss, self-mythologizing, signs out a descent pass alone.
+   Gneiss visits Perli's office on floor 253, and finds it empty. An old Word of Mighty Danger, scrawled in crayon on the window by her cubicle, has transferred Perli below floor 134, into the department of Ostrabawgewlus. The local Mulch Department files the rescue as "pending." Gneiss, after arguing, tells them he'l go alone alone; they warn him of the prior two attempts.
 
 2. **The Blind and the Deaf** — 950 — Parley
-   Gneiss interviews the two coworkers who tried the descent before: one came home blind, one deaf. Between them they map the three sealed floors, the keycard scanners, and the guardians who open doors only for a sense. They warn: the third guardian cannot be slain.
+   Gneiss interviews the two coworkers who tried the descent to Ostrabawgewlus's floor before: one came home blind, one deaf. Between them they map the three sealed floors, the keycard scanners, and the guardians who open doors only for a sense. They warn him about the first two guardians, but can give him no info on the third.
 
 3. **Below 134** — 700 — Journey
    Time-compressed descent through dead cubicle strata — wheevil-gnawed, Mr. Montag sirens far below. Gneiss spares the Moon with a Face, a talking mutant door, rather than burn through it; it creaks open a forgotten stairwell and asks to be remembered.
