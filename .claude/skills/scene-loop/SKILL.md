@@ -16,6 +16,8 @@ Work in a story folder under `Stories/` (confirm which if unclear). At session s
 - `Canon.md` - terse decisions that bind later scenes (create when first needed)
 - any style/character docs in the specific story folder
 
+Never read files from other story folders - only the active story folder plus its `../Overview.md`.
+
 ## The loop
 
 1. Author fleshes out a scene description in `Scene-Outline.md`.

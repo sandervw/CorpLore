@@ -1,6 +1,6 @@
 # Koschei - Outline
 
-> A CorpLore/Obelisk reframe of *Koschei the Deathless*.
+> A CorpLore/Obelisk reframe of *Koschei the Deathless*. Limited past-tense third person.
 
 ## Premise
 

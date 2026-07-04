@@ -65,7 +65,7 @@ Various monsters, originating from floor 134 and down
 	- *Dogs*: police, lawmen, enforcers, etc; will sometimes break these down further into 'hounds'/'mongrel-dogs' (the sadists who use authority to fulfill their kink) and 'pups' (young lawmen who still have a sense of misplaced idealism)
 	- *Pigs*: authority, upper-management, etc; 'hogs' are the fat ones; 'swine' are truly, truly evil
 	- *Sheep*: Commoner (weakling) demons; the masses; 'lamb/lambs' is reserved for the especially pathetic and helpless; 'rams' are good, honest tradesmen who might be relied upon
-- **Voice:** Vain, wry, self-mythologizing. Hindsight and dark humor color everything. He name-drops himself ("Big Gneiss Rong"), occassionally addresses his followers, and likes off-kilter similes. His melancholy is SUBTEXT - deadpan, self-deprecation, corporate-transactional diction He narrates, but does not step on a quoted speaker's grandeur: an oration stands at full height.
+- **Voice:** Vain, wry, self-mythologizing. Hindsight and dark humor color everything. He name-drops himself ("Big Gneiss Rong"), and likes off-kilter similes. His melancholy is SUBTEXT - deadpan, self-deprecation, corporate-transactional diction.
 
 **Withazz** a sorcerous engineer
 - Wears a heavy, iridescent cloak hooded coat of gold (think a Morrowind Telvanni Wizard)
