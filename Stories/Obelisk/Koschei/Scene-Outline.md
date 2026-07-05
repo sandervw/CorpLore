@@ -28,7 +28,7 @@ Gneiss visits Perli's office on floor 253, and finds her not within (Open with a
 
 ### 2. The Blind and the Deaf — 950 — Parley
 
-Gneiss interviews the two coworkers who tried the descent to Ostrabawgewlus's floor before: one came home blind, one deaf. Between them they map the three sealed floors, the keycard scanners, and the guardians who open doors only for a sense. They warn him about the first two guardians, but can give him no info on the third.
+Gneiss interviews the two coworkers who tried the descent to Ostrabawgewlus's floor before: one came home blind, one deaf. The deaf one is currently to help the blind one learn to use a braille keyboard, so that he can build his forever-world. Gneiss finally convinces them to pause and help him. Between the three of, them they cobble together a map to the location of Ostrabawgewlus's department, on floor 130. The path takes Gneiss through three sealed floors, the keycard scanners, and the guardians who open doors only for a sense. (Moment of humor here: the blind one can't draw the map, and the deaf one can't hear what Gneiss is saying - some kind of dialogue-only "who's-on-first"-type beat of humor.) They warn him about the first two guardians, but can give him no info on the third.Gneiss smiles (like in scene 1), confident that his coat and gatling axe will spare him from whatever he might encounter.
 
 ### 3. Below 134 — 700 — Journey
 
