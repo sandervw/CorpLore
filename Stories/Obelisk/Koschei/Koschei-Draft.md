@@ -88,3 +88,20 @@ With that the figure vanished from the window.
 
 ## Scene 2 - The Blind and the Deaf
 
+**Arrival:**
+
+I sniffed out that pair tillagers mentioned by the dogs. I introduced myself to Daz'lyng's wife, Eelastyk, at the entry of their cubicle. I said, "I'm a special friend of Perli's," and you bet your bells that was a tactless thing to say, to the wife of a demo who went willingly to rescue another woman from the lost floors. Daz'lyng's wife told me that her husband was busy, and rolled their cubicle door shut. I therefore was made to enter the cubicle secretly, by scaling the back brick panel, and slipping unseen and unheard into the plastic yard. (Unseen, and unheard by any, not merely the blind and the deaf.)
+
+I discovered both Daz'lyng and the other tillager, Owlisch, within the cube's commodious prime workchamber, in a corner of the lot facing the wide crystal windows. The pair were engaged at a terminal screen, with the blind one, Daz'lyng, hunting and pecking over the worn studs of a beaten braille keyoard, while Owlish said, loud enough for the whole department to hear it seemed, "No, no, move your finger up a bit. You're pressing 'S', not 'W'. Your stuck in a coal cave again you idiot, find the spacebar and jump out." On the screen I could see the 3D rendering of Daz'lyng's forever world.
+
+**Parley:**
+
+Like the irascible goat I made myself immediately known to the pair, you will perceive my meaning, and then I said, "Big Gneiss Rong, gentlemen, is the name my fellow demons gave me. That's a nice world you have on your screen, but I'll ask you to return to the present one for a moment."
+
+"What?" said Owlisch.
+
+"We're overcapacitated," said Daz'lyng.
+
+Shortly, with the assistance of a pencil and mundane words, I made clear to both my relationship with Perli and my mission. "And the dogs," I went on, "you know, the mulchers I mean, are much too domesticated to for anything more than knocking a few grandmother on the head."
+
+*He asks the way down. Both refuse, reciting the Red Apes story too loudly, near-rehearsed (subtext - the true price shames them). What turns them: Perli's past kindness, one concrete remembered favor apiece. Economic: Perli covered Owlisch's millet tax three harvests running, unasked. Quantification: both tellings number exactly five Red Apes, never varying, suspiciously identical.*
