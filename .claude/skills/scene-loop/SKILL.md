@@ -30,7 +30,8 @@ Never read files from other story folders - only the active story folder plus it
 
 ## Beats
 
-- Under 200 words per beat - sized so the Author can write it up in a spare ~15 minutes.
+- Beats should be something the author can write in 200 words - sized so the Author can write it up in a spare ~10 minutes.
+- Each *proposed* beat written by claude should be less than 50 words
 - Mark NEW setting elements as explicit invention slots rather than specifying them.
 - Spend throwaway proper nouns freely; numeric precision where it is funny or telling.
 - `## Scene N` headers, bold beat-type headers (`**Personal:**`), blank lines between beats. No em-dashes anywhere - spaced hyphens or commas.
@@ -40,7 +41,7 @@ Never read files from other story folders - only the active story folder plus it
 Only after the full breakdown is in `Scene-Outline.md`, for each beat:
 
 1. Run `python .claude/skills/scene-loop/scripts/sample_grounding.py 4` - a fresh run per beat.
-2. Pick 2 of the 4 sampled types; append one concrete detail per pick (each 15 words or fewer) to that beat's entry.
+2. Pick 2 of the 4 sampled types; append one concrete detail per pick (each 15 words or fewer) to that beat's entry; each appended detail should be 15 words or less
 3. Repeat until every beat has its two details.
 
 Never read anything in this skill's `assets/` - the script's stdout is the only allowed window into grounding details.

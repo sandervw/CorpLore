@@ -38,7 +38,8 @@ Prompt (substitute the resolved values):
 Hey claude, read {ABSOLUTE_SOURCE_PATH}. Do not read any other files. I want you to
 translate all the text in this file into {LANGUAGE}. Focus on weaving in some of the
 peculiarities, or distinct features, of {LANGUAGE}, which set it apart from the original
-English. Write your results to {ABSOLUTE_OUTPUT_PATH}.
+English. Write your results to {ABSOLUTE_OUTPUT_PATH}. Output only the translated
+text — no notes, explanations, or summaries of changes.
 ```
 
 Wait for it to finish before launching the next.
@@ -52,7 +53,7 @@ Hey claude, read {ABSOLUTE_OUTPUT_PATH}. Do not read any other files. I want you
 translate all the text in this file into *English*. Focus on keeping/capturing the
 peculiarities, or distinct features, of the original {LANGUAGE}, which set it apart from
 English. Write your results to the existing {ABSOLUTE_OUTPUT_PATH} (overwrite the current
-text).
+text). Output only the translated text — no notes, explanations, or summaries of changes.
 ```
 
 The final file at the output path holds the back-translated English (accented by `{LANGUAGE}`), overwriting the intermediate foreign text.
