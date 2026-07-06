@@ -104,4 +104,33 @@ Like the irascible goat I made myself immediately known to the pair, you will pe
 
 Shortly, with the assistance of a pencil and mundane words, I made clear to both my relationship with Perli and my mission. "And the dogs," I went on, "you know, the mulchers I mean, are much too domesticated to for anything more than knocking a few grandmother on the head."
 
+"You'll never get past the red apes," said Daz'lyng.
+
+"The five red apes guarding the way down," said Owlisch, completing his fellow tillager's thought on the instant, though I had yet to write anything down.
+
+"Red apes are mindless, glowing beasts," I said. "I know no story of a red ape taking a demon's eyes or nose."
+
+"Best to stay on the upper floors then, if you don't know your about a few creature," said Daz'lyng. "And I told you, Owlisch here is telling me my keyboard lessons."
+
+"We're busy learning keyboard lessons right now," echoed Owlisch, louder.
+
+"Something about my Perli convinced you pair to travel over a hundred floors, more than ten-thousand feet, down from your home office."
+
+"One or two demons do the work of a crowd," said Daz'lyng.
+
+"My Perli is a volunteering soul. She has said that she sometimes pays this 'voluntary tax' of your department, more than her share, and goes hungry some nights."
+
+Daz'lyng shifted in his chair. "She's paid for everyone here at least once, you know, and no one asked her to give up her tomatoes and mushrooms."
+
+**Mapmaking:**
+
+"If we draw you a map, Big Rong," shouted Owlisch, "will you leave us to build our world?"
+
+
+
+Dialogue-only who's-on-first: Daz'lyng dictates landmarks he cannot draw, Owlisch draws turns he cannot hear, Gneiss the sweating relay. Throwaway landmarks spent freely - Stairwell Grommet, the Xerox Chapel, Vending Row. The map converges on floor 130, three sealed doors between. Cultural: map drawn on the reverse of a Voluntary Taxation receipt, Form 11-B. Particularity: Daz'lyng's landmark, "the copier that says OW when it staples."
+
+
+
+
 *He asks the way down. Both refuse, reciting the Red Apes story too loudly, near-rehearsed (subtext - the true price shames them). What turns them: Perli's past kindness, one concrete remembered favor apiece. Economic: Perli covered Owlisch's millet tax three harvests running, unasked. Quantification: both tellings number exactly five Red Apes, never varying, suspiciously identical.*
