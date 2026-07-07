@@ -16,12 +16,7 @@ Chopping with an axe teaches you to deliver price blows in a combat setting, and
 
 If there are more Creatures than you can chop with a single axe, consider using an [Obelisk Replica].
 
-## Test 2 - removed function words
+## Test 2 - rewrite, against "new style"
 
-*Same as above, but with function words removed*
+*Same as above, but against 4 mantras
 
-You must slay Electric Creatures by chopping `{wine-tempered}` bronze. Note, particular fluids sharpen metal for different cutting kinds.
-
-Axe chopping teaches you precise blows in general combat, and swinging all weapons accurately. Chopping creatures parallels chopping inanimate substances.
-
-For Creature hordes, dozens or hundreds, too many for one single axe, consider acquiring an [Obelisk Replica].

@@ -4,13 +4,11 @@
 
 **Arrival:**
 
-Floor 253 keeps its tillage on the western side, along Cookie Boulevard, where the windows run a hundred feet high and a thousand wide - dense crystal, staring out and down over layer upon layer of the wooden platforms that scale the flanks of Mighty Obelisk. The windows throw rainbows on the sere and worn carpet running between a timeless elevator and an altar of marble, whereat a silver chalice of last-century's coffee has established its minor cult. I have never paid the chalice tribute.
+I reached two hundred and fifty third heaven, a floor of mushrooms, of millet, of tillagers, of much eating, and of little bother, very early. A shine of dawn hugged Obelisk on its tall east face. I came to west-facing Warm's Route, however, and that looks west through windows of a crystal, of much thickness, clarity, and maybe one hundred big man's feet tall they are: that vast height means nothing in Obelisk's umbra of western dawn.
 
-The tillagers of this department - twenty-eight families, each with a two-or-three-bed cubicle of rustic brick fronting the glass - stand out from Obelisk's other departments of tillage by a practice they call 'voluntary taxation.' Each morning, back from harvest at the terrace gardens, every family sheds a portion of its millet and mushrooms into a large bowl of blue plastic, and this they carry to floor 253's Mulcher unit.
+I came of a mind to lay eyes on Perli, she-demon I well know,
 
-I was passing the front opening of the third cubicle as they gathered for it, and speaking to myself in no indoor voice, "Of all the sheepiest things I've seen of the demon workers of Obelisk, this dinky ceremony must-"
-
-I halted, not from tact. My fine eyes had scanned ahead to the fourth cubicle, the only one-bed on Cookie Boulevard; and over its brick half-wall, where Perli ought to have straddled her office chair, upholstered in violet velvet, yet the chair was empty.
+*Twenty-eight tillager families in brick cubicles, a voluntary tax of millet and mushrooms rendered to the floor's Mulcher unit. Worn carpet runs between a timeless elevator and a marble coffee altar with its chalice cult. Gneiss mocks the ceremony aloud, then sights Perli's one-bed cubicle and her empty violet velvet chair.*
 
 **Discovery:**
 
