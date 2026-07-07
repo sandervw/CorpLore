@@ -70,15 +70,15 @@ Ever the weird radiance brightened; ever the mist of faces, like a hell-born smo
 
 Now, in the lit air, a voice began to speak; a voice that was toneless, deliberate, and disembodied. It was faintly contemptuous; a little weary, slightly cruel. It was near as the beating of Tiglari's heart — and yet infinitely far.
 
-'What do you seek, Tiglari?' said the voice. 'Do you think to enter with impunity the palace of Maal Dweb? Others — many others, with the same intentions — have come before you. But all have paid a price for their temerity.'
+"What do you seek, Tiglari?" said the voice. "Do you think to enter with impunity the palace of Maal Dweb? Others — many others, with the same intentions — have come before you. But all have paid a price for their temerity."
 
-'I seek the maiden Athlé,' said Tiglari. 'What have you done with her?'
+"I seek the maiden Athlé," said Tiglari. "What have you done with her?"
 
-'Athlé is very beautiful,' returned the voice. 'It is the will of Maal Dweb to make a certain use of her loveliness. The use is not one that should concern a hunter of wild beasts. ... You are unwise, Tiglari.'
+"Athlé is very beautiful," returned the voice. "It is the will of Maal Dweb to make a certain use of her loveliness. The use is not one that should concern a hunter of wild beasts. ... You are unwise, Tiglari."
 
-'Where is Athlé?' persisted the hunter,
+"Where is Athlé?" persisted the hunter,
 
-'She has gone to find her fate in the labyrinth of Maal Dweb. Not long ago, the warrior Mocair, who had followed her to my palace, went out at my suggestion to pursue his search amid the threadless windings of that never-to-be-exhausted maze. Go now, Tiglari, and seek her also. There are many mysteries in my labyrinth; and among them, perhaps, is one which you are destined to solve.'
+"She has gone to find her fate in the labyrinth of Maal Dweb. Not long ago, the warrior Mocair, who had followed her to my palace, went out at my suggestion to pursue his search amid the threadless windings of that never-to-be-exhausted maze. Go now, Tiglari, and seek her also. There are many mysteries in my labyrinth; and among them, perhaps, is one which you are destined to solve."
 
 A door had opened in the mirror-paneled wall. Emerging as if from the mirrors, two of the metal slaves of Maal Dweb had appeared. Taller than living men, and gleaming from head to foot with implacable lusters as of burnished swords, they came forward, upon Tiglari. The right arm of each was handed with a great sickle. Hastily, the hunter went out through the opened door, and heard behind him the surely clash of its meeting valves.
 
@@ -106,7 +106,7 @@ With the senses of one who drowns in nightmare, he heard the startled cry of a w
 
 Tiglari would have called out to Athlé. But at that moment she took a single step toward the mirror, as if drawn by something that she saw in its depths; and the dull disk seemed to brighten with some internal, incandescent flame. The hunter's eyes were blinded by the spiky rays that leapt forth from it for an instant, enveloping and transfixing the maiden. When the dimness cleared away in whirling blots of color, he saw that Athlé, in a pose of statuesque rigidity, was still regarding the mirror with startled eyes. She had not moved; the wonder was frozen on her face; and it came to Tiglari that she was like the women who slept an enchanted slumber in the harem of Maal Dweb. Even as this thought occurred to him, he heard a ringing chorus of metallic voices that seemed to emanate from the graven demon heads of the columns.
 
-'The maiden Athlé,' announced the voices in solemn and portentous tones, 'has beheld herself in the mirror of Eternity, and has passed beyond the changes and corruptions of Time.'
+"The maiden Athlé," announced the voices in solemn and portentous tones, "has beheld herself in the mirror of Eternity, and has passed beyond the changes and corruptions of Time."
 
 Tiglari felt as if he were sinking into some obscure and terrible fen. He could comprehend nothing of what had befallen Athlé; and his own fate was an equally dark and dreadful enigma, beyond the solution of a simple hunter.
 
@@ -114,22 +114,22 @@ Now the blossoms had lifted about his shoulders, were laving his arms, his body.
 
 In helpless abject horror, he waited for the completion of the metamorphosis. Then he became aware that a man in sober garments, with eyes and mouth filled with the weariness of strange things, was standing before him. Behind the man were two of the sickle-handed iron automatons. In a somewhat languid voice, the man uttered an unknown word that vibrated in the air with prolonged mysterious aftertones. The circle of craning flowers drew back from Tiglari, resuming their former upright positions in a close hedge; and the wiry tendrils were withdrawn from his ankles. Hardly able to comprehend his release, he heard a sound of brazen voices, and knew dimly that the demon heads of the columns had spoken, saying:
 
-'The hunter Tiglari has been laved in the nectar of the blossoms of primordial life, and has become in all ways, from the neck downward, even as the beasts that he hunted.'
+"The hunter Tiglari has been laved in the nectar of the blossoms of primordial life, and has become in all ways, from the neck downward, even as the beasts that he hunted."
 
 When the chorus ceased, the weary man in sober raimeat came nearer and addressed him:
 
-'I, Maal Dweb, had planned to deal with you precisely as I dealt with Mocair and many others. Mocair was the beast that you met in the labyrinth, with new-made fur still sleek and wet from the liquor of the flowers; and you saw some of his predcecssors about the palace. However, I find that my whims are not always the same. You, Tiglari, unlike the others shall at least remain a man from the neck upward; you are free to resume your wanderings in the labyrinth, and escape from it if you can. I do not wish to see you again, and my clemency springs from another reasom than esteem for your kind. Go now: the maze has many windings which you are yet to traverse.'
+"I, Maal Dweb, had planned to deal with you precisely as I dealt with Mocair and many others. Mocair was the beast that you met in the labyrinth, with new-made fur still sleek and wet from the liquor of the flowers; and you saw some of his predcecssors about the palace. However, I find that my whims are not always the same. You, Tiglari, unlike the others shall at least remain a man from the neck upward; you are free to resume your wanderings in the labyrinth, and escape from it if you can. I do not wish to see you again, and my clemency springs from another reasom than esteem for your kind. Go now: the maze has many windings which you are yet to traverse."
 
 A great awe was upon Tiglari; his native fierceness, his savage volition, were tamed by the enchanter's languid will. With one backward look of concern and wonder at Athlé, he withdrew obediently, slouching like a huge ape. His fur glistening wetly to the three suns, he vanished amid the labyrinth.
 
 Maal Dweb, attended by his metal slaves, went over to the figure of Athlé, which still regarded the mirror with astonished eyes.
 
-'Mong Lut,' he said, addressing by name the nearer of the two automatons at his heels, 'it has been, as you know, my caprice to eternalize the frail beauty of women. Athlé, like the others before her, has explored my ingenious maze, and has looked into that mirror whose sudden radiance turns the flesh to a stone fairer than marble and no less enduring... Also, as you know, it has been my whim to turn men into beasts with the copious fluid of certain artificial flowers, so that their outer semblance should conform more strictly to their inner nature. Is it not well, Mong Lut, that I have done these things? Am I not Maal Dweb, in whom all knowledge and all power reside?'
+"Mong Lut," he said, addressing by name the nearer of the two automatons at his heels, "it has been, as you know, my caprice to eternalize the frail beauty of women. Athlé, like the others before her, has explored my ingenious maze, and has looked into that mirror whose sudden radiance turns the flesh to a stone fairer than marble and no less enduring... Also, as you know, it has been my whim to turn men into beasts with the copious fluid of certain artificial flowers, so that their outer semblance should conform more strictly to their inner nature. Is it not well, Mong Lut, that I have done these things? Am I not Maal Dweb, in whom all knowledge and all power reside?"
 
-'Yes, master,' echoed the automaton. 'You are Maal Dweb, the all-wise, the all-powerful, and it is well that you have done these things.'
+"Yes, master," echoed the automaton. "You are Maal Dweb, the all-wise, the all-powerful, and it is well that you have done these things."
 
-'However,' continued Maal Dweb, 'the repetition of even the most remarkable thaumaturgies can grow tiresome after a certain number of times. I do not think that I shall deal again in this fashion with any woman, or deal thus with any man. Is it not well, Mong Lut, that I should vary my sorceries in future? Am I not Maal Dweb, the all resourceful?'
+"However," continued Maal Dweb, "the repetition of even the most remarkable thaumaturgies can grow tiresome after a certain number of times. I do not think that I shall deal again in this fashion with any woman, or deal thus with any man. Is it not well, Mong Lut, that I should vary my sorceries in future? Am I not Maal Dweb, the all resourceful?"
 
-'Indeed, you are Maal Dweb,' agreed the automaton, 'and it would no doubt be well for you to diversify your enchantments.'
+"Indeed, you are Maal Dweb," agreed the automaton, "and it would no doubt be well for you to diversify your enchantments."
 
 Maal Dweb was not ill pleased with the answers that the automaton had given. He cared little for converse, other than the iron echoing of his metal servitors, who assented always to all that he said, and spared him the tedium of arguments. And it may have been that there were times when he wearied a little even of this, and preferred the silence of the petrified women, or the muteness of the beasts that could no longer call themselves men.

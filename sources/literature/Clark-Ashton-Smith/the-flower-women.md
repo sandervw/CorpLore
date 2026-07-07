@@ -4,11 +4,11 @@
 
 *Source: http://www.eldritchdark.com/writings/short-stories/73/the-flower-women. Eldritch Dark.*
 
-'Athlé,' said Maal Dweb, 'I suffer from the frightful curse of omnipotence. In all Xiccarph, and in the five outer planets of the triple suns, there is no one, there is nothing, to dispute my domination. Therefore ny ennui has become intolerable.'
+"Athlé," said Maal Dweb, "I suffer from the frightful curse of omnipotence. In all Xiccarph, and in the five outer planets of the triple suns, there is no one, there is nothing, to dispute my domination. Therefore ny ennui has become intolerable."
 
 The girlish eyes of Athlé regarded the enchanter with a gaze of undying astonishment, which, however, was not due to his strange avowal. She was the last of the fifty-one women that Maal Dweb had turned into statues in order to preserve their frail, corruptible beauty from the worm-like gnawing of time. Since, through a laudable desire to avoid monotony, he had resolved never to repeat again this particular sorcery, the magician had cherished Athlé with the affection which an artist feels for the final masterpiece of a series. He had placed her on a little dais, beside the ivory chair in his chamber of meditation. Often he addressed to her his queries or monologues; and the fact that she did not reply or even hear was to him a signal and unfailing recommendation.
 
-'There is but one remedy for this boredom of mine,' he went on — 'the abnegation, at least for a while, of that all too certain power from which it springs. Therefore, I, Maal Dweb, the ruler of six worlds and all their moons, shall go forth alone, unheralded, and without other equipment than that which any fledgling sorcerer might possess. In this way, perhaps I shall recover the lost charm of incertitude, the foregone enchantment of peril. Adventures that I have not foreseen will be mine, and the future will wear the alluring veil of the mysterious. It remains, however, to select the field of my adventurings.'
+"There is but one remedy for this boredom of mine," he went on — "the abnegation, at least for a while, of that all too certain power from which it springs. Therefore, I, Maal Dweb, the ruler of six worlds and all their moons, shall go forth alone, unheralded, and without other equipment than that which any fledgling sorcerer might possess. In this way, perhaps I shall recover the lost charm of incertitude, the foregone enchantment of peril. Adventures that I have not foreseen will be mine, and the future will wear the alluring veil of the mysterious. It remains, however, to select the field of my adventurings."
 
 Maal Dweb arose from his curiously carven chair and waved back the four automatons of iron, having the likeness of armed men, that sprang to attend him. He passed along the halls of his palace, where painted hangings told in vermilion and purple the dread legends of his power. Through ebon valves that opened noiselessly at the uttering of a high-pitched word, he entered the chamber in which was his planetarium.
 
@@ -22,7 +22,7 @@ It seemed, however that he found little to divert or inveigle him in these outr�
 
 At length, on that portion of the planet which was turning into the double dawn from its moonless night, he perceived an occurrence that drew and held his attention. For the first time, he began to calculate the precise latitude and longitude of the surrounding milieu.
 
-'There,' he said to himself, 'is a situation not without interest. In fact, the whole affair is quaint and curious enough to warrant my intervention. I shall visit Votalp.'
+"There," he said to himself, "is a situation not without interest. In fact, the whole affair is quaint and curious enough to warrant my intervention. I shall visit Votalp."
 
 He withdrew from the planetarium and made a few preparations for his meditated journey. Having changed his robe of magisterial sable and scarlet for a hodden mantle, and having removed from his person every charm and talisman, with the exception of two phylacteries acquired during his novitiate, he went forth into the garden of his mountain-builded palace. He left no instructions with the many retainers who served with him: for these retainers were automatons of iron and brass, who would fulfill their various duties without injunction till he returned.
 
@@ -56,7 +56,7 @@ Conversing with them, he soon verified the information obtained through the mimi
 
 Now, through an errant whim, in his search for adventure, he had decided to pit himself against the Ispazars, employing no other weapons of sorcery than his own wit and will, his remembered learning, his clairvoyance, and the two simple amulets that he wore on his person.
 
-'Be comforted,' he said to the flower-women, 'for verily I shall deal with these miscreants in a fitting manner.'
+"Be comforted," he said to the flower-women, "for verily I shall deal with these miscreants in a fitting manner."
 
 At this; they broke into a shrill babble, repeating tales the bird-people of the valley had told them regarding the fortress of the Ispazars, whose walls rose sheerly from a hidden peak unscaled by man, and were void of portal or window save in the highmost ramparts, where the flying reptiles went in and out. And they told him other tales, concerning the ferocity and cruelty of the Ispazars...
 

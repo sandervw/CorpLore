@@ -19,43 +19,43 @@ THE SONG OF BÊLIT
 
 Hoofs drummed down the street that sloped to the wharfs. The folk that yelled and scattered had only a fleeting glimpse of a mailed figure on a black stallion, a wide scarlet cloak flowing out on the wind. Far up the street came the shout and clatter of pursuit, but the horseman did not look back. He swept out onto the wharfs and jerked the plunging stallion back on its haunches at the very lip of the pier. Seamen gaped up at him, as they stood to the sweep and striped sail of a high-prowed, broad-waisted galley. The master, sturdy and black-bearded, stood in the bows, easing her away from the piles with a boat-hook. He yelled angrily as the horseman sprang from the saddle and with a long leap landed squarely on the mid-deck.
 
-'Who invited you aboard?'
+"Who invited you aboard?"
 
-'Get under way!' roared the intruder with a fierce gesture that spattered red drops from his broadsword.
+"Get under way!" roared the intruder with a fierce gesture that spattered red drops from his broadsword.
 
-'But we're bound for the coasts of Kush!' expostulated the master.
+"But we're bound for the coasts of Kush!" expostulated the master.
 
-'Then I'm for Kush! Push off, I tell you!' The other cast a quick glance up the street, along which a squad of horsemen were galloping; far behind them toiled a group of archers, crossbows on their shoulders.
+"Then I'm for Kush! Push off, I tell you!" The other cast a quick glance up the street, along which a squad of horsemen were galloping; far behind them toiled a group of archers, crossbows on their shoulders.
 
-'Can you pay for your passage?' demanded the master.
+"Can you pay for your passage?" demanded the master.
 
-'I pay my way with steel!' roared the man in armor, brandishing the great sword that glittered bluely in the sun. 'By Crom, man, if you don't get under way, I'll drench this galley in the blood of its crew!'
+"I pay my way with steel!" roared the man in armor, brandishing the great sword that glittered bluely in the sun. "By Crom, man, if you don't get under way, I'll drench this galley in the blood of its crew!"
 
 The shipmaster was a good judge of men. One glance at the dark scarred face of the swordsman, hardened with passion, and he shouted a quick order, thrusting strongly against the piles. The galley wallowed out into clear water, the oars began to clack rhythmically; then a puff of wind filled the shimmering sail, the light ship heeled to the gust, then took her course like a swan, gathering headway as she skimmed along.
 
 On the wharfs the riders were shaking their swords and shouting threats and commands that the ship put about, and yelling for the bowmen to hasten before the craft was out of arbalest range.
 
-'Let them rave,' grinned the swordsman hardily. 'Do you keep her on her course, master steersman.'
+"Let them rave," grinned the swordsman hardily. "Do you keep her on her course, master steersman."
 
 The master descended from the small deck between the bows, made his way between the rows of oarsmen, and mounted the mid-deck. The stranger stood there with his back to the mast, eyes narrowed alertly, sword ready. The shipman eyed him steadily, careful not to make any move toward the long knife in his belt. He saw a tall powerfully built figure in a black scale-mail hauberk, burnished greaves and a blue-steel helmet from which jutted bull's horns highly polished. From the mailed shoulders fell the scarlet cloak, blowing in the sea-wind. A broad shagreen belt with a golden buckle held the scabbard of the broadsword he bore. Under the horned helmet a square-cut black mane contrasted with smoldering blue eyes.
 
-'If we must travel together,' said the master, 'we may as well be at peace with each other. My name is Tito, licensed master-shipman of the ports of Argos. I am bound for Kush, to trade beads and silks and sugar and brass-hilted swords to the black kings for ivory, copra, copper ore, slaves and pearls.'
+"If we must travel together," said the master, "we may as well be at peace with each other. My name is Tito, licensed master-shipman of the ports of Argos. I am bound for Kush, to trade beads and silks and sugar and brass-hilted swords to the black kings for ivory, copra, copper ore, slaves and pearls."
 
 The swordsman glanced back at the rapidly receding docks, where the figures still gesticulated helplessly, evidently having trouble in finding a boat swift enough to overhaul the fast-sailing galley.
 
-'I am Conan, a Cimmerian,' he answered. 'I came into Argos seeking employment, but with no wars forward, there was nothing to which I might turn my hand.'
+"I am Conan, a Cimmerian," he answered. "I came into Argos seeking employment, but with no wars forward, there was nothing to which I might turn my hand."
 
-'Why do the guardsmen pursue you?' asked Tito. 'Not that it's any of my business, but I thought perhaps——'
+"Why do the guardsmen pursue you?" asked Tito. "Not that it's any of my business, but I thought perhaps——"
 
-'I've nothing to conceal,' replied the Cimmerian. 'By Crom, though I've spent considerable time among you civilized peoples, your ways are still beyond my comprehension.
+"I've nothing to conceal," replied the Cimmerian. "By Crom, though I've spent considerable time among you civilized peoples, your ways are still beyond my comprehension.
 
-'Well, last night in a tavern, a captain in the king's guard offered violence to the sweetheart of a young soldier, who naturally ran him through. But it seems there is some cursed law against killing guardsmen, and the boy and his girl fled away. It was bruited about that I was seen with them, and so today I was haled into court, and a judge asked me where the lad had gone. I replied that since he was a friend of mine, I could not betray him. Then the court waxed wrath, and the judge talked a great deal about my duty to the state, and society, and other things I did not understand, and bade me tell where my friend had flown. By this time I was becoming wrathful myself, for I had explained my position.
+"Well, last night in a tavern, a captain in the king's guard offered violence to the sweetheart of a young soldier, who naturally ran him through. But it seems there is some cursed law against killing guardsmen, and the boy and his girl fled away. It was bruited about that I was seen with them, and so today I was haled into court, and a judge asked me where the lad had gone. I replied that since he was a friend of mine, I could not betray him. Then the court waxed wrath, and the judge talked a great deal about my duty to the state, and society, and other things I did not understand, and bade me tell where my friend had flown. By this time I was becoming wrathful myself, for I had explained my position.
 
-'But I choked my ire and held my peace, and the judge squalled that I had shown contempt for the court, and that I should be hurled into a dungeon to rot until I betrayed my friend. So then, seeing they were all mad, I drew my sword and cleft the judge's skull; then I cut my way out of the court, and seeing the high constable's stallion tied near by, I rode for the wharfs, where I thought to find a ship bound for foreign parts.'
+"But I choked my ire and held my peace, and the judge squalled that I had shown contempt for the court, and that I should be hurled into a dungeon to rot until I betrayed my friend. So then, seeing they were all mad, I drew my sword and cleft the judge's skull; then I cut my way out of the court, and seeing the high constable's stallion tied near by, I rode for the wharfs, where I thought to find a ship bound for foreign parts."
 
-'Well,' said Tito hardily, 'the courts have fleeced me too often in suits with rich merchants for me to owe them any love. I'll have questions to answer if I ever anchor in that port again, but I can prove I acted under compulsion. You may as well put up your sword. We're peaceable sailors, and have nothing against you. Besides, it's as well to have a fighting-man like yourself on board. Come up to the poop-deck and we'll have a tankard of ale.'
+"Well," said Tito hardily, "the courts have fleeced me too often in suits with rich merchants for me to owe them any love. I'll have questions to answer if I ever anchor in that port again, but I can prove I acted under compulsion. You may as well put up your sword. We're peaceable sailors, and have nothing against you. Besides, it's as well to have a fighting-man like yourself on board. Come up to the poop-deck and we'll have a tankard of ale."
 
-'Good enough,' readily responded the Cimmerian, sheathing his sword.
+"Good enough," readily responded the Cimmerian, sheathing his sword.
 
 The *Argus* was a small sturdy ship, typical of those trading-craft which ply between the ports of Zingara and Argos and the southern coasts, hugging the shoreline and seldom venturing far into the open ocean. It was high of stern, with a tall curving prow; broad in the waist, sloping beautifully to stem and stern. It was guided by the long sweep from the poop, and propulsion was furnished mainly by the broad striped silk sail, aided by a jibsail. The oars were for use in tacking out of creeks and bays, and during calms. There were ten to the side, five fore and five aft of the small mid-deck. The most precious part of the cargo was lashed under this deck, and under the fore-deck. The men slept on deck or between the rowers' benches, protected in bad weather by canopies. With twenty men at the oars, three at the sweep, and the shipmaster, the crew was complete.
 
@@ -73,39 +73,39 @@ They were characteristic Argosean sailors, short and stockily built. Conan tower
 
 So they beat southward, and master Tito began to look for the high-walled villages of the black people. But they found only smoking ruins on the shore of a bay, littered with naked black bodies. Tito swore.
 
-'I had good trade here, aforetime. This is the work of pirates.'
+"I had good trade here, aforetime. This is the work of pirates."
 
-'And if we meet them?' Conan loosened his great blade in its scabbard.
+"And if we meet them?" Conan loosened his great blade in its scabbard.
 
-'Mine is no warship. We run, not fight. Yet if it came to a pinch, we have beaten off reavers before, and might do it again; unless it were Bêlit's *Tigress*.'
+"Mine is no warship. We run, not fight. Yet if it came to a pinch, we have beaten off reavers before, and might do it again; unless it were Bêlit's *Tigress*."
 
-'Who is Bêlit?'
+"Who is Bêlit?"
 
-'The wildest she-devil unhanged. Unless I read the signs a-wrong, it was her butchers who destroyed that village on the bay. May I some day see her dangling from the yard-arm! She is called the queen of the black coast. She is a Shemite woman, who leads black raiders. They harry the shipping and have sent many a good tradesman to the bottom.'
+"The wildest she-devil unhanged. Unless I read the signs a-wrong, it was her butchers who destroyed that village on the bay. May I some day see her dangling from the yard-arm! She is called the queen of the black coast. She is a Shemite woman, who leads black raiders. They harry the shipping and have sent many a good tradesman to the bottom."
 
 From under the poop-deck Tito brought out quilted jerkins, steel caps, bows and arrows.
 
-'Little use to resist if we're run down,' he grunted. 'But it rasps the soul to give up life without a struggle.'
+"Little use to resist if we're run down," he grunted. "But it rasps the soul to give up life without a struggle."
 
 It was just at sunrise when the lookout shouted a warning. Around the long point of an island off the starboard bow glided a long lethal shape, a slender serpentine galley, with a raised deck that ran from stem to stern. Forty oars on each side drove her swiftly through the water, and the low rail swarmed with naked blacks that chanted and clashed spears on oval shields. From the masthead floated a long crimson pennon.
 
-'Bêlit!' yelled Tito, paling. 'Yare! Put her about! Into that creek-mouth! If we can beach her before they run us down, we have a chance to escape with our lives!'
+"Bêlit!" yelled Tito, paling. "Yare! Put her about! Into that creek-mouth! If we can beach her before they run us down, we have a chance to escape with our lives!"
 
 So, veering sharply, the *Argus* ran for the line of surf that boomed along the palm-fringed shore, Tito striding back and forth, exhorting the panting rowers to greater efforts. The master's black beard bristled, his eyes glared.
 
-'Give me a bow,' requested Conan. 'It's not my idea of a manly weapon, but I learned archery among the Hyrkanians, and it will go hard if I can't feather a man or so on yonder deck.'
+"Give me a bow," requested Conan. "It's not my idea of a manly weapon, but I learned archery among the Hyrkanians, and it will go hard if I can't feather a man or so on yonder deck."
 
 Standing on the poop, he watched the serpent-like ship skimming lightly over the waters, and landsman though he was, it was evident to him that the *Argus* would never win that race. Already arrows, arching from the pirate's deck, were falling with a hiss into the sea, not twenty paces astern.
 
-'We'd best stand to it,' growled the Cimmerian; 'else we'll all die with shafts in our backs, and not a blow dealt.'
+"We'd best stand to it," growled the Cimmerian; "else we'll all die with shafts in our backs, and not a blow dealt."
 
-'Bend to it, dogs!' roared Tito with a passionate gesture of his brawny fist. The bearded rowers grunted, heaved at the oars, while their muscles coiled and knotted, and sweat started out on their hides. The timbers of the stout little galley creaked and groaned as the men fairly ripped her through the water. The wind had fallen; the sail hung limp. Nearer crept the inexorable raiders, and they were still a good mile from the surf when one of the steersmen fell gagging across a sweep, a long arrow through his neck. Tito sprang to take his place, and Conan, bracing his feet wide on the heaving poop-deck, lifted his bow. He could see the details of the pirate plainly now. The rowers were protected by a line of raised mantelets along the sides, but the warriors dancing on the narrow deck were in full view. These were painted and plumed, and mostly naked, brandishing spears and spotted shields.
+"Bend to it, dogs!" roared Tito with a passionate gesture of his brawny fist. The bearded rowers grunted, heaved at the oars, while their muscles coiled and knotted, and sweat started out on their hides. The timbers of the stout little galley creaked and groaned as the men fairly ripped her through the water. The wind had fallen; the sail hung limp. Nearer crept the inexorable raiders, and they were still a good mile from the surf when one of the steersmen fell gagging across a sweep, a long arrow through his neck. Tito sprang to take his place, and Conan, bracing his feet wide on the heaving poop-deck, lifted his bow. He could see the details of the pirate plainly now. The rowers were protected by a line of raised mantelets along the sides, but the warriors dancing on the narrow deck were in full view. These were painted and plumed, and mostly naked, brandishing spears and spotted shields.
 
 On the raised platform in the bows stood a slim figure whose white skin glistened in dazzling contrast to the glossy ebon hides about it. Bêlit, without a doubt. Conan drew the shaft to his ear—then some whim or qualm stayed his hand and sent the arrow through the body of a tall plumed spearman beside her.
 
 Hand over hand the pirate galley was overhauling the lighter ship. Arrows fell in a rain about the *Argus*, and men cried out. All the steersmen were down, pincushioned, and Tito was handling the massive sweep alone, gasping black curses, his braced legs knots of straining thews. Then with a sob he sank down, a long shaft quivering in his sturdy heart. The *Argus* lost headway and rolled in the swell. The men shouted in confusion, and Conan took command in characteristic fashion.
 
-'Up, lads!' he roared, loosing with a vicious twang of cord. 'Grab your steel and give these dogs a few knocks before they cut our throats! Useless to bend your backs any more: they'll board us ere we can row another fifty paces!'
+"Up, lads!" he roared, loosing with a vicious twang of cord. "Grab your steel and give these dogs a few knocks before they cut our throats! Useless to bend your backs any more: they'll board us ere we can row another fifty paces!"
 
 In desperation the sailors abandoned their oars and snatched up their weapons. It was valiant, but useless. They had time for one flight of arrows before the pirate was upon them. With no one at the sweep, the *Argus* rolled broadside, and the steel-baked prow of the raider crashed into her amidships. Grappling-irons crunched into the side. From the lofty gunwales, the black pirates drove down a volley of shafts that tore through the quilted jackets of the doomed sailormen, then sprang down spear in hand to complete the slaughter. On the deck of the pirate lay half a dozen bodies, an earnest of Conan's archery.
 
@@ -119,29 +119,29 @@ Bêlit sprang before the blacks, beating down their spears. She turned toward Co
 
 She was untamed as a desert wind, supple and dangerous as a she-panther. She came close to him, heedless of his great blade, dripping with blood of her warriors. Her supple thigh brushed against it, so close she came to the tall warrior. Her red lips parted as she stared up into his somber menacing eyes.
 
-'Who are you?' she demanded. 'By Ishtar, I have never seen your like, though I have ranged the sea from the coasts of Zingara to the fires of the ultimate south. Whence come you?'
+"Who are you?" she demanded. "By Ishtar, I have never seen your like, though I have ranged the sea from the coasts of Zingara to the fires of the ultimate south. Whence come you?"
 
-'From Argos,' he answered shortly, alert for treachery. Let her slim hand move toward the jeweled dagger in her girdle, and a buffet of his open hand would stretch her senseless on the deck. Yet in his heart he did not fear; he had held too many women, civilized or barbaric, in his iron-thewed arms, not to recognize the light that burned in the eyes of this one.
+"From Argos," he answered shortly, alert for treachery. Let her slim hand move toward the jeweled dagger in her girdle, and a buffet of his open hand would stretch her senseless on the deck. Yet in his heart he did not fear; he had held too many women, civilized or barbaric, in his iron-thewed arms, not to recognize the light that burned in the eyes of this one.
 
-'You are no soft Hyborian!' she exclaimed. 'You are fierce and hard as a gray wolf. Those eyes were never dimmed by city lights; those thews were never softened by life amid marble walls.'
+"You are no soft Hyborian!" she exclaimed. "You are fierce and hard as a gray wolf. Those eyes were never dimmed by city lights; those thews were never softened by life amid marble walls."
 
-'I am Conan, a Cimmerian,' he answered.
+"I am Conan, a Cimmerian," he answered.
 
 To the people of the exotic climes, the north was a mazy half-mythical realm, peopled with ferocious blue-eyed giants who occasionally descended from their icy fastnesses with torch and sword. Their raids had never taken them as far south as Shem, and this daughter of Shem made no distinction between Æsir, Vanir or Cimmerian. With the unerring instinct of the elemental feminine, she knew she had found her lover, and his race meant naught, save as it invested him with the glamor of far lands.
 
-'And I am Bêlit,' she cried, as one might say, 'I am queen.'
+"And I am Bêlit," she cried, as one might say, "I am queen."
 
-'Look at me, Conan!' She threw wide her arms. 'I am Bêlit, queen of the black coast. Oh, tiger of the North, you are cold as the snowy mountains which bred you. Take me and crush me with your fierce love! Go with me to the ends of the earth and the ends of the sea! I am a queen by fire and steel and slaughter—be thou my king!'
+"Look at me, Conan!" She threw wide her arms. "I am Bêlit, queen of the black coast. Oh, tiger of the North, you are cold as the snowy mountains which bred you. Take me and crush me with your fierce love! Go with me to the ends of the earth and the ends of the sea! I am a queen by fire and steel and slaughter—be thou my king!"
 
 His eyes swept the blood-stained ranks, seeking expressions of wrath or jealousy. He saw none. The fury was gone from the ebon faces. He realized that to these men Bêlit was more than a woman: a goddess whose will was unquestioned. He glanced at the *Argus*, wallowing in the crimson sea-wash, heeling far over, her decks awash, held up by the grappling-irons. He glanced at the blue-fringed shore, at the far green hazes of the ocean, at the vibrant figure which stood before him; and his barbaric soul stirred within him. To quest these shining blue realms with that white-skinned young tiger-cat—to love, laugh, wander and pillage—
 
-'I'll sail with you,' he grunted, shaking the red drops from his blade.
+"I'll sail with you," he grunted, shaking the red drops from his blade.
 
-'Ho, N'Yaga!' her voice twanged like a bowstring. 'Fetch herbs and dress your master's wounds! The rest of you bring aboard the plunder and cast off.'
+"Ho, N'Yaga!" her voice twanged like a bowstring. "Fetch herbs and dress your master's wounds! The rest of you bring aboard the plunder and cast off."
 
 As Conan sat with his back against the poop-rail, while the old shaman attended to the cuts on his hands and limbs, the cargo of the ill-fated *Argus* was quickly shifted aboard the *Tigress* and stored in small cabins below deck. Bodies of the crew and of fallen pirates were cast overboard to the swarming sharks, while wounded blacks were laid in the waist to be bandaged. Then the grappling-irons were cast off, and as the *Argus* sank silently into the blood-flecked waters, the *Tigress* moved off southward to the rhythmic clack of the oars.
 
-As they moved out over the glassy blue deep, Bêlit came to the poop. Her eyes were burning like those of a she-panther in the dark as she tore off her ornaments, her sandals and her silken girdle and cast them at his feet. Rising on tiptoe, arms stretched upward, a quivering line of naked white, she cried to the desperate horde: 'Wolves of the blue sea, behold ye now the dance—the mating-dance of Bêlit, whose fathers were kings of Askalon!'
+As they moved out over the glassy blue deep, Bêlit came to the poop. Her eyes were burning like those of a she-panther in the dark as she tore off her ornaments, her sandals and her silken girdle and cast them at his feet. Rising on tiptoe, arms stretched upward, a quivering line of naked white, she cried to the desperate horde: "Wolves of the blue sea, behold ye now the dance—the mating-dance of Bêlit, whose fathers were kings of Askalon!"
 
 And she danced, like the spin of a desert whirlwind, like the leaping of a quenchless flame, like the urge of creation and the urge of death. Her white feet spurned the blood-stained deck and dying men forgot death as they gazed frozen at her. Then, as the white stars glimmered through the blue velvet dusk, making her whirling body a blur of ivory fire, with a wild cry she threw herself at Conan's feet, and the blind flood of the Cimmerian's desire swept all else away as he crushed her panting form against the black plates of his corseleted breast.
 
@@ -153,9 +153,9 @@ The *Tigress* ranged the sea, and the black villages shuddered. Tomtoms beat in 
 
 But heedless as a vagrant wind, the *Tigress* cruised the southern coasts, until she anchored at the mouth of a broad sullen river, whose banks were jungle-clouded walls of mystery.
 
-'This is the river Zarkheba, which is Death,' said Bêlit. 'Its waters are poisonous. See how dark and murky they run? Only venomous reptiles live in that river. The black people shun it. Once a Stygian galley, fleeing from me, fled up the river and vanished. I anchored in this very spot, and days later, the galley came floating down the dark waters, its decks blood-stained and deserted. Only one man was on board, and he was mad and died gibbering. The cargo was intact, but the crew had vanished into silence and mystery.
+"This is the river Zarkheba, which is Death," said Bêlit. "Its waters are poisonous. See how dark and murky they run? Only venomous reptiles live in that river. The black people shun it. Once a Stygian galley, fleeing from me, fled up the river and vanished. I anchored in this very spot, and days later, the galley came floating down the dark waters, its decks blood-stained and deserted. Only one man was on board, and he was mad and died gibbering. The cargo was intact, but the crew had vanished into silence and mystery.
 
-'My lover, I believe there is a city somewhere on that river. I have heard tales of giant towers and walls glimpsed afar off by sailors who dared go part-way up the river. We fear nothing: Conan, let us go and sack that city!'
+"My lover, I believe there is a city somewhere on that river. I have heard tales of giant towers and walls glimpsed afar off by sailors who dared go part-way up the river. We fear nothing: Conan, let us go and sack that city!"
 
 Conan agreed. He generally agreed to her plans. Hers was the mind that directed their raids, his the arm that carried out her ideas. It mattered little to him where they sailed or whom they fought, so long as they sailed and fought. He found the life good.
 
@@ -169,29 +169,29 @@ Rising above the black denseness of the trees and above the waving fronds, the m
 
 The cold light struck icy fire from the jewels in Bêlit's clustered black locks as she stretched her lithe figure on a leopardskin thrown on the deck. Supported on her elbows, her chin resting on her slim hands, she gazed up into the face of Conan, who lounged beside her, his black mane stirring in the faint breeze. Bêlit's eyes were dark jewels burning in the moonlight.
 
-'Mystery and terror are about us, Conan, and we glide into the realm of horror and death,' she said. 'Are you afraid?'
+"Mystery and terror are about us, Conan, and we glide into the realm of horror and death," she said. "Are you afraid?"
 
 A shrug of his mailed shoulders was his only answer.
 
-'I am not afraid either,' she said meditatively. 'I was never afraid. I have looked into the naked fangs of Death too often. Conan, do you fear the gods?'
+"I am not afraid either," she said meditatively. "I was never afraid. I have looked into the naked fangs of Death too often. Conan, do you fear the gods?"
 
-'I would not tread on their shadow,' answered the barbarian conservatively. 'Some gods are strong to harm, others, to aid; at least so say their priests. Mitra of the Hyborians must be a strong god, because his people have builded their cities over the world. But even the Hyborians fear Set. And Bel, god of thieves, is a good god. When I was a thief in Zamora I learned of him.'
+"I would not tread on their shadow," answered the barbarian conservatively. "Some gods are strong to harm, others, to aid; at least so say their priests. Mitra of the Hyborians must be a strong god, because his people have builded their cities over the world. But even the Hyborians fear Set. And Bel, god of thieves, is a good god. When I was a thief in Zamora I learned of him."
 
-'What of your own gods? I have never heard you call on them.'
+"What of your own gods? I have never heard you call on them."
 
-'Their chief is Crom. He dwells on a great mountain. What use to call on him? Little he cares if men live or die. Better to be silent than to call his attention to you; he will send you dooms, not fortune! He is grim and loveless, but at birth he breathes power to strive and slay into a man's soul. What else shall men ask of the gods?'
+"Their chief is Crom. He dwells on a great mountain. What use to call on him? Little he cares if men live or die. Better to be silent than to call his attention to you; he will send you dooms, not fortune! He is grim and loveless, but at birth he breathes power to strive and slay into a man's soul. What else shall men ask of the gods?"
 
-'But what of the worlds beyond the river of death?' she persisted.
+"But what of the worlds beyond the river of death?" she persisted.
 
-'There is no hope here or hereafter in the cult of my people,' answered Conan. 'In this world men struggle and suffer vainly, finding pleasure only in the bright madness of battle; dying, their souls enter a gray misty realm of clouds and icy winds, to wander cheerlessly throughout eternity.'
+"There is no hope here or hereafter in the cult of my people," answered Conan. "In this world men struggle and suffer vainly, finding pleasure only in the bright madness of battle; dying, their souls enter a gray misty realm of clouds and icy winds, to wander cheerlessly throughout eternity."
 
-Bêlit shuddered. 'Life, bad as it is, is better than such a destiny. What do you believe, Conan?'
+Bêlit shuddered. "Life, bad as it is, is better than such a destiny. What do you believe, Conan?"
 
-He shrugged his shoulders. 'I have known many gods. He who denies them is as blind as he who trusts them too deeply. I seek not beyond death. It may be the blackness averred by the Nemedian skeptics, or Crom's realm of ice and cloud, or the snowy plains and vaulted halls of the Nordheimer's Valhalla. I know not, nor do I care. Let me live deep while I live; let me know the rich juices of red meat and stinging wine on my palate, the hot embrace of white arms, the mad exultation of battle when the blue blades flame and crimson, and I am content. Let teachers and priests and philosophers brood over questions of reality and illusion. I know this: if life is illusion, then I am no less an illusion, and being thus, the illusion is real to me. I live, I burn with life, I love, I slay, and am content.'
+He shrugged his shoulders. "I have known many gods. He who denies them is as blind as he who trusts them too deeply. I seek not beyond death. It may be the blackness averred by the Nemedian skeptics, or Crom's realm of ice and cloud, or the snowy plains and vaulted halls of the Nordheimer's Valhalla. I know not, nor do I care. Let me live deep while I live; let me know the rich juices of red meat and stinging wine on my palate, the hot embrace of white arms, the mad exultation of battle when the blue blades flame and crimson, and I am content. Let teachers and priests and philosophers brood over questions of reality and illusion. I know this: if life is illusion, then I am no less an illusion, and being thus, the illusion is real to me. I live, I burn with life, I love, I slay, and am content."
 
-'But the gods are real,' she said, pursuing her own line of thought. 'And above all are the gods of the Shemites—Ishtar and Ashtoreth and Derketo and Adonis. Bel, too, is Shemitish, for he was born in ancient Shumir, long, long ago and went forth laughing, with curled beard and impish wise eyes, to steal the gems of the kings of old times.
+"But the gods are real," she said, pursuing her own line of thought. "And above all are the gods of the Shemites—Ishtar and Ashtoreth and Derketo and Adonis. Bel, too, is Shemitish, for he was born in ancient Shumir, long, long ago and went forth laughing, with curled beard and impish wise eyes, to steal the gems of the kings of old times.
 
-'There is life beyond death, I know, and I know this, too, Conan of Cimmeria—' she rose lithely to her knees and caught him in a pantherish embrace—'my love is stronger than any death! I have lain in your arms, panting with the violence of our love; you have held and crushed and conquered me, drawing my soul to your lips with the fierceness of your bruising kisses. My heart is welded to your heart, my soul is part of your soul! Were I still in death and you fighting for life, I would come back from the abyss to aid you—aye, whether my spirit floated with the purple sails on the crystal sea of paradise, or writhed in the molten flames of hell! I am yours, and all the gods and all their eternities shall not sever us!'
+"There is life beyond death, I know, and I know this, too, Conan of Cimmeria—" she rose lithely to her knees and caught him in a pantherish embrace—"my love is stronger than any death! I have lain in your arms, panting with the violence of our love; you have held and crushed and conquered me, drawing my soul to your lips with the fierceness of your bruising kisses. My heart is welded to your heart, my soul is part of your soul! Were I still in death and you fighting for life, I would come back from the abyss to aid you—aye, whether my spirit floated with the purple sails on the crystal sea of paradise, or writhed in the molten flames of hell! I am yours, and all the gods and all their eternities shall not sever us!"
 
 A scream rang from the lookout in the bows. Thrusting Bêlit aside, Conan bounded up, his sword a long silver glitter in the moonlight, his hair bristling at what he saw. The black warrior dangled above the deck, supported by what seemed a dark pliant tree trunk arching over the rail. Then he realized that it was a gigantic serpent which had writhed its glistening length up the side of the bow and gripped the luckless warrior in its jaws. Its dripping scales shone leprously in the moonlight as it reared its form high above the deck, while the stricken man screamed and writhed like a mouse in the fangs of a python. Conan rushed into the bows, and swinging his great sword, hewed nearly through the giant trunk, which was thicker than a man's body. Blood drenched the rails as the dying monster swayed far out, still gripping its victim, and sank into the river, coil by coil, lashing the water to bloody foam, in which man and reptile vanished together.
 
@@ -199,33 +199,33 @@ Thereafter Conan kept the lookout watch himself, but no other horror came crawli
 
 It was but the ghost of a city on which they looked when they cleared a jutting jungle-clad point and swung in toward the in-curving shore. Weeds and rank river grass grew between the stones of broken piers and shattered paves that had once been streets and spacious plazas and broad courts. From all sides except that toward the river, the jungle crept in, masking fallen columns and crumbling mounds with poisonous green. Here and there buckling towers reeled drunkenly against the morning sky, and broken pillars jutted up among the decaying walls. In the center space a marble pyramid was spired by a slim column, and on its pinnacle sat or squatted something that Conan supposed to be an image until his keen eyes detected life in it.
 
-'It is a great bird,' said one of the warriors, standing in the bows.
+"It is a great bird," said one of the warriors, standing in the bows.
 
-'It is a monster bat,' insisted another.
+"It is a monster bat," insisted another.
 
-'It is an ape,' said Bêlit.
+"It is an ape," said Bêlit.
 
 Just then the creature spread broad wings and flapped off into the jungle.
 
-'A winged ape,' said old N'Yaga uneasily. 'Better we had cut our throats than come to this place. It is haunted.'
+"A winged ape," said old N'Yaga uneasily. "Better we had cut our throats than come to this place. It is haunted."
 
 Bêlit mocked at his superstitions and ordered the galley run inshore and tied to the crumbling wharfs. She was the first to spring ashore, closely followed by Conan, and after them trooped the ebon-skinned pirates, white plumes waving in the morning wind, spears ready, eyes rolling dubiously at the surrounding jungle.
 
 Over all brooded a silence as sinister as that of a sleeping serpent. Bêlit posed picturesquely among the ruins, the vibrant life in her lithe figure contrasting strangely with the desolation and decay about her. The sun flamed up slowly, sullenly, above the jungle, flooding the towers with a dull gold that left shadows lurking beneath the tottering walls. Bêlit pointed to a slim round tower that reeled on its rotting base. A broad expanse of cracked, grass-grown slabs led up to it, flanked by fallen columns, and before it stood a massive altar. Bêlit went swiftly along the ancient floor and stood before it.
 
-'This was the temple of the old ones,' she said. 'Look—you can see the channels for the blood along the sides of the altar, and the rains of ten thousand years have not washed the dark stains from them. The walls have all fallen away, but this stone block defies time and the elements.'
+"This was the temple of the old ones," she said. "Look—you can see the channels for the blood along the sides of the altar, and the rains of ten thousand years have not washed the dark stains from them. The walls have all fallen away, but this stone block defies time and the elements."
 
-'But who were these old ones?' demanded Conan.
+"But who were these old ones?" demanded Conan.
 
-She spread her slim hands helplessly. 'Not even in legendary is this city mentioned. But look at the handholes at either end of the altar! Priests often conceal their treasures beneath their altars. Four of you lay hold and see if you can lift it.'
+She spread her slim hands helplessly. "Not even in legendary is this city mentioned. But look at the handholes at either end of the altar! Priests often conceal their treasures beneath their altars. Four of you lay hold and see if you can lift it."
 
 She stepped back to make room for them, glancing up at the tower which loomed drunkenly above them. Three of the strongest blacks had gripped the handholes cut into the stone—curiously unsuited to human hands—when Bêlit sprang back with a sharp cry. They froze in their places, and Conan, bending to aid them, wheeled with a startled curse.
 
-'A snake in the grass,' she said, backing away. 'Come and slay it; the rest of you bend your backs to the stone.'
+"A snake in the grass," she said, backing away. "Come and slay it; the rest of you bend your backs to the stone."
 
 Conan came quickly toward her, another taking his place. As he impatiently scanned the grass for the reptile, the giant blacks braced their feet, grunted and heaved with their huge muscles coiling and straining under their ebon skin. The altar did not come off the ground, but it revolved suddenly on its side. And simultaneously there was a grinding rumble above and the tower came crashing down, covering the four black men with broken masonry.
 
-A cry of horror rose from their comrades. Bêlit's slim fingers dug into Conan's arm-muscles. 'There was no serpent,' she whispered. 'It was but a ruse to call you away. I feared; the old ones guarded their treasure well. Let us clear away the stones.'
+A cry of horror rose from their comrades. Bêlit's slim fingers dug into Conan's arm-muscles. "There was no serpent," she whispered. "It was but a ruse to call you away. I feared; the old ones guarded their treasure well. Let us clear away the stones."
 
 With herculean labor they did so, and lifted out the mangled bodies of the four men. And under them, stained with their blood, the pirates found a crypt carved in the solid stone. The altar, hinged curiously with stone rods and sockets on one side, had served as its lid. And at first glance the crypt seemed brimming with liquid fire, catching the early light with a million blazing facets. Undreamable wealth lay before the eyes of the gaping pirates; diamonds, rubies, bloodstones, sapphires, turquoises, moonstones, opals, emeralds, amethysts, unknown gems that shone like the eyes of evil women. The crypt was filled to the brim with bright stones that the morning sun struck into lambent flame.
 
@@ -233,29 +233,29 @@ With a cry Bêlit dropped to her knees among the blood-stained rubble on the bri
 
 Bêlit's eyes were like a woman's in a trance. The Shemite soul finds a bright drunkenness in riches and material splendor, and the sight of this treasure might have shaken the soul of a sated emperor of Shushan.
 
-'Take up the jewels, dogs!' her voice was shrill with her emotions.
+"Take up the jewels, dogs!" her voice was shrill with her emotions.
 
-'Look!' a muscular black arm stabbed toward the *Tigress*, and Bêlit wheeled, her crimson lips a-snarl, as if she expected to see a rival corsair sweeping in to despoil her of her plunder. But from the gunwales of the ship a dark shape rose, soaring away over the jungle.
+"Look!" a muscular black arm stabbed toward the *Tigress*, and Bêlit wheeled, her crimson lips a-snarl, as if she expected to see a rival corsair sweeping in to despoil her of her plunder. But from the gunwales of the ship a dark shape rose, soaring away over the jungle.
 
-'The devil-ape has been investigating the ship,' muttered the blacks uneasily.
+"The devil-ape has been investigating the ship," muttered the blacks uneasily.
 
-'What matter?' cried Bêlit with a curse, raking back a rebellious lock with an impatient hand. 'Make a litter of spears and mantles to bear these jewels—where the devil are you going?'
+"What matter?" cried Bêlit with a curse, raking back a rebellious lock with an impatient hand. "Make a litter of spears and mantles to bear these jewels—where the devil are you going?"
 
-'To look to the galley,' grunted Conan. 'That bat-thing might have knocked a hole in the bottom, for all we know.'
+"To look to the galley," grunted Conan. "That bat-thing might have knocked a hole in the bottom, for all we know."
 
 He ran swiftly down the cracked wharf and sprang aboard. A moment's swift examination below decks, and he swore heartily, casting a clouded glance in the direction the bat-being had vanished. He returned hastily to Bêlit, superintending the plundering of the crypt. She had looped the necklace about her neck, and on her naked white bosom the red clots glimmered darkly. A huge naked black stood crotch-deep in the jewel-brimming crypt, scooping up great handfuls of splendor to pass them to eager hands above. Strings of frozen iridescence hung between his dusky fingers; drops of red fire dripped from his hands, piled high with starlight and rainbow. It was as if a black titan stood straddle-legged in the bright pits of hell, his lifted hands full of stars.
 
-'That flying devil has staved in the water-casks,' said Conan. 'If we hadn't been so dazed by these stones we'd have heard the noise. We were fools not to have left a man on guard. We can't drink this river water. I'll take twenty men and search for fresh water in the jungle.'
+"That flying devil has staved in the water-casks," said Conan. "If we hadn't been so dazed by these stones we'd have heard the noise. We were fools not to have left a man on guard. We can't drink this river water. I'll take twenty men and search for fresh water in the jungle."
 
 She looked at him vaguely, in her eyes the blank blaze of her strange passion, her fingers working at the gems on her breast.
 
-'Very well,' she said absently, hardly heeding him. 'I'll get the loot aboard.'
+"Very well," she said absently, hardly heeding him. "I'll get the loot aboard."
 
 The jungle closed quickly about them, changing the light from gold to gray. From the arching green branches creepers dangled like pythons. The warriors fell into single file, creeping through the primordial twilights like black phantoms following a white ghost.
 
 Underbrush was not so thick as Conan had anticipated. The ground was spongy but not slushy. Away from the river, it sloped gradually upward. Deeper and deeper they plunged into the green waving depths, and still there was no sign of water, either running stream or stagnant pool. Conan halted suddenly, his warriors freezing into basaltic statues. In the tense silence that followed, the Cimmerian shook his head irritably.
 
-'Go ahead,' he grunted to a sub-chief, N'Gora. 'March straight on until you can no longer see me; then stop and wait for me. I believe we're being followed. I heard something.'
+"Go ahead," he grunted to a sub-chief, N'Gora. "March straight on until you can no longer see me; then stop and wait for me. I believe we're being followed. I heard something."
 
 The blacks shuffled their feet uneasily, but did as they were told. As they swung onward, Conan stepped quickly behind a great tree, glaring back along the way they had come. From that leafy fastness anything might emerge. Nothing occurred; the faint sounds of the marching spearmen faded in the distance. Conan suddenly realized that the air was impregnated with an alien and exotic scent. Something gently brushed his temple. He turned quickly. From a cluster of green, curiously leafed stalks, great black blossoms nodded at him. One of these had touched him. They seemed to beckon him, to arch their pliant stems toward him. They spread and rustled, though no wind blew.
 
@@ -367,7 +367,7 @@ The headlong rush of the winged one had not wavered. It towered over the prostra
 
 In one mad instant she was there—a tense white shape, vibrant with love fierce as a she-panther's. The dazed Cimmerian saw between him and the onrushing death, her lithe figure, shimmering like ivory beneath the moon; he saw the blaze of her dark eyes, the thick cluster of her burnished hair; her bosom heaved, her red lips were parted, she cried out sharp and ringing at the ring of steel as she thrust at the winged monster's breast.
 
-'*Bêlit!*' screamed Conan. She flashed a quick glance at him, and in her dark eyes he saw her love flaming, a naked elemental thing of raw fire and molten lava. Then she was gone, and the Cimmerian saw only the winged fiend which had staggered back in unwonted fear, arms lifted as if to fend off attack. And he knew that Bêlit in truth lay on her pyre on the *Tigress's* deck. In his ears rang her passionate cry: 'Were I still in death and you fighting for life I would come back from the abyss——'
+"*Bêlit!*" screamed Conan. She flashed a quick glance at him, and in her dark eyes he saw her love flaming, a naked elemental thing of raw fire and molten lava. Then she was gone, and the Cimmerian saw only the winged fiend which had staggered back in unwonted fear, arms lifted as if to fend off attack. And he knew that Bêlit in truth lay on her pyre on the *Tigress's* deck. In his ears rang her passionate cry: "Were I still in death and you fighting for life I would come back from the abyss——"
 
 With a terrible cry he heaved upward hurling the stone aside. The winged one came on again, and Conan sprang to meet it, his veins on fire with madness. The thews started out like cords on his forearms as he swung his great sword, pivoting on his heel with the force of the sweeping arc. Just above the hips it caught the hurtling shape, and the knotted legs fell one way, the torso another as the blade sheared clear through its hairy body.
 

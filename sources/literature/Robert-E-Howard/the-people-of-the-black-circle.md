@@ -15,17 +15,17 @@ The king of Vendhya was dying. Through the hot, stifling night the temple gongs 
 
 She threw up her head in a gusty gesture of wrath and despair as the thunder of the distant drums reached her ears.
 
-'The priests and their clamor!' she exclaimed. 'They are no wiser than the leeches who are helpless! Nay, he dies and none can say why. He is dying now—and I stand here helpless, who would burn the whole city and spill the blood of thousands to save him.'
+"The priests and their clamor!" she exclaimed. "They are no wiser than the leeches who are helpless! Nay, he dies and none can say why. He is dying now—and I stand here helpless, who would burn the whole city and spill the blood of thousands to save him."
 
-'Not a man of Ayodhya but would die in his place, if it might be, Devi,' answered the *wazam*. 'This poison—'
+"Not a man of Ayodhya but would die in his place, if it might be, Devi," answered the *wazam*. "This poison—"
 
-'I tell you it is not poison!' she cried. 'Since his birth he has been guarded so closely that the cleverest poisoners of the East could not reach him. Five skulls bleaching on the Tower of the Kites can testify to attempts which were made—and which failed. As you well know, there are ten men and ten women whose sole duty is to taste his food and wine, and fifty armed warriors guard his chamber as they guard it now. No, it is not poison; it is sorcery—black, ghastly magic—'
+"I tell you it is not poison!" she cried. "Since his birth he has been guarded so closely that the cleverest poisoners of the East could not reach him. Five skulls bleaching on the Tower of the Kites can testify to attempts which were made—and which failed. As you well know, there are ten men and ten women whose sole duty is to taste his food and wine, and fifty armed warriors guard his chamber as they guard it now. No, it is not poison; it is sorcery—black, ghastly magic—"
 
 She ceased as the king spoke; his livid lips did not move, and there was no recognition in his glassy eyes. But his voice rose in an eery call, indistinct and far away, as if called to her from beyond vast, wind-blown gulfs.
 
-'Yasmina! Yasmina! My sister, where are you? I can not find you. All is darkness, and the roaring of great winds!'
+"Yasmina! Yasmina! My sister, where are you? I can not find you. All is darkness, and the roaring of great winds!"
 
-'Brother!' cried Yasmina, catching his limp hand in a convulsive grasp. 'I am here! Do you not know me—'
+"Brother!" cried Yasmina, catching his limp hand in a convulsive grasp. "I am here! Do you not know me—"
 
 Her voice died at the utter vacancy of his face. A low confused moan waned from his mouth. The slave-girls at the foot of the dais whimpered with fear, and Yasmina beat her breast in anguish.
 
@@ -33,29 +33,29 @@ In another part of the city a man stood in a latticed balcony overlooking a long
 
 The man shrugged his broad shoulders and turned back into the arabesque chamber. He was a tall man, compactly built, and richly clad.
 
-'The king is not yet dead, but the dirge is sounded,' he said to another man who sat cross-legged on a mat in a corner. This man was clad in a brown camel-hair robe and sandals, and a green turban was on his head. His expression was tranquil, his gaze impersonal.
+"The king is not yet dead, but the dirge is sounded," he said to another man who sat cross-legged on a mat in a corner. This man was clad in a brown camel-hair robe and sandals, and a green turban was on his head. His expression was tranquil, his gaze impersonal.
 
-'The people know he will never see another dawn,' this man answered.
+"The people know he will never see another dawn," this man answered.
 
 The first speaker favored him with a long, searching stare.
 
-'What I can not understand,' he said, 'is why I have had to wait so long for your masters to strike. If they have slain the king now, why could they not have slain him months ago?'
+"What I can not understand," he said, "is why I have had to wait so long for your masters to strike. If they have slain the king now, why could they not have slain him months ago?"
 
-'Even the arts you call sorcery are governed by cosmic laws,' answered the man in the green turban. 'The stars direct these actions, as in other affairs. Not even my masters can alter the stars. Not until the heavens were in the proper order could they perform this necromancy.' With a long, stained fingernail he mapped the constellations on the marble-tiled floor. 'The slant of the moon presaged evil for the king of Vendhya; the stars are in turmoil, the Serpent in the House of the Elephant. During such juxtaposition, the invisible guardians are removed from the spirit of Bhunda Chand. A path is opened in the unseen realms, and once a point of contact was established, mighty powers were put in play along that path.'
+"Even the arts you call sorcery are governed by cosmic laws," answered the man in the green turban. "The stars direct these actions, as in other affairs. Not even my masters can alter the stars. Not until the heavens were in the proper order could they perform this necromancy." With a long, stained fingernail he mapped the constellations on the marble-tiled floor. "The slant of the moon presaged evil for the king of Vendhya; the stars are in turmoil, the Serpent in the House of the Elephant. During such juxtaposition, the invisible guardians are removed from the spirit of Bhunda Chand. A path is opened in the unseen realms, and once a point of contact was established, mighty powers were put in play along that path."
 
-'Point of contact?' inquired the other. 'Do you mean that lock of Bhunda Chand's hair?'
+"Point of contact?" inquired the other. "Do you mean that lock of Bhunda Chand's hair?"
 
-'Yes. All discarded portions of the human body still remain part of it, attached to it by intangible connections. The priests of Asura have a dim inkling of this truth, and so all nail trimmings, hair and other waste products of the persons of the royal family are carefully reduced to ashes and the ashes hidden. But at the urgent entreaty of the princess of Khosala, who loved Bhunda Chand vainly, he gave her a lock of his long black hair as a token of remembrance. When my masters decided upon his doom, the lock, in its golden, jewel-encrusted case, was stolen from under her pillow while she slept, and another substituted, so like the first that she never knew the difference. Then the genuine lock travelled by camel-caravan up the long, long road to Peshkhauri, thence up the Zhaibar Pass, until it reached the hands of those for whom it was intended.'
+"Yes. All discarded portions of the human body still remain part of it, attached to it by intangible connections. The priests of Asura have a dim inkling of this truth, and so all nail trimmings, hair and other waste products of the persons of the royal family are carefully reduced to ashes and the ashes hidden. But at the urgent entreaty of the princess of Khosala, who loved Bhunda Chand vainly, he gave her a lock of his long black hair as a token of remembrance. When my masters decided upon his doom, the lock, in its golden, jewel-encrusted case, was stolen from under her pillow while she slept, and another substituted, so like the first that she never knew the difference. Then the genuine lock travelled by camel-caravan up the long, long road to Peshkhauri, thence up the Zhaibar Pass, until it reached the hands of those for whom it was intended."
 
-'Only a lock of hair,' murmured the nobleman.
+"Only a lock of hair," murmured the nobleman.
 
-'By which a soul is drawn from its body and across gulfs of echoing space,' returned the man on the mat.
+"By which a soul is drawn from its body and across gulfs of echoing space," returned the man on the mat.
 
 The nobleman studied him curiously.
 
-'I do not know if you are a man or a demon, Khemsa,' he said at last. 'Few of us are what we seem. I, whom the Kshatriyas know as Kerim Shah, a prince from Iranistan, am no greater a masquerader than most men. They are all traitors in one way or another, and half of them know not whom they serve. There at least I have no doubts; for I serve King Yezdigerd of Turan.'
+"I do not know if you are a man or a demon, Khemsa," he said at last. "Few of us are what we seem. I, whom the Kshatriyas know as Kerim Shah, a prince from Iranistan, am no greater a masquerader than most men. They are all traitors in one way or another, and half of them know not whom they serve. There at least I have no doubts; for I serve King Yezdigerd of Turan."
 
-'And I the Black Seers of Yimsha,' said Khemsa; 'and my masters are greater than yours, for they have accomplished by their arts what Yezdigerd could not with a hundred thousand swords.'
+"And I the Black Seers of Yimsha," said Khemsa; "and my masters are greater than yours, for they have accomplished by their arts what Yezdigerd could not with a hundred thousand swords."
 
 Outside, the moan of the tortured thousands shuddered up to the stars which crusted the sweating Vendhyan night, and the conchs bellowed like oxen in pain.
 
@@ -63,17 +63,17 @@ In the gardens of the palace the torches glinted on polished helmets and curved 
 
 On the dais under the golden dome the king cried out again, racked by awful paroxysms. Again his voice came faintly and far away, and again the Devi bent to him, trembling with a fear that was darker than the terror of death.
 
-'Yasmina!' Again that far, weirdly dreeing cry, from realms immeasurable. 'Aid me! I am far from my mortal house! Wizards have drawn my soul through the wind-blown darkness. They seek to snap the silver cord that binds me to my dying body. They cluster around me; their hands are taloned, their eyes are red like flame burning in darkness. *Aie*, save me, my sister! Their fingers sear me like fire! They would slay my body and damn my soul! What is this they bring before me?—*Aie!*'
+"Yasmina!" Again that far, weirdly dreeing cry, from realms immeasurable. "Aid me! I am far from my mortal house! Wizards have drawn my soul through the wind-blown darkness. They seek to snap the silver cord that binds me to my dying body. They cluster around me; their hands are taloned, their eyes are red like flame burning in darkness. *Aie*, save me, my sister! Their fingers sear me like fire! They would slay my body and damn my soul! What is this they bring before me?—*Aie!*"
 
 At the terror in his hopeless cry Yasmina screamed uncontrollably and threw herself bodily upon him in the abandon of her anguish. He was torn by a terrible convulsion; foam flew from his contorted lips and his writhing fingers left their marks on the girl's shoulders. But the glassy blankness passed from his eyes like smoke blown from a fire, and he looked up at his sister with recognition.
 
-'Brother!' she sobbed. 'Brother—'
+"Brother!" she sobbed. "Brother—"
 
-'Swift!' he gasped, and his weakening voice was rational. 'I know now what brings me to the pyre. I have been on a far journey and I understand. I have been ensorcelled by the wizards of the Himelians. They drew my soul out of my body and far away, into a stone room. There they strove to break the silver cord of life, and thrust my soul into the body of a foul night-weird their sorcery summoned up from hell. Ah! I feel their pull upon me now! Your cry and the grip of your fingers brought me back, but I am going fast. My soul clings to my body, but its hold weakens. Quick—kill me, before they can trap my soul for ever!'
+"Swift!" he gasped, and his weakening voice was rational. "I know now what brings me to the pyre. I have been on a far journey and I understand. I have been ensorcelled by the wizards of the Himelians. They drew my soul out of my body and far away, into a stone room. There they strove to break the silver cord of life, and thrust my soul into the body of a foul night-weird their sorcery summoned up from hell. Ah! I feel their pull upon me now! Your cry and the grip of your fingers brought me back, but I am going fast. My soul clings to my body, but its hold weakens. Quick—kill me, before they can trap my soul for ever!"
 
-'I cannot!' she wailed, smiting her naked breasts.
+"I cannot!" she wailed, smiting her naked breasts.
 
-'Swiftly, I command you!' There was the old imperious note in his failing whisper. 'You have never disobeyed me—obey my last command! Send my soul clean to Asura! Haste, lest you damn me to spend eternity as a filthy gaunt of darkness. Strike, I command you! *Strike!*'
+"Swiftly, I command you!" There was the old imperious note in his failing whisper. "You have never disobeyed me—obey my last command! Send my soul clean to Asura! Haste, lest you damn me to spend eternity as a filthy gaunt of darkness. Strike, I command you! *Strike!*"
 
 Sobbing wildly, Yasmina plucked a jeweled dagger from her girdle and plunged it to the hilt in his breast. He stiffened and then went limp, a grim smile curving his dead lips. Yasmina hurled herself face-down on the rush-covered floor, beating the reeds with her clenched hands. Outside, the gongs and conchs brayed and thundered and the priests gashed themselves with copper knives.
 
@@ -87,64 +87,64 @@ The governor was alone in his chamber, seated at his ornately carven table of in
 
 The governor read what he had written, slowly, with his open hand shading his eyes from the bronze butterlamp, his lips moving. Absently, as he read, he heard the drum of horses' hoofs outside the barbican, the sharp staccato of the guards' challenge. He did not heed, intent upon his letter. It was addressed to the *wazam* of Vendhya, at the royal court of Ayodhya, and it stated, after the customary salutations:
 
-> 'Let it be known to your excellency that I have faithfully carried out your excellency's instructions. The seven tribesmen are well guarded in their prison, and I have repeatedly sent word into the hills that their chief come in person to bargain for their release. But he has made no move, except to send word that unless they are freed he will burn Peshkhauri and cover his saddle with my hide, begging your excellency's indulgence. This he is quite capable of attempting, and I have tripled the numbers of the lance guards. The man is not a native of Ghulistan. I cannot with certainty predict his next move. But since it is the wish of the Devi—'
+> "Let it be known to your excellency that I have faithfully carried out your excellency's instructions. The seven tribesmen are well guarded in their prison, and I have repeatedly sent word into the hills that their chief come in person to bargain for their release. But he has made no move, except to send word that unless they are freed he will burn Peshkhauri and cover his saddle with my hide, begging your excellency's indulgence. This he is quite capable of attempting, and I have tripled the numbers of the lance guards. The man is not a native of Ghulistan. I cannot with certainty predict his next move. But since it is the wish of the Devi—"
 >
 
 He was out of his ivory chair and on his feet facing the arched door, all in one instant. He snatched at the curved sword lying in its ornate scabbard on the table, and then checked the movement.
 
 It was a woman who had entered unannounced, a woman whose gossamer robes did not conceal the rich garments beneath them any more than they concealed the suppleness and beauty of her tall, slender figure. A filmy veil fell below her breasts, supported by a flowing headdress bound about with a triple gold braid and adorned with a golden crescent. Her dark eyes regarded the astonished governor over the veil, and then with an imperious gesture of her white hand, she uncovered her face.
 
-'Devi!' The governor dropped to his knees before her, surprize and confusion somewhat spoiling the stateliness of his obeisance. With a gesture she motioned him to rise, and he hastened to lead her to the ivory chair, all the while bowing level with his girdle. But his first words were of reproof.
+"Devi!" The governor dropped to his knees before her, surprize and confusion somewhat spoiling the stateliness of his obeisance. With a gesture she motioned him to rise, and he hastened to lead her to the ivory chair, all the while bowing level with his girdle. But his first words were of reproof.
 
-'Your Majesty! This was most unwise! The border is unsettled. Raids from the hills are incessant. You came with a large attendance?'
+"Your Majesty! This was most unwise! The border is unsettled. Raids from the hills are incessant. You came with a large attendance?"
 
-'An ample retinue followed me to Peshkhauri,' she answered. 'I lodged my people there and came on to the fort with my maid, Gitara.'
+"An ample retinue followed me to Peshkhauri," she answered. "I lodged my people there and came on to the fort with my maid, Gitara."
 
 Chunder Shan groaned in horror.
 
-'Devi! You do not understand the peril. An hour's ride from this spot the hills swarm with barbarians who make a profession of murder and rapine. Women have been stolen and men stabbed between the fort and the city. Peshkhauri is not like your southern provinces—'
+"Devi! You do not understand the peril. An hour's ride from this spot the hills swarm with barbarians who make a profession of murder and rapine. Women have been stolen and men stabbed between the fort and the city. Peshkhauri is not like your southern provinces—"
 
-'But I am here, and unharmed,' she interrupted with a trace of impatience. 'I showed my signet ring to the guard at the gate, and to the one outside your door, and they admitted me unannounced, not knowing me, but supposing me to be a secret courier from Ayodhya. Let us not now waste time.
+"But I am here, and unharmed," she interrupted with a trace of impatience. "I showed my signet ring to the guard at the gate, and to the one outside your door, and they admitted me unannounced, not knowing me, but supposing me to be a secret courier from Ayodhya. Let us not now waste time.
 
-'You have received no word from the chief of the barbarians?'
+"You have received no word from the chief of the barbarians?"
 
-'None save threats and curses, Devi. He is wary and suspicious. He deems it a trap, and perhaps he is not to be blamed. The Kshatriyas have not always kept their promises to the hill people.'
+"None save threats and curses, Devi. He is wary and suspicious. He deems it a trap, and perhaps he is not to be blamed. The Kshatriyas have not always kept their promises to the hill people."
 
-'He must be brought to terms!' broke in Yasmina, the knuckles of her clenched hands showing white.
+"He must be brought to terms!" broke in Yasmina, the knuckles of her clenched hands showing white.
 
-'I do not understand.' The governor shook his head. 'When I chanced to capture these seven hill-men, I reported their capture to the *wazam*, as is the custom, and then, before I could hang them, there came an order to hold them and communicate with their chief. This I did, but the man holds aloof, as I have said. These men are of the tribe of Afghulis, but he is a foreigner from the west, and he is called Conan. I have threatened to hang them tomorrow at dawn, if he does not come.'
+"I do not understand." The governor shook his head. "When I chanced to capture these seven hill-men, I reported their capture to the *wazam*, as is the custom, and then, before I could hang them, there came an order to hold them and communicate with their chief. This I did, but the man holds aloof, as I have said. These men are of the tribe of Afghulis, but he is a foreigner from the west, and he is called Conan. I have threatened to hang them tomorrow at dawn, if he does not come."
 
-'Good!' exclaimed the Devi. 'You have done well. And I will tell you why I have given these orders. My brother—' she faltered, choking, and the governor bowed his head, with the customary gesture of respect for a departed sovereign.
+"Good!" exclaimed the Devi. "You have done well. And I will tell you why I have given these orders. My brother—" she faltered, choking, and the governor bowed his head, with the customary gesture of respect for a departed sovereign.
 
-'The king of Vendhya was destroyed by magic,' she said at last. 'I have devoted my life to the destruction of his murderers. As he died he gave me a clue, and I have followed it. I have read the *Book of Skelos*, and talked with nameless hermits in the caves below Jhelai. I learned how, and by whom, he was destroyed. His enemies were the Black Seers of Mount Yimsha.'
+"The king of Vendhya was destroyed by magic," she said at last. "I have devoted my life to the destruction of his murderers. As he died he gave me a clue, and I have followed it. I have read the *Book of Skelos*, and talked with nameless hermits in the caves below Jhelai. I learned how, and by whom, he was destroyed. His enemies were the Black Seers of Mount Yimsha."
 
-'Asura!' whispered Chunder Shan, paling.
+"Asura!" whispered Chunder Shan, paling.
 
-Her eyes knifed him through. 'Do you fear them?'
+Her eyes knifed him through. "Do you fear them?"
 
-'Who does not, Your Majesty?' he replied. 'They are black devils, haunting the uninhabited hills beyond the Zhaibar. But the sages say that they seldom interfere in the lives of mortal men.'
+"Who does not, Your Majesty?" he replied. "They are black devils, haunting the uninhabited hills beyond the Zhaibar. But the sages say that they seldom interfere in the lives of mortal men."
 
-'Why they slew my brother I do not know,' she answered. 'But I have sworn on the altar of Asura to destroy them! And I need the aid of a man beyond the border. A Kshatriya army, unaided, would never reach Yimsha.'
+"Why they slew my brother I do not know," she answered. "But I have sworn on the altar of Asura to destroy them! And I need the aid of a man beyond the border. A Kshatriya army, unaided, would never reach Yimsha."
 
-'Aye,' muttered Chunder Shan. 'You speak the truth there. It would be fight every step of the way, with hairy hill-men hurling down boulders from every height, and rushing us with their long knives in every valley. The Turanians fought their way through the Himelians once, but how many returned to Khurusun? Few of those who escaped the swords of the Kshatriyas, after the king, your brother, defeated their host on the Jhumda River, ever saw Secunderam again.'
+"Aye," muttered Chunder Shan. "You speak the truth there. It would be fight every step of the way, with hairy hill-men hurling down boulders from every height, and rushing us with their long knives in every valley. The Turanians fought their way through the Himelians once, but how many returned to Khurusun? Few of those who escaped the swords of the Kshatriyas, after the king, your brother, defeated their host on the Jhumda River, ever saw Secunderam again."
 
-'And so I must control men across the border,' she said, 'men who know the way to Mount Yimsha—'
+"And so I must control men across the border," she said, "men who know the way to Mount Yimsha—"
 
-'But the tribes fear the Black Seers and shun the unholy mountain,' broke in the governor.
+"But the tribes fear the Black Seers and shun the unholy mountain," broke in the governor.
 
-'Does the chief, Conan, fear them?' she asked.
+"Does the chief, Conan, fear them?" she asked.
 
-'Well, as to that,' muttered the governor, 'I doubt if there is anything that devil fears.'
+"Well, as to that," muttered the governor, "I doubt if there is anything that devil fears."
 
-'So I have been told. Therefore he is the man I must deal with. He wishes the release of his seven men. Very well; their ransom shall be the heads of the Black Seers!' Her voice thrummed with hate as she uttered the last words, and her hands clenched at her sides. She looked an image of incarnate passion as she stood there with her head thrown high and her bosom heaving.
+"So I have been told. Therefore he is the man I must deal with. He wishes the release of his seven men. Very well; their ransom shall be the heads of the Black Seers!" Her voice thrummed with hate as she uttered the last words, and her hands clenched at her sides. She looked an image of incarnate passion as she stood there with her head thrown high and her bosom heaving.
 
 Again the governor knelt, for part of his wisdom was the knowledge that a woman in such an emotional tempest is as perilous as a blind cobra to any about her.
 
-'It shall be as you wish, Your Majesty.' Then as she presented a calmer aspect, he rose and ventured to drop a word of warning. 'I can not predict what the chief Conan's action will be. The tribesmen are always turbulent, and I have reason to believe that emissaries from the Turanians are stirring them up to raid our borders. As your majesty knows, the Turanians have established themselves in Secunderam and other northern cities, though the hill tribes remain unconquered. King Yezdigerd has long looked southward with greedy lust and perhaps is seeking to gain by treachery what he could not win by force of arms. I have thought that Conan might well be one of his spies.'
+"It shall be as you wish, Your Majesty." Then as she presented a calmer aspect, he rose and ventured to drop a word of warning. "I can not predict what the chief Conan's action will be. The tribesmen are always turbulent, and I have reason to believe that emissaries from the Turanians are stirring them up to raid our borders. As your majesty knows, the Turanians have established themselves in Secunderam and other northern cities, though the hill tribes remain unconquered. King Yezdigerd has long looked southward with greedy lust and perhaps is seeking to gain by treachery what he could not win by force of arms. I have thought that Conan might well be one of his spies."
 
-'We shall see,' she answered. 'If he loves his followers, he will be at the gates at dawn, to parley. I shall spend the night in the fortress. I came in disguise to Peshkhauri, and lodged my retinue at an inn instead of the palace. Besides my people, only yourself knows of my presence here.'
+"We shall see," she answered. "If he loves his followers, he will be at the gates at dawn, to parley. I shall spend the night in the fortress. I came in disguise to Peshkhauri, and lodged my retinue at an inn instead of the palace. Besides my people, only yourself knows of my presence here."
 
-'I shall escort you to your quarters, Your Majesty,' said the governor, and as they emerged from the doorway, he beckoned the warrior on guard there, and the man fell in behind them, spear held at salute.
+"I shall escort you to your quarters, Your Majesty," said the governor, and as they emerged from the doorway, he beckoned the warrior on guard there, and the man fell in behind them, spear held at salute.
 
 The maid waited, veiled like her mistress, outside the door, and the group traversed a wide, winding corridor, lighted by smoky torches, and reached the quarters reserved for visiting notables—generals and viceroys, mostly; none of the royal family had ever honored the fortress before. Chunder Shan had a perturbed feeling that the suite was not suitable to such an exalted personage as the Devi, and though she sought to make him feel at ease in her presence, he was glad when she dismissed him and he bowed himself out. All the menials of the fort had been summoned to serve his royal guest—though he did not divulge her identity—and he stationed a squad of spearmen before her doors, among them the warrior who had guarded his own chamber. In his preoccupation he forgot to replace the man.
 
@@ -152,63 +152,63 @@ The governor had not been long gone from her when Yasmina suddenly remembered so
 
 Chunder Shan, entering his chamber, closed the door and went to his table. There he took the letter he had been writing and tore it to bits. Scarcely had he finished when he heard something drop softly onto the parapet adjacent to the window. He looked up to see a figure loom briefly against the stars, and then a man dropped lightly into the room. The light glinted on a long sheen of steel in his hand.
 
-'Shhhh!' he warned. 'Don't make a noise, or I'll send the devil a henchman!'
+"Shhhh!" he warned. "Don't make a noise, or I'll send the devil a henchman!"
 
 The governor checked his motion toward the sword on the table. He was within reach of the yard-long Zhaibar knife that glittered in the intruder's fist, and he knew the desperate quickness of a hillman.
 
 The invader was a tall man, at once strong and supple. He was dressed like a hillman, but his dark features and blazing blue eyes did not match his garb. Chunder Shan had never seen a man like him; he was not an Easterner, but some barbarian from the West. But his aspect was as untamed and formidable as any of the hairy tribesmen who haunt the hills of Ghulistan.
 
-'You come like a thief in the night,' commented the governor, recovering some of his composure, although he remembered that there was no guard within call. Still, the hillman could not know that.
+"You come like a thief in the night," commented the governor, recovering some of his composure, although he remembered that there was no guard within call. Still, the hillman could not know that.
 
-'I climbed a bastion,' snarled the intruder. 'A guard thrust his head over the battlement in time for me to rap it with my knife-hilt.'
+"I climbed a bastion," snarled the intruder. "A guard thrust his head over the battlement in time for me to rap it with my knife-hilt."
 
-'You are Conan?'
+"You are Conan?"
 
-'Who else? You sent word into the hills that you wished for me to come and parley with you. Well, by Crom, I've come! Keep away from that table or I'll gut you.'
+"Who else? You sent word into the hills that you wished for me to come and parley with you. Well, by Crom, I've come! Keep away from that table or I'll gut you."
 
-'I merely wish to seat myself,' answered the governor, carefully sinking into the ivory chair, which he wheeled away from the table. Conan moved restlessly before him, glancing suspiciously at the door, thumbing the razor edge of his three-foot knife. He did not walk like an Afghuli, and was bluntly direct where the East is subtle.
+"I merely wish to seat myself," answered the governor, carefully sinking into the ivory chair, which he wheeled away from the table. Conan moved restlessly before him, glancing suspiciously at the door, thumbing the razor edge of his three-foot knife. He did not walk like an Afghuli, and was bluntly direct where the East is subtle.
 
-'You have seven of my men,' he said abruptly. 'You refused the ransom I offered. What the devil do you want?'
+"You have seven of my men," he said abruptly. "You refused the ransom I offered. What the devil do you want?"
 
-'Let us discuss terms,' answered Chunder Shan cautiously.
+"Let us discuss terms," answered Chunder Shan cautiously.
 
-'Terms?' There was a timbre of dangerous anger in his voice. 'What do you mean? Haven't I offered you gold?'
+"Terms?" There was a timbre of dangerous anger in his voice. "What do you mean? Haven't I offered you gold?"
 
 Chunder Shan laughed.
 
-'Gold? There is more gold in Peshkhauri than you ever saw.'
+"Gold? There is more gold in Peshkhauri than you ever saw."
 
-'You're a liar,' retorted Conan. 'I've seen the *suk* of the goldsmiths in Khurusun.'
+"You're a liar," retorted Conan. "I've seen the *suk* of the goldsmiths in Khurusun."
 
-'Well, more than an Afghuli ever saw,' amended Chunder Shan. 'And it is but a drop of all the treasure of Vendhya. Why should we desire gold? It would be more to our advantage to hang these seven thieves.'
+"Well, more than an Afghuli ever saw," amended Chunder Shan. "And it is but a drop of all the treasure of Vendhya. Why should we desire gold? It would be more to our advantage to hang these seven thieves."
 
 Conan ripped out a sulfurous oath and the long blade quivered in his grip as the muscles rose in ridges on his brown arm.
 
-'I'll split your head like a ripe melon!'
+"I'll split your head like a ripe melon!"
 
 A wild blue flame flickered in the hillman's eyes, but Chunder Shan shrugged his shoulders, though keeping an eye on the keen steel.
 
-'You can kill me easily, and probably escape over the wall afterward. But that would not save the seven tribesmen. My men would surely hang them. And these men are headmen among the Afghulis.'
+"You can kill me easily, and probably escape over the wall afterward. But that would not save the seven tribesmen. My men would surely hang them. And these men are headmen among the Afghulis."
 
-'I know it,' snarled Conan. 'The tribe is baying like wolves at my heels because I have not procured their release. Tell me in plain words what you want, because, by Crom! if there's no other way, I'll raise a horde and lead it to the very gates of Peshkhauri!'
+"I know it," snarled Conan. "The tribe is baying like wolves at my heels because I have not procured their release. Tell me in plain words what you want, because, by Crom! if there's no other way, I'll raise a horde and lead it to the very gates of Peshkhauri!"
 
 Looking at the man as he stood squarely, knife in fist and eyes glaring, Chunder Shan did not doubt that he was capable of it. The governor did not believe any hill-horde could take Peshkhauri, but he did not wish a devastated countryside.
 
-'There is a mission you must perform,' he said, choosing his words with as much care as if they had been razors. 'There—'
+"There is a mission you must perform," he said, choosing his words with as much care as if they had been razors. "There—"
 
 Conan had sprung back, wheeling to face the door at the same instant, lips asnarl. His barbarian ears had caught the quick tread of soft slippers outside the door. The next instant the door was thrown open and a slim, silk-robed form entered hastily, pulling the door shut—then stopping short at sight of the hillman.
 
 Chunder Shan sprang up, his heart jumping into his mouth.
 
-'Devi!' he cried involuntarily, losing his head momentarily in his fright.
+"Devi!" he cried involuntarily, losing his head momentarily in his fright.
 
-'*Devi!*' It was like an explosive echo from the hillman's lips. Chunder Shan saw recognition and intent flame up in the fierce blue eyes.
+"*Devi!*" It was like an explosive echo from the hillman's lips. Chunder Shan saw recognition and intent flame up in the fierce blue eyes.
 
-The governor shouted desperately and caught at his sword, but the hillman moved with the devastating speed of a hurricane. He sprang, knocked the governor sprawling with a savage blow of his knife-hilt, swept up the astounded Devi in one brawny arm and leaped for the window. Chunder Shan, struggling frantically to his feet, saw the man poise an instant on the sill in a flutter of silken skirts and white limbs that was his royal captive, and heard his fierce, exultant snarl: '*Now* dare to hang my men!' and then Conan leaped to the parapet and was gone. A wild scream floated back to the governor's ears.
+The governor shouted desperately and caught at his sword, but the hillman moved with the devastating speed of a hurricane. He sprang, knocked the governor sprawling with a savage blow of his knife-hilt, swept up the astounded Devi in one brawny arm and leaped for the window. Chunder Shan, struggling frantically to his feet, saw the man poise an instant on the sill in a flutter of silken skirts and white limbs that was his royal captive, and heard his fierce, exultant snarl: "*Now* dare to hang my men!" and then Conan leaped to the parapet and was gone. A wild scream floated back to the governor's ears.
 
-'Guard! *Guard!*' screamed the governor, struggling up and running drunkenly to the door. He tore it open and reeled into the hall. His shouts re-echoed along the corridors, and warriors came running, gaping to see the governor holding his broken head, from which the blood streamed.
+"Guard! *Guard!*" screamed the governor, struggling up and running drunkenly to the door. He tore it open and reeled into the hall. His shouts re-echoed along the corridors, and warriors came running, gaping to see the governor holding his broken head, from which the blood streamed.
 
-'Turn out the lancers!' he roared. 'There has been an abduction!' Even in his frenzy he had enough sense left to withhold the full truth. He stopped short as he heard a sudden drum of hoofs outside, a frantic scream and a wild yell of barbaric exultation.
+"Turn out the lancers!" he roared. "There has been an abduction!" Even in his frenzy he had enough sense left to withhold the full truth. He stopped short as he heard a sudden drum of hoofs outside, a frantic scream and a wild yell of barbaric exultation.
 
 Followed by the bewildered guardsmen, the governor raced for the stair. In the courtyard of the fort a force of lancers stood by saddled steeds, ready to ride at an instant's notice. Chunder Shan led his squadron flying after the fugitive, though his head swam so he had to hold with both hands to the saddle. He did not divulge the identity of the victim, but said merely that the noblewoman who had borne the royal signet-ring had been carried away by the chief of the Afghulis. The abductor was out of sight and hearing, but they knew the path he would strike—the road that runs straight to the mouth of the Zhaibar. There was no moon; peasant huts rose dimly in the starlight. Behind them fell away the grim bastion of the fort, and the towers of Peshkhauri. Ahead of them loomed the black walls of the Himelians.
 
@@ -220,51 +220,51 @@ In the confusion that reigned in the fortress while the guard was being turned o
 
 Almost instantly a head appeared at an embrasure and a rope came wriggling down the wall. She seized it, placed a foot in the loop at the end, and waved her arm. Then quickly and smoothly she was drawn up the sheer stone curtain. An instant later she scrambled over the merlons and stood up on a flat roof which covered a house that was built against the wall. There was an open trap there, and a man in a camel-hair robe who silently coiled the rope, not showing in any way the strain of hauling a full-grown woman up a forty-foot wall.
 
-'Where is Kerim Shah?' she gasped, panting after her long run.
+"Where is Kerim Shah?" she gasped, panting after her long run.
 
-'Asleep in the house below. You have news?'
+"Asleep in the house below. You have news?"
 
-'Conan has stolen the Devi out of the fortress and carried her away into the hills!' She blurted out her news in a rush, the words stumbling over one another.
+"Conan has stolen the Devi out of the fortress and carried her away into the hills!" She blurted out her news in a rush, the words stumbling over one another.
 
-Khemsa showed no emotion, but merely nodded his turbaned head. 'Kerim Shah will be glad to hear that,' he said.
+Khemsa showed no emotion, but merely nodded his turbaned head. "Kerim Shah will be glad to hear that," he said.
 
-'Wait!' The girl threw her supple arms about his neck. She was panting hard, but not only from exertion. Her eyes blazed like black jewels in the starlight. Her upturned face was close to Khemsa's, but though he submitted to her embrace, he did not return it.
+"Wait!" The girl threw her supple arms about his neck. She was panting hard, but not only from exertion. Her eyes blazed like black jewels in the starlight. Her upturned face was close to Khemsa's, but though he submitted to her embrace, he did not return it.
 
-'Do not tell the Hyrkanian!' she panted. 'Let us use this knowledge ourselves! The governor has gone into the hills with his riders, but he might as well chase a ghost. He has not told anyone that it was the Devi who was kidnapped. None in Peshkhauri or the fort knows it except us.'
+"Do not tell the Hyrkanian!" she panted. "Let us use this knowledge ourselves! The governor has gone into the hills with his riders, but he might as well chase a ghost. He has not told anyone that it was the Devi who was kidnapped. None in Peshkhauri or the fort knows it except us."
 
-'But what good does it do us?' the man expostulated. 'My masters sent me with Kerim Shah to aid him in every way—'
+"But what good does it do us?" the man expostulated. "My masters sent me with Kerim Shah to aid him in every way—"
 
-'Aid yourself!' she cried fiercely. 'Shake off your yoke!'
+"Aid yourself!" she cried fiercely. "Shake off your yoke!"
 
-'You mean—disobey my masters?' he gasped, and she felt his whole body turn cold under her arms.
+"You mean—disobey my masters?" he gasped, and she felt his whole body turn cold under her arms.
 
-'Aye!' she shook him in the fury of her emotion. 'You too are a magician! Why will you be a slave, using your powers only to elevate others? Use your arts for yourself!'
+"Aye!" she shook him in the fury of her emotion. "You too are a magician! Why will you be a slave, using your powers only to elevate others? Use your arts for yourself!"
 
-'That is forbidden!' He was shaking as if with an ague. 'I am not one of the Black Circle. Only by the command of the masters do I dare to use the knowledge they have taught me.'
+"That is forbidden!" He was shaking as if with an ague. "I am not one of the Black Circle. Only by the command of the masters do I dare to use the knowledge they have taught me."
 
-'But you *can* use it!' she argued passionately. 'Do as I beg you! Of course Conan has taken the Devi to hold as hostage against the seven tribesmen in the governor's prison. Destroy them, so Chunder Shan can not use them to buy back the Devi. Then let us go into the mountains and take her from the Afghulis. They can not stand against your sorcery with their knives. The treasure of the Vendhyan kings will be ours as ransom—and then when we have it in our hands, we can trick them, and sell her to the king of Turan. We shall have wealth beyond our maddest dreams. With it we can buy warriors. We will take Khorbhul, oust the Turanians from the hills, and send our hosts southward; become king and queen of an empire!'
+"But you *can* use it!" she argued passionately. "Do as I beg you! Of course Conan has taken the Devi to hold as hostage against the seven tribesmen in the governor's prison. Destroy them, so Chunder Shan can not use them to buy back the Devi. Then let us go into the mountains and take her from the Afghulis. They can not stand against your sorcery with their knives. The treasure of the Vendhyan kings will be ours as ransom—and then when we have it in our hands, we can trick them, and sell her to the king of Turan. We shall have wealth beyond our maddest dreams. With it we can buy warriors. We will take Khorbhul, oust the Turanians from the hills, and send our hosts southward; become king and queen of an empire!"
 
 Khemsa too was panting, shaking like a leaf in her grasp; his face showed gray in the starlight, beaded with great drops of perspiration.
 
-'I love you!' she cried fiercely, writhing her body against his, almost strangling him in her wild embrace, shaking him in her abandon. 'I will make a king of you! For love of you I betrayed my mistress; for love of me betray your masters! Why fear the Black Seers? By your love for me you have broken one of their laws already! Break the rest! You are as strong as they!'
+"I love you!" she cried fiercely, writhing her body against his, almost strangling him in her wild embrace, shaking him in her abandon. "I will make a king of you! For love of you I betrayed my mistress; for love of me betray your masters! Why fear the Black Seers? By your love for me you have broken one of their laws already! Break the rest! You are as strong as they!"
 
 A man of ice could not have withstood the searing heat of her passion and fury. With an inarticulate cry he crushed her to him, bending her backward and showering gasping kisses on her eyes, face and lips.
 
-'I'll do it!' His voice was thick with laboring emotions. He staggered like a drunken man. 'The arts they have taught me shall work for me, not for my masters. We shall be rulers of the world—of the world—'
+"I'll do it!" His voice was thick with laboring emotions. He staggered like a drunken man. "The arts they have taught me shall work for me, not for my masters. We shall be rulers of the world—of the world—"
 
-'Come then!' Twisting lithely out of his embrace, she seized his hand and led him toward the trap-door. 'First we must make sure that the governor does not exchange those seven Afghulis for the Devi.'
+"Come then!" Twisting lithely out of his embrace, she seized his hand and led him toward the trap-door. "First we must make sure that the governor does not exchange those seven Afghulis for the Devi."
 
 He moved like a man in a daze, until they had descended a ladder and she paused in the chamber below. Kerim Shah lay on a couch motionless, an arm across his face as though to shield his sleeping eyes from the soft light of a brass lamp. She plucked Khemsa's arm and made a quick gesture across her own throat. Khemsa lifted his hand; then his expression changed and he drew away.
 
-'I have eaten his salt,' he muttered. 'Besides, he can not interfere with us.'
+"I have eaten his salt," he muttered. "Besides, he can not interfere with us."
 
 He led the girl through a door that opened on a winding stair. After their soft tread had faded into silence, the man on the couch sat up. Kerim Shah wiped the sweat from his face. A knife-thrust he did not dread, but he feared Khemsa as a man fears a poisonous reptile.
 
-'People who plot on roofs should remember to lower their voices,' he muttered. 'But as Khemsa has turned against his masters, and as he was my only contact between them, I can count on their aid no longer. From now on I play the game in my own way.'
+"People who plot on roofs should remember to lower their voices," he muttered. "But as Khemsa has turned against his masters, and as he was my only contact between them, I can count on their aid no longer. From now on I play the game in my own way."
 
 Rising to his feet he went quickly to a table, drew pen and parchment from his girdle and scribbled a few succinct lines.
 
-> 'To Khosru Khan, governor of Secunderam: the Cimmerian Conan has carried the Devi Yasmina to the villages of the Afghulis. It is an opportunity to get the Devi into our hands, as the king has so long desired. Send three thousand horsemen at once. I will meet them in the valley of Gurashah with native guides.'
+> "To Khosru Khan, governor of Secunderam: the Cimmerian Conan has carried the Devi Yasmina to the villages of the Afghulis. It is an opportunity to get the Devi into our hands, as the king has so long desired. Send three thousand horsemen at once. I will meet them in the valley of Gurashah with native guides."
 >
 
 And he signed it with a name that was not in the least like Kerim Shah.
@@ -275,23 +275,23 @@ The prison quarters of Peshkhauri were separated from the rest of the city by a 
 
 This warrior, leaning on his spear, and yawning from time to time, started suddenly to his feet. He had not thought he had dozed, but a man was standing before him, a man he had not heard approach. The man wore a camel-hair robe and a green turban. In the flickering light of the cresset his features were shadowy, but a pair of lambent eyes shone surprizingly in the lurid glow.
 
-'Who comes?' demanded the warrior, presenting his spear. 'Who are you?'
+"Who comes?" demanded the warrior, presenting his spear. "Who are you?"
 
 The stranger did not seem perturbed, though the spear-point touched his bosom. His eyes held the warrior's with strange intensity.
 
-'What are you obliged to do?' he asked, strangely.
+"What are you obliged to do?" he asked, strangely.
 
-'To guard the gate!' The warrior spoke thickly and mechanically; he stood rigid as a statue, his eyes slowly glazing.
+"To guard the gate!" The warrior spoke thickly and mechanically; he stood rigid as a statue, his eyes slowly glazing.
 
-'You lie! You are obliged to obey me! You have looked into my eyes, and your soul is no longer your own. Open that door!'
+"You lie! You are obliged to obey me! You have looked into my eyes, and your soul is no longer your own. Open that door!"
 
 Stiffly, with the wooden features of an image, the guard wheeled about, drew a great key from his girdle, turned it in the massive lock and swung open the door. Then he stood at attention, his unseeing stare straight ahead of him.
 
 A woman glided from the shadows and laid an eager hand on the mesmerist's arm.
 
-'Bid him fetch us horses, Khemsa,' she whispered.
+"Bid him fetch us horses, Khemsa," she whispered.
 
-'No need of that,' answered the Rakhsha. Lifting his voice slightly he spoke to the guardsman. 'I have no more use for you. Kill yourself!'
+"No need of that," answered the Rakhsha. Lifting his voice slightly he spoke to the guardsman. "I have no more use for you. Kill yourself!"
 
 Like a man in a trance the warrior thrust the butt of his spear against the base of the wall, and placed the keen head against his body, just below the ribs. Then slowly, stolidly, he leaned against it with all his weight, so that it transfixed his body and came out between his shoulders. Sliding down the shaft he lay still, the spear jutting above him its full length, like a horrible stalk growing out of his back.
 
@@ -307,7 +307,7 @@ The fire died out but the glow remained, a quivering ball of lambent green that 
 
 Khemsa touched the girl's arm, as she stood with parted lips and dilated eyes. Mechanically she turned away with him, looking back over her shoulder. Already the mist was thinning; close to the bars she saw a pair of sandalled feet, the toes turned upward—she glimpsed the indistinct outlines of seven still, prostrate shapes.
 
-'And now for a steed swifter than the fastest horse ever bred in a mortal stable,' Khemsa was saying. 'We will be in Afghulistan before dawn.'
+"And now for a steed swifter than the fastest horse ever bred in a mortal stable," Khemsa was saying. "We will be in Afghulistan before dawn."
 
 ---
 
@@ -317,15 +317,15 @@ Yasmina Devi could never clearly remember the details of her abduction. The unex
 
 As the girl's mind cleared, her first sensations were furious rage and shame. She was appalled. The rulers of the golden kingdoms south of the Himelians were considered little short of divine; and she was the Devi of Vendhya! Fright was submerged in regal wrath. She cried out furiously and began struggling. She, Yasmina, to be carried on the saddle-bow of a hill chief, like a common wench of the market-place! He merely hardened his massive thews slightly against her writhings, and for the first time in her life she experienced the coercion of superior physical strength. His arms felt like iron about her slender limbs. He glanced down at her and grinned hugely. His teeth glimmered whitely in the starlight. The reins lay loose on the stallion's flowing mane, and every thew and fiber of the great beast strained as he hurtled along the boulder-strewn trail. But Conan sat easily, almost carelessly, in the saddle, riding like a centaur.
 
-'You hill-bred dog!' she panted, quivering with the impact of shame, anger, and the realization of helplessness. 'You dare—you *dare*! Your life shall pay for this! Where are you taking me?'
+"You hill-bred dog!" she panted, quivering with the impact of shame, anger, and the realization of helplessness. "You dare—you *dare*! Your life shall pay for this! Where are you taking me?"
 
-'To the villages of Afghulistan,' he answered, casting a glance over his shoulder.
+"To the villages of Afghulistan," he answered, casting a glance over his shoulder.
 
 Behind them, beyond the slopes they had traversed, torches were tossing on the walls of the fortress, and he glimpsed a flare of light that meant the great gate had been opened. And he laughed, a deep-throated boom gusty as the hill wind.
 
-'The governor has sent his riders after us,' he laughed. 'By Crom, we will lead him a merry chase! What do you think, Devi—will they pay seven lives for a Kshatriya princess?'
+"The governor has sent his riders after us," he laughed. "By Crom, we will lead him a merry chase! What do you think, Devi—will they pay seven lives for a Kshatriya princess?"
 
-'They will send an army to hang you and your spawn of devils,' she promised him with conviction.
+"They will send an army to hang you and your spawn of devils," she promised him with conviction.
 
 He laughed gustily and shifted her to a more comfortable position in his arms. But she took this as a fresh outrage, and renewed her vain struggle, until she saw that her efforts were only amusing him. Besides, her light silken garments, floating on the wind, were being outrageously disarranged by her struggles. She concluded that a scornful submission was the better part of dignity, and lapsed into a smoldering quiescence.
 
@@ -337,37 +337,37 @@ As the horse fell he leaped clear, holding the girl aloft to guard her from stri
 
 Yasmina, confused by the rapidity of events, not quite sure just what had happened, saw a vague shape rush out of the darkness, bare feet slapping softly on the rock, ragged garments whipping on the wind of his haste. She glimpsed the flicker of steel, heard the lightning crack of stroke, parry and counter-stroke, and the crunch of bone as Conan's long knife split the other's skull.
 
-Conan sprang back, crouching in the shelter of the rocks. Out in the night men were moving and a stentorian voice roared: 'What, you dogs! Do you flinch? In, curse you, and take them!'
+Conan sprang back, crouching in the shelter of the rocks. Out in the night men were moving and a stentorian voice roared: "What, you dogs! Do you flinch? In, curse you, and take them!"
 
 Conan started, peered into the darkness and lifted his voice.
 
-'Yar Afzal! Is it you?'
+"Yar Afzal! Is it you?"
 
 There sounded a startled imprecation, and the voice called warily.
 
-'Conan? Is it you, Conan?'
+"Conan? Is it you, Conan?"
 
-'Aye!' the Cimmerian laughed. 'Come forth, you old war-dog. I've slain one of your men.'
+"Aye!" the Cimmerian laughed. "Come forth, you old war-dog. I've slain one of your men."
 
 There was movement among the rocks, a light flared dimly, and then a flame appeared and came bobbing toward him, and as it approached, a fierce bearded countenance grew out of the darkness. The man who carried it held it high, thrust forward, and craned his neck to peer among the boulders it lighted; the other hand gripped a great curved tulwar. Conan stepped forward, sheathing his knife, and the other roared a greeting.
 
-'Aye, it is Conan! Come out of your rocks, dogs! It is Conan!'
+"Aye, it is Conan! Come out of your rocks, dogs! It is Conan!"
 
 Others pressed into the wavering circle of light—wild, ragged, bearded men, with eyes like wolves, and long blades in their fists. They did not see Yasmina, for she was hidden by Conan's massive body. But peeping from her covert, she knew icy fear for the first time that night. These men were more like wolves than human beings.
 
-'What are you hunting in the Zhaibar by night, Yar Afzal?' Conan demanded of the burly chief, who grinned like a bearded ghoul.
+"What are you hunting in the Zhaibar by night, Yar Afzal?" Conan demanded of the burly chief, who grinned like a bearded ghoul.
 
-'Who knows what might come up the Pass after dark? We Wazulis are night-hawks. But what of you, Conan?'
+"Who knows what might come up the Pass after dark? We Wazulis are night-hawks. But what of you, Conan?"
 
-'I have a prisoner,' answered the Cimmerian. And moving aside he disclosed the cowering girl. Reaching a long arm into the crevice he drew her trembling forth.
+"I have a prisoner," answered the Cimmerian. And moving aside he disclosed the cowering girl. Reaching a long arm into the crevice he drew her trembling forth.
 
 Her imperious bearing was gone. She stared timidly at the ring of bearded faces that hemmed her in, and was grateful for the strong arm that clasped her possessively. The torch was thrust close to her, and there was a sucking intake of breath about the ring.
 
-'She is my captive,' Conan warned, glancing pointedly at the feet of the man he had slain, just visible within the ring of light. 'I was taking her to Afghulistan, but now you have slain my horse, and the Kshatriyas are close behind me.'
+"She is my captive," Conan warned, glancing pointedly at the feet of the man he had slain, just visible within the ring of light. "I was taking her to Afghulistan, but now you have slain my horse, and the Kshatriyas are close behind me."
 
-'Come with us to my village,' suggested Yar Afzal. 'We have horses hidden in the gorge. They can never follow us in the darkness. They are close behind you, you say?'
+"Come with us to my village," suggested Yar Afzal. "We have horses hidden in the gorge. They can never follow us in the darkness. They are close behind you, you say?"
 
-'So close that I hear now the clink of their hoofs on the flint,' answered Conan grimly.
+"So close that I hear now the clink of their hoofs on the flint," answered Conan grimly.
 
 Instantly there was movement; the torch was dashed out and the ragged shapes melted like phantoms into the darkness. Conan swept up the Devi in his arms, and she did not resist. The rocky ground hurt her slim feet in their soft slippers and she felt very small and helpless in that brutish, primordial blackness among those colossal, nighted crags.
 
@@ -379,9 +379,9 @@ Yasmina, snuggled warmly in her captor's arms, grew drowsy in spite of herself. 
 
 She was vaguely aware when the motion ceased and she was lifted down and carried a few steps. Then she was laid down on something soft and rustling, and something—a folded coat perhaps—was thrust under her head, and the cloak in which she was wrapped was carefully tucked about her. She heard Yar Afzal laugh.
 
-'A rare prize, Conan; fit mate for a chief of the Afghulis.'
+"A rare prize, Conan; fit mate for a chief of the Afghulis."
 
-'Not for me,' came Conan's answering rumble. 'This wench will buy the lives of my seven headmen, blast their souls.'
+"Not for me," came Conan's answering rumble. "This wench will buy the lives of my seven headmen, blast their souls."
 
 That was the last she heard as she sank into dreamless slumber.
 
@@ -389,11 +389,11 @@ She slept while armed men rode through the dark hills, and the fate of kingdoms 
 
 A band of these sat gaunt horses in the black pitmouth of a gorge as the hurrying hoofs swept past. Their leader, a well-built man in a helmet and gilt-braided cloak, held up his hand warningly, until the riders had sped on. Then he laughed softly.
 
-'They must have lost the trail! Or else they have found that Conan has already reached the Afghuli villages. It will take many riders to smoke out that hive. There will be squadrons riding up the Zhaibar by dawn.'
+"They must have lost the trail! Or else they have found that Conan has already reached the Afghuli villages. It will take many riders to smoke out that hive. There will be squadrons riding up the Zhaibar by dawn."
 
-'If there is fighting in the hills there will be looting,' muttered a voice behind him, in the dialect of the Irakzai.
+"If there is fighting in the hills there will be looting," muttered a voice behind him, in the dialect of the Irakzai.
 
-'There will be looting,' answered the man with the helmet. 'But first it is our business to reach the valley of Gurashah and await the riders that will be galloping southward from Secunderam before daylight.'
+"There will be looting," answered the man with the helmet. "But first it is our business to reach the valley of Gurashah and await the riders that will be galloping southward from Secunderam before daylight."
 
 He lifted his reins and rode out of the defile, his men falling in behind him—thirty ragged phantoms in the starlight.
 
@@ -409,79 +409,79 @@ At the other end of the room a girl in the vest and baggy trousers of a hill-wom
 
 The hill-girl glanced at Yasmina over her shoulder, displaying a bold, handsome face, and then continued her cooking. Voices boomed outside; then the door was kicked open, and Conan strode in. He looked more enormous than ever with the morning sunlight behind him, and Yasmina noted some details that had escaped her the night before. His garments were clean and not ragged. The broad Bakhariot girdle that supported his knife in its ornamented scabbard would have matched the robes of a prince, and there was a glint of fine Turanian mail under his shirt.
 
-'Your captive is awake, Conan,' said the Wazuli girl, and he grunted, strode up to the fire and swept the strips of mutton off into a stone dish.
+"Your captive is awake, Conan," said the Wazuli girl, and he grunted, strode up to the fire and swept the strips of mutton off into a stone dish.
 
 The squatting girl laughed up at him, with some spicy jest, and he grinned wolfishly, and hooking a toe under her haunches, tumbled her sprawling onto the floor. She seemed to derive considerable amusement from this bit of rough horse-play, but Conan paid no more heed to her. Producing a great hunk of bread from somewhere, with a copper jug of wine, he carried the lot to Yasmina, who had risen from her pallet and was regarding him doubtfully.
 
-'Rough fare for a Devi, girl, but our best,' he grunted. 'It will fill your belly, at least.'
+"Rough fare for a Devi, girl, but our best," he grunted. "It will fill your belly, at least."
 
 He set the platter on the floor, and she was suddenly aware of a ravenous hunger. Making no comment, she seated herself cross-legged on the floor, and taking the dish in her lap, she began to eat, using her fingers, which were all she had in the way of table utensils. After all, adaptability is one of the tests of true aristocracy. Conan stood looking down at her, his thumbs hooked in his girdle. He never sat cross-legged, after the Eastern fashion.
 
-'Where am I?' she asked abruptly.
+"Where am I?" she asked abruptly.
 
-'In the hut of Yar Afzal, the chief of the Khurum Wazulis,' he answered. 'Afghulistan lies a good many miles farther on to the west. We'll hide here awhile. The Kshatriyas are beating up the hills for you—several of their squads have been cut up by the tribes already.'
+"In the hut of Yar Afzal, the chief of the Khurum Wazulis," he answered. "Afghulistan lies a good many miles farther on to the west. We'll hide here awhile. The Kshatriyas are beating up the hills for you—several of their squads have been cut up by the tribes already."
 
-'What are you going to do?' she asked.
+"What are you going to do?" she asked.
 
-'Keep you until Chunder Shan is willing to trade back my seven cow-thieves,' he grunted. 'Women of the Wazulis are crushing ink out of *shoki* leaves, and after a while you can write a letter to the governor.'
+"Keep you until Chunder Shan is willing to trade back my seven cow-thieves," he grunted. "Women of the Wazulis are crushing ink out of *shoki* leaves, and after a while you can write a letter to the governor."
 
 A touch of her old imperious wrath shook her, as she thought how maddeningly her plans had gone awry, leaving her captive of the very man she had plotted to get into her power. She flung down the dish, with the remnants of her meal, and sprang to her feet, tense with anger.
 
-'I will not write a letter! If you do not take me back, they will hang your seven men, and a thousand more besides!'
+"I will not write a letter! If you do not take me back, they will hang your seven men, and a thousand more besides!"
 
 The Wazuli girl laughed mockingly, Conan scowled, and then the door opened and Yar Afzal came swaggering in. The Wazuli chief was as tall as Conan, and of greater girth, but he looked fat and slow beside the hard compactness of the Cimmerian. He plucked his red-stained beard and stared meaningly at the Wazuli girl, and that wench rose and scurried out without delay. Then Yar Afzal turned to his guest.
 
-'The damnable people murmur, Conan,' quoth he. 'They wish me to murder you and take the girl to hold for ransom. They say that anyone can tell by her garments that she is a noble lady. They say why should the Afghuli dogs profit by her, when it is the people who take the risk of guarding her?'
+"The damnable people murmur, Conan," quoth he. "They wish me to murder you and take the girl to hold for ransom. They say that anyone can tell by her garments that she is a noble lady. They say why should the Afghuli dogs profit by her, when it is the people who take the risk of guarding her?"
 
-'Lend me your horse,' said Conan. 'I'll take her and go.'
+"Lend me your horse," said Conan. "I'll take her and go."
 
-'Pish!' boomed Yar Afzal. 'Do you think I can't handle my own people? I'll have them dancing in their shirts if they cross me! They don't love you—or any other outlander—but you saved my life once, and I will not forget. Come out, though, Conan; a scout has returned.'
+"Pish!" boomed Yar Afzal. "Do you think I can't handle my own people? I'll have them dancing in their shirts if they cross me! They don't love you—or any other outlander—but you saved my life once, and I will not forget. Come out, though, Conan; a scout has returned."
 
 Conan hitched at his girdle and followed the chief outside. They closed the door after them, and Yasmina peeped through a loop-hole. She looked out on a level space before the hut. At the farther end of that space there was a cluster of mud and stone huts, and she saw naked children playing among the boulders, and the slim erect women of the hills going about their tasks.
 
 Directly before the chief's hut a circle of hairy, ragged men squatted, facing the door. Conan and Yar Afzal stood a few paces before the door, and between them and the ring of warriors another man sat cross-legged. This one was addressing his chief in the harsh accents of the Wazuli which Yasmina could scarcely understand, though as part of her royal education she had been taught the languages of Iranistan and the kindred tongues of Ghulistan.
 
-'I talked with a Dagozai who saw the riders last night,' said the scout. 'He was lurking near when they came to the spot where we ambushed the lord Conan. He overheard their speech. Chunder Shan was with them. They found the dead horse, and one of the men recognized it as Conan's. Then they found the man Conan slew, and knew him for a Wazuli. It seemed to them that Conan had been slain and the girl taken by the Wazuli; so they turned aside from their purpose of following to Afghulistan. But they did not know from which village the dead man was come, and we had left no trail a Kshatriya could follow.
+"I talked with a Dagozai who saw the riders last night," said the scout. "He was lurking near when they came to the spot where we ambushed the lord Conan. He overheard their speech. Chunder Shan was with them. They found the dead horse, and one of the men recognized it as Conan's. Then they found the man Conan slew, and knew him for a Wazuli. It seemed to them that Conan had been slain and the girl taken by the Wazuli; so they turned aside from their purpose of following to Afghulistan. But they did not know from which village the dead man was come, and we had left no trail a Kshatriya could follow.
 
-'So they rode to the nearest Wazuli village, which was the village of Jugra, and burnt it and slew many of the people. But the men of Khojur came upon them in darkness and slew some of them, and wounded the governor. So the survivors retired down the Zhaibar in the darkness before dawn, but they returned with reinforcements before sunrise, and there has been skirmishing and fighting in the hills all morning. It is said that a great army is being raised to sweep the hills about the Zhaibar. The tribes are whetting their knives and laying ambushes in every pass from here to Gurashah valley. Moreover, Kerim Shah has returned to the hills.'
+"So they rode to the nearest Wazuli village, which was the village of Jugra, and burnt it and slew many of the people. But the men of Khojur came upon them in darkness and slew some of them, and wounded the governor. So the survivors retired down the Zhaibar in the darkness before dawn, but they returned with reinforcements before sunrise, and there has been skirmishing and fighting in the hills all morning. It is said that a great army is being raised to sweep the hills about the Zhaibar. The tribes are whetting their knives and laying ambushes in every pass from here to Gurashah valley. Moreover, Kerim Shah has returned to the hills."
 
 A grunt went around the circle, and Yasmina leaned closer to the loop-hole at the name she had begun to mistrust.
 
-'Where went he?' demanded Yar Afzal.
+"Where went he?" demanded Yar Afzal.
 
-'The Dagozai did not know; with him were thirty Irakzai of the lower villages. They rode into the hills and disappeared.'
+"The Dagozai did not know; with him were thirty Irakzai of the lower villages. They rode into the hills and disappeared."
 
-'These Irakzai are jackals that follow a lion for crumbs,' growled Yar Afzal. 'They have been lapping up the coins Kerim Shah scatters among the border tribes to buy men like horses. I like him not, for all he is our kinsman from Iranistan.'
+"These Irakzai are jackals that follow a lion for crumbs," growled Yar Afzal. "They have been lapping up the coins Kerim Shah scatters among the border tribes to buy men like horses. I like him not, for all he is our kinsman from Iranistan."
 
-'He's not even that,' said Conan. 'I know him of old. He's an Hyrkanian, a spy of Yezdigerd's. If I catch him I'll hang his hide to a tamarisk.'
+"He's not even that," said Conan. "I know him of old. He's an Hyrkanian, a spy of Yezdigerd's. If I catch him I'll hang his hide to a tamarisk."
 
-'But the Kshatriyas!' clamored the men in the semicircle. 'Are we to squat on our haunches until they smoke us out? They will learn at last in which Wazuli village the wench is held. We are not loved by the Zhaibari; they will help the Kshatriyas hunt us out.'
+"But the Kshatriyas!" clamored the men in the semicircle. "Are we to squat on our haunches until they smoke us out? They will learn at last in which Wazuli village the wench is held. We are not loved by the Zhaibari; they will help the Kshatriyas hunt us out."
 
-'Let them come,' grunted Yar Afzal. 'We can hold the defiles against a host.'
+"Let them come," grunted Yar Afzal. "We can hold the defiles against a host."
 
 One of the men leaped up and shook his fist at Conan.
 
-'Are we to take all the risks while he reaps the rewards?' he howled. 'Are we to fight his battles for him?'
+"Are we to take all the risks while he reaps the rewards?" he howled. "Are we to fight his battles for him?"
 
 With a stride Conan reached him and bent slightly to stare full into his hairy face. The Cimmerian had not drawn his long knife, but his left hand grasped the scabbard, jutting the hilt suggestively forward.
 
-'I ask no man to fight my battles,' he said softly. 'Draw your blade if you dare, you yapping dog!'
+"I ask no man to fight my battles," he said softly. "Draw your blade if you dare, you yapping dog!"
 
 The Wazuli started back, snarling like a cat.
 
-'Dare to touch me and here are fifty men to rend you apart!' he screeched.
+"Dare to touch me and here are fifty men to rend you apart!" he screeched.
 
-'What!' roared Yar Afzal, his face purpling with wrath. His whiskers bristled, his belly swelled with his rage. 'Are you chief of Khurum? Do the Wazulis take orders from Yar Afzal, or from a low-bred cur?'
+"What!" roared Yar Afzal, his face purpling with wrath. His whiskers bristled, his belly swelled with his rage. "Are you chief of Khurum? Do the Wazulis take orders from Yar Afzal, or from a low-bred cur?"
 
 The man cringed before his invincible chief, and Yar Afzal, striding up to him, seized him by the throat and choked him until his face was turning black. Then he hurled the man savagely against the ground and stood over him with his tulwar in his hand.
 
-'Is there any who questions my authority?' he roared, and his warriors looked down sullenly as his bellicose glare swept their semicircle. Yar Afzal grunted scornfully and sheathed his weapon with a gesture that was the apex of insult. Then he kicked the fallen agitator with a concentrated vindictiveness that brought howls from his victim.
+"Is there any who questions my authority?" he roared, and his warriors looked down sullenly as his bellicose glare swept their semicircle. Yar Afzal grunted scornfully and sheathed his weapon with a gesture that was the apex of insult. Then he kicked the fallen agitator with a concentrated vindictiveness that brought howls from his victim.
 
-'Get down the valley to the watchers on the heights and bring word if they have seen anything,' commanded Yar Afzal, and the man went, shaking with fear and grinding his teeth with fury.
+"Get down the valley to the watchers on the heights and bring word if they have seen anything," commanded Yar Afzal, and the man went, shaking with fear and grinding his teeth with fury.
 
 Yar Afzal then seated himself ponderously on a stone, growling in his beard. Conan stood near him, legs braced apart, thumbs hooked in his girdle, narrowly watching the assembled warriors. They stared at him sullenly, not daring to brave Yar Afzal's fury, but hating the foreigner as only a hillman can hate.
 
-'Now listen to me, you sons of nameless dogs, while I tell you what the lord Conan and I have planned to fool the Kshatriyas.' The boom of Yar Afzal's bull-like voice followed the discomfited warrior as he slunk away from the assembly.
+"Now listen to me, you sons of nameless dogs, while I tell you what the lord Conan and I have planned to fool the Kshatriyas." The boom of Yar Afzal's bull-like voice followed the discomfited warrior as he slunk away from the assembly.
 
 The man passed by the cluster of huts, where women who had seen his defeat laughed at him and called stinging comments, and hastened on along the trail that wound among spurs and rocks toward the valley head.
 
@@ -491,31 +491,31 @@ The Wazuli's mouth gaped for a yell, and his hand leaped to his knife-hilt. But 
 
 For minutes the scene held motionless; then the man on the ledge drew a cryptic symbol in the dust on the rock with his forefinger. The Wazuli did not see him place anything within the compass of that emblem, but presently something gleamed there—a round, shiny black ball that looked like polished jade. The man in the green turban took this up and tossed it to the Wazuli, who mechanically caught it.
 
-'Carry this to Yar Afzal,' he said, and the Wazuli turned like an automaton and went back along the path, holding the black jade ball in his outstretched hand. He did not even turn his head to the renewed jeers of the women as he passed the huts. He did not seem to hear.
+"Carry this to Yar Afzal," he said, and the Wazuli turned like an automaton and went back along the path, holding the black jade ball in his outstretched hand. He did not even turn his head to the renewed jeers of the women as he passed the huts. He did not seem to hear.
 
 The man on the ledge gazed after him with a cryptic smile. A girl's head rose above the rim of the ledge and she looked at him with admiration and a touch of fear that had not been present the night before.
 
-'Why did you do that?' she asked.
+"Why did you do that?" she asked.
 
 He ran his fingers through her dark locks caressingly.
 
-'Are you still dizzy from your flight on the horse-of-air, that you doubt my wisdom?' he laughed. 'As long as Yar Afzal lives, Conan will bide safe among the Wazuli fighting-men. Their knives are sharp, and there are many of them. What I plot will be safer, even for me, than to seek to slay him and take her from among them. It takes no wizard to predict what the Wazulis will do, and what Conan will do, when my victim hands the globe of Yezud to the chief of Khurum.'
+"Are you still dizzy from your flight on the horse-of-air, that you doubt my wisdom?" he laughed. "As long as Yar Afzal lives, Conan will bide safe among the Wazuli fighting-men. Their knives are sharp, and there are many of them. What I plot will be safer, even for me, than to seek to slay him and take her from among them. It takes no wizard to predict what the Wazulis will do, and what Conan will do, when my victim hands the globe of Yezud to the chief of Khurum."
 
 Back before the hut, Yar Afzal halted in the midst of some tirade, surprized and displeased to see the man he had sent up the valley, pushing his way through the throng.
 
-'I bade you go to the watchers!' the chief bellowed. 'You have not had time to come from them.'
+"I bade you go to the watchers!" the chief bellowed. "You have not had time to come from them."
 
 The other did not reply; he stood woodenly, staring vacantly into the chief's face, his palm outstretched holding the jade ball. Conan, looking over Yar Afzal's shoulder, murmured something and reached to touch the chief's arm, but as he did so, Yar Afzal, in a paroxysm of anger, struck the man with his clenched fist and felled him like an ox. As he fell, the jade sphere rolled to Yar Afzal's foot, and the chief, seeming to see it for the first time, bent and picked it up. The men, staring perplexedly at their senseless comrade, saw their chief bend, but they did not see what he picked up from the ground.
 
 Yar Afzal straightened, glanced at the jade, and made a motion to thrust it into his girdle.
 
-'Carry that fool to his hut,' he growled. 'He has the look of a lotus-eater. He returned me a blank stare. I—*aie!*'
+"Carry that fool to his hut," he growled. "He has the look of a lotus-eater. He returned me a blank stare. I—*aie!*"
 
 In his right hand, moving toward his girdle, he had suddenly felt movement where movement should not be. His voice died away as he stood and glared at nothing; and inside his clenched right hand he felt the quivering of *change*, of *motion*, of *life*. He no longer held a smooth shining sphere in his fingers. And he dared not look; his tongue clove to the roof of his mouth, and he could not open his hand. His astonished warriors saw Yar Afzal's eyes distend, the color ebb from his face. Then suddenly a bellow of agony burst from his bearded lips; he swayed and fell as if struck by lightning, his right arm tossed out in front of him. Face down he lay, and from between his opening fingers crawled a spider—a hideous, black, hairy-legged monster whose body shone like black jade. The men yelled and gave back suddenly, and the creature scuttled into a crevice of the rocks and disappeared.
 
 The warriors started up, glaring wildly, and a voice rose above their clamor, a far-carrying voice of command which came from none knew where. Afterward each man there—who still lived—denied that he had shouted, but all there heard it.
 
-'Yar Afzal is dead! Kill the outlander!'
+"Yar Afzal is dead! Kill the outlander!"
 
 That shout focused their whirling minds as one. Doubt, bewilderment and fear vanished in the uproaring surge of the blood-lust. A furious yell rent the skies as the tribesmen responded instantly to the suggestion. They came headlong across the open space, cloaks flapping, eyes blazing, knives lifted.
 
@@ -525,23 +525,23 @@ Yasmina cowered in a corner, staring in horror as the two men fought back and fo
 
 Yasmina cried out and ran forward; to her dazed sight it seemed that both were slain. She reached them just as Conan threw aside the corpse and rose. She caught his arm, trembling from head to foot.
 
-'Oh, you live! I thought—I thought you were dead!'
+"Oh, you live! I thought—I thought you were dead!"
 
 He glanced down at her quickly, into the pale, upturned face and the wide staring dark eyes.
 
-'Why are you trembling?' he demanded. 'Why should you care if I live or die?'
+"Why are you trembling?" he demanded. "Why should you care if I live or die?"
 
 A vestige of her poise returned to her, and she drew away, making a rather pitiful attempt at playing the Devi.
 
-'You are preferable to those wolves howling without,' she answered, gesturing toward the door, the stone sill of which was beginning to splinter away.
+"You are preferable to those wolves howling without," she answered, gesturing toward the door, the stone sill of which was beginning to splinter away.
 
-'That won't hold long,' he muttered, then turned and went swiftly to the stall of the stallion.
+"That won't hold long," he muttered, then turned and went swiftly to the stall of the stallion.
 
 Yasmina clenched her hands and caught her breath as she saw him tear aside the splintered bars and go into the stall with the maddened beast. The stallion reared above him, neighing terribly, hoofs lifted, eyes and teeth flashing and ears laid back, but Conan leaped and caught his mane with a display of sheer strength that seemed impossible, and dragged the beast down on his forelegs. The steed snorted and quivered, but stood still while the man bridled him and clapped on the gold-worked saddle, with the wide silver stirrups.
 
 Wheeling the beast around in the stall, Conan called quickly to Yasmina, and the girl came, sidling nervously past the stallion's heels. Conan was working at the stone wall, talking swiftly as he worked.
 
-'A secret door in the wall here, that not even the Wazuli know about. Yar Afzal showed it to me once when he was drunk. It opens out into the mouth of the ravine behind the hut. Ha!'
+"A secret door in the wall here, that not even the Wazuli know about. Yar Afzal showed it to me once when he was drunk. It opens out into the mouth of the ravine behind the hut. Ha!"
 
 As he tugged at a projection that seemed casual, a whole section of the wall slid back on oiled iron runners. Looking through, the girl saw a narrow defile opening in a sheer stone cliff within a few feet of the hut's back wall. Then Conan sprang into the saddle and hauled her up before him. Behind them the great door groaned like a living thing and crashed in, and a yell rang to the roof as the entrance was instantly flooded with hairy faces and knives in hairy fists. And then the great stallion went through the wall like a javelin from a catapult, and thundered into the defile, running low, foam flying from the bit-rings.
 
@@ -551,19 +551,19 @@ That move came as an absolute surprize to the Wazulis. It was a surprize, too, t
 
 ## 6 The Mountain of the Black Seers
 
-'Where now?' Yasmina was trying to sit erect on the rocking saddle-bow, clutching her captor. She was conscious of a recognition of shame that she should not find unpleasant the feel of his muscular flesh under her fingers.
+"Where now?" Yasmina was trying to sit erect on the rocking saddle-bow, clutching her captor. She was conscious of a recognition of shame that she should not find unpleasant the feel of his muscular flesh under her fingers.
 
-'To Afghulistan,' he answered. 'It's a perilous road, but the stallion will carry us easily, unless we fall in with some of your friends, or my tribal enemies. Now that Yar Afzal is dead, those damned Wazulis will be on our heels. I'm surprized we haven't sighted them behind us already.'
+"To Afghulistan," he answered. "It's a perilous road, but the stallion will carry us easily, unless we fall in with some of your friends, or my tribal enemies. Now that Yar Afzal is dead, those damned Wazulis will be on our heels. I'm surprized we haven't sighted them behind us already."
 
-'Who was that man you rode down?' she asked.
+"Who was that man you rode down?" she asked.
 
-'I don't know. I never saw him before. He's no Ghuli, that's certain. What the devil he was doing there is more than I can say. There was a girl with him, too.'
+"I don't know. I never saw him before. He's no Ghuli, that's certain. What the devil he was doing there is more than I can say. There was a girl with him, too."
 
-'Yes.' Her gaze was shadowed. 'I can not understand that. That girl was my maid, Gitara. Do you suppose she was coming to aid me? That the man was a friend? If so, the Wazulis have captured them both.'
+"Yes." Her gaze was shadowed. "I can not understand that. That girl was my maid, Gitara. Do you suppose she was coming to aid me? That the man was a friend? If so, the Wazulis have captured them both."
 
-'Well,' he answered, 'there's nothing we can do. If we go back, they'll skin us both. I can't understand how a girl like that could get this far into the mountains with only one man—and he a robed scholar, for that's what he looked like. There's something infernally queer in all this. That fellow Yar Afzal beat and sent away—he moved like a man walking in his sleep. I've seen the priests of Zamora perform their abominable rituals in their forbidden temples, and their victims had a stare like that man. The priests looked into their eyes and muttered incantations, and then the people became the walking dead men, with glassy eyes, doing as they were ordered.
+"Well," he answered, "there's nothing we can do. If we go back, they'll skin us both. I can't understand how a girl like that could get this far into the mountains with only one man—and he a robed scholar, for that's what he looked like. There's something infernally queer in all this. That fellow Yar Afzal beat and sent away—he moved like a man walking in his sleep. I've seen the priests of Zamora perform their abominable rituals in their forbidden temples, and their victims had a stare like that man. The priests looked into their eyes and muttered incantations, and then the people became the walking dead men, with glassy eyes, doing as they were ordered.
 
-'And then I saw what the fellow had in his hand, which Yar Afzal picked up. It was like a big black jade bead, such as the temple girls of Yezud wear when they dance before the black stone spider which is their god. Yar Afzal held it in his hand, and he didn't pick up anything else. Yet when he fell dead, a spider, like the god at Yezud, only smaller, ran out of his fingers. And then, when the Wazulis stood uncertain there, a voice cried out for them to kill me, and I know that voice didn't come from any of the warriors, nor from the women who watched by the huts. It seemed to come from *above*.'
+"And then I saw what the fellow had in his hand, which Yar Afzal picked up. It was like a big black jade bead, such as the temple girls of Yezud wear when they dance before the black stone spider which is their god. Yar Afzal held it in his hand, and he didn't pick up anything else. Yet when he fell dead, a spider, like the god at Yezud, only smaller, ran out of his fingers. And then, when the Wazulis stood uncertain there, a voice cried out for them to kill me, and I know that voice didn't come from any of the warriors, nor from the women who watched by the huts. It seemed to come from *above*."
 
 Yasmina did not reply. She glanced at the stark outlines of the mountains all about them and shuddered. Her soul shrank from their gaunt brutality. This was a grim, naked land where anything might happen. Age-old traditions invested it with shuddery horror for anyone born in the hot, luxuriant southern plains.
 
@@ -573,33 +573,33 @@ They were following a faintly marked path dipping down into ravines so deep the 
 
 The sun had passed its zenith when they crossed a narrow trail winding among the crags. Conan reined the horse aside and followed it southward, going almost at right angles to their former course.
 
-'A Galzai village is at one end of this trail,' he explained. 'Their women follow it to a well, for water. You need new garments.'
+"A Galzai village is at one end of this trail," he explained. "Their women follow it to a well, for water. You need new garments."
 
 Glancing down at her filmy attire, Yasmina agreed with him. Her cloth-of-gold slippers were in tatters, her robes and silken under-garments torn to shreds that scarcely held together decently. Garments meant for the streets of Peshkhauri were scarcely appropriate for the crags of the Himelians.
 
 Coming to a crook in the trail, Conan dismounted, helped Yasmina down and waited. Presently he nodded, though she heard nothing.
 
-'A woman coming along the trail,' he remarked. In sudden panic she clutched his arm.
+"A woman coming along the trail," he remarked. In sudden panic she clutched his arm.
 
-'You will not—not kill her?'
+"You will not—not kill her?"
 
-'I don't kill women ordinarily,' he grunted; 'though some of the hill-women are she-wolves. No,' he grinned as at a huge jest. 'By Crom, I'll *pay* for her clothes! How is that?' He displayed a large handful of gold coins, and replaced all but the largest. She nodded, much relieved. It was perhaps natural for men to slay and die; her flesh crawled at the thought of watching the butchery of a woman.
+"I don't kill women ordinarily," he grunted; "though some of the hill-women are she-wolves. No," he grinned as at a huge jest. "By Crom, I'll *pay* for her clothes! How is that?" He displayed a large handful of gold coins, and replaced all but the largest. She nodded, much relieved. It was perhaps natural for men to slay and die; her flesh crawled at the thought of watching the butchery of a woman.
 
 Presently a woman appeared around the crook of the trail—a tall, slim Galzai girl, straight as a young sapling, bearing a great empty gourd. She stopped short and the gourd fell from her hands when she saw them; she wavered as though to run, then realized that Conan was too close to her to allow her to escape, and so stood still, staring at them with a mixed expression of fear and curiosity.
 
 Conan displayed the gold coin.
 
-'If you will give this woman your garments,' he said, 'I will give you this money.'
+"If you will give this woman your garments," he said, "I will give you this money."
 
 The response was instant. The girl smiled broadly with surprize and delight, and, with the disdain of a hill-woman for prudish conventions, promptly yanked off her sleeveless embroidered vest, slipped down her wide trousers and stepped out of them, twitched off her wide-sleeved shirt, and kicked off her sandals. Bundling them all in a bunch, she proffered them to Conan, who handed them to the astonished Devi.
 
-'Get behind that rock and put these on,' he directed, further proving himself no native hillman. 'Fold your robes up into a bundle and bring them to me when you come out.'
+"Get behind that rock and put these on," he directed, further proving himself no native hillman. "Fold your robes up into a bundle and bring them to me when you come out."
 
-'The money!' clamored the hill-girl, stretching out her hands eagerly. 'The gold you promised me!'
+"The money!" clamored the hill-girl, stretching out her hands eagerly. "The gold you promised me!"
 
 Conan flipped the coin to her, she caught it, bit, then thrust it into her hair, bent and caught up the gourd and went on down the path, as devoid of self-consciousness as of garments. Conan waited with some impatience while the Devi, for the first time in her pampered life, dressed herself. When she stepped from behind the rock he swore in surprize, and she felt a curious rush of emotions at the unrestrained admiration burning in his fierce blue eyes. She felt shame, embarrassment, yet a stimulation of vanity she had never before experienced, and a tingling when meeting the impact of his eyes. He laid a heavy hand on her shoulder and turned her about, staring avidly at her from all angles.
 
-'By Crom!' said he. 'In those smoky, mystic robes you were aloof and cold and far off as a star! Now you are a woman of warm flesh and blood! You went behind that rock as the Devi of Vendhya; you come out as a hill-girl—though a thousand times more beautiful than any wench of the Zhaibar! You were a goddess—now you are real!'
+"By Crom!" said he. "In those smoky, mystic robes you were aloof and cold and far off as a star! Now you are a woman of warm flesh and blood! You went behind that rock as the Devi of Vendhya; you come out as a hill-girl—though a thousand times more beautiful than any wench of the Zhaibar! You were a goddess—now you are real!"
 
 He spanked her resoundingly, and she, recognizing this as merely another expression of admiration, did not feel outraged. It was indeed as if the changing of her garments had wrought a change in her personality. The feelings and sensations she had suppressed rose to domination in her now, as if the queenly robes she had cast off had been material shackles and inhibitions.
 
@@ -607,49 +607,49 @@ But Conan, in his renewed admiration, did not forget that peril lurked all about
 
 Swinging the Devi up, he followed her into the saddle and again reined the stallion westward. The bundle of garments she had given him, he hurled over a cliff, to fall into the depths of a thousand-foot gorge.
 
-'Why did you do that?' she asked. 'Why did you not give them to the girl?'
+"Why did you do that?" she asked. "Why did you not give them to the girl?"
 
-'The riders from Peshkhauri are combing these hills,' he said. 'They'll be ambushed and harried at every turn, and by way of reprisal they'll destroy every village they can take. They may turn westward any time. If they found a girl wearing your garments, they'd torture her into talking, and she might put them on my trail.'
+"The riders from Peshkhauri are combing these hills," he said. "They'll be ambushed and harried at every turn, and by way of reprisal they'll destroy every village they can take. They may turn westward any time. If they found a girl wearing your garments, they'd torture her into talking, and she might put them on my trail."
 
-'What will she do?' asked Yasmina.
+"What will she do?" asked Yasmina.
 
-'Go back to her village and tell her people that a stranger attacked her,' he answered. 'She'll have them on our track, all right. But she had to go on and get the water first; if she dared go back without it, they'd whip the skin off her. That gives us a long start. They'll never catch us. By nightfall we'll cross the Afghuli border.'
+"Go back to her village and tell her people that a stranger attacked her," he answered. "She'll have them on our track, all right. But she had to go on and get the water first; if she dared go back without it, they'd whip the skin off her. That gives us a long start. They'll never catch us. By nightfall we'll cross the Afghuli border."
 
-'There are no paths or signs of human habitation in these parts,' she commented. 'Even for the Himelians this region seems singularly deserted. We have not seen a trail since we left the one where we met the Galzai woman.'
+"There are no paths or signs of human habitation in these parts," she commented. "Even for the Himelians this region seems singularly deserted. We have not seen a trail since we left the one where we met the Galzai woman."
 
 For answer he pointed to the northwest, where she glimpsed a peak in a notch of the crags.
 
-'Yimsha,' grunted Conan. 'The tribes build their villages as far from the mountain as they can.'
+"Yimsha," grunted Conan. "The tribes build their villages as far from the mountain as they can."
 
 She was instantly rigid with attention.
 
-'Yimsha!' she whispered. 'The mountain of the Black Seers!'
+"Yimsha!" she whispered. "The mountain of the Black Seers!"
 
-'So they say,' he answered. 'This is as near as I ever approached it. I have swung north to avoid any Kshatriya troops that might be prowling through the hills. The regular trail from Khurum to Afghulistan lies farther south. This is an ancient one, and seldom used.'
+"So they say," he answered. "This is as near as I ever approached it. I have swung north to avoid any Kshatriya troops that might be prowling through the hills. The regular trail from Khurum to Afghulistan lies farther south. This is an ancient one, and seldom used."
 
 She was staring intently at the distant peak. Her nails bit into her pink palms.
 
-'How long would it take to reach Yimsha from this point?'
+"How long would it take to reach Yimsha from this point?"
 
-'All the rest of the day, and all night,' he answered, and grinned. 'Do you want to go there? By Crom, it's no place for an ordinary human, from what the hill-people say.'
+"All the rest of the day, and all night," he answered, and grinned. "Do you want to go there? By Crom, it's no place for an ordinary human, from what the hill-people say."
 
-'Why do they not gather and destroy the devils that inhabit it?' she demanded.
+"Why do they not gather and destroy the devils that inhabit it?" she demanded.
 
-'Wipe out wizards with swords? Anyway, they never interfere with people, unless the people interfere with them. I never saw one of them, though I've talked with men who swore they had. They say they've glimpsed people from the tower among the crags at sunset or sunrise—tall, silent men in black robes.'
+"Wipe out wizards with swords? Anyway, they never interfere with people, unless the people interfere with them. I never saw one of them, though I've talked with men who swore they had. They say they've glimpsed people from the tower among the crags at sunset or sunrise—tall, silent men in black robes."
 
-'Would you be afraid to attack them?'
+"Would you be afraid to attack them?"
 
-'I?' The idea seemed a new one to him. 'Why, if they imposed upon me, it would be my life or theirs. But I have nothing to do with them. I came to these mountains to raise a following of human beings, not to war with wizards.'
+"I?" The idea seemed a new one to him. "Why, if they imposed upon me, it would be my life or theirs. But I have nothing to do with them. I came to these mountains to raise a following of human beings, not to war with wizards."
 
 Yasmina did not at once reply. She stared at the peak as at a human enemy, feeling all her anger and hatred stir in her bosom anew. And another feeling began to take dim shape. She had plotted to hurl against the masters of Yimsha the man in whose arms she was now carried. Perhaps there was another way, besides the method she had planned, to accomplish her purpose. She could not mistake the look that was beginning to dawn in this wild man's eyes as they rested on her. Kingdoms have fallen when a woman's slim white hands pulled the strings of destiny. Suddenly she stiffened, pointing.
 
-'Look!'
+"Look!"
 
 Just visible on the distant peak there hung a cloud of peculiar aspect. It was a frosty crimson in color, veined with sparkling gold. This cloud was in motion; it rotated, and as it whirled it contracted. It dwindled to a spinning taper that flashed in the sun. And suddenly it detached itself from the snow-tipped peak, floated out over the void like a gay-hued feather, and became invisible against the cerulean sky.
 
-'What could that have been?' asked the girl uneasily, as a shoulder of rock shut the distant mountain from view; the phenomenon had been disturbing, even in its beauty.
+"What could that have been?" asked the girl uneasily, as a shoulder of rock shut the distant mountain from view; the phenomenon had been disturbing, even in its beauty.
 
-'The hill-men call it Yimsha's Carpet, whatever that means,' answered Conan. 'I've seen five hundred of them running as if the devil were at their heels, to hide themselves in caves and crags, because they saw that crimson cloud float up from the peak. What in—'
+"The hill-men call it Yimsha's Carpet, whatever that means," answered Conan. "I've seen five hundred of them running as if the devil were at their heels, to hide themselves in caves and crags, because they saw that crimson cloud float up from the peak. What in—"
 
 They had advanced through a narrow, knife-cut gash between turreted walls and emerged upon a broad ledge, flanked by a series of rugged slopes on one hand, and a gigantic precipice on the other. The dim trail followed this ledge, bent around a shoulder and reappeared at intervals far below, working a tedious way downward. And emerging from the cut that opened upon the ledge, the black stallion halted short, snorting. Conan urged him on impatiently, and the horse snorted and threw his head up and down, quivering and straining as if against an invisible barrier.
 
@@ -657,7 +657,7 @@ Conan swore and swung off, lifting Yasmina down with him. He went forward, with 
 
 Neither of them had seen him come, but he stood there, with his arms folded, a man in a camel-hair robe and a green turban. Conan grunted with surprize to recognize the man the stallion had spurned in the ravine outside the Wazuli village.
 
-'Who the devil are you?' he demanded.
+"Who the devil are you?" he demanded.
 
 The man did not answer. Conan noticed that his eyes were wide, fixed, and of a peculiar luminous quality. And those eyes held his like a magnet.
 
@@ -715,43 +715,43 @@ So he urged on the wearying stallion, until a clink of hoofs reached his ears, w
 
 At his shout they reined back, and five hundred bearded faces were tilted up towards him; a deep, clamorous roar filled the canyon. Conan did not waste words.
 
-'I was riding for Ghor!' he roared. 'I had not hoped to meet you dogs on the trail. Follow me as fast as your nags can push! I'm going to Yimsha, and—'
+"I was riding for Ghor!" he roared. "I had not hoped to meet you dogs on the trail. Follow me as fast as your nags can push! I'm going to Yimsha, and—"
 
-'Traitor!' The howl was like a dash of ice-water in his face.
+"Traitor!" The howl was like a dash of ice-water in his face.
 
-'What?' He glared down at them, jolted speechless. He saw wild eyes blazing up at him, faces contorted with fury, fists brandishing blades.
+"What?" He glared down at them, jolted speechless. He saw wild eyes blazing up at him, faces contorted with fury, fists brandishing blades.
 
-'Traitor!' they roared back, wholeheartedly. 'Where are the seven chiefs held captive in Peshkhauri?'
+"Traitor!" they roared back, wholeheartedly. "Where are the seven chiefs held captive in Peshkhauri?"
 
-'Why, in the governor's prison, I suppose,' he answered.
+"Why, in the governor's prison, I suppose," he answered.
 
-A bloodthirsty yell from a hundred throats answered him, with such a waving of weapons and a clamor that he could not understand what they were saying. He beat down the din with a bull-like roar, and bellowed: 'What devil's play is this? Let one of you speak, so I can understand what you mean!'
+A bloodthirsty yell from a hundred throats answered him, with such a waving of weapons and a clamor that he could not understand what they were saying. He beat down the din with a bull-like roar, and bellowed: "What devil's play is this? Let one of you speak, so I can understand what you mean!"
 
-A gaunt old chief elected himself to this position, shook his tulwar at Conan as a preamble, and shouted accusingly: 'You would not let us go raiding Peshkhauri to rescue our brothers!'
+A gaunt old chief elected himself to this position, shook his tulwar at Conan as a preamble, and shouted accusingly: "You would not let us go raiding Peshkhauri to rescue our brothers!"
 
-'No, you fools!' roared the exasperated Cimmerian. 'Even if you'd breached the wall, which is unlikely, they'd have hanged the prisoners before you could reach them.'
+"No, you fools!" roared the exasperated Cimmerian. "Even if you'd breached the wall, which is unlikely, they'd have hanged the prisoners before you could reach them."
 
-'And you went alone to traffic with the governor!' yelled the Afghuli, working himself into a frothing frenzy.
+"And you went alone to traffic with the governor!" yelled the Afghuli, working himself into a frothing frenzy.
 
-'Well?'
+"Well?"
 
-'Where are the seven chiefs?' howled the old chief, making his tulwar into a glimmering wheel of steel about his head. 'Where are they? Dead!'
+"Where are the seven chiefs?" howled the old chief, making his tulwar into a glimmering wheel of steel about his head. "Where are they? Dead!"
 
-'What!' Conan nearly fell off his horse in his surprize.
+"What!" Conan nearly fell off his horse in his surprize.
 
-'Aye, dead!' five hundred bloodthirsty voices assured him.
+"Aye, dead!" five hundred bloodthirsty voices assured him.
 
-The old chief brandished his arms and got the floor again. 'They were not hanged!' he screeched. 'A Wazuli in another cell saw them die! The governor sent a wizard to slay them by craft!'
+The old chief brandished his arms and got the floor again. "They were not hanged!" he screeched. "A Wazuli in another cell saw them die! The governor sent a wizard to slay them by craft!"
 
-'That must be a lie,' said Conan. 'The governor would not dare. Last night I talked with him—'
+"That must be a lie," said Conan. "The governor would not dare. Last night I talked with him—"
 
 The admission was unfortunate. A yell of hate and accusation split the skies.
 
-'Aye! You went to him alone! To betray us! It is no lie. The Wazuli escaped through the doors the wizard burst in his entry, and told the tale to our scouts whom he met in Zhaibar. They had been sent forth to search for you, when you did not return. When they heard the Wazuli's tale, they returned with all haste to Ghor, and we saddled our steeds and girt our swords!'
+"Aye! You went to him alone! To betray us! It is no lie. The Wazuli escaped through the doors the wizard burst in his entry, and told the tale to our scouts whom he met in Zhaibar. They had been sent forth to search for you, when you did not return. When they heard the Wazuli's tale, they returned with all haste to Ghor, and we saddled our steeds and girt our swords!"
 
-'And what do you fools mean to do?' demanded the Cimmerian.
+"And what do you fools mean to do?" demanded the Cimmerian.
 
-'To avenge our brothers!' they howled. 'Death to the Kshatriyas! Slay him, brothers, he is a traitor!'
+"To avenge our brothers!" they howled. "Death to the Kshatriyas! Slay him, brothers, he is a traitor!"
 
 Arrows began to rattle around him. Conan rose in his stirrups, striving to make himself heard above the tumult, and then, with a roar of mingled rage, defiance and disgust, he wheeled and galloped back up the trail. Behind him and below him the Afghulis came pelting, mouthing their rage, too furious even to remember that the only way they could reach the height whereon he rode was to traverse the river-bed in the other direction, make the broad bend and follow the twisting trail up over the ridge. When they did remember this, and turned back, their repudiated chief had almost reached the point where the ridge joined the escarpment.
 
@@ -759,59 +759,59 @@ At the cliff he did not take the trail by which he had descended, but turned off
 
 Impelled by some obscure reason, Conan dismounted and stood looking down at the ghastly shape, knowing that he was witness of a thing miraculous and opposed to nature. The Rakhsha lifted his gory head, and his strange eyes, glazed with agony and approaching death, rested on Conan with recognition.
 
-'Where are they?' It was a racking croak not even remotely resembling a human voice.
+"Where are they?" It was a racking croak not even remotely resembling a human voice.
 
-'Gone back to their damnable castle on Yimsha,' grunted Conan. 'They took the Devi with them.'
+"Gone back to their damnable castle on Yimsha," grunted Conan. "They took the Devi with them."
 
-'I will go!' muttered the man. 'I will follow them! They killed Gitara; I will kill them—the acolytes, the Four of the Black Circle, the Master himself! Kill—kill them all!' He strove to drag his mutilated frame along the rock, but not even his indomitable will could animate that gory mass longer, where the splintered bones hung together only by torn tissue and ruptured fibre.
+"I will go!" muttered the man. "I will follow them! They killed Gitara; I will kill them—the acolytes, the Four of the Black Circle, the Master himself! Kill—kill them all!" He strove to drag his mutilated frame along the rock, but not even his indomitable will could animate that gory mass longer, where the splintered bones hung together only by torn tissue and ruptured fibre.
 
-'Follow them!' raved Khemsa, drooling a bloody slaver. 'Follow!'
+"Follow them!" raved Khemsa, drooling a bloody slaver. "Follow!"
 
-'I'm going to,' growled Conan. 'I went to fetch my Afghulis, but they've turned on me. I'm going on to Yimsha alone. I'll have the Devi back if I have to tear down that damned mountain with my bare hands. I didn't think the governor would dare kill my headmen, when I had the Devi, but it seems he did. I'll have his head for that. She's no use to me now as a hostage, but—'
+"I'm going to," growled Conan. "I went to fetch my Afghulis, but they've turned on me. I'm going on to Yimsha alone. I'll have the Devi back if I have to tear down that damned mountain with my bare hands. I didn't think the governor would dare kill my headmen, when I had the Devi, but it seems he did. I'll have his head for that. She's no use to me now as a hostage, but—"
 
-'The curse of Yizil on them!' gasped Khemsa. 'Go! I am dying. Wait—take my girdle.'
+"The curse of Yizil on them!" gasped Khemsa. "Go! I am dying. Wait—take my girdle."
 
 He tried to fumble with a mangled hand at his tatters, and Conan, understanding what he sought to convey, bent and drew from about his gory waist a girdle of curious aspect.
 
-'Follow the golden vein through the abyss,' muttered Khemsa. 'Wear the girdle. I had it from a Stygian priest. It will aid you, though it failed me at last. Break the crystal globe with the four golden pomegranates. Beware of the Master's transmutations—I am going to Gitara—she is waiting for me in hell—*aie, ya Skelos yar!*' And so he died.
+"Follow the golden vein through the abyss," muttered Khemsa. "Wear the girdle. I had it from a Stygian priest. It will aid you, though it failed me at last. Break the crystal globe with the four golden pomegranates. Beware of the Master's transmutations—I am going to Gitara—she is waiting for me in hell—*aie, ya Skelos yar!*" And so he died.
 
 Conan stared down at the girdle. The hair of which it was woven was not horsehair. He was convinced that it was woven of the thick black tresses of a woman. Set in the thick mesh were tiny jewels such as he had never seen before. The buckle was strangely made, in the form of a golden serpent-head, flat, wedge-shaped and scaled with curious art. A strong shudder shook Conan as he handled it, and he turned as though to cast it over the precipice; then he hesitated, and finally buckled it about his waist, under the Bakhariot girdle. Then he mounted and pushed on.
 
 The sun had sunk behind the crags. He climbed the trail in the vast shadow of the cliffs that was thrown out like a dark blue mantle over valleys and ridges far below. He was not far from the crest when, edging around the shoulder of a jutting crag, he heard the clink of shod hoofs ahead of him. He did not turn back. Indeed, so narrow was the path that the stallion could not have wheeled his great body upon it. He rounded the jut of the rock and came upon a portion of the path that broadened somewhat. A chorus of threatening yells broke on his ear, but his stallion pinned a terrified horse hard against the rock, and Conan caught the arm of the rider in an iron grip, checking the lifted sword in midair.
 
-'Kerim Shah!' muttered Conan, red glints smoldering luridly in his eyes. The Turanian did not struggle; they sat their horses almost breast to breast, Conan's fingers locking the other's sword-arm. Behind Kerim Shah filed a group of lean Irakzai on gaunt horses. They glared like wolves, fingering bows and knives, but rendered uncertain because of the narrowness of the path and the perilous proximity of the abyss that yawned beneath them.
+"Kerim Shah!" muttered Conan, red glints smoldering luridly in his eyes. The Turanian did not struggle; they sat their horses almost breast to breast, Conan's fingers locking the other's sword-arm. Behind Kerim Shah filed a group of lean Irakzai on gaunt horses. They glared like wolves, fingering bows and knives, but rendered uncertain because of the narrowness of the path and the perilous proximity of the abyss that yawned beneath them.
 
-'Where is the Devi?' demanded Kerim Shah.
+"Where is the Devi?" demanded Kerim Shah.
 
-'What's it to you, you Hyrkanian spy?' snarled Conan.
+"What's it to you, you Hyrkanian spy?" snarled Conan.
 
-'I know you have her,' answered Kerim Shah. 'I was on my way northward with some tribesmen when we were ambushed by enemies in Shalizah Pass. Many of my men were slain, and the rest of us harried through the hills like jackals. When we had beaten off our pursuers, we turned westward, toward Amir Jehun Pass, and this morning we came upon a Wazuli wandering through the hills. He was quite mad, but I learned much from his incoherent gibberings before he died. I learned that he was the sole survivor of a band which followed a chief of the Afghulis and a captive Kshatriya woman into a gorge behind Khurum village. He babbled much of a man in a green turban whom the Afghuli rode down, but who, when attacked by the Wazulis who pursued, smote them with a nameless doom that wiped them out as a gust of wind-driven fire wipes out a cluster of locusts.
+"I know you have her," answered Kerim Shah. "I was on my way northward with some tribesmen when we were ambushed by enemies in Shalizah Pass. Many of my men were slain, and the rest of us harried through the hills like jackals. When we had beaten off our pursuers, we turned westward, toward Amir Jehun Pass, and this morning we came upon a Wazuli wandering through the hills. He was quite mad, but I learned much from his incoherent gibberings before he died. I learned that he was the sole survivor of a band which followed a chief of the Afghulis and a captive Kshatriya woman into a gorge behind Khurum village. He babbled much of a man in a green turban whom the Afghuli rode down, but who, when attacked by the Wazulis who pursued, smote them with a nameless doom that wiped them out as a gust of wind-driven fire wipes out a cluster of locusts.
 
-'How that one man escaped, I do not know, nor did he; but I knew from his maunderings that Conan of Ghor had been in Khurum with his royal captive. And as we made our way through the hills, we overtook a naked Galzai girl bearing a gourd of water, who told us a tale of having been stripped and ravished by a giant foreigner in the garb of an Afghuli chief, who, she said, gave her garments to a Vendhyan woman who accompanied him. She said you rode westward.'
+"How that one man escaped, I do not know, nor did he; but I knew from his maunderings that Conan of Ghor had been in Khurum with his royal captive. And as we made our way through the hills, we overtook a naked Galzai girl bearing a gourd of water, who told us a tale of having been stripped and ravished by a giant foreigner in the garb of an Afghuli chief, who, she said, gave her garments to a Vendhyan woman who accompanied him. She said you rode westward."
 
 Kerim Shah did not consider it necessary to explain that he had been on his way to keep his rendezvous with the expected troops from Secunderam when he found his way barred by hostile tribesmen. The road to Gurashah valley through Shalizah Pass was longer than the road that wound through Amir Jehun Pass, but the latter traversed part of the Afghuli country, which Kerim Shah had been anxious to avoid until he came with an army. Barred from the Shalizah road, however, he had turned to the forbidden route, until news that Conan had not yet reached Afghulistan with his captive had caused him to turn southward and push on recklessly in the hope of overtaking the Cimmerian in the hills.
 
-'So you had better tell me where the Devi is,' suggested Kerim Shah. 'We outnumber you—'
+"So you had better tell me where the Devi is," suggested Kerim Shah. "We outnumber you—"
 
-'Let one of your dogs nock a shaft and I'll throw you over the cliff,' Conan promised. 'It wouldn't do you any good to kill me, anyhow. Five hundred Afghulis are on my trail, and if they find you've cheated them, they'll flay you alive. Anyway, I haven't got the Devi. She's in the hands of the Black Seers of Yimsha.'
+"Let one of your dogs nock a shaft and I'll throw you over the cliff," Conan promised. "It wouldn't do you any good to kill me, anyhow. Five hundred Afghulis are on my trail, and if they find you've cheated them, they'll flay you alive. Anyway, I haven't got the Devi. She's in the hands of the Black Seers of Yimsha."
 
-'*Tarim!*' swore Kerim Shah softly, shaken out of his poise for the first time. 'Khemsa—'
+"*Tarim!*" swore Kerim Shah softly, shaken out of his poise for the first time. "Khemsa—"
 
-'Khemsa's dead,' grunted Conan. 'His masters sent him to hell on a landslide. And now get out of my way. I'd be glad to kill you if I had the time, but I'm on my way to Yimsha.'
+"Khemsa's dead," grunted Conan. "His masters sent him to hell on a landslide. And now get out of my way. I'd be glad to kill you if I had the time, but I'm on my way to Yimsha."
 
-'I'll go with you,' said the Turanian abruptly.
+"I'll go with you," said the Turanian abruptly.
 
-Conan laughed at him. 'Do you think I'd trust you, you Hyrkanian dog?'
+Conan laughed at him. "Do you think I'd trust you, you Hyrkanian dog?"
 
-'I don't ask you to,' returned Kerim Shah. 'We both want the Devi. You know my reason; King Yezdigerd desires to add her kingdom to his empire, and herself in his seraglio. And I knew you, in the days when you were a hetman of the *kozak* steppes; so I know your ambition is wholesale plunder. You want to loot Vendhya, and to twist out a huge ransom for Yasmina. Well, let us for the time being, without any illusion about each other, unite our forces, and try to rescue the Devi from the Seers. If we succeed, and live, we can fight it out to see who keeps her.'
+"I don't ask you to," returned Kerim Shah. "We both want the Devi. You know my reason; King Yezdigerd desires to add her kingdom to his empire, and herself in his seraglio. And I knew you, in the days when you were a hetman of the *kozak* steppes; so I know your ambition is wholesale plunder. You want to loot Vendhya, and to twist out a huge ransom for Yasmina. Well, let us for the time being, without any illusion about each other, unite our forces, and try to rescue the Devi from the Seers. If we succeed, and live, we can fight it out to see who keeps her."
 
-Conan narrowly scrutinized the other for a moment, and then nodded, releasing the Turanian's arm. 'Agreed; what about your men?'
+Conan narrowly scrutinized the other for a moment, and then nodded, releasing the Turanian's arm. "Agreed; what about your men?"
 
-Kerim Shah turned to the silent Irakzai and spoke briefly: 'This chief and I are going to Yimsha to fight the wizards. Will you go with us, or stay here to be flayed by the Afghulis who are following this man?'
+Kerim Shah turned to the silent Irakzai and spoke briefly: "This chief and I are going to Yimsha to fight the wizards. Will you go with us, or stay here to be flayed by the Afghulis who are following this man?"
 
-They looked at him with eyes grimly fatalistic. They were doomed and they knew it—had known it ever since the singing arrows of the ambushed Dagozai had driven them back from the pass of Shalizah. The men of the lower Zhaibar had too many reeking bloodfeuds among the crag-dwellers. They were too small a band to fight their way back through the hills to the villages of the border, without the guidance of the crafty Turanian. They counted themselves as dead already, so they made the reply that only dead men would make: 'We will go with thee and die on Yimsha.'
+They looked at him with eyes grimly fatalistic. They were doomed and they knew it—had known it ever since the singing arrows of the ambushed Dagozai had driven them back from the pass of Shalizah. The men of the lower Zhaibar had too many reeking bloodfeuds among the crag-dwellers. They were too small a band to fight their way back through the hills to the villages of the border, without the guidance of the crafty Turanian. They counted themselves as dead already, so they made the reply that only dead men would make: "We will go with thee and die on Yimsha."
 
-'Then in Crom's name let us be gone,' grunted Conan, fidgeting with impatience as he started into the blue gulfs of the deepening twilight. 'My wolves were hours behind me, but we've lost a devilish lot of time.'
+"Then in Crom's name let us be gone," grunted Conan, fidgeting with impatience as he started into the blue gulfs of the deepening twilight. "My wolves were hours behind me, but we've lost a devilish lot of time."
 
 Kerim Shah backed his steed from between the black stallion and the cliff, sheathed his sword and cautiously turned the horse. Presently the band was filing up the path as swiftly as they dared. They came out upon the crest nearly a mile east of the spot where Khemsa had halted the Cimmerian and the Devi. The path they had traversed was a perilous one, even for hill-men, and for that reason Conan had avoided it that day when carrying Yasmina, though Kerim Shah, following him, had taken it supposing the Cimmerian had done likewise. Even Conan sighed with relief when the horses scrambled up over the last rim. They moved like phantom riders through an enchanted realm of shadows. The soft creak of leather, the clink of steel marked their passing, then again the dark mountain slopes lay naked and silent in the starlight.
 
@@ -829,35 +829,35 @@ But her gaze fixed itself on a tangible object. On another, smaller dais of jet,
 
 Yasmina felt fear crawl like a trickle of ice-water down her supple spine. She lifted herself on her elbows and stared apprehensively at the stranger.
 
-'Who are you?' she demanded. Her voice sounded brittle and inadequate.
+"Who are you?" she demanded. Her voice sounded brittle and inadequate.
 
-'I am the Master of Yimsha.' The tone was rich and resonant, like the mellow tones of a temple bell.
+"I am the Master of Yimsha." The tone was rich and resonant, like the mellow tones of a temple bell.
 
-'Why did you bring me here?' she demanded.
+"Why did you bring me here?" she demanded.
 
-'Were you not seeking me?'
+"Were you not seeking me?"
 
-'If you are one of the Black Seers—yes!' she answered recklessly, believing that he could read her thoughts anyway.
+"If you are one of the Black Seers—yes!" she answered recklessly, believing that he could read her thoughts anyway.
 
 He laughed softly, and chills crawled up and down her spine again.
 
-'You would turn the wild children of the hills against the Seers of Yimsha!' He smiled. 'I have read it in your mind, princess. Your weak, human mind, filled with petty dreams of hate and revenge.'
+"You would turn the wild children of the hills against the Seers of Yimsha!" He smiled. "I have read it in your mind, princess. Your weak, human mind, filled with petty dreams of hate and revenge."
 
-'You slew my brother!' A rising tide of anger was vying with her fear; her hands were clenched, her lithe body rigid. 'Why did you persecute him? He never harmed you. The priests say the Seers are above meddling in human affairs. Why did you destroy the king of Vendhya?'
+"You slew my brother!" A rising tide of anger was vying with her fear; her hands were clenched, her lithe body rigid. "Why did you persecute him? He never harmed you. The priests say the Seers are above meddling in human affairs. Why did you destroy the king of Vendhya?"
 
-'How can an ordinary human understand the motives of a Seer?' returned the Master calmly. 'My acolytes in the temples of Turan, who are the priests behind the priests of Tarim, urged me to bestir myself in behalf of Yezdigerd. For reasons of my own, I complied. How can I explain my mystic reasons to your puny intellect? You could not understand.'
+"How can an ordinary human understand the motives of a Seer?" returned the Master calmly. "My acolytes in the temples of Turan, who are the priests behind the priests of Tarim, urged me to bestir myself in behalf of Yezdigerd. For reasons of my own, I complied. How can I explain my mystic reasons to your puny intellect? You could not understand."
 
-'I understand this: that my brother died!' Tears of grief and rage shook in her voice. She rose upon her knees and stared at him with wide blazing eyes, as supple and dangerous in that moment as a she-panther.
+"I understand this: that my brother died!" Tears of grief and rage shook in her voice. She rose upon her knees and stared at him with wide blazing eyes, as supple and dangerous in that moment as a she-panther.
 
-'As Yezdigerd desired,' agreed the Master calmly. 'For a while it was my whim to further his ambitions.'
+"As Yezdigerd desired," agreed the Master calmly. "For a while it was my whim to further his ambitions."
 
-'Is Yezdigerd your vassal?' Yasmina tried to keep the timbre of her voice unaltered. She had felt her knee pressing something hard and symmetrical under a fold of velvet. Subtly she shifted her position, moving her hand under the fold.
+"Is Yezdigerd your vassal?" Yasmina tried to keep the timbre of her voice unaltered. She had felt her knee pressing something hard and symmetrical under a fold of velvet. Subtly she shifted her position, moving her hand under the fold.
 
-'Is the dog that licks up the offal in the temple yard the vassal of the god?' returned the Master.
+"Is the dog that licks up the offal in the temple yard the vassal of the god?" returned the Master.
 
 He did not seem to notice the actions she sought to dissemble. Concealed by the velvet, her fingers closed on what she knew was the golden hilt of a dagger. She bent her head to hide the light of triumph in her eyes.
 
-'I am weary of Yezdigerd,' said the Master. 'I have turned to other amusements—ha!'
+"I am weary of Yezdigerd," said the Master. "I have turned to other amusements—ha!"
 
 With a fierce cry Yasmina sprang like a jungle cat, stabbing murderously. Then she stumbled and slid to the floor, where she cowered, staring up at the man on the dais. He had not moved; his cryptic smile was unchanged. Tremblingly she lifted her hand and stared at it with dilated eyes. There was no dagger in her fingers; they grasped a stalk of golden lotus, the crushed blossoms drooping on the bruised stem.
 
@@ -865,31 +865,31 @@ She dropped it as if it had been a viper, and scrambled away from the proximity 
 
 But the Master made no move.
 
-'All substance is one to him who holds the key of the cosmos,' he said cryptically. 'To an adept nothing is immutable. At will, steel blossoms bloom in unnamed gardens, or flower-swords flash in the moonlight.'
+"All substance is one to him who holds the key of the cosmos," he said cryptically. "To an adept nothing is immutable. At will, steel blossoms bloom in unnamed gardens, or flower-swords flash in the moonlight."
 
-'You are a devil,' she sobbed.
+"You are a devil," she sobbed.
 
-'Not I!' he laughed. 'I was born on this planet, long ago. Once I was a common man, nor have I lost all human attributes in the numberless eons of my adeptship. A human steeped in the dark arts is greater than a devil. I am of human origin, but I rule demons. You have seen the Lords of the Black Circle—it would blast your soul to hear from what far realm I summoned them and from what doom I guard them with ensorcelled crystal and golden serpents.
+"Not I!" he laughed. "I was born on this planet, long ago. Once I was a common man, nor have I lost all human attributes in the numberless eons of my adeptship. A human steeped in the dark arts is greater than a devil. I am of human origin, but I rule demons. You have seen the Lords of the Black Circle—it would blast your soul to hear from what far realm I summoned them and from what doom I guard them with ensorcelled crystal and golden serpents.
 
-'But only I can rule them. My foolish Khemsa thought to make himself great—poor fool, bursting material doors and hurtling himself and his mistress through the air from hill to hill! Yet if he had not been destroyed his power might have grown to rival mine.'
+"But only I can rule them. My foolish Khemsa thought to make himself great—poor fool, bursting material doors and hurtling himself and his mistress through the air from hill to hill! Yet if he had not been destroyed his power might have grown to rival mine."
 
-He laughed again. 'And you, poor, silly thing! Plotting to send a hairy hill chief to storm Yimsha! It was such a jest that I myself could have designed, had it occurred to me, that you should fall in his hands. And I read in your childish mind an intention to seduce by your feminine wiles to attempt your purpose, anyway.
+He laughed again. "And you, poor, silly thing! Plotting to send a hairy hill chief to storm Yimsha! It was such a jest that I myself could have designed, had it occurred to me, that you should fall in his hands. And I read in your childish mind an intention to seduce by your feminine wiles to attempt your purpose, anyway.
 
-'But for all your stupidity, you are a woman fair to look upon. It is my whim to keep you for my slave.'
+"But for all your stupidity, you are a woman fair to look upon. It is my whim to keep you for my slave."
 
 The daughter of a thousand proud emperors gasped with shame and fury at the word.
 
-'You dare not!'
+"You dare not!"
 
 His mocking laughter cut her like a whip across her naked shoulders.
 
-'The king dares not trample a worm in the road? Little fool, do you not realize that your royal pride is no more than a straw blown on the wind? I, who have known the kisses of the queens of Hell! You have seen how I deal with a rebel!'
+"The king dares not trample a worm in the road? Little fool, do you not realize that your royal pride is no more than a straw blown on the wind? I, who have known the kisses of the queens of Hell! You have seen how I deal with a rebel!"
 
 Cowed and awed, the girl crouched on the velvet-covered dais. The light grew dimmer and more phantom-like. The features of the Master became shadowy. His voice took on a newer tone of command.
 
-'I will never yield to you!' Her voice trembled with fear but it carried a ring of resolution.
+"I will never yield to you!" Her voice trembled with fear but it carried a ring of resolution.
 
-'You will yield,' he answered with horrible conviction. 'Fear and pain shall teach you. I will lash you with horror and agony to the last quivering ounce of your endurance, until you become as melted wax to be bent and molded in my hands as I desire. You shall know such discipline as no mortal woman ever knew, until my slightest command is to you as the unalterable will of the gods. And first, to humble your pride, you shall travel back through the lost ages, and view all the shapes that have been you. *Aie, yil la khosa!*'
+"You will yield," he answered with horrible conviction. "Fear and pain shall teach you. I will lash you with horror and agony to the last quivering ounce of your endurance, until you become as melted wax to be bent and molded in my hands as I desire. You shall know such discipline as no mortal woman ever knew, until my slightest command is to you as the unalterable will of the gods. And first, to humble your pride, you shall travel back through the lost ages, and view all the shapes that have been you. *Aie, yil la khosa!*"
 
 At these words the shadowy room swam before Yasmina's affrighted gaze. The roots of her hair prickled her scalp, and her tongue clove to her palate. Somewhere a gong sounded a deep, ominous note. The dragons on the tapestries glowed like blue fire, and then faded out. The Master on his dais was but a shapeless shadow. The dim light gave way to soft, thick darkness, almost tangible, that pulsed with strange radiations. She could no longer see the Master. She could see nothing. She had a strange sensation that the walls and ceiling had withdrawn immensely from her.
 
@@ -921,23 +921,23 @@ She screamed again, and then, as those champing, grinning jaws bent toward her l
 
 The sun had risen over the white Himelian peaks. At the foot of a long slope a group of horsemen halted and stared upward. High above them a stone tower poised on the pitch of the mountainside. Beyond and above that gleamed the walls of a greater keep, near the line where the snow began that capped Yimsha's pinnacle. There was a touch of unreality about the whole—purple slopes pitching up to that fantastic castle, toy-like with distance, and above it the white glistening peak shouldering the cold blue.
 
-'We'll leave the horses here,' grunted Conan. 'That treacherous slope is safer for a man on foot. Besides, they're done.'
+"We'll leave the horses here," grunted Conan. "That treacherous slope is safer for a man on foot. Besides, they're done."
 
 He swung down from the black stallion which stood with wide-braced legs and drooping head. They had pushed hard throughout the night, gnawing at scraps from saddle-bags, and pausing only to give the horses the rests they had to have.
 
-'That first tower is held by the acolytes of the Black Seers,' said Conan. 'Or so men say; watch-dogs for their masters—lesser sorcerers. They won't sit sucking their thumbs as we climb this slope.'
+"That first tower is held by the acolytes of the Black Seers," said Conan. "Or so men say; watch-dogs for their masters—lesser sorcerers. They won't sit sucking their thumbs as we climb this slope."
 
 Kerim Shah glanced up the mountain, then back the way they had come; they were already far up Yimsha's side, and a vast expanse of lesser peaks and crags spread out beneath them. Among these labyrinths the Turanian sought in vain for a movement of color that would betray men. Evidently the pursuing Afghulis had lost their chief's trail in the night.
 
-'Let us go, then.' They tied the weary horses in a clump of tamarisk and without further comment turned up the slope. There was no cover. It was a naked incline, strewn with boulders not big enough to conceal a man. But they did conceal something else.
+"Let us go, then." They tied the weary horses in a clump of tamarisk and without further comment turned up the slope. There was no cover. It was a naked incline, strewn with boulders not big enough to conceal a man. But they did conceal something else.
 
 The party had not gone fifty steps when a snarling shape burst from behind a rock. It was one of the gaunt savage dogs that infested the hill villages, and its eyes glared redly, its jaws dripped foam. Conan was leading, but it did not attack him. It dashed past him and leaped at Kerim Shah. The Turanian leaped aside, and the great dog flung itself upon the Irakzai behind him. The man yelled and threw up his arm, which was torn by the brute's fangs as it bore him backward, and the next instant half a dozen tulwars were hacking at the beast. Yet not until it was literally dismembered did the hideous creature cease its efforts to seize and rend its attackers.
 
 Kerim Shah bound up the wounded warrior's gashed arm, looked at him narrowly, and then turned away without a word. He rejoined Conan, and they renewed the climb in silence.
 
-Presently Kerim Shah said: 'Strange to find a village dog in this place.'
+Presently Kerim Shah said: "Strange to find a village dog in this place."
 
-'There's no offal here,' grunted Conan.
+"There's no offal here," grunted Conan.
 
 Both turned their heads to glance back at the wounded warrior toiling after them among his companions. Sweat glistened on his dark face and his lips were drawn back from his teeth in a grimace of pain. Then both looked again at the stone tower squatting above them.
 
@@ -949,7 +949,7 @@ Conan bent over the victim of the attack, but the man was already dead. No one s
 
 But the next attack came swiftly. They all saw it—a white puffball of smoke that tumbled over the tower-rim and came drifting and rolling down the slope toward them. Others followed it. They seemed harmless, mere woolly globes of cloudy foam, but Conan stepped aside to avoid contact with the first. Behind him one of the Irakzai reached out and thrust his sword into the unstable mass. Instantly a sharp report shook the mountainside. There was a burst of blinding flame, and then the puffball had vanished, and the too-curious warrior remained only a heap of charred and blackened bones. The crisped hand still gripped the ivory sword-hilt, but the blade was gone—melted and destroyed by that awful heat. Yet men standing almost within reach of the victim had not suffered except to be dazzled and half blinded by the sudden flare.
 
-'Steel touches it off,' grunted Conan. 'Look out—here they come!'
+"Steel touches it off," grunted Conan. "Look out—here they come!"
 
 The slope above them was almost covered by the billowing spheres. Kerim Shah bent his bow and sent a shaft into the mass, and those touched by the arrow burst like bubbles in spurting flame. His men followed his example and for the next few minutes it was as if a thunderstorm raged on the mountain slope, with bolts of lightning striking and bursting in showers of flame. When the barrage ceased, only a few arrows were left in the quivers of the archers.
 
@@ -981,17 +981,17 @@ Looking down, Conan grunted. Far below him, moving across the glimmering floor, 
 
 Kerim Shah nocked an arrow and sent it singing downward. But when it struck the mist that filled the chasm it seemed to lose momentum and direction, wandering widely from its course.
 
-'If they went down, so can we!' grunted Conan, while Kerim Shah stared after his shaft in amazement. 'I saw them last at this spot—'
+"If they went down, so can we!" grunted Conan, while Kerim Shah stared after his shaft in amazement. "I saw them last at this spot—"
 
-Squinting down he saw something shining like a golden thread across the canyon floor far below. The acolytes seemed to be following this thread, and there suddenly came to him Khemsa's cryptic words—'Follow the golden vein!' On the brink, under his very hand as he crouched, he found it, a thin vein of sparkling gold running from an outcropping of ore to the edge and down across the silvery floor. And he found something else, which had before been invisible to him because of the peculiar refraction of the light. The gold vein followed a narrow ramp which slanted down into the ravine, fitted with niches for hand and foot hold.
+Squinting down he saw something shining like a golden thread across the canyon floor far below. The acolytes seemed to be following this thread, and there suddenly came to him Khemsa's cryptic words—"Follow the golden vein!" On the brink, under his very hand as he crouched, he found it, a thin vein of sparkling gold running from an outcropping of ore to the edge and down across the silvery floor. And he found something else, which had before been invisible to him because of the peculiar refraction of the light. The gold vein followed a narrow ramp which slanted down into the ravine, fitted with niches for hand and foot hold.
 
-'Here's where they went down,' he grunted to Kerim Shah. 'They're no adepts, to waft themselves through the air! We'll follow them—'
+"Here's where they went down," he grunted to Kerim Shah. "They're no adepts, to waft themselves through the air! We'll follow them—"
 
 It was at that instant that the man who had been bitten by the mad dog cried out horribly and leaped at Kerim Shah, foaming and gnashing his teeth. The Turanian, quick as a cat on his feet, sprang aside and the madman pitched head-first over the brink. The others rushed to the edge and glared after him in amazement. The maniac did not fall plummet-like. He floated slowly down through the rosy haze like a man sinking in deep water. His limbs moved like a man trying to swim, and his features were purple and convulsed beyond the contortions of his madness. Far down at last on the shining floor his body settled and lay still.
 
-'There's death in that chasm,' muttered Kerim Shah, drawing back from the rosy mist that shimmered almost at his feet. 'What now, Conan?'
+"There's death in that chasm," muttered Kerim Shah, drawing back from the rosy mist that shimmered almost at his feet. "What now, Conan?"
 
-'On!' answered the Cimmerian grimly. 'Those acolytes are human; if the mist doesn't kill them, it won't kill me.'
+"On!" answered the Cimmerian grimly. "Those acolytes are human; if the mist doesn't kill them, it won't kill me."
 
 He hitched his belt, and his hands touched the girdle Khemsa had given him; he scowled, then smiled bleakly. He had forgotten that girdle; yet thrice had death passed him by to strike another victim.
 
@@ -1023,7 +1023,7 @@ He struck it from the door with one blow, and its bronze clink on the glassy flo
 
 A sharp wind off the snow slashed them, whipping their tatters about. Conan's long knife splintering through the teak panels roused the startled echoes. Again and again he struck, hewing through polished wood and metal bands alike. Through the sundered ruins he glared into the interior, alert and suspicious as a wolf. He saw a broad chamber, the polished stone walls untapestried, the mosaic floor uncarpeted. Square, polished ebon stools and a stone dais formed the only furnishings. The room was empty of human life. Another door showed in the opposite wall.
 
-'Leave a man on guard outside,' grunted Conan. 'I'm going in.'
+"Leave a man on guard outside," grunted Conan. "I'm going in."
 
 Kerim Shah designated a warrior for that duty, and the man fell back toward the middle of the gallery, bow in hand. Conan strode into the castle, followed by the Turanian and the three remaining Irakzai. The one outside spat, grumbled in his beard, and started suddenly as a low mocking laugh reached his ears.
 
@@ -1035,7 +1035,7 @@ The men inside had wheeled at his first cry. Conan took a swift stride toward th
 
 Conan lifted his knife and smote, and the watchers were dumbfounded to see his blow checked apparently in midair, with the loud clang of steel that meets an unyielding substance. He wasted no more effort. He knew that not even the legendary tulwar of Amir Khurum could shatter that invisible curtain.
 
-In a few words he explained the matter to Kerim Shah, and the Turanian shrugged his shoulders. 'Well, if our exit is barred, we must find another. In the meanwhile our way lies forward, does it not?'
+In a few words he explained the matter to Kerim Shah, and the Turanian shrugged his shoulders. "Well, if our exit is barred, we must find another. In the meanwhile our way lies forward, does it not?"
 
 With a grunt the Cimmerian turned and strode across the chamber to the opposite door, with a feeling of treading on the threshold of doom. As he lifted his knife to shatter the door, it swung silently open as if of its own accord. He strode into the great hall, flanked with tall glassy columns. A hundred feet from the door began the broad jade-green steps of a stair that tapered toward the top like the side of a pyramid. What lay beyond that stair he could not tell. But between him and its shimmering foot stood a curious altar of gleaming black jade. Four great golden serpents twined their tails about this altar and reared their wedge-shaped heads in the air, facing the four quarters of the compass like the enchanted guardians of a fabled treasure. But on the altar, between the arching necks, stood only a crystal globe filled with a cloudy smoke-like substance, in which floated four golden pomegranates.
 
@@ -1051,7 +1051,7 @@ As the third tribesman clumped his way past Conan to his death, the Cimmerian, h
 
 The third Irakzai was a decapitated corpse, and the hideous finger was lifting again when Conan felt the bursting of the invisible barrier. A fierce, involuntary cry burst from his lips as he leaped with the explosive suddenness of pent-up ferocity. His left hand gripped the sorcerer's girdle as a drowning man grips a floating log, and the long knife was a sheen of light in his right. The men on the steps did not move. They watched calmly, cynically; if they felt surprise they did not show it. Conan did not allow himself to think what might chance when he came within knife-reach of them. His blood was pounding in his temples, a mist of crimson swam before his sight. He was afire with the urge to kill—to drive his knife deep into flesh and bone, and twist the blade in blood and entrails.
 
-Another dozen strides would carry him to the steps where the sneering demons stood. He drew his breath deep, his fury rising redly as his charge gathered momentum. He was hurtling past the altar with its golden serpents when like a levin-flash there shot across his mind again as vividly as if spoken in his external ear, the cryptic words of Khemsa: '*Break the crystal ball!*'
+Another dozen strides would carry him to the steps where the sneering demons stood. He drew his breath deep, his fury rising redly as his charge gathered momentum. He was hurtling past the altar with its golden serpents when like a levin-flash there shot across his mind again as vividly as if spoken in his external ear, the cryptic words of Khemsa: "*Break the crystal ball!*"
 
 His reaction was almost without his own volition. Execution followed impulse so spontaneously that the greatest sorcerer of the age would not have had time to read his mind and prevent his action. Wheeling like a cat from his headlong charge, he brought his knife crashing down upon the crystal. Instantly the air vibrated with a peal of terror, whether from the stairs, the altar, or the crystal itself he could not tell. Hisses filled his ears as the golden serpents, suddenly vibrant with hideous life, writhed and smote at him. But he was fired to the speed of a maddened tiger. A whirl of steel sheared through the hideous trunks that waved toward him, and he smote the crystal sphere again and yet again. And the globe burst with a noise like a thunderclap, raining fiery shards on the black marble, and the gold pomegranates, as if released from captivity, shot upward toward the lofty roof and were gone.
 
@@ -1059,21 +1059,21 @@ A mad screaming, bestial and ghastly, was echoing through the great hall. On the
 
 Kerim Shah was rising slowly from his knees, whither he had been dashed by some unseen force. He shook his head to clear the ringing from his ears.
 
-'Did you hear that crash when you struck? It was as if a thousand crystal panels shattered all over the castle as that globe burst. Were the souls of the wizards imprisoned in those golden balls?—Ha!'
+"Did you hear that crash when you struck? It was as if a thousand crystal panels shattered all over the castle as that globe burst. Were the souls of the wizards imprisoned in those golden balls?—Ha!"
 
 Conan wheeled as Kerim Shah drew his sword and pointed.
 
 Another figure stood at the head of the stair. His robe, too, was black, but of richly embroidered velvet, and there was a velvet cap on his head. His face was calm, and not unhandsome.
 
-'Who the devil are you?' demanded Conan, staring up at him, knife in hand.
+"Who the devil are you?" demanded Conan, staring up at him, knife in hand.
 
-'I am the Master of Yimsha!' His voice was like the chime of a temple bell, but a note of cruel mirth ran through it.
+"I am the Master of Yimsha!" His voice was like the chime of a temple bell, but a note of cruel mirth ran through it.
 
-'Where is Yasmina?' demanded Kerim Shah.
+"Where is Yasmina?" demanded Kerim Shah.
 
 The Master laughed down at him.
 
-'What is that to you, dead man? Have you so quickly forgotten my strength, once lent to you, that you come armed against me, you poor fool? I think I will take your heart, Kerim Shah!'
+"What is that to you, dead man? Have you so quickly forgotten my strength, once lent to you, that you come armed against me, you poor fool? I think I will take your heart, Kerim Shah!"
 
 He held out his hand as if to receive something, and the Turanian cried out sharply like a man in mortal agony. He reeled drunkenly, and then, with a splintering of bones, a rending of flesh and muscle and a snapping of mail-links, his breast burst outward with a shower of blood, and through the ghastly aperture something red and dripping shot through the air into the Master's outstretched hand, as a bit of steel leaps to the magnet. The Turanian slumped to the floor and lay motionless, and the Master laughed and hurled the object to fall before Conan's feet—a still-quivering human heart.
 
@@ -1097,23 +1097,23 @@ Before he could strike again, the great pliant loops fell from him and the monst
 
 Conan instantly attacked the screen. A few blows rent it apart and he glared into the dim alcove beyond. No horrific shape coiled there; there was blood on the marble floor, and bloody tracks led to a cryptic arched door. Those tracks were of a man's bare feet....
 
-'*Conan!*' He wheeled back into the chamber just in time to catch the Devi of Vendhya in his arms as she rushed across the room and threw herself upon him, catching him about the neck with a frantic clasp, half hysterical with terror and gratitude and relief.
+"*Conan!*" He wheeled back into the chamber just in time to catch the Devi of Vendhya in his arms as she rushed across the room and threw herself upon him, catching him about the neck with a frantic clasp, half hysterical with terror and gratitude and relief.
 
 His wild blood had been stirred to its uttermost by all that had passed. He caught her to him in a grasp that would have made her wince at another time, and crushed her lips with his. She made no resistance; the Devi was drowned in the elemental woman. She closed her eyes and drank in his fierce, hot, lawless kisses with all the abandon of passionate thirst. She was panting with his violence when he ceased for breath, and glared down at her lying limp in his mighty arms.
 
-'I knew you'd come for me,' she murmured. 'You would not leave me in this den of devils.'
+"I knew you'd come for me," she murmured. "You would not leave me in this den of devils."
 
 At her words recollection of their environment came to him suddenly. He lifted his head and listened intently. Silence reigned over the castle of Yimsha, but it was a silence impregnated with menace. Peril crouched in every corner, leered invisibly from every hanging.
 
-'We'd better go while we can,' he muttered. 'Those cuts were enough to kill any common beast—or *man*—but a wizard has a dozen lives. Wound one, and he writhes away like a crippled snake to soak up fresh venom from some source of sorcery.'
+"We'd better go while we can," he muttered. "Those cuts were enough to kill any common beast—or *man*—but a wizard has a dozen lives. Wound one, and he writhes away like a crippled snake to soak up fresh venom from some source of sorcery."
 
 He picked up the girl and carrying her in his arms like a child, he strode out into the gleaming jade corridor and down the stairs, nerves tautly alert for any sign or sound.
 
-'I met the Master,' she whispered, clinging to him and shuddering. 'He worked his spells on me to break my will. The most awful thing was a moldering corpse which seized me in its arms—I fainted then and lay as one dead, I do not know how long. Shortly after I regained consciousness I heard sounds of strife below, and cries, and then that snake came slithering through the curtains—ah!' She shook at the memory of that horror. 'I knew somehow that it was not an illusion, but a real serpent that sought my life.'
+"I met the Master," she whispered, clinging to him and shuddering. "He worked his spells on me to break my will. The most awful thing was a moldering corpse which seized me in its arms—I fainted then and lay as one dead, I do not know how long. Shortly after I regained consciousness I heard sounds of strife below, and cries, and then that snake came slithering through the curtains—ah!" She shook at the memory of that horror. "I knew somehow that it was not an illusion, but a real serpent that sought my life."
 
-'It was not a shadow, at least,' answered Conan cryptically. 'He knew he was beaten, and chose to slay you rather than let you be rescued.'
+"It was not a shadow, at least," answered Conan cryptically. "He knew he was beaten, and chose to slay you rather than let you be rescued."
 
-'What do you mean, *he*?' she asked uneasily, and then shrank against him, crying out, and forgetting her question. She had seen the corpses at the foot of the stairs. Those of the Seers were not good to look at; as they lay twisted and contorted, their hands and feet were exposed to view, and at the sight Yasmina went livid and hid her face against Conan's powerful shoulder.
+"What do you mean, *he*?" she asked uneasily, and then shrank against him, crying out, and forgetting her question. She had seen the corpses at the foot of the stairs. Those of the Seers were not good to look at; as they lay twisted and contorted, their hands and feet were exposed to view, and at the sight Yasmina went livid and hid her face against Conan's powerful shoulder.
 
 ---
 
@@ -1131,87 +1131,87 @@ But far below, the floor shone like tarnished silver, and the gold thread sparkl
 
 When he toiled up the farther ramp and came out upon the crest, he breathed a gusty sigh of relief and stood Yasmina upon her feet.
 
-'You walk from here,' he told her; 'it's downhill all the way.'
+"You walk from here," he told her; "it's downhill all the way."
 
 She stole a glance at the gleaming pyramid across the chasm; it reared up against the snowy slope like the citadel of silence and immemorial evil.
 
-'Are you a magician, that you have conquered the Black Seers of Yimsha, Conan of Ghor?' she asked, as they went down the path, with his heavy arm about her supple waist.
+"Are you a magician, that you have conquered the Black Seers of Yimsha, Conan of Ghor?" she asked, as they went down the path, with his heavy arm about her supple waist.
 
-'It was a girdle Khemsa gave me before he died,' Conan answered. 'Yes, I found him on the trail. It is a curious one, which I'll show you when I have time. Against some spells it was weak, but against others it was strong, and a good knife is always a hearty incantation.'
+"It was a girdle Khemsa gave me before he died," Conan answered. "Yes, I found him on the trail. It is a curious one, which I'll show you when I have time. Against some spells it was weak, but against others it was strong, and a good knife is always a hearty incantation."
 
-'But if the girdle aided you in conquering the Master,' she argued, 'why did it not aid Khemsa?'
+"But if the girdle aided you in conquering the Master," she argued, "why did it not aid Khemsa?"
 
-He shook his head. 'Who knows? But Khemsa had been the Master's slave; perhaps that weakened its magic. He had no hold on me as he had on Khemsa. Yet I can't say that I conquered him. He retreated, but I have a feeling that we haven't seen the last of him. I want to put as many miles between us and his lair as we can.'
+He shook his head. "Who knows? But Khemsa had been the Master's slave; perhaps that weakened its magic. He had no hold on me as he had on Khemsa. Yet I can't say that I conquered him. He retreated, but I have a feeling that we haven't seen the last of him. I want to put as many miles between us and his lair as we can."
 
 He was further relieved to find horses tethered among the tamarisks as he had left them. He loosed them swiftly and mounted the black stallion, swinging the girl up before him. The others followed, freshened by their rest.
 
-'And what now?' she asked. 'To Afghulistan?'
+"And what now?" she asked. "To Afghulistan?"
 
-'Not just now!' He grinned hardly. 'Somebody—maybe the governor—killed my seven headmen. My idiotic followers think I had something to do with it, and unless I am able to convince them otherwise, they'll hunt me like a wounded jackal.'
+"Not just now!" He grinned hardly. "Somebody—maybe the governor—killed my seven headmen. My idiotic followers think I had something to do with it, and unless I am able to convince them otherwise, they'll hunt me like a wounded jackal."
 
-'Then what of me? If the headmen are dead, I am useless to you as a hostage. Will you slay me, to avenge them?'
+"Then what of me? If the headmen are dead, I am useless to you as a hostage. Will you slay me, to avenge them?"
 
 He looked down at her, with eyes fiercely aglow, and laughed at the suggestion.
 
-'Then let us ride to the border,' she said. 'You'll be safe from the Afghulis there—'
+"Then let us ride to the border," she said. "You'll be safe from the Afghulis there—"
 
-'Yes, on a Vendhyan gibbet.'
+"Yes, on a Vendhyan gibbet."
 
-'I am Queen of Vendhya,' she reminded him with a touch of her old imperiousness. 'You have saved my life. You shall be rewarded.'
+"I am Queen of Vendhya," she reminded him with a touch of her old imperiousness. "You have saved my life. You shall be rewarded."
 
 She did not intend it as it sounded, but he growled in his throat, ill pleased.
 
-'Keep your bounty for your city-bred dogs, princess! If you're a queen of the plains, I'm a chief of the hills, and not one foot toward the border will I take you!'
+"Keep your bounty for your city-bred dogs, princess! If you're a queen of the plains, I'm a chief of the hills, and not one foot toward the border will I take you!"
 
-'But you would be safe—' she began bewilderedly.
+"But you would be safe—" she began bewilderedly.
 
-'And you'd be the Devi again,' he broke in. 'No, girl; I prefer you as you are now—a woman of flesh and blood, riding on my saddle-bow.'
+"And you'd be the Devi again," he broke in. "No, girl; I prefer you as you are now—a woman of flesh and blood, riding on my saddle-bow."
 
-'But you can't *keep* me!' she cried. 'You can't—'
+"But you can't *keep* me!" she cried. "You can't—"
 
-'Watch and see!' he advised grimly.
+"Watch and see!" he advised grimly.
 
-'But I will pay you a vast ransom—'
+"But I will pay you a vast ransom—"
 
-'Devil take your ransom!' he answered roughly, his arms hardening about her supple figure. 'The kingdom of Vendhya could give me nothing I desire half so much as I desire you. I took you at the risk of my neck; if your courtiers want you back, let them come up the Zhaibar and fight for you.'
+"Devil take your ransom!" he answered roughly, his arms hardening about her supple figure. "The kingdom of Vendhya could give me nothing I desire half so much as I desire you. I took you at the risk of my neck; if your courtiers want you back, let them come up the Zhaibar and fight for you."
 
-'But you have no followers now!' she protested. 'You are hunted! How can you preserve your own life, much less mine?'
+"But you have no followers now!" she protested. "You are hunted! How can you preserve your own life, much less mine?"
 
-'I still have friends in the hills,' he answered. 'There is a chief of the Khurakzai who will keep you safely while I bicker with the Afghulis. If they will have none of me, by Crom! I will ride northward with you to the steppes of the *kozaki*. I was a hetman among the Free Companions before I rode southward. I'll make you a queen on the Zaporoska River!'
+"I still have friends in the hills," he answered. "There is a chief of the Khurakzai who will keep you safely while I bicker with the Afghulis. If they will have none of me, by Crom! I will ride northward with you to the steppes of the *kozaki*. I was a hetman among the Free Companions before I rode southward. I'll make you a queen on the Zaporoska River!"
 
-'But I can not!' she objected. 'You must not hold me—'
+"But I can not!" she objected. "You must not hold me—"
 
-'If the idea's so repulsive,' he demanded, 'why did you yield your lips to me so willingly?'
+"If the idea's so repulsive," he demanded, "why did you yield your lips to me so willingly?"
 
-'Even a queen is human,' she answered, coloring. 'But because I am a queen, I must consider my kingdom. Do not carry me away into some foreign country. Come back to Vendhya with me!'
+"Even a queen is human," she answered, coloring. "But because I am a queen, I must consider my kingdom. Do not carry me away into some foreign country. Come back to Vendhya with me!"
 
-'Would you make me your king?' he asked sardonically.
+"Would you make me your king?" he asked sardonically.
 
-'Well, there are customs—' she stammered, and he interrupted her with a hard laugh.
+"Well, there are customs—" she stammered, and he interrupted her with a hard laugh.
 
-'Yes, civilized customs that won't let you do as you wish. You'll marry some withered old king of the plains, and I can go my way with only the memory of a few kisses snatched from your lips. Ha!'
+"Yes, civilized customs that won't let you do as you wish. You'll marry some withered old king of the plains, and I can go my way with only the memory of a few kisses snatched from your lips. Ha!"
 
-'But I must return to my kingdom!' she repeated helplessly.
+"But I must return to my kingdom!" she repeated helplessly.
 
-'Why?' he demanded angrily. 'To chafe your rump on gold thrones, and listen to the plaudits of smirking, velvet-skirted fools? Where is the gain? Listen: I was born in the Cimmerian hills where the people are all barbarians. I have been a mercenary soldier, a corsair, a *kozak*, and a hundred other things. What king has roamed the countries, fought the battles, loved the women, and won the plunder that I have?
+"Why?" he demanded angrily. "To chafe your rump on gold thrones, and listen to the plaudits of smirking, velvet-skirted fools? Where is the gain? Listen: I was born in the Cimmerian hills where the people are all barbarians. I have been a mercenary soldier, a corsair, a *kozak*, and a hundred other things. What king has roamed the countries, fought the battles, loved the women, and won the plunder that I have?
 
-'I came into Ghulistan to raise a horde and plunder the kingdoms to the south—your own among them. Being chief of the Afghulis was only a start. If I can conciliate them, I'll have a dozen tribes following me within a year. But if I can't I'll ride back to the steppes and loot the Turanian borders with the *kozaki*. And you'll go with me. To the devil with your kingdom; they fended for themselves before you were born.'
+"I came into Ghulistan to raise a horde and plunder the kingdoms to the south—your own among them. Being chief of the Afghulis was only a start. If I can conciliate them, I'll have a dozen tribes following me within a year. But if I can't I'll ride back to the steppes and loot the Turanian borders with the *kozaki*. And you'll go with me. To the devil with your kingdom; they fended for themselves before you were born."
 
 She lay in his arms looking up at him, and she felt a tug at her spirit, a lawless, reckless urge that matched his own and was by it called into being. But a thousand generations of sovereignship rode heavy upon her.
 
-'I can't! I can't!' she repeated helplessly.
+"I can't! I can't!" she repeated helplessly.
 
-'You haven't any choice,' he assured her. 'You—what the devil!'
+"You haven't any choice," he assured her. "You—what the devil!"
 
 They had left Yimsha some miles behind them, and were riding along a high ridge that separated two deep valleys. They had just topped a steep crest where they could gaze down into the valley on their right hand. And there was a running fight in progress. A strong wind was blowing away from them, carrying the sound from their ears, but even so the clashing of steel and thunder of hoofs welled up from far below.
 
 They saw the glint of the sun on lance-tip and spired helmet. Three thousand mailed horsemen were driving before them a ragged band of turbaned riders, who fled snarling and striking like fleeing wolves.
 
-'Turanians,' muttered Conan. 'Squadrons from Secunderam. What the devil are they doing here?'
+"Turanians," muttered Conan. "Squadrons from Secunderam. What the devil are they doing here?"
 
-'Who are the men they pursue?' asked Yasmina. 'And why do they fall back so stubbornly? They can not stand against such odds.'
+"Who are the men they pursue?" asked Yasmina. "And why do they fall back so stubbornly? They can not stand against such odds."
 
-'Five hundred of my mad Afghulis,' he growled, scowling down into the vale. 'They're in a trap, and they know it.'
+"Five hundred of my mad Afghulis," he growled, scowling down into the vale. "They're in a trap, and they know it."
 
 The valley was indeed a cul-de-sac at that end. It narrowed to a high-walled gorge, opening out further into a round bowl, completely rimmed with lofty, unscalable walls.
 
@@ -1221,33 +1221,33 @@ Their emir was a man of decision and initiative. When he reached the Gurashah va
 
 Of all this, of course, the watchers on the ridge were not aware. But Conan fidgeted with nervousness.
 
-'Why the devil did they get themselves trapped?' he demanded of the universe at large. 'I know what they're doing in these parts—they were hunting me, the dogs! Poking into every valley—and found themselves penned in before they knew it. The poor fools! They're making a stand in the gorge, but they can't hold out for long. When the Turanians have pushed them back into the bowl, they'll slaughter them at their leisure.'
+"Why the devil did they get themselves trapped?" he demanded of the universe at large. "I know what they're doing in these parts—they were hunting me, the dogs! Poking into every valley—and found themselves penned in before they knew it. The poor fools! They're making a stand in the gorge, but they can't hold out for long. When the Turanians have pushed them back into the bowl, they'll slaughter them at their leisure."
 
 The din welling up from below increased in volume and intensity. In the strait of the narrow gut, the Afghulis, fighting desperately, were for the time holding their own against the mailed riders, who could not throw their whole weight against them.
 
-Conan scowled darkly, moved restlessly, fingering his hilt, and finally spoke bluntly: 'Devi, I must go down to them. I'll find a place for you to hide until I come back to you. You spoke of your kingdom—well, I don't pretend to look on those hairy devils as my children, but after all, such as they are, they're my henchmen. A chief should never desert his followers, even if they desert him first. They think they were right in kicking me out—hell, I won't be cast off! I'm still chief of the Afghulis, and I'll prove it! I can climb down on foot into the gorge.'
+Conan scowled darkly, moved restlessly, fingering his hilt, and finally spoke bluntly: "Devi, I must go down to them. I'll find a place for you to hide until I come back to you. You spoke of your kingdom—well, I don't pretend to look on those hairy devils as my children, but after all, such as they are, they're my henchmen. A chief should never desert his followers, even if they desert him first. They think they were right in kicking me out—hell, I won't be cast off! I'm still chief of the Afghulis, and I'll prove it! I can climb down on foot into the gorge."
 
-'But what of me?' she queried. 'You carried me away forcibly from *my* people; now will you leave me to die in the hills alone while you go down and sacrifice yourself uselessly?'
+"But what of me?" she queried. "You carried me away forcibly from *my* people; now will you leave me to die in the hills alone while you go down and sacrifice yourself uselessly?"
 
 His veins swelled with the conflict of his emotions.
 
-'That's right,' he muttered helplessly. 'Crom knows what I *can* do.'
+"That's right," he muttered helplessly. "Crom knows what I *can* do."
 
 She turned her head slightly, a curious expression dawning on her beautiful face. Then:
 
-'Listen!' she cried. 'Listen!'
+"Listen!" she cried. "Listen!"
 
 A distant fanfare of trumpets was borne faintly to their ears. They stared into the deep valley on the left, and caught a glint of steel on the farther side. A long line of lances and polished helmets moved along the vale, gleaming in the sunlight.
 
-'The riders of Vendhya!' she cried exultingly.
+"The riders of Vendhya!" she cried exultingly.
 
-'There are thousands of them!' muttered Conan. 'It has been long since a Kshatriya host has ridden this far into the hills.'
+"There are thousands of them!" muttered Conan. "It has been long since a Kshatriya host has ridden this far into the hills."
 
-'They are searching for me!' she exclaimed. 'Give me your horse! I will ride to my warriors! The ridge is not so precipitous on the left, and I can reach the valley floor. I will lead my horsemen into the valley at the upper end and fall upon the Turanians! We will crush them in the vise! Quick, Conan! Will you sacrifice your men to your own desire?'
+"They are searching for me!" she exclaimed. "Give me your horse! I will ride to my warriors! The ridge is not so precipitous on the left, and I can reach the valley floor. I will lead my horsemen into the valley at the upper end and fall upon the Turanians! We will crush them in the vise! Quick, Conan! Will you sacrifice your men to your own desire?"
 
 The burning hunger of the steppes and the wintry forests glared out of his eyes, but he shook his head and swung off the stallion, placing the reins in her hands.
 
-'You win!' he grunted. 'Ride like the devil!'
+"You win!" he grunted. "Ride like the devil!"
 
 She wheeled away down the left-hand slope and he ran swiftly along the ridge until he reached the long ragged cleft that was the defile in which the fight raged. Down the rugged wall he scrambled like an ape, clinging to projections and crevices, to fall at last, feet first, into the mêlée that raged in the mouth of the gorge. Blades were whickering and clanging about him, horses rearing and stamping, helmet plumes nodding among turbans that were stained crimson.
 
@@ -1263,7 +1263,7 @@ That stroke split the Turanian squadrons asunder, shattered, tore and rent them 
 
 The sun was sinking toward the distant crags when Conan, his garments hacked to tatters and the mail under them reeking and clotted with blood, his knife dripping and crusted to the hilt, strode over the corpses to where Yasmina Devi sat her horse among her nobles on the crest of the ridge, near a lofty precipice.
 
-'You kept your word, Devi!' he roared. 'By Crom, though, I had some bad seconds down in that gorge—*look out!*'
+"You kept your word, Devi!" he roared. "By Crom, though, I had some bad seconds down in that gorge—*look out!*"
 
 Down from the sky swooped a vulture of tremendous size with a thunder of wings that knocked men sprawling from their horses.
 
@@ -1271,14 +1271,14 @@ The scimitar-like beak was slashing for the Devi's soft neck, but Conan was quic
 
 Conan turned to Yasmina, his red knife still in his hand, his blue eyes smoldering, blood oozing from wounds on his thickly muscled arms and thighs.
 
-'You are the Devi again,' he said, grinning fiercely at the gold-clasped gossamer robe she had donned over her hill-girl attire, and awed not at all by the imposing array of chivalry about him. 'I have you to thank for the lives of some three hundred and fifty of my rogues, who are at least convinced that I didn't betray them. You have put my hands on the reins of conquest again.'
+"You are the Devi again," he said, grinning fiercely at the gold-clasped gossamer robe she had donned over her hill-girl attire, and awed not at all by the imposing array of chivalry about him. "I have you to thank for the lives of some three hundred and fifty of my rogues, who are at least convinced that I didn't betray them. You have put my hands on the reins of conquest again."
 
-'I still owe you my ransom,' she said, her dark eyes glowing as they swept over him. 'Ten thousand pieces of gold I will pay you—'
+"I still owe you my ransom," she said, her dark eyes glowing as they swept over him. "Ten thousand pieces of gold I will pay you—"
 
 He made a savage, impatient gesture, shook the blood from his knife and thrust it back in its scabbard, wiping his hands on his mail.
 
-'I will collect your ransom in my own way, at my own time,' he said. 'I will collect it in your palace at Ayodhya, and I will come with fifty thousand men to see that the scales are fair.'
+"I will collect your ransom in my own way, at my own time," he said. "I will collect it in your palace at Ayodhya, and I will come with fifty thousand men to see that the scales are fair."
 
-She laughed, gathering her reins into her hands. 'And I will meet you on the shores of the Jhumda with a hundred thousand!'
+She laughed, gathering her reins into her hands. "And I will meet you on the shores of the Jhumda with a hundred thousand!"
 
 His eyes shone with fierce appreciation and admiration, and stepping back, he lifted his hand with a gesture that was like the assumption of kingship, indicating that her road was clear before her.

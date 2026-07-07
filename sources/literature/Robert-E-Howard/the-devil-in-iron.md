@@ -39,11 +39,11 @@ Suddenly the man rose and towered above him, menace in his every aspect. There w
 
 Jehungir Agha, lord of Khawarizm and keeper of the coastal border, scanned once more the ornate parchment scroll with its peacock seal, and laughed shortly and sardonically.
 
-'Well?' bluntly demanded his counsellor Ghaznavi.
+"Well?" bluntly demanded his counsellor Ghaznavi.
 
 Jehungir shrugged his shoulders. He was a handsome man, with the merciless pride of birth and accomplishment.
 
-'The king grows short of patience,' said he. 'In his own hand he complains bitterly of what he calls my failure to guard the frontier. By Tarim, if I can not deal a blow to these robbers of the steppes, Khawarizm may own a new lord.'
+"The king grows short of patience," said he. "In his own hand he complains bitterly of what he calls my failure to guard the frontier. By Tarim, if I can not deal a blow to these robbers of the steppes, Khawarizm may own a new lord."
 
 Ghaznavi tugged his gray-shot beard in meditation. Yezdigerd, king of Turan, was the mightiest monarch in the world. In his palace in the great port city of Aghrapur was heaped the plunder of empires. His fleets of purple-sailed war galleys had made Vilayet an Hyrkanian lake. The dark-skinned people of Zamora paid him tribute, as did the eastern provinces of Koth. The Shemites bowed to his rule as far west as Shushan. His armies ravaged the borders of Stygia in the south and the snowy lands of the Hyperboreans in the north. His riders bore torch and sword westward into Brythunia and Ophir and Corinthia, even to the borders of Nemedia. His gilt-helmeted swordsmen had trampled hosts under their horses' hoofs, and walled cities went up in flames at his command. In the glutted slave markets of Aghrapur, Sultanapur, Khawarizm, Shahpur and Khorusun, women were sold for three small silver coins—blond Brythunians, tawny Stygians, dark-haired Zamorians, ebon Kushites, olive-skinned Shemites.
 
@@ -53,63 +53,63 @@ On the broad steppes between the Sea of Vilayet and the borders of the easternmo
 
 Dwelling on the wild, open steppes, owning no law but their own peculiar code, they had become a people capable of defying the Grand Monarch. Ceaselessly they raided the Turanian frontier, retiring in the steppes when defeated; with the pirates of Vilayet, men of much the same breed, they harried the coast, preying off the merchant ships which plied between the Hyrkanian ports.
 
-'How am I to crush these wolves?' demanded Jehungir. 'If I follow them into the steppes, I run the risk either of being cut off and destroyed, or having them elude me entirely and burn the city in my absence. Of late they have been more daring than ever.'
+"How am I to crush these wolves?" demanded Jehungir. "If I follow them into the steppes, I run the risk either of being cut off and destroyed, or having them elude me entirely and burn the city in my absence. Of late they have been more daring than ever."
 
-'That is because of the new chief who has risen among them,' answered Ghaznavi. 'You know whom I mean.'
+"That is because of the new chief who has risen among them," answered Ghaznavi. "You know whom I mean."
 
-'Aye!' replied Jehungir feelingly. 'It is that devil Conan; he is even wilder than the *kozaks*, yet he is crafty as a mountain lion.'
+"Aye!" replied Jehungir feelingly. "It is that devil Conan; he is even wilder than the *kozaks*, yet he is crafty as a mountain lion."
 
-'It is more through wild animal instinct than through intelligence,' answered Ghaznavi. 'The other *kozaks* are at least descendants of civilized men. He is a barbarian. But to dispose of him would be to deal them a crippling blow.'
+"It is more through wild animal instinct than through intelligence," answered Ghaznavi. "The other *kozaks* are at least descendants of civilized men. He is a barbarian. But to dispose of him would be to deal them a crippling blow."
 
-'But how?' demanded Jehungir. 'He has repeatedly cut his way out of spots that seemed certain death for him. And, by instinct or cunning, he has avoided or escaped every trap set for him.'
+"But how?" demanded Jehungir. "He has repeatedly cut his way out of spots that seemed certain death for him. And, by instinct or cunning, he has avoided or escaped every trap set for him."
 
-'For every beast and for every man there is a trap he will not escape,' quoth Ghaznavi. 'When we have parleyed with the *kozaks* for the ransom of captives, I have observed this man Conan. He has a keen relish for women and strong drink. Have your captive Octavia fetched here.'
+"For every beast and for every man there is a trap he will not escape," quoth Ghaznavi. "When we have parleyed with the *kozaks* for the ransom of captives, I have observed this man Conan. He has a keen relish for women and strong drink. Have your captive Octavia fetched here."
 
 Jehungir clapped his hands, and an impassive Kushite eunuch, an image of shining ebony in silken pantaloons, bowed before him and went to do his bidding. Presently he returned, leading by the wrist a tall handsome girl, whose yellow hair, clear eyes and fair skin identified her as a pure-blooded member of her race. Her scanty silk tunic, girded at the waist, displayed the marvelous contours of her magnificent figure. Her fine eyes flashed with resentment and her red lips were sulky, but submission had been taught her during her captivity. She stood with hanging head before her master until he motioned her to a seat on the divan beside him. Then he looked inquiringly at Ghaznavi.
 
-'We must lure Conan away from the *kozaks*,' said the counsellor abruptly. 'Their war camp is at present pitched somewhere on the lower reaches of the Zaporoska River—which, as you well know, is a wilderness of reeds, a swampy jungle in which our last expedition was cut to pieces by those masterless devils.'
+"We must lure Conan away from the *kozaks*," said the counsellor abruptly. "Their war camp is at present pitched somewhere on the lower reaches of the Zaporoska River—which, as you well know, is a wilderness of reeds, a swampy jungle in which our last expedition was cut to pieces by those masterless devils."
 
-'I am not likely to forget that,' said Jehungir wryly.
+"I am not likely to forget that," said Jehungir wryly.
 
-'There is an uninhabited island near the mainland,' said Ghaznavi, 'known as Xapur, the Fortified, because of some ancient ruins upon it. There is a peculiarity about it which makes it perfect for our purpose. It has no shore-line, but rises sheer out of the sea in cliffs a hundred and fifty feet tall. Not even an ape could negotiate them. The only place where a man can go up or down is a narrow path on the western side that has the appearance of a worn stair, carved into the solid rock of the cliffs.
+"There is an uninhabited island near the mainland," said Ghaznavi, "known as Xapur, the Fortified, because of some ancient ruins upon it. There is a peculiarity about it which makes it perfect for our purpose. It has no shore-line, but rises sheer out of the sea in cliffs a hundred and fifty feet tall. Not even an ape could negotiate them. The only place where a man can go up or down is a narrow path on the western side that has the appearance of a worn stair, carved into the solid rock of the cliffs.
 
-'If we could trap Conan on that island, alone, we could hunt him down at our leisure, with bows, as men hunt a lion.'
+"If we could trap Conan on that island, alone, we could hunt him down at our leisure, with bows, as men hunt a lion."
 
-'As well wish for the moon,' said Jehungir impatiently. 'Shall we send him a messenger, bidding him climb the cliffs and await our coming?'
+"As well wish for the moon," said Jehungir impatiently. "Shall we send him a messenger, bidding him climb the cliffs and await our coming?"
 
-'In effect, yes!' Seeing Jehungir's look of amazement, Ghaznavi continued: 'We will ask for a parley with the *kozaks* in regard to prisoners, at the edge of the steppes by Fort Ghori. As usual, we will go with a force and encamp outside the castle. They will come, with an equal force, and the parley will go forward with the usual distrust and suspicion. But this time we will take with us, as if by casual chance, your beautiful captive.' Octavia changed color and listened with intensified interest as the counsellor nodded toward her. 'She will use all her wiles to attract Conan's attention. That should not be difficult. To that wild reaver she should appear a dazzling vision of loveliness. Her vitality and substantial figure should appeal to him more vividly than would one of the doll-like beauties of your seraglio.'
+"In effect, yes!" Seeing Jehungir's look of amazement, Ghaznavi continued: "We will ask for a parley with the *kozaks* in regard to prisoners, at the edge of the steppes by Fort Ghori. As usual, we will go with a force and encamp outside the castle. They will come, with an equal force, and the parley will go forward with the usual distrust and suspicion. But this time we will take with us, as if by casual chance, your beautiful captive." Octavia changed color and listened with intensified interest as the counsellor nodded toward her. "She will use all her wiles to attract Conan's attention. That should not be difficult. To that wild reaver she should appear a dazzling vision of loveliness. Her vitality and substantial figure should appeal to him more vividly than would one of the doll-like beauties of your seraglio."
 
 Octavia sprang up, her white fists clenched, her eyes blazing and her figure quivering with outraged anger.
 
-'You would force me to play the trollop with this barbarian?' she exclaimed. 'I will not! I am no market-block slut to smirk and ogle at a steppes-robber. I am the daughter of a Nemedian lord—'
+"You would force me to play the trollop with this barbarian?" she exclaimed. "I will not! I am no market-block slut to smirk and ogle at a steppes-robber. I am the daughter of a Nemedian lord—"
 
-'You were of the Nemedian nobility before my riders carried you off,' returned Jehungir cynically. 'Now you are merely a slave who will do as she is bid.'
+"You were of the Nemedian nobility before my riders carried you off," returned Jehungir cynically. "Now you are merely a slave who will do as she is bid."
 
-'I will not!' she raged.
+"I will not!" she raged.
 
-'On the contrary,' rejoined Jehungir with studied cruelty, 'you will. I like Ghaznavi's plan. Continue, prince among counsellors.'
+"On the contrary," rejoined Jehungir with studied cruelty, "you will. I like Ghaznavi's plan. Continue, prince among counsellors."
 
-'Conan will probably wish to buy her. You will refuse to sell her, of course, or to exchange her for Hyrkanian prisoners. He may then try to steal her, or take her by force—though I do not think even he would break the parley-truce. Anyway, we must be prepared for whatever he might attempt.
+"Conan will probably wish to buy her. You will refuse to sell her, of course, or to exchange her for Hyrkanian prisoners. He may then try to steal her, or take her by force—though I do not think even he would break the parley-truce. Anyway, we must be prepared for whatever he might attempt.
 
-'Then, shortly after the parley, before he has time to forget all about her, we will send a messenger to him, under a flag of truce, accusing him of stealing the girl, and demanding her return. He may kill the messenger, but at least he will think that she has escaped.
+"Then, shortly after the parley, before he has time to forget all about her, we will send a messenger to him, under a flag of truce, accusing him of stealing the girl, and demanding her return. He may kill the messenger, but at least he will think that she has escaped.
 
-'Then we will send a spy—a Yuetshi fisherman will do—to the *kozak* camp, who will tell Conan that Octavia is hiding on Xapur. If I know my man, he will go straight to that place.'
+"Then we will send a spy—a Yuetshi fisherman will do—to the *kozak* camp, who will tell Conan that Octavia is hiding on Xapur. If I know my man, he will go straight to that place."
 
-'But we do not know that he will go alone,' Jehungir argued.
+"But we do not know that he will go alone," Jehungir argued.
 
-'Does a man take a band of warriors with him, when going to a rendezvous with a woman he desires?' retorted Ghaznavi. 'The chances are all that he *will* go alone. But we will take care of the other alternative. We will not await him on the island, where we might be trapped ourselves, but among the reeds of a marshy point which juts out to within a thousand yards of Xapur. If he brings a large force, we'll beat a retreat and think up another plot. If he comes alone or with a small party, we will have him. Depend upon it, he will come, remembering your charming slave's smiles and meaning glances.'
+"Does a man take a band of warriors with him, when going to a rendezvous with a woman he desires?" retorted Ghaznavi. "The chances are all that he *will* go alone. But we will take care of the other alternative. We will not await him on the island, where we might be trapped ourselves, but among the reeds of a marshy point which juts out to within a thousand yards of Xapur. If he brings a large force, we'll beat a retreat and think up another plot. If he comes alone or with a small party, we will have him. Depend upon it, he will come, remembering your charming slave's smiles and meaning glances."
 
-'I will never descend to such shame!' Octavia was wild with fury and humiliation. 'I will die first!'
+"I will never descend to such shame!" Octavia was wild with fury and humiliation. "I will die first!"
 
-'You will not die, my rebellious beauty,' said Jehungir, 'but you will be subjected to a very painful and humiliating experience.'
+"You will not die, my rebellious beauty," said Jehungir, "but you will be subjected to a very painful and humiliating experience."
 
 He clapped his hands, and Octavia paled. This time it was not the Kushite who entered, but a Shemite, a heavily muscled man of medium height with a short, curled, blue-black beard.
 
-'Here is work for you, Gilzan,' said Jehungir. 'Take this fool, and play with her awhile. Yet be careful not to spoil her beauty.'
+"Here is work for you, Gilzan," said Jehungir. "Take this fool, and play with her awhile. Yet be careful not to spoil her beauty."
 
 With an inarticulate grunt the Shemite seized Octavia's wrist, and at the grasp of his iron fingers, all the defiance went out of her. With a piteous cry she tore away and threw herself on her knees before her implacable master, sobbing incoherently for mercy.
 
-Jehungir dismissed the disappointed torturer with a gesture, and said to Ghaznavi: 'If your plan succeeds, I will fill your lap with gold.'
+Jehungir dismissed the disappointed torturer with a gesture, and said to Ghaznavi: "If your plan succeeds, I will fill your lap with gold."
 
 ---
 
@@ -149,7 +149,7 @@ He paddled to the carven stair as one familiar with his environs, and moored the
 
 What Ghaznavi had considered animal intuition or some sixth sense was merely the razor-edge faculties and savage wit of the barbarian. Conan had no instinct to tell him that men were watching him from a covert among the reeds of the mainland.
 
-As he climbed the cliff, one of these men breathed deeply and stealthily lifted a bow. Jehungir caught his wrist and hissed an oath into his ear. 'Fool! Will you betray us? Don't you realize he is out of range? Let him get upon the island. He will go looking for the girl. We will stay here awhile. He *may* have sensed our presence or guessed our plot. He may have warriors hidden somewhere. We will wait. In an hour, if nothing suspicious occurs, we'll row up to the foot of the stair and await him there. If he does not return in a reasonable time, some of us will go upon the island and hunt him down. But I do not wish to do that if it can be helped. Some of us are sure to die if we have to go into the bush after him. I had rather catch him descending the stair, where we can feather him with arrows from a safe distance.'
+As he climbed the cliff, one of these men breathed deeply and stealthily lifted a bow. Jehungir caught his wrist and hissed an oath into his ear. "Fool! Will you betray us? Don't you realize he is out of range? Let him get upon the island. He will go looking for the girl. We will stay here awhile. He *may* have sensed our presence or guessed our plot. He may have warriors hidden somewhere. We will wait. In an hour, if nothing suspicious occurs, we'll row up to the foot of the stair and await him there. If he does not return in a reasonable time, some of us will go upon the island and hunt him down. But I do not wish to do that if it can be helped. Some of us are sure to die if we have to go into the bush after him. I had rather catch him descending the stair, where we can feather him with arrows from a safe distance."
 
 Meanwhile the unsuspecting *kozak* had plunged into the forest. He went silently in his soft leather boots, his gaze sifting every shadow in eagerness to catch sight of the splendid tawny-haired beauty of whom he had dreamed ever since he had seen her in the pavilion of Jehungir Agha by Fort Ghori. He would have desired her even if she had displayed repugnance toward him. But her cryptic smiles and glances had fired his blood, and with all the lawless violence which was his heritage he desired that white-skinned golden-haired woman of civilization.
 
@@ -185,31 +185,31 @@ She was undoubtedly a member of a white race, though her skin was very dark. Her
 
 Presently she spoke, but the tongue was unfamiliar to him, and he shook his head. She yawned again, stretched lithely, and without any show of fear or surprize, shifted to a language he did understand, a dialect of Yuetshi which sounded strangely archaic.
 
-'Are you looking for someone?' she asked, as indifferently as if the invasion of her chamber by an armed stranger were the most common thing imaginable.
+"Are you looking for someone?" she asked, as indifferently as if the invasion of her chamber by an armed stranger were the most common thing imaginable.
 
-'Who are you?' he demanded.
+"Who are you?" he demanded.
 
-'I am Yateli,' she answered languidly. 'I must have feasted late last night, I am so sleepy now. Who are you?'
+"I am Yateli," she answered languidly. "I must have feasted late last night, I am so sleepy now. Who are you?"
 
-'I am Conan, a *hetman* among the *kozaks*,' he answered, watching her narrowly. He believed her attitude to be a pose, and expected her to try to escape from the chamber or rouse the house. But, though a velvet rope that might be a signal cord hung near her, she did not reach for it.
+"I am Conan, a *hetman* among the *kozaks*," he answered, watching her narrowly. He believed her attitude to be a pose, and expected her to try to escape from the chamber or rouse the house. But, though a velvet rope that might be a signal cord hung near her, she did not reach for it.
 
-'Conan,' she repeated drowsily. 'You are not a Dagonian. I suppose you are a mercenary. Have you cut the heads off many Yuetshi?'
+"Conan," she repeated drowsily. "You are not a Dagonian. I suppose you are a mercenary. Have you cut the heads off many Yuetshi?"
 
-'I do not war on water rats!' he snorted.
+"I do not war on water rats!" he snorted.
 
-'But they are very terrible,' she murmured. 'I remember when they were our slaves. But they revolted and burned and slew. Only the magic of Khosatral Khel has kept them from the walls—' She paused, a puzzled look struggling with the sleepiness of her expression. 'I forgot,' she muttered. 'They *did* climb the walls, last night. There was shouting and fire, and people calling in vain on Khosatral.' She shook her head as if to clear it. 'But that can not be,' she murmured, 'because I am alive, and I thought I was dead. Oh, to the devil with it!'
+"But they are very terrible," she murmured. "I remember when they were our slaves. But they revolted and burned and slew. Only the magic of Khosatral Khel has kept them from the walls—" She paused, a puzzled look struggling with the sleepiness of her expression. "I forgot," she muttered. "They *did* climb the walls, last night. There was shouting and fire, and people calling in vain on Khosatral." She shook her head as if to clear it. "But that can not be," she murmured, "because I am alive, and I thought I was dead. Oh, to the devil with it!"
 
 She came across the chamber, and taking Conan's hand, drew him to the dais. He yielded in bewilderment and uncertainty. The girl smiled at him like a sleepy child; her long silky lashes drooped over dusky, clouded eyes. She ran her fingers through his thick black locks as if to assure herself of his reality.
 
-'It was a dream,' she yawned. 'Perhaps it's all a dream. I feel like a dream now. I don't care. I can't remember something—I have forgotten—there is something I can not understand, but I grow so sleepy when I try to think. Anyway, it doesn't matter.'
+"It was a dream," she yawned. "Perhaps it's all a dream. I feel like a dream now. I don't care. I can't remember something—I have forgotten—there is something I can not understand, but I grow so sleepy when I try to think. Anyway, it doesn't matter."
 
-'What do you mean?' he asked uneasily. 'You said they climbed the walls last night? Who?'
+"What do you mean?" he asked uneasily. "You said they climbed the walls last night? Who?"
 
-'The Yuetshi. I thought so, anyway. A cloud of smoke hid everything, but a naked, blood-stained devil caught me by the throat and drove his knife into my breast. Oh, it hurt! But it was a dream, because see, there is no scar.' She idly inspected her smooth bosom, and then sank upon Conan's lap and passed her supple arms around his massive neck. 'I can not remember,' she murmured, nestling her dark head against his mighty breast. 'Everything is dim and misty. It does not matter. You are no dream. You are strong. Let us live while we can. Love me!'
+"The Yuetshi. I thought so, anyway. A cloud of smoke hid everything, but a naked, blood-stained devil caught me by the throat and drove his knife into my breast. Oh, it hurt! But it was a dream, because see, there is no scar." She idly inspected her smooth bosom, and then sank upon Conan's lap and passed her supple arms around his massive neck. "I can not remember," she murmured, nestling her dark head against his mighty breast. "Everything is dim and misty. It does not matter. You are no dream. You are strong. Let us live while we can. Love me!"
 
 He cradled the girl's glossy head in the bend of his heavy arm, and kissed her full red lips with unfeigned relish.
 
-'You are strong,' she repeated, her voice waning. 'Love me—love—' The sleepy murmur faded away; the dusky eyes closed, the long lashes drooping over the sensuous cheeks; the supple body relaxed in Conan's arms.
+"You are strong," she repeated, her voice waning. "Love me—love—" The sleepy murmur faded away; the dusky eyes closed, the long lashes drooping over the sensuous cheeks; the supple body relaxed in Conan's arms.
 
 He scowled down at her. She seemed to partake of the illusion that haunted this whole city, but the firm resilience of her limbs under his questing fingers convinced him that he had a living human girl in his arms, and not the shadow of a dream. No less disturbed, he hastily laid her on the furs upon the dais. Her sleep was too deep to be natural. He decided that she must be an addict of some drug, perhaps like the black lotus of Xuthal.
 
@@ -249,7 +249,7 @@ Emerging presently into a twisting corridor, he took the first doorway he came t
 
 He found himself in a chamber, not another corridor, and was about to retrace his steps, when he heard a voice which came from behind one of the walls. There was no door in that wall, but he leaned close and heard distinctly. And an icy chill crawled slowly along his spine. The tongue was Nemedian, but the voice was not human. There was a terrifying resonance about it, like a bell tolling at midnight.
 
-'There was no life in the Abyss, save that which was incorporated in me,' it tolled. 'Nor was there light, nor motion, nor any sound. Only the urge behind and beyond life guided and impelled me on my upward journey, blind, insensate, inexorable. Through ages upon ages, and the changeless strata of darkness I climbed—'
+"There was no life in the Abyss, save that which was incorporated in me," it tolled. "Nor was there light, nor motion, nor any sound. Only the urge behind and beyond life guided and impelled me on my upward journey, blind, insensate, inexorable. Through ages upon ages, and the changeless strata of darkness I climbed—"
 
 Ensorcelled by that belling resonance, Conan crouched forgetful of all else, until its hypnotic power caused a strange replacement of faculties and perception, and sound created the illusion of sight. Conan was no longer aware of the voice, save as far-off rhythmical waves of sound. Transported beyond his age and his own individuality, he was seeing the transmutation of the being men called Khosatral Khel which crawled up from Night and the Abyss ages ago to clothe itself in the substance of the material universe.
 
@@ -281,7 +281,7 @@ Jehungir Agha waited with growing impatience in his boat among the reeds. More t
 
 Leaving half a dozen men in the boat, he took the rest, ten mighty archers of Khawarizm, in spired helmets and tiger-skin cloaks. Like hunters invading the retreat of the lion, they stole forward under the trees, arrows on string. Silence reigned over the forest except when a great green thing that might have been a parrot swirled over their heads with a low thunder of broad wings, and then sped off through the trees. With a sudden gesture Jehungir halted his party, and they stared incredulously at the towers that showed through the verdure in the distance.
 
-'Tarim!' muttered Jehungir. 'The pirates have rebuilt the ruins! Doubtless Conan is there. We must investigate this. A fortified town this close to the mainland!—Come!'
+"Tarim!" muttered Jehungir. "The pirates have rebuilt the ruins! Doubtless Conan is there. We must investigate this. A fortified town this close to the mainland!—Come!"
 
 With renewed caution they glided through the trees. The game had altered; from pursuers and hunters they had become spies.
 
@@ -317,23 +317,23 @@ A low cry escaped her as the door shook and a bolt gave way with a groan.
 
 Conan did not look around. He knew the door would hold a little while longer.
 
-'They told me you had escaped,' he said. 'A Yuetshi fisher told me you were hiding here. What is your name?'
+"They told me you had escaped," he said. "A Yuetshi fisher told me you were hiding here. What is your name?"
 
-'Octavia,' she gasped mechanically. Then words came in a rush. She caught at him with desperate fingers. 'Oh Mitra! what nightmare is this? The people—the dark-skinned people—one of them caught me in the forest and brought me here. They carried me to—to that—that *thing*. He told me—he said—am I mad? Is this a dream?'
+"Octavia," she gasped mechanically. Then words came in a rush. She caught at him with desperate fingers. "Oh Mitra! what nightmare is this? The people—the dark-skinned people—one of them caught me in the forest and brought me here. They carried me to—to that—that *thing*. He told me—he said—am I mad? Is this a dream?"
 
 He glanced at the door which bulged inward as if from the impact of a battering-ram.
 
-'No,' he said, 'it's no dream. That hinge is giving way. Strange that a devil has to break down a door like a common man; but after all, his strength itself is a diabolism.'
+"No," he said, "it's no dream. That hinge is giving way. Strange that a devil has to break down a door like a common man; but after all, his strength itself is a diabolism."
 
-'Can you not kill him?' she panted. 'You are strong.'
+"Can you not kill him?" she panted. "You are strong."
 
-Conan was too honest to lie. 'If a mortal man could kill him, he'd be dead now,' he answered. 'I nicked my blade on his belly.'
+Conan was too honest to lie. "If a mortal man could kill him, he'd be dead now," he answered. "I nicked my blade on his belly."
 
-Her eyes dulled. 'Then you must die, and I must—oh Mitra!' she screamed in sudden frenzy, and Conan caught her hands, fearing that she would harm herself. 'He told me what he was going to do to me!' she panted. 'Kill me! Kill me with your sword before he bursts the door!'
+Her eyes dulled. "Then you must die, and I must—oh Mitra!" she screamed in sudden frenzy, and Conan caught her hands, fearing that she would harm herself. "He told me what he was going to do to me!" she panted. "Kill me! Kill me with your sword before he bursts the door!"
 
 Conan looked at her, and shook his head.
 
-'I'll do what I can,' he said. 'That won't be much, but it'll give you a chance to get past him down the stair. Then run for the cliffs. I have a boat tied at the foot of the steps. If you can get out of the palace you may escape him yet. The people of this city are all asleep.'
+"I'll do what I can," he said. "That won't be much, but it'll give you a chance to get past him down the stair. Then run for the cliffs. I have a boat tied at the foot of the steps. If you can get out of the palace you may escape him yet. The people of this city are all asleep."
 
 She dropped her head in her hands. Conan took up his scimitar and moved over to stand before the echoing door. One watching him would have realized that he was waiting for a death he regarded as inevitable. His eyes smoldered more vividly; his muscular hand knotted harder on his hilt; that was all.
 
@@ -345,19 +345,19 @@ He glared through a crack that had been started in the steel of the portal. The 
 
 He called to Octavia, and the new note in his voice brought her up to her feet and to his side almost without her conscious volition.
 
-'What is it?' she gasped.
+"What is it?" she gasped.
 
-'Don't stop to talk!' He caught her wrist. 'Come on!' The chance for action had transformed him; his eyes blazed, his voice crackled. 'The knife!' he muttered, while almost dragging the girl down the stair in his fierce haste. 'The magic Yuetshi blade! He left it in the dome! I—' his voice died suddenly as a clear mental picture sprang up before him. The dome adjoined the great room where stood the copper throne—sweat started out on his body. The only way to that dome was through that room with its copper throne and the foul thing that slumbered in it.
+"Don't stop to talk!" He caught her wrist. "Come on!" The chance for action had transformed him; his eyes blazed, his voice crackled. "The knife!" he muttered, while almost dragging the girl down the stair in his fierce haste. "The magic Yuetshi blade! He left it in the dome! I—" his voice died suddenly as a clear mental picture sprang up before him. The dome adjoined the great room where stood the copper throne—sweat started out on his body. The only way to that dome was through that room with its copper throne and the foul thing that slumbered in it.
 
 But he did not hesitate. Swiftly they descended the stair, crossed the chamber, descended the next stair, and came into the great dim hall with its mysterious hangings. They had seen no sign of the colossus. Halting before the great bronze-valved door, Conan caught Octavia by her shoulders and shook her in his intensity.
 
-'Listen!' he snapped. 'I'm going into that room and fasten the door. Stand here and listen; if Khosatral comes, call to me. If you hear me cry for you to go, run as though the devil were on your heels—which he probably will be. Make for that door at the other end of the hall, because I'll be past helping you. I'm going for the Yuetshi knife!'
+"Listen!" he snapped. "I'm going into that room and fasten the door. Stand here and listen; if Khosatral comes, call to me. If you hear me cry for you to go, run as though the devil were on your heels—which he probably will be. Make for that door at the other end of the hall, because I'll be past helping you. I'm going for the Yuetshi knife!"
 
 Before she could voice the protest her lips were framing, he had slid through the valves and shut them behind him. He lowered the bolt cautiously, not noticing that it could be worked from the outside. In the dim twilight his gaze sought that grim copper throne; yes, the scaly brute was still there, filling the throne with its loathsome coils. He saw a door behind the throne and knew that it led into the dome. But to reach it he must mount the dais, a few feet from the throne itself.
 
 A wind blowing across the green floor would have made more noise than Conan's slinking feet. Eyes glued on the sleeping reptile he reached the dais and mounted the glass steps. The snake had not moved. He was reaching for the door....
 
-The bolt on the bronze portal clanged and Conan stifled an awful oath as he saw Octavia come into the room. She stared about, uncertain in the deeper gloom, and he stood frozen, not daring to shout a warning. Then she saw his shadowy figure and ran toward the dais, crying: 'I want to go with you! I'm afraid to stay alone—*oh*! She threw up her hands with a terrible scream as for the first time she saw the occupant of the throne. The wedge-shaped head had lifted from its coils and thrust out toward her on a yard of shining neck.
+The bolt on the bronze portal clanged and Conan stifled an awful oath as he saw Octavia come into the room. She stared about, uncertain in the deeper gloom, and he stood frozen, not daring to shout a warning. Then she saw his shadowy figure and ran toward the dais, crying: "I want to go with you! I'm afraid to stay alone—*oh*!" She threw up her hands with a terrible scream as for the first time she saw the occupant of the throne. The wedge-shaped head had lifted from its coils and thrust out toward her on a yard of shining neck.
 
 Conan cleared the space between him and the throne with a desperate bound, his scimitar swinging with all his power. And with such blinding speed did the serpent move that it whipped about and met him in full midair, lapping his limbs and body with half a dozen coils. His half-checked stroke fell futilely as he crashed down on the dais, gashing the scaly trunk but not severing it.
 
@@ -365,7 +365,7 @@ Then he was writhing on the glass steps with fold after slimy fold knotting abou
 
 An instant he reeled on wide-braced legs, feeling his ribs caving in on his vitals and his sight growing dark, while his scimitar gleamed above his head. Then it fell, shearing through the scales and flesh and vertebrae. And where there had been one huge writhing cable, now there were horribly two, lashing and flopping in the death throes. Conan staggered away from their blind strokes. He was sick and dizzy, and blood oozed from his nose. Groping in a dark mist he clutched Octavia and shook her until she gasped for breath.
 
-'Next time I tell you to stay somewhere,' he gasped, 'you stay!'
+"Next time I tell you to stay somewhere," he gasped, "you stay!"
 
 He was too dizzy even to know whether she replied. Taking her wrist like a truant schoolgirl, he led her around the hideous stumps that still looped and knotted on the floor. Somewhere, in the distance, he thought he heard men yelling, but his ears were still roaring so that he could not be sure.
 
@@ -381,7 +381,7 @@ They had heard the screams, and presently, waiting nervously, had seen, on the c
 
 Jehungir was just preparing to descend the stairs and depart in Conan's boat, when he saw the *hetman* and the girl emerge from the trees. The experience which had congealed his blood and almost blasted his reason had not altered Jehungir's intentions toward the *kozak* chief. The sight of the man he had come to kill filled him with gratification. He was astonished to see the girl he had given to Jelal Khan, but he wasted no time on her. Lifting his bow he drew the shaft to its head and loosed. Conan crouched and the arrow splintered on a tree, and Conan laughed.
 
-'Dog!' he taunted. 'You can't hit me! I was not born to die on Hyrkanian steel! Try again, pig of Turan!'
+"Dog!" he taunted. "You can't hit me! I was not born to die on Hyrkanian steel! Try again, pig of Turan!"
 
 Jehungir did not try again. That was his last arrow. He drew his scimitar and advanced, confident in his spired helmet and close-meshed mail. Conan met him half-way in a blinding whirl of swords. The curved blades ground together, sprang apart, circled in glittering arcs that blurred the sight which tried to follow them. Octavia, watching, did not see the stroke, but she heard its chopping impact, and saw Jehungir fall, blood spurting from his side where the Cimmerian's steel had sundered his mail and bitten to his spine.
 
@@ -401,26 +401,26 @@ The wild *hetman* stood like a statue for a space, dimly grasping something of t
 
 She was peering fearfully under the trees, and she greeted him with a half-stifled cry of relief. He had shaken off the dim monstrous visions which had momentarily haunted him, and was his exuberant self again.
 
-'Where is *he*?' she shuddered.
+"Where is *he*?" she shuddered.
 
-'Gone back to hell whence he crawled,' he replied cheerfully. 'Why didn't you climb the stair and make your escape in my boat?'
+"Gone back to hell whence he crawled," he replied cheerfully. "Why didn't you climb the stair and make your escape in my boat?"
 
-'I wouldn't desert—' she began, then changed her mind, and amended rather sulkily, 'I have nowhere to go. The Hyrkanians would enslave me again, and the pirates would—'
+"I wouldn't desert—" she began, then changed her mind, and amended rather sulkily, "I have nowhere to go. The Hyrkanians would enslave me again, and the pirates would—"
 
-'What of the *kozaks*?' he suggested.
+"What of the *kozaks*?" he suggested.
 
-'Are they better than the pirates?' she asked scornfully. Conan's admiration increased to see how well she had recovered her poise after having endured such frantic terror. Her arrogance amused him.
+"Are they better than the pirates?" she asked scornfully. Conan's admiration increased to see how well she had recovered her poise after having endured such frantic terror. Her arrogance amused him.
 
-'You seemed to think so in the camp by Ghori,' he answered. 'You were free enough with your smiles then.'
+"You seemed to think so in the camp by Ghori," he answered. "You were free enough with your smiles then."
 
-Her red lip curled in disdain. 'Do you think I was enamored of you? Do you dream that I would have shamed myself before an ale-guzzling, meat-gorging barbarian unless I had to? My master—whose body lies there—forced me to do as I did.'
+Her red lip curled in disdain. "Do you think I was enamored of you? Do you dream that I would have shamed myself before an ale-guzzling, meat-gorging barbarian unless I had to? My master—whose body lies there—forced me to do as I did."
 
-'Oh!' Conan seemed rather crestfallen. Then he laughed with undiminished zest. 'No matter. You belong to me now. Give me a kiss.'
+"Oh!" Conan seemed rather crestfallen. Then he laughed with undiminished zest. "No matter. You belong to me now. Give me a kiss."
 
-'You dare ask—' she began angrily, when she felt herself snatched off her feet and crushed to the *hetman's* muscular breast. She fought him fiercely, with all the supple strength of her magnificent youth, but he only laughed exuberantly, drunk with his possession of this splendid creature writhing in his arms.
+"You dare ask—" she began angrily, when she felt herself snatched off her feet and crushed to the *hetman's* muscular breast. She fought him fiercely, with all the supple strength of her magnificent youth, but he only laughed exuberantly, drunk with his possession of this splendid creature writhing in his arms.
 
-He crushed her struggles easily, drinking the nectar of her lips with all the unrestrained passion that was his, until the arms that strained against him melted and twined convulsively about his massive neck. Then he laughed down into the clear eyes, and said: 'Why should not a chief of the Free People be preferable to a city-bred dog of Turan?'
+He crushed her struggles easily, drinking the nectar of her lips with all the unrestrained passion that was his, until the arms that strained against him melted and twined convulsively about his massive neck. Then he laughed down into the clear eyes, and said: "Why should not a chief of the Free People be preferable to a city-bred dog of Turan?"
 
-She shook back her tawny locks, still tingling in every nerve from the fire of his kisses. She did not loosen her arms from his neck. 'Do you deem yourself an Agha's equal?' she challenged.
+She shook back her tawny locks, still tingling in every nerve from the fire of his kisses. She did not loosen her arms from his neck. "Do you deem yourself an Agha's equal?" she challenged.
 
-He laughed and strode with her in his arms toward the stair. 'You shall judge,' he boasted. 'I'll burn Khawarizm for a torch to light your way to my tent.'
+He laughed and strode with her in his arms toward the stair. "You shall judge," he boasted. "I'll burn Khawarizm for a torch to light your way to my tent."

@@ -159,7 +159,7 @@ He started violently. The breath sucked through his teeth, the short hairs prick
 
 With a panicky curse Conan ripped out his sword.
 
-'Crom! She's alive!'
+"Crom! She's alive!"
 
 At his words the long dark lashes lifted; the eyes opened and gaped up at him inscrutably, dark, lustrous, mystical. He glared in frozen speechlessness.
 
@@ -167,97 +167,97 @@ She sat up with a supple ease, still holding his ensorceled stare.
 
 He licked his dry lips and found voice.
 
-'You—are—are you Yelaya?' he stammered.
+"You—are—are you Yelaya?" he stammered.
 
-'I am Yelaya!' The voice was rich and musical, and he stared with new wonder. 'Do not fear. I will not harm you if you do my bidding.'
+"I am Yelaya!" The voice was rich and musical, and he stared with new wonder. "Do not fear. I will not harm you if you do my bidding."
 
-'How can a dead woman come to life after all these centuries?' he demanded, as if skeptical of what his senses told him. A curious gleam was beginning to smolder in his eyes.
+"How can a dead woman come to life after all these centuries?" he demanded, as if skeptical of what his senses told him. A curious gleam was beginning to smolder in his eyes.
 
 She lifted her arms in a mystical gesture.
 
-'I am a goddess. A thousand years ago there descended upon me the curse of the greater gods, the gods of darkness beyond the borders of light. The mortal in me died; the goddess in me could never die. Here I have lain for so many centuries, to awaken each night at sunset and hold my court as of yore, with specters drawn from the shadows of the past. Man, if you would not view that which will blast your soul for ever, get hence quickly! I command you! Go!' The voice became imperious, and her slender arm lifted and pointed.
+"I am a goddess. A thousand years ago there descended upon me the curse of the greater gods, the gods of darkness beyond the borders of light. The mortal in me died; the goddess in me could never die. Here I have lain for so many centuries, to awaken each night at sunset and hold my court as of yore, with specters drawn from the shadows of the past. Man, if you would not view that which will blast your soul for ever, get hence quickly! I command you! Go!" The voice became imperious, and her slender arm lifted and pointed.
 
 Conan, his eyes burning slits, slowly sheathed his sword, but he did not obey her order. He stepped closer, as if impelled by a powerful fascination—without the slightest warning he grabbed her up in a bear-like grasp. She screamed a very ungoddess-like scream, and there was a sound of ripping silk, as with one ruthless wrench he tore off her skirt.
 
-'Goddess! Ha!' His bark was full of angry contempt. He ignored the frantic writhings of his captive. 'I thought it was strange that a princess of Alkmeenon would speak with a Corinthian accent! As soon as I'd gathered my wits I knew I'd seen you somewhere. You're Muriela, Zargheba's Corinthian dancing-girl. This crescent-shaped birthmark on your hip proves it. I saw it once when Zargheba was whipping you. Goddess! Bah!' He smacked the betraying hip contemptuously and resoundingly with his open hand, and the girl yelped piteously.
+"Goddess! Ha!" His bark was full of angry contempt. He ignored the frantic writhings of his captive. "I thought it was strange that a princess of Alkmeenon would speak with a Corinthian accent! As soon as I'd gathered my wits I knew I'd seen you somewhere. You're Muriela, Zargheba's Corinthian dancing-girl. This crescent-shaped birthmark on your hip proves it. I saw it once when Zargheba was whipping you. Goddess! Bah!" He smacked the betraying hip contemptuously and resoundingly with his open hand, and the girl yelped piteously.
 
 All her imperiousness had gone out of her. She was no longer a mystical figure of antiquity, but a terrified and humiliated dancing-girl, such as can be bought at almost any Shemitish market-place. She lifted up her voice and wept unashamedly. Her captor glared down at her with angry triumph.
 
-'Goddess! Ha! So you were one of the veiled women Zargheba brought to Keshia with him. Did you think you could fool me, you little idiot? A year ago I saw you in Akbitana with that swine, Zargheba, and I don't forget faces—or women's figures. I think I'll—'
+"Goddess! Ha! So you were one of the veiled women Zargheba brought to Keshia with him. Did you think you could fool me, you little idiot? A year ago I saw you in Akbitana with that swine, Zargheba, and I don't forget faces—or women's figures. I think I'll—"
 
 Squirming about in his grasp she threw her slender arms about his massive neck in an abandon of terror; tears coursed down her cheeks, and her sobs quivered with a note of hysteria.
 
-'Oh, please don't hurt me! Don't! I had to do it! Zargheba brought me here to act as the oracle!'
+"Oh, please don't hurt me! Don't! I had to do it! Zargheba brought me here to act as the oracle!"
 
-'Why, you sacrilegious little hussy!' rumbled Conan. 'Do you not fear the gods? Crom! is there no honesty anywhere?'
+"Why, you sacrilegious little hussy!" rumbled Conan. "Do you not fear the gods? Crom! is there no honesty anywhere?"
 
-'Oh, please!' she begged, quivering with abject fright. 'I couldn't disobey Zargheba. Oh, what shall I do? I shall be cursed by these heathen gods!'
+"Oh, please!" she begged, quivering with abject fright. "I couldn't disobey Zargheba. Oh, what shall I do? I shall be cursed by these heathen gods!"
 
-'What do you think the priests will do to you if they find out you're an impostor?' he demanded.
+"What do you think the priests will do to you if they find out you're an impostor?" he demanded.
 
 At the thought her legs refused to support her, and she collapsed in a shuddering heap, clasping Conan's knees and mingling incoherent pleas for mercy and protection with piteous protestations of her innocence of any malign intention. It was a vivid change from her pose as the ancient princess, but not surprising. The fear that had nerved her then was now her undoing.
 
-'Where is Zargheba?' he demanded. 'Stop yammering, damn it, and answer me.'
+"Where is Zargheba?" he demanded. "Stop yammering, damn it, and answer me."
 
-'Outside the palace,' she whimpered, 'watching for the priests.'
+"Outside the palace," she whimpered, "watching for the priests."
 
-'How many men with him?'
+"How many men with him?"
 
-'None. We came alone.'
+"None. We came alone."
 
-'Ha!' It was much like the satisfied grunt of a hunting lion. 'You must have left Keshia a few hours after I did. Did you climb the cliffs?'
+"Ha!" It was much like the satisfied grunt of a hunting lion. "You must have left Keshia a few hours after I did. Did you climb the cliffs?"
 
 She shook her head, too choked with tears to speak coherently. With an impatient imprecation he seized her slim shoulders and shook her until she gasped for breath.
 
-'Will you quit that blubbering and answer me? How did you get into the valley?'
+"Will you quit that blubbering and answer me? How did you get into the valley?"
 
-'Zargheba knew the secret way,' she gasped. 'The priest Gwarunga told him, and Thutmekri. On the south side of the valley there is a broad pool lying at the foot of the cliffs. There is a cave-mouth under the surface of the water that is not visible to the casual glance. We ducked under the water and entered it. The cave slopes up out of the water swiftly and leads through the cliffs. The opening on the side of the valley is masked by heavy thickets.'
+"Zargheba knew the secret way," she gasped. "The priest Gwarunga told him, and Thutmekri. On the south side of the valley there is a broad pool lying at the foot of the cliffs. There is a cave-mouth under the surface of the water that is not visible to the casual glance. We ducked under the water and entered it. The cave slopes up out of the water swiftly and leads through the cliffs. The opening on the side of the valley is masked by heavy thickets."
 
-'I climbed the cliffs on the east side,' he muttered. 'Well, what then?'
+"I climbed the cliffs on the east side," he muttered. "Well, what then?"
 
-'We came to the palace and Zargheba hid me among the trees while he went to look for the chamber of the oracle. I do not think he fully trusted Gwarunga. While he was gone I thought I heard a gong sound, but I was not sure. Presently Zargheba came and took me into the palace and brought me to this chamber, where the goddess Yelaya lay upon the dais. He stripped the body and clothed me in the garments and ornaments. Then he went forth to hide the body and watch for the priests. I have been afraid. When you entered I wanted to leap up and beg you to take me away from this place, but I feared Zargheba. When you discovered I was alive, I thought I could frighten you away.'
+"We came to the palace and Zargheba hid me among the trees while he went to look for the chamber of the oracle. I do not think he fully trusted Gwarunga. While he was gone I thought I heard a gong sound, but I was not sure. Presently Zargheba came and took me into the palace and brought me to this chamber, where the goddess Yelaya lay upon the dais. He stripped the body and clothed me in the garments and ornaments. Then he went forth to hide the body and watch for the priests. I have been afraid. When you entered I wanted to leap up and beg you to take me away from this place, but I feared Zargheba. When you discovered I was alive, I thought I could frighten you away."
 
-'What were you to say as the oracle?' he asked.
+"What were you to say as the oracle?" he asked.
 
-'I was to bid the priests to take the Teeth of Gwahlur and give some of them to Thutmekri as a pledge, as he desired, and place the rest in the palace at Keshia. I was to tell them that an awful doom threatened Keshan if they did not agree to Thutmekri's proposals. And, oh, yes, I was to tell them that you were to be skinned alive immediately.'
+"I was to bid the priests to take the Teeth of Gwahlur and give some of them to Thutmekri as a pledge, as he desired, and place the rest in the palace at Keshia. I was to tell them that an awful doom threatened Keshan if they did not agree to Thutmekri's proposals. And, oh, yes, I was to tell them that you were to be skinned alive immediately."
 
-'Thutmekri wanted the treasure where he—or the Zembabwans—could lay hand on it easily,' muttered Conan, disregarding the remark concerning himself. 'I'll carve his liver yet—Gorulga is a party to this swindle, of course?'
+"Thutmekri wanted the treasure where he—or the Zembabwans—could lay hand on it easily," muttered Conan, disregarding the remark concerning himself. "I'll carve his liver yet—Gorulga is a party to this swindle, of course?"
 
-'No. He believes in his gods, and is incorruptible. He knows nothing about this. He will obey the oracle. It was all Thutmekri's plan. Knowing the Keshani would consult the oracle, he had Zargheba bring me with the embassy from Zembabwei, closely veiled and secluded.'
+"No. He believes in his gods, and is incorruptible. He knows nothing about this. He will obey the oracle. It was all Thutmekri's plan. Knowing the Keshani would consult the oracle, he had Zargheba bring me with the embassy from Zembabwei, closely veiled and secluded."
 
-'Well, I'm damned!' muttered Conan. 'A priest who honestly believes in his oracle, and can not be bribed. Crom! I wonder if it was Zargheba who banged that gong. Did he know I was here? Could he have known about that rotten flagging? Where is he now, girl?'
+"Well, I'm damned!" muttered Conan. "A priest who honestly believes in his oracle, and can not be bribed. Crom! I wonder if it was Zargheba who banged that gong. Did he know I was here? Could he have known about that rotten flagging? Where is he now, girl?"
 
-'Hiding in a thicket of lotus trees, near the ancient avenue that leads from the south wall of the cliffs to the palace,' she answered. Then she renewed her importunities. 'Oh, Conan, have pity on me! I am afraid of this evil, ancient place. I know I have heard stealthy footfalls padding about me—oh, Conan, take me away with you! Zargheba will kill me when I have served his purpose here—I know it! The priests, too, will kill me if they discover my deceit.
+"Hiding in a thicket of lotus trees, near the ancient avenue that leads from the south wall of the cliffs to the palace," she answered. Then she renewed her importunities. "Oh, Conan, have pity on me! I am afraid of this evil, ancient place. I know I have heard stealthy footfalls padding about me—oh, Conan, take me away with you! Zargheba will kill me when I have served his purpose here—I know it! The priests, too, will kill me if they discover my deceit.
 
-'He is a devil—he bought me from a slave-trader who stole me out of a caravan bound through southern Koth, and has made me the tool of his intrigues ever since. Take me away from him! You can not be as cruel as he. Don't leave me to be slain here! Please! Please!'
+"He is a devil—he bought me from a slave-trader who stole me out of a caravan bound through southern Koth, and has made me the tool of his intrigues ever since. Take me away from him! You can not be as cruel as he. Don't leave me to be slain here! Please! Please!"
 
 She was on her knees, clutching at Conan hysterically, her beautiful tear-stained face upturned to him, her dark silken hair flowing in disorder over her white shoulders. Conan picked her up and set her on his knee.
 
-'Listen to me. I'll protect you from Zargheba. The priests shall not know of your perfidy. But you've got to do as I tell you.'
+"Listen to me. I'll protect you from Zargheba. The priests shall not know of your perfidy. But you've got to do as I tell you."
 
 She faltered promises of explicit obedience, clasping his corded neck as if seeking security from the contact.
 
-'Good. When the priests come, you'll act the part of Yelaya, as Zargheba planned—it'll be dark, and in the torchlight they'll never know the difference. But you'll say this to them: "It is the will of the gods that the Stygian and his Shemitish dogs be driven from Keshan. They are thieves and traitors who plot to rob the gods. Let the Teeth of Gwahlur be placed in the care of the general Conan. Let him lead the armies of Keshan. He is beloved of the gods."'
+"Good. When the priests come, you'll act the part of Yelaya, as Zargheba planned—it'll be dark, and in the torchlight they'll never know the difference. But you'll say this to them: 'It is the will of the gods that the Stygian and his Shemitish dogs be driven from Keshan. They are thieves and traitors who plot to rob the gods. Let the Teeth of Gwahlur be placed in the care of the general Conan. Let him lead the armies of Keshan. He is beloved of the gods.'"
 
 She shivered, with an expression of desperation, but acquiesced.
 
-'But Zargheba?' she cried. 'He'll kill me!'
+"But Zargheba?" she cried. "He'll kill me!"
 
-'Don't worry about Zargheba,' he grunted. 'I'll take care of that dog. You do as I say. Here, put up your hair again. It's fallen all over your shoulders. And the gem's fallen out of it.'
+"Don't worry about Zargheba," he grunted. "I'll take care of that dog. You do as I say. Here, put up your hair again. It's fallen all over your shoulders. And the gem's fallen out of it."
 
 He replaced the great glowing gem himself, nodding approval.
 
-'It's worth a room full of slaves, itself alone. Here, put your skirt back on. It's torn down the side, but the priests will never notice it. Wipe your face. A goddess doesn't cry like a whipped schoolgirl. By Crom, you do look like Yelaya, face, hair, figure and all! If you act the goddess with the priests as well as you did with me, you'll fool them easily.'
+"It's worth a room full of slaves, itself alone. Here, put your skirt back on. It's torn down the side, but the priests will never notice it. Wipe your face. A goddess doesn't cry like a whipped schoolgirl. By Crom, you do look like Yelaya, face, hair, figure and all! If you act the goddess with the priests as well as you did with me, you'll fool them easily."
 
-'I'll try,' she shivered.
+"I'll try," she shivered.
 
-'Good; I'm going to find Zargheba.'
+"Good; I'm going to find Zargheba."
 
 At that she became panicky again.
 
-'No! Don't leave me alone! This place is haunted!'
+"No! Don't leave me alone! This place is haunted!"
 
-'There's nothing here to harm you,' he assured her impatiently. 'Nothing but Zargheba, and I'm going to look after him. I'll be back shortly. I'll be watching from close by in case anything goes wrong during the ceremony; but if you play your part properly, nothing will go wrong.'
+"There's nothing here to harm you," he assured her impatiently. "Nothing but Zargheba, and I'm going to look after him. I'll be back shortly. I'll be watching from close by in case anything goes wrong during the ceremony; but if you play your part properly, nothing will go wrong."
 
 And turning, he hastened out of the oracle chamber; behind him Muriela squeaked wretchedly at his going.
 
@@ -291,25 +291,25 @@ He hurried toward the portico, circling the open space to keep in the fringing s
 
 Gorulga's voice boomed eerily and hollowly in the great empty space, framed in sonorous phrases unintelligible to the lurking listener; then the high priest thrust open the golden door and entered, bowing repeatedly from his waist, and behind him the torches sank and rose, showering flakes of flame, as the worshippers imitated their master. The gold door closed behind them, shutting out sound and sight, and Conan darted across the throne-chamber and into the alcove behind the throne. He made less sound than a wind blowing across the chamber.
 
-Tiny beams of light streamed through the apertures in the wall, as he pried open the secret panel. Gliding into the niche, he peered through. Muriela sat upright on the dais, her arms folded, her head leaning back against the wall, within a few inches of his eyes. The delicate perfume of her foamy hair was in his nostrils. He could not see her face, of course, but her attitude was as if she gazed tranquilly into some far gulf of space, over and beyond the shaven heads of the black giants who knelt before her. Conan grinned with appreciation. 'The little slut's an actress,' he told himself. He knew she was shriveling with terror, but she showed no sign. In the uncertain flare of the torches she looked exactly like the goddess he had seen lying on that same dais, if one could imagine that goddess imbued with vibrant life.
+Tiny beams of light streamed through the apertures in the wall, as he pried open the secret panel. Gliding into the niche, he peered through. Muriela sat upright on the dais, her arms folded, her head leaning back against the wall, within a few inches of his eyes. The delicate perfume of her foamy hair was in his nostrils. He could not see her face, of course, but her attitude was as if she gazed tranquilly into some far gulf of space, over and beyond the shaven heads of the black giants who knelt before her. Conan grinned with appreciation. "The little slut's an actress," he told himself. He knew she was shriveling with terror, but she showed no sign. In the uncertain flare of the torches she looked exactly like the goddess he had seen lying on that same dais, if one could imagine that goddess imbued with vibrant life.
 
 Gorulga was booming forth some kind of a chant in an accent unfamiliar to Conan, and which was probably some invocation in the ancient tongue of Alkmeenon, handed down from generation to generation of high priests. It seemed interminable. Conan grew restless. The longer the thing lasted, the more terrific would be the strain on Muriela. If she snapped—he hitched his sword and dagger forward. He could not see the little trollop tortured and slain by these men.
 
-But the chant—deep, low-pitched and indescribably ominous—came to a conclusion at last, and a shouted acclaim from the acolytes marked its period. Lifting his head and raising his arms toward the silent form on the dais, Gorulga cried in the deep, rich resonance that was the natural attribute of the Keshani priest: 'Oh, great goddess, dweller with the great one of darkness, let thy heart be melted, thy lips opened for the ears of thy slave whose head is in the dust beneath thy feet! Speak, great goddess of the holy valley! Thou knowest the paths before us; the darkness that vexes us is as the light of the midday sun to thee. Shed the radiance of thy wisdom on the paths of thy servants! Tell us, oh mouthpiece of the gods: what is their will concerning Thutmekri the Stygian?'
+But the chant—deep, low-pitched and indescribably ominous—came to a conclusion at last, and a shouted acclaim from the acolytes marked its period. Lifting his head and raising his arms toward the silent form on the dais, Gorulga cried in the deep, rich resonance that was the natural attribute of the Keshani priest: "Oh, great goddess, dweller with the great one of darkness, let thy heart be melted, thy lips opened for the ears of thy slave whose head is in the dust beneath thy feet! Speak, great goddess of the holy valley! Thou knowest the paths before us; the darkness that vexes us is as the light of the midday sun to thee. Shed the radiance of thy wisdom on the paths of thy servants! Tell us, oh mouthpiece of the gods: what is their will concerning Thutmekri the Stygian?"
 
 The high-piled burnished mass of hair that caught the torchlight in dull bronze gleams quivered slightly. A gusty sigh rose from the blacks, half in awe, half in fear. Muriela's voice came plainly to Conan's ears in the breathless silence, and it seemed, cold, detached, impersonal, though the Cimmerian winced at the Corinthian accent.
 
-'It is the will of the gods that the Stygian and his Shemitish dogs be driven from Keshan!' She was repeating his exact words. 'They are thieves and traitors who plot to rob the gods. Let the Teeth of Gwahlur be placed in the care of the general Conan. Let him lead the armies of Keshan. He is beloved of the gods!'
+"It is the will of the gods that the Stygian and his Shemitish dogs be driven from Keshan!" She was repeating his exact words. "They are thieves and traitors who plot to rob the gods. Let the Teeth of Gwahlur be placed in the care of the general Conan. Let him lead the armies of Keshan. He is beloved of the gods!"
 
 There was a quiver in her voice as she ended, and Conan began to sweat, believing she was on the point of an hysterical collapse. But the blacks did not notice, any more than they identified the Corinthian accent, of which they knew nothing. They smote their palms softly together and a murmur of wonder and awe rose from them. Gorulga's eyes glittered fanatically in the torchlight.
 
-'Yelaya has spoken!' he cried in an exalted voice. 'It is the will of the gods! Long ago, in the days of our ancestors, they were made taboo and hidden at the command of the gods, who wrenched them from the awful jaws of Gwahlur the king of darkness, in the birth of the world. At the command of the gods the teeth of Gwahlur were hidden; at their command they shall be brought forth again. Oh star-born goddess, give us your leave to go to the secret hiding-place of the Teeth to secure them for him whom the gods love!'
+"Yelaya has spoken!" he cried in an exalted voice. "It is the will of the gods! Long ago, in the days of our ancestors, they were made taboo and hidden at the command of the gods, who wrenched them from the awful jaws of Gwahlur the king of darkness, in the birth of the world. At the command of the gods the teeth of Gwahlur were hidden; at their command they shall be brought forth again. Oh star-born goddess, give us your leave to go to the secret hiding-place of the Teeth to secure them for him whom the gods love!"
 
-'You have my leave to go!' answered the false goddess, with an imperious gesture of dismissal that set Conan grinning again, and the priests backed out, ostrich plumes and torches rising and falling with the rhythm of their genuflexions.
+"You have my leave to go!" answered the false goddess, with an imperious gesture of dismissal that set Conan grinning again, and the priests backed out, ostrich plumes and torches rising and falling with the rhythm of their genuflexions.
 
-The gold door closed and with a moan, the goddess fell back limply on the dais. 'Conan!' she whimpered faintly. 'Conan!'
+The gold door closed and with a moan, the goddess fell back limply on the dais. "Conan!" she whimpered faintly. "Conan!"
 
-'Shhh!' he hissed through the apertures, and turning, glided from the niche and closed the panel. A glimpse past the jamb of the carven door showed him the torches receding across the great throne-room, but he was at the same time aware of a radiance that did not emanate from the torches. He was startled, but the solution presented itself instantly. An early moon had risen and its light slanted through the pierced dome which by some curious workmanship intensified the light. The shining dome of Alkmeenon was no fable, then. Perhaps its interior was of the curious whitely flaming crystal found only in the hills of the black countries. The light flooded the throne-room and seeped into the chambers immediately adjoining.
+"Shhh!" he hissed through the apertures, and turning, glided from the niche and closed the panel. A glimpse past the jamb of the carven door showed him the torches receding across the great throne-room, but he was at the same time aware of a radiance that did not emanate from the torches. He was startled, but the solution presented itself instantly. An early moon had risen and its light slanted through the pierced dome which by some curious workmanship intensified the light. The shining dome of Alkmeenon was no fable, then. Perhaps its interior was of the curious whitely flaming crystal found only in the hills of the black countries. The light flooded the throne-room and seeped into the chambers immediately adjoining.
 
 But as Conan made toward the door that led into the throne-room, he was brought around suddenly by a noise that seemed to emanate from the passage that led off from the alcove. He crouched at the mouth, staring into it, remembering the clangor of the gong that had echoed from it to lure him into a snare. The light from the dome filtered only a little way into that narrow corridor, and showed him only empty space. Yet he could have sworn that he had heard the furtive pad of a foot somewhere down it.
 
@@ -317,37 +317,37 @@ While he hesitated, he was electrified by a woman's strangled cry from behind hi
 
 The torches of the priests had vanished from the great hall outside—but one priest was still in the palace: Gwarunga. His wicked features were convulsed with fury, and he grasped the terrified Muriela by the throat, choking her efforts to scream and plead, shaking her brutally.
 
-'Traitress!' Between his thick red lips his voice hissed like a cobra. 'What game are you playing? Did not Zargheba tell you what to say? Aye, Thutmekri told me! Are you betraying your master, or is he betraying his friends through you? Slut! I'll twist off your false head—but first I'll—'
+"Traitress!" Between his thick red lips his voice hissed like a cobra. "What game are you playing? Did not Zargheba tell you what to say? Aye, Thutmekri told me! Are you betraying your master, or is he betraying his friends through you? Slut! I'll twist off your false head—but first I'll—"
 
 A widening of his captive's lovely eyes as she stared over his shoulder warned the huge black. He released her and wheeled, just as Conan's sword lashed down. The impact of the stroke knocked him headlong backward to the marble floor, where he lay twitching, blood oozing from a ragged gash in his scalp.
 
 Conan started toward him to finish the job—for he knew that the priest's sudden movement had caused the blade to strike flat—but Muriela threw her arms convulsively about him.
 
-'I've done as you ordered!' she gasped hysterically. 'Take me away! Oh, please take me away!'
+"I've done as you ordered!" she gasped hysterically. "Take me away! Oh, please take me away!"
 
-'We can't go yet,' he grunted. 'I want to follow the priests and see where they get the jewels. There may be more loot hidden there. But you can go with me. Where's the gem you wore in your hair?'
+"We can't go yet," he grunted. "I want to follow the priests and see where they get the jewels. There may be more loot hidden there. But you can go with me. Where's the gem you wore in your hair?"
 
-'It must have fallen out on the dais,' she stammered, feeling for it. 'I was so frightened—when the priests left I ran out to find you, and this big brute had stayed behind, and he grabbed me—'
+"It must have fallen out on the dais," she stammered, feeling for it. "I was so frightened—when the priests left I ran out to find you, and this big brute had stayed behind, and he grabbed me—"
 
-'Well, go get it while I dispose of this carcass,' he commanded. 'Go on! That gem is worth a fortune itself.'
+"Well, go get it while I dispose of this carcass," he commanded. "Go on! That gem is worth a fortune itself."
 
 She hesitated, as if loth to return to that cryptic chamber; then, as he grasped Gwarunga's girdle and dragged him into the alcove, she turned and entered the oracle room.
 
 Conan dumped the senseless black on the floor, and lifted his sword. The Cimmerian had lived too long in the wild places of the world to have any illusions about mercy. The only safe enemy was a headless enemy. But before he could strike, a startling scream checked the lifted blade. It came from the oracle chamber.
 
-'Conan! Conan! She's come back!' The shriek ended in a gurgle and a scraping shuffle.
+"Conan! Conan! She's come back!" The shriek ended in a gurgle and a scraping shuffle.
 
 With an oath Conan dashed out of the alcove, across the throne dais and into the oracle chamber, almost before the sound had ceased. There he halted, glaring bewilderedly. To all appearances Muriela lay placidly on the dais, eyes closed as in slumber.
 
-'What in thunder are you doing?' he demanded acidly. 'Is this any time to be playing jokes—'
+"What in thunder are you doing?" he demanded acidly. "Is this any time to be playing jokes—"
 
 His voice trailed away. His gaze ran along the ivory thigh molded in the close-fitting silk skirt. That skirt should gape from girdle to hem. He knew, because it had been his own hand that tore it as he ruthlessly stripped the garment from the dancer's writhing body. But the skirt showed no rent. A single stride brought him to the dais and he laid his hand on the ivory body—snatched it away as if it had encountered hot iron instead of the cold immobility of death.
 
-'Crom!' he muttered, his eyes suddenly slits of bale-fire. 'It's not Muriela! It's Yelaya!'
+"Crom!" he muttered, his eyes suddenly slits of bale-fire. "It's not Muriela! It's Yelaya!"
 
 He understood now that frantic scream that had burst from Muriela's lips when she entered the chamber. The goddess had returned. The body had been stripped by Zargheba to furnish the accouterments for the pretender. Yet now it was clad in silk and jewels as Conan had first seen it. A peculiar prickling made itself manifest among the short hairs at the base of Conan's scalp.
 
-'Muriela!' he shouted suddenly. 'Muriela! Where the devil are you?'
+"Muriela!" he shouted suddenly. "Muriela! Where the devil are you?"
 
 The walls threw back his voice mockingly. There was no entrance that he could see except the golden door, and none could have entered or departed through that without his knowledge. This much was indisputable: Yelaya had been replaced on the dais within the few minutes that had elapsed since Muriela had first left the chamber to be seized by Gwarunga; his ears were still tingling with the echoes of Muriela's scream, yet the Corinthian girl had vanished as if into thin air. There was but one explanation that offered itself to the Cimmerian, if he rejected the darker speculation that suggested the supernatural—somewhere in the chamber there was a secret door. And even as the thought crossed his mind, he saw it.
 
@@ -375,7 +375,7 @@ He thrust against the door at the top, and cursed soulfully to find that it did 
 
 The dagger was gone from the floor. The chamber was empty; and so was the dais. Yelaya had again vanished.
 
-'By Crom!' muttered the Cimmerian. 'Is she alive, after all?'
+"By Crom!" muttered the Cimmerian. "Is she alive, after all?"
 
 He strode out into the throne-room, baffled, and then, struck by a sudden thought, stepped behind the throne and peered into the alcove. There was blood on the smooth marble where he had cast down the senseless body of Gwarunga—that was all. The black man had vanished as completely as Yelaya.
 
@@ -411,19 +411,19 @@ Conan crouched in the black mouth of the tunnel, staring at the walls reflecting
 
 He started violently and the chanting broke off as the kneeling blacks flung up their heads. An inhuman voice boomed out high above them. They froze on their knees, their faces turned upward with a ghastly blue hue in the sudden glare of a weird light that burst blindingly up near the lofty roof and then burned with a throbbing glow. That glare lighted a gallery and a cry went up from the high priest, echoed shudderingly by his acolytes. In the flash there had been briefly disclosed to them a slim white figure standing upright in a sheen of silk and a glint of jewel-crusted gold. Then the blaze smoldered to a throbbing, pulsing luminosity in which nothing was distinct, and that slim shape was but a shimmering blue of ivory.
 
-'Yelaya!' screamed Gorulga, his brown features ashen. 'Why have you followed us? What is your pleasure?'
+"Yelaya!" screamed Gorulga, his brown features ashen. "Why have you followed us? What is your pleasure?"
 
 That weird unhuman voice rolled down from the roof, re-echoing under that arching vault that magnified and altered it beyond recognition.
 
-'Woe to the unbelievers! Woe to the false children of Keshia! Doom to them which deny their deity!'
+"Woe to the unbelievers! Woe to the false children of Keshia! Doom to them which deny their deity!"
 
 A cry of horror went up from the priests. Gorulga looked like a shocked vulture in the glare of the torches.
 
-'I do not understand!' he stammered. 'We are faithful. In the chamber of the oracle you told us—'
+"I do not understand!" he stammered. "We are faithful. In the chamber of the oracle you told us—"
 
-'Do not heed what you heard in the chamber of the oracle!' rolled that terrible voice, multiplied until it was as though a myriad voices thundered and muttered the same warning. 'Beware of false prophets and false gods! A demon in my guise spoke to you in the palace, giving false prophecy. Now harken and obey, for only I am the true goddess, and I give you one chance to save yourselves from doom!
+"Do not heed what you heard in the chamber of the oracle!" rolled that terrible voice, multiplied until it was as though a myriad voices thundered and muttered the same warning. "Beware of false prophets and false gods! A demon in my guise spoke to you in the palace, giving false prophecy. Now harken and obey, for only I am the true goddess, and I give you one chance to save yourselves from doom!
 
-'Take the Teeth of Gwahlur from the crypt where they were placed so long ago. Alkmeenon is no longer holy, because it has been desecrated by blasphemers. Give the Teeth of Gwahlur into the hands of Thutmekri, the Stygian, to place in the sanctuary of Dragon and Derketo. Only this can save Keshan from the doom the demons of the night have plotted. Take the Teeth of Gwahlur and go: return instantly to Keshia; there give the jewels to Thutmekri, and seize the foreign devil Conan and flay him alive in the great square.'
+"Take the Teeth of Gwahlur from the crypt where they were placed so long ago. Alkmeenon is no longer holy, because it has been desecrated by blasphemers. Give the Teeth of Gwahlur into the hands of Thutmekri, the Stygian, to place in the sanctuary of Dragon and Derketo. Only this can save Keshan from the doom the demons of the night have plotted. Take the Teeth of Gwahlur and go: return instantly to Keshia; there give the jewels to Thutmekri, and seize the foreign devil Conan and flay him alive in the great square."
 
 There was no hesitation in obeying. Chattering with fear the priests scrambled up and ran for the door that opened behind the bestial god. Gorulga led the flight. They jammed briefly in the doorway, yelping as wildly waving torches touched squirming black bodies; they plunged through, and the patter of their speeding feet dwindled down the tunnel.
 
@@ -431,15 +431,15 @@ Conan did not follow. He was consumed with a furious desire to learn the truth o
 
 Before the last torch had vanished down the black tunnel he was bounding vengefully up the stone stair. The blue glow was dying down, but he could still make out that the ivory figure stood motionless on the gallery. His blood ran cold as he approached it, but he did not hesitate. He came on with his sword lifted, and towered like a threat of death over the inscrutable shape.
 
-'Yelaya!' he snarled. 'Dead as she's been for a thousand years! Ha!'
+"Yelaya!" he snarled. "Dead as she's been for a thousand years! Ha!"
 
 From the dark mouth of a tunnel behind him a dark form lunged. But the sudden, deadly rush of unshod feet had reached the Cimmerian's quick ears. He whirled like a cat and dodged the blow aimed murderously at his back. As the gleaming steel in the dark hand hissed past him, he struck back with the fury of a roused python, and the long straight blade impaled his assailant and stood out a foot and a half between his shoulders.
 
-'So!' Conan tore his sword free as the victim sagged to the floor, gasping and gurgling. The man writhed briefly and stiffened. In the dying light Conan saw a black body and ebon countenance, hideous in the blue glare. He had killed Gwarunga.
+"So!" Conan tore his sword free as the victim sagged to the floor, gasping and gurgling. The man writhed briefly and stiffened. In the dying light Conan saw a black body and ebon countenance, hideous in the blue glare. He had killed Gwarunga.
 
 Conan turned from the corpse to the goddess. Thongs about her knees and breast held her upright against a stone pillar, and her thick hair, fastened to the column, held her head up. At a few yards' distance these bonds were not visible in the uncertain light.
 
-'He must have come to after I descended into the tunnel,' muttered Conan. 'He must have suspected I was down there. So he pulled out the dagger'—Conan stooped and wrenched the identical weapon from the stiffening fingers, glanced at it and replaced it in his own girdle—'and shut the door. Then he took Yelaya to befool his brother idiots. That was he shouting a while ago. You couldn't recognize his voice, under this echoing roof. And that bursting blue flame—I thought it looked familiar. It's a trick of the Stygian priests. Thutmekri must have given some of it to Gwarunga.'
+"He must have come to after I descended into the tunnel," muttered Conan. "He must have suspected I was down there. So he pulled out the dagger"—Conan stooped and wrenched the identical weapon from the stiffening fingers, glanced at it and replaced it in his own girdle—"and shut the door. Then he took Yelaya to befool his brother idiots. That was he shouting a while ago. You couldn't recognize his voice, under this echoing roof. And that bursting blue flame—I thought it looked familiar. It's a trick of the Stygian priests. Thutmekri must have given some of it to Gwarunga."
 
 He could easily have reached this cavern ahead of his companions. Evidently familiar with the plan of the caverns by hearsay or by maps handed down in the priestcraft, he had entered the cave after the others, carrying the goddess, followed a circuitous route through the tunnels and chambers, and ensconced himself and his burden on the balcony while Gorulga and the other acolytes were engaged in their endless rituals.
 
@@ -451,33 +451,33 @@ He was looking again into a chamber hewn out of solid rock, not a natural cavern
 
 Near the farther wall on a granite throne, staring for ever toward the arched doorway, sat the monstrous and obscene Pteor, the god of the Pelishtim, wrought in brass, with his exaggerated attributes reflecting the grossness of his cult. And in his lap sprawled a limp white figure.
 
-'Well, I'll be damned!' muttered Conan. He glanced suspiciously about the chamber, seeing no other entrance or evidence of occupation, and then advanced noiselessly and looked down at the girl whose slim shoulders shook with sobs of abject misery, her face sunk in her arms. From thick bands of gold on the idol's arms slim gold chains ran to smaller bands on her wrists. He laid a hand on her naked shoulder and she started convulsively, shrieked, and twisted her tear-stained face toward him.
+"Well, I'll be damned!" muttered Conan. He glanced suspiciously about the chamber, seeing no other entrance or evidence of occupation, and then advanced noiselessly and looked down at the girl whose slim shoulders shook with sobs of abject misery, her face sunk in her arms. From thick bands of gold on the idol's arms slim gold chains ran to smaller bands on her wrists. He laid a hand on her naked shoulder and she started convulsively, shrieked, and twisted her tear-stained face toward him.
 
-'Conan!' She made a spasmodic effort to go into the usual clinch, but the chains hindered her. He cut through the soft gold as close to her wrists as he could, grunting: 'You'll have to wear these bracelets until I can find a chisel or a file. Let go of me, damn it! You actresses are too damned emotional. What happened to you, anyway?'
+"Conan!" She made a spasmodic effort to go into the usual clinch, but the chains hindered her. He cut through the soft gold as close to her wrists as he could, grunting: "You'll have to wear these bracelets until I can find a chisel or a file. Let go of me, damn it! You actresses are too damned emotional. What happened to you, anyway?"
 
-'When I went back into the oracle chamber,' she whimpered, 'I saw the goddess lying on the dais as I'd first seen her. I called out to you and started to run to the door—then something grabbed me from behind. It clapped a hand over my mouth and carried me through a panel in the wall, and down some steps and along a dark hall. I didn't see what it was that had hold of me until we passed through a big metal door and came into a tunnel whose roof was alight, like this chamber.
+"When I went back into the oracle chamber," she whimpered, "I saw the goddess lying on the dais as I'd first seen her. I called out to you and started to run to the door—then something grabbed me from behind. It clapped a hand over my mouth and carried me through a panel in the wall, and down some steps and along a dark hall. I didn't see what it was that had hold of me until we passed through a big metal door and came into a tunnel whose roof was alight, like this chamber.
 
-'Oh, I nearly fainted when I saw! They are not humans! They are gray, hairy devils that walk like men and speak a gibberish no human could understand. They stood there and seemed to be waiting, and once I thought I heard somebody trying the door. Then one of the things pulled a metal lever in the wall, and something crashed on the other side of the door.
+"Oh, I nearly fainted when I saw! They are not humans! They are gray, hairy devils that walk like men and speak a gibberish no human could understand. They stood there and seemed to be waiting, and once I thought I heard somebody trying the door. Then one of the things pulled a metal lever in the wall, and something crashed on the other side of the door.
 
-'Then they carried me on and on through winding tunnels and up stone stairways into this chamber, where they chained me on the knees of this abominable idol, and then they went away. Oh, Conan, what are they?'
+"Then they carried me on and on through winding tunnels and up stone stairways into this chamber, where they chained me on the knees of this abominable idol, and then they went away. Oh, Conan, what are they?"
 
-'Servants of Bît-Yakin,' he grunted. 'I found a manuscript that told me a number of things, and then stumbled upon some frescoes that told me the rest. Bît-Yakin was a Pelishtim who wandered into the valley with his servants after the people of Alkmeenon had deserted it. He found the body of Princess Yelaya, and discovered that the priests returned from time to time to make offerings to her, for even then she was worshipped as a goddess.
+"Servants of Bît-Yakin," he grunted. "I found a manuscript that told me a number of things, and then stumbled upon some frescoes that told me the rest. Bît-Yakin was a Pelishtim who wandered into the valley with his servants after the people of Alkmeenon had deserted it. He found the body of Princess Yelaya, and discovered that the priests returned from time to time to make offerings to her, for even then she was worshipped as a goddess.
 
-'He made an oracle of her, and he was the voice of the oracle, speaking from a niche he cut in the wall behind the ivory dais. The priests never suspected, never saw him or his servants for they always hid themselves when the men came. Bît-Yakin lived and died here without ever being discovered by the priests. Crom knows how long he dwelt here, but it must have been for centuries. The wise men of the Pelishtim know how to increase the span of their lives for hundreds of years. I've seen some of them myself. Why he lived here alone, and why he played the part of oracle no ordinary human can guess, but I believe the oracle part was to keep the city inviolate and sacred, so he could remain undisturbed. He ate the food the priests brought as an offering to Yelaya, and his servants ate other things—I've always known there was a subterranean river flowing away from the lake where the people of the Puntish highlands throw their dead. That river runs under this palace. They have ladders hung over the water where they can hang and fish for the corpses that come floating through. Bît-Yakin recorded everything on parchment and painted walls.
+"He made an oracle of her, and he was the voice of the oracle, speaking from a niche he cut in the wall behind the ivory dais. The priests never suspected, never saw him or his servants for they always hid themselves when the men came. Bît-Yakin lived and died here without ever being discovered by the priests. Crom knows how long he dwelt here, but it must have been for centuries. The wise men of the Pelishtim know how to increase the span of their lives for hundreds of years. I've seen some of them myself. Why he lived here alone, and why he played the part of oracle no ordinary human can guess, but I believe the oracle part was to keep the city inviolate and sacred, so he could remain undisturbed. He ate the food the priests brought as an offering to Yelaya, and his servants ate other things—I've always known there was a subterranean river flowing away from the lake where the people of the Puntish highlands throw their dead. That river runs under this palace. They have ladders hung over the water where they can hang and fish for the corpses that come floating through. Bît-Yakin recorded everything on parchment and painted walls.
 
-'But he died at last, and his servants mummified him according to instructions he gave them before his death, and stuck him in a cave in the cliffs. The rest is easy to guess. His servants, who were even more nearly immortal than he, kept on dwelling here, but the next time a high priest came to consult the oracle, not having a master to restrain them, they tore him to pieces. So since then—until Gorulga—nobody came to talk to the oracle.
+"But he died at last, and his servants mummified him according to instructions he gave them before his death, and stuck him in a cave in the cliffs. The rest is easy to guess. His servants, who were even more nearly immortal than he, kept on dwelling here, but the next time a high priest came to consult the oracle, not having a master to restrain them, they tore him to pieces. So since then—until Gorulga—nobody came to talk to the oracle.
 
-'It's obvious they've been renewing the garments and ornaments of the goddess, as they'd seen Bît-Yakin do. Doubtless there's a sealed chamber somewhere where the silks are kept from decay. They clothed the goddess and brought her back to the oracle room after Zargheba had stolen her. And by the way, they took off Zargheba's head and hung it in a thicket.'
+"It's obvious they've been renewing the garments and ornaments of the goddess, as they'd seen Bît-Yakin do. Doubtless there's a sealed chamber somewhere where the silks are kept from decay. They clothed the goddess and brought her back to the oracle room after Zargheba had stolen her. And by the way, they took off Zargheba's head and hung it in a thicket."
 
 She shivered, yet at the same time breathed a sigh of relief.
 
-'He'll never whip me again.'
+"He'll never whip me again."
 
-'Not this side of hell,' agreed Conan. 'But come on. Gwarunga ruined my chances with his stolen goddess. I'm going to follow the priests and take my chance of stealing the loot from them after they get it. And you stay close to me. I can't spend all my time looking for you.'
+"Not this side of hell," agreed Conan. "But come on. Gwarunga ruined my chances with his stolen goddess. I'm going to follow the priests and take my chance of stealing the loot from them after they get it. And you stay close to me. I can't spend all my time looking for you."
 
-'But the servants of Bît-Yakin!' she whispered fearfully.
+"But the servants of Bît-Yakin!" she whispered fearfully.
 
-'We'll have to take our chance,' he grunted. 'I don't know what's in their minds, but so far they haven't shown any disposition to come out and fight in the open. Come on.'
+"We'll have to take our chance," he grunted. "I don't know what's in their minds, but so far they haven't shown any disposition to come out and fight in the open. Come on."
 
 Taking her wrist he led her out of the chamber and down the corridor. As they advanced they heard the chanting of the priests, and mingling with the sound the low sullen rushing of waters. The light grew stronger above them as they emerged on a high-pitched gallery of a great cavern and looked down on a scene weird and fantastic.
 
@@ -507,23 +507,23 @@ Conan saw black bodies tossed like chaff in the inhuman hands of the slayers, ag
 
 Muriela was on her knees clutching Conan's legs, her face pressed against his knee and her eyes tightly shut. She was a quaking, quivering mold of abject terror. But Conan was galvanized. A quick glance across at the aperture where the stars shone, a glance down at the chest that still blazed open on the blood-smeared altar, and he saw and seized the desperate gamble.
 
-'I'm going after that chest!' he grated. 'Stay here!'
+"I'm going after that chest!" he grated. "Stay here!"
 
-'Oh, Mitra, no!' In an agony of fright she fell to the floor and caught at his sandals. 'Don't! Don't! Don't leave me!'
+"Oh, Mitra, no!" In an agony of fright she fell to the floor and caught at his sandals. "Don't! Don't! Don't leave me!"
 
-'Lie still and keep your mouth shut!' he snapped, disengaging himself from her frantic clasp.
+"Lie still and keep your mouth shut!" he snapped, disengaging himself from her frantic clasp.
 
 He disregarded the tortuous stair. He dropped from ledge to ledge with reckless haste. There was no sign of the monsters as his feet hit the floor. A few of the torches still flared in their sockets, the phosphorescent glow throbbed and quivered, and the river flowed with an almost articulate muttering, scintillant with undreamed radiances. The glow that had heralded the appearance of the servants had vanished with them. Only the light of the jewels in the brass chest shimmered and quivered.
 
 He snatched the chest, noting its contents in one lustful glance—strange, curiously shapen stones that burned with an icy, non-terrestrial fire. He slammed the lid, thrust the chest under his arm, and ran back up the steps. He had no desire to encounter the hellish servants of Bît-Yakin. His glimpse of them in action had dispelled any illusion concerning their fighting ability. Why they had waited so long before striking at the invaders he was unable to say. What human could guess the motives or thoughts of these monstrosities? That they were possessed of craft and intelligence equal to humanity had been demonstrated. And there on the cavern floor lay crimson proof of their bestial ferocity.
 
-The Corinthian girl still cowered on the gallery where he had left her. He caught her wrist and yanked her to her feet, grunting: 'I guess it's time to go!'
+The Corinthian girl still cowered on the gallery where he had left her. He caught her wrist and yanked her to her feet, grunting: "I guess it's time to go!"
 
 Too bemused with terror to be fully aware of what was going on, the girl suffered herself to be led across the dizzy span. It was not until they were poised over the rushing water that she looked down, voiced a startled yelp and would have fallen but for Conan's massive arm about her. Growling an objurgation in her ear, he snatched her up under his free arm and swept her, in a flutter of limply waving arms and legs, across the arch and into the aperture that opened at the other end. Without bothering to set her on her feet, he hurried through the short tunnel into which this aperture opened. An instant later they emerged upon a narrow ledge on the outer side of the cliffs that circled the valley. Less than a hundred feet below them the jungle waved in the starlight.
 
 Looking down, Conan vented a gusty sigh of relief. He believed that he could negotiate the descent, even though burdened with the jewels and the girl; although he doubted if even he, unburdened, could have ascended at that spot. He set the chest, still smeared with Gorulga's blood and clotted with his brains, on the ledge, and was about to remove his girdle in order to tie the box to his back, when he was galvanized by a sound behind him, a sound sinister and unmistakable.
 
-'Stay here!' he snapped at the bewildered Corinthian girl. 'Don't move!' And drawing his sword, he glided into the tunnel, glaring back into the cavern.
+"Stay here!" he snapped at the bewildered Corinthian girl. "Don't move!" And drawing his sword, he glided into the tunnel, glaring back into the cavern.
 
 Halfway across the upper span he saw a gray deformed shape. One of the servants of Bît-Yakin was on his trail. There was no doubt that the brute had seen them and was following them. Conan did not hesitate. It might be easier to defend the mouth of the tunnel—but this fight must be finished quickly, before the other servants could return.
 
@@ -545,14 +545,14 @@ Conan did not hesitate, nor did he even glance toward the chest that held the we
 
 Conan scarcely wasted a downward glance. He darted across the span and ran up the cliff stair like a cat, carrying the limp girl as if she had been an infant. A hideous ululation caused him to glance over his shoulder as he reached the higher arch, to see the other servants streaming back into the cavern below, blood dripping from their bared fangs. They raced up the stair that wound from tier to tier, roaring vengefully; but he slung the girl unceremoniously over his shoulder, dashed through the tunnel and went down the cliffs like an ape himself, dropping and springing from hold to hold with breakneck recklessness. When the fierce countenances looked over the ledge of the aperture, it was to see the Cimmerian and the girl disappearing into the forest that surrounded the cliffs.
 
-'Well,' said Conan, setting the girl on her feet within the sheltering screen of branches, 'we can take our time now. I don't think those brutes will follow us outside the valley. Anyway, I've got a horse tied at a water-hole close by, if the lions haven't eaten him. Crom's devils! What are you crying about now?'
+"Well," said Conan, setting the girl on her feet within the sheltering screen of branches, "we can take our time now. I don't think those brutes will follow us outside the valley. Anyway, I've got a horse tied at a water-hole close by, if the lions haven't eaten him. Crom's devils! What are you crying about now?"
 
 She covered her tear-stained face with her hands, and her slim shoulders shook with sobs.
 
-'I lost the jewels for you,' she wailed miserably. 'It was my fault. If I'd obeyed you and stayed out on the ledge, that brute would never have seen me. You should have caught the gems and let me drown!'
+"I lost the jewels for you," she wailed miserably. "It was my fault. If I'd obeyed you and stayed out on the ledge, that brute would never have seen me. You should have caught the gems and let me drown!"
 
-'Yes, I suppose I should,' he agreed. 'But forget it. Never worry about what's past. And stop crying, will you? That's better. Come on.'
+"Yes, I suppose I should," he agreed. "But forget it. Never worry about what's past. And stop crying, will you? That's better. Come on."
 
-'You mean you're going to keep me? Take me with you?' she asked hopefully.
+"You mean you're going to keep me? Take me with you?" she asked hopefully.
 
-'What else do you suppose I'd do with you?' He ran an approving glance over her figure and grinned at the torn skirt which revealed a generous expanse of tempting ivory-tinted curves. 'I can use an actress like you. There's no use going back to Keshia. There's nothing in Keshan now that I want. We'll go to Punt. The people of Punt worship an ivory woman, and they wash gold out of the rivers in wicker baskets. I'll tell them that Keshan is intriguing with Thutmekri to enslave them—which is true—and that the gods have sent me to protect them—for about a houseful of gold. If I can manage to smuggle you into their temple to exchange places with their ivory goddess, we'll skin them out of their jaw teeth before we get through with them!'
+"What else do you suppose I'd do with you?" He ran an approving glance over her figure and grinned at the torn skirt which revealed a generous expanse of tempting ivory-tinted curves. "I can use an actress like you. There's no use going back to Keshia. There's nothing in Keshan now that I want. We'll go to Punt. The people of Punt worship an ivory woman, and they wash gold out of the rivers in wicker baskets. I'll tell them that Keshan is intriguing with Thutmekri to enslave them—which is true—and that the gods have sent me to protect them—for about a houseful of gold. If I can manage to smuggle you into their temple to exchange places with their ivory goddess, we'll skin them out of their jaw teeth before we get through with them!"

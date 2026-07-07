@@ -17,7 +17,7 @@ Standing immobile throughout the day, these vivid objects, with their fantastic 
 
 The carvings that were left unselected were burned the same evening in the courtyard below Lord Groan’s western balcony, and it was customary for him to stand there at the time of the burning and to bow his head silently as if in pain, and then as a gong beat thrice from within, the three carvings to escape the flames would be brought forth in the moonlight. They were stood upon the balustrade of the balcony in full view of the crowd below, and the Earl of Groan would call for their authors to come forward. When they had stationed themselves immediately beneath where he was standing, the Earl would throw down to them the traditional scrolls of vellum, which, as the writings upon them verified, permitted these men to walk the battlements above their cantonment at the full moon of each alternate month. On these particular nights, from a window in the southern wall of Gormenghast, an observer might watch the minute moonlit figures whose skill had won for them this honour which they so coveted, moving to and fro along the battlements.
 
-Saving this exception of the day of carvings, and the latitude permitted to the most peerless, there was no other opportunity for those who lived within the walls to know of these ‘outer’ folk, nor in fact were they of interest to the ‘inner’ world, being submerged within the shadows of the great walls.
+Saving this exception of the day of carvings, and the latitude permitted to the most peerless, there was no other opportunity for those who lived within the walls to know of these “outer” folk, nor in fact were they of interest to the “inner” world, being submerged within the shadows of the great walls.
 
 They were all-but forgotten people: the breed that was remembered with a start, or with the unreality of a recrudescent dream. The day of carvings alone brought them into the sunlight and reawakened the memory of former times. For as far back as even Nettel, the octogenarian who lived in the tower above the rusting armoury, could remember, the ceremony had been held. Innumerable carvings had smouldered to ashes in obedience to the law, but the choicest were still housed in the Hall of the Bright Carvings.
 
@@ -33,73 +33,73 @@ What were his reveries as he lay in his hammock with his dark bullet head tucked
 
 One humid afternoon a visitor *did* arrive to disturb Rottcodd as he lay deeply hammocked, for his siesta was broken sharply by a rattling of the door handle which was apparently performed in lieu of the more popular practice of knocking at the panels. The sound echoed down the long room and then settled into the fine dust on the boarded door. The sunlight squeezed itself between the thin cracks of the window blind. Even on a hot, stifling, unhealthy afternoon such as this, the blinds were down and the candlelight filled the room with an incongruous radiance. At the sound of the door handle being rattled Rottcodd sat up suddenly. The thin bands of moted light edging their way through the shutters barred his dark head with the brilliance of the outer world. As he lowered himself over the hammock, it wobbled on his shoulders, and his eyes darted up and down the door returning again and again after their rapid and precipitous journeys to the agitations of the door handle. Gripping his feather duster in his right hand, Rottcodd began to advance down the bright avenue, his feet giving rise at each step to little clouds of dust. When he had at last reached the door the handle had ceased to vibrate. Lowering himself suddenly to his knees he placed his right eye at the keyhole, and controlling the oscillation of his head and the vagaries of his left eye (which was for ever trying to dash up and down the vertical surface of the door), he was able by dint of concentration to observe, within three inches of his keyholed eye, an eye which was not his, being not only of a different colour to his own iron marble but being, which is more convincing, on the other side of the door. This third eye which was going through the same performance as the one belonging to Rottcodd, belonged to Flay, the taciturn servant of Sepulchrave, Earl of Gormenghast. For Flay to be four rooms horizontally or one floor vertically away from his lordship was a rare enough thing in the castle. For him to be absent at all from his master’s side was abnormal, yet here apparently on this stifling summer afternoon was the eye of Mr Flay at the outer keyhole of the Hall of the Bright Carvings, and presumably the rest of Mr Flay was joined on behind it. On mutual recognition the eyes withdrew simultaneously and the brass doorknob rattled again in the grip of the visitor’s hand. Rottcodd turned the key in the lock and the door opened slowly.
 
-Mr Flay appeared to clutter up the doorway as he stood revealed, his arms folded, surveying the smaller man before him in an expressionless way. It did not look as though such a bony face as his could give normal utterance, but rather that instead of sounds, something more brittle, more ancient, something dryer would emerge, something perhaps more in the nature of a splinter or a fragment of stone. Nevertheless, the harsh lips parted. ‘It’s me,’ he said, and took a step forward into the room, his knee joints cracking as he did so. His passage across a room—in fact his passage through life—was accompanied by these cracking sounds, one per step, which might be likened to the breaking of dry twigs.
+Mr Flay appeared to clutter up the doorway as he stood revealed, his arms folded, surveying the smaller man before him in an expressionless way. It did not look as though such a bony face as his could give normal utterance, but rather that instead of sounds, something more brittle, more ancient, something dryer would emerge, something perhaps more in the nature of a splinter or a fragment of stone. Nevertheless, the harsh lips parted. “It’s me,” he said, and took a step forward into the room, his knee joints cracking as he did so. His passage across a room—in fact his passage through life—was accompanied by these cracking sounds, one per step, which might be likened to the breaking of dry twigs.
 
 Rottcodd, seeing that it was indeed he, motioned him to advance by an irritable gesture of the hand and closed the door behind him.
 
-Conversation was never one of Mr Flay’s accomplishments and for some time he gazed mirthlessly ahead of him, and then, after what seemed an eternity to Rottcodd he raised a bony hand and scratched himself behind the ear. Then he made his second remark. ‘Still here, eh?’ he said, his voice forcing its way out of his face.
+Conversation was never one of Mr Flay’s accomplishments and for some time he gazed mirthlessly ahead of him, and then, after what seemed an eternity to Rottcodd he raised a bony hand and scratched himself behind the ear. Then he made his second remark. “Still here, eh?” he said, his voice forcing its way out of his face.
 
 Rottcodd, feeling presumably that there was little need to answer such a question, shrugged his shoulders and gave his eyes the run of the ceiling.
 
-Mr Flay pulled himself together and continued: ‘I said still here, eh, Rottcodd?’ He stared bitterly at the carving of the Emerald Horse. ‘You’re still here, eh?’
+Mr Flay pulled himself together and continued: “I said still here, eh, Rottcodd?” He stared bitterly at the carving of the Emerald Horse. “You’re still here, eh?”
 
-‘I’m invariably here,’ said Rottcodd, lowering his gleaming glasses and running his eyes all over Mr Flay’s visage. ‘Day in, day out, invariably. Very hot weather. Extremely stifling. Did you want anything?’
+“I’m invariably here,” said Rottcodd, lowering his gleaming glasses and running his eyes all over Mr Flay’s visage. “Day in, day out, invariably. Very hot weather. Extremely stifling. Did you want anything?”
 
-‘Nothing,’ said Flay and he turned towards Rottcodd with something menacing in his attitude. ‘I want *nothing*.’ He wiped the palms of his hands on his hips where the dark cloth shone like silk.
+“Nothing,” said Flay and he turned towards Rottcodd with something menacing in his attitude. “I want *nothing*.” He wiped the palms of his hands on his hips where the dark cloth shone like silk.
 
-Rottcodd flicked ash from his shoes with the feather duster and tilted his bullet head. ‘Ah,’ he said in a non-committal way.
+Rottcodd flicked ash from his shoes with the feather duster and tilted his bullet head. “Ah,” he said in a non-committal way.
 
-‘You say “ah”,’ said Flay, turning his back on Rottcodd and beginning to walk down the coloured avenue, ‘but I tell you, it is more than “ah”.’
+“You say ‘ah’,” said Flay, turning his back on Rottcodd and beginning to walk down the coloured avenue, “but I tell you, it is more than ‘ah’.”
 
-‘Of course,’ said Rottcodd. ‘Much more, I dare say. But I fail to understand. I am a Curator.’ At this he drew his body up to full height and stood on the tips of his toes in the dust.
+“Of course,” said Rottcodd. “Much more, I dare say. But I fail to understand. I am a Curator.” At this he drew his body up to full height and stood on the tips of his toes in the dust.
 
-‘A what?’ said Flay, straggling above him for he had returned. ‘A curator?’
+“A what?” said Flay, straggling above him for he had returned. “A curator?”
 
-‘That is so,’ said Rottcodd, shaking his head.
+“That is so,” said Rottcodd, shaking his head.
 
 Flay made a hard noise in his throat. To Rottcodd it signified a complete lack of understanding and it annoyed him that the man should invade his province.
 
-‘Curator,’ said Flay, after a ghastly silence, ‘I will tell you something. I know something. Eh?’
+“Curator,” said Flay, after a ghastly silence, “I will tell you something. I know something. Eh?”
 
-‘Well?’ said Rottcodd.
+“Well?” said Rottcodd.
 
-‘I’ll tell you,’ said Flay. ‘But first, what day is it? What month, and what year is it? Answer me.’
+“I’ll tell you,” said Flay. “But first, what day is it? What month, and what year is it? Answer me.”
 
-Rottcodd was puzzled at this question, but he was becoming a little intrigued. It was so obvious that the bony man had something on his mind, and he replied, ‘It is the eighth day of the eighth month, I am uncertain about the year. But why?’
+Rottcodd was puzzled at this question, but he was becoming a little intrigued. It was so obvious that the bony man had something on his mind, and he replied, “It is the eighth day of the eighth month, I am uncertain about the year. But why?”
 
-In a voice almost inaudible Flay repeated ‘The eighth day of the eighth month’. His eyes were almost transparent as though in a country of ugly hills one were to find among the harsh rocks two sky-reflecting lakes. ‘Come here,’ he said, ‘come closer, Rottcodd, I will tell you. You don’t understand Gormenghast, what happens in Gormenghast—the things that happen—no, no. Below you, that’s where it all is, under this north wing. What are these things up here? These wooden things? No use now. Keep them, but no use now. Everything is moving. The castle is moving. Today, first time for years he’s alone, his Lordship. Not in my sight.’ Flay bit at his knuckle. ‘Bedchamber of Ladyship, that’s where he is. Lordship is beside himself: won’t have me, won’t let me in to see the New One. The New One. He’s come. He’s downstairs. I haven’t seen him.’ Flay bit at the corresponding knuckle on the other hand as though to balance the sensation. ‘No one’s been in. Of course not. I’ll be next. The birds are lined along the bed-rail. Ravens, starlings, all the perishers, and the white rook. There’s a kestrel; claws through the pillow. My lady feeds them with crusts. Grain and crusts. Hardly seen her new-born. Heir to Gormenghast. Doesn’t look at him. But my lord keeps staring. Seen him through the grating. Needs me. Won’t let me in. Are you listening?’
+In a voice almost inaudible Flay repeated “The eighth day of the eighth month”. His eyes were almost transparent as though in a country of ugly hills one were to find among the harsh rocks two sky-reflecting lakes. “Come here,” he said, “come closer, Rottcodd, I will tell you. You don’t understand Gormenghast, what happens in Gormenghast—the things that happen—no, no. Below you, that’s where it all is, under this north wing. What are these things up here? These wooden things? No use now. Keep them, but no use now. Everything is moving. The castle is moving. Today, first time for years he’s alone, his Lordship. Not in my sight.” Flay bit at his knuckle. “Bedchamber of Ladyship, that’s where he is. Lordship is beside himself: won’t have me, won’t let me in to see the New One. The New One. He’s come. He’s downstairs. I haven’t seen him.” Flay bit at the corresponding knuckle on the other hand as though to balance the sensation. “No one’s been in. Of course not. I’ll be next. The birds are lined along the bed-rail. Ravens, starlings, all the perishers, and the white rook. There’s a kestrel; claws through the pillow. My lady feeds them with crusts. Grain and crusts. Hardly seen her new-born. Heir to Gormenghast. Doesn’t look at him. But my lord keeps staring. Seen him through the grating. Needs me. Won’t let me in. Are you listening?”
 
-Mr Rottcodd certainly was listening. In the first place he had never heard Mr Flay talk so much in his life before, and in the second place the news that a son had been born at long last to the ancient and historic house of Groan was, after all, an interesting tit-bit for a curator living alone on the upper storey of the desolate north wing. Here was something with which he could occupy his mind for some time to come. It was true, as Mr Flay pointed out, that he, Rottcodd, could not possibly feel the pulse of the castle as he lay in his hammock, for in point of fact Rottcodd had not even suspected that an heir was on its way. His meals came up in a miniature lift through darkness from the servants’ quarters many floors below and he slept in the ante-room at night and consequently he was completely cut off from the world and all its happenings. Flay had brought him real news. All the same he disliked being disturbed even when information of this magnitude was brought. What was passing through the bullet-shaped head was a question concerning Mr Flay’s entry. Why had Flay, who never in the normal course of events would have raised an eyebrow to acknowledge his presence—why had he now gone to the trouble of climbing to a part of the castle so foreign to him? And to force a conversation on a personality as unexpansive as his own. He ran his eyes over Mr Flay in his own peculiarly rapid way and surprised himself by saying suddenly, ‘To what may I attribute your presence, Mr Flay?’
+Mr Rottcodd certainly was listening. In the first place he had never heard Mr Flay talk so much in his life before, and in the second place the news that a son had been born at long last to the ancient and historic house of Groan was, after all, an interesting tit-bit for a curator living alone on the upper storey of the desolate north wing. Here was something with which he could occupy his mind for some time to come. It was true, as Mr Flay pointed out, that he, Rottcodd, could not possibly feel the pulse of the castle as he lay in his hammock, for in point of fact Rottcodd had not even suspected that an heir was on its way. His meals came up in a miniature lift through darkness from the servants’ quarters many floors below and he slept in the ante-room at night and consequently he was completely cut off from the world and all its happenings. Flay had brought him real news. All the same he disliked being disturbed even when information of this magnitude was brought. What was passing through the bullet-shaped head was a question concerning Mr Flay’s entry. Why had Flay, who never in the normal course of events would have raised an eyebrow to acknowledge his presence—why had he now gone to the trouble of climbing to a part of the castle so foreign to him? And to force a conversation on a personality as unexpansive as his own. He ran his eyes over Mr Flay in his own peculiarly rapid way and surprised himself by saying suddenly, “To what may I attribute your presence, Mr Flay?”
 
-‘What?’ said Flay, ‘what’s that?’ He looked down on Rottcodd and his eyes became glassy.
+“What?” said Flay, “what’s that?” He looked down on Rottcodd and his eyes became glassy.
 
 In truth Mr Flay had surprised himself. Why, indeed, he thought to himself, had he troubled to tell Rottcodd the news which meant so much to him? Why Rottcodd, of all people? He continued staring at the curator for some while, and the more he stood and pondered the clearer it became to him that the question he had been asked was, to say the very least, uncomfortably pertinent.
 
 The little man in front of him had asked a simple and forthright question. It had been rather a poser. He took a couple of shambling steps towards Mr Rottcodd and then, forcing his hands into his trouser pockets, turned round very slowly on one heel.
 
-‘Ah,’ he said at last, ‘I see what you mean, Rottcodd—I see what you mean.’
+“Ah,” he said at last, “I see what you mean, Rottcodd—I see what you mean.”
 
 Rottcodd was longing to get back to his hammock and enjoy the luxury of being quite alone again, but his eye travelled even more speedily towards the visitor’s face when he heard the remark. Mr Flay had said that he saw what Rottcodd had meant. Had he really? Very interesting. What, by the way, *had* he meant? What precisely was it that Mr Flay had seen? He flicked an imaginary speck of dust from the gilded head of a dryad.
 
-‘You are interested in the birth below?’ he inquired.
+“You are interested in the birth below?” he inquired.
 
-Flay stood for a while as though he had heard nothing, but after a few minutes it became obvious he was thunderstruck. ‘Interested!’ he cried in a deep, husky voice, ‘Interested! The child is a Groan. An authentic male Groan. Challenge to Change! No *Change*, Rottcodd. No Change!’
+Flay stood for a while as though he had heard nothing, but after a few minutes it became obvious he was thunderstruck. “Interested!” he cried in a deep, husky voice, “Interested! The child is a Groan. An authentic male Groan. Challenge to Change! No *Change*, Rottcodd. No Change!”
 
-‘Ah,’ said Rottcodd. ‘I see your point, Mr Flay. But his lordship was not dying?’
+“Ah,” said Rottcodd. “I see your point, Mr Flay. But his lordship was not dying?”
 
-‘No,’ said Mr Flay, ‘he was not dying, but *teeth lengthen*!’ and he strode to the wooden shutters with long, slow heron-like paces, and the dust rose behind him. When it had settled Rottcodd could see his angular parchment-coloured head leaning itself against the lintel of the window.
+“No,” said Mr Flay, “he was not dying, but *teeth lengthen*!” and he strode to the wooden shutters with long, slow heron-like paces, and the dust rose behind him. When it had settled Rottcodd could see his angular parchment-coloured head leaning itself against the lintel of the window.
 
 Mr Flay could not feel entirely satisfied with his answer to Rottcodd’s question covering the reason for his appearance in the Hall of the Bright Carvings. As he stood there by the window the question repeated itself to him again and again. Why Rottcodd? Why on earth Rottcodd? And yet he knew that directly he heard of the birth of the heir, when his dour nature had been stirred so violently that he had found himself itching to communicate his enthusiasm to another being—from that moment Rottcodd had leapt to his mind. Never of a communicative or enthusiastic nature he had found it difficult even under the emotional stress of the advent to inform Rottcodd of the facts. And, as has been remarked, he had surprised even himself not only for having unburdened himself at all, but for having done so in so short a time.
 
-He turned, and saw that the Curator was standing wearily by the Piebald Shark, his small cropped round head moving to and fro like a bird’s, and his hands clasped before him with the feather duster between his fingers. He could see that Rottcodd was politely waiting for him to go. Altogether Mr Flay was in a peculiar state of mind. He was surprised at Mr Rottcodd for being so unimpressed at the news, and he was surprised at himself for having brought it. He took from his pocket a vast watch of silver and held it horizontally on the flat of his palm. ‘Must go,’ he said awkwardly. ‘Do you hear me, Rottcodd, I must go?’
+He turned, and saw that the Curator was standing wearily by the Piebald Shark, his small cropped round head moving to and fro like a bird’s, and his hands clasped before him with the feather duster between his fingers. He could see that Rottcodd was politely waiting for him to go. Altogether Mr Flay was in a peculiar state of mind. He was surprised at Mr Rottcodd for being so unimpressed at the news, and he was surprised at himself for having brought it. He took from his pocket a vast watch of silver and held it horizontally on the flat of his palm. “Must go,” he said awkwardly. “Do you hear me, Rottcodd, I must go?”
 
-‘Good of you to call,’ said Rottcodd. ‘Will you sign your name in the visitors’ book as you go out?’
+“Good of you to call,” said Rottcodd. “Will you sign your name in the visitors’ book as you go out?”
 
-‘No! Not a visitor.’ Flay brought his shoulders up to his ears. ‘Been with lordship thirty-seven years. Sign a book,’ he added contemptuously, and he spat into a far corner of the room.
+“No! Not a visitor.” Flay brought his shoulders up to his ears. “Been with lordship thirty-seven years. Sign a book,” he added contemptuously, and he spat into a far corner of the room.
 
-‘As you wish,’ said Mr Rottcodd. ‘It was to the section of the visitors’ book devoted to the staff that I was referring.’
+“As you wish,” said Mr Rottcodd. “It was to the section of the visitors’ book devoted to the staff that I was referring.”
 
-‘No!’ said Flay.
+“No!” said Flay.
 
 As he passed the curator on his way to the door he looked carefully at him as he came abreast, and the question rankled. Why? The castle was filled with the excitement of the nativity. All was alive with conjecture. There was no control. Rumour swept through the stronghold. Everywhere, in passage, archway, cloister, refectory, kitchen, dormitory, and hall it was the same. Why had he chosen the unenthusiastic Rottcodd? And then, in a flash he realized. He must have subconsciously known that the news would be new to no one else; that Rottcodd was virgin soil for his message, Rottcodd the curator who lived alone among the Bright Carvings was the only one on whom he could vent the tidings without jeopardizing his sullen dignity, and to whom although the knowledge would give rise to but little enthusiasm it would at least be new.
 
@@ -117,7 +117,7 @@ He had come to where, on his left, and halfway along the servants’ corridor, t
 
 As Mr Flay entered the Great Kitchen the steaming, airless concentration of a ghastly heat struck him. He felt that his body had received a blow. Not only was the normal sickening atmosphere of the kitchen augmented by the sun’s rays streaming into the room at various points through the high windows, but, in the riot of the festivities, the fires had been banked dangerously. But Mr Flay realized that it was *right* that this should be as insufferable as it was. He even realized that the four grillers who were forcing joint after joint between the metal doors with their clumsy boots, until the oven began to give under the immoderate strain, were in key with the legitimate temper of the occasion. The fact that they had no idea what they were doing nor why they were doing it was irrelevant. The Countess had given birth; was this a moment for rational behaviour?
 
-The walls of the vast room which were streaming with calid moisture, were built with grey slabs of stone and were the personal concern of a company of eighteen men known as the ‘Grey Scrubbers’. It had been their privilege on reaching adolescence to discover that, being the sons of their fathers, their careers had been arranged for them and that stretching ahead of them lay their identical lives consisting of an unimaginative if praiseworthy duty. This was to restore, each morning, to the great grey floor and the lofty walls of the kitchen a stainless complexion. On every day of the year from three hours before daybreak until about eleven o’clock, when the scaffolding and ladders became a hindrance to the cooks, the Grey Scrubbers fulfilled their hereditary calling. Through the character of their trade, their arms had become unusually powerful, and when they let their huge hands hang loosely at their sides, there was more than an echo of the simian. Coarse as these men appeared, they were an integral part of the Great Kitchen. Without the Grey Scrubbers something very earthy, very heavy, very real would be missing to any sociologist searching in that steaming room, for the completion of a circle of temperaments, a gamut of the lower human values.
+The walls of the vast room which were streaming with calid moisture, were built with grey slabs of stone and were the personal concern of a company of eighteen men known as the “Grey Scrubbers”. It had been their privilege on reaching adolescence to discover that, being the sons of their fathers, their careers had been arranged for them and that stretching ahead of them lay their identical lives consisting of an unimaginative if praiseworthy duty. This was to restore, each morning, to the great grey floor and the lofty walls of the kitchen a stainless complexion. On every day of the year from three hours before daybreak until about eleven o’clock, when the scaffolding and ladders became a hindrance to the cooks, the Grey Scrubbers fulfilled their hereditary calling. Through the character of their trade, their arms had become unusually powerful, and when they let their huge hands hang loosely at their sides, there was more than an echo of the simian. Coarse as these men appeared, they were an integral part of the Great Kitchen. Without the Grey Scrubbers something very earthy, very heavy, very real would be missing to any sociologist searching in that steaming room, for the completion of a circle of temperaments, a gamut of the lower human values.
 
 Through daily proximity to the great slabs of stone, the faces of the Grey Scrubbers had become like slabs themselves. There was no expression whatever upon the eighteen faces, unless the lack of expression is in itself an expression. They were simply slabs that the Grey Scrubbers spoke from occasionally, stared from incessantly, heard with, hardly ever. They were traditionally deaf. The eyes were there, small and flat as coins, and the colour of the walls themselves, as though during the long hours of professional staring the grey stone had at last reflected itself indelibly once and for all. Yes, the eyes were there, thirty-six of them and the eighteen noses were there, and the lines of the mouths that resembled the harsh cracks that divided the stone slabs, they were there too. Although nothing physical was missing from any one of their eighteen faces yet it would be impossible to perceive the faintest sign of animation and, even if a basinful of their features had been shaken together and if each feature had been picked out at random and stuck upon some dummy-head of wax at any capricious spot or angle, it would have made no difference, for even the most fantastic, the most ingenious of arrangements could not have tempted into life a design whose component parts were dead. In all, counting the ears, which on occasion may be monstrously expressive, the one hundred and eight features were unable, at the best of times, to muster between them, individually or taken *en masse*, the faintest shadow of anything that might hint at the workings of what lay beneath.
 
@@ -167,11 +167,11 @@ Another senseless bout of foot-stamping and screaming broke the spell, and lifti
 
 His soft hand had silenced the seething of the apprentices and he allowed his thick voice to drop out of his face.
 
-‘Gallstones!’ and in the dimness he flung his arms apart so that the buttons of his tunic were torn away, one of them whizzing across the room and stunning a cockroach on the opposite wall. ‘Close your ranks and close your ranks and listen mosht attentivesome. Come closer then, my little sea of faces, come ever closer in, my little ones.’
+“Gallstones!” and in the dimness he flung his arms apart so that the buttons of his tunic were torn away, one of them whizzing across the room and stunning a cockroach on the opposite wall. “Close your ranks and close your ranks and listen mosht attentivesome. Come closer then, my little sea of faces, come ever closer in, my little ones.”
 
 The apprentices edged themselves forward, tripping and treading upon each other’s feet, the foremost of them being wedged against the wine-barrel itself.
 
-‘Thatsh the way. Thatsh jusht the way,’ said Swelter, leering down at them. ‘Now we’re quite a happly little family. Mosht shelect and advanced.’
+“Thatsh the way. Thatsh jusht the way,” said Swelter, leering down at them. “Now we’re quite a happly little family. Mosht shelect and advanced.”
 
 He then slid a fat hand through a slit in his white garment of office and removed from a deep pocket a bottle. Plucking out the cork with his lips, that had gripped it with an uncanny muscularity, he poured half a pint down his throat without displacing the cork, for he laid a finger at the mouth of the bottle, so dividing the rush of wine into two separate spurts that shot adroitly into either cheek, and so, making contact at the back of his mouth, down his throat in one dull gurgle to those unmentionable gulches that lay below.
 
@@ -181,67 +181,67 @@ The chef removed the cork and twisted it around between his thumb and forefinger
 
 Again he put up his hand and silence was restored save for the heavy, excited breathing.
 
-‘Now tell me thish, my stenching cherubs. Tell me thish and tell me exshtra quickly, who am *I*? Now tell me exshtra quickly.’
+“Now tell me thish, my stenching cherubs. Tell me thish and tell me exshtra quickly, who am *I*? Now tell me exshtra quickly.”
 
-‘Swelter,’ they cried, ‘Swelter, sir! Swelter!’
+“Swelter,” they cried, “Swelter, sir! Swelter!”
 
-‘Is that *all* you know?’ came the voice. ‘Is that *all* you know, my little sea of faces? Silence now! and lishen well to me, chief chef of Gormenghast, man and boy forty years, fair and foul, rain or shine, sand and sawdust, hags and stags and all the resht of them done to a turn and spread with sauce of aloes and a dash of prickling pepper.’
+“Is that *all* you know?” came the voice. “Is that *all* you know, my little sea of faces? Silence now! and lishen well to me, chief chef of Gormenghast, man and boy forty years, fair and foul, rain or shine, sand and sawdust, hags and stags and all the resht of them done to a turn and spread with sauce of aloes and a dash of prickling pepper.”
 
-‘With a dash of prickling pepper,’ yelled the apprentices hugging themselves and each other in turn. ‘Shall we cook it, sir? We’ll do it now, sir, and slosh it in the copper, sir, and stir it up. Oh! what a tasty dish, Sir, Oh! what a tasty dish!’
+“With a dash of prickling pepper,” yelled the apprentices hugging themselves and each other in turn. “Shall we cook it, sir? We’ll do it now, sir, and slosh it in the copper, sir, and stir it up. Oh! what a tasty dish, Sir, Oh! what a tasty dish!”
 
-‘Shilence,’ roared the chef. ‘Silensh, my fairy boys. Silence, my belching angels. Come closer here, come closer with your little creamy faces and I’ll tell you who I am.’
+“Shilence,” roared the chef. “Silensh, my fairy boys. Silence, my belching angels. Come closer here, come closer with your little creamy faces and I’ll tell you who I am.”
 
 The high-shouldered boy, who had taken no part in the excitement, pulled out a small pipe of knotted wormwood and filled it deliberately. His mouth was quite expressionless, curving neither up nor down, but his eyes were dark and hot with a mature hatred. They were half closed but their eloquence smouldered through the lashes as he watched the figure on the barrel lean forward precariously.
 
-‘Now lishen well’, continued the voice, ‘and I’ll tell you exactly who I am and then I’ll shing to you a shong and you will know who’s shinging to you, my ghastly little ineffectual fillets.’
+“Now lishen well”, continued the voice, “and I’ll tell you exactly who I am and then I’ll shing to you a shong and you will know who’s shinging to you, my ghastly little ineffectual fillets.”
 
-‘A song! A song!’ came the shrill chorus.
+“A song! A song!” came the shrill chorus.
 
-‘Firshtly,’ said the chef leaning forward and dropping each confidential word like a cannon ball smeared with syrup. ‘Firshtly, I am none other than Abiatha Swelter, which meansh, for you would not know, that I am the shymbol of both excellence and plenty. I am the *father* of exchellence and plenty. Who did I shay I was?’
+“Firshtly,” said the chef leaning forward and dropping each confidential word like a cannon ball smeared with syrup. “Firshtly, I am none other than Abiatha Swelter, which meansh, for you would not know, that I am the shymbol of both excellence and plenty. I am the *father* of exchellence and plenty. Who did I shay I was?”
 
-‘Abafer Swelter,’ came the scream.
+“Abafer Swelter,” came the scream.
 
 The chef leaned back on his swollen legs and drew the corners of his mouth down until they lost themselves among the shadows of his hot dewlaps.
 
-‘Abi*a*tha,’ he repeated slowly, stressing the central ‘A’. ‘Abi*a*tha. What did I shay my name wash?’
+“Abi*a*tha,” he repeated slowly, stressing the central “A”. “Abi*a*tha. What did I shay my name wash?”
 
-‘Abi*a*tha,’ came the scream again.
+“Abi*a*tha,” came the scream again.
 
-‘Thatsh right, thatsh right. Abi*a*tha. Are you lishening, my pretty vermin, are you lishening?’
+“Thatsh right, thatsh right. Abi*a*tha. Are you lishening, my pretty vermin, are you lishening?”
 
 The apprentices gave him to understand that they were listening very hard.
 
 Before the chef continued he applied himself to the bottle once again. This time he held the glass neck between his teeth and tilting his head back until the bottle was vertical, drained it and spat it out over the heads of the fascinated throng. The sound of black glass smashing on the flagstones was drowned in screams of approval.
 
-‘Food,’ said Swelter, ‘is shelestial and drink is mosht entrancing—such flowers of flatulence. Sush gaseous buds. Come closer in, *steal* in, and I will shing. I will lift my sweetest heart into the rafters, and will shing to you a shong. An old shong of great shadness, a most dolorous piece. Come closer in.’
+“Food,” said Swelter, “is shelestial and drink is mosht entrancing—such flowers of flatulence. Sush gaseous buds. Come closer in, *steal* in, and I will shing. I will lift my sweetest heart into the rafters, and will shing to you a shong. An old shong of great shadness, a most dolorous piece. Come closer in.”
 
 It was impossible for the apprentices to force themselves any closer to the chef, but they struggled and shouted for the song, and turned their glistening faces upwards.
 
-‘Oh what a pleasant lot of little joints you are,’ said Swelter, peering at them and wiping his hands up and down his fat hips. ‘What a very drippy lot of little joints. Oh yesh you are, but so underdone. Lishen cocks, I’ll twisht your grandma’s so shweetly in their graves. We’ll make them turn, my dears, we’ll make them turn—and what a turn for them, my own, and for the worms that nibble. Where’s Steerpike?’
+“Oh what a pleasant lot of little joints you are,” said Swelter, peering at them and wiping his hands up and down his fat hips. “What a very drippy lot of little joints. Oh yesh you are, but so underdone. Lishen cocks, I’ll twisht your grandma’s so shweetly in their graves. We’ll make them turn, my dears, we’ll make them turn—and what a turn for them, my own, and for the worms that nibble. Where’s Steerpike?”
 
-‘Steerpike! Steerpike!’ yelled the youths, the ones in front twisting their heads and standing upon their toes, the ones in the rear craning forward and peering about them. ‘Steerpike! Steerpike! He’s somewhere here, sir! Oh there he is sir! There he is sir! Behind the pillar sir!’
+“Steerpike! Steerpike!” yelled the youths, the ones in front twisting their heads and standing upon their toes, the ones in the rear craning forward and peering about them. “Steerpike! Steerpike! He’s somewhere here, sir! Oh there he is sir! There he is sir! Behind the pillar sir!”
 
-‘Silence,’ bellowed the chef, turning his gourd of a head in the direction of the pointed hands as the high-shouldered boy was pushed forward.
+“Silence,” bellowed the chef, turning his gourd of a head in the direction of the pointed hands as the high-shouldered boy was pushed forward.
 
-‘Here he is, sir! Here he is, sir!’
+“Here he is, sir! Here he is, sir!”
 
 The boy Steerpike looked impossibly small as he stood beneath the monstrous monument.
 
-‘I shall shing to you, Steerpike, to *you*,’ whispered the cook, reeling and supporting himself with one hand against the stone pillar that was glistening with condensed heat, little trickles of moisture moving down its fluted sides. ‘To you, the newcomer, the blue mummer and the slug of summer—to you the hideous, and insidious, and appallingly cretinous goat in a house of stenches.’
+“I shall shing to you, Steerpike, to *you*,” whispered the cook, reeling and supporting himself with one hand against the stone pillar that was glistening with condensed heat, little trickles of moisture moving down its fluted sides. “To you, the newcomer, the blue mummer and the slug of summer—to you the hideous, and insidious, and appallingly cretinous goat in a house of stenches.”
 
 The apprentices rocked with joy.
 
-‘To you, only to *you*, my core of curdled cat-bile. To you alone, sho hearken diligentiums. Are you sharkening? Are you all lishening for this his how’s it goesh. My shong of a hundred yearsh ago, my plaintivly mosht melancholic shong.’
+“To you, only to *you*, my core of curdled cat-bile. To you alone, sho hearken diligentiums. Are you sharkening? Are you all lishening for this his how’s it goesh. My shong of a hundred yearsh ago, my plaintivly mosht melancholic shong.”
 
 Swelter seemed to forget he was about to sing, and after wiping the sweat from his hands on the head of a youth below him, peered for Steerpike again.
 
-‘And why to you, my ray of addled sunshine? Why to you aslone? Shtaking it for granted, my dear little Steerpike—taking it for more than for mosht granted, that you, a creature of lesh consequence than stoat’s-blood, are sho far removal’d from anything approaching nature—yet tell me, more rather, don’t tell me why your ears which musht originally have been deshigned for fly-papers, are, for shome reason butter known to yourself, kept imodeshtly unfurled. What do you proposhe to do next in thish batter? You move here and there on your little measly legs. I have sheen you at it. You breathe all over my kitchen. You look at thingsh with your insholent animal eyes. I’ve sheen you doing it. I have sheen you look at me. Your looking at me now. Shteerpike, my impatient love-bird, what doesh it all mean, and why should I shing for you?’
+“And why to you, my ray of addled sunshine? Why to you aslone? Shtaking it for granted, my dear little Steerpike—taking it for more than for mosht granted, that you, a creature of lesh consequence than stoat’s-blood, are sho far removal’d from anything approaching nature—yet tell me, more rather, don’t tell me why your ears which musht originally have been deshigned for fly-papers, are, for shome reason butter known to yourself, kept imodeshtly unfurled. What do you proposhe to do next in thish batter? You move here and there on your little measly legs. I have sheen you at it. You breathe all over my kitchen. You look at thingsh with your insholent animal eyes. I’ve sheen you doing it. I have sheen you look at me. Your looking at me now. Shteerpike, my impatient love-bird, what doesh it all mean, and why should I shing for you?”
 
 Swelter leaned back and seemed to be considering his own question a moment as he wiped his forehead with the sleeve of his forearm. But he waited for no reply and flung his pendulent arms out sideways and somewhere on the orbit of an immense arc something or other gave way.
 
 Steerpike was not drunk. As he stood below Mr Swelter, he had nothing but contempt for the man who had but yesterday struck him across the head. He could do nothing, however, except stay where he was, prodded and nudged from behind by the excited minions, and wait.
 
-The voice recurred from above. ‘It is a shong, my Steerpike, to an imaginawary monshter, jusht like yourshelf if only you were a twifle bigger and more monshtrous shtill. It is a shong to a hard-hearted monshter sho lishen mosht shfixedly, my pretty wart. Closher, closher! Can’t you come a little closher to a dirgeous mashterpeesh?’
+The voice recurred from above. “It is a shong, my Steerpike, to an imaginawary monshter, jusht like yourshelf if only you were a twifle bigger and more monshtrous shtill. It is a shong to a hard-hearted monshter sho lishen mosht shfixedly, my pretty wart. Closher, closher! Can’t you come a little closher to a dirgeous mashterpeesh?”
 
 The wine was beginning to redouble its subversive activity in the chef’s brain. He was now supporting himself almost the whole of the while against the sweating pillar and was sagging hideously.
 
@@ -249,13 +249,13 @@ Steerpike stared up at him from under his high bony brow. The cook’s eyes were
 
 A hole appeared in the face. Out of it came a voice that had suddenly become weaker.
 
-‘I am Shwelter,’ it repeated, ‘the great chef Abiatha Shwelter, scook to hish Lordshipsh, boardshipsh and all shorts of ships that shail on shlippery sheas. Abiafa Shwelter, man and boy and girls and ribbonsh, lots of kittensh, forty year of cold and shunny, where’sh the money, thick and hairy, I’m a fairy! I’m a shongshter! Lishen well, lishen well!’
+“I am Shwelter,” it repeated, “the great chef Abiatha Shwelter, scook to hish Lordshipsh, boardshipsh and all shorts of ships that shail on shlippery sheas. Abiafa Shwelter, man and boy and girls and ribbonsh, lots of kittensh, forty year of cold and shunny, where’sh the money, thick and hairy, I’m a fairy! I’m a shongshter! Lishen well, lishen well!”
 
-Mr Swelter lowered his head downwards over his wine-raddled breast without moving his shoulders and made an effort to see whether his audience was sufficiently keyed up for his opening chords. But he could make out nothing below him saving the ‘little sea of faces’ which he had alluded to, but the little sea had now become practically obliterated from him by a swimming mist.
+Mr Swelter lowered his head downwards over his wine-raddled breast without moving his shoulders and made an effort to see whether his audience was sufficiently keyed up for his opening chords. But he could make out nothing below him saving the “little sea of faces” which he had alluded to, but the little sea had now become practically obliterated from him by a swimming mist.
 
-‘Are you lishening?’
+“Are you lishening?”
 
-‘Yes, yes! The song, the song!’
+“Yes, yes! The song, the song!”
 
 Swelter lowered his head yet again into the hot spindrift and then held up his right hand weakly. He made one feeble effort to heave himself away from the pillar and to deliver his verses at a more imposing angle, but, incapable of mustering the strength he sank back, and then, as a vast inane smile opened up the lower half of his face, and as Mr Flay watched him, his hard little mouth twisted downwards, the chef began gradually to curl in upon himself, as though folding himself up for death. The kitchen had become as silent as a hot tomb. At last, through the silence, a weak gurgling sound began to percolate but whether it was the first verse of the long awaited poem, none could tell for the chef, like a galleon, lurched in his anchorage. The great ship’s canvas sagged and crumpled and then suddenly an enormousness foundered and sank. There was a sound of something spreading as an area of seven flagstones became hidden from view beneath a catalyptic mass of wine-drenched blubber.
 
@@ -275,81 +275,81 @@ Steerpike had viewed with a mixture of amazement, relief and malignant amusement
 
 He had never before been through that particular door, but he imagined that he would soon find his way into the open and to some spot where he could be on his own. Turning this way and that he found that he was lost in a labyrinth of stone corridors, lit here and there by candles sunk in their own wax and placed in niches in the walls. In desperation he put his hands to his head as he ran, when suddenly, as he rounded the curve of a wall a figure passed rapidly across the passage before him, neither looking to right or left.
 
-As soon as Mr Flay—for it was his lordship’s servant on his way to the residential apartments—as soon as he had passed from sight, Steerpike peered around the corner and followed, keeping as much as possible in step to hide the sound of his own feet. This was almost impossible, as Mr Flay’s spider-like gait besides being particularly long of stride, had, like the slow-march, a time-lag before the ultimate descent of the foot. However, young Steerpike, feeling that here at any rate was his one chance of escaping from these endless corridors, followed as best he could in the hope that Mr Flay would eventually turn into some cool quadrangle or open space where get-away could be effected. At times, when the candles were thirty or forty feet apart, Mr Flay would be lost to view and only the sound of his feet on the flagstones would guide his follower. Then slowly, as his erratic shape approached the next guttering aura he would begin by degrees to become a silhouette, until immediately before the candle he would for a moment appear like an inky scarecrow, a mantis of pitch-black cardboard worked with strings. Then the progression of the lighting would be reversed and for a moment immediately after passing the flame Steerpike would see him quite clearly as a lit object against the depths of the still-to-be-trodden avenues of stone. The grease at those moments shone from the threadbare cloth across his shoulders, the twin vertical muscles of his neck rose out of the tattered collar nakedly and sharply. As he moved forward the light would dim upon his back and Steerpike would lose him, only hearing the cracking of his knee-joints and his feet striking the stones, until the ensuing candle carved him anew. Practically exhausted, first by the unendurable atmosphere of the Great Kitchen and now with this seemingly endless journey, the boy, for he was barely seventeen, sank suddenly to the ground with exhaustion, striking the flags with a thud, his boots dragging harshly on the stone. The noise brought Flay to a sudden halt and he turned himself slowly about, drawing his shoulders up to his ears as he did so. ‘What’s that?’ he croaked, peering into the darkness behind him.
+As soon as Mr Flay—for it was his lordship’s servant on his way to the residential apartments—as soon as he had passed from sight, Steerpike peered around the corner and followed, keeping as much as possible in step to hide the sound of his own feet. This was almost impossible, as Mr Flay’s spider-like gait besides being particularly long of stride, had, like the slow-march, a time-lag before the ultimate descent of the foot. However, young Steerpike, feeling that here at any rate was his one chance of escaping from these endless corridors, followed as best he could in the hope that Mr Flay would eventually turn into some cool quadrangle or open space where get-away could be effected. At times, when the candles were thirty or forty feet apart, Mr Flay would be lost to view and only the sound of his feet on the flagstones would guide his follower. Then slowly, as his erratic shape approached the next guttering aura he would begin by degrees to become a silhouette, until immediately before the candle he would for a moment appear like an inky scarecrow, a mantis of pitch-black cardboard worked with strings. Then the progression of the lighting would be reversed and for a moment immediately after passing the flame Steerpike would see him quite clearly as a lit object against the depths of the still-to-be-trodden avenues of stone. The grease at those moments shone from the threadbare cloth across his shoulders, the twin vertical muscles of his neck rose out of the tattered collar nakedly and sharply. As he moved forward the light would dim upon his back and Steerpike would lose him, only hearing the cracking of his knee-joints and his feet striking the stones, until the ensuing candle carved him anew. Practically exhausted, first by the unendurable atmosphere of the Great Kitchen and now with this seemingly endless journey, the boy, for he was barely seventeen, sank suddenly to the ground with exhaustion, striking the flags with a thud, his boots dragging harshly on the stone. The noise brought Flay to a sudden halt and he turned himself slowly about, drawing his shoulders up to his ears as he did so. “What’s that?” he croaked, peering into the darkness behind him.
 
 There was no answer. Mr Flay began to retrace his steps, his head forward, his eyes peering. As he proceeded he came into the light of one of the candles in the wall. He approached it, still keeping his small eyes directed into the darkness beyond, and wrenched the candle, with a great substratum of ancient tallow with it, from the wall and with this to help him he soon came across the boy in the centre of the corridor several yards further on.
 
 He bent forward and lowered the great lump of lambent wax within a few inches of Steerpike, who had fallen face downwards and peered at the immobile huddle of limbs. The sound of his footsteps and the cracking of his knee-joints had given place to an absolute silence. He drew back his teeth and straightened himself a little. Then he turned the boy over with his foot. This roused Steerpike from his faintness and he raised himself weakly on one elbow.
 
-‘Where am I?’ he said in a whisper. ‘Where am I?’
+“Where am I?” he said in a whisper. “Where am I?”
 
-‘One of Swelter’s little rats’, thought Flay to himself, taking no notice of the question. ‘One of Swelter’s, eh? One of his striped rats.’ ‘Get up’, said Mr Flay aloud. ‘What you doing here?’ and he put the candle close to the boy’s face.
+“One of Swelter’s little rats”, thought Flay to himself, taking no notice of the question. “One of Swelter’s, eh? One of his striped rats.” “Get up”, said Mr Flay aloud. “What you doing here?” and he put the candle close to the boy’s face.
 
-‘I don’t know where I am’, said young Steerpike. ‘I’m lost here. Lost. Give me daylight.’
+“I don’t know where I am”, said young Steerpike. “I’m lost here. Lost. Give me daylight.”
 
-‘What you doing here, I said . . . what you doing here?’ said Flay. ‘I don’t want Swelter’s boys here. Curse them!’
+“What you doing here, I said . . . what you doing here?” said Flay. “I don’t want Swelter’s boys here. Curse them!”
 
-‘I don’t *want* to be here. Give me daylight and I’ll go away. Far away.’
+“I don’t *want* to be here. Give me daylight and I’ll go away. Far away.”
 
-‘Away? Where?’
+“Away? Where?”
 
-Steerpike had recovered control of his mind, although he still felt hot and desperately tired. He had noticed the sneer in Mr Flay’s voice as he had said ‘I don’t want Swelter’s boys here,’ and so, at Mr Flay’s question ‘Away where?’ Steerpike answered quickly, ‘Oh anywhere, anywhere from that dreadful Mr Swelter.’
+Steerpike had recovered control of his mind, although he still felt hot and desperately tired. He had noticed the sneer in Mr Flay’s voice as he had said “I don’t want Swelter’s boys here,” and so, at Mr Flay’s question “Away where?” Steerpike answered quickly, “Oh anywhere, anywhere from that dreadful Mr Swelter.”
 
 Flay peered at him for a moment or two, opening his mouth several times to speak, only to close it again.
 
-‘New?’ said Flay looking expressionlessly through the boy.
+“New?” said Flay looking expressionlessly through the boy.
 
-‘Me?’ said young Steerpike.
+“Me?” said young Steerpike.
 
-*‘You*,’ said Flay, still looking clean through the top of the boy’s head, ‘New?’
+*“You*,” said Flay, still looking clean through the top of the boy’s head, “New?”
 
-‘Seventeen years old, sir,’ said young Steerpike, ‘but new to that kitchen.’
+“Seventeen years old, sir,” said young Steerpike, “but new to that kitchen.”
 
-‘When?’ said Flay, who left out most of every sentence.
+“When?” said Flay, who left out most of every sentence.
 
 Steerpike, who seemed able to interpret this sort of shorthand talk, answered.
 
-‘Last month. I want to leave that dreadful Swelter,’ he added, replaying his only possible card and glancing up at the candle-lit head.
+“Last month. I want to leave that dreadful Swelter,” he added, replaying his only possible card and glancing up at the candle-lit head.
 
-‘Lost, were you?’ said Flay after a pause, but with perhaps less darkness in his tone. ‘Lost in the Stone Lanes, were you? One of Swelter’s little rats, lost in the Stone Lanes, eh?’ and Mr Flay raised his gaunt shoulders again.
+“Lost, were you?” said Flay after a pause, but with perhaps less darkness in his tone. “Lost in the Stone Lanes, were you? One of Swelter’s little rats, lost in the Stone Lanes, eh?” and Mr Flay raised his gaunt shoulders again.
 
-‘Swelter fell like a log,’ said Steerpike.
+“Swelter fell like a log,” said Steerpike.
 
-‘Quite right,’ said Flay, ‘doing honours. What have *you* done?’
+“Quite right,” said Flay, “doing honours. What have *you* done?”
 
-‘Done, sir?’ said Steerpike, ‘when?’
+“Done, sir?” said Steerpike, “when?”
 
-‘What Happiness?’ said Flay, looking like a death’s-head. The candle was beginning to fail. ‘How much Happiness?’
+“What Happiness?” said Flay, looking like a death’s-head. The candle was beginning to fail. “How much Happiness?”
 
-‘I haven’t any happiness,’ said Steerpike.
+“I haven’t any happiness,” said Steerpike.
 
-‘What! no Great Happiness? Rebellion. Is it rebellion?’
+“What! no Great Happiness? Rebellion. Is it rebellion?”
 
-‘No, except against Mr Swelter.’
+“No, except against Mr Swelter.”
 
-‘Swelter! Swelter! Leave his name in its fat and grease. Don’t talk of that name in the Stone Lanes. Swelter, always Swelter! Hold your tongue. Take this candle. Lead the way. Put it in the niche. Rebellion is it? Lead the way, left, left, right, keep to the left, now right . . . I’ll teach you to be unhappy when a Groan is born . . . keep on . . . straight on . . .’
+“Swelter! Swelter! Leave his name in its fat and grease. Don’t talk of that name in the Stone Lanes. Swelter, always Swelter! Hold your tongue. Take this candle. Lead the way. Put it in the niche. Rebellion is it? Lead the way, left, left, right, keep to the left, now right . . . I’ll teach you to be unhappy when a Groan is born . . . keep on . . . straight on . . .”
 
 Young Steerpike obeyed these instructions from the shadows behind him.
 
-‘A Groan is born’, said Steerpike with an inflection of voice which might be interpreted as a question or a statement.
+“A Groan is born”, said Steerpike with an inflection of voice which might be interpreted as a question or a statement.
 
-‘Born,’ said Flay. ‘And you mope in the Lanes. With me, Swelter’s boy. Show you what it means. A male Groan. New, eh? Seventeen? Ugh! Never understand. Never. Turn right and left again—again . . . through the arch. Ugh! A new body under the old stones—one of Swelter’s, too . . . don’t like him, eh?’
+“Born,” said Flay. “And you mope in the Lanes. With me, Swelter’s boy. Show you what it means. A male Groan. New, eh? Seventeen? Ugh! Never understand. Never. Turn right and left again—again . . . through the arch. Ugh! A new body under the old stones—one of Swelter’s, too . . . don’t like him, eh?”
 
-‘No, sir.’
+“No, sir.”
 
-‘H’m,’ said Flay. ‘Wait here.’
+“H’m,” said Flay. “Wait here.”
 
 Steerpike waited as he was told and Mr Flay, drawing a bunch of keys from his pocket and selecting one with great care as though he were dealing with objects of rarity inserted it into the lock of an invisible door, for the blackness was profound. Steerpike heard the iron grinding in the lock.
 
-‘Here!’ said Flay out of the darkness. ‘Where’s that Swelter boy? Come here.’
+“Here!” said Flay out of the darkness. “Where’s that Swelter boy? Come here.”
 
 Steerpike moved forward towards the voice, feeling with his hands along the wall of a low arch. Suddenly he found himself next to the dank smelling garments of Mr Flay and he put forward his hand and held Lord Groan’s servant by a loose portion of the long jacket. Mr Flay brought down his bony hand suddenly over the boy’s arm, knocking it away and a t’ck, t’ck, t’ck, sounded in the tall creature’s throat, warning him against any further attempts at intimacy.
 
-‘Cat room,’ said Flay, putting his hand to the iron knob of the door.
+“Cat room,” said Flay, putting his hand to the iron knob of the door.
 
-‘Oh,’ said Steerpike, thinking hard and repeating ‘Cat room’ to fill in time, for he saw no reason for the remark. The only interpretation he could give to the ejaculation was that Flay was referring to him as a cat and asking to be given more room. Yet there had been no irritation in the voice.
+“Oh,” said Steerpike, thinking hard and repeating “Cat room” to fill in time, for he saw no reason for the remark. The only interpretation he could give to the ejaculation was that Flay was referring to him as a cat and asking to be given more room. Yet there had been no irritation in the voice.
 
-‘Cat room,’ said Flay again, ruminatively, and turned the iron doorknob. He opened the door slowly and Steerpike, peering past him, found no longer any need for an explanation.
+“Cat room,” said Flay again, ruminatively, and turned the iron doorknob. He opened the door slowly and Steerpike, peering past him, found no longer any need for an explanation.
 
 A room was filled with the late sunbeams. Steerpike stood quite still, a twinge of pleasure running through his body. He grinned. A carpet filled the floor with blue pasture. Thereon were seated in a hundred decorative attitudes, or stood immobile like carvings, or walked superbly across their sapphire setting, interweaving with each other like a living arabesque, a swarm of snow-white cats.
 
@@ -357,139 +357,139 @@ As Mr Flay passed down the centre of the room, Steerpike could not but notice th
 
 As they passed through a carved archway at the far end of the room and had closed the door behind them he heard the vibration of their throats, for now that the white cats were once more alone it was revived, and the deep unhurried purring was like the voice of an ocean in the throat of a shell.
 
-## ‘THE SPY-HOLE’
+## “THE SPY-HOLE”
 
-‘Whose are they?’ asked Steerpike. They were climbing stone stairs. The wall on their right was draped with hideous papers that were peeling off and showed rotting surfaces of chill plaster behind. A mingling of many weird colours enlivened this nether surface, dark patches of which had a submarine and incredible beauty. In another dryer area, where a great sail of paper hung away from the wall, the plaster had cracked into a network of intricate fissures varying in depth and resembling a bird’s-eye view, or map of some fabulous delta. A thousand imaginary journeys might be made along the banks of these rivers of an unexplored world.
+“Whose are they?” asked Steerpike. They were climbing stone stairs. The wall on their right was draped with hideous papers that were peeling off and showed rotting surfaces of chill plaster behind. A mingling of many weird colours enlivened this nether surface, dark patches of which had a submarine and incredible beauty. In another dryer area, where a great sail of paper hung away from the wall, the plaster had cracked into a network of intricate fissures varying in depth and resembling a bird’s-eye view, or map of some fabulous delta. A thousand imaginary journeys might be made along the banks of these rivers of an unexplored world.
 
-Steerpike repeated his question, ‘Whose are they?’ he said.
+Steerpike repeated his question, “Whose are they?” he said.
 
-‘Whose what?’ said Flay, stopping on the stairs and turning round. ‘Still here are you? Still following me?’
+“Whose what?” said Flay, stopping on the stairs and turning round. “Still here are you? Still following me?”
 
-‘You suggested that I should,’ said Steerpike.
+“You suggested that I should,” said Steerpike.
 
-‘Ch! Ch!’ said Flay, ‘what d’you want, Swelter’s boy?’
+“Ch! Ch!” said Flay, “what d’you want, Swelter’s boy?”
 
-‘Nauseating Swelter,’ said Steerpike between his teeth but with one eye on Mr Flay, ‘vile Swelter.’
+“Nauseating Swelter,” said Steerpike between his teeth but with one eye on Mr Flay, “vile Swelter.”
 
 There was a pause during which Steerpike tapped the iron banisters with his thumb-nail.
 
-‘Name?’ said Mr Flay.
+“Name?” said Mr Flay.
 
-‘My name?’ asked Steerpike.
+“My name?” asked Steerpike.
 
-‘Your name, yes, your name. I know what my name is.’ Mr Flay put a knuckly hand on the banisters preparatory to mounting the stairs again, but waited, frowning over his shoulder, for the reply.
+“Your name, yes, your name. I know what my name is.” Mr Flay put a knuckly hand on the banisters preparatory to mounting the stairs again, but waited, frowning over his shoulder, for the reply.
 
-‘Steerpike sir,’ said the boy.
+“Steerpike sir,” said the boy.
 
-‘Queerpike, eh? eh?’ said Flay.
+“Queerpike, eh? eh?” said Flay.
 
-‘No, Steerpike.’
+“No, Steerpike.”
 
-‘What?’
+“What?”
 
-‘Steerpike. Steerpike.’
+“Steerpike. Steerpike.”
 
-‘What for?’ said Flay.
+“What for?” said Flay.
 
-‘I beg your pardon?’
+“I beg your pardon?”
 
-‘What for, eh? Two Squeertikes, two of you. Twice over. What for? One’s enough for a Swelter’s boy.’
+“What for, eh? Two Squeertikes, two of you. Twice over. What for? One’s enough for a Swelter’s boy.”
 
 The youth felt it would be useless to clear up the problem of his name. He concentrated his dark eyes on the gawky figure above him for a few moments and shrugged his shoulders imperceptibly. Then he spoke again, showing no sign of irritation.
 
-‘Whose cats were those, sir? May I ask?’
+“Whose cats were those, sir? May I ask?”
 
-‘Cats?’ said Flay, ‘who said cats?’
+“Cats?” said Flay, “who said cats?”
 
-‘The white cats,’ said Steerpike. ‘All the white cats in the Cat room. Who do they belong to?’
+“The white cats,” said Steerpike. “All the white cats in the Cat room. Who do they belong to?”
 
-Mr Flay held up a finger. ‘My Lady’s,’ he said. His hard voice seemed a part of this cold narrow stairway of stone and iron. ‘They belong to my Lady. Lady’s white cats they are. Swelter’s boy. All hers.’
+Mr Flay held up a finger. “My Lady’s,” he said. His hard voice seemed a part of this cold narrow stairway of stone and iron. “They belong to my Lady. Lady’s white cats they are. Swelter’s boy. All hers.”
 
-Steerpike pricked his ears up, ‘Where does she live?’ he said. ‘Are we close to where she lives?’
+Steerpike pricked his ears up, “Where does she live?” he said. “Are we close to where she lives?”
 
-For answer Mr Flay shot his head forward out of his collar and croaked, ‘Silence! you kitchen thing. Hold your tongue you greasy fork. Talk too much’, and he straddled up the stairs, passing two landings in his ascent, and then at the third he turned sharply to his left and entered an octagonal apartment where full-length portraits in huge dusty gold frames stared from seven of the eight walls. Steerpike followed him in.
+For answer Mr Flay shot his head forward out of his collar and croaked, “Silence! you kitchen thing. Hold your tongue you greasy fork. Talk too much”, and he straddled up the stairs, passing two landings in his ascent, and then at the third he turned sharply to his left and entered an octagonal apartment where full-length portraits in huge dusty gold frames stared from seven of the eight walls. Steerpike followed him in.
 
 Mr Flay had been longer away from his lordship than he had intended or thought right and it was on his mind that the earl might be needing him. Directly he entered the octagonal room he approached one of the portraits at the far end and pushing the suspended frame a little to one side, revealed a small round hole in the panelling the size of a farthing. He placed his eye to this hole and Steerpike watched the wrinkles of his parchment-coloured skin gather below the protruding bone at the base of the skull, for Mr Flay both had to stoop and then to raise his head in order to apply his eye at the necessary angle. What Mr Flay saw was what he had expected to see.
 
 From his vantage point he was able to get a clear view of three doors in a corridor, the central one belonging to the chamber of her ladyship, the seventy-sixth Countess of Groan. It was stained black and had painted upon it an enormous white cat. The wall of the landing was covered with pictures of birds and there were three engravings of cacti in bloom. This door was shut, but as Mr Flay watched the doors on either side were being constantly opened and closed and figures moved quickly in and out or up and down the landing, or conversed with many gesticulations or stood with their chins in the curled palms of their hands as though in profound meditation.
 
-‘Here’, said Flay without turning round.
+“Here”, said Flay without turning round.
 
-Steerpike was immediately at Flay’s elbow. ‘Yes?’ he said.
+Steerpike was immediately at Flay’s elbow. “Yes?” he said.
 
-‘Cat door’s hers’, said Flay removing his eye, and then, stretching his arms out he spread his long fingers to their tips and yawned cavernously.
+“Cat door’s hers”, said Flay removing his eye, and then, stretching his arms out he spread his long fingers to their tips and yawned cavernously.
 
 Young Steerpike glued his eye to the hole, keeping the heavy gold frame from swinging back with his shoulder. All at once he found himself contemplating a narrow-chested man with a shock of grey hair and glasses which magnified his eyes so that they filled the lenses up to their gold rims, when the central door opened, and a dark figure stole forth, closing the door behind him quietly, and with an air of the deepest dejection. Steerpike watched him turn his eyes to the shock-headed man, who inclined his body forward clasping his hands before him. No notice was taken of this by the other, who began to pace up and down the landing, his dark cloak clasped around him and trailing on the floor at his heels. Each time he passed the doctor, for such it was, that gentleman inclined his body, but as before there was no response, until suddenly, stopping immediately before the physician in attendance, he drew from his cape a slender rod of silver mounted at the end with a rough globe of black jade that burned around its edges with emerald fire. With this unusual weapon the mournful figure beat sadly at the doctor’s chest as though to inquire whether there was anyone at home. The doctor coughed. The silver and jade implement was pointed to the floor, and Steerpike was amazed to see the doctor, after hitching his exquisitely creased trousers to a few inches above his ankle, squat down. His great vague eyes swam about beneath the magnifying lenses like a pair of jellyfish seen through a fathom of water. His dark grey hair was brushed out over his eyes like thatch. For all the indignity of his position it was with a great sense of style that he became seated following with his eyes the gentleman who had begun to walk around him slowly. Eventually the figure with the silver rod came to a halt.
 
-‘Prunesquallor’, he said.
+“Prunesquallor”, he said.
 
-‘My Lord?’ said the doctor, inclining his grey hayrick to the left.
+“My Lord?” said the doctor, inclining his grey hayrick to the left.
 
-‘Satisfactory, Prunesquallor?’
+“Satisfactory, Prunesquallor?”
 
-The doctor placed the tips of his fingers together. ‘I am exceptionally gratified my lord, exceptionally. Indeed I am. Very, very much so; ha, ha, ha. Very, very much so.’
+The doctor placed the tips of his fingers together. “I am exceptionally gratified my lord, exceptionally. Indeed I am. Very, very much so; ha, ha, ha. Very, very much so.”
 
-‘Professionally you mean, I imagine?’ said Lord Sepulchrave, for as Steerpike had begun to realize to his amazement, the tragic-looking man was none other than the seventy-sixth Earl of Groan and the owner of, as Steerpike put it to himself, the whole caboodle, bricks, guns and glory.
+“Professionally you mean, I imagine?” said Lord Sepulchrave, for as Steerpike had begun to realize to his amazement, the tragic-looking man was none other than the seventy-sixth Earl of Groan and the owner of, as Steerpike put it to himself, the whole caboodle, bricks, guns and glory.
 
-‘Professionally . . .’ queried the doctor to himself, ‘. . . what does he mean?’ Aloud he said, ‘professionally, my lord, I am unspeakably satisfied, ha, ha, ha, ha, and socially, that is to say, er, as a gesture, ha, ha, I am over-awed. I am a proud fellow, my lord, ha, ha, ha, ha, a very proud fellow.’
+“Professionally . . .” queried the doctor to himself, “. . . what does he mean?” Aloud he said, “professionally, my lord, I am unspeakably satisfied, ha, ha, ha, ha, and socially, that is to say, er, as a gesture, ha, ha, I am over-awed. I am a proud fellow, my lord, ha, ha, ha, ha, a very proud fellow.”
 
 The laugh of doctor Prunesquallor was part of his conversation and quite alarming when heard for the first time. It appeared to be out of control as though it were a part of his voice, a top-storey of his vocal range that only came into its own when the doctor laughed. There was something about it of wind whistling through high rafters and there was a good deal of the horse’s whinny, with a touch of the curlew. When giving vent to it, the doctor’s mouth would be practically immobile like the door of a cabinet left ajar. Between the laughs he would speak very rapidly, which made the sudden stillness of his beautifully shaven jaws at the time of laughter all the more extraordinary. The laugh was not necessarily connected with humour at all. It was simply a part of his conversation.
 
-‘Technically, I am so satisfied as to be unbearable even to myself, ha, ha, ha, he, he, ha. Oh very, very satisfactory it all was. Very much so.’
+“Technically, I am so satisfied as to be unbearable even to myself, ha, ha, ha, he, he, ha. Oh very, very satisfactory it all was. Very much so.”
 
-‘I am glad’, said his lordship, gazing down at him for a moment. ‘Did you notice anything?’ (Lord Sepulchrave glanced up and down the corridor.) ‘Strange? Anything unusual about him?’
+“I am glad”, said his lordship, gazing down at him for a moment. “Did you notice anything?” (Lord Sepulchrave glanced up and down the corridor.) “Strange? Anything unusual about him?”
 
-‘Unusual?’ said Prunesquallor. ‘Did you say unusual, my lord?’
+“Unusual?” said Prunesquallor. “Did you say unusual, my lord?”
 
-‘I did’, said Lord Sepulchrave, biting his lower lip. ‘Anything wrong with him? You need not be afraid to speak out.’
+“I did”, said Lord Sepulchrave, biting his lower lip. “Anything wrong with him? You need not be afraid to speak out.”
 
 Again his lordship glanced up and down the landing but there was no one to be seen.
 
-‘Structurally, a sound child, sound as a bell, tinkle, tinkle, structurally, ha, ha, ha,’ said the doctor.
+“Structurally, a sound child, sound as a bell, tinkle, tinkle, structurally, ha, ha, ha,” said the doctor.
 
-‘Damn the structure!’ said Lord Groan.
+“Damn the structure!” said Lord Groan.
 
-‘I am at a loss, my lord, ha, ha. Completely at a loss, sir. If not structurally, then how, my lord?’
+“I am at a loss, my lord, ha, ha. Completely at a loss, sir. If not structurally, then how, my lord?”
 
-‘His face’, said the earl. ‘Didn’t you see his face?’
+“His face”, said the earl. “Didn’t you see his face?”
 
-Here the doctor frowned profoundly to himself and rubbed his chin with his hand. Out of the corner of his eyes he looked up to find his lordship scrutinizing him. ‘Ah!’ he said lamely, ‘the face. The face of his little lordship. Aha!’
+Here the doctor frowned profoundly to himself and rubbed his chin with his hand. Out of the corner of his eyes he looked up to find his lordship scrutinizing him. “Ah!” he said lamely, “the face. The face of his little lordship. Aha!”
 
-‘Did you notice it, I say?’ continued Lord Groan. ‘Speak man!’
+“Did you notice it, I say?” continued Lord Groan. “Speak man!”
 
-‘I noticed his face, sir. Oh yes, definitely I noticed it.’ This time the doctor did not laugh but drew a deep breath from his narrow chest.
+“I noticed his face, sir. Oh yes, definitely I noticed it.” This time the doctor did not laugh but drew a deep breath from his narrow chest.
 
-‘Did you or did you not think it was strange? Did you or did you not?’
+“Did you or did you not think it was strange? Did you or did you not?”
 
-‘Speaking professionally,’ said Doctor Prunesquallor, ‘I should say the face was irregular.’
+“Speaking professionally,” said Doctor Prunesquallor, “I should say the face was irregular.”
 
-‘Do you mean it’s ugly?’ said Lord Groan.
+“Do you mean it’s ugly?” said Lord Groan.
 
-‘It is unnatural’, said Prunesquallor.
+“It is unnatural”, said Prunesquallor.
 
-‘What is the difference, man’, said Lord Groan.
+“What is the difference, man”, said Lord Groan.
 
-‘Sir?’ questioned the doctor.
+“Sir?” questioned the doctor.
 
-‘I asked if it was ugly, sir, and you answer that it is unnatural. Why must you hedge?’
+“I asked if it was ugly, sir, and you answer that it is unnatural. Why must you hedge?”
 
-‘Sir!’ said Prunesquallor, but as he gave no colour to the utterance, very little could be made of it.
+“Sir!” said Prunesquallor, but as he gave no colour to the utterance, very little could be made of it.
 
-‘When I say “ugly” have the goodness to use the word. Do you understand?’ Lord Groan spoke quietly.
+“When I say ‘ugly’ have the goodness to use the word. Do you understand?” Lord Groan spoke quietly.
 
-‘I comprehend, sir. I comprehend.’
+“I comprehend, sir. I comprehend.”
 
-‘Is the boy hideous,’ persisted Lord Groan as though he wished to thrash the matter out. ‘Have you ever delivered a more hideous child? Be honest.’
+“Is the boy hideous,” persisted Lord Groan as though he wished to thrash the matter out. “Have you ever delivered a more hideous child? Be honest.”
 
-‘Never’, said the doctor. ‘Never, ha, ha, ha, ha. Never. And never a boy with such—er, ha, ha, ha, never a boy with such extraordinary eyes.’
+“Never”, said the doctor. “Never, ha, ha, ha, ha. Never. And never a boy with such—er, ha, ha, ha, never a boy with such extraordinary eyes.”
 
-‘Eyes?’ said Lord Groan, ‘what’s wrong with them?’
+“Eyes?” said Lord Groan, “what’s wrong with them?”
 
-‘Wrong?’ cried Prunesquallor. ‘Did you say “wrong” your lordship? Have you not seen them?’
+“Wrong?” cried Prunesquallor. “Did you say ‘wrong’ your lordship? Have you not seen them?”
 
-‘No, quick, man. Hurry yourself. What is it? What is the matter with my son’s eyes?’
+“No, quick, man. Hurry yourself. What is it? What is the matter with my son’s eyes?”
 
-‘They are violet.’
+“They are violet.”
 
 ## FUCHSIA
 
@@ -499,55 +499,55 @@ A yellow scarf hung loosely around her neck. Her shapeless dress was a flaming r
 
 For all the straightness of her back she walked with a slouch.
 
-‘Come here’, said Lord Groan as she was about to pass him and the doctor.
+“Come here”, said Lord Groan as she was about to pass him and the doctor.
 
-‘Yes father’, she said huskily.
+“Yes father”, she said huskily.
 
-‘Where have you been for the last fortnight, Fuchsia?’
+“Where have you been for the last fortnight, Fuchsia?”
 
-‘Oh, here and there, father’, she said, staring at her shoes. She tossed her long hair and it flapped down her back like a pirate’s flag. She stood in about as awkward a manner as could be conceived. Utterly un-feminine—no man could have invented it.
+“Oh, here and there, father”, she said, staring at her shoes. She tossed her long hair and it flapped down her back like a pirate’s flag. She stood in about as awkward a manner as could be conceived. Utterly un-feminine—no man could have invented it.
 
-‘Here and there?’ echoed her father in a weary voice. ‘What does “here and there” mean? You’ve been in hiding. Where, girl?’
+“Here and there?” echoed her father in a weary voice. “What does ‘here and there’ mean? You’ve been in hiding. Where, girl?”
 
-‘ ’N the libr’y and ’n the armoury, ’n walking about a lot’, said Lady Fuchsia, and her sullen eyes narrowed. ‘I just heard silly rumours about mother. They said I’ve got a brother—idiots! idiots! I hate them. I haven’t, have I? Have I?’
+“ ’N the libr’y and ’n the armoury, ’n walking about a lot”, said Lady Fuchsia, and her sullen eyes narrowed. “I just heard silly rumours about mother. They said I’ve got a brother—idiots! idiots! I hate them. I haven’t, have I? Have I?”
 
-‘A little brother’, broke in Doctor Prunesquallor. ‘Yes, ha, ha, ha, ha, ha, ha, ha, a minute, infinitesimal, microscopic addition to the famous line is now behind this bedroom door. Ha, ha, ha, ha, ha, ha, he, he, he! Oh yes! Ha, ha! Oh yes indeed! Very much so.’
+“A little brother”, broke in Doctor Prunesquallor. “Yes, ha, ha, ha, ha, ha, ha, ha, a minute, infinitesimal, microscopic addition to the famous line is now behind this bedroom door. Ha, ha, ha, ha, ha, ha, he, he, he! Oh yes! Ha, ha! Oh yes indeed! Very much so.”
 
-‘No!’ said Fuchsia so loudly that the doctor coughed crisply and his lordship took a step forward with his eyebrows drawn together and a sad curl at the corner of his mouth.
+“No!” said Fuchsia so loudly that the doctor coughed crisply and his lordship took a step forward with his eyebrows drawn together and a sad curl at the corner of his mouth.
 
-‘It’s not true!’ shouted Fuchsia, turning from them and twirling a great lock of black hair round and round her wrist. ‘I don’t believe it! Let me go! Let me go!’
+“It’s not true!” shouted Fuchsia, turning from them and twirling a great lock of black hair round and round her wrist. “I don’t believe it! Let me go! Let me go!”
 
-As no one was touching her, her cry was unnecessary and she turned and ran with strange bounds along the corridor that led from the landing. Before she was lost to view, Steerpike could hear her voice shouting from the distance, ‘Oh how I hate! hate! hate! How I *hate* people! Oh how I *hate* people!’
+As no one was touching her, her cry was unnecessary and she turned and ran with strange bounds along the corridor that led from the landing. Before she was lost to view, Steerpike could hear her voice shouting from the distance, “Oh how I hate! hate! hate! How I *hate* people! Oh how I *hate* people!”
 
 All this while Mr Flay had been gazing out of a narrow window in the octagonal room and was preoccupied with certain matters relating to how he could best let Lord Groan know that he, Flay, his servant for over forty years, disapproved of having been put aside as it were at the one moment when a son had been born—at the one moment when he, Flay, would have been invaluable as an ally. Mr Flay was rather hurt about the whole business, and he very much wanted Lord Groan to know this, and yet at the same time it was very difficult to think of a way in which he could tactfully communicate his chagrin to a man quite as sullen as himself. Mr Flay bit his nails sourly. He had been at the window for a much longer time than he had intended and he turned with his shoulders raised, an attitude typical of him and saw young Steerpike, whose presence he had forgotten. He strode over to the boy and catching him by his coat-tails jerked him backwards into the centre of the room. The great picture swung back across the spyhole.
 
-‘Now,’ he said, ‘back! You’ve seen her door, Swelter’s boy.’
+“Now,” he said, “back! You’ve seen her door, Swelter’s boy.”
 
 Steerpike, who had been lost in the world beyond the oak partition, was dazed, and took a moment to come to.
 
-‘Back to that loathsome chef?’ he cried at last, ‘oh no! couldn’t!’
+“Back to that loathsome chef?” he cried at last, “oh no! couldn’t!”
 
-‘Too busy to have you here’, said Flay, ‘too busy, can’t wait.’
+“Too busy to have you here”, said Flay, “too busy, can’t wait.”
 
-‘He’s ugly’, said Steerpike fiercely.
+“He’s ugly”, said Steerpike fiercely.
 
-‘Who?’ said Flay. ‘Don’t stop here talking.’
+“Who?” said Flay. “Don’t stop here talking.”
 
-‘Oh so ugly, he is. Lord Groan said so. The doctor said so. Ugh! So hideous.’
+“Oh so ugly, he is. Lord Groan said so. The doctor said so. Ugh! So hideous.”
 
-‘Who’s hideous, you kitchen thing’, said Flay, jerking his head forward grotesquely.
+“Who’s hideous, you kitchen thing”, said Flay, jerking his head forward grotesquely.
 
-‘Who?’ said Steerpike. ‘The baby. The new baby. They both said so. Most terrible he is.’
+“Who?” said Steerpike. “The baby. The new baby. They both said so. Most terrible he is.”
 
-‘What’s this?’ cried Flay. ‘What’s these lies all about? Who’ve you heard talking? Who’ve you been listening to? I’ll tear your little ears off, you snippet thing! Where’ve you been? Come here!’
+“What’s this?” cried Flay. “What’s these lies all about? Who’ve you heard talking? Who’ve you been listening to? I’ll tear your little ears off, you snippet thing! Where’ve you been? Come here!”
 
 Steerpike, who had determined to escape from the Great Kitchen, was now bent on finding an occupation among those apartments where he might pry into the affairs of those above him.
 
-‘If I go back to Swelter I’ll tell him and all of them what I heard his lordship say and then . . .’
+“If I go back to Swelter I’ll tell him and all of them what I heard his lordship say and then . . .”
 
-‘Come here!’ said Flay between his teeth, ‘come here or I’ll break your bones. Been agaping, have you? I’ll fix you.’ Flay propelled Steerpike through the entrance at a great pace and halted halfway down a narrow passage before a door. This he unlocked with one of his many keys and thrusting Steerpike inside turned it upon the boy.
+“Come here!” said Flay between his teeth, “come here or I’ll break your bones. Been agaping, have you? I’ll fix you.” Flay propelled Steerpike through the entrance at a great pace and halted halfway down a narrow passage before a door. This he unlocked with one of his many keys and thrusting Steerpike inside turned it upon the boy.
 
-## ‘TALLOW AND BIRDSEED’
+## “TALLOW AND BIRDSEED”
 
 Like a vast spider suspended by a metal chord, a candelabrum presided over the room nine feet above the floor boards. From its sweeping arms of iron, long stalactites of wax lowered their pale spilths drip by drip, drip by drip. A rough table with a drawer half open, which appeared to be full of birdseed, was in such a position below the iron spider that a cone of tallow was mounting by degrees at one corner into a lambent pyramid the size of a hat.
 
@@ -557,7 +557,7 @@ Her eyes were of the pale green that is common among cats. They were large eyes,
 
 A magpie moving sideways up and down her left forearm, which lay supine upon the bedclothes, pecked intermittently at a heap of grain which lay in the palm of her hand. On her shoulders sat a stonechat, and a huge raven which was asleep. The bed-rail boasted two starlings, a missel-thrush and a small owl. Every now and then a bird would appear between the bars of a small high window which let in less than no light. The ivy had climbed through it from the outside and had begun to send its tendrils down the inner wall itself and over the crimson wallpaper. Although this ivy had choked out what little light might have trickled into the room, it was not strong enough to prevent the birds from finding a way through and from visiting Lady Gertrude at any hour of night or day.
 
-‘That’s enough, that’s enough, that’s enough!’ said the Countess in a deep husky voice, to the magpie. ‘That’s enough for you today, my dear.’ The magpie jumped a few inches into the air and landed again on her wrist and shook his feathers; his long tail tapped on the eiderdown.
+“That’s enough, that’s enough, that’s enough!” said the Countess in a deep husky voice, to the magpie. “That’s enough for you today, my dear.” The magpie jumped a few inches into the air and landed again on her wrist and shook his feathers; his long tail tapped on the eiderdown.
 
 Lady Groan flung what remained of the grain across the room and the stonechat hopping from the bed-rail to her head, took off again from that rabous landing ground with a flutter, circled twice around the room steering during his second circuit through the stalactites of shining wax, and landed on the floor beside the grain.
 
@@ -565,17 +565,17 @@ The Countess of Groan dug her elbows into the pillows behind her, which had beco
 
 Whether the Countess was thinking deeply or was lost in vacant reverie it would have been impossible to guess. She reclined hugely and motionlessly, her arms extended along the iron rail, when suddenly a great fluttering and scrambling broke into the wax-smelling silence of the room and turning her eyes to the ivy-filled window, fourteen feet from the ground, the Countess without moving her head, could see the leaves part and the white head and shoulders of an albino rook emerge guiltily.
 
-‘Ah-ha,’ she said slowly, as though she had come to a conclusion, ‘so it is you, is it? So it is the truant back again. Where has he been? What has he been doing? What trees has he been sitting in? What clouds has he been flying through? What a boy he is! What a bunch of feathered whiteness. What a bunch of wickedness!’
+“Ah-ha,” she said slowly, as though she had come to a conclusion, “so it is you, is it? So it is the truant back again. Where has he been? What has he been doing? What trees has he been sitting in? What clouds has he been flying through? What a boy he is! What a bunch of feathered whiteness. What a bunch of wickedness!”
 
 The rook had been sitting fringed on all sides with the ivy leaves, with his head now on one side, now on the other; listening or appearing to listen with great interest and a certain show of embarrassment, for from the movement that showed itself in the ivy leaves from time to time, the white rook was evidently shifting from foot to foot.
 
-‘Three weeks it is,’ continued the Countess, ‘three weeks I’ve been without him; I wasn’t good enough for *him*, oh no, not for Master Chalk, and here he is back again, wants to be forgiven! Oh yes! Wants a great treeful of forgiveness, for his heavy old beak and months of absolution for his plumage.’
+“Three weeks it is,” continued the Countess, “three weeks I’ve been without him; I wasn’t good enough for *him*, oh no, not for Master Chalk, and here he is back again, wants to be forgiven! Oh yes! Wants a great treeful of forgiveness, for his heavy old beak and months of absolution for his plumage.”
 
-Then the Countess hoisted herself up in bed again, twisted a strand of her dark hair round a long forefinger, and with her face directed at the doorway, but her eyes still on the bird, said as though to herself and almost inaudibly, ‘Come on then.’ The ivy rustled again, and before that sound was over the bed itself vibrated with the sudden arrival of the white rook.
+Then the Countess hoisted herself up in bed again, twisted a strand of her dark hair round a long forefinger, and with her face directed at the doorway, but her eyes still on the bird, said as though to herself and almost inaudibly, “Come on then.” The ivy rustled again, and before that sound was over the bed itself vibrated with the sudden arrival of the white rook.
 
 He stood on the foot-rail, his claws curled around it, and stared at Lady Groan. After a moment or two of stillness the white rook moved his feet up and down on the rail in a treading motion and then, flopping on to the bedclothes at her ladyship’s feet, twisted his head around and pecked at his own tail, the feathers of his neck standing out as he did so, crisply like a ruff. The pecking over he made his way over the undulating terrain of the bed, until within a few inches of her ladyship’s face, when he tilted his big head in a characteristic manner and cawed.
 
-‘So you beg my pardon, do you?’ said Lady Groan, ‘and you think that’s the end of it? No more questions about where you’ve been or where you’ve flown these three long weeks? So that’s it, is it, Master Chalk? You want me to forgive you for old sakes’ sake? Come here with your old beak and rub it on my arm. Come along my whitest one, come along, then. Come along.’ The raven on Lady Groan’s shoulder awoke from his sleep and raised his ethiopian wing an inch or two, sleepily. Then his eyes focused upon the rook in a hard stare. He sat there wide awake, a lock of dark red hair between his feet. The small owl as though to take the place of the raven fell asleep. One of the starlings turned about in three slow paces and faced the wall. The missel-thrush made no motion, and as a candle guttered, a ghoul of shadow from under a tall cupboard dislodged itself and moved across the floorboards, climbed the bed, and crawled half way across the eiderdown before it returned by the same route, to curl up and roost beneath the cupboard again.
+“So you beg my pardon, do you?” said Lady Groan, “and you think that’s the end of it? No more questions about where you’ve been or where you’ve flown these three long weeks? So that’s it, is it, Master Chalk? You want me to forgive you for old sakes’ sake? Come here with your old beak and rub it on my arm. Come along my whitest one, come along, then. Come along.” The raven on Lady Groan’s shoulder awoke from his sleep and raised his ethiopian wing an inch or two, sleepily. Then his eyes focused upon the rook in a hard stare. He sat there wide awake, a lock of dark red hair between his feet. The small owl as though to take the place of the raven fell asleep. One of the starlings turned about in three slow paces and faced the wall. The missel-thrush made no motion, and as a candle guttered, a ghoul of shadow from under a tall cupboard dislodged itself and moved across the floorboards, climbed the bed, and crawled half way across the eiderdown before it returned by the same route, to curl up and roost beneath the cupboard again.
 
 Lady Groan’s gaze had returned to the mounting pyramid of tallow. Her pale eyes would either concentrate upon an object in a remorseless way or would appear to be without sight, vacant, with the merest suggestion of something childish. It was in this abstracted manner that she gazed through the pale pyramid, while her hands, as though working on their own account, moved gently over the breast, head and throat of the white rook.
 
@@ -585,31 +585,31 @@ Her eyes now took on the concentrated, loveless, cat-like look.
 
 The birds coming to life at once, flapped simultaneously to the end rail of the bed, where they stood balancing in a long uneven line, each one on the alert, their heads turned towards the door.
 
-‘Who’s that?’ said Lady Groan heavily.
+“Who’s that?” said Lady Groan heavily.
 
-‘It’s me, my lady,’ cried a quavering voice.
+“It’s me, my lady,” cried a quavering voice.
 
-‘Who’s that hitting my door?’
+“Who’s that hitting my door?”
 
-‘It’s me with his lordship,’ replied the voice.
+“It’s me with his lordship,” replied the voice.
 
-‘What?’ shouted Lady Groan. ‘What d’you want? What are you hitting my door for?’
+“What?” shouted Lady Groan. “What d’you want? What are you hitting my door for?”
 
-Whoever it was raised her voice nervously and cried, ‘Nannie Slagg, it is. It’s me, my lady; Nannie Slagg.’
+Whoever it was raised her voice nervously and cried, “Nannie Slagg, it is. It’s me, my lady; Nannie Slagg.”
 
-‘What d’you want?’ repeated her ladyship, settling herself more comfortably.
+“What d’you want?” repeated her ladyship, settling herself more comfortably.
 
-‘I’ve brought his Lordship for you to see’, shouted Nannie Slagg, a little less nervously.
+“I’ve brought his Lordship for you to see”, shouted Nannie Slagg, a little less nervously.
 
-‘Oh, you have, have you? You’ve brought his lordship. So you want to come in, do you? With his lordship.’ There was a moment’s silence. ‘What for? What have you brought him to me for?’
+“Oh, you have, have you? You’ve brought his lordship. So you want to come in, do you? With his lordship.” There was a moment’s silence. “What for? What have you brought him to me for?”
 
-‘For you to see, if you please, my lady,’ replied Nannie Slagg. ‘He’s had his bath.’
+“For you to see, if you please, my lady,” replied Nannie Slagg. “He’s had his bath.”
 
-Lady Groan relaxed still further into the pillows. ‘Oh, you mean the *new* one, do you?’ she muttered.
+Lady Groan relaxed still further into the pillows. “Oh, you mean the *new* one, do you?” she muttered.
 
-‘Can I come in?’ cried Nannie Slagg.
+“Can I come in?” cried Nannie Slagg.
 
-‘Hurry up then! Hurry up then! Stop scratching at my door. What are you waiting for?’
+“Hurry up then! Hurry up then! Stop scratching at my door. What are you waiting for?”
 
 A rattling at the door handle froze the birds along the iron bed-rail and as the door opened they were all at once in the air, and were forcing their way, one after another through the bitter leaves of the small window.
 
@@ -619,39 +619,39 @@ Nannie Slagg entered, bearing in her arms the heir to the miles of rambling ston
 
 She carried the child towards the bed and turned the little face to the mother, who gazed right through it and said:
 
-‘Where’s that doctor? Where’s Prunesquallor? Put the child down and open the door.’
+“Where’s that doctor? Where’s Prunesquallor? Put the child down and open the door.”
 
 Mrs Slagg obeyed, and as her back was turned Lady Groan bent forward and peered at the child. The little eyes were glazed with sleep and the candlelight played upon the bald head, moulding the structure of the skull with shifting shade.
 
-‘H’m’, said Lady Groan, ‘what d’you want me to do with him?’
+“H’m”, said Lady Groan, “what d’you want me to do with him?”
 
 Nannie Slagg, who was very grey and old, with red rims around her eyes and whose intelligence was limited, gazed vacantly at her ladyship.
 
-‘He’s had his bath,’ she said. ‘He’s just had his bath, bless his little lordship’s heart.’
+“He’s had his bath,” she said. “He’s just had his bath, bless his little lordship’s heart.”
 
-‘What about it?’ said Lady Groan.
+“What about it?” said Lady Groan.
 
 The old nurse picked the baby up dexterously and began to rock him gently by way of an answer.
 
-‘Is Prunesquallor there?’ repeated Lady Groan.
+“Is Prunesquallor there?” repeated Lady Groan.
 
-‘Down’, whispered Nannie, pointing a little wrinkled finger at the floor, ‘d-downstairs; oh yes, I think he is still downstairs taking punch in the Coldroom. Oh dear, yes, bless the little thing.’
+“Down”, whispered Nannie, pointing a little wrinkled finger at the floor, “d-downstairs; oh yes, I think he is still downstairs taking punch in the Coldroom. Oh dear, yes, bless the little thing.”
 
-Her last remark presumably referred to Titus and not to Doctor Prunesquallor. Lady Groan raised herself in bed and looking fiercely at the open door, bellowed in the deepest and loudest voice, ‘SQUALLOR!’
+Her last remark presumably referred to Titus and not to Doctor Prunesquallor. Lady Groan raised herself in bed and looking fiercely at the open door, bellowed in the deepest and loudest voice, “SQUALLOR!”
 
 The word echoed along the corridors and down the stairs, and creeping under the door and along the black rug in the Coldroom, just managed, after climbing the doctor’s body, to find its way into both his ears simultaneously, in a peremptory if modified condition. Modified though it was, it brought doctor Prunesquallor to his feet at once. His fish eyes swam all round his glasses before finishing at the top, where they gave him an expression of fantastic martyrdom. Running his long, exquisitely formed fingers through his mop of grey hair, he drained his glass of punch at a draught and started for the door, flicking small globules of the drink from his waistcoat.
 
 Before he had reached her room he had begun a rehearsal of the conversation he expected, his insufferable laughter punctuating every other sentence whatever its gist.
 
-‘My lady,’ he said, when he had reached her door and was showing the Countess and Mrs Slagg nothing except his head around the door-post in a decapitated manner, before entering. ‘My lady, ha, ha, he he. I heard your voice downstairs as I er—was—’
+“My lady,” he said, when he had reached her door and was showing the Countess and Mrs Slagg nothing except his head around the door-post in a decapitated manner, before entering. “My lady, ha, ha, he he. I heard your voice downstairs as I er—was—”
 
-‘Tippling,’ said Lady Groan.
+“Tippling,” said Lady Groan.
 
-‘Ha, ha—how very right you are, how very very right you are, ha, ha, ha, he, as I was, as you so graphically put it, ha, ha, tippling. Down it came, ha, ha—down it came.’
+“Ha, ha—how very right you are, how very very right you are, ha, ha, ha, he, as I was, as you so graphically put it, ha, ha, tippling. Down it came, ha, ha—down it came.”
 
-‘What came?’ interrupted the Countess loudly.
+“What came?” interrupted the Countess loudly.
 
-‘Your voice,’ said Prunesquallor, raising his right hand and deliberately placing the tips of his thumb and little finger together, ‘your voice located me in the Coldroom. Oh yes, it did!’
+“Your voice,” said Prunesquallor, raising his right hand and deliberately placing the tips of his thumb and little finger together, “your voice located me in the Coldroom. Oh yes, it did!”
 
 The Countess stared at him heavily and then dug her elbows into the pillow.
 
@@ -659,35 +659,35 @@ Mrs Slagg had rocked the baby to sleep.
 
 Doctor Prunesquallor was running a long tapering forefinger up and down a stalactite of wax and smiling horribly.
 
-‘I called you’, said the Countess, ‘to tell you, Prunesquallor, that tomorrow I get up.’
+“I called you”, said the Countess, “to tell you, Prunesquallor, that tomorrow I get up.”
 
-‘Oh, he, ha, ha, oh ha, ha, my ladyship, oh, ha, ha, my ladyship—*tomorrow*?’
+“Oh, he, ha, ha, oh ha, ha, my ladyship, oh, ha, ha, my ladyship—*tomorrow*?”
 
-‘Tomorrow,’ said the Countess, ‘why not?’
+“Tomorrow,” said the Countess, “why not?”
 
-‘Professionally speaking—’ began Doctor Prunesquallor.
+“Professionally speaking—” began Doctor Prunesquallor.
 
-‘Why not?’ repeated the Countess interrupting him.
+“Why not?” repeated the Countess interrupting him.
 
-‘Ha, ha, most abnormal, most unusual, ha, ha, ha, most unique, so *very* soon.’
+“Ha, ha, most abnormal, most unusual, ha, ha, ha, most unique, so *very* soon.”
 
-‘So you would docket me, would you, Prunesquallor? I thought you would; I guessed it. I get up tomorrow—tomorrow *at dawn*.’
+“So you would docket me, would you, Prunesquallor? I thought you would; I guessed it. I get up tomorrow—tomorrow *at dawn*.”
 
-Doctor Prunesquallor shrugged his narrow shoulders and raised his eyes. Then placing the tips of his fingers together and addressing the dark ceiling above him, ‘I *advise*, but never order’, he said, in a tone which implied that he could have done any amount of ordering had he thought it necessary. ‘Ha ha, ha, oh no! I only advise.’
+Doctor Prunesquallor shrugged his narrow shoulders and raised his eyes. Then placing the tips of his fingers together and addressing the dark ceiling above him, “I *advise*, but never order”, he said, in a tone which implied that he could have done any amount of ordering had he thought it necessary. “Ha ha, ha, oh no! I only advise.”
 
-‘Rubbish’, said the Countess.
+“Rubbish”, said the Countess.
 
-‘I do not think so’, replied Prunesquallor, still gazing upwards. ‘Ha, ha, ha, ha, oh no! not at all.’ As he finished speaking his eyes for a second travelled downwards at great speed and took in the image of the Countess in bed and then even more rapidly swam up the glasses. What he had seen disquieted him, for he had found in her expression such a concentration of distaste that as he deflected his gaze away from her he found that his feet were moving backwards one after the other and that he was at the door before he knew that he had decided what to do. Bowing quickly he withdrew his body from the bedroom.
+“I do not think so”, replied Prunesquallor, still gazing upwards. “Ha, ha, ha, ha, oh no! not at all.” As he finished speaking his eyes for a second travelled downwards at great speed and took in the image of the Countess in bed and then even more rapidly swam up the glasses. What he had seen disquieted him, for he had found in her expression such a concentration of distaste that as he deflected his gaze away from her he found that his feet were moving backwards one after the other and that he was at the door before he knew that he had decided what to do. Bowing quickly he withdrew his body from the bedroom.
 
-‘Isn’t he sweet, oh isn’t he the sweetest drop of sugar that ever was?’ said Mrs Slagg.
+“Isn’t he sweet, oh isn’t he the sweetest drop of sugar that ever was?” said Mrs Slagg.
 
-‘Who?’ shouted the Countess so loudly that a string of tallow wavered in the shifting light.
+“Who?” shouted the Countess so loudly that a string of tallow wavered in the shifting light.
 
 The baby awoke at the sound and moaned, and Nannie Slagg retreated.
 
-‘His little lordship,’ she whimpered weakly, ‘his pretty little lordship.’
+“His little lordship,” she whimpered weakly, “his pretty little lordship.”
 
-‘Slagg,’ said the Countess, ‘go away! I would like to see the boy when he is six. Find a wet nurse from the Outer Dwellings. Make him green dresses from the velvet curtains. Take this gold ring of mine. Fix a chain to it. Let him wear it around his wry little neck. Call him Titus. Go away and leave the door six inches open.’
+“Slagg,” said the Countess, “go away! I would like to see the boy when he is six. Find a wet nurse from the Outer Dwellings. Make him green dresses from the velvet curtains. Take this gold ring of mine. Fix a chain to it. Let him wear it around his wry little neck. Call him Titus. Go away and leave the door six inches open.”
 
 The Countess put her hand under the pillow and drew forth a small reed, placed it in her vast mouth and gave it breath. Two long sweet notes sang out through the dark air. At the sound, Mrs Slagg, grabbing the gold ring from the bedclothes, where the Countess had thrown it, hurried as fast as her old legs could carry her from the room as though a werewolf were at her heels. Lady Groan was leaning forward in bed, her eyes were like a child’s; wide, sweet and excited. They were fixed upon the door. Her hands were gripping the edges of her pillow. She became rigid.
 
@@ -709,7 +709,7 @@ Lord Sepulchrave sat silently. He did not seem to notice the delicacies spread b
 
 The old man seated himself at the end of the table, and stacked the four volumes beside a porcelain decanter, and raising his sunken eyes to Lord Groan, murmured these words in a weak and shaking voice and yet with a certain dignity as though it were not simply a case of having to get through the ritual, but that it was now, as always, well worth getting through.
 
-‘I, Sourdust, lord of the library, personal adviser to your lordship, nonagenarian, and student of the Groan lore, proffer to your lordship the salutations of a dark morning, robed as I am in rags, student as I am of the tomes, and nonagenarian as I happen to be in the matter of years.’
+“I, Sourdust, lord of the library, personal adviser to your lordship, nonagenarian, and student of the Groan lore, proffer to your lordship the salutations of a dark morning, robed as I am in rags, student as I am of the tomes, and nonagenarian as I happen to be in the matter of years.”
 
 This was delivered in one breath and then he coughed unpleasantly several times, his hand at his chest.
 
@@ -725,23 +725,23 @@ The tables were at once emptied and within half a minute the last of the retaine
 
 Sourdust re-seated himself, panting a little and coughing in an ugly way. Then he leaned across the table and scratched the white cloth in front of Lord Groan with a fork.
 
-His lordship turned his black and liquid eyes towards the old librarian and adviser. ‘Well?’ he said, in a far-away voice, ‘what is it, Sourdust?’
+His lordship turned his black and liquid eyes towards the old librarian and adviser. “Well?” he said, in a far-away voice, “what is it, Sourdust?”
 
-‘It is the ninth day of the month’, said Sourdust.
+“It is the ninth day of the month”, said Sourdust.
 
-‘Ah’, said his lordship.
+“Ah”, said his lordship.
 
 There was a period of silence, Sourdust making use of the interim by re-knotting several tassels of his beard.
 
-‘The ninth’, repeated his lordship.
+“The ninth”, repeated his lordship.
 
-‘The ninth’, muttered Sourdust.
+“The ninth”, muttered Sourdust.
 
-‘A heavy day,’ mused his lordship, ‘very heavy.’
+“A heavy day,” mused his lordship, “very heavy.”
 
-Sourdust, bending his deep-set eyes upon his master, echoed him: ‘A heavy day, the ninth . . . always a heavy day.’
+Sourdust, bending his deep-set eyes upon his master, echoed him: “A heavy day, the ninth . . . always a heavy day.”
 
-A great tear rolled down Sourdust’s cheek threading its way over the crumpled surface. The eyes were too deeply set in their sockets of shadow to be seen. By not so much as the faintest sign or movement had Sourdust suggested that he was in a state of emotional stress. Nor was he, ever, save that at moments of reflection upon matters connected with the traditions of the Castle, it so happened that great tears emerged from the shadows beneath his brow. He fingered the great tomes beside his plate. His lordship, as though making the resolve after long deliberation, leaned forward, placed his rod on the table and adjusted his iron crown. Then, supporting his long olive chin with his hands, he turned his head to the old man: ‘Proceed’, he whispered.
+A great tear rolled down Sourdust’s cheek threading its way over the crumpled surface. The eyes were too deeply set in their sockets of shadow to be seen. By not so much as the faintest sign or movement had Sourdust suggested that he was in a state of emotional stress. Nor was he, ever, save that at moments of reflection upon matters connected with the traditions of the Castle, it so happened that great tears emerged from the shadows beneath his brow. He fingered the great tomes beside his plate. His lordship, as though making the resolve after long deliberation, leaned forward, placed his rod on the table and adjusted his iron crown. Then, supporting his long olive chin with his hands, he turned his head to the old man: “Proceed”, he whispered.
 
 Sourdust gathered the sacking about himself in a quick shaky way, and getting to his feet moved round to the back of his own chair which he pushed a few inches closer to the table, and squeezing between the table and the chair he re-seated himself carefully and was apparently more comfortable than before. Then with great deliberation, bending his corrugated brow upon each in turn he pushed the varied assortment of dishes, cruets, glasses, cutlery and by now tepid delicacies away from before him, clearing a semi-circle of white cloth. Only then did he remove the three tomes from beside his elbow. He opened them one after the other by balancing them carefully on their vellum spines and allowing them to break open at pages indicated by embroidered book-markers.
 
@@ -749,13 +749,13 @@ The left hand pages were headed with the date and in the first of the three book
 
 The second tome was full of blank pages and was entirely symbolic, while the third was a mass of cross references. If, for instance, his lordship, Sepulchrave, the present Earl of Groan, had been three inches shorter, the costumes, gestures and even the routes would have differed from the ones described in the first tome, and from the enormous library, another volume would have had to have been chosen which would have applied. Had he been of a fair skin, or had he been heavier than he was, had his eyes been green, blue or brown instead of black, then, automatically another set of archaic regulations would have appeared this morning on the breakfast table. This complex system was understood in its entirety only by Sourdust—the technicalities demanding the devotion of a lifetime, though the sacred spirit of tradition implied by the daily manifestations was understood by all.
 
-For the next twenty minutes Sourdust instructed his lordship in the less obvious details of the day’s work that lay ahead, in a high cracked old voice, the cross-hatching of the skin at the corners of his mouth twitching between the sentences. His lordship nodded silently. Occasionally the routes marked down for the ‘ninth’ in the diagrams of the first tome are obsolete, as for instance, where at 2.37 in the afternoon Lord Groan was to have moved down the iron stairway in the grey vestibule that led to the pool of carp. That stairway had been warped and twisted out of shape seventy years ago when the vestibule had been razed to the ground in the great fire. An alternative route had to be planned. A plan approaching as far as possible to the spirit of the original conception, and taking the same amount of time. Sourdust scored the new route shakily on the tablecloth with the point of a fork. His lordship nodded.
+For the next twenty minutes Sourdust instructed his lordship in the less obvious details of the day’s work that lay ahead, in a high cracked old voice, the cross-hatching of the skin at the corners of his mouth twitching between the sentences. His lordship nodded silently. Occasionally the routes marked down for the “ninth” in the diagrams of the first tome are obsolete, as for instance, where at 2.37 in the afternoon Lord Groan was to have moved down the iron stairway in the grey vestibule that led to the pool of carp. That stairway had been warped and twisted out of shape seventy years ago when the vestibule had been razed to the ground in the great fire. An alternative route had to be planned. A plan approaching as far as possible to the spirit of the original conception, and taking the same amount of time. Sourdust scored the new route shakily on the tablecloth with the point of a fork. His lordship nodded.
 
 The day’s duties being clear, and with only a minute to run before ten, Sourdust relaxed in his chair and dribbled into his black-and-white beard. Every few seconds he glanced at the clock.
 
 A long sigh came from his lordship. For a moment a light appeared in his eyes and then dulled. The line of his mouth seemed for a moment to have softened.
 
-‘Sourdust,’ he said, ‘have you heard about my son?’
+“Sourdust,” he said, “have you heard about my son?”
 
 Sourdust, with his eyes on the clock, had not heard his lordship’s question. He was making noises in his throat and chest, his mouth working at the corners.
 
@@ -763,7 +763,7 @@ Lord Groan looked at him quickly and his face whitened under the olive. Taking a
 
 The door opened suddenly in the wall behind the daïs and Flay entered.
 
-‘T’s time’, he said, when he reached the table.
+“T’s time”, he said, when he reached the table.
 
 Lord Sepulchrave rose and moved to the door.
 
@@ -789,43 +789,43 @@ She had pulled at the long black pigtail of a chord which hung from the ceiling 
 
 The sunlight was streaming through the eastern turrets and was lighting the Carvers’ Battlement and touching the sides of the mountain beyond. As the sun rose, thorn tree after thorn tree on Gormenghast mountain emerged in the pale light and became a spectre, one following another, now here, now there, over the huge mass until the whole shape was flattened into a radiant jagged triangle against the darkness. Seven clouds like a group of naked cherubs or sucking-pigs, floated their plump pink bodies across a sky of slate. Fuchsia watched them through her window sullenly. Then she thrust her lower lip forward. Her hands were on her hips. Her bare feet were quite still on the floorboards.
 
-‘Seven’, she said, scowling at each. ‘There’s seven of them. One, two, three, four, five, six, seven. Seven clouds.’
+“Seven”, she said, scowling at each. “There’s seven of them. One, two, three, four, five, six, seven. Seven clouds.”
 
-She drew a yellow shawl more tightly around her shoulders for she was shivering in her nightdress, and pulled the pigtail again for Mrs Slagg. Rummaging in a drawer, she found a stick of black chalk and approaching an area of wall that was comparatively vacant she chalked a vicious 7 and drew a circle round it with the word ‘CLOWDS’ written beneath in heavy, uncompromising letters.
+She drew a yellow shawl more tightly around her shoulders for she was shivering in her nightdress, and pulled the pigtail again for Mrs Slagg. Rummaging in a drawer, she found a stick of black chalk and approaching an area of wall that was comparatively vacant she chalked a vicious 7 and drew a circle round it with the word “CLOWDS” written beneath in heavy, uncompromising letters.
 
 As Fuchsia turned away from the wall she took an awkward shuffling step towards the bed. Her jet black hair hung loosely across her shoulders. Her eyes, that were always smouldering, were fixed on the door. Thus she remained with one foot forward as the door knob turned and Mrs Slagg entered.
 
 Seeing her, Fuchsia continued her walk from where she had left off, but instead of going towards the bed, she approached Mrs Slagg with five strides, and putting her arms quickly around the old woman’s neck, kissed her savagely, broke away, and then beckoning her to the window, pointed towards the sky. Mrs Slagg peered along Fuchsia’s outstretched arm and finger and inquired what there was to look at.
 
-‘Fat clouds’, said Fuchsia. ‘There’s seven of them.’
+“Fat clouds”, said Fuchsia. “There’s seven of them.”
 
 The old woman screwed up her eyes and peered once more but only for a moment. Then she made a little noise which seemed to indicate that she was not impressed.
 
-‘Why seven?’ said Fuchsia. ‘Seven is for something. What’s seven for? One for a glorious golden grave—two for a terrible torch of tin; three for a hundred hollow horses; four for a knight with a spur of speargrass; five for a fish with fortunate fins, six—I’ve forgotten six, and seven—what’s seven for? Eight for a frog with eyes like marbles, nine, what’s nine? Nine for a—nine, nine—ten for a tower of turbulent toast—but what is seven. What is seven?’
+“Why seven?” said Fuchsia. “Seven is for something. What’s seven for? One for a glorious golden grave—two for a terrible torch of tin; three for a hundred hollow horses; four for a knight with a spur of speargrass; five for a fish with fortunate fins, six—I’ve forgotten six, and seven—what’s seven for? Eight for a frog with eyes like marbles, nine, what’s nine? Nine for a—nine, nine—ten for a tower of turbulent toast—but what is seven. What is seven?”
 
 Fuchsia stamped her foot and peered into the poor old nurse’s face.
 
-Nannie Slagg made little noises in her throat which was her way of filling in time and then said, ‘Would you like some hot milk, my precious? Tell me now because I’m busy, and must feed your mother’s white cats, dear. Just because I’m of the energetic system, my dearheart, they give me everything to do. What did you ring for? Quickly, quickly my caution. What did you ring for?’
+Nannie Slagg made little noises in her throat which was her way of filling in time and then said, “Would you like some hot milk, my precious? Tell me now because I’m busy, and must feed your mother’s white cats, dear. Just because I’m of the energetic system, my dearheart, they give me everything to do. What did you ring for? Quickly, quickly my caution. What did you ring for?”
 
 Fuchsia bit her big red lower lip, tossed a mop of midnight from her brow and gazed out of the window, her hands grasping her elbows behind her. Very stiff she had become and angular.
 
-‘I want a big breakfast’, said Fuchsia at last. ‘I want a lot to eat, I’m going to think today.’
+“I want a big breakfast”, said Fuchsia at last. “I want a lot to eat, I’m going to think today.”
 
 Nannie Slagg was scrutinizing a wart on her left forearm.
 
-‘You don’t know where I’m going, but I’m going somewhere where I can think.’
+“You don’t know where I’m going, but I’m going somewhere where I can think.”
 
-‘Yes, dear’, said the old nurse.
+“Yes, dear”, said the old nurse.
 
-‘I want hot milk and eggs and lots of toast done only on one side’. Fuchsia frowned as she paused; ‘and I want a bag of apples to take along with me for the whole of the day, for I get hungry when I think.’
+“I want hot milk and eggs and lots of toast done only on one side”. Fuchsia frowned as she paused; “and I want a bag of apples to take along with me for the whole of the day, for I get hungry when I think.”
 
-‘Yes, dear’, said Mrs Slagg again, pulling a loose thread from the hem of Fuchsia’s skirt. ‘Put some more on the fire, my caution, and I’ll bring your breakfast and make your bed for you, though I’m not very well.’
+“Yes, dear”, said Mrs Slagg again, pulling a loose thread from the hem of Fuchsia’s skirt. “Put some more on the fire, my caution, and I’ll bring your breakfast and make your bed for you, though I’m not very well.”
 
 Fuchsia descended suddenly upon her old nurse again and kissing her cheek, released her from the room, closing the door on her retreating figure with a crash that echoed down the gloomy corridors.
 
 As soon as the door had closed, Fuchsia leaped at her bed and diving between the blankets head first, wriggled her way to the far end, where from all appearances, she became engaged in a life and death struggle with some ambushed monster. The heavings of the bedclothes ended as suddenly as they had begun and she emerged with a pair of long woollen stockings which she must have kicked off during the night. Sitting on her pillows she began pulling them on in a series of heaves, twisting with difficulty, at a very late stage, the heel of each from the front to the back.
 
-‘I won’t see anybody today,’ she said to herself—‘no, not anybody at all. I will go to my secret room and think things over.’ She smiled a smile to herself. It was sly but it was so childishly sly that it was lovable. Her lips, big and well-formed and extraordinarily mature, curled up like plump petals and showed between them her white teeth.
+“I won’t see anybody today,” she said to herself—“no, not anybody at all. I will go to my secret room and think things over.” She smiled a smile to herself. It was sly but it was so childishly sly that it was lovable. Her lips, big and well-formed and extraordinarily mature, curled up like plump petals and showed between them her white teeth.
 
 As soon as she had smiled her face altered again, and the petulant expression peregrine to her features took control. Her black eyebrows were drawn together.
 
@@ -833,87 +833,87 @@ Her dressing became interrupted between the addition of each garment by dance mo
 
 Meanwhile Mrs Slagg had not only prepared the breakfast for Fuchsia in her own little room, but was on the way back with the loaded tray shaking in her hands. As she turned a corner of the corridor she was brought to a clattering standstill by the sudden appearance of Doctor Prunesquallor, who also halting with great suddenness, avoided a collision.
 
-‘Well, well, well, well, well, ha, ha, ha, if it isn’t dear Mrs Slagg, ha, ha, ha, how very very, very dramatic’, said the doctor, his long hands clasped before him at his chin, his high-pitched laugh creaking along the timber ceiling of the passage. His spectacles held in either lens the minute reflection of Nannie Slagg.
+“Well, well, well, well, well, ha, ha, ha, if it isn’t dear Mrs Slagg, ha, ha, ha, how very very, very dramatic”, said the doctor, his long hands clasped before him at his chin, his high-pitched laugh creaking along the timber ceiling of the passage. His spectacles held in either lens the minute reflection of Nannie Slagg.
 
 The old nurse had never really approved of Doctor Prunesquallor. It was true that he belonged to Gormenghast as much as the Tower itself. He was no intruder, but somehow, in Mrs Slagg’s eyes he was definitely *wrong*. He was not her idea of a doctor in the first place, although she could never have argued why. Nor could she pin her dislike down to any other cause. Nannie Slagg found it very difficult to marshal her thoughts at the best of times, but when they became tied up with her emotions she became quite helpless. What she felt but had never analysed was that Doctor Prunesquallor rather played down to her and even in an obtuse way made fun of her. She had never thought this, but her bones knew of it.
 
 She gazed up at the shock-headed man before her and wondered why he never brushed his hair, and then she felt guilty for allowing herself such thoughts about a gentleman and her tray shook and her eyes wavered a little.
 
-‘Ha, ha, ha, ha, ha, my dear Mrs Slagg, let me take your tray, ha, ha, until you have tasted the fruits of discourse and told me what you have been up to for the last month or more. Why have I not seen you, Nannie Slagg? Why have my ears not heard your footfall on the stairs, and your voice at nightfall, calling . . . calling . . . ?’
+“Ha, ha, ha, ha, ha, my dear Mrs Slagg, let me take your tray, ha, ha, until you have tasted the fruits of discourse and told me what you have been up to for the last month or more. Why have I not seen you, Nannie Slagg? Why have my ears not heard your footfall on the stairs, and your voice at nightfall, calling . . . calling . . . ?”
 
-‘Her ladyship don’t want me any more, sir’, said Nannie Slagg, looking up at the doctor reproachfully. ‘I am kept in the west wing now, sir.’
+“Her ladyship don’t want me any more, sir”, said Nannie Slagg, looking up at the doctor reproachfully. “I am kept in the west wing now, sir.”
 
-‘So that’s it, is it?’ said Doctor Prunesquallor, removing the loaded tray from Nannie Slagg and lowering both it and himself at the same time to the floor of the long passage. He sat there on his heels with the tray at his side and peered up at the old lady, who gazed in a frightened way at his eye swimming hugely beneath his magnifying spectacles.
+“So that’s it, is it?” said Doctor Prunesquallor, removing the loaded tray from Nannie Slagg and lowering both it and himself at the same time to the floor of the long passage. He sat there on his heels with the tray at his side and peered up at the old lady, who gazed in a frightened way at his eye swimming hugely beneath his magnifying spectacles.
 
-‘You are *kept* in the west wing? So that’s it?’ Doctor Prunesquallor with his forefinger and thumb stroked his chin in a profound manner and frowned magnificently. ‘It is the word “kept”, my dear Mrs Slagg, that galls me. Are you an animal, Mrs Slagg? I repeat are you an animal?’ As he said this he rose halfway to his feet and with his neck stretched forward repeated his question a third time.
+“You are *kept* in the west wing? So that’s it?” Doctor Prunesquallor with his forefinger and thumb stroked his chin in a profound manner and frowned magnificently. “It is the word ‘kept’, my dear Mrs Slagg, that galls me. Are you an animal, Mrs Slagg? I repeat are you an animal?” As he said this he rose halfway to his feet and with his neck stretched forward repeated his question a third time.
 
 Poor Nannie Slagg was too frightened to be able to give her answer to the query.
 
 The doctor sank back on his heels.
 
-‘I will answer my own question, Mrs Slagg. I have known you for some time. For, shall we say, a decade? It is true we have never plumbed the depths of sorcery together nor argued the meaning of existence—but it is enough for me to say that I have known you for a considerable time, and that you are *no animal*. No animal *whatsoever*. Sit upon my knee.’
+“I will answer my own question, Mrs Slagg. I have known you for some time. For, shall we say, a decade? It is true we have never plumbed the depths of sorcery together nor argued the meaning of existence—but it is enough for me to say that I have known you for a considerable time, and that you are *no animal*. No animal *whatsoever*. Sit upon my knee.”
 
 Nannie Slagg, terrified at this suggestion, raised her little bony hands to her mouth and raised her shoulders to her ears. Then she gave one frightened look down the passage and was about to make a run for it when she was gripped about the knees, not unkindly, but firmly and without knowing how she got there found herself sitting upon the high bony knee-cap of the squatting doctor.
 
-‘You are *not* an animal’, repeated Prunesquallor, ‘are you?’
+“You are *not* an animal”, repeated Prunesquallor, “are you?”
 
 The old nurse turned her wrinkled face to the doctor and shook her head in little jerks.
 
-‘Of course you’re not. Ha, ha, ha, ha, ha, of course you’re not. Tell me what you are?’
+“Of course you’re not. Ha, ha, ha, ha, ha, of course you’re not. Tell me what you are?”
 
 Nannie’s fist again came to her mouth and the frightened look in her eyes reappeared.
 
-‘I’m . . . I’m an old woman’, she said.
+“I’m . . . I’m an old woman”, she said.
 
-‘You’re a very unique old woman’, said the doctor, ‘and if I am not mistaken, you will very soon prove to be an exceptionally invaluable old woman. Oh yes, ha, ha, ha, oh yes, a very invaluable old woman indeed.’ (There was a pause.) ‘How long is it since you saw her ladyship, the Countess? It must be a very long time.’
+“You’re a very unique old woman”, said the doctor, “and if I am not mistaken, you will very soon prove to be an exceptionally invaluable old woman. Oh yes, ha, ha, ha, oh yes, a very invaluable old woman indeed.” (There was a pause.) “How long is it since you saw her ladyship, the Countess? It must be a very long time.”
 
-‘It is, it is’, said Nannie Slagg, ‘a very long time. Months and months and months.’
+“It is, it is”, said Nannie Slagg, “a very long time. Months and months and months.”
 
-‘As I thought’, said the doctor. ‘Ha, ha, ha, as I very much thought. Then you can have no idea of why you will be indispensable?’
+“As I thought”, said the doctor. “Ha, ha, ha, as I very much thought. Then you can have no idea of why you will be indispensable?”
 
-‘Oh no, sir!’ said Nannie Slagg, looking at the breakfast tray whose load was fast becoming cold.
+“Oh no, sir!” said Nannie Slagg, looking at the breakfast tray whose load was fast becoming cold.
 
-‘Do you like babies, my very dear Mrs Slagg?’ asked the doctor, shifting the poor woman on to his other acutely bended knee joint and stretching out his former leg as though to ease it. ‘Are you fond of the little creatures, taken by and large?’
+“Do you like babies, my very dear Mrs Slagg?” asked the doctor, shifting the poor woman on to his other acutely bended knee joint and stretching out his former leg as though to ease it. “Are you fond of the little creatures, taken by and large?”
 
-‘Babies?’ said Mrs Slagg in the most animated tone that she had so far used. ‘I could eat the little darlings, sir, I could eat them up!’
+“Babies?” said Mrs Slagg in the most animated tone that she had so far used. “I could eat the little darlings, sir, I could eat them up!”
 
-‘Quite,’ said Doctor Prunesquallor, ‘quite so, my good woman. You could eat them up. That will be unnecessary. In fact it would be positively injurious, my dear Mrs Slagg, and especially under the circumstances about which I must now enlighten you. A child will be placed in your keeping. Do not devour him Nannie Slagg. It is for you to bring him up, that is true, but there will be no need for you to swallow him first. You would be, ha, ha, ha, ha—swallowing a Groan.’
+“Quite,” said Doctor Prunesquallor, “quite so, my good woman. You could eat them up. That will be unnecessary. In fact it would be positively injurious, my dear Mrs Slagg, and especially under the circumstances about which I must now enlighten you. A child will be placed in your keeping. Do not devour him Nannie Slagg. It is for you to bring him up, that is true, but there will be no need for you to swallow him first. You would be, ha, ha, ha, ha—swallowing a Groan.”
 
 This news filtered by degrees through Nannie Slagg’s brain and all at once her eyes looked very wide indeed.
 
-‘No, oh no, sir!’
+“No, oh no, sir!”
 
-‘Yes, oh yes, sir!’ replied the physician. ‘Although the Countess has of late banished you from her presence, yet, Nannie Slagg, you will of necessity be restored, ha, ha, ha, be restored to a very important state. Sometime today, if I am not mistaken, my wide-eyed Nannie Slagg, I shall be delivering a brand new Groan. Do you remember when I delivered the Countess of Lady Fuchsia?’
+“Yes, oh yes, sir!” replied the physician. “Although the Countess has of late banished you from her presence, yet, Nannie Slagg, you will of necessity be restored, ha, ha, ha, be restored to a very important state. Sometime today, if I am not mistaken, my wide-eyed Nannie Slagg, I shall be delivering a brand new Groan. Do you remember when I delivered the Countess of Lady Fuchsia?”
 
 Nannie Slagg began to shake all over and a tear ran down her cheek as she clasped her hands between her knees, very nearly overbalancing from her precarious perch.
 
-‘I can remember every little thing sir—every little thing. Who would have thought?’
+“I can remember every little thing sir—every little thing. Who would have thought?”
 
-‘Exactly,’ interrupted Doctor Prunesquallor. ‘Who would have thought. But I must be going, ha, ha, ha, I must dislodge you, Nannie Slagg, from my patella—but tell me, did you know nothing of her ladyship’s condition?’
+“Exactly,” interrupted Doctor Prunesquallor. “Who would have thought. But I must be going, ha, ha, ha, I must dislodge you, Nannie Slagg, from my patella—but tell me, did you know nothing of her ladyship’s condition?”
 
-‘Oh, sir,’ said the old lady, biting her knuckle and shifting her gaze. ‘Nothing! nothing! No one ever tells me anything.’
+“Oh, sir,” said the old lady, biting her knuckle and shifting her gaze. “Nothing! nothing! No one ever tells me anything.”
 
-‘Yet all the duties will devolve on you’, said Doctor Prunesquallor. ‘Though you will doubtless enjoy yourself. There is no doubt at all about that. Is there?’
+“Yet all the duties will devolve on you”, said Doctor Prunesquallor. “Though you will doubtless enjoy yourself. There is no doubt at all about that. Is there?”
 
-‘Oh, sir, another baby, after all this time! Oh, I could smack him already.’
+“Oh, sir, another baby, after all this time! Oh, I could smack him already.”
 
-‘Him?’ queried the doctor. ‘Ha, ha, ha, you are very sure of the gender, my dear Mrs Slagg.’
+“Him?” queried the doctor. “Ha, ha, ha, you are very sure of the gender, my dear Mrs Slagg.”
 
-‘Oh yes, sir, it’s a him, sir. Oh, what a blessing that it is. They *will* let me have him, sir? They will let me won’t they?’
+“Oh yes, sir, it’s a him, sir. Oh, what a blessing that it is. They *will* let me have him, sir? They will let me won’t they?”
 
-‘They have no choice’, said the doctor somewhat too briskly for a gentleman and he smiled a wide inane smile, his thin nose pointing straight at Mrs Slagg. His grey hayrick of hair removed itself from the wall. ‘What of my Fuchsia? Has she an inkling?’
+“They have no choice”, said the doctor somewhat too briskly for a gentleman and he smiled a wide inane smile, his thin nose pointing straight at Mrs Slagg. His grey hayrick of hair removed itself from the wall. “What of my Fuchsia? Has she an inkling?”
 
-‘Oh, no, not an inkling. Not an inkling, sir, bless her. She hardly ever leaves her room except at night, sir. She don’t know nothing, sir, and never talks to no one but me.’
+“Oh, no, not an inkling. Not an inkling, sir, bless her. She hardly ever leaves her room except at night, sir. She don’t know nothing, sir, and never talks to no one but me.”
 
-The doctor, removing Nannie Slagg from his knee, rose to his feet. ‘The rest of Gormenghast talks of nothing else, but the western wing is in darkness. Very, very, very strange. The child’s nurse and the child’s sister are in darkness, ha, ha, ha. But not for long, not for long. By all that’s enlightened, very much not so!’
+The doctor, removing Nannie Slagg from his knee, rose to his feet. “The rest of Gormenghast talks of nothing else, but the western wing is in darkness. Very, very, very strange. The child’s nurse and the child’s sister are in darkness, ha, ha, ha. But not for long, not for long. By all that’s enlightened, very much not so!”
 
-‘Sir?’ queried Nannie Slagg as the doctor was about to move away.
+“Sir?” queried Nannie Slagg as the doctor was about to move away.
 
-‘What?’ said Doctor Prunesquallor, scrutinizing his finger-nails. ‘What is it my dear Mrs Slagg? Be quick.’
+“What?” said Doctor Prunesquallor, scrutinizing his finger-nails. “What is it my dear Mrs Slagg? Be quick.”
 
-‘Er—how is *she*, sir? How is her ladyship?’
+“Er—how is *she*, sir? How is her ladyship?”
 
-‘Tough as behemoth’, said Prunesquallor, and was around the corner in an instant, and Nannie Slagg, with her mouth and eyes wide open, could, as she lifted up the cold tray, hear his feet in a far passage tapping an elegant tattoo as he moved like a bird towards the bedroom of the Countess of Groan.
+“Tough as behemoth”, said Prunesquallor, and was around the corner in an instant, and Nannie Slagg, with her mouth and eyes wide open, could, as she lifted up the cold tray, hear his feet in a far passage tapping an elegant tattoo as he moved like a bird towards the bedroom of the Countess of Groan.
 
 As Mrs Slagg knocked at Fuchsia’s door, her heart was beating very fast. It was always a long time before she realized the import of whatever she were told, and it was only now that the full measure of what the doctor had divulged was having its effect. To be again, after all these years, the nurse of an heir to the house of Groan—to be able to bathe the helpless limbs, to iron out the little garments and to select the wet nurse from the outer dwellings! To have complete authority in anything connected with the care of the precious mite—all this was now weighing with a great load of painful pride across her heart that was beating rapidly.
 
@@ -937,7 +937,7 @@ The love of the diver for his world of wavering light. His world of pearls and t
 
 The love of the painter standing alone and staring, staring at the great coloured surface he is making. Standing with him in the room the rearing canvas stares back with tentative shapes halted in their growth, moving in a new rhythm from floor to ceiling. The twisted tubes, the fresh paint squeezed and smeared across the dry upon his palette. The dust beneath the easel. The paint has edged along the brushes’ handles. The white light in a northern sky is silent. The window gapes as he inhales his world. His world: a rented room, and turpentine. He moves towards his half-born. He is in love.
 
-The rich soil crumbles through the yeoman’s fingers. As the pearl diver murmurs, ‘I am home’ as he moves dimly in strange water-lights, and as the painter mutters, ‘I am me’ on his lone raft of floorboards, so the slow landsman on his acre’d marl—says with dark Fuchsia on her twisting staircase, ‘I am home.’
+The rich soil crumbles through the yeoman’s fingers. As the pearl diver murmurs, “I am home” as he moves dimly in strange water-lights, and as the painter mutters, “I am me” on his lone raft of floorboards, so the slow landsman on his acre’d marl—says with dark Fuchsia on her twisting staircase, “I am home.”
 
 It was this feeling of belonging to the winding stair and the attic which Fuchsia experienced as she ran her right hand along the wooden wall as she climbed and encountered after some time the loose board which she expected. She knew that only eighteen steps remained and that after two more turns in the staircase the indescribable grey-gold filtering glow of the attic would greet her.
 
@@ -967,11 +967,11 @@ As she looked down, her hands on the wooden banister that ran along the attic ve
 
 These and the dramas in which they took part were now latent in the room below her, but Fuchsia passed the high-backed chair where she would sit at the verandah edge, pulled back the door carefully on its one hinge, and entered into the third of the three rooms.
 
-She put her bundle upon a table in one corner, went to the window and pushed open the two shutters. Her stocking was halfway down her leg again and she knotted the string more firmly round her thigh. It was often her habit in this room to think aloud to herself. To argue with herself. Looking down from her little window upon the roofs of the castle and its adjacent buildings she tasted the pleasure of her isolation. ‘I am alone’, she said, her chin in her hands and her elbows on the sill. ‘I am quite alone, like I enjoy it. Now I can think for there’s no one to provoke me here. Not in my room. No one to tell me what I ought to do because I’m a Lady. Oh no. I do just what I like here. Fuchsia is quite alright here. None of them knows where I go to. Flay doesn’t know. Father doesn’t know. Mother doesn’t know. None of them knows. Even Nannie doesn’t know. Only I know. I know where I go. I go here. This is where I go. Up the stairs and into my lumber room. Through my lumber room and into my acting room. All across my acting room and up the ladder and on to my verandah. Through the door and into my secret attic. And here it is I am. I am here now. I have been here lots of times but that is in the past. That is over, but now I’m here it’s in the present. This is the present. I’m looking on the roofs of the present and I’m leaning on the present window-sill and later on when I’m older I will lean on this window-sill again. Over and over again.
+She put her bundle upon a table in one corner, went to the window and pushed open the two shutters. Her stocking was halfway down her leg again and she knotted the string more firmly round her thigh. It was often her habit in this room to think aloud to herself. To argue with herself. Looking down from her little window upon the roofs of the castle and its adjacent buildings she tasted the pleasure of her isolation. “I am alone”, she said, her chin in her hands and her elbows on the sill. “I am quite alone, like I enjoy it. Now I can think for there’s no one to provoke me here. Not in my room. No one to tell me what I ought to do because I’m a Lady. Oh no. I do just what I like here. Fuchsia is quite alright here. None of them knows where I go to. Flay doesn’t know. Father doesn’t know. Mother doesn’t know. None of them knows. Even Nannie doesn’t know. Only I know. I know where I go. I go here. This is where I go. Up the stairs and into my lumber room. Through my lumber room and into my acting room. All across my acting room and up the ladder and on to my verandah. Through the door and into my secret attic. And here it is I am. I am here now. I have been here lots of times but that is in the past. That is over, but now I’m here it’s in the present. This is the present. I’m looking on the roofs of the present and I’m leaning on the present window-sill and later on when I’m older I will lean on this window-sill again. Over and over again.
 
-‘Now I’ll make myself comfortable and eat my breakfast’, she continued to herself, but as she turned away her quick eyes noticed in the corner of one of the diminished quadrangles far below her an unusually large gathering of what she could just make out to be servants from the kitchen quarters. She was so used to the panorama below her being deserted at that hour in the morning, the menials being at their multifarious duties about the castle that she turned suddenly back to the window and stared down with a sense of suspicion and almost of fear. What was it that quickened her to a sense of something irreparable having been done? To an outsider there would have been nothing untoward or extraordinary in the fact that a group had gathered hundreds of feet below in the corner of a sunny stone quadrangle, but Fuchsia born and bred to the iron ritual of Gormenghast knew that something unprecedented was afoot. She stared, and as she stared the group grew. It was enough to throw Fuchsia out of her mood and to make her uneasy and angry.
+“Now I’ll make myself comfortable and eat my breakfast”, she continued to herself, but as she turned away her quick eyes noticed in the corner of one of the diminished quadrangles far below her an unusually large gathering of what she could just make out to be servants from the kitchen quarters. She was so used to the panorama below her being deserted at that hour in the morning, the menials being at their multifarious duties about the castle that she turned suddenly back to the window and stared down with a sense of suspicion and almost of fear. What was it that quickened her to a sense of something irreparable having been done? To an outsider there would have been nothing untoward or extraordinary in the fact that a group had gathered hundreds of feet below in the corner of a sunny stone quadrangle, but Fuchsia born and bred to the iron ritual of Gormenghast knew that something unprecedented was afoot. She stared, and as she stared the group grew. It was enough to throw Fuchsia out of her mood and to make her uneasy and angry.
 
-‘Something has happened,’ she said, ‘something no one’s told me of. They haven’t told me. I don’t like them. I don’t like any of them. What are they all doing like a lot of ants down there? Why aren’t they working like they should be?’ She turned around and faced her little room.
+“Something has happened,” she said, “something no one’s told me of. They haven’t told me. I don’t like them. I don’t like any of them. What are they all doing like a lot of ants down there? Why aren’t they working like they should be?” She turned around and faced her little room.
 
 Everything was changed, she picked up one of the pears and bit a piece out of it abstractedly. She had looked forward to a morning of rumination and perhaps a play or two in the empty attic before she climbed down the stairs again to demand a big tea from Mrs Slagg. There was something portentous in the group far below her. Her day was disrupted.
 
@@ -979,7 +979,7 @@ She looked around at the walls of her room. They were hung with pictures once ch
 
 A great writhing root, long since dragged from the woods of Gormenghast mountain, stood in the centre of the room. It had been polished to a rare gloss, its every wrinkle gleaming. Fuchsia flung herself down on the most imposing article in the room, a couch of faded splendour and suavity of contour in which the angles of Fuchsia’s body as she lay in a half sprawl were thrown out with uncompromising severity. Her eyes which, since she had entered the attic, had taken on the calm expression so alien to her, were now smouldering again. They moved about the room as though they were seeking in vain a resting place, but neither the fantastic root, nor the ingenious patterns in the carpet below her had the power to hold them.
 
-‘Everything’s wrong. Everything. Everything’, said Fuchsia. Again she went to the window and peered down at the group in the quadrangle. By now it had grown until it filled all that was visible of the stone square. Through a flying buttress to the left of her she could command a view of four distant alleys in a poor district of Gormenghast. These alley-ways were pranked with little knots of folk, and Fuchsia believed that she could hear the far sound of their voices rising through the air. It was not that Fuchsia felt any particular interest in ‘occasions’ or festivities which might cause excitement below, but that this morning she felt acutely aware that something in which she would become involved was taking place.
+“Everything’s wrong. Everything. Everything”, said Fuchsia. Again she went to the window and peered down at the group in the quadrangle. By now it had grown until it filled all that was visible of the stone square. Through a flying buttress to the left of her she could command a view of four distant alleys in a poor district of Gormenghast. These alley-ways were pranked with little knots of folk, and Fuchsia believed that she could hear the far sound of their voices rising through the air. It was not that Fuchsia felt any particular interest in “occasions” or festivities which might cause excitement below, but that this morning she felt acutely aware that something in which she would become involved was taking place.
 
 On the table lay a big coloured book of verses and pictures. It was always ready for her to open and devour. Fuchsia would turn over the pages and read the verses aloud in a deep dramatic voice. This morning she leaned forward and turned over the pages listlessly. As she came upon a great favourite she paused and read it through slowly, but her thoughts were elsewhere.
 
@@ -1067,21 +1067,21 @@ Of a cake in the throes of love.
 
 She ended the final verse with a rush, taking in nothing at all of its meaning. As she ended the last line mechanically, she found herself getting to her feet and making for the door. Her bundle was left behind, open, but, save for the pear, untouched on the table. She found herself on the balcony and lowering herself down the ladder was in the empty attic and within a few moments had reached the head of the stairs in the lumber room. As she descended the spiral staircase her thoughts were turning over and over.
 
-‘What have they done? What have they done?’ And it was in a precipitous mood that she entered her room and ran to the corner where, catching hold of the pigtail bell-rope she pulled it as though to wrench it from the ceiling.
+“What have they done? What have they done?” And it was in a precipitous mood that she entered her room and ran to the corner where, catching hold of the pigtail bell-rope she pulled it as though to wrench it from the ceiling.
 
-Within a few moments Mrs Slagg came running up to the door, her slippered feet scraping along unevenly on the floorboards. Fuchsia opened the door to her and as soon as the poor old head appeared around the panels, she shouted at it, ‘What’s happening Nannie, what’s happening down there? Tell me at once, Nannie, or I won’t love you. Tell me, tell me.’
+Within a few moments Mrs Slagg came running up to the door, her slippered feet scraping along unevenly on the floorboards. Fuchsia opened the door to her and as soon as the poor old head appeared around the panels, she shouted at it, “What’s happening Nannie, what’s happening down there? Tell me at once, Nannie, or I won’t love you. Tell me, tell me.”
 
-‘Quiet, my caution, quiet’, said Mrs Slagg. ‘What’s all the bother, my conscience! oh my poor heart. You’ll be the death of me.’
+“Quiet, my caution, quiet”, said Mrs Slagg. “What’s all the bother, my conscience! oh my poor heart. You’ll be the death of me.”
 
-‘You must tell me, Nannie. Now! now! or I’ll hit you,’ said Fuchsia.
+“You must tell me, Nannie. Now! now! or I’ll hit you,” said Fuchsia.
 
 From so small a beginning of suspicion Fuchsia’s fears had grown until now, convinced by a mounting intuition, she was almost on the point of striking her old nurse, whom she loved so desperately. Nannie Slagg took hold of Fuchsia’s hand between eight old fingers and squeezed it.
 
-‘A little brother for you, my pretty. Now *there’s* a surprise to quieten you; a little *brother*. Just like you, my ugly darling—born in the lapsury.’
+“A little brother for you, my pretty. Now *there’s* a surprise to quieten you; a little *brother*. Just like you, my ugly darling—born in the lapsury.”
 
-‘No!’ shouted Fuchsia, the blood rushing to her cheek. ‘No! no! I won’t have it. Oh no, no, no! I won’t! I won’t! It *mustn’t* be, it *mustn’t* be!’ And Fuchsia flinging herself to the floor burst into a passion of tears.
+“No!” shouted Fuchsia, the blood rushing to her cheek. “No! no! I won’t have it. Oh no, no, no! I won’t! I won’t! It *mustn’t* be, it *mustn’t* be!” And Fuchsia flinging herself to the floor burst into a passion of tears.
 
-## ‘MRS SLAGG BY MOONLIGHT’
+## “MRS SLAGG BY MOONLIGHT”
 
 These then, Lord Sepulchrave, the Countess Gertrude, Fuchsia their eldest child, Doctor Prunesquallor, Mr Rottcodd, Flay, Swelter, Nannie Slagg, Steerpike and Sourdust, have been discovered at their pursuits on the day of the advent, and have perhaps indicated the atmosphere into which it was the lot of Titus to be born.
 
@@ -1125,7 +1125,7 @@ Noting the white roots spreading away in perspective, each piece with its shadow
 
 The Dwellers had seen her immediately her hat had appeared above the dry brow of the hill, and every head had been turned, and every eye focused upon her. The mothers had paused, some of them with spoons halfway to their children’s mouths.
 
-It was unusual for them to have the ‘Castles’, as they termed any who came from within the walls, approach them at their meals. They stared without moving and without speaking.
+It was unusual for them to have the “Castles”, as they termed any who came from within the walls, approach them at their meals. They stared without moving and without speaking.
 
 Mrs Slagg had stopped. The moonlight flared on the glass grapes.
 
@@ -1133,7 +1133,7 @@ A very old man like a prophet arose and approached her. When he reached her he s
 
 They remained in this attitude for a few moments until the old man lifted his shaggy head and parted the long rough line of his mouth.
 
-‘Gormenghast’, he said, and his voice was like the noise of boulders rolling through far valleys, and as he had said ‘Gormenghast’ the intonation was such as implied reverence. This was the greeting of the Dwellers to any who were of the Castle and once that word had been spoken the person to whom it was addressed replied—‘The Bright Carvers’. Conversation could then proceed. This response, deaf as the Dwellers were to any flattery, holding themselves to be the supreme judges of their work and indifferent to the outside interest, was in its way a palliative in the sense that it put them where they felt in their bones they belonged—on a spiritual if not a worldly or hereditary level. It introduced a certain concord at the outset. It was a master stroke of judgement, a tower of tact, in the seventeenth Earl of Groan, when hundreds of years before he had introduced this tenet into the ritual of the Castle.
+“Gormenghast”, he said, and his voice was like the noise of boulders rolling through far valleys, and as he had said “Gormenghast” the intonation was such as implied reverence. This was the greeting of the Dwellers to any who were of the Castle and once that word had been spoken the person to whom it was addressed replied—“The Bright Carvers”. Conversation could then proceed. This response, deaf as the Dwellers were to any flattery, holding themselves to be the supreme judges of their work and indifferent to the outside interest, was in its way a palliative in the sense that it put them where they felt in their bones they belonged—on a spiritual if not a worldly or hereditary level. It introduced a certain concord at the outset. It was a master stroke of judgement, a tower of tact, in the seventeenth Earl of Groan, when hundreds of years before he had introduced this tenet into the ritual of the Castle.
 
 Very, very far from bright were the Carvers themselves. They were uniformly dressed in dark grey cloth, tied about the waist with tough thongs which were stripped from the outer surface of the jarl root, whose inner hard white flesh they ate. Nothing was bright about their appearance, save one thing. The light in the eyes of the younger children. Indeed, in the youths and maidens also up to the age of nineteen and sometimes twenty. These young Dwellers were in such contrast to their elders, even to those in their mid-twenties, that it was difficult to imagine that they were of the same stock. The tragic reason was that after they had come to their physical maturity of form their loveliness crumbled away and they became withered as flowers after their few fresh hours of brilliance and strength.
 
@@ -1147,25 +1147,25 @@ Even this unnatural emanation died in these youths and girls when they had reach
 
 Mrs Slagg hoisted her little claw of a hand very high in the air. The four who were lined in front of her had taken less formal stances, the children peering up at her with their slim, dusty arms around each others’ shoulders.
 
-‘I have come’, she said in a voice which, thin as a curlew, carried along the tables, ‘I have come—although it is so late—to tell you a wonderful thing.’ She readjusted her hat and felt as she did so, with great pleasure, the shining volume of the glass grapes.
+“I have come”, she said in a voice which, thin as a curlew, carried along the tables, “I have come—although it is so late—to tell you a wonderful thing.” She readjusted her hat and felt as she did so, with great pleasure, the shining volume of the glass grapes.
 
-The old man turned to the tables and his voice rolled out along them. ‘She has come to tell us a wonderful thing’, and the old woman followed him up like a distorted echo and screamed, ‘A wonderful thing.’
+The old man turned to the tables and his voice rolled out along them. “She has come to tell us a wonderful thing”, and the old woman followed him up like a distorted echo and screamed, “A wonderful thing.”
 
-‘Yes, yes, it is wonderful news for you,’ the old nurse continued. ‘You will all be very proud, I am quite sure.’
+“Yes, yes, it is wonderful news for you,” the old nurse continued. “You will all be very proud, I am quite sure.”
 
 Mrs Slagg, now she had started was rather enjoying herself. She clasped her gloved hands together more tightly whenever she felt a qualm of nervousness.
 
-‘We are all proud. All of us. The Castle’, (she said this in a rather vain way) ‘is very very satisfied and when I tell you what has happened, then, you’ll be happy as well; oh yes, I am sure you will. Because I know you are *dependent* on the castle.’
+“We are all proud. All of us. The Castle”, (she said this in a rather vain way) “is very very satisfied and when I tell you what has happened, then, you’ll be happy as well; oh yes, I am sure you will. Because I know you are *dependent* on the castle.”
 
-Mrs Slagg was never very tactful. ‘You have some food thrown down to you from the battlements every morning, don’t you?’ She had pursed her mouth and stopped a moment for breath.
+Mrs Slagg was never very tactful. “You have some food thrown down to you from the battlements every morning, don’t you?” She had pursed her mouth and stopped a moment for breath.
 
 A young man lifted his thick black eyebrows and spat.
 
-‘So you are very much thought of by the Castle. Every day you are thought of, aren’t you? And that’s why you’ll be so happy when I tell you the wonderful thing that I’m going to tell you.’
+“So you are very much thought of by the Castle. Every day you are thought of, aren’t you? And that’s why you’ll be so happy when I tell you the wonderful thing that I’m going to tell you.”
 
 Mrs Slagg smiled to herself for a moment, but suddenly felt a little nervous in spite of her superior knowledge and had glanced quickly, like a bird, from one face to another. She had bridled up her wispy head and had peered as sternly as she could at a small boy who answered her with a flashing smile. His hair was clustered over his shoulders. Between his teeth as he grinned glistened a white nugget of jarl root.
 
-She shifted her gaze and clapped her hands together sharply two or three times as though for silence, although there was no noise at all. Then she suddenly felt she wanted to be back in the castle and in her own little room and she said before she knew it, ‘A new little Groan has been born, a little boy. A little boy of the Blood. I am in charge, of course, and I want a wet nurse for him *at once*. I must have one *at once* to come back with me. There now! I’ve told you everything.’
+She shifted her gaze and clapped her hands together sharply two or three times as though for silence, although there was no noise at all. Then she suddenly felt she wanted to be back in the castle and in her own little room and she said before she knew it, “A new little Groan has been born, a little boy. A little boy of the Blood. I am in charge, of course, and I want a wet nurse for him *at once*. I must have one *at once* to come back with me. There now! I’ve told you everything.”
 
 The old women had turned to one another and had then walked away to their huts. They returned with little cakes and bottles of sloe wine. Meanwhile the men formed a large circle and repeated the name Gormenghast seventy-seven times. While Mrs Slagg waited and watched the children who had been set playing, a woman had come forward. She told Mrs Slagg that her child had died a few hours after he had been born some days ago but that she was strong enough and would come. She was, perhaps, twenty, and was well-built, but the tragic disintegration of her beauty had begun although her eyes still had the afterglow upon them. She fetched a basket and did not seem to expect any sort of refusal to her offer. And Nannie Slagg was about to ask a few questions, as she felt would be correct, but the Dweller, packing the sloe wine and cakes into a basket, had taken Mrs Slagg quietly by the arm and the old nurse found herself to be making for the Great Wall. She glanced up at the young woman beside her and wondered whether she had chosen correctly, and then, realizing that she hadn’t chosen at all, she half stopped and glanced back nervously over her shoulder.
 
@@ -1175,27 +1175,27 @@ The cactus trees stood hueless between the long tables. The Dwellers were all in
 
 Mrs Slagg’s companion appeared, after glancing casually in the direction of the sound, to take no more notice of the incident, but keeping a firmer grip this time on the old lady, propelled her forward towards the stone gate.
 
-‘It is nothing’, was the sole reply which Mrs Slagg received and by the time the two were in the acacia avenue her blood had quietened.
+“It is nothing”, was the sole reply which Mrs Slagg received and by the time the two were in the acacia avenue her blood had quietened.
 
 When they were turning from the long drive into the doorway of Gormenghast through which Nannie had stepped out into the evening air so surreptitiously an hour or so before, she glanced up at her companion and shrugging her shoulders a little, contrived to take on an expression of mock importance.
 
-‘Your name? Your name?’ she said.
+“Your name? Your name?” she said.
 
-‘Keda.’
+“Keda.”
 
-‘Well, Keda, dear, if you will follow me, I will take you to the little boy. I’ll show you him myself. He is by the window in my room.’ Nannie’s voice suddenly took on a confidential, almost pathetic note. ‘I haven’t a very big room’, she said, ‘but I’ve always had the same one, I don’t like any of the other ones,’ she added rather untruthfully, ‘I’m nearer Lady Fuchsia.’
+“Well, Keda, dear, if you will follow me, I will take you to the little boy. I’ll show you him myself. He is by the window in my room.” Nannie’s voice suddenly took on a confidential, almost pathetic note. “I haven’t a very big room”, she said, “but I’ve always had the same one, I don’t like any of the other ones,” she added rather untruthfully, “I’m nearer Lady Fuchsia.”
 
-‘Perhaps I shall see her’, said the girl, after a pause.
+“Perhaps I shall see her”, said the girl, after a pause.
 
-Nannie suddenly stopped on the stairs. ‘I don’t *know* about that,’ she said, ‘oh no, I’m not *sure* about that. She is very strange. I never know what she’s going to do next.’
+Nannie suddenly stopped on the stairs. “I don’t *know* about that,” she said, “oh no, I’m not *sure* about that. She is very strange. I never know what she’s going to do next.”
 
-‘To do?’ said Keda. ‘How do you mean?’
+“To do?” said Keda. “How do you mean?”
 
-‘About little Titus.’ Nannie’s eyes began to wander. ‘No, I don’t know what she’ll do. She’s such a terror—the naughtiest terror in the castle—she can be.’
+“About little Titus.” Nannie’s eyes began to wander. “No, I don’t know what she’ll do. She’s such a terror—the naughtiest terror in the castle—she can be.”
 
-‘Why are you frightened?’ said Keda.
+“Why are you frightened?” said Keda.
 
-‘I know she’ll hate him. She likes to be the only one, you know. She likes to dream that she’s the queen and that when the rest are dead there’ll be no one who can order her to do anything. She said, dear, that she’d burn down the whole place, burn down Gormenghast when she was the ruler and she’d live on her own, and I said she was wicked, and she said that everyone was—everyone and everything except rivers, clouds, and some rabbits. She makes me frightened sometimes.’
+“I know she’ll hate him. She likes to be the only one, you know. She likes to dream that she’s the queen and that when the rest are dead there’ll be no one who can order her to do anything. She said, dear, that she’d burn down the whole place, burn down Gormenghast when she was the ruler and she’d live on her own, and I said she was wicked, and she said that everyone was—everyone and everything except rivers, clouds, and some rabbits. She makes me frightened sometimes.”
 
 They climbed up remaining steps, along a passageway and up the remaining flight to the second floor in silence.
 
@@ -1203,9 +1203,9 @@ When they had come to the room Mrs Slagg placed her finger at her lips and gave 
 
 Keda entered the room. Her bare feet made no noise on the floor. When Mrs Slagg reached the cradle she put her fingers to her mouth and peered over it as though into the deepest recesses of an undiscovered world. There he was. The infant Titus. His eyes were open but he was quite still. The puckered-up face of the newly-born child, old as the world, wise as the roots of trees. Sin was there and goodness, love, pity and horror, and even beauty for his eyes were pure violet. Earth’s passions, earth’s griefs, earth’s incongruous, ridiculous humours—dormant, yet visible in the wry pippin of a face.
 
-Nannie Slagg bending over him waggled a crooked finger before his eyes. ‘My little sugar,’ she tittered. ‘How *could* you? how *could* you?’
+Nannie Slagg bending over him waggled a crooked finger before his eyes. “My little sugar,” she tittered. “How *could* you? how *could* you?”
 
-Mrs Slagg turned round to Keda with a new look in her face. ‘Do you think I should have left him?’ she said. ‘When I went to fetch you. Do you think I should have left him?’
+Mrs Slagg turned round to Keda with a new look in her face. “Do you think I should have left him?” she said. “When I went to fetch you. Do you think I should have left him?”
 
 Keda stared down at Titus. Tears were in her eyes as she watched the child. Then she turned to the window. She could see the great wall that held in Gormenghast. The wall that cut her own people away, as though to keep out a plague; the walls that barred from her view the stretches of arid earth beyond the mud huts where her child had so recently been buried.
 
@@ -1213,7 +1213,7 @@ To come within the walls was itself something of an excitement to those of the m
 
 But Titus had stolen the limelight and Keda’s indifference was soon forgotten, for he was beginning to cry, and his crying grew and grew in spite of Mrs Slagg’s dangling a necklace in front of his screwed up eyes and an attempt at singing a lullaby from her half-forgotten store. She had him over her shoulder, but his shrill cries rose in volume. Keda’s eyes were still upon the wall, but of a sudden, breaking herself away from the window, she moved up behind Nannie Slagg and, as she did so, parted the dark brown material from her throat and freeing her left breast, took the child from the shoulders of the old woman. Within a few moments the little face was pressed against her and struggles and sobs were over. Then as she turned and sat at the window a calm came upon her as from her very centre, the milk of her body and the riches of her frustrated love welled up and succoured the infant creature in her keeping.
 
-## ‘FIRST BLOOD’
+## “FIRST BLOOD”
 
 Titus, under the care of Nannie Slagg and Keda, developed hourly in the western wing. His weird little head had changed shape, from day to day as the heads of infants do, and at last settled to its own proportion. It was both long and of a bulk that promised to develop into something approaching the unique.
 
@@ -1279,7 +1279,7 @@ Great activity might have been observed in many of the rooms of Gormenghast as t
 
 Suddenly the door opened and Flay came in. He was wearing his long black moth-eaten suit, but there had been some attempt on his part at getting rid of the major stains and clipping the more ragged edges of cuff and trouser into straight raw lines. Over and above these improvements he wore around his neck a heavy chain of brass. In one hand he balanced, on a tray, a bowl of water. The negative dignity of the room threw him out in relief as a positive scarecrow. Of this he was quite unconscious. He had been helping to dress Lord Sepulchrave, and had made a rapid journey with the christening bowl as his lordship stood polishing his nails at the window of his bedroom, his toilet completed. The filling of the bowl and placing it on the central table in the cool room was his only duty, until the actual ceremony took place. Putting the bowl down unceremoniously on the table he scratched the back of his head and then drove his hands deep into his trouser pockets. It was some time since he was last in the Cool Room. It was not a room that he cared for. To his mind it was not a part of Gormenghast at all. With a gesture of defiance he shot his chin forward like a piece of machinery and began to pace around the room glancing malevolently at the flowers, when he heard a voice beyond the door, a thick, murderously unctuous voice.
 
-‘Woah, back there, woah! back there; watch your feet, my little rats’ eyes! To the *side*. To the *side*, or I’ll fillet you! Stand still! stand *still*! Merciful flesh that I should have to deal with puts!’
+“Woah, back there, woah! back there; watch your feet, my little rats’ eyes! To the *side*. To the *side*, or I’ll fillet you! Stand still! stand *still*! Merciful flesh that I should have to deal with puts!”
 
 The door knob moved and then the door began to open and Flay’s physical opposite began to appear around the opening. For some time, so it seemed to Flay, taut areas of cloth evolved in a great arc and then at last above them a head around the panels and the eyes embedded in that head concentrated their gaze upon Mr Flay.
 
@@ -1287,17 +1287,17 @@ Flay stiffened—if it is possible for something already as stiff as a piece of 
 
 Swelter, as soon as he saw who it was, stopped dead, and across his face little billows of flesh ran swiftly here and there until, as though they had determined to adhere to the same impulse, they swept up into both oceans of soft cheek, leaving between them a vacuum, a gaping segment like a slice cut from a melon. It was horrible. It was as though nature had lost control. As though the smile, as a concept, as a manifestation of pleasure, had been a mistake, for here on the face of Swelter the idea had been abused.
 
-A voice came out of the face: ‘Well, well, well,’ it said, ‘may I be boiled to a frazzle if it isn’t Mr Flee. The one and only Flee. Well, well, well. Here before me in the Cool Room. Dived through the keyhole, I do believe. Oh, my adorable lights and liver, if it isn’t the Flee itself.’
+A voice came out of the face: “Well, well, well,” it said, “may I be boiled to a frazzle if it isn’t Mr Flee. The one and only Flee. Well, well, well. Here before me in the Cool Room. Dived through the keyhole, I do believe. Oh, my adorable lights and liver, if it isn’t the Flee itself.”
 
 The line of Mr Flay’s mouth, always thin and hard, became even thinner as though scored with a needle. His eyes looked up and down the white mountain, crowned with its snowy, high cloth hat of office, for even the slovenly Swelter had dressed himself up for the occasion.
 
 Although Mr Flay had avoided the cook whenever possible, an occasional accidental meeting such as today’s was unavoidable, and from their chance meetings in the past Mr Flay had learned that the huge house of flesh before him, whatever its faults, had certainly a gift for sarcasm beyond the limits of his own taciturn nature. It had therefore been Mr Flay’s practice, whenever possible, to ignore the chef as one ignores a cesspool by the side of a road, and although his pride was wounded by Swelter’s mis-pronunciation of his name and the reference to his thinness, Flay held his spiky passions in control, merely striding to the doorway after his examination of the other’s bulk and spitting out of the bay window as though to clear his whole system of something noxious. Silent though he had learned by experience to be, each galling word from Swelter did not fail to add to the growing core of hatred that burned beneath his ribs.
 
-Swelter, as Mr Flay spat, had leaned back in his traces as though in mock alarm, his head folded back on his shoulders, and with an expression of comic concentration, had gazed alternately at Mr Flay and then out of the window several times. ‘Well, well, well,’ he said in his most provoking voice that seemed to seep out of dough—‘well, well, well—your accomplishments will never end. Baste me! Never. One lives and learns. By the little eel I skinned last Friday night, one lives and one learns.’ Wheeling round he presented his back to Mr Flay and bellowed, ‘Advance and make it sprightly! Advance the triumvirate, the little creatures who have wound themselves around my heart. Advance and be recognized.’
+Swelter, as Mr Flay spat, had leaned back in his traces as though in mock alarm, his head folded back on his shoulders, and with an expression of comic concentration, had gazed alternately at Mr Flay and then out of the window several times. “Well, well, well,” he said in his most provoking voice that seemed to seep out of dough—“well, well, well—your accomplishments will never end. Baste me! Never. One lives and learns. By the little eel I skinned last Friday night, one lives and one learns.” Wheeling round he presented his back to Mr Flay and bellowed, “Advance and make it sprightly! Advance the triumvirate, the little creatures who have wound themselves around my heart. Advance and be recognized.”
 
 Into the room filed three boys of about twelve years of age. They each carried a large tray stacked with delicacies.
 
-‘Mr Flee, I will introduce you,’ said Swelter, as the boys approached, glueing their frightened eyes on their precarious cargoes. ‘Mr Flee—Master Springers—Master Springers—Mr Flee. Mr Flee—Master Wrattle, Master Wrattle—Mr Flee. Mr Flee—Master Spurter, Master Spurter—Mr Flee. Flee—Springers—Flee—Wrattle—Flee—Spurter—Flee!’
+“Mr Flee, I will introduce you,” said Swelter, as the boys approached, glueing their frightened eyes on their precarious cargoes. “Mr Flee—Master Springers—Master Springers—Mr Flee. Mr Flee—Master Wrattle, Master Wrattle—Mr Flee. Mr Flee—Master Spurter, Master Spurter—Mr Flee. Flee—Springers—Flee—Wrattle—Flee—Spurter—Flee!”
 
 This was brought out with such a mixture of eloquence and impertinence that it was too much for Mr Flay. That he, the first servant of Gormenghast—Lord Sepulchrave’s confidant—should be introduced to Swelter’s ten-a-penny kitchen boys was trying him too hard, and as he suddenly strode past the chef towards the door (for he was in any event due back with his lordship), he pulled the chain over his head and slashed the heavy brass links across the face of his taunter. Before Swelter had recovered, Mr Flay was well on his way along the passages. The chef’s face had suffered a transformation. All the vast *media* of his head became, as clay becomes under the hand of the modeller, bent to the externalization of a passion. Upon it, written in letters of pulp, was spelt the word *revenge*. The eyes had almost instantly ceased to blaze and had become like little pieces of glass.
 
@@ -1317,71 +1317,71 @@ Swelter, who had managed to conceal the welts on his face by an admixture of flo
 
 All was ready. The participants in the ceremony would be arriving one by one, the less important entering first, until the penultimate entrance of the Countess harbingered a necessary piece of walking furniture, Nannie Slagg, who would be carrying in her arms a shawl-full of destiny—the Future of the Blood Line. A tiny weight that was Gormenghast, a Groan of the strict lineage—Titus, the Seventy-Seventh.
 
-## ‘ASSEMBLAGE’
+## “ASSEMBLAGE”
 
 First to arrive was the outsider—the commoner—who through his service to the family was honoured by a certain artificial equality of status, liable at any moment to be undermined—Doctor Prunesquallor.
 
 He entered fluttering his perfect hands, and, mincing to the table, rubbed them together at the level of his chin in a quick, animated way as his eyes travelled over the spread that lay before him.
 
-‘My very dear Swelter, ha, ha, may I offer you my congratulations, ha, ha, as a doctor who knows something of stomachs, my dear Swelter, something indeed of stomachs? Not only of stomachs but of palates, of tongues, and of the membrane, my dear man, that covers the roof of the mouth, and not only of the membrane that covers the roof of the mouth but of the sensitized nerve endings that I can positively assure you are tingling, my dear and very excellent Swelter, at the very thought of coming into contact with these delicious-looking oddments that you’ve no doubt tossed off at an odd moment, ha, ha, very, very likely I should say, oh yes, very, very likely.’
+“My very dear Swelter, ha, ha, may I offer you my congratulations, ha, ha, as a doctor who knows something of stomachs, my dear Swelter, something indeed of stomachs? Not only of stomachs but of palates, of tongues, and of the membrane, my dear man, that covers the roof of the mouth, and not only of the membrane that covers the roof of the mouth but of the sensitized nerve endings that I can positively assure you are tingling, my dear and very excellent Swelter, at the very thought of coming into contact with these delicious-looking oddments that you’ve no doubt tossed off at an odd moment, ha, ha, very, very likely I should say, oh yes, very, very likely.”
 
 Doctor Prunesquallor smiled and exhibited two brand new rows of gravestones between his lips, and darting his beautiful white hand forward with the little finger crooked to a right angle, he lifted a small emerald cake with a blob of cream atop of it, as neatly off the top of a plate of such trifles as though he were at home in his dissecting room and were removing some organ from a frog. But before he had got it to his mouth, a hissing note stopped him short. It came from Sourdust, and it caused the doctor to replace the green cake on the top of the pile even more swiftly than he had removed it. He had forgotten for the moment, or had pretended to forget, what a stickler for etiquette old Sourdust was. Until the Countess herself was in the room no eating could begin.
 
-‘Ha, ha, ha, ha, very very right and proper Mr Sourdust, very right and proper indeed’, said the doctor, winking at Swelter. The magnified appearance of his eyes gave this familiarity a peculiar unpleasantness. ‘Very, very right indeed. But that’s what this man Swelter does to one, with his irresistible little lumps of paradise—ha, ha, he makes one quite barbarian he does, don’t you Swelter? You barbarize one, ha, ha, don’t you? You positively barbarize one.’
+“Ha, ha, ha, ha, very very right and proper Mr Sourdust, very right and proper indeed”, said the doctor, winking at Swelter. The magnified appearance of his eyes gave this familiarity a peculiar unpleasantness. “Very, very right indeed. But that’s what this man Swelter does to one, with his irresistible little lumps of paradise—ha, ha, he makes one quite barbarian he does, don’t you Swelter? You barbarize one, ha, ha, don’t you? You positively barbarize one.”
 
 Swelter, who was in no mood for this sort of badinage, and in any case preferred to hold the floor if there was to be any eloquence, merely gave a mirthless twitch to his mouth and continued to stare out of the window. Sourdust was running his finger along a line in his book which he was re-reading, and Flay was a wooden effigy.
 
-Nothing, however, seemed to be able to keep the mercury out of Doctor Prunesquallor, and after looking quickly from face to face, he examined his finger-nails, one by one, with a ridiculous interest; and then turning suddenly from his task as he completed the scrutiny of the tenth nail, he skipped to the window, a performance grotesquely incongruous in one of his years, and leaning in an over-elegant posture against the window frame, he made that peculiarly effeminate gesture of the left hand that he was so fond of, the placing of the tips of thumb and index finger together, and thus forming an O, while the remaining three fingers were strained back and curled into letter C’s of dwindling sizes. His left elbow, bent acutely, brought his hand about a foot away from him and on a level with the flower in his buttonhole. His narrow chest, like a black tube, for he was dressed in a cloth of death’s colour, gave forth a series of those irritating laughs that can only be symbolized by ‘*ha, ha, ha*,’ but whose pitch scraped at the inner wall of the skull.
+Nothing, however, seemed to be able to keep the mercury out of Doctor Prunesquallor, and after looking quickly from face to face, he examined his finger-nails, one by one, with a ridiculous interest; and then turning suddenly from his task as he completed the scrutiny of the tenth nail, he skipped to the window, a performance grotesquely incongruous in one of his years, and leaning in an over-elegant posture against the window frame, he made that peculiarly effeminate gesture of the left hand that he was so fond of, the placing of the tips of thumb and index finger together, and thus forming an O, while the remaining three fingers were strained back and curled into letter C’s of dwindling sizes. His left elbow, bent acutely, brought his hand about a foot away from him and on a level with the flower in his buttonhole. His narrow chest, like a black tube, for he was dressed in a cloth of death’s colour, gave forth a series of those irritating laughs that can only be symbolized by “*ha, ha, ha*,” but whose pitch scraped at the inner wall of the skull.
 
-‘Cedars’, said Doctor Prunesquallor, squinting at the trees before him with his head tilted and his eyes half closed, ‘are excellent trees. Very, very excellent. I positively enjoy cedars, but do cedars positively enjoy me? Ha, ha—do they, my dear Mr Flay, do they?—or is this rather above you, my man, is my philosophy a trifle above you? For if I enjoy a cedar but a cedar does not, ha, ha, enjoy me, then surely I am at once in a position of compromise, being, as it were, ignored by the vegetable world, which would think twice, mark you, my dear fellow, would think twice about ignoring a cartload of mulch, ha, ha, or to put it in another way. . . .’
+“Cedars”, said Doctor Prunesquallor, squinting at the trees before him with his head tilted and his eyes half closed, “are excellent trees. Very, very excellent. I positively enjoy cedars, but do cedars positively enjoy me? Ha, ha—do they, my dear Mr Flay, do they?—or is this rather above you, my man, is my philosophy a trifle above you? For if I enjoy a cedar but a cedar does not, ha, ha, enjoy me, then surely I am at once in a position of compromise, being, as it were, ignored by the vegetable world, which would think twice, mark you, my dear fellow, would think twice about ignoring a cartload of mulch, ha, ha, or to put it in another way. . . .”
 
 But here Doctor Prunesquallor’s reflections were interrupted by the first of the family arrivals, the twin sisters, their ladyships Cora and Clarice. They opened the door very slowly and peered around it before advancing. It had been several months since they had ventured from their apartments and they were suspicious of everyone and of everything.
 
-Doctor Prunesquallor advanced at once from the window. ‘Your ladyships will forgive me, ha, ha, the presumption of receiving you into what is, ha, ha, after all more your own room than mine, ha, ha, ha, but which is nevertheless, I have reason to suspect, a little strange to you if I may be so extraordinarily flagrant; so ludicrously indiscreet, in fact . . .’
+Doctor Prunesquallor advanced at once from the window. “Your ladyships will forgive me, ha, ha, the presumption of receiving you into what is, ha, ha, after all more your own room than mine, ha, ha, ha, but which is nevertheless, I have reason to suspect, a little strange to you if I may be so extraordinarily flagrant; so ludicrously indiscreet, in fact . . .”
 
-‘It’s the doctor, my dear’, the lady Cora whispered flatly to her twin sister, interrupting Prunesquallor.
+“It’s the doctor, my dear”, the lady Cora whispered flatly to her twin sister, interrupting Prunesquallor.
 
 Lady Clarice merely stared at the thin gentleman in question until anyone but the doctor would have turned and fled.
 
-‘I know it is,’ she said at last. ‘What’s wrong with his eyes?’
+“I know it is,” she said at last. “What’s wrong with his eyes?”
 
-‘He’s got some disease of course, I suppose. Didn’t you know?’ replied Lady Cora.
+“He’s got some disease of course, I suppose. Didn’t you know?” replied Lady Cora.
 
 She and her sister were dressed in purple, with gold buckles at their throats by way of brooches, and another gold buckle each at the end of hatpins which they wore through their grey hair in order apparently to match their brooches. Their faces, identical to the point of indecency, were quite expressionless, as though they were the preliminary lay-outs for faces and were waiting for sentience to be injected.
 
-‘What are you doing here?’ said Cora, staring remorselessly.
+“What are you doing here?” said Cora, staring remorselessly.
 
-Doctor Prunesquallor bent forward towards her and showed her his teeth. Then he clasped his hands together. ‘I am privileged’, he said, ‘very, very much so, oh yes, very, very much.’
+Doctor Prunesquallor bent forward towards her and showed her his teeth. Then he clasped his hands together. “I am privileged”, he said, “very, very much so, oh yes, very, very much.”
 
-‘Why?’ said Lady Clarice. Her voice was so perfect a replica of her sister’s as might lead one to suppose that her vocal cords had been snipped from the same line of gut in those obscure regions where such creatures are compounded.
+“Why?” said Lady Clarice. Her voice was so perfect a replica of her sister’s as might lead one to suppose that her vocal cords had been snipped from the same line of gut in those obscure regions where such creatures are compounded.
 
 The sisters were now standing, one on either side of the doctor, and they stared up at him with an emptiness of expression that caused him to turn his eyes hurriedly to the ceiling, for he had switched them from one to the other for respite from either, but had found no relief. The white ceiling by contrast teemed with interest and he kept his eyes on it.
 
-‘Your ladyships,’ he said, ‘can it be that you are ignorant of the part I play in the social life of Gormenghast? I say the social life, but who, ha, ha, ha, who could gainsay me if I boast that it is more than the *social* life, ha, ha, ha, and is, my very dear ladyships, positively the organic life of the castle that I foster, and control, ha, ha, in the sense that, trained as I undoubtedly am in the science of this, that, and the other, ha, ha, ha, in connection with the whole anomatical caboodle from head to foot. I, as part of my work here, deliver the new generations to the old—the sinless to the sinful, ha, ha, ha, the stainless to the tarnished—oh dear me, the white to the black, the healthy to the diseased. And this ceremony today, my very dear ladyships, is a result of my professional adroitness, ha, ha, ha, on the occasion of a brand new Groan.’
+“Your ladyships,” he said, “can it be that you are ignorant of the part I play in the social life of Gormenghast? I say the social life, but who, ha, ha, ha, who could gainsay me if I boast that it is more than the *social* life, ha, ha, ha, and is, my very dear ladyships, positively the organic life of the castle that I foster, and control, ha, ha, in the sense that, trained as I undoubtedly am in the science of this, that, and the other, ha, ha, ha, in connection with the whole anomatical caboodle from head to foot. I, as part of my work here, deliver the new generations to the old—the sinless to the sinful, ha, ha, ha, the stainless to the tarnished—oh dear me, the white to the black, the healthy to the diseased. And this ceremony today, my very dear ladyships, is a result of my professional adroitness, ha, ha, ha, on the occasion of a brand new Groan.”
 
-‘What did you say?’ said Lady Clarice, who had been staring at him the whole time without moving a muscle.
+“What did you say?” said Lady Clarice, who had been staring at him the whole time without moving a muscle.
 
 Doctor Prunesquallor closed his eyes and kept them closed for a very long time. Then opening them he took a pace forward and breathed in as much as his narrow chest would allow. Then turning suddenly he wagged his finger at the two in purple.
 
-‘Your ladyships’, he said. ‘You must *listen*, you will never get on in life unless you *listen*.’
+“Your ladyships”, he said. “You must *listen*, you will never get on in life unless you *listen*.”
 
-‘Get *on* in life?’ said Lady Cora at once, ‘get *on* in life. I like that. What chance have we, when Gertrude has what we ought to have?’
+“Get *on* in life?” said Lady Cora at once, “get *on* in life. I like that. What chance have we, when Gertrude has what we ought to have?”
 
-‘Yes, yes,’ said the other, like a continuation of her sister’s voice in another part of the room. ‘We ought to have what she has.’
+“Yes, yes,” said the other, like a continuation of her sister’s voice in another part of the room. “We ought to have what she has.”
 
-‘And what is *that*, my very dear ladyships?’ queried Doctor Prunesquallor, tilting his head at them.
+“And what is *that*, my very dear ladyships?” queried Doctor Prunesquallor, tilting his head at them.
 
-‘Power’, they replied blankly and both together, as though they had rehearsed the scene. The utter tonelessness of their voices contrasted so incongruously with the gist of the subject that even Doctor Prunesquallor was for a moment taken aback and loosened his stiff white collar around his throat with his forefinger.
+“Power”, they replied blankly and both together, as though they had rehearsed the scene. The utter tonelessness of their voices contrasted so incongruously with the gist of the subject that even Doctor Prunesquallor was for a moment taken aback and loosened his stiff white collar around his throat with his forefinger.
 
-‘It’s power we want’, Lady Clarice repeated. ‘We’d like to have that.’
+“It’s power we want”, Lady Clarice repeated. “We’d like to have that.”
 
-‘Yes, it’s that we want,’ echoed Cora, ‘lots of power. Then we could make people do things’, said the voice.
+“Yes, it’s that we want,” echoed Cora, “lots of power. Then we could make people do things”, said the voice.
 
-‘But Gertrude has all the power’, came the echo, ‘which we ought to have but which we haven’t got.’
+“But Gertrude has all the power”, came the echo, “which we ought to have but which we haven’t got.”
 
 Then they stared at Swelter, Sourdust and Flay in turn.
 
-‘*They* have to be here, I suppose?’ said Cora, pointing at them before returning her gaze to Doctor Prunesquallor, who had reverted to examining the ceiling. But before he could reply the door opened and Fuchsia came in, dressed in white.
+“*They* have to be here, I suppose?” said Cora, pointing at them before returning her gaze to Doctor Prunesquallor, who had reverted to examining the ceiling. But before he could reply the door opened and Fuchsia came in, dressed in white.
 
 Twelve days had elapsed since she had discovered that she was no longer the only child. She had steadily refused to see her brother and today for the first time she would be obliged to be with him. Her first anguish, inexplicable to herself, had dulled to a grudging acceptance. For what reason she did not know, but her grief had been very real. She did not know what it was that she resented.
 
@@ -1391,45 +1391,45 @@ The sunlight on the lawns and the flowers in the vases and the room itself had s
 
 Fuchsia came in with her eyes red from crying. She curtseyed awkwardly to her mother’s cousins and then sat down in a far corner, but she was almost at once forced to regain her feet, for her father, followed closely by the Countess, entered and walked slowly to the centre of the room.
 
-Without a word of warning Sourdust rapped his knuckles on the table and cried out with his old voice: ‘All are gathered save only him, for whom this gathering is gathered. All are here save only he for whom we all are here. Form now before the table of his baptism in the array of waiting, while I pronounce the entrance of Life’s enterer and of the Groan inheritor, of Gormenghast’s untarnished child-shaped mirror.’
+Without a word of warning Sourdust rapped his knuckles on the table and cried out with his old voice: “All are gathered save only him, for whom this gathering is gathered. All are here save only he for whom we all are here. Form now before the table of his baptism in the array of waiting, while I pronounce the entrance of Life’s enterer and of the Groan inheritor, of Gormenghast’s untarnished child-shaped mirror.”
 
 Sourdust coughed in a very ill way and put his hand to his chest. He glanced down at the book and ran his finger along a new line. Then he tottered around the table, his knotted grey-and-white beard swinging a little from side to side, and ushered the five into a semi-circle around the table, with their backs to the window. In the centre were the Countess and Lord Sepulchrave, Fuchsia was to her father’s left and Doctor Prunesquallor on the right of Lady Groan, but a little behind the semi-circle. The twin sisters were separated, one standing at either extremity of the arc. Flay and Swelter had retreated a few paces backwards and stood quite still. Flay bit at his knuckles.
 
 Sourdust returned to his position behind the table which he held alone, and was relatively more impressive now that the crag of Flay and the mound of Swelter no longer dwarfed him. He lifted his voice again, but it was hard for him to speak, for there were tears in his throat and the magnitude of his office weighed heavily on him. As a savant in the Groan lore he knew himself to be spiritually responsible for the correct procedure. Moments such as this were the highlights in the ritualistic cycle of his life.
 
-‘Suns and the changing of the seasonal moons; the leaves from trees that cannot keep their leaves, and the fish from olive waters have their voices!’
+“Suns and the changing of the seasonal moons; the leaves from trees that cannot keep their leaves, and the fish from olive waters have their voices!”
 
 His hands were held before him as though in prayer, and his wrinkled head was startlingly apparent in the clear light of the room. His voice grew stronger.
 
-‘Stones have their voices and the quills of birds; the anger of the thorns, the wounded spirits, the antlers, ribs that curve, bread, tears and needles. Blunt boulders and the silence of cold marshes—these have their voices—the insurgent clouds, the cockerel and the worm.’
+“Stones have their voices and the quills of birds; the anger of the thorns, the wounded spirits, the antlers, ribs that curve, bread, tears and needles. Blunt boulders and the silence of cold marshes—these have their voices—the insurgent clouds, the cockerel and the worm.”
 
 Sourdust bent down over his book and found the place with his finger and then turned the page.
 
-‘Voices that grind at night from lungs of granite. Lungs of blue air and the white lungs of rivers. All voices haunt all moments of all days; all voices fill the crannies of all regions. Voices that he shall hear when he has listened, and when his ear is tuned to Gormenghast; whose voice is endlessness of endlessness. This is the ancient sound that he must follow. The voice of stones heaped up into grey towers, until he dies across the Groan’s death-turret. And banners are ripped down from wall and buttress and he is carried to the Tower of Towers and laid among the moulderings of his fathers.’
+“Voices that grind at night from lungs of granite. Lungs of blue air and the white lungs of rivers. All voices haunt all moments of all days; all voices fill the crannies of all regions. Voices that he shall hear when he has listened, and when his ear is tuned to Gormenghast; whose voice is endlessness of endlessness. This is the ancient sound that he must follow. The voice of stones heaped up into grey towers, until he dies across the Groan’s death-turret. And banners are ripped down from wall and buttress and he is carried to the Tower of Towers and laid among the moulderings of his fathers.”
 
-‘How much more is there?’ said the Countess. She had been listening less attentively than the occasion merited and was feeding with crumbs from a pocket in her dress a grey bird on her shoulder.
+“How much more is there?” said the Countess. She had been listening less attentively than the occasion merited and was feeding with crumbs from a pocket in her dress a grey bird on her shoulder.
 
 Sourdust looked up from his book at Lady Groan’s question. His eyes grew misty for he was pained by the irritation in her voice.
 
-‘The ancient word of the twelfth lord is complete, your ladyship’, he said, his eyes on the book.
+“The ancient word of the twelfth lord is complete, your ladyship”, he said, his eyes on the book.
 
-‘Good’, said Lady Groan. ‘What now?’
+“Good”, said Lady Groan. “What now?”
 
-‘We turn about, I think, and look out on the garden’, said Clarice vaguely, ‘don’t we, Cora? You remember just before baby Fuchsia was carried in, we all turned round and looked at the garden through the window. I’m sure we did—long ago.’
+“We turn about, I think, and look out on the garden”, said Clarice vaguely, “don’t we, Cora? You remember just before baby Fuchsia was carried in, we all turned round and looked at the garden through the window. I’m sure we did—long ago.”
 
-‘Where have you been since then?’ said Lady Groan, suddenly addressing her sisters-in-law and staring at them one after the other. Her dark-red hair was beginning to come loose over her neck, and the bird had scarred with its feet the soft inky-black pile of her velvet dress so that it looked ragged and grey at her shoulder.
+“Where have you been since then?” said Lady Groan, suddenly addressing her sisters-in-law and staring at them one after the other. Her dark-red hair was beginning to come loose over her neck, and the bird had scarred with its feet the soft inky-black pile of her velvet dress so that it looked ragged and grey at her shoulder.
 
-‘We’ve been in the south wing all the time, Gertrude’, replied Cora.
+“We’ve been in the south wing all the time, Gertrude”, replied Cora.
 
-‘That’s where we’ve been’, said Clarice. ‘In the south wing all the time.’
+“That’s where we’ve been”, said Clarice. “In the south wing all the time.”
 
-Lady Groan emptied a look of love across her left shoulder, and the grey bird that stood there with its head beneath its wing moved three quick steps nearer to her throat. Then she turned her eyes upon her sisters-in-law: ‘Doing what?’ she said.
+Lady Groan emptied a look of love across her left shoulder, and the grey bird that stood there with its head beneath its wing moved three quick steps nearer to her throat. Then she turned her eyes upon her sisters-in-law: “Doing what?” she said.
 
-‘Thinking’, said the twins together, ‘that’s what we’ve been doing—thinking a lot.’
+“Thinking”, said the twins together, “that’s what we’ve been doing—thinking a lot.”
 
 A high uncontrolled laugh broke out from slightly behind the Countess. Doctor Prunesquallor had disgraced himself. It was no time for him to emphasize his presence. He was there on sufferance, but a violent rapping on the table saved him and all attention was turned to Sourdust.
 
-‘Your lordship’, said Sourdust slowly, ‘as the seventy-sixth Earl of Groan and Lord of Gormenghast, it is written in the laws that you do now proceed to the doorway of the Christening Room and call for your son along the empty passage.’
+“Your lordship”, said Sourdust slowly, “as the seventy-sixth Earl of Groan and Lord of Gormenghast, it is written in the laws that you do now proceed to the doorway of the Christening Room and call for your son along the empty passage.”
 
 Lord Sepulchrave, who up to this moment, had, like his daughter beside him, remained perfectly still and silent, his melancholy eyes fixed upon the dirty vest of his servant Flay which he could just see over the table, turned towards the door, and on reaching it, coughed to clear his throat.
 
@@ -1439,9 +1439,9 @@ Sourdust, in his anxiety to witness a perfect piece of traditional procedure, wa
 
 Meanwhile, hiding behind a turn in the passage, Nannie Slagg, with Titus in her arms, was being soothed by Keda as she waited for her call.
 
-‘Now, now be quiet, Mrs Slagg, be quiet and it will be over soon’, said Keda to the little shaking thing that was dressed up in the shiniest of dark-green satin and upon whose head the grape hat arose in magnificent misproportion to her tiny face.
+“Now, now be quiet, Mrs Slagg, be quiet and it will be over soon”, said Keda to the little shaking thing that was dressed up in the shiniest of dark-green satin and upon whose head the grape hat arose in magnificent misproportion to her tiny face.
 
-‘Be quiet, indeed’, said Nannie Slagg in a thin animated voice. ‘If you only knew what it means to be in such a position of honour—oh, my poor heart! You would not dare to try to make me quiet indeed! I have never heard such ignorance. Why is he so long? Isn’t it time for him to call me? And the precious thing so quiet and good and ready to cry any minute—oh, my poor heart! Why is he so long? Brush my dress again.’
+“Be quiet, indeed”, said Nannie Slagg in a thin animated voice. “If you only knew what it means to be in such a position of honour—oh, my poor heart! You would not dare to try to make me quiet indeed! I have never heard such ignorance. Why is he so long? Isn’t it time for him to call me? And the precious thing so quiet and good and ready to cry any minute—oh, my poor heart! Why is he so long? Brush my dress again.”
 
 Keda, who had been commanded to bring a soft brush with her, would have been brushing Nannie’s satin dress for practically the whole morning had the old nurse had her way. She was now instructed by an irritable gesture of Mrs Slagg’s hand to brush her anew and to soothe the old woman she complied with a few strokes.
 
@@ -1455,21 +1455,21 @@ These three sere beings at the shadowy corner waited on. Nannie was sixty-nine, 
 
 Lord Sepulchrave had cleared his throat. Then he called:
 
-‘My Son.’
+“My Son.”
 
-## ‘TITUS IS CHRISTENED’
+## “TITUS IS CHRISTENED”
 
 His voice moved down the corridor and turned about the stone corner, and when he first heard the sound of Mrs Slagg’s excited footsteps he continued with that part of the procedure which Sourdust had recited to him over their breakfast for the last three mornings.
 
 Ideally, the length of time which it took him to complete the speech should have coincided with the time it took Nannie Slagg to reach the door of the Cool Room from the darkened corner.
 
-‘Inheritor of the powers I hold,’ came his brooding voice from the doorway, ‘continuer of the blood-stock of the stones, freshet of the unending river, approach me now. I, a mere link in the dynastic chain, adjure you to advance, as a white bird on iron skies through walls of solemn cloud. Approach now to the bowl, where, named and fêted, you shall be consecrate in Gormenghast. Child! Welcome!’
+“Inheritor of the powers I hold,” came his brooding voice from the doorway, “continuer of the blood-stock of the stones, freshet of the unending river, approach me now. I, a mere link in the dynastic chain, adjure you to advance, as a white bird on iron skies through walls of solemn cloud. Approach now to the bowl, where, named and fêted, you shall be consecrate in Gormenghast. Child! Welcome!”
 
-Unfortunately Nannie, having tripped over a loose flagstone, was ten feet away at the word ‘Welcome’ and Sourdust, upon whose massive forehead a few beads of perspiration had suddenly appeared, felt the three long seconds pass with a ghastly slowness before she appeared at the door of the room. Immediately before she had left the corner Keda had placed the little iron crown gently on the infant’s head to Nannie’s satisfaction, and the two of them as they appeared before the assembly made up for their three seconds’ tardiness by a preposterous quality that was in perfect harmony with the situation.
+Unfortunately Nannie, having tripped over a loose flagstone, was ten feet away at the word “Welcome” and Sourdust, upon whose massive forehead a few beads of perspiration had suddenly appeared, felt the three long seconds pass with a ghastly slowness before she appeared at the door of the room. Immediately before she had left the corner Keda had placed the little iron crown gently on the infant’s head to Nannie’s satisfaction, and the two of them as they appeared before the assembly made up for their three seconds’ tardiness by a preposterous quality that was in perfect harmony with the situation.
 
 Sourdust felt satisfied as he saw them, and their delay that had rankled was forgotten. He approached Mrs Slagg carrying his great book with him, and when he had reached them he opened the volume so that it fell apart in two equal halves and then, extending it forward towards Nannie Slagg, he said:
 
-‘It is written, and the writing is adhered to, that between these pages where the flax is grey with wisdom, the firstborn male-child of the House of Groan shall be lowered and laid lengthways, his head directed to the christening bowl, and that the pages that are heavy with words shall be bent in and over him, so that he is engulfed in the sere Text encircled with the Profound, and is as one with the inviolable Law.’
+“It is written, and the writing is adhered to, that between these pages where the flax is grey with wisdom, the firstborn male-child of the House of Groan shall be lowered and laid lengthways, his head directed to the christening bowl, and that the pages that are heavy with words shall be bent in and over him, so that he is engulfed in the sere Text encircled with the Profound, and is as one with the inviolable Law.”
 
 Nannie Slagg, an inane expression of importance on her face, lowered Titus within the obtuse V shape of the half-opened book so that the crown of his head just overlapped the spine of the volume at Sourdust’s end and his feet at Mrs Slagg’s.
 
@@ -1481,57 +1481,57 @@ He could not rub his eyes, and free his vision, for his hands were occupied, so 
 
 Fuchsia, in spite of knowing that she should remain where she was, had joined Nannie Slagg. She had been irritated by an attempt that Clarice had made to nudge her in a furtive way whenever she thought that no one was watching.
 
-‘You never come to see me although you’re a relation, but that’s because I don’t want you to come and never ask you’, her aunt had said, and had then peered round to see whether she was being watched, and noticing that Gertrude was in a kind of enormous trance, she continued:
+“You never come to see me although you’re a relation, but that’s because I don’t want you to come and never ask you”, her aunt had said, and had then peered round to see whether she was being watched, and noticing that Gertrude was in a kind of enormous trance, she continued:
 
-‘You see, my poor child, I and my sister Cora are a good deal older than you and we both had convulsions when we were about your age. You may have noticed that our left arms are rather stiff and our left legs, too. That’s not our fault.’
+“You see, my poor child, I and my sister Cora are a good deal older than you and we both had convulsions when we were about your age. You may have noticed that our left arms are rather stiff and our left legs, too. That’s not our fault.”
 
-Her sister’s voice came from the other side of the semi-circle of figures in a hoarse flat whisper, as though it was trying to reach the ears of Fuchsia without making contact with the row of ears that lay between. ‘Not our fault at all’, she said, ‘not a bit our fault. Not any of it.’
+Her sister’s voice came from the other side of the semi-circle of figures in a hoarse flat whisper, as though it was trying to reach the ears of Fuchsia without making contact with the row of ears that lay between. “Not our fault at all”, she said, “not a bit our fault. Not any of it.”
 
-‘The epileptic fits, my poor child’, continued Cora, after nodding at her sister’s interruption, ‘have left us practically starved all down the right side. Practically starved. We had these fits you see.’
+“The epileptic fits, my poor child”, continued Cora, after nodding at her sister’s interruption, “have left us practically starved all down the right side. Practically starved. We had these fits you see.”
 
-‘When we were about your age’, came the empty echo.
+“When we were about your age”, came the empty echo.
 
-‘Yes, just about your age,’ said Cora, ‘and being practically starved all down the right side we have to do our embroidered tapestries with one hand.’
+“Yes, just about your age,” said Cora, “and being practically starved all down the right side we have to do our embroidered tapestries with one hand.”
 
-‘Only one hand’, said Clarice. ‘It’s very clever of us. But no one sees us.’
+“Only one hand”, said Clarice. “It’s very clever of us. But no one sees us.”
 
 She leaned forward as she wedged in this remark, forcing it upon Fuchsia as though the whole future of Gormenghast hung upon it.
 
 Fuchsia fiddled and wound her hair round her fingers savagely.
 
-‘Don’t do that’, said Cora. ‘Your hair is too black. Don’t do that.’
+“Don’t do that”, said Cora. “Your hair is too black. Don’t do that.”
 
-‘Much too black’, came the flat echo.
+“Much too black”, came the flat echo.
 
-‘Especially when your dress is so white.’
+“Especially when your dress is so white.”
 
-Cora bent forward from her hips so that her face was within a foot of Fuchsia’s. Then with only her eyes turned away, but her face broadside on to her niece, ‘We don’t *like* your mother’, she said.
+Cora bent forward from her hips so that her face was within a foot of Fuchsia’s. Then with only her eyes turned away, but her face broadside on to her niece, “We don’t *like* your mother”, she said.
 
-Fuchsia was startled. Then she heard the same voice from the other side, ‘That’s true,’ said the voice, ‘we don’t.’
+Fuchsia was startled. Then she heard the same voice from the other side, “That’s true,” said the voice, “we don’t.”
 
 Fuchsia turned suddenly, swinging her inky bulk of hair. Cora had disobeyed all the rules and unable to be so far from the conversation had moved like a sleep-walker round the back of the group, keeping an eye on the black-velvet mass of the Countess.
 
 But she was doomed to disappointment, for as soon as she arrived, Fuchsia, glancing around wildly, caught sight of Mrs Slagg and she mooched away from her cousins and watched the ceremony at the table where Sourdust held her brother in the leaves of the book. As soon as Nannie was unburdened of Titus Fuchsia went to her side, and held her thin green-satin arm. Sourdust had reached the table with Lord Sepulchrave behind him. He re-instated himself. But his pleasure at the way things were proceeding was suddenly disrupted when his eyes, having cleared themselves of the haze, encountered no ceremonial curve of the select, but a room of scattered individuals. He was shocked. The only persons in alignment were the Countess, who through no sense of obedience, but rather from a kind of coma, was in the same position in which she had first anchored herself, and her husband who had returned to her side. Sourdust hobbled round the table with the tome-full. Cora and Clarice were standing close together, their bodies facing each other but their heads staring in Fuchsia’s direction. Mrs Slagg and Fuchsia were together and Prunesquallor, on tip-toe, was peering at the stamen of a white flower in a vase through a magnifying lens he had whipped from his pocket. There was no need for him to be on tip-toe for it was neither a tall table nor a tall vase nor indeed a tall flower. But the attitude which pleased him most when peering at flowers was one in which the body was bent over the petals in an elegant curve.
 
-Sourdust was shocked. His mouth worked at the corners. His old, fissured face became a fantastic area of cross-hatching and his weak eyes grew desperate. Attempting to lower the heavy volume to the table before the christening bowl where a space had been left for it, his fingers grew numb and lost their grip on the leather and the book slid from his hands, Titus slipping through the pages to the ground and tearing as he did so a corner from the leaf in which he had lain sheathed, for his little hand had clutched at it as he had fallen. This was his first recorded act of blasphemy. He had violated the Book of Baptism. The metal crown fell from his head. Nannie Slagg clutched Fuchsia’s arm, and then with a scream of ‘Oh my poor heart!’ stumbled to where the baby lay crying piteously on the floor.
+Sourdust was shocked. His mouth worked at the corners. His old, fissured face became a fantastic area of cross-hatching and his weak eyes grew desperate. Attempting to lower the heavy volume to the table before the christening bowl where a space had been left for it, his fingers grew numb and lost their grip on the leather and the book slid from his hands, Titus slipping through the pages to the ground and tearing as he did so a corner from the leaf in which he had lain sheathed, for his little hand had clutched at it as he had fallen. This was his first recorded act of blasphemy. He had violated the Book of Baptism. The metal crown fell from his head. Nannie Slagg clutched Fuchsia’s arm, and then with a scream of “Oh my poor heart!” stumbled to where the baby lay crying piteously on the floor.
 
 Sourdust was trying to tear the sacking of his clothes and moaning with impotence as he strained with his old fingers. He was in torture. Doctor Prunesquallor’s white knuckles had travelled to his mouth with amazing speed, and he stood swaying a little. He had turned a moment later to Lady Groan.
 
-‘They resemble rubber, your ladyship, ha, ha, ha, ha. Just a core of india-rubber, with an elastic centre. Oh yes, they are. Very, very much so. Resilience is no word for it. Ha, ha, ha, absolutely no word for it—oh dear me, no. Every ounce, a bounce, ha, ha, ha! Every ounce, a bounce.’
+“They resemble rubber, your ladyship, ha, ha, ha, ha. Just a core of india-rubber, with an elastic centre. Oh yes, they are. Very, very much so. Resilience is no word for it. Ha, ha, ha, absolutely no word for it—oh dear me, no. Every ounce, a bounce, ha, ha, ha! Every ounce, a bounce.”
 
-‘What are you talking about man!’ said the Countess.
+“What are you talking about man!” said the Countess.
 
-‘I was referring to your child, who has just fallen on the floor.’
+“I was referring to your child, who has just fallen on the floor.”
 
-‘Fallen?’ queried the Countess in a gruff voice. ‘Where?’
+“Fallen?” queried the Countess in a gruff voice. “Where?”
 
-‘To earth, your ladyship, ha, ha, ha. Fallen positively to earth. Earth, that is, with a veneer or two of stone, wood and carpet, in between its barbaric self and his minute lordship whom you can no doubt hear screaming.’
+“To earth, your ladyship, ha, ha, ha. Fallen positively to earth. Earth, that is, with a veneer or two of stone, wood and carpet, in between its barbaric self and his minute lordship whom you can no doubt hear screaming.”
 
-‘So that’s what it is,’ said Lady Groan, from whose mouth, which was shaped as though she were whistling, the grey bird was picking a morsel of dry cake.
+“So that’s what it is,” said Lady Groan, from whose mouth, which was shaped as though she were whistling, the grey bird was picking a morsel of dry cake.
 
-‘Yes’, said Cora on her right, who had run up to her directly the baby had fallen and was staring up at her sister-in-law’s face. ‘Yes, that’s what it is.’
+“Yes”, said Cora on her right, who had run up to her directly the baby had fallen and was staring up at her sister-in-law’s face. “Yes, that’s what it is.”
 
-Clarice, who had appeared on the other side in a reverse of her sister’s position, confirmed her sister’s interpretation, ‘that’s just what it is.’
+Clarice, who had appeared on the other side in a reverse of her sister’s position, confirmed her sister’s interpretation, “that’s just what it is.”
 
 Then they both peered around the edge of the Countess and caught each other’s eyes knowingly.
 
@@ -1543,27 +1543,27 @@ Fuchsia, watching her mother, felt in spite of herself a quickening of something
 
 The Countess held Titus up into the sunlight of the window and examined his face, making noises in her cheek to the grey bird as she did so. Then she turned him around and examined the back of his head for some considerable time.
 
-‘Bring the crown’, she said.
+“Bring the crown”, she said.
 
 Doctor Prunesquallor came up with his elbows raised and the fingers of both hands splayed out, the metal crown poised between them. His eyes rolled behind his lenses.
 
-‘Shall I crown him in the sunlight? ha, he, ha. Positively crown him’, he said, and showed the Countess the same series of uncompromising teeth that he had honoured Cora with several minutes before.
+“Shall I crown him in the sunlight? ha, he, ha. Positively crown him”, he said, and showed the Countess the same series of uncompromising teeth that he had honoured Cora with several minutes before.
 
 Titus had stopped crying and in his mother’s prodigious arms looked unbelievably tiny. He had not been hurt, but frightened by his fall. Only a sob or two survived and shook him every few seconds.
 
-‘Put it on his head,’ said the Countess. Doctor Prunesquallor bent forward from the hips in a straight oblique line. His legs looked so thin in their black casing that when a small breath of wind blew from the garden it seemed that the material was blown inwards beyond that part where his shin bones should have been. He lowered the crown upon the little white potato of a head.
+“Put it on his head,” said the Countess. Doctor Prunesquallor bent forward from the hips in a straight oblique line. His legs looked so thin in their black casing that when a small breath of wind blew from the garden it seemed that the material was blown inwards beyond that part where his shin bones should have been. He lowered the crown upon the little white potato of a head.
 
-‘Sourdust’, she said without turning round, ‘come here.’
+“Sourdust”, she said without turning round, “come here.”
 
 Sourdust lifted his head. He had recovered the book from the floor and was fitting the torn piece of paper into position on the corner of the torn page, and smoothing it out shakily with his forefinger.
 
-‘Come along, come along now!’ said the Countess.
+“Come along, come along now!” said the Countess.
 
 He came around the corner of the table and stood before her.
 
-‘We’ll go for a walk, Sourdust, on the lawn and then you can finish the christening. Hold yourself still, man’, she said. ‘Stop rattling.’
+“We’ll go for a walk, Sourdust, on the lawn and then you can finish the christening. Hold yourself still, man”, she said. “Stop rattling.”
 
-Sourdust bowed, and feeling that to interrupt a christening of the direct heir in this way was sacrilege, followed her out of the window, while she called out over her shoulder, ‘all of you! all of you! servants as well!’
+Sourdust bowed, and feeling that to interrupt a christening of the direct heir in this way was sacrilege, followed her out of the window, while she called out over her shoulder, “all of you! all of you! servants as well!”
 
 They all came out and each choosing their parallel shades of the mown grass that converged in the distance in perfectly straight lines of green, walked abreast and silently thus, up and down, for forty minutes.
 
@@ -1579,11 +1579,11 @@ Signalling them to their stations he placed his hands upon the torn volume with 
 
 Titus had been replaced in the Book and Sourdust lowered him carefully to the table.
 
-‘I place thee, Child-Inheritor,’ he said, continuing from where he had been interrupted by the age of his fingers, ‘Child-Inheritor of the rivers, of the Tower of Flints and the dark recesses beneath cold stairways and the sunny summer lawns. Child-Inheritor of the spring breezes that blow in from the jarl forests and of the autumn misery in petal, scale, and wing. Winter’s white brilliance on a thousand turrets and summer’s torpor among walls that crumble—listen. Listen with the humility of princes and understand with the understanding of the ants. Listen, Child-Inheritor, and wonder. Digest what I now say.’
+“I place thee, Child-Inheritor,” he said, continuing from where he had been interrupted by the age of his fingers, “Child-Inheritor of the rivers, of the Tower of Flints and the dark recesses beneath cold stairways and the sunny summer lawns. Child-Inheritor of the spring breezes that blow in from the jarl forests and of the autumn misery in petal, scale, and wing. Winter’s white brilliance on a thousand turrets and summer’s torpor among walls that crumble—listen. Listen with the humility of princes and understand with the understanding of the ants. Listen, Child-Inheritor, and wonder. Digest what I now say.”
 
 Sourdust then handed Titus over the table to his mother, and cupping his hand, dipped it in the christening bowl. Then, his hand and wrist dripping, he let the water trickle through his fingers and on to the baby’s head where the crown left, between its prongs, an oval area of bone-forced skin.
 
-‘Your name is TITUS’, said Sourdust very simply, ‘TITUS the seventy-seventh Earl of Groan and Lord of Gormenghast. I do adjure you hold each cold stone sacred that clings to these, your grey ancestral walls. I do adjure you hold the dark soil sacred that nourishes your high leaf-burdened trees. I do adjure you hold the tenets sacred that ramify the creeds of Gormenghast. I dedicate you to your father’s castle. Titus, be true.’
+“Your name is TITUS”, said Sourdust very simply, “TITUS the seventy-seventh Earl of Groan and Lord of Gormenghast. I do adjure you hold each cold stone sacred that clings to these, your grey ancestral walls. I do adjure you hold the dark soil sacred that nourishes your high leaf-burdened trees. I do adjure you hold the tenets sacred that ramify the creeds of Gormenghast. I dedicate you to your father’s castle. Titus, be true.”
 
 Titus was handed back to Sourdust, who passed him to Nannie Slagg. The room was delicious with the cool scent of flowers. As Sourdust gave the sign, after a few minutes of meditation, that feeding might begin, Swelter came forward balancing four plates of delicacies on each of his forearms and with a plate in either hand went the rounds. Then he poured out glasses of wine, while Flay followed Lord Sepulchrave around like a shadow. None of the company attempted to make conversation, but stood silently eating or drinking in different parts of the room, or stood at the bay window, munching or sipping as they stared across the spreading lawns. Only the twins sat in a corner of the room and made signs to Swelter when they had finished what was on their plates. The afternoon would be for them the theme for excited reminiscence for many a long day. Lord Sepulchrave touched nothing as the delicacies were passed round, and when Swelter approached him with a salver of toasted larks, Flay motioned him away peremptorily, and noticing as he did so the evil expression in the chefs pig-like eyes, he drew his bony shoulders up to his ears.
 
@@ -1591,19 +1591,19 @@ As the time moved on Sourdust began to grow more and more conscious of his respo
 
 It was then for the assembled company to gather in the centre of the room and for one after another to pass Sourdust and Mrs Slagg, who, with Titus on her lap, was to be stationed at his side.
 
-These positions were duly taken up, and the first to walk forward to the door was Lord Sepulchrave, who lifted his melancholy head in the air, and, as he passed his son spoke the one word ‘Titus’ in a solemn, abstracted voice. The Countess shambled after him voluminously and bellowed ‘TITUS’ at the wrinkled infant.
+These positions were duly taken up, and the first to walk forward to the door was Lord Sepulchrave, who lifted his melancholy head in the air, and, as he passed his son spoke the one word “Titus” in a solemn, abstracted voice. The Countess shambled after him voluminously and bellowed “TITUS” at the wrinkled infant.
 
-Each in turn followed: the twins confusing each other in their efforts to get the first word in, the doctor brandishing his teeth at the word ‘Titus’ as though it were the signal for some romantic advance of sabred cavalry. Fuchsia felt embarrassed and stared at the prongs of her little brother’s crown.
+Each in turn followed: the twins confusing each other in their efforts to get the first word in, the doctor brandishing his teeth at the word “Titus” as though it were the signal for some romantic advance of sabred cavalry. Fuchsia felt embarrassed and stared at the prongs of her little brother’s crown.
 
-At last they had all passed by, delivering with their own peculiar intonations the final word ‘Titus’ as they reared their heads up, and Mrs Slagg was left alone, for even Sourdust had left her and followed in the wake of Mr Flay.
+At last they had all passed by, delivering with their own peculiar intonations the final word “Titus” as they reared their heads up, and Mrs Slagg was left alone, for even Sourdust had left her and followed in the wake of Mr Flay.
 
 Now that she was left by herself in the Cool Room Mrs Slagg stared about her nervously at the emptiness and at the sunlight pouring through the great bay window.
 
-Suddenly she began to cry with fatigue and excitement and from the shock she had received when the Countess had bellowed at his little lordship and herself. A shrunken, pathetic creature she looked in the high chair with the crowned doll in her arms. Her green satin gleamed mockingly in the afternoon light. ‘Oh, my weak heart,’ she sobbed, the tears crawling down the dry, pear-skin wrinkles of her miniature face—‘my poor, poor heart—as though it were a crime to love him.’ She pressed the baby’s face against her wet cheek. Her eyes were clenched and the moisture clung to her lashes, and as her lips quivered, Fuchsia stole back and knelt down, putting her strong arms around her old nurse and her brother.
+Suddenly she began to cry with fatigue and excitement and from the shock she had received when the Countess had bellowed at his little lordship and herself. A shrunken, pathetic creature she looked in the high chair with the crowned doll in her arms. Her green satin gleamed mockingly in the afternoon light. “Oh, my weak heart,” she sobbed, the tears crawling down the dry, pear-skin wrinkles of her miniature face—“my poor, poor heart—as though it were a crime to love him.” She pressed the baby’s face against her wet cheek. Her eyes were clenched and the moisture clung to her lashes, and as her lips quivered, Fuchsia stole back and knelt down, putting her strong arms around her old nurse and her brother.
 
 Mrs Slagg opened her bloodshot eyes and leaned forward, the three of them coming together into a compact volume of sympathy.
 
-‘I *love* you—’, whispered Fuchsia, lifting her sullen eyes. ‘I love you, I love you’, then turning her head to the door—‘you’ve made her cry’, she shouted, as though addressing the string of figures who had so recently passed through—‘you’ve made her cry, you beasts!’
+“I *love* you—”, whispered Fuchsia, lifting her sullen eyes. “I love you, I love you”, then turning her head to the door—“you’ve made her cry”, she shouted, as though addressing the string of figures who had so recently passed through—“you’ve made her cry, you beasts!”
 
 ## MEANS OF ESCAPE
 
@@ -1635,7 +1635,7 @@ Again he fastened his gaze upon the first dozen feet of vertical stone, choosing
 
 Suddenly, sitting on the floor, he removed his boots and tied them by their laces about his neck. Then he rammed his socks into his pockets and stood up. Standing on tip-toe in the middle of the room he splayed his toes out and felt them tingle with awareness, and then he pulled his fingers sideways cruelly, awakening his hands. There was nothing to wait for. He knelt on the window-sill and then, turning around, slowly raised himself to his feet and stood outside the window, the hollow twilight at his shoulder-blades.
 
-## ‘A FIELD OF FLAGSTONES’
+## “A FIELD OF FLAGSTONES”
 
 He refused to allow himself to think of the sickening drop and glued his eyes upon the first of the grips. His left hand clasped the lintel as he felt out with his right foot and curled his toes around a rough corner of stone. Almost at once he began to sweat. His fingers crept up and found a cranny he had scrutinized at leisure. Biting his underlip until it bled freely over his chin, he moved his left knee up the surface of the wall. It took him perhaps seventeen minutes by the clock, but by the time of his beating heart he was all evening upon the swaying wall. At moments he would make up his mind to have done with the whole thing, life and all, and to drop back into space, where his straining and sickness would end. At other moments, as he clung desperately, working his way upwards in a sick haze, he found himself repeating a line or two from some long forgotten rhyme.
 
@@ -1651,7 +1651,7 @@ Steerpike’s eyes, following the rooftops, came at last to the parapet surround
 
 It was over an hour before Steerpike came to where only the surrounding parapet obstructed his view of the stone sky-field. As he climbed this parapet with tired, tenacious limbs he was unaware that only a few seconds of time and a few blocks of vertical stone divided him from seeing what had not been seen for over four hundred years. Scrabbling one knee over the topmost stones he heaved himself over the rough wall. When he lifted his head wearily to see what his next obstacle might be, he saw before him, spreading over an area of four square acres, a desert of grey stone slabs. The parapet on which he was now sitting bolt upright surrounded the whole area, and swinging his legs over he dropped the four odd feet to the ground. As he dropped and then leaned back to support himself against the wall, a crane arose at a far corner of the stone field and, with a slow beating of its wings, drifted over the distant battlements and dropped out of sight. The sun was beginning to set in a violet haze and the stone field, save for the tiny figure of Steerpike, spread out emptily, the cold slabs catching the prevailing tint of the sky. Between the slabs there was dark moss and the long coarse necks of seeding grasses. Steerpike’s greedy eyes had devoured the arena. What use could it be put to? Since his escape this surely was the strongest card for the pack that he intended to collect. Why, or how, or when he would use his hoarded scraps of knowledge he could not tell. That was for the future. Now he knew only that by risking his life he had come across an enormous quadrangle as secret as it was naked, as hidden as it was open to the wrath or tenderness of the elements. As he gave at the knees and collapsed into a half-sleeping, half-fainting huddle by the wall, the stone field wavered in a purple blush, and the sun withdrew.
 
-## ‘OVER THE ROOFSCAPE’
+## “OVER THE ROOFSCAPE”
 
 The darkness came down over the castle and the Twisted Woods and over Gormenghast Mountain. The long tables of the Dwellers were hidden in the thickness of a starless night. The cactus trees and the acacias where Nannie Slagg had walked, and the ancient thorn in the servants’ quadrangle were as one in their shrouding. Darkness over the four wings of Gormenghast. Darkness lying against the glass doors of the Christening Room and pressing its impalpable body through the ivy leaves of Lady Groan’s choked window. Pressing itself against the walls, hiding them to all save touch alone; hiding them and hiding everything; swallowing everything in its insatiable omnipresence. Darkness over the stone sky-field where clouds moved through it invisibly. Darkness over Steerpike, who slept, woke and slept fitfully and then woke again—with only his scanty clothing, suitable more to the stifling atmosphere of the kitchens than to this nakedness of night air. Shivering he stared out into a wall of night, relieved by not so much as one faint star. Then he remembered his pipe. A little tobacco was left in a tin box in his hip pocket.
 
@@ -1691,7 +1691,7 @@ His sparse tow-coloured hair was plastered over his big forehead as though with 
 
 Famished as he was, he never for a moment faltered in his scrutiny, although it was an hour later when having covered every angle, every surface, he relaxed and released his eyes from the panorama, and after shutting them for a while fixed them again upon a certain window that he had found several minutes earlier in a distant precipice of grey stone.
 
-## ‘NEAR AND FAR’
+## “NEAR AND FAR”
 
 Who can say how long the eye of the vulture or the lynx requires to grasp the totality of a landscape, or whether in a comprehensive instant the seemingly inexhaustible confusion of detail falls upon their eyes in an ordered and intelligible series of distances and shapes, where the last detail is perceived in relation to the corporate mass?
 
@@ -1839,7 +1839,7 @@ He had seen away to his right a dome covered with black moss. He had seen the hi
 
 He had seen smoke pouring through a hole between the slabs of a long terrace. He had seen the favourite nesting grounds of the storks and a wall that was emerald with lizards.
 
-## ‘DUST AND IVY’
+## “DUST AND IVY”
 
 All this while he had been searching for one thing and one thing only—a means of entering the castle. He had made a hundred imaginary journeys, taking into account his own weakness, but one after another they had led to blank unscalable walls and to the edges of the roofs. Window after window he took as his objective and attempted to trace his progress only to find that he was thwarted. It was not until the end of the hour approached that a journey he was unravelling in his eye culminated with his entry at a high window in the Western Wing. He went over the whole journey again, from where he sat, to the tiny window in the far wall and realized that it could be done, if luck was on his side and if his strength lasted.
 
@@ -1855,11 +1855,11 @@ He could not know that he was nearing the window. Distance, even more than time,
 
 The questionable gods who had lowered for him from the roof above the prison room that branch of creeper when he was in similar peril were with him again, for as he felt upwards his hand struck a protruding layer of stone. It was the base of a rough window-sill. Steerpike sobbed and forced his body upwards and loosing his hands for a moment from the creeper, he flung his hands over the sill. There he hung, his arms outstretched stiffly before him like a wooden figure, his legs dangling. Then, wriggling feebly, he rolled himself at length over the stone slab, overbalanced, and in a whirl of blackness fell with a crash upon the boarded floor of Fuchsia’s secret attic.
 
-## ‘THE BODY BY THE WINDOW’
+## “THE BODY BY THE WINDOW”
 
 On the afternoon following her brother’s birth, Fuchsia stood silently at the window of her bedroom. She was crying, the tears following one another down her flushed cheeks as she stared through a smarting film at Gormenghast Mountain. Mrs Slagg, unable to comprehend, made abortive efforts to console her. This time there had been no mutual hugging and weeping, and Mrs Slagg’s eyes were filled with a querulous, defeated expression. She clasped her little wrinkled hands together.
 
-‘What is it, then, my caution dear? What is it, my own ugliness? Tell me! Tell me at once. Tell your old Nannie about your little sorrows. Oh, my poor heart! you must tell me all about it. Come, inkling, come.’
+“What is it, then, my caution dear? What is it, my own ugliness? Tell me! Tell me at once. Tell your old Nannie about your little sorrows. Oh, my poor heart! you must tell me all about it. Come, inkling, come.”
 
 But Fuchsia might as well have been carved from dark marble. Only her tears moved.
 
@@ -1869,17 +1869,17 @@ Fuchsia heard the tapping of her feet in the corridor. Within a moment she was r
 
 Fuchsia fell at full length and began to chew at the grass in front of her. Her eyes as they gazed upon the lake were still inflamed.
 
-‘I hate things! I hate all things! I hate and hate every single tiniest thing. I hate the *world*’, said Fuchsia aloud, raising herself on her elbows, her face to the sky.
+“I hate things! I hate all things! I hate and hate every single tiniest thing. I hate the *world*”, said Fuchsia aloud, raising herself on her elbows, her face to the sky.
 
-‘I shall live *alone*. Always alone. In a house, or in a tree.’
+“I shall live *alone*. Always alone. In a house, or in a tree.”
 
 Fuchsia started to chew at a fresh grass blade.
 
-‘Someone will come then, if I live alone. Someone from another kind of world—a new world—not from this world, but someone who is *different*, and he will fall in love with me at once because I live alone and aren’t like the other beastly things in this world, and he’ll enjoy having me because of my pride.’
+“Someone will come then, if I live alone. Someone from another kind of world—a new world—not from this world, but someone who is *different*, and he will fall in love with me at once because I live alone and aren’t like the other beastly things in this world, and he’ll enjoy having me because of my pride.”
 
 Another flood of tears came with a rush. . . .
 
-‘He will be tall, taller than Mr Flay, and strong like a lion and with yellow hair like a lion’s, only more curly; and he will have big, strong feet because mine are big, too, but won’t look so big if his are bigger; and he will be cleverer than the Doctor, and he’ll wear a long black cape so that my clothes will look brighter still; and he will say: “Lady Fuchsia”, and I shall say: “What is it?” ’
+“He will be tall, taller than Mr Flay, and strong like a lion and with yellow hair like a lion’s, only more curly; and he will have big, strong feet because mine are big, too, but won’t look so big if his are bigger; and he will be cleverer than the Doctor, and he’ll wear a long black cape so that my clothes will look brighter still; and he will say: ‘Lady Fuchsia’, and I shall say: ‘What is it?’ ”
 
 She sat up and wiped her nose on the back of her hand.
 
@@ -2005,7 +2005,7 @@ There was no reason why, because the room he had been in for the last hour or mo
 
 Nor was it only the size. It was perhaps even more of a shock to realize that he had been above the adjacent room. Through the gloom he watched the figure of a girl, holding in her hand a lighted candle that lit the bodice of her dress to crimson. The floor across which she walked slowly but firmly appeared to stretch endlessly behind her and to her right and to her left. That she was below him and that within a few feet a balcony divided him from her, as she approached, was so unexpected that a sense of unreality such as he had experienced during his recovery from his faint again pervaded him. But the sound of her footsteps was very real and the light of the candle flame upon her lower lip awoke him to the actuality. Even in his predicament he could not help wondering where he had seen her before. A sudden movement of the shadows on her face had awakened a memory. Thoughts moved swiftly through his mind. No doubt there were steps leading up to the balcony. She would enter the room in which he stood. She walked with certainty. She did not hesitate. She was unafraid. These must be her rooms, he had entered. Why was she here at this hour? Who was she? He closed the door softly.
 
-Where had he seen that red dress before? Where? Where? Very recently. The crimson. He heard her climbing the stairs. He glanced around the room. There was no hiding place. As his eyes moved he saw the Book on the table. Her book. He saw a few crumbs where the seed cake had been standing on the cloth. He half ran on tip-toe to the window and glanced down. The emptiness of the dark air falling to the tops of towers sickened him as memories of his climb were reawakened. He turned away. Even as he heard her feet on the balcony he was saying: ‘Where? Where? Where did I see the red dress?’ and as the feet stopped at the door he remembered, and at the same moment dropped softly to his hands and knees beneath the window. Then, huddling himself into an awkward position, and with one arm outstretched limply, he closed his eyes in emulation of the faint from which he had not so long ago recovered.
+Where had he seen that red dress before? Where? Where? Very recently. The crimson. He heard her climbing the stairs. He glanced around the room. There was no hiding place. As his eyes moved he saw the Book on the table. Her book. He saw a few crumbs where the seed cake had been standing on the cloth. He half ran on tip-toe to the window and glanced down. The emptiness of the dark air falling to the tops of towers sickened him as memories of his climb were reawakened. He turned away. Even as he heard her feet on the balcony he was saying: “Where? Where? Where did I see the red dress?” and as the feet stopped at the door he remembered, and at the same moment dropped softly to his hands and knees beneath the window. Then, huddling himself into an awkward position, and with one arm outstretched limply, he closed his eyes in emulation of the faint from which he had not so long ago recovered.
 
 He had seen her through the circular spyhole in the wall of the Octagonal Room. She was the Lady Fuchsia Groan, the daughter of Gormenghast. His thoughts pursued each other through his head. She had been distraught. She had been enraged that a brother had been born for her; she had escaped down the passage from her father. There could be no sympathy *there*. She was, like her father, ill at ease. She was opening the door. The air wavered in the candlelight. Steerpike, watching from between his lashes, saw the air grow yet brighter as she lit two long candles. He heard her turn upon her heel and take a pace forward and then there was an absolute silence.
 
@@ -2013,7 +2013,7 @@ He lay motionless, his head thrown back upon the carpet and twisted slightly on 
 
 It seemed that the girl was as motionless as he, and in the protracted and deathly stillness he could hear a heart beating. It was not his own.
 
-## ‘ULLAGE OF SUNFLOWER’
+## “ULLAGE OF SUNFLOWER”
 
 For the first few moments Fuchsia had remained inert, her spirit dead to what she saw before her. As with those who on hearing of the death of their lover are numb to the agony that must later wrack them, so she for those first few moments stood incomprehensive and stared with empty eyes.
 
@@ -2033,7 +2033,7 @@ Fuchsia suddenly remembered that when she had seen her Aunt Cora faint, a very l
 
 Fuchsia looked about her to see whether she had any water in the room. Steerpike had left the jug of dandelion wine by the side of the couch, but it was out of her range of vision and she had forgotten it. As her eyes travelled around her room they came at last to rest upon an old vase of semi-opaque dark-blue glass, which a week or so ago Fuchsia had filled with water, for she had found among the wild grass and the nettles near the moat, a tall, heavy-necked sunflower with an enormous Ethiopian eye of seeds and petals as big as her hand and as yellow as even she could wish for. But its long, rough neck had been broken and its head hung in a deadweight of fire among the tares. She had feverishly bitten through those fibres that she could not tear apart where the neck was fractured and had run all the way with her wounded treasure through the castle and up the flights of stairs and into her room, and then up again, around and around as she climbed the spiral staircase, and had found the dark-blue glass vase and filled it with water and then, quite exhausted, had lowered the dry, hairy neck into the depths of the vase and, sitting upon the couch, had stared at it and said to herself aloud:
 
-‘Sunflower who’s broken, I found you, so drink some water up, and then you won’t die—not so quickly, anyway. If you do, I’ll bury you, anyway. I’ll dig a long grave and bury you. Pentecost will give me a spade. If you don’t die, you can stay. I’m going now,’ she had finished by saying, and had gone to her room below and had found her nurse, but had made no mention of her sunflower.
+“Sunflower who’s broken, I found you, so drink some water up, and then you won’t die—not so quickly, anyway. If you do, I’ll bury you, anyway. I’ll dig a long grave and bury you. Pentecost will give me a spade. If you don’t die, you can stay. I’m going now,” she had finished by saying, and had gone to her room below and had found her nurse, but had made no mention of her sunflower.
 
 It had died. Indeed she had only changed the water once, and with its petals decaying it still leaned stiffly out of the blue glass vase.
 
@@ -2055,7 +2055,7 @@ His hands were the dull sepia-red of dry blood for he had been bruised and cut i
 
 Standing as straight as he could, he inclined himself slightly towards Fuchsia, who had risen at the same time.
 
-‘The Lady Fuchsia Groan,’ said Steerpike, as he bowed.
+“The Lady Fuchsia Groan,” said Steerpike, as he bowed.
 
 Fuchsia stared at him and clenched her hands at her sides. She stood stiffly, her toes were turned slightly inwards towards each other, and she leaned a little forwards as her eyes took in the bedraggled creature in front of her. He was not much bigger than she was, but much more clever; she could see that at once.
 
@@ -2063,13 +2063,13 @@ Now that he had recovered, her mind was filled with horror at the idea of this a
 
 Suddenly, before she had known what she was doing, before she had decided to speak, before she knew of what to speak, her voice escaped from her hoarsely:
 
-‘What do you want? Oh, what do you want? This is my room. *My* room.’
+“What do you want? Oh, what do you want? This is my room. *My* room.”
 
 Fuchsia clasped her hands at the curve of her breasts in the attitude of prayer. But she was not praying. Her nails were digging into the flesh of either hand. Her eyes were wide open.
 
-‘Go away,’ she said. ‘Go away from my room.’ And then her whole mood changed as her feelings arose like a tempest.
+“Go away,” she said. “Go away from my room.” And then her whole mood changed as her feelings arose like a tempest.
 
-‘I hate you!’ she shouted, and stamped her foot upon the ground. ‘I hate you for coming here. I hate you in my room.’ She seized the table edge with both her hands behind her and rattled it on its legs.
+“I hate you!” she shouted, and stamped her foot upon the ground. “I hate you for coming here. I hate you in my room.” She seized the table edge with both her hands behind her and rattled it on its legs.
 
 Steerpike watched her carefully.
 
@@ -2077,13 +2077,13 @@ His mind had been working away behind his high forehead. Unimaginative himself h
 
 As she stood breathless beside the table and as he saw her cast her eyes about the room as though to find a weapon, he struck an attitude, raising one hand, and in an even, flat, hard voice that contrasted, even to Fuchsia in her agony, with her own passionate outcry said:
 
-‘Today I saw a great pavement among the clouds made of grey stones, bigger than a meadow. No one goes there. Only a heron.
+“Today I saw a great pavement among the clouds made of grey stones, bigger than a meadow. No one goes there. Only a heron.
 
-‘Today I saw a tree growing out of a high wall, and people walking on it far above the ground. Today I saw a poet look out of a narrow window. But the stone field that is lost in the clouds is what you’d like best. Nobody goes there. It’s a good place to play games and to’ (he took the plunge cunningly) ‘—and to *dream* of things.’ Without stopping, for he felt that it would be hazardous to stop:
+“Today I saw a tree growing out of a high wall, and people walking on it far above the ground. Today I saw a poet look out of a narrow window. But the stone field that is lost in the clouds is what you’d like best. Nobody goes there. It’s a good place to play games and to” (he took the plunge cunningly) “—and to *dream* of things.” Without stopping, for he felt that it would be hazardous to stop:
 
-‘I saw today,’ he said, ‘a horse swimming in the top of a tower: I saw a million towers today. I saw clouds last night. I was cold. I was colder than ice. I have had no food. I have had no sleep.’ He curled his lip in an effort at a smile. ‘And then you pour green filth on me,’ he said.
+“I saw today,” he said, “a horse swimming in the top of a tower: I saw a million towers today. I saw clouds last night. I was cold. I was colder than ice. I have had no food. I have had no sleep.” He curled his lip in an effort at a smile. “And then you pour green filth on me,” he said.
 
-‘And now I’m here where you hate me being. I’m here because there was nowhere else to go. I have seen so much. I have been out all night. I have escaped’ (he whispered the word dramatically) ‘and, best of all, I found the field in the clouds, the field of stones.’
+“And now I’m here where you hate me being. I’m here because there was nowhere else to go. I have seen so much. I have been out all night. I have escaped” (he whispered the word dramatically) “and, best of all, I found the field in the clouds, the field of stones.”
 
 He stopped for breath and lowered his hand from its posturing and peered at Fuchsia.
 
@@ -2091,61 +2091,61 @@ She was leaning against the table, her hands gripping its sides. It may have bee
 
 Realizing that if this were so, and his words were beginning to work upon her imagination, he must proceed without a pause sweeping her thoughts along, allowing her only to think of what he was saying. He was clever enough to know what would appeal to her. Her crimson dress was enough for him to go on. She was romantic. She was a simpleton; a dreaming girl of fifteen years.
 
-‘Lady Fuchsia,’ he said, and clenched his hand at his forehead, ‘I come for sanctuary. I am a rebel. I am at your service as a dreamer and a man of action. I have climbed for hours, and am hungry and thirsty. I stood on the field of stones and longed to fly into the clouds, but I could only feel the pain in my feet.’
+“Lady Fuchsia,” he said, and clenched his hand at his forehead, “I come for sanctuary. I am a rebel. I am at your service as a dreamer and a man of action. I have climbed for hours, and am hungry and thirsty. I stood on the field of stones and longed to fly into the clouds, but I could only feel the pain in my feet.”
 
-‘Go away,’ said Fuchsia in a distant voice. ‘Go away from me.’ But Steerpike was not to be stopped, for he noticed that her violence had died and he was tenacious as a ferret.
+“Go away,” said Fuchsia in a distant voice. “Go away from me.” But Steerpike was not to be stopped, for he noticed that her violence had died and he was tenacious as a ferret.
 
-‘Where can I go to?’ he said. ‘I would go this instant if I knew where to escape to? I have already been lost for hours in long corridors. Give me first some water so that I can wash this horrible slime from my face, and give me a little time to rest and then I will go, far away, and I will never come again, but will live alone in the stone sky-field where the herons build.’
+“Where can I go to?” he said. “I would go this instant if I knew where to escape to? I have already been lost for hours in long corridors. Give me first some water so that I can wash this horrible slime from my face, and give me a little time to rest and then I will go, far away, and I will never come again, but will live alone in the stone sky-field where the herons build.”
 
-Fuchsia’s voice was so vague and distant that it appeared to Steerpike that she had not been listening, but she said slowly: ‘Where is it? Who are you?’
+Fuchsia’s voice was so vague and distant that it appeared to Steerpike that she had not been listening, but she said slowly: “Where is it? Who are you?”
 
 Steerpike answered immediately.
 
-‘My name is Steerpike,’ he said, leaning back against the window in the darkness, ‘but I cannot tell you now where the field of stones lies all cold in the clouds. No, I couldn’t tell you that—not yet.’
+“My name is Steerpike,” he said, leaning back against the window in the darkness, “but I cannot tell you now where the field of stones lies all cold in the clouds. No, I couldn’t tell you that—not yet.”
 
-‘Who are you?’ said Fuchsia again. ‘Who are you in my room?’
+“Who are you?” said Fuchsia again. “Who are you in my room?”
 
-‘I have told you,’ he said. ‘I am Steerpike. I have climbed to your lovely room. I like your pictures on the walls and your book and your horrible root.’
+“I have told you,” he said. “I am Steerpike. I have climbed to your lovely room. I like your pictures on the walls and your book and your horrible root.”
 
-‘My root is beautiful. Beautiful!’ shouted Fuchsia. ‘Do not talk about my things. I hate you for talking about my things. Don’t look at them.’ She ran to the twisted and candle-lit root of smooth wood in the wavering darkness and stood between it and the window where he was.
+“My root is beautiful. Beautiful!” shouted Fuchsia. “Do not talk about my things. I hate you for talking about my things. Don’t look at them.” She ran to the twisted and candle-lit root of smooth wood in the wavering darkness and stood between it and the window where he was.
 
 Steerpike took out his little pipe from his pocket and sucked the stem. She was a strange fish, he thought, and needed carefully selected bait.
 
-‘How did you get to my room?’ said Fuchsia huskily.
+“How did you get to my room?” said Fuchsia huskily.
 
-‘I climbed,’ said Steerpike. ‘I climbed up the ivy to your room. I have been climbing all day.’
+“I climbed,” said Steerpike. “I climbed up the ivy to your room. I have been climbing all day.”
 
-‘Go away from the window,’ said Fuchsia. ‘Go away to the door.’
+“Go away from the window,” said Fuchsia. “Go away to the door.”
 
 Steerpike, surprised, obeyed her. But his hands were in his pockets. He felt more sure of his ground.
 
 Fuchsia moved gauchely to the window taking up the candle as she passed the table, and peering over the sill, held the shaking flame above the abyss. The drop, which she remembered so well by daylight, looked even more terrifying now.
 
-She turned towards the room. ‘You must be a good climber,’ she said sullenly but with a touch of admiration in her voice which Steerpike did not fail to detect.
+She turned towards the room. “You must be a good climber,” she said sullenly but with a touch of admiration in her voice which Steerpike did not fail to detect.
 
-‘I am,’ said Steerpike. ‘But I can’t bear my face like this any longer. Let me have some water. Let me wash my face, your Ladyship; and then if I can’t stay here, tell me where I can go and sleep. I haven’t had a cat’s nap. I am tired; but the stone field haunts me. I must go there again after I’ve rested.’
+“I am,” said Steerpike. “But I can’t bear my face like this any longer. Let me have some water. Let me wash my face, your Ladyship; and then if I can’t stay here, tell me where I can go and sleep. I haven’t had a cat’s nap. I am tired; but the stone field haunts me. I must go there again after I’ve rested.”
 
 There was a silence.
 
-‘You’ve got kitchen clothes on,’ said Fuchsia flatly.
+“You’ve got kitchen clothes on,” said Fuchsia flatly.
 
-‘Yes,’ said Steerpike. ‘But I’m going to change them. It’s the kitchen I escaped from. I detested it. I want to be free. I shall never go back.’
+“Yes,” said Steerpike. “But I’m going to change them. It’s the kitchen I escaped from. I detested it. I want to be free. I shall never go back.”
 
-‘Are you an *adventurer*?’ said Fuchsia, who, although she did not think he looked like one, had been more than impressed by his climb and by the flow of his words.
+“Are you an *adventurer*?” said Fuchsia, who, although she did not think he looked like one, had been more than impressed by his climb and by the flow of his words.
 
-‘I am,’ said Steerpike. ‘That’s just what I am. But at the moment I want some water and soap.’
+“I am,” said Steerpike. “That’s just what I am. But at the moment I want some water and soap.”
 
 There was no water in the attic, but the idea of taking him down to her bedroom where he could wash and then go away for food, rankled in her, for he would pass through her other attic rooms. Then she realized that he had, in any event, to leave her sanctum and, saving for a return climb down the ivy the only path lay through the attics and down the spiral staircase to her bedroom. Added to this was the thought that if she took him down now he would see very little of her rooms in the darkness, whereas tomorrow her attic would be exposed.
 
-‘Lady Fuchsia,’ said Steerpike, ‘what work is there that I can do? Will you introduce me to someone who can employ me? I am not a kitchen lackey, my Ladyship, I am a man of purpose. Hide me tonight, Lady Fuchsia, and let me meet someone tomorrow who may employ me. All I want is one interview. My brains will do the rest.’
+“Lady Fuchsia,” said Steerpike, “what work is there that I can do? Will you introduce me to someone who can employ me? I am not a kitchen lackey, my Ladyship, I am a man of purpose. Hide me tonight, Lady Fuchsia, and let me meet someone tomorrow who may employ me. All I want is one interview. My brains will do the rest.”
 
 Fuchsia stared at him, open-mouthed. Then she thrust her full lower lip forward and said:
 
-‘What’s the awful smell?’
+“What’s the awful smell?”
 
-‘It’s the filthy dregs you drowned me in,’ said Steerpike. ‘It’s my face you’re smelling.’
+“It’s the filthy dregs you drowned me in,” said Steerpike. “It’s my face you’re smelling.”
 
-‘Oh,’ said Fuchsia. She took up the candle again. ‘You’d better follow.’
+“Oh,” said Fuchsia. She took up the candle again. “You’d better follow.”
 
 Steerpike did so, out of the door, along the balcony, and then down the ladder. Fuchsia did not think of helping him in the ill-lit darkness, though she heard him stumble. Steerpike kept as close to her as he could and the little patch of faint candlelight on the floor which preceded her, but as she threaded her way dexterously between the oddments that lay banked up in the first attic, he was more than once struck across the face, by a hanging rope of spiked seashells, by the giraffe’s leg which Fuchsia ducked beneath, and once he was brought to a gasping halt by the brass hilt of a sword.
 
@@ -2155,21 +2155,21 @@ After a long time he felt the close air of the staircase lighten about him and a
 
 She was pouring from a jug the water which Steerpike so urgently needed. The smell was beginning to affect him, for as he had stepped down into the room he had retched incontinently, with his thin, bony hands at his stomach.
 
-At the gurgling sound of the water as it slopped into the bowl on Fuchsia’s washstand he drew a deep breath through his teeth. Fuchsia, hearing his foot descend upon the boards of her room, turned, jug in hand, and as she did so she overflooded the bowl with a rush of water which in the lamplight made bright pools on the dark ground. ‘Water,’ she said, ‘if you want it.’
+At the gurgling sound of the water as it slopped into the bowl on Fuchsia’s washstand he drew a deep breath through his teeth. Fuchsia, hearing his foot descend upon the boards of her room, turned, jug in hand, and as she did so she overflooded the bowl with a rush of water which in the lamplight made bright pools on the dark ground. “Water,” she said, “if you want it.”
 
 Steerpike advanced rapidly to the basin and plucked off his coat and vest, and stood beside Fuchsia in the darkness very thin, very bunched at the shoulders, and with an extraordinary perkiness in the poise of his body.
 
-‘What about soap?’ said Steerpike, lowering his arms into the basin. The water was cold, and he shivered. His shoulder blades stood out sharply from his back as he bent over and shrugged his shoulders together. ‘I can’t get this muck off without soap and a scrubbing-brush, your Ladyship.’
+“What about soap?” said Steerpike, lowering his arms into the basin. The water was cold, and he shivered. His shoulder blades stood out sharply from his back as he bent over and shrugged his shoulders together. “I can’t get this muck off without soap and a scrubbing-brush, your Ladyship.”
 
-‘There’s some things in that drawer,’ said Fuchsia slowly. ‘Hurry up and finish, and then go away. You’re not in your own room. You’re in my room where no one’s allowed to come, only my old nurse. So hurry up and go away.’
+“There’s some things in that drawer,” said Fuchsia slowly. “Hurry up and finish, and then go away. You’re not in your own room. You’re in my room where no one’s allowed to come, only my old nurse. So hurry up and go away.”
 
-‘I will,’ said Steerpike, opening the drawer and rummaging among the contents until he had found a piece of soap. ‘But don’t forget you promised to introduce me to someone who might employ me.’
+“I will,” said Steerpike, opening the drawer and rummaging among the contents until he had found a piece of soap. “But don’t forget you promised to introduce me to someone who might employ me.”
 
-‘I didn’t,’ said Fuchsia. ‘How do you dare to tell such lies to me? How do you dare!’
+“I didn’t,” said Fuchsia. “How do you dare to tell such lies to me? How do you dare!”
 
 Then came Steerpike’s stroke of genius. He saw that there was no object in pressing his falsehood any further and, making a bold move into the unknown he leapt with great agility away from the basin, his face now thick in lather. Wiping away the white froth from his lips, he channelled a huge dark mouth with his forefinger and posturing in the attitude of a clown listening he remained immobile for seven long seconds with his hand to his ear. Where the idea had come from he did not know, but he had felt since he first met Fuchsia that if anything were to win her favour it was something tinged with the theatre, the bizarre, and yet something quite simple and guileless, and it was this that Steerpike found difficult. Fuchsia stared hard. She forgot to hate him. She did not see him. She saw a clown, a living limb of nonsense. She saw something she loved as she loved her root, her giraffe leg, her crimson dress.
 
-‘Good!’ she shouted, clenching her hands. ‘Good! good! good! good!’ All at once she was on her bed, landing upon both her knees at once. Her hands clasped the foot-rail.
+“Good!” she shouted, clenching her hands. “Good! good! good! good!” All at once she was on her bed, landing upon both her knees at once. Her hands clasped the foot-rail.
 
 A snake writhed suddenly under the ribs of Steerpike. He had succeeded. What he doubted for the moment was whether he could live up to the standard he had set himself.
 
@@ -2177,7 +2177,7 @@ He saw, out of the corner of his eye, which like the rest of his face was practi
 
 From the ludicrous listening posture he straightened himself slowly, and with his toes turned outwards extravagantly he ran a few steps towards a corner of Fuchsia’s room, and then stopped to listen again, his hand at his ear. Continuing his run he reached the corner and picked up, after several efforts at getting his hand to reach as far down as the floor, a piece of green cloth which he hobbled back with, his feet as before turned out so far as to produce between them a continuous line.
 
-Fuchsia, in a transport, watched him, the knuckles of her right hand in her mouth, as he began a thorough examination of the bed rail immediately below her. Every now and then he would find something very wrong with the iron surface of the rail and would rub it vigorously with his rag, stand back from it for a longer view, with his head on one side, the dark of the soapless mouth drooping at each corner in anguish, and then polish the spot again, breathing upon it and rubbing it with an inhuman concentration of purpose. All the time he was thinking, ‘What a fool I am, but it will work.’ He could not sink himself. He was not the artist. He was the exact imitation of one.
+Fuchsia, in a transport, watched him, the knuckles of her right hand in her mouth, as he began a thorough examination of the bed rail immediately below her. Every now and then he would find something very wrong with the iron surface of the rail and would rub it vigorously with his rag, stand back from it for a longer view, with his head on one side, the dark of the soapless mouth drooping at each corner in anguish, and then polish the spot again, breathing upon it and rubbing it with an inhuman concentration of purpose. All the time he was thinking, “What a fool I am, but it will work.” He could not sink himself. He was not the artist. He was the exact imitation of one.
 
 All at once he removed with his forefinger a plump sud of soap from the centre of his forehead, leaving a rough, dark circle of skin where it had been, and tapped his frothy finger along the foot-rail three times at equal intervals, leaving about a third of the soap behind at each tap. Waddling up and down at the end of the bed, he examined each of these blobs in turn and, as though trying to decide which was the most imposing specimen, removed one after the other until, with only the central sud remaining, he came to a halt before it, and then, kicking away one of his feet in an extraordinarily nimble way, he landed himself flat on his face in a posture of obedience.
 
@@ -2185,57 +2185,57 @@ Fuchsia was too thrilled to speak. She only stared, happy beyond happiness. Stee
 
 While Fuchsia knelt on her bed and Steerpike rubbed his head and face with an ancient and grubby towel, there came a knock upon the door and Nannie Slagg’s voice piped out thinly:
 
-‘Is my conscience there? Is my sweet piece of trouble there? Are you there, my dear heart, then? Are you there?’
+“Is my conscience there? Is my sweet piece of trouble there? Are you there, my dear heart, then? Are you there?”
 
-‘No, Nannie, no, I’m not! Not *now*. Go away and come back again soon, and I’ll be here,’ shouted Fuchsia thickly, scrambling to the door. And then with her mouth to the keyhole: ‘What d’you want? What d’you want?’
+“No, Nannie, no, I’m not! Not *now*. Go away and come back again soon, and I’ll be here,” shouted Fuchsia thickly, scrambling to the door. And then with her mouth to the keyhole: “What d’you want? What d’you want?”
 
-‘Oh, my poor heart! what’s the matter, then? What’s the matter, then? What is it, my conscience?’
+“Oh, my poor heart! what’s the matter, then? What’s the matter, then? What is it, my conscience?”
 
-‘Nothing, Nannie. Nothing. What d’you want?’ said Fuchsia, breathing hard.
+“Nothing, Nannie. Nothing. What d’you want?” said Fuchsia, breathing hard.
 
 Nannie was used to Fuchsia’s sudden and strange changes of mood; so after a pause in which Fuchsia could hear her sucking her wrinkled lower lip, the old nurse answered:
 
-‘It’s the Doctor, dear. He says he’s got a present for you, my baby. He wants you to go to his house, my only, and I’m to take you.’
+“It’s the Doctor, dear. He says he’s got a present for you, my baby. He wants you to go to his house, my only, and I’m to take you.”
 
-Fuchsia, hearing a ‘Tck! tck!’ behind her, turned and saw a very clean-looking Steerpike gesturing to her. He nodded his head rapidly and jerked his thumb at the door, and then, with his index and longest finger strutting along the washstand, indicated, as far as she could read, that she should accept the offer to walk to the Doctor’s with Nannie Slagg.
+Fuchsia, hearing a “Tck! tck!” behind her, turned and saw a very clean-looking Steerpike gesturing to her. He nodded his head rapidly and jerked his thumb at the door, and then, with his index and longest finger strutting along the washstand, indicated, as far as she could read, that she should accept the offer to walk to the Doctor’s with Nannie Slagg.
 
-‘All right!’ shouted Fuchsia, ‘but I’ll come to your room. Go there and wait.’
+“All right!” shouted Fuchsia, “but I’ll come to your room. Go there and wait.”
 
-‘Hurry, then, my love!’ wailed the thin, perplexed voice from the passage. ‘Don’t keep him waiting.’
+“Hurry, then, my love!” wailed the thin, perplexed voice from the passage. “Don’t keep him waiting.”
 
-As Mrs Slagg’s feet receded, Fuchsia shouted: ‘What’s he giving me?’
+As Mrs Slagg’s feet receded, Fuchsia shouted: “What’s he giving me?”
 
 But the old nurse was beyond earshot.
 
 Steerpike was dusting his clothes as well as he could. He had brushed his sparse hair and it looked like dank grass as it lay flatly over his big forehead.
 
-‘Can I come, too?’ he said.
+“Can I come, too?” he said.
 
 Fuchsia turned her eyes to him quickly.
 
-‘Why?’ she said at last.
+“Why?” she said at last.
 
-‘I have a reason,’ said Steerpike. ‘You can’t keep me here all night, anyway, can you?’
+“I have a reason,” said Steerpike. “You can’t keep me here all night, anyway, can you?”
 
-This argument seemed good to Fuchsia and, ‘Oh, yes, you can come, too,’ she said at once. ‘But what about Nannie,’ she added slowly. ‘What about my nurse?’
+This argument seemed good to Fuchsia and, “Oh, yes, you can come, too,” she said at once. “But what about Nannie,” she added slowly. “What about my nurse?”
 
-‘Leave her to me,’ said Steerpike. ‘Leave her to me.’
+“Leave her to me,” said Steerpike. “Leave her to me.”
 
 Fuchsia hated him suddenly and deeply for saying this, but she made no answer.
 
-‘Come on, then,’ she said. ‘Don’t stay in my room any more. What are you waiting for?’ And unbolting the door she led the way, Steerpike following her like a shadow to Mrs Slagg’s bedroom.
+“Come on, then,” she said. “Don’t stay in my room any more. What are you waiting for?” And unbolting the door she led the way, Steerpike following her like a shadow to Mrs Slagg’s bedroom.
 
 ## AT THE PRUNESQUALLORS
 
 Mrs Slagg was so agitated at the sight of an outlandish youth in the company of her Fuchsia that it was several minutes before she had recovered sufficiently to listen to anything in the way of an explanation. Her eyes would dart to and fro from Fuchsia to the features of the intruder. She stood for so long a time, plucking nervously at her lower lip, that Fuchsia realized it was useless to continue with her explanation and was wondering what to do next when Steerpike’s voice broke in.
 
-‘Madam,’ he said, addressing Mrs Slagg, ‘my name is Steerpike, and I ask you to forgive my sudden appearance at the door of your room.’ And he bowed very low indeed, his eyes squinting up through his eyebrows as he did so.
+“Madam,” he said, addressing Mrs Slagg, “my name is Steerpike, and I ask you to forgive my sudden appearance at the door of your room.” And he bowed very low indeed, his eyes squinting up through his eyebrows as he did so.
 
-Mrs Slagg took three uncertain steps towards Fuchsia and clutched her arm. ‘What is he saying? What is he saying? Oh, my poor heart, who is he, then? What has he done to you, my only?’
+Mrs Slagg took three uncertain steps towards Fuchsia and clutched her arm. “What is he saying? What is he saying? Oh, my poor heart, who is he, then? What has he done to you, my only?”
 
-‘He’s coming, too,’ said Fuchsia, by way of an answer. ‘Wants to see Dr Prune as well. What’s his present? What’s he giving me a present for? Come on. Let’s go to his house. I’m tired. Be quick, I want to go to bed.’
+“He’s coming, too,” said Fuchsia, by way of an answer. “Wants to see Dr Prune as well. What’s his present? What’s he giving me a present for? Come on. Let’s go to his house. I’m tired. Be quick, I want to go to bed.”
 
-Mrs Slagg suddenly became very active when Fuchsia mentioned her tiredness and started for the door, holding the girl by her forearm. ‘You’ll be into your bed in no time. I’ll put you there myself and tuck you in, and turn your lamp out for you as I always did, my wickedness, and you can go to sleep until I wake you, my only, and can give you breakfast by the fire; so don’t you mind, my tired thing. Only a few minutes with the Doctor—only a few minutes.’
+Mrs Slagg suddenly became very active when Fuchsia mentioned her tiredness and started for the door, holding the girl by her forearm. “You’ll be into your bed in no time. I’ll put you there myself and tuck you in, and turn your lamp out for you as I always did, my wickedness, and you can go to sleep until I wake you, my only, and can give you breakfast by the fire; so don’t you mind, my tired thing. Only a few minutes with the Doctor—only a few minutes.”
 
 They passed through the door, Mrs Slagg peering suspiciously around Fuchsia’s arm at the quick movements of the high-shouldered boy.
 
@@ -2247,7 +2247,7 @@ The door by which they made their exit lay opposite the flight that led down to 
 
 This corridor ended abruptly at a heavy doorway, which Fuchsia opened with an effort, letting in upon the passage a less oppressive darkness for it was late evening, and beyond the door a flock of clouds were moving swiftly across a slate-coloured sky in which one star rode alone.
 
-‘Oh, my poor heart, how late it’s getting!’ said Nannie, peering anxiously at the sky, and confiding her thoughts to Fuchsia in such a surreptitious way that it might be supposed she was anxious that the firmament should not overhear her. ‘How late it *is* getting, my only, and I must be back with your Mother very soon. I must take her something to drink, the poor huge thing. Oh, no, we mustn’t be long!’
+“Oh, my poor heart, how late it’s getting!” said Nannie, peering anxiously at the sky, and confiding her thoughts to Fuchsia in such a surreptitious way that it might be supposed she was anxious that the firmament should not overhear her. “How late it *is* getting, my only, and I must be back with your Mother very soon. I must take her something to drink, the poor huge thing. Oh, no, we mustn’t be long!”
 
 Before them was a large courtyard and at the opposite corner was a three-storied building attached to the main bulk of the castle by a flying buttress. By day it stood out strangely from the ubiquitous grey stone of Gormenghast, for it was built with a hard red sandstone from a quarry that had never since been located.
 
@@ -2255,43 +2255,43 @@ Fuchsia was very tired. The day had been overcharged with happenings. Now, as th
 
 Mrs Slagg was clasping her arm, and as they approached the main doorway, she stopped suddenly and, as was her usual habit when flustered, brought her hand up to her mouth and pulled at her little lower lip, her old watery eyes peering weakly at Fuchsia. She was about to say something, when the sound of footsteps caused her and her two companions to turn and to stare at a figure approaching in the darkness. A faint sound as of something brittle being broken over and over again accompanied his progress towards them.
 
-‘Who is it?’ said Mrs Slagg. ‘Who is it, my only? Oh, how dark it is!’
+“Who is it?” said Mrs Slagg. “Who is it, my only? Oh, how dark it is!”
 
-‘It’s only Flay,’ said Fuchsia. ‘Come on. I’m tired.’ But they were hailed from the gloom.
+“It’s only Flay,” said Fuchsia. “Come on. I’m tired.” But they were hailed from the gloom.
 
-‘Who?’ cried the hard, awkward voice. Mr Flay’s idiom, if at times unintelligible, was anything but prolix.
+“Who?” cried the hard, awkward voice. Mr Flay’s idiom, if at times unintelligible, was anything but prolix.
 
-‘What do you want, Mr Flay?’ shouted Nannie, much to her own and to Fuchsia’s surprise.
+“What do you want, Mr Flay?” shouted Nannie, much to her own and to Fuchsia’s surprise.
 
-‘Slagg?’ queried the hard voice again. ‘Wanted,’ it added.
+“Slagg?” queried the hard voice again. “Wanted,” it added.
 
-‘Who’s wanted?’ Nannie shrilled back, for she felt that Mr Flay was always too brusque with her.
+“Who’s wanted?” Nannie shrilled back, for she felt that Mr Flay was always too brusque with her.
 
-‘Who’s with you?’ barked Flay, who was now within a few yards. ‘Three just now.’
+“Who’s with you?” barked Flay, who was now within a few yards. “Three just now.”
 
 Fuchsia, who had long ago acquired the knack of interpreting the ejaculations of her father’s servant, turned her head around at once and was both surprised and relieved to find that Steerpike had disappeared. And yet, was there a tinge of disappointment as well? She put out her arm and pressed the old nurse against her side.
 
-‘Three just now,’ repeated Flay, who had come up.
+“Three just now,” repeated Flay, who had come up.
 
-Mrs Slagg had also noticed that the boy was missing. ‘Where is he?’ she queried. ‘Where’s the ugly youth?’
+Mrs Slagg had also noticed that the boy was missing. “Where is he?” she queried. “Where’s the ugly youth?”
 
 Fuchsia shook her head glumly and then turned suddenly on Flay, whose limbs seemed to straggle away into the night. Her weariness made her irritable and now she vented her pent-up emotion upon the dour servant.
 
-‘Go away! go away!’ she sobbed. ‘Who wants you here, you stupid, spiky thing? Who wants you—shouting out “Who’s there?” and thinking yourself so important when you’re only an old thin thing? Go away to my father where you belong, but leave us alone.’ And Fuchsia, bursting into a great exhausted cry, ran up to the emaciated Flay and, throwing her arms about his waist, drenched his waistcoat in her tears.
+“Go away! go away!” she sobbed. “Who wants you here, you stupid, spiky thing? Who wants you—shouting out ‘Who’s there?’ and thinking yourself so important when you’re only an old thin thing? Go away to my father where you belong, but leave us alone.” And Fuchsia, bursting into a great exhausted cry, ran up to the emaciated Flay and, throwing her arms about his waist, drenched his waistcoat in her tears.
 
 His hands hung at his sides, for it would not have been right for him to touch the Lady Fuchsia however benevolent his motive, for he was, after all, only a servant although a most important one.
 
-‘Please go now,’ said Fuchsia at last, backing away from him.
+“Please go now,” said Fuchsia at last, backing away from him.
 
-‘Ladyship,’ said the servant, after scratching the back of his head, ‘Lordship wants her.’ He jerked his head at the old nurse.
+“Ladyship,” said the servant, after scratching the back of his head, “Lordship wants her.” He jerked his head at the old nurse.
 
-‘Me?’ cried Nannie Slagg, who had been sucking her teeth.
+“Me?” cried Nannie Slagg, who had been sucking her teeth.
 
-‘You,’ said Flay.
+“You,” said Flay.
 
-‘Oh, my poor heart! When? When does he want me? Oh, my dear body! What can he want?’
+“Oh, my poor heart! When? When does he want me? Oh, my dear body! What can he want?”
 
-‘Wants you tomorrow,’ replied Flay and, turning about, began to walk away and was soon lost to sight, and a short time afterwards even the sound of his knee joints was out of hearing.
+“Wants you tomorrow,” replied Flay and, turning about, began to walk away and was soon lost to sight, and a short time afterwards even the sound of his knee joints was out of hearing.
 
 They did not wait any longer, but walked as swiftly as they could to the main door of the house of sandstone, and Fuchsia gave a heavy rap with a door knocker, rubbing with her sleeve at the moisture in her eyes.
 
@@ -2299,35 +2299,35 @@ As they waited they could hear the sound of a violin.
 
 Fuchsia knocked at the door again, and a few seconds later the music ceased and footsteps approached and stopped. A bolt was drawn back, the door opened upon a strong light, and the Doctor waved them in. Then he closed the door behind them, but not before a thin youth had squeezed himself past the door-post and into the hall where he stood between Fuchsia and Mrs Slagg.
 
-‘Well! well! well! well!’ said the Doctor, flicking a hair from the sleeve of his coat, and flashing his teeth. ‘So you have brought a friend with you, my dear little Ladyship, so you have brought a friend with you—or’ (and he raised his eyebrows) ‘haven’t you?’
+“Well! well! well! well!” said the Doctor, flicking a hair from the sleeve of his coat, and flashing his teeth. “So you have brought a friend with you, my dear little Ladyship, so you have brought a friend with you—or” (and he raised his eyebrows) “haven’t you?”
 
 For the second time Mrs Slagg and Fuchsia turned about to discover the object of the Doctor’s inquiry, and found that Steerpike was immediately behind them.
 
-He bowed, and with his eye on the Doctor, ‘At your service,’ he said.
+He bowed, and with his eye on the Doctor, “At your service,” he said.
 
-‘Ha, ha, ha! but I don’t want *anyone* at my service,’ said Dr Prunesquallor, folding his long white hands around each other as though they were silk scarves. ‘I’d rather have somebody “in” my service perhaps. But not *at* it. Oh, no. I wouldn’t have any service left if every young gentleman who arrived through my door was suddenly at it. It would soon be in shreds. Ha, ha, ha! absolutely in shreds.’
+“Ha, ha, ha! but I don’t want *anyone* at my service,” said Dr Prunesquallor, folding his long white hands around each other as though they were silk scarves. “I’d rather have somebody ‘in’ my service perhaps. But not *at* it. Oh, no. I wouldn’t have any service left if every young gentleman who arrived through my door was suddenly at it. It would soon be in shreds. Ha, ha, ha! absolutely in shreds.”
 
-‘He’s come,’ said Fuchsia in her slow voice, ‘because he wants to work because he’s clever, so I brought him.’
+“He’s come,” said Fuchsia in her slow voice, “because he wants to work because he’s clever, so I brought him.”
 
-‘Indeed,’ said Prunesquallor. ‘I have always been fascinated by those who want to work, ha ha. Most absorbing to observe them. Ha, ha, ha! most absorbing and uncanny. Walk along, dear ladies, walk along. My very dear Mrs Slagg, you look a hundred years younger every day. This way, this way. Mind the corner of that chair, my very dear Mrs Slagg, and oh! my dear woman, you *must* look where you’re going, by all that’s circumspect, you really must. Now, just allow me to open this door and then we can make ourselves comfortable. Ha, ha, ha! that’s right, Fuchsia, my dear, prop her up! prop her up!’
+“Indeed,” said Prunesquallor. “I have always been fascinated by those who want to work, ha ha. Most absorbing to observe them. Ha, ha, ha! most absorbing and uncanny. Walk along, dear ladies, walk along. My very dear Mrs Slagg, you look a hundred years younger every day. This way, this way. Mind the corner of that chair, my very dear Mrs Slagg, and oh! my dear woman, you *must* look where you’re going, by all that’s circumspect, you really must. Now, just allow me to open this door and then we can make ourselves comfortable. Ha, ha, ha! that’s right, Fuchsia, my dear, prop her up! prop her up!”
 
 So saying, and shepherding them in front of him and at the same time rolling his magnified eyes all over Steerpike’s extraordinary costume, the Doctor at last arrived within his own room and closed the door behind himself sharply with a click. Mrs Slagg was ushered into a chair with soft wine-coloured upholstery, where she looked particularly minute, and Fuchsia into another of the same pattern. Steerpike was waved to a high-backed piece of oak, and the Doctor himself set about bringing bottles and glasses from a cupboard let into the wall.
 
-‘What is it to be? What is it to be? Fuchsia, my dear child! what do you fancy?’
+“What is it to be? What is it to be? Fuchsia, my dear child! what do you fancy?”
 
-‘I don’t want anything, thank you,’ said Fuchsia. ‘I feel like going to sleep, Dr Prune.’
+“I don’t want anything, thank you,” said Fuchsia. “I feel like going to sleep, Dr Prune.”
 
-‘Aha! aha! A little stimulant, perhaps. Something to sharpen your faculties, my dear. Something to tide you over until—ha, ha, ha! you are snug within your little bed. What do you think? what do you think?’
+“Aha! aha! A little stimulant, perhaps. Something to sharpen your faculties, my dear. Something to tide you over until—ha, ha, ha! you are snug within your little bed. What do you think? what do you think?”
 
-‘I don’t know,’ said Fuchsia.
+“I don’t know,” said Fuchsia.
 
-‘Aha! but *I* do. *I* do,’ said the Doctor, and whinnied like a horse; then, pulling back his sleeves so that his wrists were bare, he advanced like some sort of fastidious bird towards the door, where he pulled a cord in the wall. Lowering his sleeves again neatly over his cuffs, he waited, on tip-toe, until he heard a sound without, at which he flung open the door, uncovering, as it were, a swarthy-skinned creature in white livery whose hand was raised as though to knock upon the panels. Before the Doctor had said a word Nannie leaned forward in her chair. Her legs, unable to reach the floor, were dangling helplessly.
+“Aha! but *I* do. *I* do,” said the Doctor, and whinnied like a horse; then, pulling back his sleeves so that his wrists were bare, he advanced like some sort of fastidious bird towards the door, where he pulled a cord in the wall. Lowering his sleeves again neatly over his cuffs, he waited, on tip-toe, until he heard a sound without, at which he flung open the door, uncovering, as it were, a swarthy-skinned creature in white livery whose hand was raised as though to knock upon the panels. Before the Doctor had said a word Nannie leaned forward in her chair. Her legs, unable to reach the floor, were dangling helplessly.
 
-‘It’s elderberry wine that you love best, isn’t it?’ she queried in a nervous, penetrating whisper to Fuchsia. ‘Tell the Doctor that. Tell him that, at once. You don’t want any stimulant, do you?’
+“It’s elderberry wine that you love best, isn’t it?” she queried in a nervous, penetrating whisper to Fuchsia. “Tell the Doctor that. Tell him that, at once. You don’t want any stimulant, do you?”
 
-The Doctor tilted his head slightly at the sound but did not turn, merely raising his forefinger in front of the servant’s eyes and wagging it, and his thin, rasping voice gave an order, for a powder to be mixed and for a bottle of elderberry wine to be procured. He closed the door, and, dancing up to Fuchsia, ‘Relax, my dear, relax,’ he said. ‘Let your limbs wander wherever they like, ha, ha, ha, as long as they do not stray too far, ha, ha, ha! as long as they don’t stray too far. Think of each of them in turn until they’re all as limp as jellyfish, and you’ll be ready to run to the Twisted Woods and back before you know where you are.’
+The Doctor tilted his head slightly at the sound but did not turn, merely raising his forefinger in front of the servant’s eyes and wagging it, and his thin, rasping voice gave an order, for a powder to be mixed and for a bottle of elderberry wine to be procured. He closed the door, and, dancing up to Fuchsia, “Relax, my dear, relax,” he said. “Let your limbs wander wherever they like, ha, ha, ha, as long as they do not stray too far, ha, ha, ha! as long as they don’t stray too far. Think of each of them in turn until they’re all as limp as jellyfish, and you’ll be ready to run to the Twisted Woods and back before you know where you are.”
 
-He smiled and his teeth flashed. His mop of grey hair glistened like twine in the strong lamplight. ‘And what for you, Mrs Slagg? What for Fuchsia’s Nannie? A little port?’
+He smiled and his teeth flashed. His mop of grey hair glistened like twine in the strong lamplight. “And what for you, Mrs Slagg? What for Fuchsia’s Nannie? A little port?”
 
 Mrs Slagg ran her tongue between her wrinkled lips and nodded as her fingers went to her mouth on which a silly little smile hovered. She watched the Doctor’s every movement as he filled up the wineglass and brought it over to her.
 
@@ -2335,85 +2335,85 @@ She bowed in an old-fashioned way from her hips as she took the glass, her legs 
 
 Then all at once the Doctor was back at Fuchsia’s chair, and bending over her. His hands, wrapped about each other in a characteristic manner, were knotted beneath his chin.
 
-‘I’ve got something for you, my dear; did your nurse tell you?’ His eyes rolled to the side of his glasses giving him an expression of fantastic roguery which on his face would have been, for one who had never met him, to say the least, unsettling.
+“I’ve got something for you, my dear; did your nurse tell you?” His eyes rolled to the side of his glasses giving him an expression of fantastic roguery which on his face would have been, for one who had never met him, to say the least, unsettling.
 
 Fuchsia bent forward, her hands on the red bolster-like arms of the chair.
 
-‘Yes, Dr Prune. What is it, thank you, what is it?’
+“Yes, Dr Prune. What is it, thank you, what is it?”
 
-‘Aha! ha, ha, ha, ha! Aha, ha, ha! It is something for you to wear, ha, ha! If you like it and if it’s not too heavy. I don’t want to fracture your cervical vertebrae, my little lady. Oh no, by all that’s most healthy I wouldn’t care to do that; but *I*’ll trust you to be careful. You will, won’t you? Ha, ha.’
+“Aha! ha, ha, ha, ha! Aha, ha, ha! It is something for you to wear, ha, ha! If you like it and if it’s not too heavy. I don’t want to fracture your cervical vertebrae, my little lady. Oh no, by all that’s most healthy I wouldn’t care to do that; but *I*’ll trust you to be careful. You will, won’t you? Ha, ha.”
 
-‘Yes, yes, I will,’ said Fuchsia.
+“Yes, yes, I will,” said Fuchsia.
 
-He bent even closer to Fuchsia. ‘Your baby brother has hurt you. *I* know, ha, ha. *I* know,’ the Doctor whispered, and the sound edged between his rows of big teeth, very faintly, but not so faintly as to escape Steerpike’s hearing. ‘I have a stone for your bosom, my dear child, for I saw the diamonds within your tearducts when you ran from your mother’s door. These, if they come again, must be balanced by a heavier if less brilliant stone, lying upon your bosom.’
+He bent even closer to Fuchsia. “Your baby brother has hurt you. *I* know, ha, ha. *I* know,” the Doctor whispered, and the sound edged between his rows of big teeth, very faintly, but not so faintly as to escape Steerpike’s hearing. “I have a stone for your bosom, my dear child, for I saw the diamonds within your tearducts when you ran from your mother’s door. These, if they come again, must be balanced by a heavier if less brilliant stone, lying upon your bosom.”
 
 Prunesquallor’s eyes remained quite still for a moment. His hands were still clasped at his chin.
 
-Fuchsia stared. ‘Thank you, Dr Prune,’ she said at last.
+Fuchsia stared. “Thank you, Dr Prune,” she said at last.
 
-The physician relaxed and straightened himself. ‘Ha, ha, ha! Ha, ha, ha!’ he trilled, and then bent forward to whisper again. ‘So I have decided to give you a stone from another land.’
+The physician relaxed and straightened himself. “Ha, ha, ha! Ha, ha, ha!” he trilled, and then bent forward to whisper again. “So I have decided to give you a stone from another land.”
 
 He put his hand into his pocket, but kept it there as he glanced over his shoulder.
 
-‘Who is your friend of the fiery eyes, my Fuchsia? Do you know him well?’
+“Who is your friend of the fiery eyes, my Fuchsia? Do you know him well?”
 
 Fuchsia shook her head and stuck her lower lip out as though with instinctive distaste.
 
-The Doctor winked at her, his magnified right eye closing enormously. ‘A little later, perhaps,’ said Prunesquallor, opening his eyelid again like some sort of sea creature, ‘when the night is a little further advanced, a little longer in the molar, ha, ha, ha!’ He straightened himself. ‘When the world has swung through space a further hundred miles or so, ha, ha! then—ah, yes, . . . then—’ and for the second time he looked knowing and winked. Then he swung round upon his heel.
+The Doctor winked at her, his magnified right eye closing enormously. “A little later, perhaps,” said Prunesquallor, opening his eyelid again like some sort of sea creature, “when the night is a little further advanced, a little longer in the molar, ha, ha, ha!” He straightened himself. “When the world has swung through space a further hundred miles or so, ha, ha! then—ah, yes, . . . then—” and for the second time he looked knowing and winked. Then he swung round upon his heel.
 
-‘And now,’ he said, ‘what will *you* have? And what, in the name of hosiery, are you wearing?’
+“And now,” he said, “what will *you* have? And what, in the name of hosiery, are you wearing?”
 
-Steerpike got to his feet. ‘I am wearing what I am forced to wear until clothes can be found which are more appropriate,’ he said. ‘These rags, although an official uniform, are as absurd upon me as they are insulting. Sir,’ he continued, ‘you asked me what I would take. Brandy, I thank you, sir, Brandy.’ Mrs Slagg, staring her poor old eyes practically out of their hot sockets, peered at the Doctor as the speech ended, to hear what he could possibly say after so many words. Fuchsia had not been listening. Something to wear, he had said. Something to lie heavily on her bosom. A stone. Tired as she was she was all excitement to know what it could be. Dr Prunesquallor had always been kind to her, if rather above her, but he had never given her a present before. What colour would the heavy stone be? What would it be? What would it be?
+Steerpike got to his feet. “I am wearing what I am forced to wear until clothes can be found which are more appropriate,” he said. “These rags, although an official uniform, are as absurd upon me as they are insulting. Sir,” he continued, “you asked me what I would take. Brandy, I thank you, sir, Brandy.” Mrs Slagg, staring her poor old eyes practically out of their hot sockets, peered at the Doctor as the speech ended, to hear what he could possibly say after so many words. Fuchsia had not been listening. Something to wear, he had said. Something to lie heavily on her bosom. A stone. Tired as she was she was all excitement to know what it could be. Dr Prunesquallor had always been kind to her, if rather above her, but he had never given her a present before. What colour would the heavy stone be? What would it be? What would it be?
 
-The Doctor was for a moment nonplussed at the youth’s self-assurance, but he did not show it. He simply smiled like a crocodile. ‘Am *I* mistaken, dear boy, or is that a kitchen jacket you’re wearing?’
+The Doctor was for a moment nonplussed at the youth’s self-assurance, but he did not show it. He simply smiled like a crocodile. “Am *I* mistaken, dear boy, or is that a kitchen jacket you’re wearing?”
 
-‘Not only is this a kitchen jacket, but these are kitchen trousers and kitchen socks and kitchen shoes and everything is kitchen about me, sir, except myself, if you don’t mind me saying so, Doctor.’
+“Not only is this a kitchen jacket, but these are kitchen trousers and kitchen socks and kitchen shoes and everything is kitchen about me, sir, except myself, if you don’t mind me saying so, Doctor.”
 
-‘And what’, said Prunesquallor, placing the tips of his fingers together, ‘are you? Beneath your foetid jacket, which I must say looks amazingly unhygienic even for Swelter’s kitchen. What *are* you? Are you a problem case, my dear boy, or are you a clear-cut young gentleman with no ideas at all, ha, ha, ha?’
+“And what”, said Prunesquallor, placing the tips of his fingers together, “are you? Beneath your foetid jacket, which I must say looks amazingly unhygienic even for Swelter’s kitchen. What *are* you? Are you a problem case, my dear boy, or are you a clear-cut young gentleman with no ideas at all, ha, ha, ha?”
 
-‘With your permission, Doctor, I am neither. I have plenty of ideas, though at the moment plenty of problems, too.’
+“With your permission, Doctor, I am neither. I have plenty of ideas, though at the moment plenty of problems, too.”
 
-‘Is that so?’ said the Doctor. ‘Is that so? How very unique! Have your brandy first, and perhaps some of them will fade gently away upon the fumes of that very excellent narcotic. Ha, ha, ha! Fade gently and imperceptibly away . . .’ And he fluttered his long fingers in the air.
+“Is that so?” said the Doctor. “Is that so? How very unique! Have your brandy first, and perhaps some of them will fade gently away upon the fumes of that very excellent narcotic. Ha, ha, ha! Fade gently and imperceptibly away . . .” And he fluttered his long fingers in the air.
 
 At this moment a knock upon the door panels caused the Doctor to cry out in his extraordinary falsetto:
 
-‘Make entry! Come along, come along, my dear fellow! Make entry! What in the name of all that’s rapid are you waiting for?’
+“Make entry! Come along, come along, my dear fellow! Make entry! What in the name of all that’s rapid are you waiting for?”
 
 The door opened and the servant entered, balancing a tray upon which stood a bottle of elderberry wine and a small white cardboard box. He deposited the bottle and the box upon the table and retired. There was something sullen about his manner. The bottle had been placed upon the table with perhaps too casual a movement. The door had clicked behind him with rather too sharp a report. Steerpike noticed this, and when he saw the Doctor’s gaze return to his face, he raised his eyebrows quizzically and shrugged his shoulders the merest fraction.
 
 Prunesquallor brought a brandy bottle to the table in the centre of the room, but first poured out a glass of elderberry wine which he gave to Fuchsia with a bow.
 
-‘Drink, my Fuchsia dear,’ he said. ‘Drink to all those things that you love best. *I* know. *I* know,’ he added with his hands folded at his chin again. ‘Drink to everything that’s bright and glossy. Drink to the Coloured Things.’
+“Drink, my Fuchsia dear,” he said. “Drink to all those things that you love best. *I* know. *I* know,” he added with his hands folded at his chin again. “Drink to everything that’s bright and glossy. Drink to the Coloured Things.”
 
-Fuchsia nodded her head unsmilingly at the toast and took a gulp. She looked up at the Doctor very seriously. ‘Its nice,’ she said. ‘I like elderberry wine. Do you like your drink, Nannie?’
+Fuchsia nodded her head unsmilingly at the toast and took a gulp. She looked up at the Doctor very seriously. “Its nice,” she said. “I like elderberry wine. Do you like your drink, Nannie?”
 
 Mrs Slagg very nearly spilt her port over the arm of the chair when she heard herself addressed. She nodded her head violently.
 
-‘And now for the brandy,’ said the Doctor. ‘The brandy for Master . . . Master . . .’
+“And now for the brandy,” said the Doctor. “The brandy for Master . . . Master . . .”
 
-‘Steerpike,’ said the youth. ‘My name is Steerpike, sir.’
+“Steerpike,” said the youth. “My name is Steerpike, sir.”
 
-‘Steerpike of the Many Problems,’ said the Doctor. ‘What did you say they were? My memory is so very untrustworthy. It’s as fickle as a fox. Ask me to name the third lateral bloodvessel from the extremity of my index finger that runs east to west when I lie on my face at sundown, or the percentage of chalk to be found in the knuckles of an average spinster in her fifty-seventh year, ha, ha, ha!—or even ask me, my dear boy, to give details of the pulse rate of frogs two minutes before they die of scabies—these things are no tax upon my memory, ha, ha, ha! but ask me to remember exactly what you said your problems were, a minute ago, and you will find that my memory has forsaken me utterly. Now why is that, my dear Master Steerpike, why is that?’
+“Steerpike of the Many Problems,” said the Doctor. “What did you say they were? My memory is so very untrustworthy. It’s as fickle as a fox. Ask me to name the third lateral bloodvessel from the extremity of my index finger that runs east to west when I lie on my face at sundown, or the percentage of chalk to be found in the knuckles of an average spinster in her fifty-seventh year, ha, ha, ha!—or even ask me, my dear boy, to give details of the pulse rate of frogs two minutes before they die of scabies—these things are no tax upon my memory, ha, ha, ha! but ask me to remember exactly what you said your problems were, a minute ago, and you will find that my memory has forsaken me utterly. Now why is that, my dear Master Steerpike, why is that?”
 
-‘Because I never mentioned them,’ said Steerpike.
+“Because I never mentioned them,” said Steerpike.
 
-‘That accounts for it,’ said Prunesquallor. ‘That, no doubt, accounts for it.’
+“That accounts for it,” said Prunesquallor. “That, no doubt, accounts for it.”
 
-‘I think so, sir,’ said Steerpike.
+“I think so, sir,” said Steerpike.
 
-‘But you *have* problems,’ said the Doctor.
+“But you *have* problems,” said the Doctor.
 
 Steerpike took the glass of brandy which the Doctor had poured out.
 
-‘My problems are varied,’ he said. ‘The most immediate is to impress you with my potentialities. To be able to make such an unorthodox remark is in itself a sign of some originality. I am not indispensable to you at the moment, sir, because you have never made use of my services; but after a week’s employment under your roof, sir, I could become so. I would be invaluable. I am purposely precipitous in my remarks. Either you reject me here and now or you have already at the back of your mind a desire to know me further. I am seventeen, sir. Do I sound like seventeen? Do I act like seventeen? I am clever enough to know I am clever. You will forgive my undiplomatic approach, sir, because you are a gentleman of imagination. That then, sir, is my immediate problem. To impress you with my talent, which would be put to your service in any and every form.’ Steerpike raised his glass. ‘To you, sir, if you will allow my presumption.’
+“My problems are varied,” he said. “The most immediate is to impress you with my potentialities. To be able to make such an unorthodox remark is in itself a sign of some originality. I am not indispensable to you at the moment, sir, because you have never made use of my services; but after a week’s employment under your roof, sir, I could become so. I would be invaluable. I am purposely precipitous in my remarks. Either you reject me here and now or you have already at the back of your mind a desire to know me further. I am seventeen, sir. Do I sound like seventeen? Do I act like seventeen? I am clever enough to know I am clever. You will forgive my undiplomatic approach, sir, because you are a gentleman of imagination. That then, sir, is my immediate problem. To impress you with my talent, which would be put to your service in any and every form.” Steerpike raised his glass. “To you, sir, if you will allow my presumption.”
 
 The Doctor all this while had had his glass of cognac raised, but it had remained motionless an inch from his lips, until now, as Steerpike ended and took a sip at his brandy, he sat down suddenly in a chair beside the table and set down his own glass untasted.
 
-‘Well, well, well, well,’ he said at last. ‘Well, well, well, well, well! By all that’s intriguing this is really the quintessential. What maladdress, by all that’s impudent! What an enormity of surface! What a very rare frenzy indeed!’ And he began to whinny, gently at first, but after a little while his high-pitched laughter increased in volume and in *tempo*, and within a few minutes he was helpless with the shrill gale of his own merriment. How so great a quantity of breath and noise managed to come from lungs that must have been, in that tube of a chest, wedged uncomfortably close together, it is difficult to imagine. Keeping, even at the height of his paroxysms, an extraordinary theatrical elegance, he rocked to and fro in his chair, helpless for the best part of nine minutes after which with difficulty he drew breath thinly through his teeth with a noise like the whistling of steam; and eventually, still shaking a little, he was able to focus his eyes upon the source of his enjoyment.
+“Well, well, well, well,” he said at last. “Well, well, well, well, well! By all that’s intriguing this is really the quintessential. What maladdress, by all that’s impudent! What an enormity of surface! What a very rare frenzy indeed!” And he began to whinny, gently at first, but after a little while his high-pitched laughter increased in volume and in *tempo*, and within a few minutes he was helpless with the shrill gale of his own merriment. How so great a quantity of breath and noise managed to come from lungs that must have been, in that tube of a chest, wedged uncomfortably close together, it is difficult to imagine. Keeping, even at the height of his paroxysms, an extraordinary theatrical elegance, he rocked to and fro in his chair, helpless for the best part of nine minutes after which with difficulty he drew breath thinly through his teeth with a noise like the whistling of steam; and eventually, still shaking a little, he was able to focus his eyes upon the source of his enjoyment.
 
-‘Well, Prodigy, my dear boy! you have done me a lot of good. My lungs have needed something like that for a long time.’
+“Well, Prodigy, my dear boy! you have done me a lot of good. My lungs have needed something like that for a long time.”
 
-‘I have done something for you already, then,’ said Steerpike with the clever imitation of a smile on his face. During the major part of the Doctor’s helplessness he had been taking stock of the room and had poured himself out another glass of brandy. He had noted the *objets d’art*, the expensive carpets and mirrors, and the bookcase of calf-bound volumes. He had poured out some more port for Mrs Slagg and had ventured to wink at Fuchsia, who had stared emptily back, and he had turned the wink into an affection of his eye.
+“I have done something for you already, then,” said Steerpike with the clever imitation of a smile on his face. During the major part of the Doctor’s helplessness he had been taking stock of the room and had poured himself out another glass of brandy. He had noted the *objets d’art*, the expensive carpets and mirrors, and the bookcase of calf-bound volumes. He had poured out some more port for Mrs Slagg and had ventured to wink at Fuchsia, who had stared emptily back, and he had turned the wink into an affection of his eye.
 
 He had examined the labels on the bottles and their year of vintage. He had noticed that the table was of walnut and that the ring upon the Doctor’s right hand was in the form of a silver serpent holding between his gaping jaw a nugget of red gold. At first the Doctor’s laughter had caused him a shock, and a certain mortification, but he was soon his cold, calculating self, with his ordered mind like a bureau with tabulated shelves and pigeon-holes of reference, and he knew that at all costs he must be pleasant. He had taken a risky turning in playing such a boastful card, and at the moment it could not be proved either a failure or a success; but this he did know, that to be able to take risks was the keynote of the successful man.
 
@@ -2421,69 +2421,69 @@ Prunesquallor, when his strength and muscular control were restored sufficiently
 
 This seemed to do the Doctor a lot of good. He stared at the youth.
 
-‘You *do* interest me, I must admit that much, Master Steerpike,’ he said. ‘Oh yes, I’ll go that far, ha, ha, ha! You interest me, or rather you tantalize me in a pleasant sort of way. But whether I want to have you hanging around my house is, as you with your enormous brain will readily admit, quite a different kettle of fish.’
+“You *do* interest me, I must admit that much, Master Steerpike,” he said. “Oh yes, I’ll go that far, ha, ha, ha! You interest me, or rather you tantalize me in a pleasant sort of way. But whether I want to have you hanging around my house is, as you with your enormous brain will readily admit, quite a different kettle of fish.”
 
-‘I don’t hang about, sir. It is one of those things I never do.’
+“I don’t hang about, sir. It is one of those things I never do.”
 
 Fuchsia’s voice came slowly across the room.
 
-‘You hung about in my room,’ she said. And then, bending forward, she looked up at the Doctor with an almost imploring expression. ‘He *climbed* there,’ she said. ‘He’s clever.’ Then she leaned back in her chair. ‘I am tired; and he saw my own room that nobody ever saw before he saw it, and it is worrying me. Oh, Dr Prune.’
+“You hung about in my room,” she said. And then, bending forward, she looked up at the Doctor with an almost imploring expression. “He *climbed* there,” she said. “He’s clever.” Then she leaned back in her chair. “I am tired; and he saw my own room that nobody ever saw before he saw it, and it is worrying me. Oh, Dr Prune.”
 
 There was a pause.
 
-‘He climbed there,’ she said again.
+“He climbed there,” she said again.
 
-‘I had to go somewhere,’ said Steerpike. ‘I didn’t know it was your room. How could I have known? I am sorry, your Ladyship.’
+“I had to go somewhere,” said Steerpike. “I didn’t know it was your room. How could I have known? I am sorry, your Ladyship.”
 
 She did not answer.
 
 Prunesquallor had looked from one to the other.
 
-‘Aha! aha! Take a little of this powder, Fuchsia dear,’ he said, bringing across to her the white cardboard box. He removed the lid and tilted a little into her glass which he filled again with elderberry wine. ‘You won’t taste anything at all, my dear girl; just sip it up and you will feel as strong as a mountain tiger, ha, ha! Mrs Slagg, you will take this box away with you. Four times a day, with whatever the dear child happens to be drinking. It is tasteless. It is harmless, and it is extremely efficacious. Do not forget, my good woman, will you? She needs something and this is the very something she needs, ha, ha, ha! this is the very something!’
+“Aha! aha! Take a little of this powder, Fuchsia dear,” he said, bringing across to her the white cardboard box. He removed the lid and tilted a little into her glass which he filled again with elderberry wine. “You won’t taste anything at all, my dear girl; just sip it up and you will feel as strong as a mountain tiger, ha, ha! Mrs Slagg, you will take this box away with you. Four times a day, with whatever the dear child happens to be drinking. It is tasteless. It is harmless, and it is extremely efficacious. Do not forget, my good woman, will you? She needs something and this is the very something she needs, ha, ha, ha! this is the very something!”
 
-Nannie received the box on which was written ‘*Fuchsia. One teaspoonful to be taken 4 times a day.*’
+Nannie received the box on which was written “*Fuchsia. One teaspoonful to be taken 4 times a day.*”
 
-‘Master Steerpike,’ said the Doctor, ‘is that the reason you wanted to see me, to beard me in my den, and to melt my heart like tallow upon my own hearthrug?’ He tilted his head at the youth.
+“Master Steerpike,” said the Doctor, “is that the reason you wanted to see me, to beard me in my den, and to melt my heart like tallow upon my own hearthrug?” He tilted his head at the youth.
 
-‘That is so, sir,’ said Steerpike. ‘With Lady Fuchsia’s permission I accompanied her. I said to her: “Just let me see the Doctor, and put my case to him, and I am confident he will be impressed”.’
+“That is so, sir,” said Steerpike. “With Lady Fuchsia’s permission I accompanied her. I said to her: ‘Just let me see the Doctor, and put my case to him, and I am confident he will be impressed’.”
 
-There was a pause. Then in a confidential voice Steerpike added: ‘In my less ambitious moments it is as a research scientist that I see myself, sir, and in my still less ambitious, as a dispenser.’
+There was a pause. Then in a confidential voice Steerpike added: “In my less ambitious moments it is as a research scientist that I see myself, sir, and in my still less ambitious, as a dispenser.”
 
-‘What knowledge of chemicals have you, if I may venture to remark?’ said the Doctor.
+“What knowledge of chemicals have you, if I may venture to remark?” said the Doctor.
 
-‘Under your initial guidance my powers would develop as rapidly as you could wish,’ said Steerpike.
+“Under your initial guidance my powers would develop as rapidly as you could wish,” said Steerpike.
 
-‘You are a clever little monster,’ said the Doctor, tossing off another cognac and placing the glass upon the table with a click. ‘A diabolically clever little monster.’
+“You are a clever little monster,” said the Doctor, tossing off another cognac and placing the glass upon the table with a click. “A diabolically clever little monster.”
 
-‘That is what I hoped you would realize, Doctor,’ said Steerpike. ‘But haven’t all ambitious people something of the monstrous about them? You, sir, for instance, if you will forgive me, are a little bit monstrous.’
+“That is what I hoped you would realize, Doctor,” said Steerpike. “But haven’t all ambitious people something of the monstrous about them? You, sir, for instance, if you will forgive me, are a little bit monstrous.”
 
-‘But, my poor youth,’ said Prunesquallor, beginning to pace the room, ‘there is not the minutest molecule of ambition in my anatomy, monstrous though it may appear to you, ha, ha, ha!’
+“But, my poor youth,” said Prunesquallor, beginning to pace the room, “there is not the minutest molecule of ambition in my anatomy, monstrous though it may appear to you, ha, ha, ha!”
 
 His laughter had not the spontaneous, uncontrollable quality that it usually possessed.
 
-‘But, sir,’ said Steerpike, ‘there *has* been.’
+“But, sir,” said Steerpike, “there *has* been.”
 
-‘And why do you think so?’
+“And why do you think so?”
 
-‘Because of this room. Because of the exquisite furnishings you possess; because of your calf-bound books; your glassware; your violin. You could not have collected together such things without ambition.’
+“Because of this room. Because of the exquisite furnishings you possess; because of your calf-bound books; your glassware; your violin. You could not have collected together such things without ambition.”
 
-‘That is not ambition, my poor confused boy,’ said the Doctor: ‘it is a union between those erstwhile incompatibles, ha, ha, ha!—taste and a hereditary income.’
+“That is not ambition, my poor confused boy,” said the Doctor: “it is a union between those erstwhile incompatibles, ha, ha, ha!—taste and a hereditary income.”
 
-‘Is not taste a cultivated luxury?’ said Steerpike.
+“Is not taste a cultivated luxury?” said Steerpike.
 
-‘But yes,’ said the Doctor. ‘But yes. One has the potentialities for taste; on finding this out about oneself, ha, ha!—after a little self-probing, it is a cultivated thing, as you remark.’
+“But yes,” said the Doctor. “But yes. One has the potentialities for taste; on finding this out about oneself, ha, ha!—after a little self-probing, it is a cultivated thing, as you remark.”
 
-‘Which needs assiduous concentration and diligence, no doubt,’ said the youth.
+“Which needs assiduous concentration and diligence, no doubt,” said the youth.
 
-‘But yes; but yes,’ answered the Doctor smiling, with a note in his voice that suggested it was only common politeness in him to keep amused.
+“But yes; but yes,” answered the Doctor smiling, with a note in his voice that suggested it was only common politeness in him to keep amused.
 
-‘Surely such diligence is the same thing as ambitiousness. Ambitiousness to perfect your taste. That is what I mean by “ambition”, Doctor, I believe you have it. I do not mean ambition for success, for “success” is a meaningless word—the successful, so I hear, being very often, to themselves, failures of the first water.’
+“Surely such diligence is the same thing as ambitiousness. Ambitiousness to perfect your taste. That is what I mean by ‘ambition’, Doctor, I believe you have it. I do not mean ambition for success, for ‘success’ is a meaningless word—the successful, so I hear, being very often, to themselves, failures of the first water.”
 
-‘You interest me,’ said Prunesquallor. ‘I would like to speak to Lady Fuchsia alone. We haven’t been paying very much attention to her, I am afraid. We have deserted her. She is alone in a desert of her own. Only watch her.’
+“You interest me,” said Prunesquallor. “I would like to speak to Lady Fuchsia alone. We haven’t been paying very much attention to her, I am afraid. We have deserted her. She is alone in a desert of her own. Only watch her.”
 
 Fuchsia’s eyes were shut as she leaned back in the chair, her knees curled up under her.
 
-‘While I speak with her you will be so very, very good as to leave the room. There’s a chair in the hall, Master Steerpike. Thank you, dear youth. It would be a handsome gesture.’
+“While I speak with her you will be so very, very good as to leave the room. There’s a chair in the hall, Master Steerpike. Thank you, dear youth. It would be a handsome gesture.”
 
 Steerpike disappeared at once, taking his brandy with him.
 
@@ -2491,13 +2491,13 @@ Prunesquallor looked at the old woman and the girl. Mrs Slagg, with her little m
 
 The Doctor immediately beckoned her to approach. She came to him at once, her eyes wide.
 
-‘I’ve waited so long, Dr Prune,’ she said. ‘Can I have my stone now?’
+“I’ve waited so long, Dr Prune,” she said. “Can I have my stone now?”
 
-‘This very moment,’ said the Doctor. ‘This very second. You will not know very much about the nature of this stone, but you will treasure it more than anyone I could possibly think of. Fuchsia dear, you were so distraught as you ran like a wild pony away from your father and me; so distraught with your black mane and your big hungry eyes—that I said to myself: “It’s for Fuchsia”, although ponies don’t usually care much about such things, ha, ha, ha! But you will, won’t you?’
+“This very moment,” said the Doctor. “This very second. You will not know very much about the nature of this stone, but you will treasure it more than anyone I could possibly think of. Fuchsia dear, you were so distraught as you ran like a wild pony away from your father and me; so distraught with your black mane and your big hungry eyes—that I said to myself: ‘It’s for Fuchsia’, although ponies don’t usually care much about such things, ha, ha, ha! But you will, won’t you?”
 
 The Doctor took from his pocket a small pouch of softest leather.
 
-‘Take it out yourself,’ he said. ‘Draw it out with this slender chain.’
+“Take it out yourself,” he said. “Draw it out with this slender chain.”
 
 Fuchsia took the pouch from the Doctor’s hand and from it drew forth into the lamplight a ruby like a lump of anger.
 
@@ -2505,93 +2505,93 @@ It burned in her palm.
 
 She did not know what to do. She did not wonder what she ought to say. There was nothing at all to say. Dr Prunesquallor knew something of what she felt. At last, clutching the solid fire between her fingers, she shook Nannie Slagg, who screamed a little as she awoke. Fuchsia got to her feet and dragged her to the door. A moment before the Doctor opened it for them, Fuchsia turned her face up to his and parted her lips in a smile of such dark, sweet loveliness, so subtly blended with her brooding strangeness, that the Doctor’s hand clenched the handle of the door. He had never seen her look like this before. He had always thought of her as an ugly girl of whom he was strangely fond. But now, what was it he had seen? She was no longer a small girl for all her slowness of speech and almost irritating simplicity.
 
-In the hall they passed the figure of Steerpike sitting comfortably on the floor beneath a large carved clock. They did not speak, and when they parted with the Doctor Nannie said: ‘Thank you’ in a sleepy voice and bowed slightly, one of her hands in Fuchsia’s. Fuchsia’s fingers clenched the blood-red stone and the Doctor only said: ‘Good-bye, and take care, my dears, take care. Happy dreams. Happy dreams,’ before he closed the door.
+In the hall they passed the figure of Steerpike sitting comfortably on the floor beneath a large carved clock. They did not speak, and when they parted with the Doctor Nannie said: “Thank you” in a sleepy voice and bowed slightly, one of her hands in Fuchsia’s. Fuchsia’s fingers clenched the blood-red stone and the Doctor only said: “Good-bye, and take care, my dears, take care. Happy dreams. Happy dreams,” before he closed the door.
 
 ## A GIFT OF THE GAB
 
 As he returned through the hall his mind was so engrossed with his new vision of Fuchsia that he had forgotten Steerpike and was startled at the sound of steps behind him. A moment or two earlier Steerpike had himself been startled by footsteps descending the staircase immediately above where he had been sitting in the shadowy, tiger stripes of the banisters.
 
-He moved swiftly up to the Doctor. ‘I am afraid I am still here,’ he said, and then glanced over his shoulder following the Doctor’s eyes. Steerpike turned and saw, descending the last three steps of the staircase, a lady whose similarity to Dr Prunesquallor was unmistakable, but whose whole deportment was more rigid. She, also, suffered from faulty eyesight, but in her case the glasses were darkly tinted so that it was impossible to tell at whom she was looking save by the general direction of the head, which was no sure indication.
+He moved swiftly up to the Doctor. “I am afraid I am still here,” he said, and then glanced over his shoulder following the Doctor’s eyes. Steerpike turned and saw, descending the last three steps of the staircase, a lady whose similarity to Dr Prunesquallor was unmistakable, but whose whole deportment was more rigid. She, also, suffered from faulty eyesight, but in her case the glasses were darkly tinted so that it was impossible to tell at whom she was looking save by the general direction of the head, which was no sure indication.
 
-The lady approached them. ‘Who is this?’ she said directing her face at Steerpike.
+The lady approached them. “Who is this?” she said directing her face at Steerpike.
 
-‘This,’ said her brother, ‘is none other than Master Steerpike, who was brought to see me on account of his talents. He is anxious for me to make use of his brain, ha, ha!—not, as you might suppose, as a floating specimen in one of my jam jars, ha, ha, ha! but in its functional capacity as a vortex of dazzling thought.’
+“This,” said her brother, “is none other than Master Steerpike, who was brought to see me on account of his talents. He is anxious for me to make use of his brain, ha, ha!—not, as you might suppose, as a floating specimen in one of my jam jars, ha, ha, ha! but in its functional capacity as a vortex of dazzling thought.”
 
-‘Did he go upstairs just now?’ said Miss Irma Prunesquallor. ‘I said did he go upstairs just now?’
+“Did he go upstairs just now?” said Miss Irma Prunesquallor. “I said did he go upstairs just now?”
 
 The tall lady had the habit of speaking at great speed and of repeating her questions irritably before there had been a moment’s pause in which they might be answered. Prunesquallor had in moments of whimsy often amused himself by trying to wedge an answer to her less complex queries between the initial question and its sharp echo.
 
-‘Upstairs, my dear?’ repeated her brother.
+“Upstairs, my dear?” repeated her brother.
 
-‘I said “upstairs”, I think,’ said Irma Prunesquallor sharply. ‘I think I said “upstairs”. Have you, or he, or anyone been upstairs a quarter of an hour ago? Have you? Have you?’
+“I said ‘upstairs’, I think,” said Irma Prunesquallor sharply. “I think I said ‘upstairs’. Have you, or he, or anyone been upstairs a quarter of an hour ago? Have you? Have you?”
 
-‘Surely not! surely not!’ said the Doctor. ‘We have all been downstairs, I think. Don’t you?’ he said, turning to Steerpike.
+“Surely not! surely not!” said the Doctor. “We have all been downstairs, I think. Don’t you?” he said, turning to Steerpike.
 
-‘I do,’ said Steerpike. The Doctor began to like the way the youth answered quietly and neatly.
+“I do,” said Steerpike. The Doctor began to like the way the youth answered quietly and neatly.
 
 Irma Prunesquallor drew herself together. Her long tightly fitting black dress gave peculiar emphasis to such major bone formations as the iliac crest, and indeed the entire pelvis; the shoulder blades, and in certain angles, as she stood in the lamplight, to the ribs themselves. Her neck was long and the Prunesquallors’ head sat upon it surrounded by the same grey thatch-like hair as that adopted by her brother, but in her case knotted in a low bun at the neck.
 
-‘The servant is out. OUT,’ she said. ‘It is his evening *out*. Isn’t it? Isn’t it?’
+“The servant is out. OUT,” she said. “It is his evening *out*. Isn’t it? Isn’t it?”
 
-She seemed to be addressing Steerpike, so he answered: ‘I have no knowledge of the arrangements you have made, madam. But he was in the Doctor’s room a few minutes ago, so I expect it was he whom you heard outside your door.’
+She seemed to be addressing Steerpike, so he answered: “I have no knowledge of the arrangements you have made, madam. But he was in the Doctor’s room a few minutes ago, so I expect it was he whom you heard outside your door.”
 
-‘Who said I heard anything outside my door?’ said Irma Prunesquallor, a trifle less rapidly than usual. ‘Who?’
+“Who said I heard anything outside my door?” said Irma Prunesquallor, a trifle less rapidly than usual. “Who?”
 
-‘Were you not within your room, madam?’
+“Were you not within your room, madam?”
 
-‘What of it? what of it?’
+“What of it? what of it?”
 
-‘I gathered from what you said that you thought that there was someone walking about upstairs,’ answered Steerpike obliquely; ‘and if, as you say, you were *inside* your room, then you must have heard the footsteps *outside* your room. That is what I attempted to make clear, madam.’
+“I gathered from what you said that you thought that there was someone walking about upstairs,” answered Steerpike obliquely; “and if, as you say, you were *inside* your room, then you must have heard the footsteps *outside* your room. That is what I attempted to make clear, madam.”
 
-‘You seem to know too much about it. Don’t you? don’t you?’ She bent forward and her opaque-looking glasses stared flatly at Steerpike.
+“You seem to know too much about it. Don’t you? don’t you?” She bent forward and her opaque-looking glasses stared flatly at Steerpike.
 
-‘I know nothing, madam,’ said Steerpike.
+“I know nothing, madam,” said Steerpike.
 
-‘What, Irma dear, is all this? What in the name of all that’s circuitous *is* all this?’
+“What, Irma dear, is all this? What in the name of all that’s circuitous *is* all this?”
 
-‘I heard feet. That is all. Feet,’ said his sister; and then, after a pause she added with renewed emphasis: ‘Feet.’
+“I heard feet. That is all. Feet,” said his sister; and then, after a pause she added with renewed emphasis: “Feet.”
 
-‘Irma, my dear sister,’ said Prunesquallor, ‘I have two things to say. Firstly, why in the name of discomfort are we hanging around in the hall and probably dying of a draught that as far as I am concerned runs up my right trouser leg and sets my gluteous maximus twitching; and secondly, what is wrong, when you boil the matter down—with feet? I have always found mine singularly useful, especially for walking with. In fact, ha, ha, ha, one might almost imagine that they had been designed for that very purpose.’
+“Irma, my dear sister,” said Prunesquallor, “I have two things to say. Firstly, why in the name of discomfort are we hanging around in the hall and probably dying of a draught that as far as I am concerned runs up my right trouser leg and sets my gluteous maximus twitching; and secondly, what is wrong, when you boil the matter down—with feet? I have always found mine singularly useful, especially for walking with. In fact, ha, ha, ha, one might almost imagine that they had been designed for that very purpose.”
 
-‘As usual’, said his sister, ‘you are drunk with your own levity. You have a brain, Alfred. I have never denied it. Never. But it is undermined by your insufferable levity. I tell you that someone has been prowling about upstairs and you take no notice. There has been no one to prowl. Do you not see the point?’
+“As usual”, said his sister, “you are drunk with your own levity. You have a brain, Alfred. I have never denied it. Never. But it is undermined by your insufferable levity. I tell you that someone has been prowling about upstairs and you take no notice. There has been no one to prowl. Do you not see the point?”
 
-‘I heard something, too,’ said Steerpike, breaking in. ‘I was sitting in the hall where the Doctor suggested I should remain while he decided in what capacity he would employ me, when I heard what sounded like footsteps upstairs. I crept to the top of the stairs silently, but there was no one there, so I returned.’
+“I heard something, too,” said Steerpike, breaking in. “I was sitting in the hall where the Doctor suggested I should remain while he decided in what capacity he would employ me, when I heard what sounded like footsteps upstairs. I crept to the top of the stairs silently, but there was no one there, so I returned.”
 
 Steerpike, thinking the upstairs to be empty, had in reality been making a rough survey of the first floor, until he heard what must have been Irma moving to the door of her room, at which sound he had slid down the banisters.
 
-‘You hear what he says,’ said the lady, following her brother with a stiff irritation in every line of her progress. ‘You hear what he says.’
+“You hear what he says,” said the lady, following her brother with a stiff irritation in every line of her progress. “You hear what he says.”
 
-‘Very much so!’ said the Doctor. ‘Very much so, indeed. Most indigestible.’
+“Very much so!” said the Doctor. “Very much so, indeed. Most indigestible.”
 
 Steerpike moved a chair up for Irma Prunesquallor with such a show of consideration for her comfort and such adroitness that she stared at him and her hard mouth relaxed at one corner.
 
-‘Steerpike,’ she said, wrinkling her black dress above her hips as she reclined a little into her chair.
+“Steerpike,” she said, wrinkling her black dress above her hips as she reclined a little into her chair.
 
-‘I am at your service, madam,’ said Steerpike. ‘What may I do for you?’
+“I am at your service, madam,” said Steerpike. “What may I do for you?”
 
-‘What on earth are you wearing? What are you wearing, boy?’
+“What on earth are you wearing? What are you wearing, boy?”
 
-‘It is with great regret that at my introduction to you I should be in clothes that so belie my fastidious nature, madam,’ he said. ‘If you will advise me where I may procure the cloth I will endeavour to have myself fitted tomorrow. Standing beside you, madam, in your exquisite gown of darkness—’
+“It is with great regret that at my introduction to you I should be in clothes that so belie my fastidious nature, madam,” he said. “If you will advise me where I may procure the cloth I will endeavour to have myself fitted tomorrow. Standing beside you, madam, in your exquisite gown of darkness—”
 
-‘ “Gown of darkness” is good,’ interrupted Prunesquallor, raising his hand to his head, where he spread his snow-white fingers across his brow. ‘ “Gown of darkness”. A phrase, ha, ha! Definitely a phrase.’
+“ ‘Gown of darkness’ is good,” interrupted Prunesquallor, raising his hand to his head, where he spread his snow-white fingers across his brow. “ ‘Gown of darkness’. A phrase, ha, ha! Definitely a phrase.”
 
-‘You have broken in, Alfred!’ said his sister. ‘Haven’t you? haven’t you? I will have a suit cut for you tomorrow, Steerpike,’ she continued. ‘You will be here, I suppose? Where are you sleeping? Is he sleeping here? Where do you live? Where does he live, Alfred? What have you arranged? Nothing, I expect. Have you done anything? Have you? have you?’
+“You have broken in, Alfred!” said his sister. “Haven’t you? haven’t you? I will have a suit cut for you tomorrow, Steerpike,” she continued. “You will be here, I suppose? Where are you sleeping? Is he sleeping here? Where do you live? Where does he live, Alfred? What have you arranged? Nothing, I expect. Have you done anything? Have you? have you?”
 
-‘What sort of thing, Irma, my dear? What sort of thing are you referring to? I have done all sorts of things. I have removed a gallstone the size of a potato. I have played delicately upon my violin while a rainbow shone through the dispensary window; I have plunged so deeply into the poets of grief that save for my foresight in attaching fish-hooks to my clothes I might never again have been drawn earthwards, ha, ha! from those excruciating depths!’
+“What sort of thing, Irma, my dear? What sort of thing are you referring to? I have done all sorts of things. I have removed a gallstone the size of a potato. I have played delicately upon my violin while a rainbow shone through the dispensary window; I have plunged so deeply into the poets of grief that save for my foresight in attaching fish-hooks to my clothes I might never again have been drawn earthwards, ha, ha! from those excruciating depths!”
 
 Irma could tell exactly when her brother would veer off into soliloquy and had developed the power to pay no attention at all to what he said. The footsteps upstairs seemed forgotten. She watched Steerpike as he poured her out a glass of port with a gallantry quite remarkable in its technical perfection of movement and timing.
 
-‘You wish to be employed. Is that it? Is that it?’ she said.
+“You wish to be employed. Is that it? Is that it?” she said.
 
-‘It is my ardent desire to be in your service,’ he said.
+“It is my ardent desire to be in your service,” he said.
 
-‘Why? Tell me why,’ said Miss Prunesquallor.
+“Why? Tell me why,” said Miss Prunesquallor.
 
-‘I endeavour to keep my mind in an equipoise between the intuitive, and rational reasoning, madam,’ he said. ‘But with you I cannot, for my intuitive desire to be of service overshadows my reasons, though they are many. I can only say I feel a desire to fulfil myself by finding employment under your roof. And so,’ he added, turning up the corners of his mouth in a quizzical smile, ‘that is the reason why I cannot exactly say *why*.’
+“I endeavour to keep my mind in an equipoise between the intuitive, and rational reasoning, madam,” he said. “But with you I cannot, for my intuitive desire to be of service overshadows my reasons, though they are many. I can only say I feel a desire to fulfil myself by finding employment under your roof. And so,” he added, turning up the corners of his mouth in a quizzical smile, “that is the reason why I cannot exactly say *why*.”
 
-‘Mixed up with this metaphysical impulse, this fulfilment that you speak of so smoothly,’ said the Doctor, ‘is no doubt a desire to snatch the first opportunity of getting away from Swelter and the unpleasant duties which you have no doubt had to perform. Is that not so?’
+“Mixed up with this metaphysical impulse, this fulfilment that you speak of so smoothly,” said the Doctor, “is no doubt a desire to snatch the first opportunity of getting away from Swelter and the unpleasant duties which you have no doubt had to perform. Is that not so?”
 
-‘It is,’ said Steerpike.
+“It is,” said Steerpike.
 
 This forthright answer so pleased the Doctor that he got up from his chair and, smiling toothily, poured himself yet another glass. What pleased him especially was the mixture of cunning and honesty which he did not yet perceive to be a still deeper strata of Steerpike’s cleverness.
 
@@ -2609,37 +2609,37 @@ By now all three of them were seated. The Doctor had drunk rather more than he w
 
 Even his sister had felt the effect of more than her usual quota of port. Whenever Steerpike spoke she nodded her head sharply as though in total agreement.
 
-‘Alfred,’ she said. ‘Alfred, I’m speaking to you. Can you hear me? Can you? Can you?’
+“Alfred,” she said. “Alfred, I’m speaking to you. Can you hear me? Can you? Can you?”
 
-‘Very distinctly, Irma, my very dear, dear sister. Your voice is ringing in my middle ear. In fact, it’s ringing in both of them. Right in the very middle of them both, or rather, in both their very middles. What is it, flesh of my flesh?’
+“Very distinctly, Irma, my very dear, dear sister. Your voice is ringing in my middle ear. In fact, it’s ringing in both of them. Right in the very middle of them both, or rather, in both their very middles. What is it, flesh of my flesh?”
 
-‘We shall dress him in pale grey,’ she said.
+“We shall dress him in pale grey,” she said.
 
-‘Who, blood of my blood?’ cried Prunesquallor. ‘Who is to be apparisoned in the hue of doves?’
+“Who, blood of my blood?” cried Prunesquallor. “Who is to be apparisoned in the hue of doves?”
 
-‘Who? How can you say “Who?”! This youth, Alfred, this youth. He is taking Pellet’s place. I am discharging Pellet tomorrow. He has always been too slow and clumsy. Don’t you think so? Don’t you think so?’
+“Who? How can you say ‘Who?’! This youth, Alfred, this youth. He is taking Pellet’s place. I am discharging Pellet tomorrow. He has always been too slow and clumsy. Don’t you think so? Don’t you think so?”
 
-‘I am far beyond thinking, bone of my bone. Far, far beyond thinking. I hand over the reins to you, Irma. Mount and begone. The world awaits you.’
+“I am far beyond thinking, bone of my bone. Far, far beyond thinking. I hand over the reins to you, Irma. Mount and begone. The world awaits you.”
 
 Steerpike saw that the time was ripe.
 
-‘I am confident I shall give satisfaction, dear lady,’ he said. ‘My reward will be to see you, perhaps, once more, perhaps twice more, if you will allow me, in this dark gown that so becomes you. The slight stain which I noticed upon the hem I will remove tomorrow, with your permission. Madam,’ he said, with that startling simplicity with which he interlarded his remarks, ‘where can I sleep?’
+“I am confident I shall give satisfaction, dear lady,” he said. “My reward will be to see you, perhaps, once more, perhaps twice more, if you will allow me, in this dark gown that so becomes you. The slight stain which I noticed upon the hem I will remove tomorrow, with your permission. Madam,” he said, with that startling simplicity with which he interlarded his remarks, “where can I sleep?”
 
 Rising to her feet stiffly, but with more self-conscious dignity than she had found it necessary to assume for some while past, she motioned him to follow her with a singularly wooden gesture, and led the way through the door.
 
 Somewhere in the vaults of her bosom a tiny imprisoned bird had begun to sing.
 
-‘Are you going forever and a day?’ shouted the Doctor from his chair in which he was spread out like a length of rope. ‘Am I to be marooned forever, ha, ha, ha! for evermore and evermore?’
+“Are you going forever and a day?” shouted the Doctor from his chair in which he was spread out like a length of rope. “Am I to be marooned forever, ha, ha, ha! for evermore and evermore?”
 
-‘For tonight, yes,’ replied his sister’s voice. ‘Mister Steerpike will see you in the morning.’
+“For tonight, yes,” replied his sister’s voice. “Mister Steerpike will see you in the morning.”
 
 The Doctor yawned with a final flash of his teeth, and fell fast asleep.
 
 Miss Prunesquallor led Steerpike to the door of a room on the second floor. Steerpike noticed that it was simple, spacious and comfortable.
 
-‘I will have you called in the morning, after which I will instruct you in your duties. Do you hear me? Do you hear me?’
+“I will have you called in the morning, after which I will instruct you in your duties. Do you hear me? Do you hear me?”
 
-‘With great pleasure, madam.’
+“With great pleasure, madam.”
 
 Her passage to the door was more stilted than ever, for she had not for a very long while made such an effort to walk attractively. The black silk of her dress gleamed in the candlelight and rustled at the knees. She turned her head at the door and Steerpike bowed, keeping his head down until the door was closed and she had gone.
 
@@ -2661,7 +2661,7 @@ Had not her birds been with her, the frustration of her spirit must surely have 
 
 The white rook was the most constant in his re-appearances at the ivy-choked window, although up to the moment of her confinement he had been the most fickle of visitors.
 
-In her deep voice she would hold converse with him for an hour at a time, referring to him as ‘Master Chalk’ or her ‘wicked one’. All her companions came. Sometimes the room was alive with song. Sometimes, feeling the need to exercise their pinions in the sky, a crowd of them would follow one another through the window of ivy, around which in the shadowy air as they waited their turn to scramble through, a dozen birds at a time would hover, fall and rise, rattling their many-coloured wings.
+In her deep voice she would hold converse with him for an hour at a time, referring to him as “Master Chalk” or her “wicked one”. All her companions came. Sometimes the room was alive with song. Sometimes, feeling the need to exercise their pinions in the sky, a crowd of them would follow one another through the window of ivy, around which in the shadowy air as they waited their turn to scramble through, a dozen birds at a time would hover, fall and rise, rattling their many-coloured wings.
 
 Thus it might be that from time to time she would be almost deserted. On one occasion only a stonechat and a bedraggled owl were with her.
 
@@ -2683,55 +2683,55 @@ The dreadful and premature age that descended so suddenly upon the faces of the 
 
 A hectic beauty came upon the maidens of the Mud buildings a month or so before the ravages to which they were predestined attacked them. From infancy until this tragic interim of beauty their loveliness was of a strange innocence, a crystal-like tranquillity that held no prescience of the future. When in this clearness the dark seeds began to root and smoke was mixed with the flame, then, as with Keda now, a thorny splendour struck outward from their features.
 
-One warm afternoon, sitting in Mrs Slagg’s room with Titus at her breast, she turned to the old nurse and said quietly: ‘At the end of the month I shall return to my home. Titus is strong and well and he will be able to do without me.’
+One warm afternoon, sitting in Mrs Slagg’s room with Titus at her breast, she turned to the old nurse and said quietly: “At the end of the month I shall return to my home. Titus is strong and well and he will be able to do without me.”
 
-Nannie, whose head had been nodding a little, for she was always either dropping off for a nap or waking up from one, opened her eyes when Keda’s words had soaked into her brain. Then she sat up very suddenly and in a frightened voice called out: ‘No! no! you mustn’t go. You mustn’t! You mustn’t! Oh, Keda, you know how old I am.’ And she ran across the room to hold Keda’s arm. Then for the sake of her dignity: ‘I’ve told you not to call him Titus,’ she cried in a rush. ‘ “Lord Titus” or “his Lordship,” is what you *should* say.’ And then, as though with relief, she fell back upon her trouble. ‘Oh, you can’t go! you can’t go!’
+Nannie, whose head had been nodding a little, for she was always either dropping off for a nap or waking up from one, opened her eyes when Keda’s words had soaked into her brain. Then she sat up very suddenly and in a frightened voice called out: “No! no! you mustn’t go. You mustn’t! You mustn’t! Oh, Keda, you know how old I am.” And she ran across the room to hold Keda’s arm. Then for the sake of her dignity: “I’ve told you not to call him Titus,” she cried in a rush. “ ‘Lord Titus’ or ‘his Lordship,’ is what you *should* say.” And then, as though with relief, she fell back upon her trouble. “Oh, you can’t go! you can’t go!”
 
-‘I must go,’ said Keda. ‘There are reasons why I must go.’
+“I must go,” said Keda. “There are reasons why I must go.”
 
-‘Why? why? why?’ Nannie cried out through the tears that were beginning to run jerkily down her foolish wrinkled face. ‘Why must you go?’ Then she stamped a tiny slippered foot that made very little noise. ‘You must answer me! You must! Why are you going away from me?’ Then, clenching her hands—‘I’ll tell the Countess,’ she said. ‘I’ll tell her.’
+“Why? why? why?” Nannie cried out through the tears that were beginning to run jerkily down her foolish wrinkled face. “Why must you go?” Then she stamped a tiny slippered foot that made very little noise. “You must answer me! You must! Why are you going away from me?” Then, clenching her hands—“I’ll tell the Countess,” she said. “I’ll tell her.”
 
 Keda took no notice at all, but lifted Titus from one shoulder to another where his crying ceased.
 
-‘He will be safe in your care,’ said Keda. ‘You must find another helper when he grows older for he will be too much for you.’
+“He will be safe in your care,” said Keda. “You must find another helper when he grows older for he will be too much for you.”
 
-‘But they won’t be like you,’ shrilled Nannie Slagg, as though she were abusing Keda for her suitability. ‘They won’t be like you. They’ll bully me. Some of them bully old women when they are like me. Oh, my weak heart! my poor weak heart! what can I do?’
+“But they won’t be like you,” shrilled Nannie Slagg, as though she were abusing Keda for her suitability. “They won’t be like you. They’ll bully me. Some of them bully old women when they are like me. Oh, my weak heart! my poor weak heart! what can I do?”
 
-‘Come,’ said Keda. ‘It is not as difficult as that.’
+“Come,” said Keda. “It is not as difficult as that.”
 
-‘It is. It *is*!’ cried Mrs Slagg, renewing her authority. ‘It’s worse than that, much worse. Everyone deserts me, because I’m old.’
+“It is. It *is*!” cried Mrs Slagg, renewing her authority. “It’s worse than that, much worse. Everyone deserts me, because I’m old.”
 
-‘You must find someone you can trust. I will try and help you,’ said Keda.
+“You must find someone you can trust. I will try and help you,” said Keda.
 
-‘*Will* you? *will* you?’ cried Nannie, bringing her fingers up to her mouth and staring at Keda through the red rims of her eyelids. ‘Oh, *will* you? They make me do everything. Fuchsia’s mother leaves everything to me. She has hardly seen his little Lordship, has she? Has she?’
+“*Will* you? *will* you?” cried Nannie, bringing her fingers up to her mouth and staring at Keda through the red rims of her eyelids. “Oh, *will* you? They make me do everything. Fuchsia’s mother leaves everything to me. She has hardly seen his little Lordship, has she? Has she?”
 
-‘No,’ said Keda. ‘Not once. But he is happy.’
+“No,” said Keda. “Not once. But he is happy.”
 
 She lifted the infant away from her and laid him between the blankets in his cot, where after a spell of whimpering he sucked contentedly at his fist.
 
-Nannie Slagg suddenly gripped Keda’s arm again. ‘You haven’t told me why; you haven’t told me why,’ she said. ‘I want to know why you’re going away from me. You never tell me anything. Never. I suppose I’m not worth telling. I suppose you think I don’t matter. Why don’t you tell me things? Oh, my poor heart, I suppose I’m too old to be told anything.’
+Nannie Slagg suddenly gripped Keda’s arm again. “You haven’t told me why; you haven’t told me why,” she said. “I want to know why you’re going away from me. You never tell me anything. Never. I suppose I’m not worth telling. I suppose you think I don’t matter. Why don’t you tell me things? Oh, my poor heart, I suppose I’m too old to be told anything.”
 
-‘I will tell you why I have to go,’ said Keda. ‘Sit down and listen.’ Nannie sat upon a low chair and clasped her wrinkled hands together. ‘Tell me everything,’ she said.
+“I will tell you why I have to go,” said Keda. “Sit down and listen.” Nannie sat upon a low chair and clasped her wrinkled hands together. “Tell me everything,” she said.
 
 Why Keda broke the long silence that was so much a part of her nature she could not afterwards imagine, feeling only that in talking to one who would hardly understand her she was virtually talking to herself. There had come to her a sense of relief in unburdening her heart.
 
 Keda sat upon Mrs Slagg’s bed near the wall. She sat very upright and her hands lay in her lap. For a moment or two she gazed out of the window at a cloud that had meandered lazily into view. Then she turned to the old woman.
 
-‘When I returned with you on that first evening,’ said Keda quietly, ‘I was troubled. I was troubled and I am still unhappy because of love. I feared my future; and my past was sorrow, and in my present you had need of me and I had need of refuge, so I came.’ She paused.
+“When I returned with you on that first evening,” said Keda quietly, “I was troubled. I was troubled and I am still unhappy because of love. I feared my future; and my past was sorrow, and in my present you had need of me and I had need of refuge, so I came.” She paused.
 
-‘Two men from our Mud Dwellings loved me. They loved me too much and too violently.’ Her eyes returned to Nannie Slagg, but they hardly saw her, nor noticed that her withered lips were pursed and her head tilted like a sparrow’s. She continued quietly:
+“Two men from our Mud Dwellings loved me. They loved me too much and too violently.” Her eyes returned to Nannie Slagg, but they hardly saw her, nor noticed that her withered lips were pursed and her head tilted like a sparrow’s. She continued quietly:
 
-‘My husband had died. He was a Bright Carver, and died struggling. I would sit down in the long shadows by our dwelling and watch a dryad’s head from day to day finding its hidden outline. To me it seemed he carved the child of leaves. He would not rest, but fight; and stare—and stare. Always he would stare, cutting the wood away to give his dryad breath. One evening when I felt my unborn moving within me my husband’s heart stopped beating and his weapons fell. I ran to him and knelt beside his body. His chisel lay in the dust. Above us his unfinished dryad gazed over the Twisted Woods, an acorn between its teeth.
+“My husband had died. He was a Bright Carver, and died struggling. I would sit down in the long shadows by our dwelling and watch a dryad’s head from day to day finding its hidden outline. To me it seemed he carved the child of leaves. He would not rest, but fight; and stare—and stare. Always he would stare, cutting the wood away to give his dryad breath. One evening when I felt my unborn moving within me my husband’s heart stopped beating and his weapons fell. I ran to him and knelt beside his body. His chisel lay in the dust. Above us his unfinished dryad gazed over the Twisted Woods, an acorn between its teeth.
 
-‘They buried him, my rough husband, in the long sandy valley, the valley of graves where we are always buried. The two dark men who loved and love me carried his body for me and they lowered it into the sandy hollow that they had scooped. A hundred men were there and a hundred women; for he had been the rarest of the carvers. The sand was heaped upon him and there was only another dusty mound among the mounds of the Valley and all was very silent. They held me in their eyes while he was buried—the two who love me. And I could not think of him whom we were mourning. I could not think of death. Only of life. I could not think of stillness, only of movement. I could not understand the burying, nor that life could cease to be. It was all a dream. I was alive, *alive*, and two men watched me standing. They stood beyond the grave, on the other side. I saw only their shadows for I dared not lift up my eyes to show my gladness. But I knew that they were watching me and I knew that I was young. They were strong men, their faces still unbroken by the cruel bane we suffer. They were strong and young. While yet my husband lived I had not seen them. Though one brought white flowers from the Twisted Woods and one a dim stone from the Gormen Mountain, yet I saw nothing of them, for I knew temptation.
+“They buried him, my rough husband, in the long sandy valley, the valley of graves where we are always buried. The two dark men who loved and love me carried his body for me and they lowered it into the sandy hollow that they had scooped. A hundred men were there and a hundred women; for he had been the rarest of the carvers. The sand was heaped upon him and there was only another dusty mound among the mounds of the Valley and all was very silent. They held me in their eyes while he was buried—the two who love me. And I could not think of him whom we were mourning. I could not think of death. Only of life. I could not think of stillness, only of movement. I could not understand the burying, nor that life could cease to be. It was all a dream. I was alive, *alive*, and two men watched me standing. They stood beyond the grave, on the other side. I saw only their shadows for I dared not lift up my eyes to show my gladness. But I knew that they were watching me and I knew that I was young. They were strong men, their faces still unbroken by the cruel bane we suffer. They were strong and young. While yet my husband lived I had not seen them. Though one brought white flowers from the Twisted Woods and one a dim stone from the Gormen Mountain, yet I saw nothing of them, for I knew temptation.
 
-‘That was long ago. All is changed. My baby has been buried and my lovers are filled with hatred for one another. When you came for me I was in torment. From day to day their jealousy had grown until, to save the shedding of blood, I came to the castle. Oh, long ago with you, that dreadful night.’
+“That was long ago. All is changed. My baby has been buried and my lovers are filled with hatred for one another. When you came for me I was in torment. From day to day their jealousy had grown until, to save the shedding of blood, I came to the castle. Oh, long ago with you, that dreadful night.”
 
 She stopped and moved a lock of hair back from her forehead. She did not look at Mrs Slagg, who blinked her eyes as Keda paused and nodded her head wisely.
 
-‘Where are they now? How many, many times have I dreamed of them! How many, many times have I, into my pillow, cried: “Rantel!” whom I first saw gathering the Root, his coarse hair in his eyes . . . cried “Braigon!” who stood brooding in the grove. Yet not with all of me am I in love. Too much of my own quietness is with me. I am not drowned with them in Love’s unkindness. I am unable to do aught but watch them, and fear them and the hunger in their eyes. The rapture that possessed me by the grave has passed. I am tired now, with a love I do not quite possess. Tired with the hatreds I have woken. Tired that I am the cause and have no power. My beauty will soon leave me, soon, soon, and peace will come. But ah! too soon.’
+“Where are they now? How many, many times have I dreamed of them! How many, many times have I, into my pillow, cried: ‘Rantel!’ whom I first saw gathering the Root, his coarse hair in his eyes . . . cried ‘Braigon!’ who stood brooding in the grove. Yet not with all of me am I in love. Too much of my own quietness is with me. I am not drowned with them in Love’s unkindness. I am unable to do aught but watch them, and fear them and the hunger in their eyes. The rapture that possessed me by the grave has passed. I am tired now, with a love I do not quite possess. Tired with the hatreds I have woken. Tired that I am the cause and have no power. My beauty will soon leave me, soon, soon, and peace will come. But ah! too soon.”
 
-Keda raised her hand and wiped away the slow tears from her cheeks. ‘I must have love,’ she whispered.
+Keda raised her hand and wiped away the slow tears from her cheeks. “I must have love,” she whispered.
 
 Startled at her own outburst she stood up beside the bed rigidly. Then her eyes turned to the nurse. Keda had been so much alone in her reverie that it seemed natural to her to find that the old woman was asleep. She moved to the window. The afternoon light lay over the towers. In the straggling ivy beneath her a bird rustled. From far below a voice cried faintly to some unseen figure and stillness settled again. She breathed deeply, and leaned forward into the light. Her hands grasped the frame of the window on her either side and her eyes from wandering across the towers were drawn inexorably to that high encircling wall that hid from her the houses of her people, her childhood, and the substance of her passion.
 
@@ -2747,47 +2747,47 @@ Revisiting those wilder parts of the environs that she had almost forgotten, she
 
 Among Fuchsia’s hieroglyphics on the wall great leaves had begun to take residence, pinned or pasted between her drawings, and areas of the floor were piled with trophies.
 
-‘Haven’t you got enough, dear?’ said Nannie, as Fuchsia entered late one evening and deposited a moss-covered boulder on her bed. Tiny fronds of fern emerged here and there from the moss, and white flowers the size of gnats.
+“Haven’t you got enough, dear?” said Nannie, as Fuchsia entered late one evening and deposited a moss-covered boulder on her bed. Tiny fronds of fern emerged here and there from the moss, and white flowers the size of gnats.
 
 Fuchsia had not heard Nannie’s question, so the little old creature advanced to the side of the bed.
 
-‘You’ve got enough now, haven’t you, my caution? Oh, yes, yes, I think so. Quite enough for your room now, dear. How dirty you are, my . . . Oh, my poor heart, how unappetising you are.’
+“You’ve got enough now, haven’t you, my caution? Oh, yes, yes, I think so. Quite enough for your room now, dear. How dirty you are, my . . . Oh, my poor heart, how unappetising you are.”
 
 Fuchsia tossed back her dripping hair from her eyes and neck, so that it hung in a heavy clump like black seaweed over the collar of her cape. Then after undoing a button at her throat with a desperate struggle, and letting the corded velvet fall to her feet, she pushed it under her bed with her foot. Then she seemed to see Mrs Slagg for the first time. Bending forward she kissed her savagely on the forehead and the rain dripped from her on to the nurse’s clothes.
 
-‘Oh, you dirty thoughtless thing! you naughty nuisance. Oh, my poor heart, how could you?’ said Mrs Slagg, suddenly losing her temper and stamping her foot. ‘All over my black satin, you dirty thing. You nasty wet thing. Oh, my poor dress! Why can’t you stay in when the weather is muddy and blowy? You always were unkind to me! Always, always.’
+“Oh, you dirty thoughtless thing! you naughty nuisance. Oh, my poor heart, how could you?” said Mrs Slagg, suddenly losing her temper and stamping her foot. “All over my black satin, you dirty thing. You nasty wet thing. Oh, my poor dress! Why can’t you stay in when the weather is muddy and blowy? You always were unkind to me! Always, always.”
 
-‘That’s not true,’ said Fuchsia, clenching her hands.
+“That’s not true,” said Fuchsia, clenching her hands.
 
 The poor old nurse began to cry.
 
-‘Well, *is* it, *is* it?’ said Fuchsia.
+“Well, *is* it, *is* it?” said Fuchsia.
 
-‘I don’t know. I don’t know at all,’ said Nannie. ‘Everyone’s unkind to me; how should I know?’
+“I don’t know. I don’t know at all,” said Nannie. “Everyone’s unkind to me; how should I know?”
 
-‘Then I’m going away’, said Fuchsia.
+“Then I’m going away”, said Fuchsia.
 
-Nannie gulped and jerked her head up. ‘Going away?’ she cried in a querulous voice. ‘No, no! you mustn’t go away.’ And then with an inquisitive look struggling with the fear in her eyes, ‘Where to?’ she said. ‘Where could you go to, dear?’
+Nannie gulped and jerked her head up. “Going away?” she cried in a querulous voice. “No, no! you mustn’t go away.” And then with an inquisitive look struggling with the fear in her eyes, “Where to?” she said. “Where could you go to, dear?”
 
-‘I’d go far away from here—to another kind of land’, said Fuchsia, ‘where people who didn’t know that I was the Lady Fuchsia would be surprised when I told them that I was; and they would treat me better and be more polite and do some homage sometimes. But I wouldn’t stop bringing home my leaves and shining pebbles and fugnesses from the woods, whatever they thought’.
+“I’d go far away from here—to another kind of land”, said Fuchsia, “where people who didn’t know that I was the Lady Fuchsia would be surprised when I told them that I was; and they would treat me better and be more polite and do some homage sometimes. But I wouldn’t stop bringing home my leaves and shining pebbles and fugnesses from the woods, whatever they thought”.
 
-‘You’d go away from me?’ said Nannie in such a melancholy voice that Fuchsia held her in her strong arms.
+“You’d go away from me?” said Nannie in such a melancholy voice that Fuchsia held her in her strong arms.
 
-‘Don’t cry,’ she said. ‘It isn’t any good.’
+“Don’t cry,” she said. “It isn’t any good.”
 
-Nannie turned her eyes up again and this time they were filled with the love she felt for her ‘child’. But even in the weakness of her compassion she felt that she should preserve her station and repeated: ‘*Must* you go into the dirty water, my own one, and tear your clothes just like you’ve always done, caution dear? Aren’t you big enough to go out only on nice days?’
+Nannie turned her eyes up again and this time they were filled with the love she felt for her “child”. But even in the weakness of her compassion she felt that she should preserve her station and repeated: “*Must* you go into the dirty water, my own one, and tear your clothes just like you’ve always done, caution dear? Aren’t you big enough to go out only on nice days?”
 
-‘I like the autumn weather,’ said Fuchsia very slowly. ‘So that’s why I go out to look at it.’
+“I like the autumn weather,” said Fuchsia very slowly. “So that’s why I go out to look at it.”
 
-‘Can’t you see it from out of your window, precious?’ said Mrs Slagg. ‘Then you would keep warm at the same time, though what there is to stare at I don’t know; but there, I’m only a silly old thing.’
+“Can’t you see it from out of your window, precious?” said Mrs Slagg. “Then you would keep warm at the same time, though what there is to stare at I don’t know; but there, I’m only a silly old thing.”
 
-‘I know what I want to do, so don’t you think about it any more’, said Fuchsia. ‘I’m finding things out.’
+“I know what I want to do, so don’t you think about it any more”, said Fuchsia. “I’m finding things out.”
 
-‘You’re a wilful thing,’ said Mrs Slagg a little peevishly, ‘but I know much more than you think about all sorts of things. I do; yes, I do; but I’ll get you your tea at once. And you can have it by the fire, and I will bring the little boy in because he ought to be awake by now. Oh dear! there is so much to do. Oh, my weak heart, I wonder how long I will last.’
+“You’re a wilful thing,” said Mrs Slagg a little peevishly, “but I know much more than you think about all sorts of things. I do; yes, I do; but I’ll get you your tea at once. And you can have it by the fire, and I will bring the little boy in because he ought to be awake by now. Oh dear! there is so much to do. Oh, my weak heart, I wonder how long I will last.”
 
 Her eyes, following Fuchsia’s, turned to the boulder around which a wet mark was spreading on the patchwork quilt.
 
-‘You’re the dirtiest terror in the world,’ she said. ‘What’s that stone for? What is it *for*, dear? What’s the *use* of it? You never listen. Never. Nor grow any older like I told you to. There’s no one to help me now. Keda’s gone, and I do everything.’ Mrs Slagg wiped her eyes with the back of her hand. ‘Change your wet clothes or I won’t bring you anything, and your dirty wet shoes at once!’ . . . Mrs Slagg fumbled at the door-handle, opened the door and shuffled away down the corridor, one hand clasped at her chest.
+“You’re the dirtiest terror in the world,” she said. “What’s that stone for? What is it *for*, dear? What’s the *use* of it? You never listen. Never. Nor grow any older like I told you to. There’s no one to help me now. Keda’s gone, and I do everything.” Mrs Slagg wiped her eyes with the back of her hand. “Change your wet clothes or I won’t bring you anything, and your dirty wet shoes at once!” . . . Mrs Slagg fumbled at the door-handle, opened the door and shuffled away down the corridor, one hand clasped at her chest.
 
 Fuchsia removed her shoes without untying the laces by treading on the heels and working her feet loose. Mrs Slagg had made up a glowing fire and Fuchsia, pulling off her dress, rubbed her wet hair with it. Then, wrapping a warm blanket about her, she fell back into a low armchair that had been drawn up to the fire and, sinking into its familiar softness, gazed absently at the leaping flames with half-closed eyes.
 
@@ -2795,39 +2795,39 @@ When Mrs Slagg returned with a tray of tea and toasted scones, currant bread, bu
 
 Placing the tray on the hearth she tiptoed to the door and disappeared, to return within the minute with Titus in her arms. He was dressed in a white garment which accentuated what warmth of colour there was in his face. At birth he had been practically bald, but now, though it was only two months later, he was blessed with a mop of hair as dark as his sister’s.
 
-Mrs Slagg sat down with Titus in a chair opposite Fuchsia and peered weakly at the girl, wondering whether to wake her at once or whether to let her finish her sleep and then to make another pot of tea. ‘But the scones will be cold, too’, she said to herself. ‘Oh, how tiresome she is.’ But her problem was solved by a loud single knuckle-rap at the door, which caused her to start violently and clutch Titus to her shoulder, and Fuchsia to wake from her doze.
+Mrs Slagg sat down with Titus in a chair opposite Fuchsia and peered weakly at the girl, wondering whether to wake her at once or whether to let her finish her sleep and then to make another pot of tea. “But the scones will be cold, too”, she said to herself. “Oh, how tiresome she is.” But her problem was solved by a loud single knuckle-rap at the door, which caused her to start violently and clutch Titus to her shoulder, and Fuchsia to wake from her doze.
 
-‘Who is it?’ cried Mrs Slagg. ‘Who is it?’
+“Who is it?” cried Mrs Slagg. “Who is it?”
 
-‘Flay’, said the voice of Lord Sepulchrave’s servant. The door opened a few inches and a bony face looked in from near the top of the door.
+“Flay”, said the voice of Lord Sepulchrave’s servant. The door opened a few inches and a bony face looked in from near the top of the door.
 
-‘Well?’ said Nannie, jerking her head about. ‘Well? Well? What is it?’
+“Well?” said Nannie, jerking her head about. “Well? Well? What is it?”
 
 Fuchsia turned her head and her eyes moved up the fissure between the door and the wall until they came at last to settle on the cadaverous features.
 
-‘Why don’t you come inside?’ she said.
+“Why don’t you come inside?” she said.
 
-‘No invitation’, said Flay flatly. He came forward, his knees cracking at each step. His eyes shifted from Fuchsia to Mrs Slagg and from Mrs Slagg to Titus, and then to the loaded tea-tray by the fire, on which they lingered before they returned to Fuchsia wrapped in her blanket. When he saw she was still looking at him his right hand raised itself like a bunch of blunt talons and began to scratch at a prominent lump of bone at the back of his head.
+“No invitation”, said Flay flatly. He came forward, his knees cracking at each step. His eyes shifted from Fuchsia to Mrs Slagg and from Mrs Slagg to Titus, and then to the loaded tea-tray by the fire, on which they lingered before they returned to Fuchsia wrapped in her blanket. When he saw she was still looking at him his right hand raised itself like a bunch of blunt talons and began to scratch at a prominent lump of bone at the back of his head.
 
-‘Message from his Lordship, my Lady’, he said; and then his eyes returned to the tea-tray.
+“Message from his Lordship, my Lady”, he said; and then his eyes returned to the tea-tray.
 
-‘Does he want me?’ said Fuchsia.
+“Does he want me?” said Fuchsia.
 
-‘Lord Titus’, said Flay, his eyes retaining upon their lenses the pot of tea, toasted scones, currant bread, butter, eggs and a jar of honey.
+“Lord Titus”, said Flay, his eyes retaining upon their lenses the pot of tea, toasted scones, currant bread, butter, eggs and a jar of honey.
 
-‘He wants little Titus, did you say?’ cried Mrs Slagg, trying to make her feet reach the ground.
+“He wants little Titus, did you say?” cried Mrs Slagg, trying to make her feet reach the ground.
 
-Flay gave a mechanical nod. ‘Got to meet me, quadrangle-arch, half-past eight’, added Flay, wiping his hands on his clothes.
+Flay gave a mechanical nod. “Got to meet me, quadrangle-arch, half-past eight”, added Flay, wiping his hands on his clothes.
 
-‘He wants my little Lordship’, whispered the old nurse to Fuchsia, who although her first antipathy to her brother had worn off had not acquired the same excited devotion which Nannie lavished upon the infant. ‘He wants my little wonder.’
+“He wants my little Lordship”, whispered the old nurse to Fuchsia, who although her first antipathy to her brother had worn off had not acquired the same excited devotion which Nannie lavished upon the infant. “He wants my little wonder.”
 
-‘Why not?’ said Flay and then relapsed into his habitual silence after adding: ‘Nine o’clock—library.’
+“Why not?” said Flay and then relapsed into his habitual silence after adding: “Nine o’clock—library.”
 
-‘Oh, my poor heart, he ought to be in bed by then’, gulped the nurse; and clutched Titus even closer to her.
+“Oh, my poor heart, he ought to be in bed by then”, gulped the nurse; and clutched Titus even closer to her.
 
 Fuchsia had been looking at the tea-tray as well.
 
-‘Flay,’ she said, ‘do you want to eat anything?’
+“Flay,” she said, “do you want to eat anything?”
 
 By way of reply the spidery servant made his way at once across the room to a chair which he had kept in the corner of his eye, and returned with it to seat himself between the two. Then he took out a tarnished watch, scowled at it as though it were his mortal enemy, and returned it to a secret recess among his greasy black clothes.
 
@@ -2837,13 +2837,13 @@ Flay took out his watch again and, wiping his mouth with the back of his hand, a
 
 Fuchsia was surprised at so obvious a sign of agitation in Flay whom she had known since her childhood and on whom she had never before noticed any sign of nerves.
 
-‘Why are you shaking?’ she said. ‘You never used to shake.’
+“Why are you shaking?” she said. “You never used to shake.”
 
-Flay pulled himself together and then sat down suddenly again, and turned his expressionless face to Fuchsia. ‘It’s the night,’ he said tonelessly. ‘No sleep, Lady Fuchsia.’ And he gave a ghastly mirthless laugh like something rusty being scraped by a knife.
+Flay pulled himself together and then sat down suddenly again, and turned his expressionless face to Fuchsia. “It’s the night,” he said tonelessly. “No sleep, Lady Fuchsia.” And he gave a ghastly mirthless laugh like something rusty being scraped by a knife.
 
 Suddenly he had regained his feet again and was standing by the door. He opened it very gradually and peered through the aperture before he began to disappear inch by inch, and the door clicked finally upon him.
 
-‘Nine o’clock’, said Nannie tremulously. ‘What does your father want with my little Lordship at nine o’clock? Oh, my poor heart, what does he want him for?’
+“Nine o’clock”, said Nannie tremulously. “What does your father want with my little Lordship at nine o’clock? Oh, my poor heart, what does he want him for?”
 
 But Fuchsia, tired out from her long day among the dripping woods was once more fast asleep, the red firelight flickering to and fro across her lolling head.
 
@@ -2853,7 +2853,7 @@ The library of Gormenghast was situated in the castle’s Eastern wing which pro
 
 At one time this Tower had formed the termination of the Eastern wing, but succeeding generations had added to it. On its further side the additions had begun a tradition and had created the precedent for Experiment, for many an ancestor of Lord Groan had given way to an architectural whim and made an incongruous addition. Some of these additions had not even continued the Easterly direction in which the original wing had started, for at several points the buildings veered off into curves or shot out at right angles before returning to continue the main trend of stone.
 
-Most of these buildings had about them the rough-hewn and oppressive weight of masonry that characterized the main volume of Gormenghast, although they varied considerably in every other way, one having at its summit an enormous stone carving of a lion’s head, which held between its jaws the limp corpse of a man on whose body was chiselled the words: ‘*He was an enemy of Groan*’; alongside this structure was a rectangular area of some length entirely filled with pillars set so closely together that it was difficult for a man to squeeze between them. Over them, at the height of about forty feet, was a perfectly flat roof of stone slabs blanketed with ivy. This structure could never have served any practical purpose, the closely packed forest of pillars with which it was entirely filled being of service only as an excellent place in which to enjoy a fantastic game of hide-and-seek.
+Most of these buildings had about them the rough-hewn and oppressive weight of masonry that characterized the main volume of Gormenghast, although they varied considerably in every other way, one having at its summit an enormous stone carving of a lion’s head, which held between its jaws the limp corpse of a man on whose body was chiselled the words: “*He was an enemy of Groan*”; alongside this structure was a rectangular area of some length entirely filled with pillars set so closely together that it was difficult for a man to squeeze between them. Over them, at the height of about forty feet, was a perfectly flat roof of stone slabs blanketed with ivy. This structure could never have served any practical purpose, the closely packed forest of pillars with which it was entirely filled being of service only as an excellent place in which to enjoy a fantastic game of hide-and-seek.
 
 There were many examples of an eccentric notion translated into architecture in the spine of buildings that spread eastwards over the undulating ground between the heavy walls of conifer, but for the most part they were built for some especial purpose, as a pavilion for entertainments, or as an observatory, or a museum. Some in the form of halls with galleries round three sides had been intended for concerts or dancing. One had obviously been an aviary, for though derelict, the branches that had long ago been fastened across the high central hall of the building were still hanging by rusty chains, and about the floor were strewn the broken remains of drinking cups for the birds; wire netting, red with rust, straggled across the floor among rank weeds that had taken root.
 
@@ -2889,19 +2889,19 @@ He had brooded long and was about to take a candle that stood ready on a table a
 
 His depression did not lift; it only moved a little to one side. He rose to his feet and, moving without a sound, replaced the book in a shelf of essays. He returned as silently to the table.
 
-‘Where are you?’ he said.
+“Where are you?” he said.
 
 Flay appeared at once from the darkness of one of the corners.
 
-‘What hour is it?’
+“What hour is it?”
 
-Flay brought out his heavy watch. ‘Eight, your Lordship.’
+Flay brought out his heavy watch. “Eight, your Lordship.”
 
 Lord Sepulchrave, with his head hanging forward on his breast, walked up and down the length of the library for a few minutes. Flay watched him as he moved, until his master stopped opposite his servant.
 
-‘I wish to have my son brought to me by his nurse. I shall expect them at nine. You will conduct them through the woods. You may go.’
+“I wish to have my son brought to me by his nurse. I shall expect them at nine. You will conduct them through the woods. You may go.”
 
-Flay turned and, accompanied by the reports of his knee-joints, disappeared into the shadows of the room. Pulling back the curtain from before the door at the far end, he unlatched the heavy oak and climbed the three steps into the night. Above him the great branches of the pines rubbed against one another and grated in his ears. The sky was overcast and had he not made this same journey through the darkness a thousand times he must surely have lost himself in the night. To his right he could sense the spine of the Western Wing although he could not see it. He walked on and in his mind he said: ‘Why now? Had the summer to see his son in. Thought he’d forgotten him. Should have seen the child long ago. What’s the game? Heir to Gormenghast to come through woods on cold night. Wrong. Dangerous. Catch a cold. But Lordship knows. He knows. I am only his servant. First servant. No one else that. Chose me; ME, Flay, because he trusts me. Well may he trust me. Ha, ha, ha! And why? they wonder. Ha ha! Silent as a corpse. That’s why.’
+Flay turned and, accompanied by the reports of his knee-joints, disappeared into the shadows of the room. Pulling back the curtain from before the door at the far end, he unlatched the heavy oak and climbed the three steps into the night. Above him the great branches of the pines rubbed against one another and grated in his ears. The sky was overcast and had he not made this same journey through the darkness a thousand times he must surely have lost himself in the night. To his right he could sense the spine of the Western Wing although he could not see it. He walked on and in his mind he said: “Why now? Had the summer to see his son in. Thought he’d forgotten him. Should have seen the child long ago. What’s the game? Heir to Gormenghast to come through woods on cold night. Wrong. Dangerous. Catch a cold. But Lordship knows. He knows. I am only his servant. First servant. No one else that. Chose me; ME, Flay, because he trusts me. Well may he trust me. Ha, ha, ha! And why? they wonder. Ha ha! Silent as a corpse. That’s why.”
 
 As he neared the Tower of Flints the trees thinned and a few stars appeared in the blackness above him. By the time the body of the castle was reached only half the sky was hidden by the night clouds and he could make out vague shapes in the darkness. Suddenly he stopped, his heart attacking his ribs, and drew up his shoulders to his ears; but a moment later he realized that the vague obese patch of blackness a few feet from him was a shrub of clipped box and not that figure of evil who now obsessed him.
 
@@ -2911,7 +2911,7 @@ Tonight, however, a dull greenish light from a small window held his eye, and be
 
 On his way across he stopped twice to tell himself that it was a pointless excursion and that he was in any case feeling extremely cold; but he went on nevertheless with an illogical and inquisitive itch overriding his better judgement.
 
-He could not tell which room it was that gave forth this square, greenish, glow. There was something unhealthy about its colour. No one was about in the quadrangle; there were no other footsteps but his own. The window was too high for even him to peer into, although he could easily reach it with his hands. Once again he said to himself: ‘What are you doing? Wasting your time. Told by Lordship to fetch Nannie Slagg and child. Why are you here? What are you doing?’
+He could not tell which room it was that gave forth this square, greenish, glow. There was something unhealthy about its colour. No one was about in the quadrangle; there were no other footsteps but his own. The window was too high for even him to peer into, although he could easily reach it with his hands. Once again he said to himself: “What are you doing? Wasting your time. Told by Lordship to fetch Nannie Slagg and child. Why are you here? What are you doing?”
 
 But again his thin body had anticipated him and he had begun to roll away an empty cask from against the cloister walls.
 
@@ -2931,7 +2931,7 @@ But Flay had no eyes for the few scattered objects in the nightmare below him, b
 
 Even in his nausea he could not help wondering what it was that Abiatha Swelter was doing. He raised his head from the wall and brought it by degrees to its former position.
 
-This time Flay was surprised to find that the room appeared empty, but, with a start at its dreadful nearness, he found that the chef was sitting on a bench against the wall and immediately below him. It was not easy to see him clearly through the filth and cobwebs of the window, but the great pasty dome of his head surrounded by the lamp-tinted whiteness of his swollen clothes, seemed, when Flay located them, almost at arm’s length. This proximity injected into Mr Flay’s bones a sensation of exquisite horror. He stood fascinated at the pulpy baldness of the chefs cranium and as he stared a portion of its pale plush contracted in a spasm, dislodging an October fly. Nothing else moved. Mr Flay’s eyes shifted for a moment and he saw a grindstone against the wall opposite. Beside it was a wooden stool. To his right, he saw two boxes placed about four feet apart. On either side of these wooden boxes two chalk lines ran roughly parallel to each other, and passed laterally along the room below Mr Flay. Nearing the left hand wall of the room they turned to the right, keeping the same space between them, but in their new direction they could not proceed for more than a few feet before being obstructed by the wall. At this point something had been written between them in chalk, and an arrow pointed towards the wall. The writing was hard to read, but after a moment Flay deciphered it as: ‘*To the Ninth stairs.*’ This reading of the chalk came as a shock to Mr Flay, if only for the reason that the Ninth stairs were those by which Lord Sepulchrave’s bedroom was reached from the floor below. His eyes returned swiftly to the rough globe of a head beneath him, but there was still no movement except perhaps the slight vibration of the chef’s breathing.
+This time Flay was surprised to find that the room appeared empty, but, with a start at its dreadful nearness, he found that the chef was sitting on a bench against the wall and immediately below him. It was not easy to see him clearly through the filth and cobwebs of the window, but the great pasty dome of his head surrounded by the lamp-tinted whiteness of his swollen clothes, seemed, when Flay located them, almost at arm’s length. This proximity injected into Mr Flay’s bones a sensation of exquisite horror. He stood fascinated at the pulpy baldness of the chefs cranium and as he stared a portion of its pale plush contracted in a spasm, dislodging an October fly. Nothing else moved. Mr Flay’s eyes shifted for a moment and he saw a grindstone against the wall opposite. Beside it was a wooden stool. To his right, he saw two boxes placed about four feet apart. On either side of these wooden boxes two chalk lines ran roughly parallel to each other, and passed laterally along the room below Mr Flay. Nearing the left hand wall of the room they turned to the right, keeping the same space between them, but in their new direction they could not proceed for more than a few feet before being obstructed by the wall. At this point something had been written between them in chalk, and an arrow pointed towards the wall. The writing was hard to read, but after a moment Flay deciphered it as: “*To the Ninth stairs.*” This reading of the chalk came as a shock to Mr Flay, if only for the reason that the Ninth stairs were those by which Lord Sepulchrave’s bedroom was reached from the floor below. His eyes returned swiftly to the rough globe of a head beneath him, but there was still no movement except perhaps the slight vibration of the chef’s breathing.
 
 Flay turned his eyes again to the right where the two boxes were standing, and he now realized that they represented either a door or an entrance of some sort from which led this chalked passageway before it turned to the right in the direction of the Ninth stairs. But it was upon a long sack which had at first failed to attract his attention that he now focused his eyes. It lay as though curled up immediately between and a little in advance of the two boxes. As he scrutinized it, something terrified him, something nameless, and which he had not yet had time to comprehend, but something from which he recoiled.
 
@@ -2941,7 +2941,7 @@ Swelter’s feet began to move the treadles of the grindstone, and it began to s
 
 Then again he bent to his task and continued whetting the blade for several minutes before listening once more to the invisible edge. Flay began to lose contact with the reality of what he saw and his brain to drift into a dream, when he found that the chef was drawing himself upwards and travelling to that part of the wall where the chalk lines ended and where the arrow pointed to the Ninth staircase. Then he removed his shoes, and lifted his face for the first time so that Mr Flay could see the expression that seeped from it. His eyes were metallic and murderous, but the mouth hung open in a wide, fatuous smile.
 
-Then followed what appeared to Flay an extraordinary dance, a grotesque ritual of the legs, and it was some time before he realized, as the cook advanced by slow, elaborate steps between the chalk lines, that he was practising tip-toeing with absolute silence. ‘What’s he practising that for?’ thought Flay, watching the intense and painful concentration with which Swelter moved forward step by step, the cleaver shining in his right hand. Flay glanced again at the chalk arrow. ‘He’s come from the ninth staircase: he’s turned left down the worn passage. There’s no rooms right or left in the worn passage. I ought to know. *He’s approaching the Room.*’ In the darkness Flay turned as white as death.
+Then followed what appeared to Flay an extraordinary dance, a grotesque ritual of the legs, and it was some time before he realized, as the cook advanced by slow, elaborate steps between the chalk lines, that he was practising tip-toeing with absolute silence. “What’s he practising that for?” thought Flay, watching the intense and painful concentration with which Swelter moved forward step by step, the cleaver shining in his right hand. Flay glanced again at the chalk arrow. “He’s come from the ninth staircase: he’s turned left down the worn passage. There’s no rooms right or left in the worn passage. I ought to know. *He’s approaching the Room.*” In the darkness Flay turned as white as death.
 
 The two boxes could represent only one thing—the door-posts of Lord Sepulchrave’s bedroom. And the sack . . .
 
@@ -2967,33 +2967,33 @@ Her hair was drawn back from her brow with an even finer regard for symmetry tha
 
 The Doctor had himself noticed that she was spending more and more time upon her toilette, although it had at all times proved one of her most absorbing occupations; a paradox to the Doctor’s mind which delighted him, for his sister was, even in his fraternal eyes, cruelly laden with the family features. As she approached her chair to the left of the fire, Steerpike removed his hand from her elbow, and, shifting back the Doctor’s chair with his foot while Prunesquallor was drawing the blinds, pulled forward the sofa into a more favourable position in front of the fire.
 
-‘They don’t meet—I said “They don’t *meet*”,’ said Irma Prunesquallor, pouring out the coffee.
+“They don’t meet—I said ‘They don’t *meet*’,” said Irma Prunesquallor, pouring out the coffee.
 
 How she could see anything at all, let alone whether they met or not, through her dark glasses was a mystery.
 
 Dr Prunesquallor, already on his way back to his chair, on the padded arms of which his coffee was balancing, stopped and folded his hands at his chin.
 
-‘To what are you alluding, my dear? Are you speaking of a brace of spirits? ha ha ha!—twin souls searching for consummation, each in the other? Ha ha! ha ha ha! Or are you making reference to matters more terrestrial? Enlighten me, my love.’
+“To what are you alluding, my dear? Are you speaking of a brace of spirits? ha ha ha!—twin souls searching for consummation, each in the other? Ha ha! ha ha ha! Or are you making reference to matters more terrestrial? Enlighten me, my love.”
 
-‘Nonsense’, said his sister. ‘Look at the curtains. I said: “Look at the curtains”.’
+“Nonsense”, said his sister. “Look at the curtains. I said: ‘Look at the curtains’.”
 
 Dr Prunesquallor swung about.
 
-‘To me’, he said, ‘they look exactly like curtains. In fact, they *are* curtains. Both of them. A curtain on the left, my love, and a curtain on the right. Ha ha! I’m absolutely certain they are!’
+“To me”, he said, “they look exactly like curtains. In fact, they *are* curtains. Both of them. A curtain on the left, my love, and a curtain on the right. Ha ha! I’m absolutely certain they are!”
 
 Irma, hoping that Steerpike was looking at her, laid down her coffee-cup.
 
-‘What happens in the *middle*, I said; what happens right down the *middle*?’ Her pointed nose warmed, for she sensed victory.
+“What happens in the *middle*, I said; what happens right down the *middle*?” Her pointed nose warmed, for she sensed victory.
 
-‘There is a great yearning one for the other. A fissure of impalpable night divides them. Irma, my dear sister, there is a lacuna.’
+“There is a great yearning one for the other. A fissure of impalpable night divides them. Irma, my dear sister, there is a lacuna.”
 
-‘Then *kill* it’, said Irma, and sank back into her chair. She glanced at Steerpike, but he had apparently taken no notice of the conversation and she was disappointed. He was leaning back into one corner of the couch, his legs crossed, his hands curled around the coffee-cup as though to feel its warmth, and his eyes were peering into the fire. He was evidently far away.
+“Then *kill* it”, said Irma, and sank back into her chair. She glanced at Steerpike, but he had apparently taken no notice of the conversation and she was disappointed. He was leaning back into one corner of the couch, his legs crossed, his hands curled around the coffee-cup as though to feel its warmth, and his eyes were peering into the fire. He was evidently far away.
 
 When the Doctor had joined the curtains together with great deliberation and stood back to assure himself that the Night was satisfactorily excluded from the room, he seated himself, but no sooner had he done so than there was a jangling at the door-bell which continued until the cook had scraped the pastry from his hands, removed his apron and made his way to the front door.
 
 Two female voices were speaking at the same time.
 
-‘Only for a moment, only for a moment’, they said. ‘Just passing—On our way home—Only for a moment—Tell him we won’t stay—No, of course not; we won’t stay. Of course not. Oh no—Yes, yes. Just a twinkling—only a twinkling.’
+“Only for a moment, only for a moment”, they said. “Just passing—On our way home—Only for a moment—Tell him we won’t stay—No, of course not; we won’t stay. Of course not. Oh no—Yes, yes. Just a twinkling—only a twinkling.”
 
 But for the fact that it would have been impossible for one voice to wedge so many words into so short a space of time and to speak so many of them simultaneously, it would have been difficult to believe that it was not the voice of a single individual, so continuous and uniform appeared the flat colour of the sound.
 
@@ -3003,37 +3003,37 @@ The voices that Steerpike now heard in the passage were unfamiliar to his quick 
 
 When the twins, Cora and Clarice, entered the room together, he wondered whether the red wine had gone to his head. He had neither seen them before nor anything like them. They were dressed in their inevitable purple.
 
-Dr Prunesquallor bowed elegantly. ‘Your Ladyships,’ he said, ‘we are more than honoured. We are really very much more than honoured, ha ha ha!’ He whinnied his appreciation. ‘Come right along, my dear ladies, come right the way in. Irma, my dear, we have been doubly lucky in our privileges. Why “doubly” you say to yourself, why “doubly”? Because, O sister, they have *both* come, ha ha ha! Very much so, very much so.’
+Dr Prunesquallor bowed elegantly. “Your Ladyships,” he said, “we are more than honoured. We are really very much more than honoured, ha ha ha!” He whinnied his appreciation. “Come right along, my dear ladies, come right the way in. Irma, my dear, we have been doubly lucky in our privileges. Why ‘doubly’ you say to yourself, why ‘doubly’? Because, O sister, they have *both* come, ha ha ha! Very much so, very much so.”
 
 Prunesquallor, who knew from experience that only a fraction of what anyone said ever entered the brains of the twins, permitted himself a good deal of latitude in his conversation, mixing with a certain sycophancy remarks for his own amusement which could never have been made to persons more astute than the twins.
 
 Irma had come forward, her iliac crest reflecting a streak of light.
 
-‘Very charmed, your Ladyships; I said “very, very charmed”.’
+“Very charmed, your Ladyships; I said ‘very, very charmed’.”
 
 She attempted to curtsey, but her dress was too tight.
 
-‘You know my sister, of course, of course, of course. Will you have coffee? Of course you will, and a little wine? Naturally—or what would you prefer?’
+“You know my sister, of course, of course, of course. Will you have coffee? Of course you will, and a little wine? Naturally—or what would you prefer?”
 
 But both the Doctor and his sister found that the Ladies Cora and Clarice had not been paying the slightest attention but had been staring at Steerpike more in the manner of a wall staring at a man than a man staring at a wall.
 
-Steerpike in a well-cut uniform of black cloth, advanced to the sisters and bowed. ‘Your Ladyships,’ he said, ‘I am delighted to have the honour of being beneath the same roof. It is an intimacy that I shall never forget.’ And then, as though he were ending a letter—‘I am your very humble servant’, he added.
+Steerpike in a well-cut uniform of black cloth, advanced to the sisters and bowed. “Your Ladyships,” he said, “I am delighted to have the honour of being beneath the same roof. It is an intimacy that I shall never forget.” And then, as though he were ending a letter—“I am your very humble servant”, he added.
 
 Clarice turned herself to Cora, but kept her eyes on Steerpike.
 
-‘He says he’s glad he’s under the same roof as us’, she said.
+“He says he’s glad he’s under the same roof as us”, she said.
 
-‘Under the same roof’, echoed Cora. ‘He’s very glad of it.’
+“Under the same roof”, echoed Cora. “He’s very glad of it.”
 
-‘Why?’ said Clarice emptily. ‘What difference does it make about the roof?’
+“Why?” said Clarice emptily. “What difference does it make about the roof?”
 
-‘It couldn’t make any difference whatever the roof’s like’, said her sister.
+“It couldn’t make any difference whatever the roof’s like”, said her sister.
 
-‘I like roofs,’ said Clarice; ‘they are something I like more than most things because they are on top of the houses they cover, and Cora and I like being over the tops of things because we love power, and that’s why we are both fond of roofs.’
+“I like roofs,” said Clarice; “they are something I like more than most things because they are on top of the houses they cover, and Cora and I like being over the tops of things because we love power, and that’s why we are both fond of roofs.”
 
-‘That’s why’, Cora continued. ‘That’s the reason. Anything that’s on top of something else is what we like, unless it is someone we don’t like who’s on top of something we are pleased with like ourselves. We’re not allowed to be on top, except that our own room is high, oh, so high up in the castle wall, with our Tree—our own Tree that grows from the wall, that is so much more important than anything Gertrude has.’
+“That’s why”, Cora continued. “That’s the reason. Anything that’s on top of something else is what we like, unless it is someone we don’t like who’s on top of something we are pleased with like ourselves. We’re not allowed to be on top, except that our own room is high, oh, so high up in the castle wall, with our Tree—our own Tree that grows from the wall, that is so much more important than anything Gertrude has.”
 
-‘Oh yes,’ said Clarice; ‘she hasn’t anything as important as that. But she steals our birds.’
+“Oh yes,” said Clarice; “she hasn’t anything as important as that. But she steals our birds.”
 
 She turned her expressionless eyes to Cora, who met them as though she were her sister’s reflection. It may be that between them they recognized shades of expression in each other’s faces, but it is certain that no one else, however keen his eyesight, could have detected the slightest change in the muscles that presumably governed the lack of expressions of their faces. Evidently this reference to stolen birds was the reason why they came nearer to each other so that their shoulders touched. It was obvious that their sorrow was conjoined.
 
@@ -3047,45 +3047,45 @@ Would they have anything to drink? Cognac, sherry, brandy, a liqueur, cherry win
 
 They shook their heads profoundly.
 
-‘We only came for a moment’, said Cora.
+“We only came for a moment”, said Cora.
 
-‘Because we were passing’, said Clarice. ‘That’s the only reason.’
+“Because we were passing”, said Clarice. “That’s the only reason.”
 
 But although they refused on those grounds to indulge in a drink of any sort, yet they gave no indication of being in a hurry to go, nor had they for a long time anything to say, but were quite content to sit and stare at Steerpike.
 
 But after a long interval, halfway through which the Doctor and his sister had given up all attempts to make conversation, Cora turned her face to Steerpike.
 
-‘Boy,’ she said, ‘what are you here for?’
+“Boy,” she said, “what are you here for?”
 
-‘Yes,’ echoed Clarice, ‘that’s what we want to know.’
+“Yes,” echoed Clarice, “that’s what we want to know.”
 
-‘I want’, said Steerpike, choosing his words, ‘only your gracious patronage, your Ladyships. Only your favour.’
+“I want”, said Steerpike, choosing his words, “only your gracious patronage, your Ladyships. Only your favour.”
 
 The twins turned their faces towards each other and then at the same moment they returned them to Steerpike.
 
-‘Say that again’, said Cora.
+“Say that again”, said Cora.
 
-‘All of it’, said Clarice.
+“All of it”, said Clarice.
 
-‘Only your gracious patronage, your Ladyships. Only your favour. That is what I want.’
+“Only your gracious patronage, your Ladyships. Only your favour. That is what I want.”
 
-‘Well, we’ll give it you’, said Clarice. But for the first time the sisters were at variance for a moment.
+“Well, we’ll give it you”, said Clarice. But for the first time the sisters were at variance for a moment.
 
-‘Not yet,’ said Cora. ‘It’s too soon for that.’
+“Not yet,” said Cora. “It’s too soon for that.”
 
-‘Much too soon,’ agreed Clarice. ‘It’s not time yet to give him any favour at all. What’s his name?’
+“Much too soon,” agreed Clarice. “It’s not time yet to give him any favour at all. What’s his name?”
 
 This was addressed to Steerpike.
 
-‘His name is Steerpike’, was the youth’s reply.
+“His name is Steerpike”, was the youth’s reply.
 
-Clarice leaned forward in her chair and whispered to Cora across the hearthrug: ‘His name is Steerpike.’
+Clarice leaned forward in her chair and whispered to Cora across the hearthrug: “His name is Steerpike.”
 
-‘Why not?’ said her sister flatly. ‘It will do.’
+“Why not?” said her sister flatly. “It will do.”
 
 Steerpike was, of course, alive with ideas and projects. These two half-witted women were a gift. That they should be the sisters of Lord Sepulchrave was of tremendous strategic value. They would prove an advance on the Prunesquallors, if not intellectually at any rate socially, and that at the moment was what mattered. And in any case, the lower the mentality of his employers the more scope for his own projects.
 
-That one of them had said his name ‘Steerpike’ would ‘do’ had interested him. Did it imply that they wished to see more of him? That would simplify matters considerably.
+That one of them had said his name “Steerpike” would “do” had interested him. Did it imply that they wished to see more of him? That would simplify matters considerably.
 
 His old trick of shameless flattery seemed to him the best line to take at this critical stage. Later on, he would see. But it was another remark that had appealed to his opportunist sense even more keenly, and that was the reference to Lady Groan.
 
@@ -3095,67 +3095,67 @@ Suddenly as in a flash he remembered two tiny figures the size of halma players,
 
 He had seen them across a great space of air and across a distance of towers and high walls. He had seen them upon the lateral trunk of a dead tree in the summer, a tree that grew out at right angles from a high and windowless wall.
 
-Now he realized why they had said ‘Our Tree that grows from the wall that is so much more important than anything Gertrude has.’ But then Clarice had added: ‘But she steals our birds.’ What did that imply? He had, of course, often watched the Countess from points of vantage with her birds or her white cats. That was something he must investigate further. Nothing must be let fall from his mind unless it were first turned to and fro and proved to be useless.
+Now he realized why they had said “Our Tree that grows from the wall that is so much more important than anything Gertrude has.” But then Clarice had added: “But she steals our birds.” What did that imply? He had, of course, often watched the Countess from points of vantage with her birds or her white cats. That was something he must investigate further. Nothing must be let fall from his mind unless it were first turned to and fro and proved to be useless.
 
-Steerpike bent forward, the tips of his fingers together. ‘Your Ladyships,’ he said, ‘are you enamoured of the feathered tribe?—Their beaks, their feathers, and the way they fly?’
+Steerpike bent forward, the tips of his fingers together. “Your Ladyships,” he said, “are you enamoured of the feathered tribe?—Their beaks, their feathers, and the way they fly?”
 
-‘What?’ said Cora.
+“What?” said Cora.
 
-‘Are you in love with birds, your Ladyships?’ repeated Steerpike, more simply.
+“Are you in love with birds, your Ladyships?” repeated Steerpike, more simply.
 
-‘What?’ said Clarice.
+“What?” said Clarice.
 
 Steerpike hugged himself inside. If they could be as stupid as this, he could surely do anything he liked with them.
 
-‘Birds,’ he said more loudly; ‘do you like them?’
+“Birds,” he said more loudly; “do you like them?”
 
-‘What birds?’ said Cora. ‘What do you want to know for?’
+“What birds?” said Cora. “What do you want to know for?”
 
-‘We weren’t talking about birds,’ said Clarice unexpectedly.
+“We weren’t talking about birds,” said Clarice unexpectedly.
 
-‘We hate them.’
+“We hate them.”
 
-‘They’re such silly things’, Cora ended.
+“They’re such silly things”, Cora ended.
 
-‘Silly and stupid; we hate them’, said Clarice.
+“Silly and stupid; we hate them”, said Clarice.
 
-‘*Avis, avis*, you are undone, undone!’ came Prunesquallor’s voice. ‘Your day is over. Oh, ye hordes of heaven! the treetops shall be emptied of their chorus and only clouds ride over the blue heaven.’
+“*Avis, avis*, you are undone, undone!” came Prunesquallor’s voice. “Your day is over. Oh, ye hordes of heaven! the treetops shall be emptied of their chorus and only clouds ride over the blue heaven.”
 
 Prunesquallor leaned forward and tapped Irma on the knee.
 
-‘Pretty pleasing,’ he said, and showed her all his brilliant teeth together. ‘What did you think, my riotous one?’
+“Pretty pleasing,” he said, and showed her all his brilliant teeth together. “What did you think, my riotous one?”
 
-‘Nonsense!’ said Irma, who was sitting on the couch with Steerpike. Feeling that as the hostess she had so far this evening had very little opportunity of exhibiting what she, and she alone felt was her outstanding talent in that direction, she bent her dark glasses upon Cora and then upon Clarice and tried to speak to both of them at once.
+“Nonsense!” said Irma, who was sitting on the couch with Steerpike. Feeling that as the hostess she had so far this evening had very little opportunity of exhibiting what she, and she alone felt was her outstanding talent in that direction, she bent her dark glasses upon Cora and then upon Clarice and tried to speak to both of them at once.
 
-‘Birds,’ she said, with something arch in her voice and manner, ‘birds *depend*—don’t you think, my dear Ladyships—I said birds *depend* a lot upon their eggs. Do you not agree with me? I said do you not agree with me?’
+“Birds,” she said, with something arch in her voice and manner, “birds *depend*—don’t you think, my dear Ladyships—I said birds *depend* a lot upon their eggs. Do you not agree with me? I said do you not agree with me?”
 
-‘We’re going now’, said Cora, getting up.
+“We’re going now”, said Cora, getting up.
 
-‘Yes, we’ve been here too long. Much too long. We’ve got a lot of sewing to do. We sew beautifully, both of us.’
+“Yes, we’ve been here too long. Much too long. We’ve got a lot of sewing to do. We sew beautifully, both of us.”
 
-‘I am sure you do,’ said Steerpike. ‘May I have the privilege of appreciating your craft at some future date when it is convenient for you?’
+“I am sure you do,” said Steerpike. “May I have the privilege of appreciating your craft at some future date when it is convenient for you?”
 
-‘We do embroidery as well’, said Cora, who had risen and had approached Steerpike.
+“We do embroidery as well”, said Cora, who had risen and had approached Steerpike.
 
-Clarice came up to her sister’s side and they both looked at him. ‘We do a lot of needlework, but nobody sees it. Nobody is interested in us, you see. We only have two servants. We used—’
+Clarice came up to her sister’s side and they both looked at him. “We do a lot of needlework, but nobody sees it. Nobody is interested in us, you see. We only have two servants. We used—”
 
-‘That’s all,’ said Cora. ‘We used to have hundreds when we were younger. Our father gave us hundreds of servants. We were of great—of great—’
+“That’s all,” said Cora. “We used to have hundreds when we were younger. Our father gave us hundreds of servants. We were of great—of great—”
 
-‘Consequence,’ volunteered her sister. ‘Yes, that’s exactly what it was that we were. Sepulchrave was always so dreamy and miserable, but he did play with us sometimes; so we did what we liked. But now he doesn’t ever want to see us.’
+“Consequence,” volunteered her sister. “Yes, that’s exactly what it was that we were. Sepulchrave was always so dreamy and miserable, but he did play with us sometimes; so we did what we liked. But now he doesn’t ever want to see us.”
 
-‘He thinks he’s so wise,’ said Cora.
+“He thinks he’s so wise,” said Cora.
 
-‘But he’s no cleverer than we are.’
+“But he’s no cleverer than we are.”
 
-‘He’s not as clever’, said Clarice.
+“He’s not as clever”, said Clarice.
 
-‘Nor is Gertrude’, they said almost at the same moment.
+“Nor is Gertrude”, they said almost at the same moment.
 
-‘She stole your birds, didn’t she?’ said Steerpike, winking at Prunesquallor.
+“She stole your birds, didn’t she?” said Steerpike, winking at Prunesquallor.
 
-‘How did you know?’ they said, advancing on him a step further.
+“How did you know?” they said, advancing on him a step further.
 
-‘Everyone knows, your Ladyships. Everyone in the castle knows’, replied Steerpike, winking this time at Irma.
+“Everyone knows, your Ladyships. Everyone in the castle knows”, replied Steerpike, winking this time at Irma.
 
 The twins held hands at once and drew close together. What Steerpike had said had sunk in and was making a serious impression on them. They had thought it was only a private grievance, that Gertrude had lured away their birds from the Room of Roots which they had taken so long preparing. But everyone knew! Everyone knew!
 
@@ -3165,39 +3165,39 @@ The aunts seemed to accept the fact that he was leaving the house with them, alt
 
 With an extraordinary gallantry he shepherded them across the quadrangle.
 
-‘Everybody knows, you said.’ Cora’s voice was so empty of feeling and yet so plaintive that it must have awakened a sympathetic response in anyone with a more kindly heart than Steerpike’s.
+“Everybody knows, you said.” Cora’s voice was so empty of feeling and yet so plaintive that it must have awakened a sympathetic response in anyone with a more kindly heart than Steerpike’s.
 
-‘That’s what you said’, repeated Clarice.
+“That’s what you said”, repeated Clarice.
 
-‘But what can we do? We can’t do anything to show what we could do if only we had the power we haven’t got,’ said Clarice lucidly. ‘We used to have hundreds of servants.’
+“But what can we do? We can’t do anything to show what we could do if only we had the power we haven’t got,” said Clarice lucidly. “We used to have hundreds of servants.”
 
-‘You shall have them back,’ said Steerpike. ‘You shall have them all back. New ones. Better ones. Obedient ones. I shall arrange it. They shall work for you, *through* me. Your floor of the castle shall be alive again. You shall be supreme. Give me the administration to handle, your Ladyships, and I will have them dancing to your tune—whatever it is—they’ll dance to it.’
+“You shall have them back,” said Steerpike. “You shall have them all back. New ones. Better ones. Obedient ones. I shall arrange it. They shall work for you, *through* me. Your floor of the castle shall be alive again. You shall be supreme. Give me the administration to handle, your Ladyships, and I will have them dancing to your tune—whatever it is—they’ll dance to it.”
 
-‘But what about Gertrude?’
+“But what about Gertrude?”
 
-‘Yes, what about Gertrude’, came their flat voices.
+“Yes, what about Gertrude”, came their flat voices.
 
-‘Leave everything to me. I will secure your rights for you. You are Lady Cora and Lady Clarice, Lady Clarice and Lady Cora. You must not forget that. No one must be allowed to forget it.’
+“Leave everything to me. I will secure your rights for you. You are Lady Cora and Lady Clarice, Lady Clarice and Lady Cora. You must not forget that. No one must be allowed to forget it.”
 
-‘Yes, that’s what must happen’, said Cora.
+“Yes, that’s what must happen”, said Cora.
 
-‘Everyone must think of who we are’, said Clarice.
+“Everyone must think of who we are”, said Clarice.
 
-‘And never stop thinking about it’, said Cora.
+“And never stop thinking about it”, said Cora.
 
-‘Or we will use our power’, said Clarice.
+“Or we will use our power”, said Clarice.
 
-‘Meanwhile, I will take you to your rooms, dear ladies. You must trust me. You must not tell anyone what we’ve said. Do you both understand?’
+“Meanwhile, I will take you to your rooms, dear ladies. You must trust me. You must not tell anyone what we’ve said. Do you both understand?”
 
-‘And we’ll get our birds back from Gertrude.’
+“And we’ll get our birds back from Gertrude.”
 
 Steerpike took them by the elbows as they climbed the stairs.
 
-‘Lady Cora,’ he said, ‘you must try to concentrate on what I am saying to you. If you pay attention to me I will restore you to your places of eminence in Gormenghast from which Lady Gertrude has dethroned you.’
+“Lady Cora,” he said, “you must try to concentrate on what I am saying to you. If you pay attention to me I will restore you to your places of eminence in Gormenghast from which Lady Gertrude has dethroned you.”
 
-‘Yes.’
+“Yes.”
 
-‘Yes.’
+“Yes.”
 
 The voices showed no animation, but Steerpike realized that only by *what* they said, not by *how* they said it, could he judge whether their brains reacted to his probing.
 
@@ -3207,7 +3207,7 @@ He would not visit them tomorrow, for it would do them good to spend a day of ap
 
 Instead of crossing over to the Doctor’s house when he had reached the quadrangle he decided he would take a stroll across the lawns and perhaps around by the terraces to the moat, for the sky had emptied itself of cloud and was glittering fiercely with a hundred thousand stars.
 
-## ‘THE FIR-CONES’
+## “THE FIR-CONES”
 
 The wind had dropped, but the air was bitterly cold and Steerpike was glad of his cape. He had turned the collar up and it stood stiffly above the level of his ears. He seemed to be bound for somewhere in particular, and was not simply out for a nocturnal stroll. That peculiar half-walking, half-running gait was always with him. It appeared that he was eternally upon some secret mission, as indeed from his own viewpoint he generally was.
 
@@ -3231,15 +3231,15 @@ By now he had reached the most eastern corner of the central body of the castle.
 
 It occurred to him as he saw the Tower that he had never investigated the buildings which were, he had heard, continued on its further side. It was too late now for such an expedition and he was thinking of making a wide circle on the withered lawns which made good walking at this corner of the castle, when he saw a dim light approaching him. Glancing about, he saw within a few yards the black shapes of stunted bushes. Behind one of these he squatted and watched the light, which he recognized now as a lantern, coming nearer and nearer. It seemed that the figure would pass within a few feet of him, and peering over his shoulder to see in what direction the lantern was moving, he realized that he was immediately between the light and the Tower of Flints. What on earth could anyone want at the Tower of Flints on a cold night? Steerpike was intrigued. He dragged his cape well over himself so that only his eyes were exposed to the night air. Then, remaining as still as a crouching cat, he listened to the feet approaching.
 
-As yet the body of whoever it was that carried the lantern had not detached itself from the darkness, but Steerpike, listening intently, heard now not only the long footsteps but the regular sound of a dry stick being broken. ‘Flay’, said Steerpike to himself. But what was that other noise? Between the regular sounds of the paces and the click of the knee joints a third, a quicker, less positive sound, came to his ears.
+As yet the body of whoever it was that carried the lantern had not detached itself from the darkness, but Steerpike, listening intently, heard now not only the long footsteps but the regular sound of a dry stick being broken. “Flay”, said Steerpike to himself. But what was that other noise? Between the regular sounds of the paces and the click of the knee joints a third, a quicker, less positive sound, came to his ears.
 
 Almost at the same moment as he recognized it to be the pattering of tiny feet, he saw, emerging from the night, the unmistakable silhouettes of Flay and Mrs Slagg.
 
 Soon the crunching of Flay’s footsteps appeared to be almost on top of him, and Steerpike, motionless as the shrub he crouched beneath, saw the straggling height of Lord Sepulchrave’s servant hastily pass above him, and as he did so a cry broke out. A tremor ran down Steerpike’s spine, for if there was anything that worried him it was the supernatural. The cry, it seemed, was that of some bird, perhaps of a seagull, but was so close as to disprove that explanation. There were no birds about that night nor, indeed, were they ever to be heard at that hour, and it was with some relief that he heard Nannie Slagg whisper nervously in the darkness:
 
-‘There, there, my only. . . . It won’t be long, my little Lordship dear . . . it won’t be long now. Oh, my poor heart! why must it be at night?’ She seemed to raise her head from the little burden she carried and to gaze up at the lofty figure who strode mechanically beside her; but there was no answer.
+“There, there, my only. . . . It won’t be long, my little Lordship dear . . . it won’t be long now. Oh, my poor heart! why must it be at night?” She seemed to raise her head from the little burden she carried and to gaze up at the lofty figure who strode mechanically beside her; but there was no answer.
 
-‘Things become interesting,’ said Steerpike to himself. ‘Lordships, Flays and Slaggs, all heading for the Tower of Flints.’
+“Things become interesting,” said Steerpike to himself. “Lordships, Flays and Slaggs, all heading for the Tower of Flints.”
 
 When they were almost swallowed into the darkness, Steerpike rose to his feet and flexed his cape-shrouded legs to get the stiffness from them, and then, keeping the sound of Mr Flay’s knees safely within earshot, he followed them silently.
 
@@ -3249,59 +3249,59 @@ Poor Mrs Slagg was utterly exhausted by the time they arrived at the library, fo
 
 The cold air had thoroughly wakened Titus, and although he did not cry it was obvious that he was disconcerted by this unusual adventure in the dark. When Flay knocked at the door and they entered the library, he began to whimper and struggle in the nurse’s arms.
 
-Flay retired to the darkness of his corner, where there was presumably some chair for him to sit on. All he said was: ‘I’ve brought them, Lordship.’ He usually left out the ‘your’ as being unnecessary for him as Lord Sepulchrave’s primary attendant.
+Flay retired to the darkness of his corner, where there was presumably some chair for him to sit on. All he said was: “I’ve brought them, Lordship.” He usually left out the “your” as being unnecessary for him as Lord Sepulchrave’s primary attendant.
 
-‘So I see,’ said the Earl of Groan, advancing down the room, ‘I have disturbed you, nurse, have I not? It is cold outside. I have just been out to get these for him.’
+“So I see,” said the Earl of Groan, advancing down the room, “I have disturbed you, nurse, have I not? It is cold outside. I have just been out to get these for him.”
 
 He led Nannie to the far side of the table. On the carpet in the lamplight lay scattered a score of fir cones, each one with its wooden petals undercut with the cast shadow of the petal above it.
 
-Mrs Slagg turned her tired face to Lord Sepulchrave. For once she said the right thing. ‘Are they for his little Lordship, sir?’ she queried. ‘Oh, he will love them, won’t you, my only?’
+Mrs Slagg turned her tired face to Lord Sepulchrave. For once she said the right thing. “Are they for his little Lordship, sir?” she queried. “Oh, he will love them, won’t you, my only?”
 
-‘Put him among them. I want to talk to you,’ said the Earl. ‘Sit down.’
+“Put him among them. I want to talk to you,” said the Earl. “Sit down.”
 
 Mrs Slagg looked around for a chair and seeing none turned her eyes pathetically towards his Lordship, who was now pointing at the floor in a tired way. Titus, whom she had placed amongst the cones, was alternately turning them over in his fingers and sucking them.
 
-‘It’s all right, I’ve washed them in rainwater,’ said Lord Groan. ‘Sit on the floor, nurse, sit on the floor.’ Without waiting, he himself sat upon the edge of the table, his feet crossed before him, his hands upon the marble surface at his side.
+“It’s all right, I’ve washed them in rainwater,” said Lord Groan. “Sit on the floor, nurse, sit on the floor.” Without waiting, he himself sat upon the edge of the table, his feet crossed before him, his hands upon the marble surface at his side.
 
-‘Firstly’, he said, ‘I have had you come this way to tell you that I have decided upon a family gathering here in a week’s time. I want you to inform those concerned. They will be surprised. That does not matter. They will come. You will tell the Countess. You will tell Fuchsia. You will also inform their Ladyships Cora and Clarice.’
+“Firstly”, he said, “I have had you come this way to tell you that I have decided upon a family gathering here in a week’s time. I want you to inform those concerned. They will be surprised. That does not matter. They will come. You will tell the Countess. You will tell Fuchsia. You will also inform their Ladyships Cora and Clarice.”
 
 Steerpike, who had opened the door inch by inch, had crept up a stairway he had found immediately to his left. He had shut the door quietly behind him and tiptoed up to a stone gallery which ran around the building. Conveniently for him it was in the darkest shadow, and as he leaned against the bookshelves which lined the walls and watched the proceedings below, he rubbed the palms of his hands together silently.
 
 He wondered where Flay had got to, for as far as he could see there was no other way out save by the main doorway, which was barred and bolted. It seemed to him that he must, like himself, be standing or sitting quietly in the shadows, and not knowing in what part of the building that might be, he kept absolute silence.
 
-‘At eight o’clock in the evening, I shall be awaiting him and them, for you must tell them I have in my mind a breakfast that shall be in honour of my son.’
+“At eight o’clock in the evening, I shall be awaiting him and them, for you must tell them I have in my mind a breakfast that shall be in honour of my son.”
 
 As he said these words, in his rich, melancholy voice, poor Mrs Slagg, unable to bear the insufferable depression of his spirit, began to clutch her wrinkled hands together. Even Titus seemed to sense the sadness which flowed through the slow, precise words of his father. He forgot the fir cones and began to cry.
 
-‘You will bring my son Titus in his christening robes and will have with you the crown of the direct heir to Gormenghast. Without Titus the castle would have no future when I am gone. As his nurse, I must ask you to remember to instil into his veins, from the very first, a love for his birthplace and his heritage, and a respect for all of the written and unwritten laws of the place of his fathers.
+“You will bring my son Titus in his christening robes and will have with you the crown of the direct heir to Gormenghast. Without Titus the castle would have no future when I am gone. As his nurse, I must ask you to remember to instil into his veins, from the very first, a love for his birthplace and his heritage, and a respect for all of the written and unwritten laws of the place of his fathers.
 
-‘I will speak to them, much against my own peace of spirit: I will speak to them of this and of much more that is in my mind. At the Breakfast, of which the details will be discussed on this same evening of next week, he shall be honoured and toasted. It shall be held in the Refectory.’
+“I will speak to them, much against my own peace of spirit: I will speak to them of this and of much more that is in my mind. At the Breakfast, of which the details will be discussed on this same evening of next week, he shall be honoured and toasted. It shall be held in the Refectory.”
 
-‘But he is only two months old, the little thing,’ broke in Nannie in a tear-choked voice. ‘There is no time to lose, nevertheless,’ answered the Earl. ‘And now, my poor old woman, why are you crying so bitterly? It is autumn. The leaves are falling from the trees like burning tears—the wind howls. Why must you mimic them?’
+“But he is only two months old, the little thing,” broke in Nannie in a tear-choked voice. “There is no time to lose, nevertheless,” answered the Earl. “And now, my poor old woman, why are you crying so bitterly? It is autumn. The leaves are falling from the trees like burning tears—the wind howls. Why must you mimic them?”
 
-Her old eyes gazed at him and were filmed. Her mouth quivered. ‘I am so tired, sir,’ she said.
+Her old eyes gazed at him and were filmed. Her mouth quivered. “I am so tired, sir,” she said.
 
-‘Then lie down, good woman, lie down,’ said Lord Sepulchrave. ‘It has been a long walk for you. Lie down.’
+“Then lie down, good woman, lie down,” said Lord Sepulchrave. “It has been a long walk for you. Lie down.”
 
 Mrs Slagg found no comfort in lying upon her back on the huge library floor with the Earl of Groan talking to her from above in phrases that meant nothing to her.
 
 She gathered Titus to her side and stared at the ceiling, her tears running into her dry mouth. Titus was very cold and had begun to shiver.
 
-‘Now, let me see my son,’ said his Lordship slowly. ‘My son Titus. Is it true that he is ugly?’
+“Now, let me see my son,” said his Lordship slowly. “My son Titus. Is it true that he is ugly?”
 
 Nannie scrambled to her feet and lifted Titus in her arms.
 
-‘He is not ugly, your Lordship,’ she said, her voice quavering. ‘My little one is lovely.’
+“He is not ugly, your Lordship,” she said, her voice quavering. “My little one is lovely.”
 
-‘Let me see him. Hold him up, nurse; hold him up to the light. Ah! that is better. He has improved,’ said Lord Sepulchrave. ‘How old is he?’
+“Let me see him. Hold him up, nurse; hold him up to the light. Ah! that is better. He has improved,” said Lord Sepulchrave. “How old is he?”
 
-‘Nearly three months,’ said Nannie Slagg. ‘Oh, my weak heart! he is nearly three months old.’
+“Nearly three months,” said Nannie Slagg. “Oh, my weak heart! he is nearly three months old.”
 
-‘Well, well, good woman, that is all. I have talked too much tonight. That is all that I wanted—to see my son, and to tell you to inform the Family of my desire to have them here at eight o’clock today week. The Prunesquallors had better come as well. I will inform Sourdust myself. Do you understand?’
+“Well, well, good woman, that is all. I have talked too much tonight. That is all that I wanted—to see my son, and to tell you to inform the Family of my desire to have them here at eight o’clock today week. The Prunesquallors had better come as well. I will inform Sourdust myself. Do you understand?”
 
-‘Yes, sir,’ said Nannie, already making for the door. ‘I will tell them, sir. Oh, my poor heart, how tired I am!’
+“Yes, sir,” said Nannie, already making for the door. “I will tell them, sir. Oh, my poor heart, how tired I am!”
 
-‘Flay!’ said Lord Sepulchrave, ‘take the nurse back to her room. You need not return tonight. I shall have left in four hours’ time. Have my room prepared and the lanthorn on my bedside table. You may go.’
+“Flay!” said Lord Sepulchrave, “take the nurse back to her room. You need not return tonight. I shall have left in four hours’ time. Have my room prepared and the lanthorn on my bedside table. You may go.”
 
 Flay, who had emerged into the lamplight, nodded his head, relit the wick of the lamp, and then followed Nannie Slagg out of the door and up the steps to the starlight. This time he took no heed of her expostulations, but taking Titus from her, placed him carefully into one of his capacious jacket pockets, and then, lifting the tiny struggling woman in his arms, marched solemnly through the woods to the castle.
 
@@ -3323,7 +3323,7 @@ When Keda came back to her people the cacti were dripping with the rain. The win
 
 This was the darkness she knew of. She breathed it in. It was the late autumn darkness of her memories. There was here no taint of those shadows which had oppressed her spirit within the walls of Gormenghast. Here, once again an Outer dweller, she stretched her arms above her head in her liberation.
 
-‘I am free,’ she said. ‘I am home again.’ But directly she had said these words she knew that it was not so. She was home, yes, among the dwellings where she was born. Here beside her, like an ancient friend, stood the gaunt cactus, but of the friends of her childhood who were left? Who was there to whom she could go? She did not ask for someone in whom she could confide. She only wished that she might go unhesitatingly to one who would ask no questions, and to whom she need not speak.
+“I am free,” she said. “I am home again.” But directly she had said these words she knew that it was not so. She was home, yes, among the dwellings where she was born. Here beside her, like an ancient friend, stood the gaunt cactus, but of the friends of her childhood who were left? Who was there to whom she could go? She did not ask for someone in whom she could confide. She only wished that she might go unhesitatingly to one who would ask no questions, and to whom she need not speak.
 
 Who was there? And against this question arose the answer which she feared: There were the two men.
 
@@ -3363,87 +3363,87 @@ She smiled, her mature, compassionate lips hardly parting. Her eyes moved over h
 
 He moved forward in the light so that his face was darkened to her and only the top of his ruffled hair shone like wire.
 
-‘Keda,’ he whispered.
+“Keda,” he whispered.
 
-She took his hand. ‘I have come back.’
+She took his hand. “I have come back.”
 
 He felt her nearness; he held her shoulders in his hands.
 
-‘You have come back,’ he said as though repeating a lesson. ‘Ah, Keda—is this you? You went away. Every night I have watched for you.’ His hands shook on her shoulders. ‘You went away,’ he said.
+“You have come back,” he said as though repeating a lesson. “Ah, Keda—is this you? You went away. Every night I have watched for you.” His hands shook on her shoulders. “You went away,” he said.
 
-‘You have followed me?’ said Keda. ‘Why did you not speak to me by the rocks?’
+“You have followed me?” said Keda. “Why did you not speak to me by the rocks?”
 
-‘I wanted to’, he said, ‘but I could not.’
+“I wanted to”, he said, “but I could not.”
 
-‘Oh, why not?’
+“Oh, why not?”
 
-‘We will move from the lamp and then I will tell you,’ he said at last. ‘Where are we going?’
+“We will move from the lamp and then I will tell you,” he said at last. “Where are we going?”
 
-‘Where? To where should I go but to where I lived—to my house?’
+“Where? To where should I go but to where I lived—to my house?”
 
-They walked slowly. ‘I will tell you,’ he said suddenly. ‘I followed you to know where you would go. When I knew it was not to Braigon I overtook you.’
+They walked slowly. “I will tell you,” he said suddenly. “I followed you to know where you would go. When I knew it was not to Braigon I overtook you.”
 
-‘To Braigon?’ she said. ‘Oh Rantel, you are still as unhappy.’
+“To Braigon?” she said. “Oh Rantel, you are still as unhappy.”
 
-‘I cannot alter, Keda; I cannot change.’
+“I cannot alter, Keda; I cannot change.”
 
 They had reached the square.
 
-‘We have come here for nothing,’ said Rantel, coming to a halt in the darkness. ‘For nothing, do you hear me, Keda? I must tell you now. Oh, it is bitterness to tell you.’
+“We have come here for nothing,” said Rantel, coming to a halt in the darkness. “For nothing, do you hear me, Keda? I must tell you now. Oh, it is bitterness to tell you.”
 
-Nothing that he might say could stop a voice within her that kept crying: ‘*I* am with you, Keda! I am *life*! I am *life*! Oh, Keda, Keda, *I* am with you!’ But her voice asked him as though something separate from her real self were speaking:
+Nothing that he might say could stop a voice within her that kept crying: “*I* am with you, Keda! I am *life*! I am *life*! Oh, Keda, Keda, *I* am with you!” But her voice asked him as though something separate from her real self were speaking:
 
-‘Why have we come for nothing?’
+“Why have we come for nothing?”
 
-‘I followed you and then I let you continue here with me, but your house, Keda, where your husband carved, has been taken from you. You can do nothing. When you left us the Ancients met, the Old Carvers, and they have given your house to one who is of their company, for they say that now that your husband is dead you are not worthy to live in the Square of the Black Rider.’
+“I followed you and then I let you continue here with me, but your house, Keda, where your husband carved, has been taken from you. You can do nothing. When you left us the Ancients met, the Old Carvers, and they have given your house to one who is of their company, for they say that now that your husband is dead you are not worthy to live in the Square of the Black Rider.”
 
-‘And my husband’s carvings,’ said Keda, ‘what has become of them?’
+“And my husband’s carvings,” said Keda, “what has become of them?”
 
 While she waited for him to answer she heard his breathing quicken and could dimly see him dragging his forearm over his brow.
 
-‘I will tell you,’ he said. ‘O fire! why was I so slow—so slow! While I was watching for you, watching from the rocks, as I have done every night since you left, Braigon broke into your house and found the Ancients dividing up your own carvings among themselves. “She will not come back,” they said of you. “She is worthless. The carvings will be left untended”, they said, “and the grain-worm will attack them.” But Braigon drew his knife and sent them into a room below the stairs and made twelve journeys and carried the carvings to his own house, where he has hidden them, he says, until you come.
+“I will tell you,” he said. “O fire! why was I so slow—so slow! While I was watching for you, watching from the rocks, as I have done every night since you left, Braigon broke into your house and found the Ancients dividing up your own carvings among themselves. ‘She will not come back,’ they said of you. ‘She is worthless. The carvings will be left untended’, they said, ‘and the grain-worm will attack them.’ But Braigon drew his knife and sent them into a room below the stairs and made twelve journeys and carried the carvings to his own house, where he has hidden them, he says, until you come.
 
-‘Keda, Keda, what can *I* do for you? Oh Keda, what can *I* do?’
+“Keda, Keda, what can *I* do for you? Oh Keda, what can *I* do?”
 
-‘Hold me close to you,’ she said. ‘Where is that music?’
+“Hold me close to you,” she said. “Where is that music?”
 
 In the silence they could hear the voice of an instrument.
 
-‘Keda . . .’
+“Keda . . .”
 
 His arms were about her body and his face was deep in her hair.
 
 She could hear the beating of his heart, for her head was lying close to him. The music had suddenly ended and silence, as unbroken as the darkness about them, returned.
 
-Rantel spoke at last. ‘I will not live until I take you, Keda. Then I will live. I am a Sculptor. I will create a glory out of wood. I will hack for you a symbol of my love. It will curve in flight. It will leap. It shall be of crimson and have hands as tender as flowers and feet that merge into the roughness of earth, for it shall be its body that leaps. And it shall have eyes that see all things and be violet like the edge of the spring lightning, and upon the breast I shall carve your name—Keda, Keda, Keda—three times, for I am ill with love.’
+Rantel spoke at last. “I will not live until I take you, Keda. Then I will live. I am a Sculptor. I will create a glory out of wood. I will hack for you a symbol of my love. It will curve in flight. It will leap. It shall be of crimson and have hands as tender as flowers and feet that merge into the roughness of earth, for it shall be its body that leaps. And it shall have eyes that see all things and be violet like the edge of the spring lightning, and upon the breast I shall carve your name—Keda, Keda, Keda—three times, for I am ill with love.”
 
 She put up her hand and her cool fingers felt the bones of his brow and his high cheekbones, and came to his mouth where they touched his lips.
 
-After a little while Rantel said softly: ‘You have been crying?’
+After a little while Rantel said softly: “You have been crying?”
 
-‘With joy,’ she said.
+“With joy,” she said.
 
-‘Keda . . .’
+“Keda . . .”
 
-‘Yes . . .’
+“Yes . . .”
 
-‘Can you bear cruel news?’
+“Can you bear cruel news?”
 
-‘Nothing can pain me any more,’ said Keda. ‘I am no longer the one you knew. I am alive.’
+“Nothing can pain me any more,” said Keda. “I am no longer the one you knew. I am alive.”
 
-‘The law that forced you in your marriage, Keda, may bind you again. There is another. I have been told he has been waiting for you, Keda, waiting for you to return. But I could slay him, Keda, if you wish.’ His body toughened in her arms and his voice grew harsher. ‘Shall I slay him?’
+“The law that forced you in your marriage, Keda, may bind you again. There is another. I have been told he has been waiting for you, Keda, waiting for you to return. But I could slay him, Keda, if you wish.” His body toughened in her arms and his voice grew harsher. “Shall I slay him?”
 
-‘You shall not speak of death,’ said Keda. ‘He shall not have me. Take me with you to your house.’ Keda heard her own voice sounding like that of another woman, it was so different and clear. ‘Take me with you—he will not take me after we have loved. They have my house, where else should I sleep tonight but with you? For I am happy for the first time. All things are clear to me. The right and the wrong, the true and the untrue. I have lost my fear. Are you afraid?’
+“You shall not speak of death,” said Keda. “He shall not have me. Take me with you to your house.” Keda heard her own voice sounding like that of another woman, it was so different and clear. “Take me with you—he will not take me after we have loved. They have my house, where else should I sleep tonight but with you? For I am happy for the first time. All things are clear to me. The right and the wrong, the true and the untrue. I have lost my fear. Are you afraid?”
 
-‘I am not afraid!’ cried Rantel into the darkness, ‘if we love one another.’
+“I am not afraid!” cried Rantel into the darkness, “if we love one another.”
 
-‘I love all, all,’ said Keda. ‘Let us not talk.’
+“I love all, all,” said Keda. “Let us not talk.”
 
 Dazed, he took her with him away from the square, and threading their way through the less frequented lanes found themselves at last at the door of a dwelling at the base of the castle wall.
 
 The room they entered was cold, but within a minute Rantel had sent the light from an open fire on the earth dancing across the walls. On the mud floor was the usual grass matting common to all the dwellings.
 
-‘Our youth will pass from us soon,’ said Keda. ‘But we are young this moment and tonight we are together. The bane of our people will fall on us, next year or the year after, but now—NOW, Rantel; it is NOW that fills us. How quickly you have made the fire! Oh, Rantel, how beautifully you have made it! Hold me again.’
+“Our youth will pass from us soon,” said Keda. “But we are young this moment and tonight we are together. The bane of our people will fall on us, next year or the year after, but now—NOW, Rantel; it is NOW that fills us. How quickly you have made the fire! Oh, Rantel, how beautifully you have made it! Hold me again.”
 
 As he held her there was a tapping at the window; they did not move, but only listened as it increased until the coarse slab of glass sunk in the mud walls vibrated with an incessant drumming. The increasing volume of the sudden rain was joined by the first howls of a young wind.
 
@@ -3457,201 +3457,201 @@ And now this sunlit morning of late autumn gave to it a mood which she responded
 
 He did not get to his feet, so she walked over to him and sat down at his side. His head was massive and his body also; squarely built, he gave the impression of compact energy and strength. His hair covered his head closely with tangled curls.
 
-‘How long have you been here, Braigon, sitting in the sun carving?’
+“How long have you been here, Braigon, sitting in the sun carving?”
 
-‘Not long.’
+“Not long.”
 
-‘Why did you come?’
+“Why did you come?”
 
-‘To see you.’
+“To see you.”
 
-‘How did you know that I had come back?’
+“How did you know that I had come back?”
 
-‘Because I could carve no more.’
+“Because I could carve no more.”
 
-‘You stopped carving?’ said Keda.
+“You stopped carving?” said Keda.
 
-‘I could not see what I was doing. I could only see your face where my carving had been.’
+“I could not see what I was doing. I could only see your face where my carving had been.”
 
 Keda gave vent to a sigh of such tremulous depth that she clasped her hands at her breast with the pain that it engendered.
 
-‘And so you came here?’
+“And so you came here?”
 
-‘I did not come at once. I knew that Rantel would find you as you left the gate in the Outer Wall, for he hides each night among the rocks waiting for you. I knew that he would be with you. But this morning I came here to ask him where he had found you a dwelling for the night, and where you were, for I knew your house had been taken from you by the law of the Mud Square. But when I arrived here an hour ago I saw the ghost of your face on the door, and you were happy; so I waited here. You are happy, Keda?’
+“I did not come at once. I knew that Rantel would find you as you left the gate in the Outer Wall, for he hides each night among the rocks waiting for you. I knew that he would be with you. But this morning I came here to ask him where he had found you a dwelling for the night, and where you were, for I knew your house had been taken from you by the law of the Mud Square. But when I arrived here an hour ago I saw the ghost of your face on the door, and you were happy; so I waited here. You are happy, Keda?”
 
-‘Yes,’ she said.
+“Yes,” she said.
 
-‘You were afraid in the castle to come back; but now you are here you are not afraid. I can see what it is,’ he said. ‘You have found that you are in love. Do you love him?’
+“You were afraid in the castle to come back; but now you are here you are not afraid. I can see what it is,” he said. “You have found that you are in love. Do you love him?”
 
-‘I do not know. I do not understand. I am walking on air, Braigon. I cannot tell whether I love him or no, or whether it is the world I love so much and the air and the rain last night, and the passions that opened like flowers from their tight buds. Oh, Braigon, I do not know. If I love Rantel, then I love you also. As I watch you now, your hand at your forehead and your lips moving such a little, it is you I love. I love the way you have not wept with anger and torn yourself to shreds to find me here. The way you have sat here all by yourself, oh Braigon, whittling a branch, and waiting, unafraid and understanding everything, I do not know how, for I have not told you of what has transformed me, suddenly?’
+“I do not know. I do not understand. I am walking on air, Braigon. I cannot tell whether I love him or no, or whether it is the world I love so much and the air and the rain last night, and the passions that opened like flowers from their tight buds. Oh, Braigon, I do not know. If I love Rantel, then I love you also. As I watch you now, your hand at your forehead and your lips moving such a little, it is you I love. I love the way you have not wept with anger and torn yourself to shreds to find me here. The way you have sat here all by yourself, oh Braigon, whittling a branch, and waiting, unafraid and understanding everything, I do not know how, for I have not told you of what has transformed me, suddenly?”
 
-She leaned back against the wall and the morning sun lay whitely upon her face. ‘Have I changed so much?’ she said.
+She leaned back against the wall and the morning sun lay whitely upon her face. “Have I changed so much?” she said.
 
-‘You have broken free,’ he said.
+“You have broken free,” he said.
 
-‘Braigon,’ she cried, ‘it is you—it is you whom I love.’ And she clenched her hands together. ‘I am in pain because of you and him, but my pain makes me happy. I must tell you the truth, Braigon. I am in love with all things—pain and all things, because I can now watch them from above, for something has happened and I am clear—clear. But I love you, Braigon, more than all things. It is *you* I love.’
+“Braigon,” she cried, “it is you—it is you whom I love.” And she clenched her hands together. “I am in pain because of you and him, but my pain makes me happy. I must tell you the truth, Braigon. I am in love with all things—pain and all things, because I can now watch them from above, for something has happened and I am clear—clear. But I love you, Braigon, more than all things. It is *you* I love.”
 
 He turned the branch over in his hand as though he had not heard, and then he turned to her.
 
 His heavy head had been reclining upon the wall and now he turned it slightly towards her, his eyes half closed.
 
-‘Keda,’ he said, ‘I will meet you tonight. The grass hollow where the Twisted Woods descend. Do you remember?’
+“Keda,” he said, “I will meet you tonight. The grass hollow where the Twisted Woods descend. Do you remember?”
 
-‘I will meet you there,’ she said. While she spoke the air became shrill between their heads and the steel point of a long knife struck the stones between them and snapped with the impact.
+“I will meet you there,” she said. While she spoke the air became shrill between their heads and the steel point of a long knife struck the stones between them and snapped with the impact.
 
 Rantel stood before them, he was shaking.
 
-‘I have another knife,’ he said in a whisper which they could only just hear. ‘It is a little longer. It will be sharper by this evening when I meet you at the hollow. There is a full moon tonight. Keda! Oh Keda! Have you forgotten?’
+“I have another knife,” he said in a whisper which they could only just hear. “It is a little longer. It will be sharper by this evening when I meet you at the hollow. There is a full moon tonight. Keda! Oh Keda! Have you forgotten?”
 
 Braigon got to his feet. He had moved only to place himself before Keda’s body. She had closed her eyes and she was quite expressionless.
 
-‘I cannot help it,’ she said, ‘I cannot help it. I am happy.’
+“I cannot help it,” she said, “I cannot help it. I am happy.”
 
 Braigon stood immediately before his rival. He spoke over his shoulder, but kept his eyes on his enemy.
 
-‘He is right,’ he said. ‘I shall meet him at sunset. One of us will come back to you.’
+“He is right,” he said. “I shall meet him at sunset. One of us will come back to you.”
 
-Then Keda raised her hands to her head. ‘No, no, no, no!’ she cried. But she knew that it must be so, and became calm, leaning back against the wall, her head bowed and the locks of her hair falling over her face.
+Then Keda raised her hands to her head. “No, no, no, no!” she cried. But she knew that it must be so, and became calm, leaning back against the wall, her head bowed and the locks of her hair falling over her face.
 
 The two men left her, for they knew that they could never be with her that unhappy day. They must prepare their weapons. Rantel re-entered his hut and a few moments later returned with a cape drawn about him. He approached Keda.
 
-‘I do not understand your love,’ he said.
+“I do not understand your love,” he said.
 
 She looked up and saw his head upright upon his neck. His hair was like a bush of blackness.
 
 She did not answer. She only saw his strength and his high cheekbones and fiery eyes. She only saw his youth.
 
-‘I am the cause,’ she said. ‘It is I who should die. And I *will* die,’ she said quickly. ‘Before very long—but now, now what is it? I cannot enter into fear or hate, or even agony and death. Forgive me. Forgive me.’
+“I am the cause,” she said. “It is I who should die. And I *will* die,” she said quickly. “Before very long—but now, now what is it? I cannot enter into fear or hate, or even agony and death. Forgive me. Forgive me.”
 
 She turned and held his hand with the dagger in it.
 
-‘I do not know. I do not understand,’ she said. ‘I do not think that we have any power.’
+“I do not know. I do not understand,” she said. “I do not think that we have any power.”
 
 She released his hand and he moved away along the base of the high wall until it curved to the right and she lost him.
 
 Braigon was already gone. Her eyes clouded.
 
-‘Keda,’ she said to herself, ‘Keda, this is tragedy.’ But as her words hung emptily in the morning air, she clenched her hands for she could feel no anguish and the bright bird that had filled her breast was still singing . . . was still singing.
+“Keda,” she said to herself, “Keda, this is tragedy.” But as her words hung emptily in the morning air, she clenched her hands for she could feel no anguish and the bright bird that had filled her breast was still singing . . . was still singing.
 
 ## THE ROOM OF ROOTS
 
-‘That’s quite enough for today,’ said Lady Cora, laying down her embroidery on a table beside her chair.
+“That’s quite enough for today,” said Lady Cora, laying down her embroidery on a table beside her chair.
 
-‘But you’ve only sewn three stitches, Cora,’ said Lady Clarice, drawing out a thread to arm’s length.
+“But you’ve only sewn three stitches, Cora,” said Lady Clarice, drawing out a thread to arm’s length.
 
-Cora turned her eyes suspiciously. ‘You have been watching me,’ she said. ‘Haven’t you?’
+Cora turned her eyes suspiciously. “You have been watching me,” she said. “Haven’t you?”
 
-‘It wasn’t private,’ replied her sister. ‘Sewing isn’t private.’ She tossed her head.
+“It wasn’t private,” replied her sister. “Sewing isn’t private.” She tossed her head.
 
 Cora was not convinced and sat rubbing her knees together, sullenly.
 
-‘And now I’ve finished as well,’ said Clarice, breaking the silence. ‘Half a petal, and quite enough, too, for a day like this. Is it tea time?’
+“And now I’ve finished as well,” said Clarice, breaking the silence. “Half a petal, and quite enough, too, for a day like this. Is it tea time?”
 
-‘Why do you always want to know the time?’ said Cora. “Is it breakfast time, Cora?” . . . “Is it dinner time, Cora?” . . . “Is it tea time, Cora?”—on and on and on. You know that it doesn’t make any difference *what* the time is.’
+“Why do you always want to know the time?” said Cora. “ ‘Is it breakfast time, Cora?’ . . . ‘Is it dinner time, Cora?’ . . . ‘Is it tea time, Cora?’—on and on and on. You know that it doesn’t make any difference *what* the time is.”
 
-‘It does if you’re hungry,’ said Clarice.
+“It does if you’re hungry,” said Clarice.
 
-‘No, it doesn’t. Nothing matters very much; even if you’re hungry.’
+“No, it doesn’t. Nothing matters very much; even if you’re hungry.”
 
-‘Yes, it does,’ her sister contested. ‘I know it does.’
+“Yes, it does,” her sister contested. “I know it does.”
 
-‘Clarice Groan,’ said Cora sternly, rising from her chair, ‘you know *too* much.’
+“Clarice Groan,” said Cora sternly, rising from her chair, “you know *too* much.”
 
 Clarice did not answer, but bit her thin, loose lower lip.
 
-‘We usually go on much longer with our sewing, don’t we, Cora?’ she said at last. ‘We sometimes go on for hours and hours, and we nearly always talk a lot, but we haven’t today, have we, Cora?’
+“We usually go on much longer with our sewing, don’t we, Cora?” she said at last. “We sometimes go on for hours and hours, and we nearly always talk a lot, but we haven’t today, have we, Cora?”
 
-‘No,’ said Cora.
+“No,” said Cora.
 
-‘Why haven’t we?’
+“Why haven’t we?”
 
-‘I don’t know. Because we haven’t needed to, I suppose, you silly thing.’
+“I don’t know. Because we haven’t needed to, I suppose, you silly thing.”
 
-Clarice got up from her chair and smoothed her purple satin, and then looked archly at her sister. ‘*I* know why we haven’t been talking,’ she said.
+Clarice got up from her chair and smoothed her purple satin, and then looked archly at her sister. “*I* know why we haven’t been talking,” she said.
 
-‘Oh no, you don’t.’
+“Oh no, you don’t.”
 
-‘Yes, I do,’ said Clarice. ‘*I* know.’
+“Yes, I do,” said Clarice. “*I* know.”
 
 Cora sniffed, and after walking to a long mirror in the wall with a swishing of her skirts, she readjusted a pin in her hair. When she felt she had been silent long enough:
 
-‘Oh no, you don’t,’ she said, and peered at her sister in the mirror over the reflection of her own shoulder. Had she not had forty-nine years in which to get accustomed to the phenomenon she must surely have been frightened to behold in the glass, next to her own face, another, smaller, it is true, for her sister was some distance behind her, but of such startling similarity.
+“Oh no, you don’t,” she said, and peered at her sister in the mirror over the reflection of her own shoulder. Had she not had forty-nine years in which to get accustomed to the phenomenon she must surely have been frightened to behold in the glass, next to her own face, another, smaller, it is true, for her sister was some distance behind her, but of such startling similarity.
 
 She saw her sister’s mouth opening in the mirror.
 
-‘I *do*,’ came the voice from behind her, ‘because I know what you’ve been thinking. It’s easy.’
+“I *do*,” came the voice from behind her, “because I know what you’ve been thinking. It’s easy.”
 
-‘You *think* you do,’ said Cora, ‘but I know you *don’t*, because I know exactly what you’ve been thinking all day that I’ve been thinking and that’s why.’
+“You *think* you do,” said Cora, “but I know you *don’t*, because I know exactly what you’ve been thinking all day that I’ve been thinking and that’s why.”
 
-The logic of this answer made no lasting impression upon Clarice, for although it silenced her for a moment she continued: ‘Shall I tell you what you’ve been brooding on?’ she asked.
+The logic of this answer made no lasting impression upon Clarice, for although it silenced her for a moment she continued: “Shall I tell you what you’ve been brooding on?” she asked.
 
-‘You can if you like, I suppose. *I* don’t mind. What, then? I might as well incline my ear. Go on.’
+“You can if you like, I suppose. *I* don’t mind. What, then? I might as well incline my ear. Go on.”
 
-‘I don’t know that I want to now,’ said Clarice. ‘I think I’ll keep it to myself, although it’s *obvious*.’ Clarice gave great emphasis to this word ‘obvious’. ‘Isn’t it tea time yet? Shall I ring the bell, Cora? What a pity it’s too windy for the tree.’
+“I don’t know that I want to now,” said Clarice. “I think I’ll keep it to myself, although it’s *obvious*.” Clarice gave great emphasis to this word “obvious”. “Isn’t it tea time yet? Shall I ring the bell, Cora? What a pity it’s too windy for the tree.”
 
-‘You were thinking of that Steerpike boy,’ said Cora, who had sidled up to her sister and was staring at her from very close quarters. She felt she had rather turned the tables on poor Clarice by her sudden renewal of the subject.
+“You were thinking of that Steerpike boy,” said Cora, who had sidled up to her sister and was staring at her from very close quarters. She felt she had rather turned the tables on poor Clarice by her sudden renewal of the subject.
 
-‘So were you,’ said Clarice. ‘I knew that long ago. Didn’t you?’
+“So were you,” said Clarice. “I knew that long ago. Didn’t you?”
 
-‘Yes, I did,’ said Cora. ‘Very long ago. Now we both know.’
+“Yes, I did,” said Cora. “Very long ago. Now we both know.”
 
 A freshly burning fire flung their shadows disrespectfully to and fro across the ceiling and over the walls where samples of their embroidery were hung. The room was a fair size, some thirty feet by twenty. Opposite the entrance from the corridor was a small door. This gave upon the Room of Roots, in the shape of a half circle. On either side of this smaller opening were two large windows with diamond panes of thick glass, and on the two end walls of the room, in one of which was the small fireplace, were narrow doorways, one leading to the kitchen and the rooms of the two servants, and the other to the dining-room and the dark yellow bedroom of the twins.
 
-‘He said he would exalt us,’ said Clarice. ‘You heard him, didn’t you?’
+“He said he would exalt us,” said Clarice. “You heard him, didn’t you?”
 
-‘I’m not deaf,’ said Cora.
+“I’m not deaf,” said Cora.
 
-‘He said we weren’t being honoured enough and we must remember who we are. We’re Lady Clarice and Cora Groan; that’s who we are.’
+“He said we weren’t being honoured enough and we must remember who we are. We’re Lady Clarice and Cora Groan; that’s who we are.”
 
-‘Cora and Clarice’, her sister corrected her, ‘of Gormenghast.’
+“Cora and Clarice”, her sister corrected her, “of Gormenghast.”
 
-‘But no one is awed when they see us. He said he’d make them be.’
+“But no one is awed when they see us. He said he’d make them be.”
 
-‘Make them be what, dear?’ Cora had begun to unbend now that she found their thoughts had been identical.
+“Make them be what, dear?” Cora had begun to unbend now that she found their thoughts had been identical.
 
-‘Make them be awed,’ said Clarice. ‘That’s what they ought to be. Oughtn’t they, Cora?’
+“Make them be awed,” said Clarice. “That’s what they ought to be. Oughtn’t they, Cora?”
 
-‘Yes; but they won’t do it.’
+“Yes; but they won’t do it.”
 
-‘No. That’s what it is,’ said Clarice, ‘although I tried this morning.’
+“No. That’s what it is,” said Clarice, “although I tried this morning.”
 
-‘What, dear?’ said Cora.
+“What, dear?” said Cora.
 
-‘I tried this morning, though,’ repeated Clarice.
+“I tried this morning, though,” repeated Clarice.
 
-‘Tried what?’ asked Cora in a rather patronizing voice.
+“Tried what?” asked Cora in a rather patronizing voice.
 
-‘You know when I said “I’ll go for a saunter”?’
+“You know when I said ‘I’ll go for a saunter’?”
 
-‘Yes.’ Cora sat down and produced a minute but heavily scented handkerchief from her flat bosom. ‘What about it?’
+“Yes.” Cora sat down and produced a minute but heavily scented handkerchief from her flat bosom. “What about it?”
 
-‘I didn’t go to the bathroom at all.’ Clarice sat down suddenly and stiffly. ‘I took some ink instead—*black* ink.’
+“I didn’t go to the bathroom at all.” Clarice sat down suddenly and stiffly. “I took some ink instead—*black* ink.”
 
-‘What for?’
+“What for?”
 
-‘I won’t tell you yet, for the time isn’t ripe,’ said Clarice importantly; and her nostrils quivered like a mustang’s. ‘I took the black ink, and I poured it into a jug. There was lots of it. Then I said to myself, what you tell me such a lot, and what I tell you as well, which is that Gertrude is no better than us—in fact, she’s not as good because she hasn’t got a speck of Groan blood in her veins like we have, but only the common sort that’s no use. So I took the ink and I knew what I would do. I didn’t tell you because you might have told me not to, and I don’t know why I’m telling you now because you may think I was wrong to do it; but it’s all over now so it doesn’t matter what you think, dear, does it?’
+“I won’t tell you yet, for the time isn’t ripe,” said Clarice importantly; and her nostrils quivered like a mustang’s. “I took the black ink, and I poured it into a jug. There was lots of it. Then I said to myself, what you tell me such a lot, and what I tell you as well, which is that Gertrude is no better than us—in fact, she’s not as good because she hasn’t got a speck of Groan blood in her veins like we have, but only the common sort that’s no use. So I took the ink and I knew what I would do. I didn’t tell you because you might have told me not to, and I don’t know why I’m telling you now because you may think I was wrong to do it; but it’s all over now so it doesn’t matter what you think, dear, does it?”
 
-‘I don’t know yet,’ said Cora rather peevishly.
+“I don’t know yet,” said Cora rather peevishly.
 
-‘Well, I knew that Gertrude had to be in the Central Hall to receive the seven most hideous beggars of the Outer Dwellings and pour a lot of oil on them at nine o’clock, so I went through the door of the Central Hall at nine o’clock with my jug full of ink, and I walked up to her at nine o’clock, but it was not what I wanted because she had a black dress on.’
+“Well, I knew that Gertrude had to be in the Central Hall to receive the seven most hideous beggars of the Outer Dwellings and pour a lot of oil on them at nine o’clock, so I went through the door of the Central Hall at nine o’clock with my jug full of ink, and I walked up to her at nine o’clock, but it was not what I wanted because she had a black dress on.”
 
-‘What do you mean?’ said Cora.
+“What do you mean?” said Cora.
 
-‘Well, I was going to pour the ink all over her dress.’
+“Well, I was going to pour the ink all over her dress.”
 
-‘That would be good, *very* good,’ said Cora. ‘Did you?’
+“That would be good, *very* good,” said Cora. “Did you?”
 
-‘Yes,’ said Clarice, ‘but it didn’t show because her dress was black, and she didn’t see me pouring it, anyway, because she was talking to a starling.’
+“Yes,” said Clarice, “but it didn’t show because her dress was black, and she didn’t see me pouring it, anyway, because she was talking to a starling.”
 
-‘One of *our* birds,’ said Cora.
+“One of *our* birds,” said Cora.
 
-‘Yes,’ said Clarice. ‘One of the stolen birds. But the others saw me. They had their mouths open. They saw my decision. But Gertrude didn’t, so my decision was no use. I hadn’t anything else to do and I felt frightened, so I ran all the way back; and now I think I’ll wash out the jug.’
+“Yes,” said Clarice. “One of the stolen birds. But the others saw me. They had their mouths open. They saw my decision. But Gertrude didn’t, so my decision was no use. I hadn’t anything else to do and I felt frightened, so I ran all the way back; and now I think I’ll wash out the jug.”
 
-She got up to put her idea into operation when there was a discreet tapping at their door. Visitors were very few and far between and they were too excited for a moment to say ‘Come in.’
+She got up to put her idea into operation when there was a discreet tapping at their door. Visitors were very few and far between and they were too excited for a moment to say “Come in.”
 
 Cora was the first to open her mouth and her blank voice was raised more loudly than she had intended:
 
-‘Come in.’
+“Come in.”
 
 Clarice was at her side. Their shoulders touched. Their heads were thrust forward as though they were peering out of a window.
 
@@ -3659,81 +3659,81 @@ The door opened and Steerpike entered, an elegant stick with a shiny metal handl
 
 When he had closed the door behind him he tucked his stick smartly under his arm and bowed.
 
-‘Your Ladyships,’ he said, ‘my unwarranted intrusion upon your privacy, with but the summary knock at the panels of your door as my mediator, must be considered the acme of impertinence were it not that I come upon a serious errand.’
+“Your Ladyships,” he said, “my unwarranted intrusion upon your privacy, with but the summary knock at the panels of your door as my mediator, must be considered the acme of impertinence were it not that I come upon a serious errand.”
 
-‘Who’s died?’ said Cora.
+“Who’s died?” said Cora.
 
-‘Is it Gertrude?’ echoed Clarice.
+“Is it Gertrude?” echoed Clarice.
 
-‘No one has died,’ said Steerpike, approaching them. ‘I will tell you the facts in a few minutes; but first, my dear Ladyships, I would be most honoured if I were permitted to appreciate your embroideries. Will you allow me to see them?’ He looked at them both in turn inquiringly.
+“No one has died,” said Steerpike, approaching them. “I will tell you the facts in a few minutes; but first, my dear Ladyships, I would be most honoured if I were permitted to appreciate your embroideries. Will you allow me to see them?” He looked at them both in turn inquiringly.
 
-‘He said something about them before; at the Prunesquallors’ it was,’ whispered Clarice to her sister. ‘He said he wanted to see them before. Our embroideries.’
+“He said something about them before; at the Prunesquallors’ it was,” whispered Clarice to her sister. “He said he wanted to see them before. Our embroideries.”
 
 Clarice had a firm belief that as long as she whispered, no matter how loudly, no one would hear a word of what she said, except her sister.
 
-‘I heard him,’ said her sister. ‘I’m not blind, am I?’
+“I heard him,” said her sister. “I’m not blind, am I?”
 
-‘Which do you want to see first?’ said Clarice. ‘Our needlework or the Room of Roots or the Tree?’
+“Which do you want to see first?” said Clarice. “Our needlework or the Room of Roots or the Tree?”
 
-‘If I am not mistaken’, said Steerpike by way of an answer, ‘the creations of your needle are upon the walls around us, and having seen them, as it were, in a flash, I have no choice but to say that I would first of all prefer to examine them more closely, and then if I may, I would be delighted to visit your Room of Roots.’
+“If I am not mistaken”, said Steerpike by way of an answer, “the creations of your needle are upon the walls around us, and having seen them, as it were, in a flash, I have no choice but to say that I would first of all prefer to examine them more closely, and then if I may, I would be delighted to visit your Room of Roots.”
 
-‘ “Creations of our needle”, he said,’ whispered Clarice in her loud, flat manner that filled the room.
+“ ‘Creations of our needle’, he said,” whispered Clarice in her loud, flat manner that filled the room.
 
-‘Naturally,’ said her sister, and shrugged her shoulders again, and turning her face to Steerpike gave to the right-hand corner of her inexpressive mouth a slight twitch upwards, which although it was as mirthless as the curve between the lips of a dead haddock, was taken by Steerpike to imply that she and he were above making such *obvious* comments.
+“Naturally,” said her sister, and shrugged her shoulders again, and turning her face to Steerpike gave to the right-hand corner of her inexpressive mouth a slight twitch upwards, which although it was as mirthless as the curve between the lips of a dead haddock, was taken by Steerpike to imply that she and he were above making such *obvious* comments.
 
-‘Before I begin,’ said Steerpike, placing his innocent-looking swordstick on a table, ‘may I inquire out of my innocence why you ladies were put to the inconvenience of bidding me to enter your room? Surely your footman has forgotten himself. Why was he not at the door to inquire who wished to see you and to give you particulars before you allowed yourselves to be invaded? Forgive my curiosity, my dear Ladyships, but where was your footman? Would you wish me to speak to him?’
+“Before I begin,” said Steerpike, placing his innocent-looking swordstick on a table, “may I inquire out of my innocence why you ladies were put to the inconvenience of bidding me to enter your room? Surely your footman has forgotten himself. Why was he not at the door to inquire who wished to see you and to give you particulars before you allowed yourselves to be invaded? Forgive my curiosity, my dear Ladyships, but where was your footman? Would you wish me to speak to him?”
 
 The sisters stared at each other and then at the youth. At last Clarice said:
 
-‘We haven’t got a footman.’
+“We haven’t got a footman.”
 
 Steerpike, who had turned away for this very purpose, wheeled about, and then took a step backwards as though struck.
 
-‘No footman!’ he said, and directed his gaze at Cora.
+“No footman!” he said, and directed his gaze at Cora.
 
-She shook her head. ‘Only an old lady who smells,’ she said. ‘No footman at all.’
+She shook her head. “Only an old lady who smells,” she said. “No footman at all.”
 
 Steerpike walked to the table and, leaning his hands upon it, gazed into space.
 
-‘Their Ladyships Cora and Clarice Groan of Gormenghast have no footman—have no one save an old lady who smells. Where are their servants? Where are their retinues, their swarms of attendants?’ And then in a voice little above a whisper: ‘This must be seen to. This must end.’ With a clicking of his tongue he straightened his back. ‘And now’, he continued in a livelier voice, ‘the needlework is waiting.’
+“Their Ladyships Cora and Clarice Groan of Gormenghast have no footman—have no one save an old lady who smells. Where are their servants? Where are their retinues, their swarms of attendants?” And then in a voice little above a whisper: “This must be seen to. This must end.” With a clicking of his tongue he straightened his back. “And now”, he continued in a livelier voice, “the needlework is waiting.”
 
-What Steerpike had said, as they toured the walls, began to re-fertilize those seeds of revolt which he had sown at the Prunesquallors’. He watched them out of the corner of his eyes as he flattered their handiwork, and he could see that although it was a great pleasure for them to show their craft, yet their minds were continually returning to the question he had raised. ‘We do it all with our left hands, don’t we, Cora?’ Clarice said, as she pointed to an ugly green-and-red rabbit of intricate needlework.
+What Steerpike had said, as they toured the walls, began to re-fertilize those seeds of revolt which he had sown at the Prunesquallors’. He watched them out of the corner of his eyes as he flattered their handiwork, and he could see that although it was a great pleasure for them to show their craft, yet their minds were continually returning to the question he had raised. “We do it all with our left hands, don’t we, Cora?” Clarice said, as she pointed to an ugly green-and-red rabbit of intricate needlework.
 
-‘Yes,’ said Cora, ‘it takes a long time because it’s all done like that—with our left hands. Our right arms are starved, you know’, she said, turning to Steerpike. ‘They’re quite, quite starved.’
+“Yes,” said Cora, “it takes a long time because it’s all done like that—with our left hands. Our right arms are starved, you know”, she said, turning to Steerpike. “They’re quite, quite starved.”
 
-‘Indeed, your Ladyship,’ said Steerpike. ‘How is that?’
+“Indeed, your Ladyship,” said Steerpike. “How is that?”
 
-‘Not only our left arms,’ Clarice broke in, ‘but all down our left-hand sides and our right-hand legs, too. That’s why they’re rather stiff. It was the epileptic fits which we had. That’s what did it and that’s what makes our needlework all the more clever.’
+“Not only our left arms,” Clarice broke in, “but all down our left-hand sides and our right-hand legs, too. That’s why they’re rather stiff. It was the epileptic fits which we had. That’s what did it and that’s what makes our needlework all the more clever.”
 
-‘And beautiful,’ said Cora.
+“And beautiful,” said Cora.
 
-‘I cannot but agree,’ said Steerpike.
+“I cannot but agree,” said Steerpike.
 
-‘But nobody sees them,’ said Clarice. ‘We are left alone. Nobody wants our advice on anything. Gertrude doesn’t take any notice of us, nor does Sepulchrave. You know what we ought to have, don’t you, Cora?’
+“But nobody sees them,” said Clarice. “We are left alone. Nobody wants our advice on anything. Gertrude doesn’t take any notice of us, nor does Sepulchrave. You know what we ought to have, don’t you, Cora?”
 
-‘Yes,’ said her sister, ‘I know.’
+“Yes,” said her sister, “I know.”
 
-‘What, then?’ said Clarice. ‘Tell me. Tell me.’
+“What, then?” said Clarice. “Tell me. Tell me.”
 
-‘Power,’ said Cora.
+“Power,” said Cora.
 
-‘That’s right. Power. That’s the very thing we want.’ Clarice turned her eyes to Steerpike. Then she smoothed the shiny purple of her dress.
+“That’s right. Power. That’s the very thing we want.” Clarice turned her eyes to Steerpike. Then she smoothed the shiny purple of her dress.
 
-‘I rather liked them,’ she said.
+“I rather liked them,” she said.
 
 Steerpike, wondering where on earth her thoughts had taken her, tilted his head on one side as though reflecting upon the truth in her remark, when Cora’s voice (like the body of a plaice translated into sound) asked:
 
-‘You rather liked *what*?’
+“You rather liked *what*?”
 
-‘My convulsions,’ said Clarice earnestly. ‘When my left arm became starved for the first time. You remember, Cora, don’t you? When we had our *first* fits? I rather liked them.’
+“My convulsions,” said Clarice earnestly. “When my left arm became starved for the first time. You remember, Cora, don’t you? When we had our *first* fits? I rather liked them.”
 
-Cora rustled up to her and raised a forefinger in front of her sister’s face. ‘Clarice Groan,’ she said, ‘we finished talking about *that* long ago. We’re talking about Power now. Why can’t you follow what we’re talking about? You are always losing your place. I’ve noticed that.’
+Cora rustled up to her and raised a forefinger in front of her sister’s face. “Clarice Groan,” she said, “we finished talking about *that* long ago. We’re talking about Power now. Why can’t you follow what we’re talking about? You are always losing your place. I’ve noticed that.”
 
-‘What about the Room of Roots?’ asked Steerpike with affected gaiety. ‘Why is it called the Room of Roots? I am most intrigued.’
+“What about the Room of Roots?” asked Steerpike with affected gaiety. “Why is it called the Room of Roots? I am most intrigued.”
 
-‘Don’t you *know*?’ came their voices.
+“Don’t you *know*?” came their voices.
 
-‘He doesn’t know,’ said Clarice. ‘You see how we’ve been forgotten. He didn’t know about our Room of Roots.’
+“He doesn’t know,” said Clarice. “You see how we’ve been forgotten. He didn’t know about our Room of Roots.”
 
 Steerpike was not kept long in ignorance. He followed the two purple ninepins through the door, and after passing down a short passage, Cora opened a massive door at the far end whose hinges could have done with a gill of oil apiece, and followed by her sister entered the Room of Roots. Steerpike in his turn stepped over the threshold and his curiosity was more than assuaged.
 
@@ -3749,51 +3749,51 @@ The work had taken the sisters well over three years, and yet when all had been 
 
 Against this nagging disappointment was the positive pride which they felt in having a room of roots at all. And not only the Roots but logically enough the Tree whose branches had once drawn sustenance into its highest twigs, and, long ago, burst forth each April with its emerald jets. It was this Tree that was their chief source of satisfaction, giving them some sense of that distinction which they were now denied.
 
-They turned their eyes from its branches and looked around for Steerpike. He was still not unravelled. ‘Can you assist me, my dear Ladyships?’ he called, peering through a skein of purple fibres.
+They turned their eyes from its branches and looked around for Steerpike. He was still not unravelled. “Can you assist me, my dear Ladyships?” he called, peering through a skein of purple fibres.
 
-‘Why don’t you come to this window?’ said Clarice.
+“Why don’t you come to this window?” said Clarice.
 
-‘He can’t find the way,’ said Cora.
+“He can’t find the way,” said Cora.
 
-‘Can’t he? I don’t see why not,’ said Clarice.
+“Can’t he? I don’t see why not,” said Clarice.
 
-‘Because he can’t,’ said Cora. ‘Go and show him.’
+“Because he can’t,” said Cora. “Go and show him.”
 
-‘All right. But he must be very stupid,’ said Clarice, walking through the dense walls of roots which seemed to open up before her and close again behind her back. When she reached Steerpike, she walked past him and it was only by practically treading on her heels that he was able to thread his way towards the window. At the window there was a little more space, for the seven stems which wedged their way through its lower half protruded some four feet into the room before beginning to divide and subdivide. Alongside the window there were steps that led up to a small platform which rested on the thick horizontal stems.
+“All right. But he must be very stupid,” said Clarice, walking through the dense walls of roots which seemed to open up before her and close again behind her back. When she reached Steerpike, she walked past him and it was only by practically treading on her heels that he was able to thread his way towards the window. At the window there was a little more space, for the seven stems which wedged their way through its lower half protruded some four feet into the room before beginning to divide and subdivide. Alongside the window there were steps that led up to a small platform which rested on the thick horizontal stems.
 
-‘Look outside’, said Cora directly Steerpike arrived, ‘and you’ll see It.’
+“Look outside”, said Cora directly Steerpike arrived, “and you’ll see It.”
 
 Steerpike climbed the few steps and saw the main trunk of the tree floating out horizontally into space and then running up to a great height, and as he saw it he recognized it as the tree he had studied from the roof tops, half a mile away near the stone sky-field.
 
 He saw how, what had then seemed a perilous balancing act on the part of the distant figures, was in reality a safe enough exercise, for the bole was conveniently flat on its upper surface. When it reached that point where it began to ascend and branch out, the wooden highway spread into an area that could easily have accommodated ten or twelve people standing in a close group.
 
-‘Definitely a *tree*,’ he said. ‘I am all in favour of it. Has it been dead as long as you can remember it?’
+“Definitely a *tree*,” he said. “I am all in favour of it. Has it been dead as long as you can remember it?”
 
-‘Of course,’ said Clarice.
+“Of course,” said Clarice.
 
-‘We’re not as old as *that*,’ said Cora, and as this was the first joke she had made for over a year, she tried to smile, but her facial muscles had become, through long neglect, unusable.
+“We’re not as old as *that*,” said Cora, and as this was the first joke she had made for over a year, she tried to smile, but her facial muscles had become, through long neglect, unusable.
 
-‘Not so old as what?’ said Clarice.
+“Not so old as what?” said Clarice.
 
-‘You don’t understand,’ said Cora. ‘You are much slower than I am. I’ve noticed that.’
+“You don’t understand,” said Cora. “You are much slower than I am. I’ve noticed that.”
 
-## ‘INKLINGS OF GLORY’
+## “INKLINGS OF GLORY”
 
-‘I want some tea,’ said Clarice; and leading the way she performed the miraculous journey through the room once more, Steerpike at her heels like a shadow and Cora taking an alternative path.
+“I want some tea,” said Clarice; and leading the way she performed the miraculous journey through the room once more, Steerpike at her heels like a shadow and Cora taking an alternative path.
 
 Once more in the comparatively sane living room where the tapers had been lit by the old woman, they sat before the fire and Steerpike asked if he might smoke. Cora and Clarice after glancing at each other nodded slowly, and Steerpike filled his pipe and lit it with a small red coal.
 
 Clarice had pulled at a bell-rope that hung by the wall, and now as they sat in a semi-circle about the blaze, Steerpike in the centre chair, a door opened to their right and an old dark-skinned lady, with very short legs and bushy eyebrows, entered the room.
 
-‘Tea, I suppose,’ she said in a subterranean voice that seemed to have worked its way up from somewhere in the room beneath them. She then caught sight of Steerpike and wiped her unpleasant nose with the back of her hand before retiring and closing the door behind her like an explosion. The embroideries flapped outwards in the draught this occasioned, and sank again limply against the walls.
+“Tea, I suppose,” she said in a subterranean voice that seemed to have worked its way up from somewhere in the room beneath them. She then caught sight of Steerpike and wiped her unpleasant nose with the back of her hand before retiring and closing the door behind her like an explosion. The embroideries flapped outwards in the draught this occasioned, and sank again limply against the walls.
 
-‘This is too much,’ said Steerpike. ‘How can you bear it?’
+“This is too much,” said Steerpike. “How can you bear it?”
 
-‘Bear what?’ said Clarice.
+“Bear what?” said Clarice.
 
-‘Do you mean, your Ladyships, that you have become used to being treated in this offhand and insolent manner? Do you not mind whether your natural and hereditary dignities are flouted and abused—when an old commoner slams the doors upon you and speaks to you as though you were on her own degraded level? How can the Groan blood that courses so proudly and in such an undiluted stream, through your veins, remain so quiet? Why in its purple wrath is it not boiling at this moment?’ He paused a moment and leant further forward.
+“Do you mean, your Ladyships, that you have become used to being treated in this offhand and insolent manner? Do you not mind whether your natural and hereditary dignities are flouted and abused—when an old commoner slams the doors upon you and speaks to you as though you were on her own degraded level? How can the Groan blood that courses so proudly and in such an undiluted stream, through your veins, remain so quiet? Why in its purple wrath is it not boiling at this moment?” He paused a moment and leant further forward.
 
-‘Your birds have been stolen by Gertrude, the wife of your brother. Your labour of love among the roots, which but for that woman would now be bearing fruit, is a fiasco. Even your Tree is forgotten. I had not *heard* of it. Why had I not heard of it? Because you and all you possess have been put aside, forgotten, neglected. There are few enough of your noble and ancient family in Gormenghast to carry on the immemorial rites, and yet you two who could uphold them more scrupulously than any, are slighted at every turn.’
+“Your birds have been stolen by Gertrude, the wife of your brother. Your labour of love among the roots, which but for that woman would now be bearing fruit, is a fiasco. Even your Tree is forgotten. I had not *heard* of it. Why had I not heard of it? Because you and all you possess have been put aside, forgotten, neglected. There are few enough of your noble and ancient family in Gormenghast to carry on the immemorial rites, and yet you two who could uphold them more scrupulously than any, are slighted at every turn.”
 
 The twins were staring at him very hard. As he paused they turned their eyes to one another. His words, though sometimes a little too swift for them, communicated nevertheless their subversive gist. Here, from the mouth of a stranger, their old sores and grievances were being aired and formulated.
 
@@ -3801,27 +3801,27 @@ The old lady with the short legs returned with a tray which she set before them 
 
 When she had finally disappeared, Steerpike leaned forward and, turning to Cora and Clarice in turn, and fixing them with close and concentrated eyes, he said:
 
-‘Do you believe in honour? Your Ladyships, answer me, do you believe in honour?’
+“Do you believe in honour? Your Ladyships, answer me, do you believe in honour?”
 
 They nodded mechanically.
 
-‘Do you believe that injustice should dominate the castle?’
+“Do you believe that injustice should dominate the castle?”
 
 They shook their heads.
 
-‘Do you believe it should go unchecked—that it should flourish without just retribution?’
+“Do you believe it should go unchecked—that it should flourish without just retribution?”
 
 Clarice, who had rather lost track of the last question waited until she saw Cora shaking her head before she followed suit.
 
-‘In other words,’ said Steerpike, ‘you think that something must be *done*. Something to crush this tyranny.’
+“In other words,” said Steerpike, “you think that something must be *done*. Something to crush this tyranny.”
 
 They nodded their heads again, and Clarice could not help feeling a little satisfied that she had so far made no mistake with her shakes and nods.
 
-‘Have you any ideas?’ said Steerpike. ‘Have you any plans to suggest?’
+“Have you any ideas?” said Steerpike. “Have you any plans to suggest?”
 
 They shook their heads at once.
 
-‘In that case,’ said Steerpike, stretching his legs out before him and crossing his ankles, ‘may I make a suggestion, your Ladyships?’
+“In that case,” said Steerpike, stretching his legs out before him and crossing his ankles, “may I make a suggestion, your Ladyships?”
 
 Again, most flatteringly, he faced each one in turn to obtain her consent. One after the other they nodded heavily, sitting bolt upright in their chairs.
 
@@ -3829,151 +3829,151 @@ Meanwhile, the tea and the scones were getting cold, but they had all three forg
 
 Steerpike got up and stood with his back to the fire so that he might observe them both at the same time.
 
-‘Your gracious Ladyships,’ he began, ‘I have received information which is of the highest moment. It is information which hinges upon the unsavoury topic with which we have been forced to deal. I beg your undivided concentration; but I will first of all ask you a question: who has the undisputed control over Gormenghast? Who is it who, having this authority, makes no use of it but allows the great traditions of the castle to drift, forgetting that even his own sisters are of his blood and lineage and are entitled to homage and—shall I say it?—yes, to adulation, too? Who is that man?’
+“Your gracious Ladyships,” he began, “I have received information which is of the highest moment. It is information which hinges upon the unsavoury topic with which we have been forced to deal. I beg your undivided concentration; but I will first of all ask you a question: who has the undisputed control over Gormenghast? Who is it who, having this authority, makes no use of it but allows the great traditions of the castle to drift, forgetting that even his own sisters are of his blood and lineage and are entitled to homage and—shall I say it?—yes, to adulation, too? Who is that man?”
 
-‘Gertrude,’ they replied. ‘Come, come,’ said Steerpike, raising his eyebrows, ‘who is it who forgets even his own sisters? Who is it, your Ladyships?’
+“Gertrude,” they replied. “Come, come,” said Steerpike, raising his eyebrows, “who is it who forgets even his own sisters? Who is it, your Ladyships?”
 
-‘Sepulchrave,’ said Cora.
+“Sepulchrave,” said Cora.
 
-‘Sepulchrave,’ echoed Clarice.
+“Sepulchrave,” echoed Clarice.
 
 They had become agitated and excited by now although they did not show it, and had lost control over what little circumspection they had ever possessed. Every word that Steerpike uttered they swallowed whole.
 
-‘Lord Sepulchrave,’ said Steerpike. After a pause, he continued. ‘If it were not that you were his sisters, and of the Family, how could I dare to speak in this way of the Lord of Gormenghast? But it is my duty to be honest. Lady Gertrude has slighted you, but who could make amends? Who has the final power but your brother? In my efforts to re-establish you, and to make this South Wing once again alive with your servants, it must be remembered that it is your selfish brother who must be reckoned with.’
+“Lord Sepulchrave,” said Steerpike. After a pause, he continued. “If it were not that you were his sisters, and of the Family, how could I dare to speak in this way of the Lord of Gormenghast? But it is my duty to be honest. Lady Gertrude has slighted you, but who could make amends? Who has the final power but your brother? In my efforts to re-establish you, and to make this South Wing once again alive with your servants, it must be remembered that it is your selfish brother who must be reckoned with.”
 
-‘He *is* selfish, you know,’ said Clarice.
+“He *is* selfish, you know,” said Clarice.
 
-‘Of course he is,’ said Cora. ‘Thoroughly selfish. What shall we do? Tell us! Tell us!’
+“Of course he is,” said Cora. “Thoroughly selfish. What shall we do? Tell us! Tell us!”
 
-‘In all battles, whether of wits or of war,’ said Steerpike, ‘the first thing to do is to take the initiative and to strike hard.’
+“In all battles, whether of wits or of war,” said Steerpike, “the first thing to do is to take the initiative and to strike hard.”
 
-‘Yes,’ said Cora, who had reached the edge of the chair and was stroking her smooth heliotrope knees in quick, continual movements which Clarice emulated.
+“Yes,” said Cora, who had reached the edge of the chair and was stroking her smooth heliotrope knees in quick, continual movements which Clarice emulated.
 
-‘One must choose *where* to strike,’ said Steerpike, ‘and it is obvious that to strike at the most vulnerable nerve centre of the opponent is the shrewdest preliminary measure. But there must be no half-heartedness. It is all or nothing.’
+“One must choose *where* to strike,” said Steerpike, “and it is obvious that to strike at the most vulnerable nerve centre of the opponent is the shrewdest preliminary measure. But there must be no half-heartedness. It is all or nothing.”
 
-‘All or nothing,’ echoed Clarice.
+“All or nothing,” echoed Clarice.
 
-‘And now you must tell me, dear ladies, what is your brother’s main interest?’
+“And now you must tell me, dear ladies, what is your brother’s main interest?”
 
 They went on smoothing their knees.
 
-‘Is it not literature?’ said Steerpike. ‘Is he not a great lover of books?’
+“Is it not literature?” said Steerpike. “Is he not a great lover of books?”
 
 They nodded.
 
-‘He’s very clever,’ said Cora.
+“He’s very clever,” said Cora.
 
-‘But he reads it all in books,’ said Clarice.
+“But he reads it all in books,” said Clarice.
 
-‘Exactly.’ Steerpike followed quickly upon this. ‘Then if he lost his books, he would be all but defeated. If the centre of his life were destroyed he would be but a shell. As I see it, your Ladyships, it is at his library that our first thrust must be directed. You must have your rights,’ he added hotly. ‘It is only fair that you should have your rights.’ He took a dramatic step towards the Lady Cora Groan; he raised his voice: ‘My Lady Cora Groan, do you not agree?’
+“Exactly.” Steerpike followed quickly upon this. “Then if he lost his books, he would be all but defeated. If the centre of his life were destroyed he would be but a shell. As I see it, your Ladyships, it is at his library that our first thrust must be directed. You must have your rights,” he added hotly. “It is only fair that you should have your rights.” He took a dramatic step towards the Lady Cora Groan; he raised his voice: “My Lady Cora Groan, do you not agree?”
 
 Cora, who had been sitting on the extreme edge of her chair in her excitement, now rose and nodded her head so violently as to throw her hair into confusion.
 
 Clarice, on being asked, followed her sister’s example, and Steerpike relit his pipe from the fire and leaned against the mantelpiece for a few moments, sending out wreaths of smoke from between his thin lips.
 
-‘You have helped me a great deal, your Ladyships,’ he said at last, drawing at his stubby pipe and watching a smoke-ring float to the ceiling. ‘You are prepared, I am sure, for the sake of your own honour, to assist me further in my struggle for your deliverance.’ He understood from the movements of their perched bodies that they agreed that this was so.
+“You have helped me a great deal, your Ladyships,” he said at last, drawing at his stubby pipe and watching a smoke-ring float to the ceiling. “You are prepared, I am sure, for the sake of your own honour, to assist me further in my struggle for your deliverance.” He understood from the movements of their perched bodies that they agreed that this was so.
 
-‘The question that arises in that case’, said Steerpike, ‘is how are we to dispose of your brother’s books and thereby bring home to him his responsibilities? What do you feel is the obvious method of destroying a library full of books? Have you been to his library lately, your Ladyships?’
+“The question that arises in that case”, said Steerpike, “is how are we to dispose of your brother’s books and thereby bring home to him his responsibilities? What do you feel is the obvious method of destroying a library full of books? Have you been to his library lately, your Ladyships?”
 
 They shook their heads.
 
-‘How would you proceed, Lady Cora? What method would you use to destroy a hundred thousand books?’
+“How would you proceed, Lady Cora? What method would you use to destroy a hundred thousand books?”
 
 Steerpike removed his pipe from his lips and gazed intently at her.
 
-‘I’d burn them,’ said Cora.
+“I’d burn them,” said Cora.
 
-This was exactly what Steerpike had wanted her to say; but he shook his head. ‘That would be difficult. What could we burn it with?’
+This was exactly what Steerpike had wanted her to say; but he shook his head. “That would be difficult. What could we burn it with?”
 
-‘With fire,’ said Clarice.
+“With fire,” said Clarice.
 
-‘But how would we start the fire, Lady Clarice?’ said Steerpike pretending to look perplexed.
+“But how would we start the fire, Lady Clarice?” said Steerpike pretending to look perplexed.
 
-‘Straw,’ said Cora.
+“Straw,” said Cora.
 
-‘That is a possibility,’ said Steerpike, stroking his chin. ‘I wonder if *your* idea would work swiftly enough. Do you think it would?’
+“That is a possibility,” said Steerpike, stroking his chin. “I wonder if *your* idea would work swiftly enough. Do you think it would?”
 
-‘Yes, yes!’ said Clarice. ‘Straw is lovely to burn.’
+“Yes, yes!” said Clarice. “Straw is lovely to burn.”
 
-‘But would it catch the books’, persisted Steerpike, ‘all on its own? There would have to be a great deal of it. Would it be quick enough?’
+“But would it catch the books”, persisted Steerpike, “all on its own? There would have to be a great deal of it. Would it be quick enough?”
 
-‘What’s the hurry?’ said Cora.
+“What’s the hurry?” said Cora.
 
-‘It must be done swiftly,’ said Steerpike, ‘otherwise the flames might be put out by busybodies.’
+“It must be done swiftly,” said Steerpike, “otherwise the flames might be put out by busybodies.”
 
-‘I love fires,’ said Clarice.
+“I love fires,” said Clarice.
 
-‘But we oughtn’t to burn down Sepulchrave’s library, ought we?’
+“But we oughtn’t to burn down Sepulchrave’s library, ought we?”
 
 Steerpike had expected, sooner or later, that one of them would feel conscience-stricken and he had retained his trump card.
 
-‘Lady Cora,’ he said, ‘sometimes one has to do things which are unpalatable. When great issues are involved one can’t toy with the situation in silk gloves. No. We are making history and we must be stalwart. Do you recall how when I first came in I told you that I had received information? You do? Well, I will now divulge what has come to my ears. Keep calm and steady; remember who you are. I shall look after your interests, have no fear, but at this moment sit down, will you, and attend?
+“Lady Cora,” he said, “sometimes one has to do things which are unpalatable. When great issues are involved one can’t toy with the situation in silk gloves. No. We are making history and we must be stalwart. Do you recall how when I first came in I told you that I had received information? You do? Well, I will now divulge what has come to my ears. Keep calm and steady; remember who you are. I shall look after your interests, have no fear, but at this moment sit down, will you, and attend?
 
-‘You tell me you have been treated badly for this and for that, but only listen now to the latest scandal that is being repeated below stairs. “*They* aren’t being asked,” everyone is saying. “*They* haven’t been asked.” ’
+“You tell me you have been treated badly for this and for that, but only listen now to the latest scandal that is being repeated below stairs. ‘*They* aren’t being asked,’ everyone is saying. ‘*They* haven’t been asked.’ ”
 
-‘Asked what?’ said Clarice.
+“Asked what?” said Clarice.
 
-‘Or where?’ said Cora.
+“Or where?” said Cora.
 
-‘To the Great Gathering which your brother is calling. At this Great Gathering the details for a party for the New Heir to Gormenghast, your nephew Titus, will be discussed. Everyone of importance is going. Even the Prunesquallors are going. It is the first time for many years that your brother has become so worldly as to call the members of his family together. He has, it is said, many things which he wishes to talk of in connexion with Titus, and in my opinion this Great Gathering in a week’s time will be of prime importance. No one knows exactly what Lord Sepulchrave has in mind, but the general idea is that preparations must be begun even now for a party on his son’s first Birthday.
+“To the Great Gathering which your brother is calling. At this Great Gathering the details for a party for the New Heir to Gormenghast, your nephew Titus, will be discussed. Everyone of importance is going. Even the Prunesquallors are going. It is the first time for many years that your brother has become so worldly as to call the members of his family together. He has, it is said, many things which he wishes to talk of in connexion with Titus, and in my opinion this Great Gathering in a week’s time will be of prime importance. No one knows exactly what Lord Sepulchrave has in mind, but the general idea is that preparations must be begun even now for a party on his son’s first Birthday.
 
-‘Whether you will even be invited to that Party I would not like to say, but judging from the remarks I have heard about how you two have been thrust aside and forgotten like old shoes, I should say it was very unlikely.
+“Whether you will even be invited to that Party I would not like to say, but judging from the remarks I have heard about how you two have been thrust aside and forgotten like old shoes, I should say it was very unlikely.
 
-‘You see,’ said Steerpike, ‘I have not been idle. I have been listening and taking stock of the situation, and one day my labours will prove themselves to have been justified—when I see you, my dear Ladyships, sitting at either end of a table of distinguished guests, and when I hear the glasses clinking and the rounds of applause that greet your every remark I shall congratulate myself that I had long ago enough imagination and ruthless realism to proceed with the dangerous work of raising you to the level to which you belong.
+“You see,” said Steerpike, “I have not been idle. I have been listening and taking stock of the situation, and one day my labours will prove themselves to have been justified—when I see you, my dear Ladyships, sitting at either end of a table of distinguished guests, and when I hear the glasses clinking and the rounds of applause that greet your every remark I shall congratulate myself that I had long ago enough imagination and ruthless realism to proceed with the dangerous work of raising you to the level to which you belong.
 
-‘Why should you not have been invited to the party? Why? Why? Who are you to be spurned thus and derided by the lowest menials in Swelter’s kitchen?’
+“Why should you not have been invited to the party? Why? Why? Who are you to be spurned thus and derided by the lowest menials in Swelter’s kitchen?”
 
 Steerpike paused and saw that his words had produced a great effect. Clarice had gone over to Cora’s chair where now they both sat bolt upright and very close together.
 
-‘When you suggested so perspicaciously just now that the solution to this insufferable state of affairs lay in the destruction of your brother’s cumbersome library, I felt that you were right and that only through a brave action of that kind might you be able to lift up your heads once more and feel the slur removed from your escutcheon. That idea of yours spelt genius. I appeal to your Ladyships to do what you feel to be consistent with your honour and your pride. You are not old, your Ladyships, oh no, you are not old. But are you young? I should like to feel that what years you have left will be filled with glamorous days and romantic nights. Shall it be so? Shall we take the step towards justice? Yes or no, my dear ladies, yes or no.’
+“When you suggested so perspicaciously just now that the solution to this insufferable state of affairs lay in the destruction of your brother’s cumbersome library, I felt that you were right and that only through a brave action of that kind might you be able to lift up your heads once more and feel the slur removed from your escutcheon. That idea of yours spelt genius. I appeal to your Ladyships to do what you feel to be consistent with your honour and your pride. You are not old, your Ladyships, oh no, you are not old. But are you young? I should like to feel that what years you have left will be filled with glamorous days and romantic nights. Shall it be so? Shall we take the step towards justice? Yes or no, my dear ladies, yes or no.”
 
-They got up together. ‘Yes,’ they said, ‘we want Power back.’
+They got up together. “Yes,” they said, “we want Power back.”
 
-‘We want our servants back and justice back and everything back,’ Cora said slowly, a counterpoint of intense excitement weaving through the flat foreground of her voice.
+“We want our servants back and justice back and everything back,” Cora said slowly, a counterpoint of intense excitement weaving through the flat foreground of her voice.
 
-‘And romantic nights,’ said Clarice. ‘I’d like that. Yes, yes. Burn! Burn,’ she continued loudly, her flat bosom beginning to heave up and down like a machine. ‘Burn! burn! burn!’
+“And romantic nights,” said Clarice. “I’d like that. Yes, yes. Burn! Burn,” she continued loudly, her flat bosom beginning to heave up and down like a machine. “Burn! burn! burn!”
 
-‘When?’ said Cora. ‘When can we burn it up?’
+“When?” said Cora. “When can we burn it up?”
 
 Steerpike held up his hand to quieten them. But they took no notice, only leaning forward, holding each other’s hands and crying in their dreadful emotionless voices:
 
-‘Burn! Burn! Burn! Burn! Burn!’ until they had exhausted themselves.
+“Burn! Burn! Burn! Burn! Burn!” until they had exhausted themselves.
 
 Steerpike had not flinched under this ordeal. He now realized more completely than before why they were ostracized from the normal activities of the castle. He had known they were slow, but he had not known that they could behave like this.
 
 He changed his tone.
 
-‘Sit down!’ he rapped out. ‘Both of you. Sit down!’
+“Sit down!” he rapped out. “Both of you. Sit down!”
 
 They complied at once, and although they were taken aback at the peremptory nature of his order, he could see that he now had complete control over them, and though his inclination was to show his authority and to taste for the first time the sinister delights of his power, yet he spoke to them gently—for, first of all, the library must be burned for a reason of his own. After that, with such a dreadful hold over them, he could relax for a time and enjoy a delicious dictatorship in the South Wing.
 
-‘In six days’ time, your Ladyships,’ he said, fingering his gold chain—‘on the evening before the Great Gathering to which you have not been invited—the library will be empty and you may burn it to the ground. I shall prepare the incendiaries and will school you in all the details later; but on the great night itself when you see me give the signal you will set fire at once to the fuel and will make your way immediately to this room.’
+“In six days’ time, your Ladyships,” he said, fingering his gold chain—“on the evening before the Great Gathering to which you have not been invited—the library will be empty and you may burn it to the ground. I shall prepare the incendiaries and will school you in all the details later; but on the great night itself when you see me give the signal you will set fire at once to the fuel and will make your way immediately to this room.”
 
-‘Can’t we watch it burn?’ said Cora.
+“Can’t we watch it burn?” said Cora.
 
-‘Yes,’ said Clarice, ‘can’t we?’
+“Yes,” said Clarice, “can’t we?”
 
-‘From your Tree,’ said Steerpike. ‘Do you want to be found out?’
+“From your Tree,” said Steerpike. “Do you want to be found out?”
 
-‘No!’ they said. ‘No! No!’
+“No!” they said. “No! No!”
 
-‘Then you can watch it from your Tree and be quite safe. I will remain in the woods so that I can see that nothing goes wrong. Do you understand?’
+“Then you can watch it from your Tree and be quite safe. I will remain in the woods so that I can see that nothing goes wrong. Do you understand?”
 
-‘Yes,’ they said. ‘Then we’ll have Power, won’t we?’
+“Yes,” they said. “Then we’ll have Power, won’t we?”
 
 The unconscious irony of this caused Steerpike’s lip to lift, but he said:
 
-‘Your Ladyships will then have Power.’ And approaching them in turn he kissed the tips of their fingers. Picking up his swordstick from the table he walked swiftly to the door, where he bowed.
+“Your Ladyships will then have Power.” And approaching them in turn he kissed the tips of their fingers. Picking up his swordstick from the table he walked swiftly to the door, where he bowed.
 
-Before he opened it he said: ‘We are the only ones who know. The only ones who will ever know, aren’t we?’
+Before he opened it he said: “We are the only ones who know. The only ones who will ever know, aren’t we?”
 
-‘Yes,’ they said. ‘Only us.’
+“Yes,” they said. “Only us.”
 
-‘I will return within a day or two,’ said Steerpike, ‘and give you the details. Your honour must be saved.’
+“I will return within a day or two,” said Steerpike, “and give you the details. Your honour must be saved.”
 
 He did not say good night, but opened the door and disappeared into the darkness.
 
-## ‘PREPARATIONS FOR ARSON’
+## “PREPARATIONS FOR ARSON”
 
 On one excuse or another Steerpike absented himself from the Prunesquallors’ during the major part of the next two days. Although he accomplished many things during this short period, the three stealthy expeditions which he made to the library were the core of his activities. The difficulty lay in crossing, unobserved, the open ground to the conifer wood. Once in the wood and among the pines there was less danger. He realized how fatal it might prove to be seen in the neighbourhood of the library, so shortly before the burning. On the first of the reconnaissances, after waiting in the shadows of the Southern wing before scudding across the overgrown gardens to the fields that bordered the conifers, he gathered the information which he needed. He had managed after an hour’s patient concentration to work the lock of the library door with a piece of wire, and then he had entered the silent room, to investigate the structure of the building. There was a remoteness about the deserted room. Shadowy and sinister though it was by night, it was free of the vacancy which haunted its daylight hours. Steerpike felt the insistent silence of the place as he moved to and fro, glancing over his high shoulder more than once as he took note of the possibilities for conflagration.
 
@@ -4007,7 +4007,7 @@ It seemed to Steerpike that to save two generations of the House of Groan from d
 
 The question of how the fire started would follow close upon the rescue. On this he would have as little knowledge as anyone, only having seen the glow in the sky as he was walking along the South Wing for exercise. The Prunesquallors would bear out that it was his habit to take a stroll at sundown. The twins would be back in their room before news of the burning could ever reach the castle.
 
-Steerpike’s third visit to the library was to plan how the rescues were to be effected. One of the first things was, of course, to turn and remove the key from the door when the party had entered the building, and as Lord Sepulchrave had the convenient habit of leaving it in the lock until he removed it on retiring in the small hours, there should be no difficulty about this. That such questions as ‘Who turned the key?’ and ‘how did it disappear?’ would be asked at a later date was inevitable, but with a well-rehearsed alibi for himself and the twins, and with the Prunesquallors’ cognizance of his having gone out for a stroll on that particular evening, he felt sure the suspicion would no more centre upon himself than on anyone else. Such minor problems as might arise in the future could be dealt with in the future.
+Steerpike’s third visit to the library was to plan how the rescues were to be effected. One of the first things was, of course, to turn and remove the key from the door when the party had entered the building, and as Lord Sepulchrave had the convenient habit of leaving it in the lock until he removed it on retiring in the small hours, there should be no difficulty about this. That such questions as “Who turned the key?” and “how did it disappear?” would be asked at a later date was inevitable, but with a well-rehearsed alibi for himself and the twins, and with the Prunesquallors’ cognizance of his having gone out for a stroll on that particular evening, he felt sure the suspicion would no more centre upon himself than on anyone else. Such minor problems as might arise in the future could be dealt with in the future.
 
 This was of more immediate consequence: How was he to rescue the family of Groan in a manner reasonably free of danger to himself and yet sufficiently dramatic to cause the maximum admiration and indebtedness?
 
@@ -4017,11 +4017,11 @@ Once he had decided on this window as his focus he turned over in his mind alter
 
 The window, about four feet square, was above the main door and was heavily glazed. The difficulty naturally centred on how the prisoners were to reach the window from the inside, and how Steerpike was to scale the outer wall in order to smash the pane and show himself.
 
-Obviously he must not be armed with anything which he would not normally be carrying. Whatever he used to force an entrance must be something he had picked up on the spur of the moment outside the library or among the pines. A ladder, for instance, would at once arouse suspicions, and yet something of that nature was needed. It occurred to him that a small tree was the obvious solution, and he began to search for one of the approximate length, already felled, for many of the pines which were cleared for the erection of the library and adjacent buildings were still to be seen lying half buried in the thick needle-covered ground. It did not take him long to come upon an almost perfect specimen of what he wanted. It was about twelve to fifteen feet long, and most of its lateral branches were broken off close to the bole, leaving stumps varying from three inches to a foot in length. ‘Here’, said Steerpike to himself, ‘is *the* thing.’
+Obviously he must not be armed with anything which he would not normally be carrying. Whatever he used to force an entrance must be something he had picked up on the spur of the moment outside the library or among the pines. A ladder, for instance, would at once arouse suspicions, and yet something of that nature was needed. It occurred to him that a small tree was the obvious solution, and he began to search for one of the approximate length, already felled, for many of the pines which were cleared for the erection of the library and adjacent buildings were still to be seen lying half buried in the thick needle-covered ground. It did not take him long to come upon an almost perfect specimen of what he wanted. It was about twelve to fifteen feet long, and most of its lateral branches were broken off close to the bole, leaving stumps varying from three inches to a foot in length. “Here”, said Steerpike to himself, “is *the* thing.”
 
-It was less easy for him to find another, but eventually he discovered some distance from the library what he was searching for. It lay in a dank hollow of ferns. Dragging it to the library wall, he propped both the pines upright against the main door and under the only window. Wiping the sweat from his bulging forehead he began to climb them, stamping off those branches that would be too weak to support Lady Groan, who would be the heaviest of the prisoners. Dragging them away from the wall, when he had completed these minor adjustments, and feeling satisfied that his ‘ladders’ were now both serviceable yet *natural*, he left them at the edge of the trees where a number of felled pines were littered, and next cast about for something with which he could smash the window. At the base of the adjacent building, a number of moss-covered lumps of masonry had fallen away from the walls. He carried several of these to within a few yards of the ‘ladders.’ Were there any question of his being suspected later, and if questions were raised as to how he came across the ladders and the piece of masonry so conveniently, he could point to the heap of half-hidden stones and the litter of trees. Steerpike closed his eyes and attempted to visualize the scene. He could see himself making frantic efforts to open the doors, rattling the handles and banging the panels. He could hear himself shouting ‘Is there anybody in there?’ and the muffled cries from within. Perhaps he would yell: ‘Where’s the key? Where’s the key?’ or a few gallant encouragements, such as ‘I’ll get you out somehow.’ Then he would leap to the main door and beating on it a few times, deliver a few more yells before dragging up the ‘ladders’, for the fire by that time should be going very well. Or perhaps he would do none of these things, simply appearing to them like the answer to a prayer, in the nick of time. He grinned.
+It was less easy for him to find another, but eventually he discovered some distance from the library what he was searching for. It lay in a dank hollow of ferns. Dragging it to the library wall, he propped both the pines upright against the main door and under the only window. Wiping the sweat from his bulging forehead he began to climb them, stamping off those branches that would be too weak to support Lady Groan, who would be the heaviest of the prisoners. Dragging them away from the wall, when he had completed these minor adjustments, and feeling satisfied that his “ladders” were now both serviceable yet *natural*, he left them at the edge of the trees where a number of felled pines were littered, and next cast about for something with which he could smash the window. At the base of the adjacent building, a number of moss-covered lumps of masonry had fallen away from the walls. He carried several of these to within a few yards of the “ladders.” Were there any question of his being suspected later, and if questions were raised as to how he came across the ladders and the piece of masonry so conveniently, he could point to the heap of half-hidden stones and the litter of trees. Steerpike closed his eyes and attempted to visualize the scene. He could see himself making frantic efforts to open the doors, rattling the handles and banging the panels. He could hear himself shouting “Is there anybody in there?” and the muffled cries from within. Perhaps he would yell: “Where’s the key? Where’s the key?” or a few gallant encouragements, such as “I’ll get you out somehow.” Then he would leap to the main door and beating on it a few times, deliver a few more yells before dragging up the “ladders”, for the fire by that time should be going very well. Or perhaps he would do none of these things, simply appearing to them like the answer to a prayer, in the nick of time. He grinned.
 
-The only reason why he could not spare himself both time and energy by propping the ‘ladders’ against the wall after the last guest had entered the library was that the Twins would see them as they performed their task. It was imperative that they should not suspect the library to be inhabited, let alone gain an inkling of Steerpike’s preparations.
+The only reason why he could not spare himself both time and energy by propping the “ladders” against the wall after the last guest had entered the library was that the Twins would see them as they performed their task. It was imperative that they should not suspect the library to be inhabited, let alone gain an inkling of Steerpike’s preparations.
 
 On this, the last occasion of his three visits to the library, he once again worked the lock of the side door and overhauled his handiwork. Lord Sepulchrave had been there on the previous night as usual, but apparently had suspected nothing. The tall bookstand was as he had left it, obstructing a view of and throwing a deep shadow over the handle of the main door from beneath which the twisted cloth stretched like a tight rope across the two foot span to the end of the long bookshelves. He could now detect no smell of oil, and although that meant that it was evaporating, he knew that it would still be more inflammable than the dry doth.
 
@@ -4029,7 +4029,7 @@ Before he left he selected half a dozen volumes from the less conspicuous shelve
 
 It was only when these nefarious doings were satisfactorily completed that Steerpike visited the aunts for the second time and re-primed them in their very simple rôles as arsonists. He had decided that rather than tell the Prunesquallors that he was going out for a stroll he would say instead that he was paying a visit to the aunts, and then with them to prove his alibi (for somehow or other they must be got to and from the library without the knowledge of their short-legged servant); their story and that of the Doctor’s would coincide.
 
-He had made them repeat a dozen or so times: ‘We’ve been indoors *all* the time. We’ve been indoors *all* the time,’ until they were themselves as convinced of it as though they were reliving the Future!
+He had made them repeat a dozen or so times: “We’ve been indoors *all* the time. We’ve been indoors *all* the time,” until they were themselves as convinced of it as though they were reliving the Future!
 
 ## THE GROTTO
 
@@ -4037,37 +4037,37 @@ It happened on the day of Steerpike’s second daylight visit to the Library. He
 
 The invigorating air, coupled with his recognition of the distant figure, prompted him to change his course, and with quick, birdlike steps he moved rapidly along the edge of the wood. In the rough landscape away to his left, the tiny figure in its crimson dress sang out against the sombre background like a ruby on a slate. The midsummer sun, and how much less this autumn light, had no power to mitigate the dreary character of the region that surrounded Gormenghast. It was like a continuation of the castle, rough and shadowy, and though vast and often windswept, oppressive too, with a kind of raw weight.
 
-Ahead lay Gormenghast Mountain in all its permanence, a sinister thing as though drawn out of the earth by sorcery as a curse on all who viewed it. Although its base appeared to struggle from a blanket of trees within a few miles of the castle, it was in reality a day’s journey on horseback. Clouds were generally to be seen clustering about its summit even on the finest days when the sky was elsewhere empty, and it was common to see the storms raging across its heights and the sheets of dark rain slanting mistily over the blurred crown and obscuring half the mountain’s hideous body, while, at the same time, sunlight was playing across the landscape all about it and even on its own lower slopes. Today, however, not even a single cloud hung above the peak, and when Fuchsia had looked out of her bedroom window after her midday meal she had stared at the Mountain and said: ‘Where are the clouds?’
+Ahead lay Gormenghast Mountain in all its permanence, a sinister thing as though drawn out of the earth by sorcery as a curse on all who viewed it. Although its base appeared to struggle from a blanket of trees within a few miles of the castle, it was in reality a day’s journey on horseback. Clouds were generally to be seen clustering about its summit even on the finest days when the sky was elsewhere empty, and it was common to see the storms raging across its heights and the sheets of dark rain slanting mistily over the blurred crown and obscuring half the mountain’s hideous body, while, at the same time, sunlight was playing across the landscape all about it and even on its own lower slopes. Today, however, not even a single cloud hung above the peak, and when Fuchsia had looked out of her bedroom window after her midday meal she had stared at the Mountain and said: “Where are the clouds?”
 
-‘What clouds?’ said the old nurse, who was standing behind her, rocking Titus in her arms. ‘What is it, my caution?’
+“What clouds?” said the old nurse, who was standing behind her, rocking Titus in her arms. “What is it, my caution?”
 
-‘There’s nearly always clouds on top of the Mountain,’ said Fuchsia.
+“There’s nearly always clouds on top of the Mountain,” said Fuchsia.
 
-‘Aren’t there any, dear?’
+“Aren’t there any, dear?”
 
-‘No,’ said Fuchsia. ‘Why aren’t there?’
+“No,” said Fuchsia. “Why aren’t there?”
 
 Fuchsia realized that Mrs Slagg knew virtually nothing, but the long custom of asking her questions was a hard one to break down. This realization that grown-ups did not necessarily know any more than children was something against which she had fought. She wanted Mrs Slagg to remain the wise recipient of all her troubles and the comforter that she had always seemed, but Fuchsia was growing up and she was now realizing how weak and ineffectual was her old guardian. Not that she was losing her loyalty or affection. She would have defended the wrinkled midget to her last breath if necessary; but she was isolated within herself with no one to whom she could run with that unquestioning confidence—that outpouring of her newest enthusiasms—her sudden terrors—her projects—her stories.
 
-‘I think I’ll go out’, she said, ‘for a walk.’
+“I think I’ll go out”, she said, “for a walk.”
 
-‘Again?’ said Mrs Slagg, stopping for a moment the rocking of her arms. ‘You go out such a lot now, don’t you? Why are you always going away from me?’
+“Again?” said Mrs Slagg, stopping for a moment the rocking of her arms. “You go out such a lot now, don’t you? Why are you always going away from me?”
 
-‘It’s not from you,’ said Fuchsia; ‘it’s because I want to walk and think. It isn’t going away from you. You know it isn’t.’
+“It’s not from you,” said Fuchsia; “it’s because I want to walk and think. It isn’t going away from you. You know it isn’t.”
 
-‘I don’t know anything,’ said Nannie Slagg, her face puckered up. ‘But I know you never went out all the summer, did you dear? And now that it is so tempersome and cold you are always going out into the nastiness and getting wet or frozen every day. Oh, my poor heart. Why? Why *every* day?’
+“I don’t know anything,” said Nannie Slagg, her face puckered up. “But I know you never went out all the summer, did you dear? And now that it is so tempersome and cold you are always going out into the nastiness and getting wet or frozen every day. Oh, my poor heart. Why? Why *every* day?”
 
 Fuchsia pushed her hands into the depths of the big pockets of her red dress.
 
 It was true she had deserted her attic for the dreary moors and the rocky tracts of country about Gormenghast. Why was this? Had she suddenly outgrown her attic that had once been all in all to her? Oh no; she had not outgrown it, but something had changed ever since that dreadful night when she saw Steerpike lying by the window in the darkness. It was no longer inviolate—secret—mysterious. It was no longer another world, but a part of the castle. Its magnetism had weakened—its silent, shadowy drama had died and she could no longer bear to revisit it. When last she had ventured up the spiral stairs and entered the musty and familiar atmosphere, Fuchsia had experienced a pang of such sharp nostalgia for what it had once been to her that she had turned from the swaying motes that filled the air and the shadowy shapes of all that she had known as her friends; the cobwebbed organ, the crazy avenue of a hundred loves—turned away, and stumbled down the dark staircase with a sense of such desolation as seemed would never lift. Her eyes grew dim as she remembered these things; her hands clenched in her deep pockets.
 
-‘Yes,’ she said, ‘I have been out a lot. Do you get lonely? If you do, you needn’t, because you know I love you, don’t you? You *know* that, don’t you?’
+“Yes,” she said, “I have been out a lot. Do you get lonely? If you do, you needn’t, because you know I love you, don’t you? You *know* that, don’t you?”
 
 She thrust her lower lip forward and frowned at Mrs Slagg, but this was only to keep her tears back, for nowadays Fuchsia had so lonely a feeling that tears were never far distant. Never having had either positive cruelty or kindness shown to her by her parents, but only an indifference, she was not conscious of what it was that she missed—affection.
 
 It had always been so and she had compensated herself by weaving stories of her own Future, or by lavishing her own love upon such things as the objects in her attics, or more recently upon what she found or saw among the woods and wastelands.
 
-‘You know that, don’t you?’ Fuchsia repeated.
+“You know that, don’t you?” Fuchsia repeated.
 
 Nannie rocked Titus more vigorously than was necessary and by the pursing of her lips indicated that his Lordship was asleep and that she was speaking too loudly.
 
@@ -4075,17 +4075,17 @@ Then Fuchsia came up to her old nurse and stared at her brother. The feeling of 
 
 Nannie’s eyes followed Fuchsia’s.
 
-‘His little Lordship,’ she said, wagging her head, ‘it’s his little Lordship.’
+“His little Lordship,” she said, wagging her head, “it’s his little Lordship.”
 
-‘Why do you love him?’
+“Why do you love him?”
 
-‘Why do I love him! oh, my poor, weak heart! Why do I love him, stupid? How could you say such a thing?’ cried Nannie Slagg. ‘Oh my little Lordship *thing*. How could I *help* it—the innocent notion that he is! The very next of Gormenghast, aren’t you, my only? The very next of all. What did your cruel sister say, then, what did she say?
+“Why do I love him! oh, my poor, weak heart! Why do I love him, stupid? How could you say such a thing?” cried Nannie Slagg. “Oh my little Lordship *thing*. How could I *help* it—the innocent notion that he is! The very next of Gormenghast, aren’t you, my only? The very next of all. What did your cruel sister say, then, what did she say?
 
-‘He must go to his cot now, for his sleep, he must, and to dream his golden dreams.’
+“He must go to his cot now, for his sleep, he must, and to dream his golden dreams.”
 
-‘Did you talk to me like that when I was a baby,’ asked Fuchsia.
+“Did you talk to me like that when I was a baby,” asked Fuchsia.
 
-‘Of course I did,’ said Mrs Slagg. ‘Don’t be silly. Oh, the ignorance of you! Are you going to tidy your room for me now?’
+“Of course I did,” said Mrs Slagg. “Don’t be silly. Oh, the ignorance of you! Are you going to tidy your room for me now?”
 
 She hobbled to the door with her precious bundle. Every day she asked this same question, but never waited for an answer, knowing that whatever it was, it was she who would have to make some sort of order out of the chaos.
 
@@ -4101,35 +4101,35 @@ Fuchsia left the window abruptly and closing the door after her with a crash, ra
 
 Breathing in the sharp air she gulped and clenched her hands together until her nails bit at her palms. Then she began to walk. She had been walking for over an hour when she heard footsteps behind her and, turning, saw Steerpike. She had not seen him since the night at the Prunesquallors’ and never as clearly as now, as he approached her through the naked autumn. He stopped when he noticed that he was observed and called:
 
-‘Lady Fuchsia! May I join you?’
+“Lady Fuchsia! May I join you?”
 
 Behind him she saw something which by contrast with the alien, incalculable figure before her, was close and real. It was something which she understood, something which she could never do without, or be without, for it seemed as though it were her own self, her own body, at which she gazed and which lay so intimately upon the skyline. Gormenghast. The long, notched outline of her home. It was now his background. It was a screen of walls and towers pocked with windows. He stood against it, an intruder, imposing himself so vividly, so solidly, against her world, his head overtopping the loftiest of its towers.
 
-‘What do you want?’ she said.
+“What do you want?” she said.
 
 A breeze had lifted from beyond the Twisted Woods and her dress was blown across her so that down her right side it clung to her showing the strength of her young body and thighs.
 
-‘Lady Fuchsia!’ shouted Steerpike across the strengthening wind. ‘I’ll tell you.’ He took a few quick paces towards her and reached the sloping rock on which she stood. ‘I want you to explain this region to me—the marshes and Gormenghast Mountain. Nobody has ever told me about it. You know the country—you understand it,’ (he filled his lungs again) ‘and though I love the district I’m very ignorant.’ He had almost reached her. ‘Can I share your walks, occasionally? Would you consider the idea? Are you returning?’ Fuchsia had moved away. ‘If so, may I accompany you back?’
+“Lady Fuchsia!” shouted Steerpike across the strengthening wind. “I’ll tell you.” He took a few quick paces towards her and reached the sloping rock on which she stood. “I want you to explain this region to me—the marshes and Gormenghast Mountain. Nobody has ever told me about it. You know the country—you understand it,” (he filled his lungs again) “and though I love the district I’m very ignorant.” He had almost reached her. “Can I share your walks, occasionally? Would you consider the idea? Are you returning?” Fuchsia had moved away. “If so, may I accompany you back?”
 
-‘That’s not what you’ve come to ask me,’ said Fuchsia slowly. She was beginning to shake in the cold wind.
+“That’s not what you’ve come to ask me,” said Fuchsia slowly. She was beginning to shake in the cold wind.
 
-‘Yes, it is,’ said Steerpike, ‘it is just what I’ve come to ask you. And whether you will tell me about Nature.’
+“Yes, it is,” said Steerpike, “it is just what I’ve come to ask you. And whether you will tell me about Nature.”
 
-‘I don’t know anything about Nature,’ said Fuchsia, beginning to walk down the sloping rock. ‘I don’t understand it. I only look at it. Who told you I knew about it? Who makes up these things?’
+“I don’t know anything about Nature,” said Fuchsia, beginning to walk down the sloping rock. “I don’t understand it. I only look at it. Who told you I knew about it? Who makes up these things?”
 
-‘No one,’ said Steerpike. ‘I thought you must know and understand what you love so much. I’ve seen you very often returning to the castle laden with the things you have discovered. And also, you *look* as though you understand.’
+“No one,” said Steerpike. “I thought you must know and understand what you love so much. I’ve seen you very often returning to the castle laden with the things you have discovered. And also, you *look* as though you understand.”
 
-‘I *do*?’ said Fuchsia, surprised. ‘No, I can’t do. I don’t understand wise things at all.’
+“I *do*?” said Fuchsia, surprised. “No, I can’t do. I don’t understand wise things at all.”
 
-‘Your knowledge is intuitive,’ said the youth. ‘You have no need of book learning and such like. You only have to gaze at a thing to *know* it. The wind is getting stronger, your Ladyship, and colder. We had better return.’
+“Your knowledge is intuitive,” said the youth. “You have no need of book learning and such like. You only have to gaze at a thing to *know* it. The wind is getting stronger, your Ladyship, and colder. We had better return.”
 
 Steerpike turned up his high collar, and gaining her permission to accompany her back to the castle, he began with her the descent of the grey rocks. Before they were halfway down, the rain was falling and the autumn sunlight had given way to a fast, tattered sky.
 
-‘Tread carefully, Lady Fuchsia,’ said Steerpike suddenly; and Fuchsia stopped and stared quickly over her shoulder at him as though she had forgotten he was there. She opened her mouth as though to speak when a far rattle of thunder reverberated among the rocks and she turned her head to the sky. A black cloud was approaching and from its pendulous body the rain fell in a mass of darkness.
+“Tread carefully, Lady Fuchsia,” said Steerpike suddenly; and Fuchsia stopped and stared quickly over her shoulder at him as though she had forgotten he was there. She opened her mouth as though to speak when a far rattle of thunder reverberated among the rocks and she turned her head to the sky. A black cloud was approaching and from its pendulous body the rain fell in a mass of darkness.
 
 Soon it would be above them and Fuchsia’s thoughts leapt backwards through the years to a certain afternoon when, as today, she had been caught in a sudden rainstorm. She had been with her mother on one of those rare occasions, still rarer now, when the Countess for some reason or other decided to take her daughter for a walk. Those occasional outings had been silent affairs, and Fuchsia could remember how she had longed to be free of the presence that moved at her side and above her, and yet she recalled how she had envied her huge mother when the wild birds came to her at her long, shrill, sweet whistle and settled upon her head and arms and shoulders. But what she chiefly remembered was how, on that day, when the storm broke above them, her mother instead of turning back to the castle, continued onwards towards these same layers of dark rock which she and Steerpike were now descending. Her mother had turned down a rough, narrow gully and had disappeared behind a high slab of dislodged stone that was leaning against a face of rock. Fuchsia had followed. But instead of finding her mother sheltering from the downpour against the cliff and behind the slab, to her surprise she found herself confronted with the entrance to a grotto. She had peered inside, and there, deep in its chilly throat, was her mother sitting upon the ground and leaning against the sloping wall, very still and silent and enormous.
 
-They had waited there until the storm had tired of its own anger and a slow rain descended like remorse from the sky. No word had passed between them, and Fuchsia, as she remembered the grotto, felt a shiver run through her body. But she turned to Steerpike. ‘Follow me, if you want to,’ she said. ‘I know a cave.’
+They had waited there until the storm had tired of its own anger and a slow rain descended like remorse from the sky. No word had passed between them, and Fuchsia, as she remembered the grotto, felt a shiver run through her body. But she turned to Steerpike. “Follow me, if you want to,” she said. “I know a cave.”
 
 The rain was by now thronging across the escarpment, and she began to run over the slippery grey rock surfaces with Steerpike at her heels.
 
@@ -4137,13 +4137,13 @@ As she began the short, steep descent she turned for an instant to see whether S
 
 Fuchsia was trying to sit up, but the pain in her shoulder had drained her of strength.
 
-‘Lie still!’ shouted Steerpike through the screen of rain that divided them. Then he pointed to the propped rock.
+“Lie still!” shouted Steerpike through the screen of rain that divided them. Then he pointed to the propped rock.
 
-‘Is that where we were going?’ he asked.
+“Is that where we were going?” he asked.
 
-‘There’s a cave behind it,’ she whispered. ‘Help me up. I can get there all right.’
+“There’s a cave behind it,” she whispered. “Help me up. I can get there all right.”
 
-‘Oh no,’ said Steerpike. He knelt down beside her, and then with great care he lifted her inch by inch from the rocks. His wiry muscles toughened in his slim arms, and along his spine, as by degrees he raised her to the level of his chest, getting to his feet as he did so. Then, step by tentative step over the splashing boulders he approached the cave. A hundred rain-thrashed pools had collected among the rocks.
+“Oh no,” said Steerpike. He knelt down beside her, and then with great care he lifted her inch by inch from the rocks. His wiry muscles toughened in his slim arms, and along his spine, as by degrees he raised her to the level of his chest, getting to his feet as he did so. Then, step by tentative step over the splashing boulders he approached the cave. A hundred rain-thrashed pools had collected among the rocks.
 
 Fuchsia had made no remonstrance, knowing that she could never have made this difficult descent; but as she felt his arms around her and the proximity of his body, something deep within her tried to hide itself. Through the thick, tousled strands of her drenched hair she could see his sharp, pale, crafty face, his powerful dark-red eyes focused upon the rocks below them, his high protruding forehead, his cheekbones glistening, his mouth an emotionless line.
 
@@ -4163,29 +4163,29 @@ She watched him as he carefully dabbed the wound. The sudden pain and shock had 
 
 He removed a swab of cloth from her shoulder slowly and peered to see whether the blood would continue to flow.
 
-‘Keep still,’ he said. ‘Keep your arm as still as you can. How’s the pain?’
+“Keep still,” he said. “Keep your arm as still as you can. How’s the pain?”
 
-‘I’m all right,’ said Fuchsia.
+“I’m all right,” said Fuchsia.
 
-‘Don’t be heroic,’ he said, sitting back on his heels. ‘We’re not playing a game. I want to know *exactly* how much you’re in pain—not whether you are brave or not. I know that already. Which hurts you most?’
+“Don’t be heroic,” he said, sitting back on his heels. “We’re not playing a game. I want to know *exactly* how much you’re in pain—not whether you are brave or not. I know that already. Which hurts you most?”
 
-‘My leg,’ said Fuchsia. ‘It makes me want to be ill. And I’m cold. Now you know.’
+“My leg,” said Fuchsia. “It makes me want to be ill. And I’m cold. Now you know.”
 
 Their eyes met in the half light.
 
-Steerpike straightened himself. ‘I’m going to leave you,’ he said. ‘Otherwise the cold will gnaw you to bits. I can’t get you back to the castle alone. I’ll fetch the Prune and a stretcher. You’ll be all right here. I’ll go now, at once. We’ll be back within half an hour. I can move when I want to.’
+Steerpike straightened himself. “I’m going to leave you,” he said. “Otherwise the cold will gnaw you to bits. I can’t get you back to the castle alone. I’ll fetch the Prune and a stretcher. You’ll be all right here. I’ll go now, at once. We’ll be back within half an hour. I can move when I want to.”
 
-‘Steerpike,’ said Fuchsia.
+“Steerpike,” said Fuchsia.
 
-He knelt down at once. ‘What is it?’ he said, speaking very softly.
+He knelt down at once. “What is it?” he said, speaking very softly.
 
-‘You’ve done quite a lot to help,’ she said.
+“You’ve done quite a lot to help,” she said.
 
-‘Nothing much,’ he replied. His hand was close to hers.
+“Nothing much,” he replied. His hand was close to hers.
 
 The silence which followed became ludicrous and he got to his feet.
 
-‘Mustn’t stay.’ He had sensed the beginning of something less frigid. He would leave things as they were. ‘You’ll be shaking like a leaf if I don’t hurry. Keep absolutely still.’
+“Mustn’t stay.” He had sensed the beginning of something less frigid. He would leave things as they were. “You’ll be shaking like a leaf if I don’t hurry. Keep absolutely still.”
 
 He laid his coat over her and then walked the few paces to the opening.
 
@@ -4213,19 +4213,19 @@ When he had caught them up, he gave them their directions saying that he would r
 
 When Fuchsia awoke in her bed and saw the firelight flickering on the ceiling and Nannie Slagg sitting beside her, she said:
 
-‘Where is Steerpike?’
+“Where is Steerpike?”
 
-‘Who, my precious? Oh, my poor pretty one!’ And Mrs Slagg fidgeted with Fuchsia’s hand which she had been holding for over an hour. ‘What is it you need, my only? What is it, my caution dear? Oh, my poor heart, you’ve nearly killed me, dear. Very nearly. Yes, very nearly, then. There, there. Stay still, and the Doctor will be here again soon. Oh, my poor, weak heart!’ The tears were streaming down her little, old terrified face.
+“Who, my precious? Oh, my poor pretty one!” And Mrs Slagg fidgeted with Fuchsia’s hand which she had been holding for over an hour. “What is it you need, my only? What is it, my caution dear? Oh, my poor heart, you’ve nearly killed me, dear. Very nearly. Yes, very nearly, then. There, there. Stay still, and the Doctor will be here again soon. Oh, my poor, weak heart!” The tears were streaming down her little, old terrified face.
 
-‘Nannie,’ said Fuchsia, ‘where’s Steerpike?’
+“Nannie,” said Fuchsia, “where’s Steerpike?”
 
-‘That horrid boy?’ asked Nannie. ‘What about him, precious? You don’t want to see him, do you? Oh no, you couldn’t want that boy. What is it, my only? Do you want to see him?’
+“That horrid boy?” asked Nannie. “What about him, precious? You don’t want to see him, do you? Oh no, you couldn’t want that boy. What is it, my only? Do you want to see him?”
 
-‘Oh, no! no!’ said Fuchsia. ‘I don’t want to. I feel so tired. Are you there?’
+“Oh, no! no!” said Fuchsia. “I don’t want to. I feel so tired. Are you there?”
 
-‘What is it, my only?’
+“What is it, my only?”
 
-‘Nothing; nothing. I wonder where he is.’
+“Nothing; nothing. I wonder where he is.”
 
 ## KNIVES IN THE MOON
 
@@ -4273,9 +4273,9 @@ As he struck he withdrew the dagger, and as Rantel sank to the ground, Braigon f
 
 He did not turn to Keda. He stood motionless, his hands at his head. Keda could feel no grief. The corners of her mouth lifted. The time for horror was not yet. This was not real—yet. She saw Rantel raise himself upon his left arm. He groped for his dagger and felt it beside him in the dew. His life was pouring from the wound in his breast. Keda watched him as, summoning into his right arm what strength remained in his whole body, he sent the dagger running through the air with a sudden awkward movement of his arm. It found its mark in a statue’s throat. Braigon’s arms fell to his sides like dead weights. He tottered forward, swayed for a little, the bone hilt at his gullet, and then collapsed lifeless across the body of his destroyer.
 
-## ‘THE SUN GOES DOWN AGAIN’
+## “THE SUN GOES DOWN AGAIN”
 
-‘Equality’, said Steerpike, ‘is the thing. It is the only true and central premise from which constructive ideas can radiate freely and be operated without prejudice. Absolute equality of status. Equality of wealth. Equality of power.’
+“Equality”, said Steerpike, “is the thing. It is the only true and central premise from which constructive ideas can radiate freely and be operated without prejudice. Absolute equality of status. Equality of wealth. Equality of power.”
 
 He tapped at a stone that lay among the wet leaves with his swordstick and sent it scurrying through the undergrowth.
 
@@ -4289,99 +4289,99 @@ Steerpike decided he would see them for a few moments, and at once he moved rapi
 
 When he came to the door of the aunts’ apartments he knocked, and entered at once. There was a fire burning in the grate and he walked towards it, noticing as he did so the twin heads of Cora and Clarice twisted on their long powdered necks. Their eyes were staring at him over the embroidered back of their couch, which had been pulled up to the fire. They followed him with their heads, their necks unwinding as he took up a position before them with his back to the fire, his legs astride, his hands behind him.
 
-‘My dears,’ he said, fixing them in turn with his magnetic eyes; ‘my *dears*, how are you? But what need is there to ask? You both look radiant. Lady Clarice, I have seldom seen you look lovelier; and your sister refuses to let you have it all your own way. You refuse utterly, Lady Cora, don’t you? You are about as bridal as I ever remember you. It is a delight to be with you again.’ The twins stared at him and wriggled, but no expression appeared in their faces.
+“My dears,” he said, fixing them in turn with his magnetic eyes; “my *dears*, how are you? But what need is there to ask? You both look radiant. Lady Clarice, I have seldom seen you look lovelier; and your sister refuses to let you have it all your own way. You refuse utterly, Lady Cora, don’t you? You are about as bridal as I ever remember you. It is a delight to be with you again.” The twins stared at him and wriggled, but no expression appeared in their faces.
 
-After a long silence during which Steerpike had been warming his hands at the blaze Cora said, ‘Do you mean that I’m glorious?’
+After a long silence during which Steerpike had been warming his hands at the blaze Cora said, “Do you mean that I’m glorious?”
 
-‘That’s not what he said,’ came Clarice’s flat voice.
+“That’s not what he said,” came Clarice’s flat voice.
 
-‘Glorious’, said Steerpike, ‘is a dictionary word. We are all imprisoned by the dictionary. We choose out of that vast, paper-walled prison our convicts, the little black printed words, when in truth we need fresh sounds to utter, new enfranchised noises which would produce a new effect. In dead and shackled language, my dears, you *are* glorious, but oh, to give vent to a brand new sound that might convince you of what I really think of you, as you sit there in your purple splendour, side by side! But no, it is impossible. Life is too fleet for onomatopoeia. Dead words defy me. I can make no sound, dear ladies, that is apt.’
+“Glorious”, said Steerpike, “is a dictionary word. We are all imprisoned by the dictionary. We choose out of that vast, paper-walled prison our convicts, the little black printed words, when in truth we need fresh sounds to utter, new enfranchised noises which would produce a new effect. In dead and shackled language, my dears, you *are* glorious, but oh, to give vent to a brand new sound that might convince you of what I really think of you, as you sit there in your purple splendour, side by side! But no, it is impossible. Life is too fleet for onomatopoeia. Dead words defy me. I can make no sound, dear ladies, that is apt.”
 
-‘You could try,’ said Clarice. ‘We aren’t busy.’
+“You could try,” said Clarice. “We aren’t busy.”
 
 She smoothed the shining fabric of her dress with her long, lifeless fingers.
 
-‘Impossible,’ replied the youth, rubbing his chin. ‘Quite impossible. Only believe in my admiration for your beauty that will one day be recognized by the whole castle. Meanwhile, preserve all dignity and silent power in your twin bosoms.’
+“Impossible,” replied the youth, rubbing his chin. “Quite impossible. Only believe in my admiration for your beauty that will one day be recognized by the whole castle. Meanwhile, preserve all dignity and silent power in your twin bosoms.”
 
-‘Yes, yes,’ said Cora, ‘we’ll preserve it. We’ll preserve it in our bosoms, won’t we, Clarice? Our silent power.’
+“Yes, yes,” said Cora, “we’ll preserve it. We’ll preserve it in our bosoms, won’t we, Clarice? Our silent power.”
 
-‘Yes, all the power we’ve got,’ said Clarice. ‘But we haven’t got much.’
+“Yes, all the power we’ve got,” said Clarice. “But we haven’t got much.”
 
-‘It is coming to you,’ said Steerpike. ‘It is on its way. You are of the blood; who else but you should wield the sceptre? But alone you cannot succeed. For years you have smarted from the insults you have been forced to endure. Ah, how patiently, you have smarted! How patiently! Those days have gone. Who is it that can help you?’ He took a pace towards them and bent forward. ‘Who is it that can restore you: and who will set you on your glittering thrones?’
+“It is coming to you,” said Steerpike. “It is on its way. You are of the blood; who else but you should wield the sceptre? But alone you cannot succeed. For years you have smarted from the insults you have been forced to endure. Ah, how patiently, you have smarted! How patiently! Those days have gone. Who is it that can help you?” He took a pace towards them and bent forward. “Who is it that can restore you: and who will set you on your glittering thrones?”
 
 The aunts put their arms about one another so that their faces were cheek to cheek, and from this doublehead they gazed up at Steerpike with a row of four equidistant eyes. There was no reason why there should not have been forty, or four hundred of them. It so happened that only four had been removed from a dead and endless frieze whose inexhaustible and repetitive theme was forever, eyes, eyes, eyes.
 
-‘Stand up,’ said Steerpike. He had raised his voice.
+“Stand up,” said Steerpike. He had raised his voice.
 
 They got to their feet awkwardly and stood before him evil. A sense of power filled Steerpike with an acute enjoyment.
 
-‘Take a step forward,’ he said.
+“Take a step forward,” he said.
 
 They did so, still holding one another.
 
-Steerpike watched them for some time, his shoulders hunched against the mantelpiece. ‘You heard me speak,’ he said. ‘You heard my question. Who is it that will raise you to your thrones?’
+Steerpike watched them for some time, his shoulders hunched against the mantelpiece. “You heard me speak,” he said. “You heard my question. Who is it that will raise you to your thrones?”
 
-‘Thrones,’ said Cora in a whisper; ‘our thrones.’
+“Thrones,” said Cora in a whisper; “our thrones.”
 
-‘Golden ones,’ said Clarice. ‘That is what we want.’
+“Golden ones,” said Clarice. “That is what we want.”
 
-‘That is what you shall have. Golden thrones for Lady Cora and Lady Clarice. Who will give them to you?’
+“That is what you shall have. Golden thrones for Lady Cora and Lady Clarice. Who will give them to you?”
 
 He stretched forward his hands and, holding each of them firmly by an elbow, brought them forward in one piece to within a foot of himself. He had never gone so far before, but he could see that they were clay in his hands and the familiarity was safe. The dreadful proximity of the identical faces caused him to draw his own head back.
 
-‘Who will give you the thrones, the glory and the power?’ he said. ‘Who?’
+“Who will give you the thrones, the glory and the power?” he said. “Who?”
 
-Their mouths opened together. ‘You,’ they said. ‘It’s *you* who’ll give them to us. Steerpike will give them to us.’
+Their mouths opened together. “You,” they said. “It’s *you* who’ll give them to us. Steerpike will give them to us.”
 
 Then Clarice craned her head forward from beside her sister’s and she whispered as though she were telling Steerpike a secret for the first time.
 
-‘We’re burning Sepulchrave’s books up,’ she said, ‘the whole of his silly library. We’re doing it—Cora and I. Everything is ready.’
+“We’re burning Sepulchrave’s books up,” she said, “the whole of his silly library. We’re doing it—Cora and I. Everything is ready.”
 
-‘Yes,’ said Steerpike. ‘Everything is ready.’
+“Yes,” said Steerpike. “Everything is ready.”
 
 Clarice’s head regained its normal position immediately above her neck, where it balanced itself, a dead thing, on a column, but Cora’s came forward as though to take the place of its counterpart and to keep the machinery working. In the same flat whisper she continued from where her sister had left off:
 
-‘All we do is to do what we’ve been told to do.’ Her head came forward another two inches. ‘There isn’t anything difficult. It’s easy to do. We go to the big door and then we find two little pieces of cloth sticking through from the inside, and then—’
+“All we do is to do what we’ve been told to do.” Her head came forward another two inches. “There isn’t anything difficult. It’s easy to do. We go to the big door and then we find two little pieces of cloth sticking through from the inside, and then—”
 
-‘We set them on fire!’ broke in her sister in so loud a voice that Steerpike closed his eyes. Then with a profound emptiness: ‘We’ll do it *now*,’ said Clarice. ‘It’s easy.’
+“We set them on fire!” broke in her sister in so loud a voice that Steerpike closed his eyes. Then with a profound emptiness: “We’ll do it *now*,” said Clarice. “It’s easy.”
 
-‘Now?’ said Steerpike. ‘Oh no, not now. We decided it should be tomorrow, didn’t we? Tomorrow evening.’
+“Now?” said Steerpike. “Oh no, not now. We decided it should be tomorrow, didn’t we? Tomorrow evening.”
 
-‘I want to do it *now*,’ said Clarice. ‘Don’t you, Cora?’
+“I want to do it *now*,” said Clarice. “Don’t you, Cora?”
 
-‘No,’ said Cora.
+“No,” said Cora.
 
-Clarice bit solemnly at her knuckles. ‘You’re frightened,’ she said; ‘frightened of a little bit of fire. You ought to have more pride than that, Cora. I have, although I’m gently manured.’
+Clarice bit solemnly at her knuckles. “You’re frightened,” she said; “frightened of a little bit of fire. You ought to have more pride than that, Cora. I have, although I’m gently manured.”
 
-‘Mannered, you mean,’ said her sister. ‘You *stupid*. How ignorant you are. With our blood, too. I am ashamed of our likenesses and always will be, so *there*!’
+“Mannered, you mean,” said her sister. “You *stupid*. How ignorant you are. With our blood, too. I am ashamed of our likenesses and always will be, so *there*!”
 
 Steerpike brushed an elegant green vase from the mantel with his elbow, which had the effect he had anticipated. The four eyes moved towards the fragments on the floor—the thread of their dialogue was as shattered as the vase.
 
-‘A sign!’ he muttered in a low, vibrant voice. ‘A portent! A symbol! The circle is complete. An angel has spoken.’
+“A sign!” he muttered in a low, vibrant voice. “A portent! A symbol! The circle is complete. An angel has spoken.”
 
 The twins stared open-mouthed.
 
-‘Do you see the broken porcelain, dear ladies?’ he said. ‘Do you see it?’
+“Do you see the broken porcelain, dear ladies?” he said. “Do you see it?”
 
 They nodded.
 
-‘What else is that but the *Régime*, broken for ever—the bullydom of Gertrude—the stony heart of Sepulchrave—the ignorance, malice and brutality of the House of Groan as it now stands—smashed for ever? It is a signal that your hour is at hand. Give praise, my dears; you shall come unto your splendour.’
+“What else is that but the *Régime*, broken for ever—the bullydom of Gertrude—the stony heart of Sepulchrave—the ignorance, malice and brutality of the House of Groan as it now stands—smashed for ever? It is a signal that your hour is at hand. Give praise, my dears; you shall come unto your splendour.”
 
-‘When?’ said Cora. ‘Will it be soon?’
+“When?” said Cora. “Will it be soon?”
 
-‘What about tonight?’ said Clarice. She raised her flat voice to its second floor, where there was more ventilation. ‘What about tonight?’
+“What about tonight?” said Clarice. She raised her flat voice to its second floor, where there was more ventilation. “What about tonight?”
 
-‘There is a little matter to be settled first,’ said Steerpike. ‘One little job to be done. Very simple; very, very simple; but it needs clever people to do it.’ He struck a match.
+“There is a little matter to be settled first,” said Steerpike. “One little job to be done. Very simple; very, very simple; but it needs clever people to do it.” He struck a match.
 
 In the four lenses of the four flat eyes, the four reflections of a single flame, danced—danced.
 
-‘Fire!’ they said. ‘We know all about it. All, all, all.’
+“Fire!” they said. “We know all about it. All, all, all.”
 
-‘Oh, then, to bed,’ said the youth, speaking rapidly. ‘To bed, to bed, to bed.’
+“Oh, then, to bed,” said the youth, speaking rapidly. “To bed, to bed, to bed.”
 
-Clarice lifted a limp hand like a slab of putty to her breast and scratched herself abstractedly. ‘All right,’ she said. ‘Good night.’ And as she moved towards the bedroom door she began to unfasten her dress.
+Clarice lifted a limp hand like a slab of putty to her breast and scratched herself abstractedly. “All right,” she said. “Good night.” And as she moved towards the bedroom door she began to unfasten her dress.
 
-‘I’m going too,’ said Cora. ‘Good night.’ She also, as she retired, could be seen unclasping and unhooking herself. Before the door closed behind her she was half unravelled of imperial purple.
+“I’m going too,” said Cora. “Good night.” She also, as she retired, could be seen unclasping and unhooking herself. Before the door closed behind her she was half unravelled of imperial purple.
 
 Steerpike filled his pocket with nuts from a china bowl and letting himself out of the room began the descent to the quadrangle. He had had no intention of broaching the subject of the burning, but the aunts had happily proved less excitable than he had anticipated and his confidence in their playing their elementary rôles effectively on the following evening was strengthened.
 
@@ -4395,59 +4395,59 @@ She limped beside him as they passed through the outermost trees and into the li
 
 Fuchsia went on slowly, wishing she were alone.
 
-‘There should be no rich, no poor, no strong, no weak,’ said Steerpike, methodically pulling the legs off the stag-beetle, one by one, as he spoke. ‘Equality is the great thing, equality is *everything*.’ He flung the mutilated insect away. ‘Do you agree, Lady Fuchsia?’ he said.
+“There should be no rich, no poor, no strong, no weak,” said Steerpike, methodically pulling the legs off the stag-beetle, one by one, as he spoke. “Equality is the great thing, equality is *everything*.” He flung the mutilated insect away. “Do you agree, Lady Fuchsia?” he said.
 
-‘I don’t know anything about it, and I don’t care much,’ said Fuchsia.
+“I don’t know anything about it, and I don’t care much,” said Fuchsia.
 
-‘But don’t you think it’s wrong if some people have nothing to eat and others have so much they throw most of it away? Don’t you think it’s wrong if some people have to work all their lives for a little money to exist on while others never do any work and live in luxury? Don’t you think brave men should be recognized and rewarded, and not just treated the same as cowards? The men who climb mountains, or dive under the sea, or explore jungles full of fever, or save people from fires?’
+“But don’t you think it’s wrong if some people have nothing to eat and others have so much they throw most of it away? Don’t you think it’s wrong if some people have to work all their lives for a little money to exist on while others never do any work and live in luxury? Don’t you think brave men should be recognized and rewarded, and not just treated the same as cowards? The men who climb mountains, or dive under the sea, or explore jungles full of fever, or save people from fires?”
 
-‘I don’t know,’ said Fuchsia again. ‘Things ought to be fair, I suppose. But I don’t know anything about it.’
+“I don’t know,” said Fuchsia again. “Things ought to be fair, I suppose. But I don’t know anything about it.”
 
-‘Yes, you do,’ said Steerpike. ‘When you say “Things ought to be fair” it is exactly what I mean. Things *ought* to be fair. Why aren’t they fair? Because of greed and cruelty and lust for power. All that sort of thing must be stopped.’
+“Yes, you do,” said Steerpike. “When you say ‘Things ought to be fair’ it is exactly what I mean. Things *ought* to be fair. Why aren’t they fair? Because of greed and cruelty and lust for power. All that sort of thing must be stopped.”
 
-‘Well, why don’t you stop it, then?’ said Fuchsia in a distant voice. She was watching the sun’s blood on the Tower of Flints, and a cloud like a drenched swab, descending, inch by inch, behind the blackening tower.
+“Well, why don’t you stop it, then?” said Fuchsia in a distant voice. She was watching the sun’s blood on the Tower of Flints, and a cloud like a drenched swab, descending, inch by inch, behind the blackening tower.
 
-‘I am going to,’ said Steerpike with such an air of simple confidence that Fuchsia turned her eyes to him.
+“I am going to,” said Steerpike with such an air of simple confidence that Fuchsia turned her eyes to him.
 
-‘You’re going to stop cruelty?’ she asked. ‘And greediness, and all those things? I don’t think you could. You’re very clever, but, oh no, you couldn’t do anything like that.’
+“You’re going to stop cruelty?” she asked. “And greediness, and all those things? I don’t think you could. You’re very clever, but, oh no, you couldn’t do anything like that.”
 
 Steerpike was taken aback for a moment by this reply. He had meant his remark to stand on its own—a limpid statement of fact—something that he imagined Fuchsia might often turn over in her mind and cogitate upon.
 
-‘It’s nearly gone,’ said Fuchsia as Steerpike was wondering how to reassert himself. ‘Nearly gone.’
+“It’s nearly gone,” said Fuchsia as Steerpike was wondering how to reassert himself. “Nearly gone.”
 
-‘What’s nearly gone?’ He followed her eyes to where the circle of the sun was notched with turrets. ‘Oh, you mean the old treacle bun,’ he said. ‘Yes, it will get cold very quickly now.’
+“What’s nearly gone?” He followed her eyes to where the circle of the sun was notched with turrets. “Oh, you mean the old treacle bun,” he said. “Yes, it will get cold very quickly now.”
 
-‘Treacle bun?’ said Fuchsia. ‘Is that what you call it?’ She stopped walking. ‘I don’t think you ought to call it that. It’s not respectful.’ She gazed. As the death-throes weakened in the sky, she watched with big, perplexed eyes. Then she smiled for the first time. ‘Do you give names to other things like that?’
+“Treacle bun?” said Fuchsia. “Is that what you call it?” She stopped walking. “I don’t think you ought to call it that. It’s not respectful.” She gazed. As the death-throes weakened in the sky, she watched with big, perplexed eyes. Then she smiled for the first time. “Do you give names to other things like that?”
 
-‘Sometimes,’ said Steerpike. ‘I have a disrespectful nature.’
+“Sometimes,” said Steerpike. “I have a disrespectful nature.”
 
-‘Do you give people names?’
+“Do you give people names?”
 
-‘I have done.’
+“I have done.”
 
-‘Have you got one for me?’
+“Have you got one for me?”
 
-Steerpike sucked the end of his swordstick and raised his straw-coloured eyebrows. ‘I don’t think I have,’ he said. ‘I usually think of you as Lady Fuchsia.’
+Steerpike sucked the end of his swordstick and raised his straw-coloured eyebrows. “I don’t think I have,” he said. “I usually think of you as Lady Fuchsia.”
 
-‘Do you call my mother anything?’
+“Do you call my mother anything?”
 
-‘Your mother? Yes.’
+“Your mother? Yes.”
 
-‘What do you call my mother?’
+“What do you call my mother?”
 
-‘I call her the old Bunch of Rags,’ said Steerpike.
+“I call her the old Bunch of Rags,” said Steerpike.
 
-Fuchsia’s eyes opened wide and she stood still again. ‘Go away,’ she said.
+Fuchsia’s eyes opened wide and she stood still again. “Go away,” she said.
 
-‘That’s not very fair,’ said Steerpike. ‘After all, you *asked* me.’
+“That’s not very fair,” said Steerpike. “After all, you *asked* me.”
 
-‘What do you call my father, then? But I don’t want to know. I think you’re cruel,’ said Fuchsia breathlessly, ‘you who said you’d stop cruelty altogether. Tell me some more names. Are they *all* unkind—and funny?’
+“What do you call my father, then? But I don’t want to know. I think you’re cruel,” said Fuchsia breathlessly, “you who said you’d stop cruelty altogether. Tell me some more names. Are they *all* unkind—and funny?”
 
-‘Some other time,’ said Steerpike, who had begun to feel chilly. ‘The cold won’t do your injuries any good. You shouldn’t be out walking at all. Prunesquallor thinks you’re in bed. He sounded very worried about you.’
+“Some other time,” said Steerpike, who had begun to feel chilly. “The cold won’t do your injuries any good. You shouldn’t be out walking at all. Prunesquallor thinks you’re in bed. He sounded very worried about you.”
 
 They walked on in silence, and by the time they had reached the castle night had descended.
 
-## ‘MEANWHILE’
+## “MEANWHILE”
 
 The morning of the next day opened drearily, the sun appearing only after protracted periods of half-light, and then only as a pale paper disc, more like the moon than itself, as, for a few moments at a time it floated across some corridor of cloud. Slow, lack-lustre veils descended with almost imperceptible motion over Gormenghast, blurring its countless windows, as with a dripping smoke. The mountain appeared and disappeared a score of times during the morning as the drifts obscured it or lifted from its sides. As the day advanced the gauzes thinned, and it was in the late afternoon that the clouds finally dispersed to leave in their place an expanse of translucence, that stain, chill and secret, in the throat of a lily, a sky so peerless, that as Fuchsia stared into its glacid depths she began unwittingly to break and re-break the flower-stem in her hands.
 
@@ -4455,29 +4455,29 @@ When she turned her head away it was to find Mrs Slagg watching her with such a 
 
 Nannie gasped for breath, her body bruised from the excess of Fuchsia’s burst of affection, and a gust of temper shook her as she climbed excitedly onto the seat of a chair.
 
-‘How *dare* you! How *dare* you!’ she gasped at last after shaking and wriggling a miniature fist all around Fuchsia’s surprised face. ‘How *dare* you bully me and hurt me and crush me into so much pain, you wicked thing, you vicious, naughty thing! *You*, whom I’ve always done everything for. *You*, whom I washed and brushed and dressed and spoiled and cooked for since you were the size of a slipper. You . . . you . . .’ The old woman began to cry, her body shaking underneath her black dress like some sort of jerking toy. She let go of the rail of the chair, crushed her fists into her tearful, bloodshot eyes, and, forgetting where she was, was about to run to the door, when Fuchsia jumped forward and caught her from falling. Fuchsia carried her to the bed and laid her down.
+“How *dare* you! How *dare* you!” she gasped at last after shaking and wriggling a miniature fist all around Fuchsia’s surprised face. “How *dare* you bully me and hurt me and crush me into so much pain, you wicked thing, you vicious, naughty thing! *You*, whom I’ve always done everything for. *You*, whom I washed and brushed and dressed and spoiled and cooked for since you were the size of a slipper. You . . . you . . .” The old woman began to cry, her body shaking underneath her black dress like some sort of jerking toy. She let go of the rail of the chair, crushed her fists into her tearful, bloodshot eyes, and, forgetting where she was, was about to run to the door, when Fuchsia jumped forward and caught her from falling. Fuchsia carried her to the bed and laid her down.
 
-‘Did I hurt you very much?’
+“Did I hurt you very much?”
 
 Her old nurse, lying on the coverlet like a withered doll in black satin, pursed her lips together and waited until Fuchsia, seating herself on the side of the bed, had placed one of her hands within range. Then her fingers crept forward, inch by inch, over the eiderdown, and with a sudden grimace of concentrated naughtiness she smacked Fuchsia’s hand as hard as she was able. Relaxing against the pillow after this puny revenge, she peered at Fuchsia, a triumphant gleam in her watery eyes.
 
 Fuchsia, hardly noticing the malicious little blow, leant over and suffered herself to be hugged for a few moments.
 
-‘Now you must start getting dressed,’ said Nannie Slagg. ‘You must be getting ready for your father’s Gathering, mustn’t you? It’s always one thing or another. “Do this. Do that.” And my heart in the state it is. Where will it all end? And what will you wear today? What dress will look the noblest for the wicked, tempestable thing?’
+“Now you must start getting dressed,” said Nannie Slagg. “You must be getting ready for your father’s Gathering, mustn’t you? It’s always one thing or another. ‘Do this. Do that.’ And my heart in the state it is. Where will it all end? And what will you wear today? What dress will look the noblest for the wicked, tempestable thing?”
 
-‘You’re coming, too, aren’t you?’ Fuchsia said.
+“You’re coming, too, aren’t you?” Fuchsia said.
 
-‘Why, what a *thing* you are,’ squeaked Nannie Slagg, climbing down over the edge of the bed. ‘Fancy such an ignorous question! I am taking his little Lordship, you big stupid!’
+“Why, what a *thing* you are,” squeaked Nannie Slagg, climbing down over the edge of the bed. “Fancy such an ignorous question! I am taking his little Lordship, you big stupid!”
 
-‘What! is Titus going, too?’
+“What! is Titus going, too?”
 
-‘Oh, your *ignorance*,’ said Nannie. ‘ “Is Titus going, *too*?” she says.’ Mrs Slagg smiled pityingly. ‘Poor, poor, wicked thing! what a querail!’ The old woman gave forth a series of pathetically unconvincing laughs and then put her hands on Fuchsia’s knees excitedly. ‘Of *course* he’s going,’ she said. ‘The Gathering is *for* him. It’s about his Birthday Breakfast.’
+“Oh, your *ignorance*,” said Nannie. “ ‘Is Titus going, *too*?’ she says.” Mrs Slagg smiled pityingly. “Poor, poor, wicked thing! what a querail!” The old woman gave forth a series of pathetically unconvincing laughs and then put her hands on Fuchsia’s knees excitedly. “Of *course* he’s going,” she said. “The Gathering is *for* him. It’s about his Birthday Breakfast.”
 
-‘Who else is going, Nannie?’
+“Who else is going, Nannie?”
 
 Her old nurse began to count on her fingers.
 
-‘Well, there’s your father,’ she began, placing the tips of her forefingers together and raising her eyes to the ceiling. ‘First of all there’s him, your father. . . .’
+“Well, there’s your father,” she began, placing the tips of her forefingers together and raising her eyes to the ceiling. “First of all there’s him, your father. . . .”
 
 *
 
@@ -4487,7 +4487,7 @@ Old Sourdust had closed the iron door of the ugly, empty cupboard with great car
 
 When Lord Sepulchrave reached his bedroom he found Flay laying out the black costume that he habitually wore. The Earl had it in his mind to dress more elaborately this evening. There had been a slight but perceptible lifting of his spirit ever since he had conceived this Breakfast for his son. He had become aware of a dim pleasure in having a son. Titus had been born during one of his blackest moods, and although he was still shrouded in melancholia, his introspection had, during the last few days, become tempered by a growing interest in his heir, not as a personality, but as the symbol of the Future. He had some vague presentiment that his own tenure was drawing to a close and it gave him both pleasure when he remembered his son, and a sense of stability amid the miasma of his waking dreams.
 
-Now that he knew he had a son he realized how great had been the unspoken nightmare which had lurked in his mind. The terror that with *him* the line of Groan should perish. That he had failed the castle of his forebears, and that rotting in his sepulchre the future generations would point at his, the last of the long line of discoloured monuments and whisper: ‘He was the last. He had no son.’
+Now that he knew he had a son he realized how great had been the unspoken nightmare which had lurked in his mind. The terror that with *him* the line of Groan should perish. That he had failed the castle of his forebears, and that rotting in his sepulchre the future generations would point at his, the last of the long line of discoloured monuments and whisper: “He was the last. He had no son.”
 
 As Flay helped him dress, neither of them speaking a word, Lord Sepulchrave thought of all this, and fastening a jewelled pin at his collar he sighed, and within the doomed and dark sea-murmur of that sigh was the plashing sound of a less mournful billow. And then, as he gazed absently past himself in the mirror at Flay, another comber of far pleasure followed the first, for his books came suddenly before his eyes, row upon row of volumes, row upon priceless row of calf-bound Thought, of philosophy and fiction, of travel and fantasy; the stern and the ornate, the moods of gold or green, of sepia, rose, or black; the picaresque, the arabesque, the scientific—the essays, the poetry and the drama.
 
@@ -4495,7 +4495,7 @@ All this, he felt, he would now re-enter. He could inhabit the world of words, w
 
 *
 
-‘Then *next*,’ said Mrs Slagg, counting on her fingers, ‘there’s your mother, of course. Your father and your mother—that makes Two.’
+“Then *next*,” said Mrs Slagg, counting on her fingers, “there’s your mother, of course. Your father and your mother—that makes Two.”
 
 *
 
@@ -4507,57 +4507,57 @@ As she came to the end of every right-hand page and was turning it over her eyes
 
 Then her eyes would turn again to the printed page. Her enormous face had about it the wonderment of a child as she read. She was reliving the story, the old story which she had so often read to them.
 
-‘And the door closed, and the latch clicked, but the prince with stars for his eyes and a new-moon for his mouth didn’t mind, for he was young and strong, and though he wasn’t handsome, he had heard lots of doors close and click before this one, and didn’t feel at all frightened. But he would have been if he had known who had closed the door. It was the Dwarf with brass teeth, who was more dreadful than the most spotted of all things, and whose ears were fixed on backwards.
+“And the door closed, and the latch clicked, but the prince with stars for his eyes and a new-moon for his mouth didn’t mind, for he was young and strong, and though he wasn’t handsome, he had heard lots of doors close and click before this one, and didn’t feel at all frightened. But he would have been if he had known who had closed the door. It was the Dwarf with brass teeth, who was more dreadful than the most spotted of all things, and whose ears were fixed on backwards.
 
-‘Now when the prince had finished brushing his hair . . .’
+“Now when the prince had finished brushing his hair . . .”
 
 *
 
 While the Countess was turning the page Mrs Slagg was ticking off the third and fourth fingers of her left hand.
 
-‘Dr Prunesquallor and Miss Irma will come as well, dear: they always come to nearly everything—don’t they, though I can’t see *why*—they aren’t ancestral. But they always come. Oh, my poor conscience! it’s always I who have to bear with them, and do everything, and I’ll have to go in a moment, my caution, to remind your mother, and she’ll shout at me and make me so nervous; but I’ll have to go for she won’t remember, but that’s just how it *always* happens. And the Doctor and Miss Irma make another two people, and that makes four altogether.’ Mrs Slagg gasped for breath. ‘I don’t like Dr Prunesquallor, my baby; I don’t like his proud habits,’ said Nannie. ‘He makes me feel so silly and small when I’m not. But he’s always asked, even when his vain and ugly sister isn’t; but she’s been asked this time so they’ll both be there, and you must stay next to me, won’t you? Won’t you? Because I’ve got his little Lordship to care for. Oh, my dear heart! I’m not well—I’m not; I’m *not*. And nobody cares—not even you.’ Her wrinkled hand gripped at Fuchsia’s. ‘You will look after me?’
+“Dr Prunesquallor and Miss Irma will come as well, dear: they always come to nearly everything—don’t they, though I can’t see *why*—they aren’t ancestral. But they always come. Oh, my poor conscience! it’s always I who have to bear with them, and do everything, and I’ll have to go in a moment, my caution, to remind your mother, and she’ll shout at me and make me so nervous; but I’ll have to go for she won’t remember, but that’s just how it *always* happens. And the Doctor and Miss Irma make another two people, and that makes four altogether.” Mrs Slagg gasped for breath. “I don’t like Dr Prunesquallor, my baby; I don’t like his proud habits,” said Nannie. “He makes me feel so silly and small when I’m not. But he’s always asked, even when his vain and ugly sister isn’t; but she’s been asked this time so they’ll both be there, and you must stay next to me, won’t you? Won’t you? Because I’ve got his little Lordship to care for. Oh, my dear heart! I’m not well—I’m not; I’m *not*. And nobody cares—not even you.” Her wrinkled hand gripped at Fuchsia’s. “You will look after me?”
 
-‘Yes,’ said Fuchsia. ‘But I like the Doctor.’
+“Yes,” said Fuchsia. “But I like the Doctor.”
 
 Fuchsia lifted up the end of her mattress and burrowed beneath the feather-filled weight until she found a small box. She turned her back on her nurse for a moment and fastened something around her neck, and when she turned again Mrs Slagg saw the solid fire of a great ruby hung beneath her throat.
 
-‘You must wear it *today*!’ Mrs Slagg almost screamed. ‘Today, today, you naughty thing, when everyone’s there. You will look as pretty as a flowering lamb, my big, untidy thing.’
+“You must wear it *today*!” Mrs Slagg almost screamed. “Today, today, you naughty thing, when everyone’s there. You will look as pretty as a flowering lamb, my big, untidy thing.”
 
-‘No, Nannie, I won’t wear it like that. Not when it’s a day like today. I shall wear it only when I’m alone or when I meet a man who reverences me.’
+“No, Nannie, I won’t wear it like that. Not when it’s a day like today. I shall wear it only when I’m alone or when I meet a man who reverences me.”
 
 *
 
 The Doctor, meanwhile, lay in a state of perfect contentment in a hot bath filled with blue crystals. The bath was veined marble and was long enough to allow the Doctor to lie at full length. Only his quill-like face emerged above the perfumed surface of the water. His hair was filled with winking lather-bubbles; and his eyes were indescribably roguish. His face and neck were bright pink as though direct from a celluloid factory.
 
-At the far end of the bath one of his feet emerged from the depths. He watched it quizzically with his head cocked so far upon one side that his left ear filled with water. ‘Sweet foot,’ he cried. ‘Five toes to boot and what-not in the beetroot shoot!’ He raised himself and shook the hot water gaily from his ear and began swishing the water on either side of his body.
+At the far end of the bath one of his feet emerged from the depths. He watched it quizzically with his head cocked so far upon one side that his left ear filled with water. “Sweet foot,” he cried. “Five toes to boot and what-not in the beetroot shoot!” He raised himself and shook the hot water gaily from his ear and began swishing the water on either side of his body.
 
 The eyes closed and the mouth opened and all the teeth were there shining through the steam. Taking a great breath, or rather, a deep breath, for his chest was too narrow for a great one, and with a smile of dreadful bliss irradiating his pink face, the Doctor emitted a whinny of so piercing a quality, that Irma, seated at her boudoir table, shot to her feet, scattering hairpins across the carpet. She had been at her toilet for the last three hours, excluding the preliminary hour and a half spent in her bath—and now, as she swished her way to the bedroom door, a frown disturbing the powder on her brow, she had, in common with her brother, more the appearance of having been plucked or peeled, than of cleanliness, though clean she was, scrupulously clean, in the sense of a rasher of bacon.
 
-‘What on earth is the matter with you; I said, what on earth is the matter with you, Bernard?’ she shouted through the bathroom keyhole.
+“What on earth is the matter with you; I said, what on earth is the matter with you, Bernard?” she shouted through the bathroom keyhole.
 
-‘Is that you my love? Is that you?’ her brother’s voice came thinly from behind the door.
+“Is that you my love? Is that you?” her brother’s voice came thinly from behind the door.
 
-‘Who *else* would it be; I said, who *else* would it be,’ she yelled back, bending herself into a stiff satin right angle in order to get her mouth to the keyhole.
+“Who *else* would it be; I said, who *else* would it be,” she yelled back, bending herself into a stiff satin right angle in order to get her mouth to the keyhole.
 
-‘Ha, ha, ha, ha, ha,’ came her brother’s shrill, unbearable laughter. ‘Who else indeed? Well, well, let us think, let us *think*. It might be the moon-goddess, but that’s improbable, ha, ha ha; or it might be a sword swallower approaching me in my professional capacity, ha, ha, that is *less* improbable—in fact, my dear tap-root, have you by any chance been swallowing swords for years on end without ever telling me, ha, ha? Or haven’t you?’ His voice rose: ‘Years on end, and swords on end—where will it end, if our ears unbend—what shall I spend on a wrinkled friend in a pair of tights like a bunch of lights?’
+“Ha, ha, ha, ha, ha,” came her brother’s shrill, unbearable laughter. “Who else indeed? Well, well, let us think, let us *think*. It might be the moon-goddess, but that’s improbable, ha, ha ha; or it might be a sword swallower approaching me in my professional capacity, ha, ha, that is *less* improbable—in fact, my dear tap-root, have you by any chance been swallowing swords for years on end without ever telling me, ha, ha? Or haven’t you?” His voice rose: “Years on end, and swords on end—where will it end, if our ears unbend—what shall I spend on a wrinkled friend in a pair of tights like a bunch of lights?”
 
-Irma who had been straining her ears cried out at last in her irritation: ‘I suppose you know you’ll be late—I said: “I suppose you—” ’
+Irma who had been straining her ears cried out at last in her irritation: “I suppose you know you’ll be late—I said: ‘I suppose you—’ ”
 
-‘A merry plague upon you, O blood of my blood,’ the shrill voice broke in. ‘What is Time, O sister of similar features, that you speak of it so subserviently? Are we to be the slaves of the sun, that second-hand, overrated knob of gilt, or of his sister, that fatuous circle of silver paper? A curse upon their ridiculous dictatorship! What say you, Irma, my Irma, wrapped in rumour, Irma, of the incandescent tumour?’ he trilled happily. And his sister rose rustling to her full height, arching her nostrils as she did so, as though they itched with pedigree. Her brother annoyed her, and as she seated herself again before the mirror in her boudoir she made noises like a lady as she applied the powder-puff for the hundredth time to her spotless length of neck.
+“A merry plague upon you, O blood of my blood,” the shrill voice broke in. “What is Time, O sister of similar features, that you speak of it so subserviently? Are we to be the slaves of the sun, that second-hand, overrated knob of gilt, or of his sister, that fatuous circle of silver paper? A curse upon their ridiculous dictatorship! What say you, Irma, my Irma, wrapped in rumour, Irma, of the incandescent tumour?” he trilled happily. And his sister rose rustling to her full height, arching her nostrils as she did so, as though they itched with pedigree. Her brother annoyed her, and as she seated herself again before the mirror in her boudoir she made noises like a lady as she applied the powder-puff for the hundredth time to her spotless length of neck.
 
 *
 
-‘Sourdust will be there, too,’ said Mrs Slagg, ‘because he knows all about things. He knows what order you do things in, precious, and when you must *start* doing them, and when you ought to *stop*.’
+“Sourdust will be there, too,” said Mrs Slagg, “because he knows all about things. He knows what order you do things in, precious, and when you must *start* doing them, and when you ought to *stop*.”
 
-‘Is that everyone?’ asked Fuchsia.
+“Is that everyone?” asked Fuchsia.
 
-‘Don’t hurry me,’ replied the old nurse, pursing her lips into a prune of wrinkles. ‘Can’t you wait a minute? Yes, that makes five, and you make six, and his little Lordship makes seven . . .’
+“Don’t hurry me,” replied the old nurse, pursing her lips into a prune of wrinkles. “Can’t you wait a minute? Yes, that makes five, and you make six, and his little Lordship makes seven . . .”
 
-‘And you make eight,’ said Fuchsia. ‘So you make the most.’
+“And you make eight,” said Fuchsia. “So you make the most.”
 
-‘Make the most what, my caution?’
+“Make the most what, my caution?”
 
-‘It doesn’t matter,’ said Fuchsia.
+“It doesn’t matter,” said Fuchsia.
 
 *
 
@@ -4569,41 +4569,41 @@ The aunts leaned forward, their hands on their knees, watching every movement.
 
 Steerpike took one of the Doctor’s silk handkerchiefs from his pocket and wiped his mouth. Then he held the wineglass up to the light for a long time and studied its translucence.
 
-‘What’s wrong with it?’ said Clarice slowly.
+“What’s wrong with it?” said Clarice slowly.
 
-‘Is it poisoned?’ said Cora.
+“Is it poisoned?” said Cora.
 
-‘Who poisoned it?’ echoed Clarice.
+“Who poisoned it?” echoed Clarice.
 
-‘Gertrude,’ said Cora. ‘She’d kill us if she could.’
+“Gertrude,” said Cora. “She’d kill us if she could.”
 
-‘But she can’t,’ said Clarice.
+“But she can’t,” said Clarice.
 
-‘And that’s why we’re going to be powerful.’
+“And that’s why we’re going to be powerful.”
 
-‘And proud,’ added Clarice.
+“And proud,” added Clarice.
 
-‘Yes, because of *today*.’
+“Yes, because of *today*.”
 
-‘Because of *today*.’
+“Because of *today*.”
 
 They joined their hands.
 
-‘It is a good vintage, your Ladyship. A very adequate vintage. I selected it myself. You will, I know, appreciate it fully. It is not poisoned, my dear women. Gertrude, though she has poisoned your lives, has not, as it so happens, poisoned this particular bottle of wine. May I pour you out a glassful each, and we will drink a toast to the business of the day?’
+“It is a good vintage, your Ladyship. A very adequate vintage. I selected it myself. You will, I know, appreciate it fully. It is not poisoned, my dear women. Gertrude, though she has poisoned your lives, has not, as it so happens, poisoned this particular bottle of wine. May I pour you out a glassful each, and we will drink a toast to the business of the day?”
 
-‘Yes, yes,’ said Cora. ‘Do it now.’
+“Yes, yes,” said Cora. “Do it now.”
 
 Steerpike filled their glasses.
 
-‘Stand up,’ he said.
+“Stand up,” he said.
 
 The purple twins arose together, and as Steerpike was about to propose the toast, his right hand holding the glass on the level of his chin and his left hand in his pocket, Cora’s flat voice broke in:
 
-‘Let’s drink it on our Tree,’ she said. ‘It’s lovely outside. On our Tree.’
+“Let’s drink it on our Tree,” she said. “It’s lovely outside. On our Tree.”
 
 Clarice turned to her sister with her mouth open. Her eyes were as expressionless as mushrooms.
 
-‘That’s what we’ll do,’ she said.
+“That’s what we’ll do,” she said.
 
 Steerpike, instead of being annoyed, was amused at the idea. After all, this was an important day for him. He had worked hard to get all in readiness and he knew that his future hung upon the smooth working of his plan, and although he would not congratulate himself until the library was in ashes, he felt that it was up to him and the aunts to relax for a few minutes before the work that lay ahead.
 
@@ -4613,29 +4613,29 @@ A few minutes later the three of them had passed through the Room of Roots, file
 
 As they sat, Steerpike in the middle and the twins at either side, the evening air was motionless beneath them and around. The aunts had apparently no fear of the dizzy drop. They never thought of it. Steerpike, although he was enjoying the situation to the full, nevertheless averted his eyes as far as possible from the sickening space below him. He decided to deal gently with the bottle. On the wooden table their three glasses glowed in the warm light. Thirty feet away the sunny south wall towered above and fell below them featureless from its base to its summit save for the lateral offshoot of this dead tree, halfway up its surface, on which they sat, and the exquisitely pencilled shadows of its branches.
 
-‘Firstly, dear Ladyships,’ said Steerpike, rising to his feet and fixing his eyes upon the shadow of a coiling bough, ‘firstly I propose a health to *you*. To your steadfast purpose and the faith you have in your own destinies. To your courage. Your intelligence. Your beauty.’ He raised his glass. ‘I drink,’ he said, and took a sip.
+“Firstly, dear Ladyships,” said Steerpike, rising to his feet and fixing his eyes upon the shadow of a coiling bough, “firstly I propose a health to *you*. To your steadfast purpose and the faith you have in your own destinies. To your courage. Your intelligence. Your beauty.” He raised his glass. “I drink,” he said, and took a sip.
 
-Clarice began to drink at the same moment, but Cora nudged her elbow. ‘Not yet,’ she said.
+Clarice began to drink at the same moment, but Cora nudged her elbow. “Not yet,” she said.
 
-‘Next I must propose a toast to the future. Primarily to the Immediate Future. To the task we have resolved to carry through today. To its success. And also to the Great Days that will result from it. The days of your reinstatement. The days of your Power and Glory. Ladies, to the Future!’
+“Next I must propose a toast to the future. Primarily to the Immediate Future. To the task we have resolved to carry through today. To its success. And also to the Great Days that will result from it. The days of your reinstatement. The days of your Power and Glory. Ladies, to the Future!”
 
 Cora, Clarice and Steerpike lifted their elbows to drink. The warm air hung about them, and as Cora’s raised elbow struck her sister’s and jogged the wineglass from her hand, and as it rolled from the table to the tree and from the tree out into the hollow air, the western sunlight caught it as it fell, glittering, through the void.
 
-## ‘THE BURNING’
+## “THE BURNING”
 
 Although it was Lord Sepulchrave who had summoned the Gathering, it was to Sourdust that the party turned when they had all arrived in the library, for his encyclopaedic knowledge of ritual gave authority to whatever proceedings were to follow. He stood by the marble table and, as the oldest, and in his opinion, the wisest person present, had about him a quite understandable air of his own importance. To wear rich and becoming apparel no doubt engenders a sense of well-being in the wearer, but to be draped, as was Sourdust, in a sacrosanct habit of crimson rags is to be in a world above such consideration as the price and fit of clothes and to experience a sense of propriety that no wealth could buy. Sourdust knew that were he to demand it the wardrobes of Gormenghast would be flung open to him. He did not want it. His mottled beard of alternate black and white hairs was freshly knotted. The crumpled parchment of his ancestral face glimmered in the evening light that swam through the high window.
 
-Flay had managed to find five chairs, which he placed in a line before the table. Nannie, with Titus on her lap, took up the central position. On her right Lord Sepulchrave and on her left the Countess Gertrude sat in attitudes peculiar to them, the former with his right elbow on the arm of the chair and his chin lost in the palm of his hand, and the Countess obliterating the furniture she sat in. On her right sat the Doctor, his long legs crossed and a footling smile of anticipation on his face. At the other end of the row his sister sat with her pelvis at least a foot to the rear of an excited perpendicular—her thorax, neck and head. Fuchsia, for whom, much to her relief, no chair was to be found, stood behind them, her hands behind her back. Between her fingers a small green handkerchief was being twisted round and round. She watched the ancient Sourdust take a step forward and wondered what it must feel like to be so old and wrinkled. ‘I wonder if I’ll ever be as old as that,’ she thought; ‘an old wrinkled woman, older than my mother, older than Nannie Slagg even.’ She gazed at the black mass of her mother’s back. ‘Who is there anyway who isn’t old? There isn’t anybody. Only that boy who hasn’t any lineage. I wouldn’t mind much, but he’s different from me and too clever for me. And even he’s not young. Not like I’d like my friends to be.’
+Flay had managed to find five chairs, which he placed in a line before the table. Nannie, with Titus on her lap, took up the central position. On her right Lord Sepulchrave and on her left the Countess Gertrude sat in attitudes peculiar to them, the former with his right elbow on the arm of the chair and his chin lost in the palm of his hand, and the Countess obliterating the furniture she sat in. On her right sat the Doctor, his long legs crossed and a footling smile of anticipation on his face. At the other end of the row his sister sat with her pelvis at least a foot to the rear of an excited perpendicular—her thorax, neck and head. Fuchsia, for whom, much to her relief, no chair was to be found, stood behind them, her hands behind her back. Between her fingers a small green handkerchief was being twisted round and round. She watched the ancient Sourdust take a step forward and wondered what it must feel like to be so old and wrinkled. “I wonder if I’ll ever be as old as that,” she thought; “an old wrinkled woman, older than my mother, older than Nannie Slagg even.” She gazed at the black mass of her mother’s back. “Who is there anyway who isn’t old? There isn’t anybody. Only that boy who hasn’t any lineage. I wouldn’t mind much, but he’s different from me and too clever for me. And even he’s not young. Not like I’d like my friends to be.”
 
 Her eyes moved along the line of heads. One after the other: old heads that didn’t understand.
 
 Her eyes rested at last on Irma.
 
-‘She hasn’t any lineage, either,’ said Fuchsia to herself, ‘and her neck is much too clean and it’s the longest and thinnest and funniest I’ve ever seen. I wonder if she’s really a white giraffe all the time, and pretending she isn’t.’ Fuchsia’s mind flew to the stuffed giraffe’s leg in the attic. ‘Perhaps it belongs to her,’ she thought. And the idea so appealed to Fuchsia that she lost control of herself and spluttered.
+“She hasn’t any lineage, either,” said Fuchsia to herself, “and her neck is much too clean and it’s the longest and thinnest and funniest I’ve ever seen. I wonder if she’s really a white giraffe all the time, and pretending she isn’t.” Fuchsia’s mind flew to the stuffed giraffe’s leg in the attic. “Perhaps it belongs to her,” she thought. And the idea so appealed to Fuchsia that she lost control of herself and spluttered.
 
 Sourdust, who was about to begin and had raised his old hand for the purpose, started and peered across at her. Mrs Slagg clutched Titus a little tighter and listened very hard for anything further. Lord Sepulchrave did not move his body an inch, but opened one eye slowly. Lady Gertrude, as though Fuchsia’s splutter had been a signal, shouted to Flay, who was behind the library door:
 
-‘Open the door and let that bird in! What are you waiting for, man?’ Then she whistled with a peculiar ventriloquism, and a wood warbler sped, undulating through the long, dark hollow of library air, to land on her finger.
+“Open the door and let that bird in! What are you waiting for, man?” Then she whistled with a peculiar ventriloquism, and a wood warbler sped, undulating through the long, dark hollow of library air, to land on her finger.
 
 Irma simply twitched but was too refined to look round, and it was left to the Doctor to make contact with Fuchsia by means of an exquisitely timed wink with his left eye behind its convex lens, like an oyster shutting and opening itself beneath a pool of water.
 
@@ -4645,27 +4645,27 @@ His hoarse and quavering voice wandered through the library like something lost.
 
 The long shelves surrounded them, tier upon tier, circumscribing their world with a wall of other worlds imprisoned yet breathing among the network of a million commas, semicolons, full stops, hyphens and every other sort of printed symbol.
 
-‘We are gathered together’, said Sourdust, ‘in this ancient library at the instigation of Sepulchrave, 76th Earl to the house of Gormenghast and lord of those tracts of country that stretch on every hand, in the North to the wastelands, in the South to the grey salt marshes, in the East to the quicksands and the tideless sea, and in the West to knuckles of endless rock.’
+“We are gathered together”, said Sourdust, “in this ancient library at the instigation of Sepulchrave, 76th Earl to the house of Gormenghast and lord of those tracts of country that stretch on every hand, in the North to the wastelands, in the South to the grey salt marshes, in the East to the quicksands and the tideless sea, and in the West to knuckles of endless rock.”
 
-This was delivered in one weak, monotonous stream. Sourdust coughed for some time and then, regaining his breath, continued mechanically: ‘We are gathered on this seventeenth day of October to give ear to his Lordship. These nights the moon is in the ascendant and the river is full of fish. The owls in the Tower of Flints seek their prey as heretofore and it is appropriate that his Lordship should, on the seventeenth day of an autumn month, bring forward the matter that is in his mind. The sacred duties which he has never wavered to perform are over for the hour. It is appropriate that it should be now—now, at the sixth hour of the daylight clock.
+This was delivered in one weak, monotonous stream. Sourdust coughed for some time and then, regaining his breath, continued mechanically: “We are gathered on this seventeenth day of October to give ear to his Lordship. These nights the moon is in the ascendant and the river is full of fish. The owls in the Tower of Flints seek their prey as heretofore and it is appropriate that his Lordship should, on the seventeenth day of an autumn month, bring forward the matter that is in his mind. The sacred duties which he has never wavered to perform are over for the hour. It is appropriate that it should be now—now, at the sixth hour of the daylight clock.
 
-‘I as master of Ritual, as Guardian of the Documents and as Confidant to the Family, am able to say that for his Lordship to speak to you in no way contravenes the tenets of Gormenghast.
+“I as master of Ritual, as Guardian of the Documents and as Confidant to the Family, am able to say that for his Lordship to speak to you in no way contravenes the tenets of Gormenghast.
 
-‘But, your Lordship, and your revered Ladyship,’ said Sourdust in his old sing-song, ‘it is no secret to those here gathered that it is towards the child who now occupies pride of place, it is towards Lord Titus that our thoughts will converge this afternoon. That is no secret.’
+“But, your Lordship, and your revered Ladyship,” said Sourdust in his old sing-song, “it is no secret to those here gathered that it is towards the child who now occupies pride of place, it is towards Lord Titus that our thoughts will converge this afternoon. That is no secret.”
 
-Sourdust gave vent to a dreadful chesty cough. ‘It is to Lord Titus,’ he said, gazing mistily at the child and then, raising his voice, ‘it is to Lord Titus,’ he repeated irritably.
+Sourdust gave vent to a dreadful chesty cough. “It is to Lord Titus,” he said, gazing mistily at the child and then, raising his voice, “it is to Lord Titus,” he repeated irritably.
 
 Nannie suddenly realized that the old man was making signs at her, and understood that she was to lift the infant up in the air as though he were a specimen, or something to be auctioned. She lifted him, but no one looked at the exhibit except Prunesquallor, who nearly engulfed Nannie, baby and all with a smile so devouring, so dental, as to cause Nannie to raise her shoulder against it and to snatch Titus back to her little flat chest.
 
-‘I will turn my back on you and strike the table four times,’ said Sourdust. ‘Slagg will bring the child to the table and Lord Sepulchrave will—’ here he suffered a more violent fit of coughing than ever, and at the same moment Irma’s neck quivered a little and she in her own way followed suit with five little ladylike barks. She turned her head apologetically in the direction of the Countess and wrinkled her forehead in self-deprecation. She could see that the Countess had taken no notice of her mute apology. She arched her nostrils. It had not crossed her mind there was a smell in the room other than the prevalent smell of musty leather: it was just that her nostrils with their hypersensitive nerve-endings were acting on their own accord.
+“I will turn my back on you and strike the table four times,” said Sourdust. “Slagg will bring the child to the table and Lord Sepulchrave will—” here he suffered a more violent fit of coughing than ever, and at the same moment Irma’s neck quivered a little and she in her own way followed suit with five little ladylike barks. She turned her head apologetically in the direction of the Countess and wrinkled her forehead in self-deprecation. She could see that the Countess had taken no notice of her mute apology. She arched her nostrils. It had not crossed her mind there was a smell in the room other than the prevalent smell of musty leather: it was just that her nostrils with their hypersensitive nerve-endings were acting on their own accord.
 
 Sourdust took some time to recover from his bout, but eventually he straightened himself and repeated:
 
-‘Slagg will bring the child to the table, and Lord Sepulchrave will graciously advance, following his menial, and on arriving at a point immediately behind me will touch the back of my neck with the forefinger of his left hand.
+“Slagg will bring the child to the table, and Lord Sepulchrave will graciously advance, following his menial, and on arriving at a point immediately behind me will touch the back of my neck with the forefinger of his left hand.
 
-‘At this signal I and Slagg will retire, and Slagg, having left the infant on the table, Lord Sepulchrave will pass behind the table and stand facing us across its surface.’
+“At this signal I and Slagg will retire, and Slagg, having left the infant on the table, Lord Sepulchrave will pass behind the table and stand facing us across its surface.”
 
-‘Are you hungry, my little love? Is there no grain inside you? Is that it? Is that it?’
+“Are you hungry, my little love? Is there no grain inside you? Is that it? Is that it?”
 
 The voice came forth so suddenly and heavily and so closely upon the quavering accents of Sourdust that everyone felt for the first few moments that the remark was addressed to them personally; but on turning their heads they could see that the Countess was addressing herself exclusively to the wood warbler. Whether the warbler made any reply was never ascertained for not only was Irma seized with a new and less ladylike bout of short dry coughs, but her brother and Nannie Slagg, joining her, filled the room with noise.
 
@@ -4673,23 +4673,23 @@ The bird rose into the air, startled, and Lord Sepulchrave stopped on his passag
 
 Prunesquallor had risen from beside the Countess and with his white hands wound about each other and with his mouth twisted into a quizzical line he permitted his eyes to move rapidly around the room. His head was cocked on one side.
 
-‘What’s the matter, man?’ asked the Countess heavily from immediately below him. She was still seated.
+“What’s the matter, man?” asked the Countess heavily from immediately below him. She was still seated.
 
-‘The matter?’ queried the Doctor, smiling more emphatically but still keeping his eyes on the move. ‘It is a case of atmosphere, as far as I can dare to judge at such very, very short notice, your Ladyship, as far as I *dare* to judge, ha, ha, ha! It is a case of thickening atmosphere, ha, ha!’
+“The matter?” queried the Doctor, smiling more emphatically but still keeping his eyes on the move. “It is a case of atmosphere, as far as I can dare to judge at such very, very short notice, your Ladyship, as far as I *dare* to judge, ha, ha, ha! It is a case of thickening atmosphere, ha, ha!”
 
-‘Smoke,’ said the Countess heavily and bluntly. ‘What is the matter with smoke? Haven’t you ever smelt it before?’
+“Smoke,” said the Countess heavily and bluntly. “What is the matter with smoke? Haven’t you ever smelt it before?”
 
-‘Many and many a time, your Ladyship,’ answered the Doctor. ‘But never, if I may say so, never in *here*.’
+“Many and many a time, your Ladyship,” answered the Doctor. “But never, if I may say so, never in *here*.”
 
 The Countess grunted to herself and settled deeper into the chair.
 
-‘There never *is* smoke in here,’ said Lord Sepulchrave. He turned his head to the door and raised his voice a little:
+“There never *is* smoke in here,” said Lord Sepulchrave. He turned his head to the door and raised his voice a little:
 
-‘Flay.’
+“Flay.”
 
 The long servant emerged out of the shadows like a spider.
 
-‘Open the door,’ said Lord Sepulchrave sharply; and as the spider turned and began its return journey his Lordship took a step towards old Sourdust, who was by now doubled over the table in a paroxysm of coughing. His Lordship taking one of Sourdust’s elbows beckoned to Fuchsia, who came across the room and supported the old man on the other side, and the three of them began to make their way to the door in Flay’s wake.
+“Open the door,” said Lord Sepulchrave sharply; and as the spider turned and began its return journey his Lordship took a step towards old Sourdust, who was by now doubled over the table in a paroxysm of coughing. His Lordship taking one of Sourdust’s elbows beckoned to Fuchsia, who came across the room and supported the old man on the other side, and the three of them began to make their way to the door in Flay’s wake.
 
 Lady Groan simply sat like a mountain and watched the little bird.
 
@@ -4699,37 +4699,37 @@ The Doctor placed the tips of his fingers and thumbs together and then, separati
 
 The smoke was spreading, and the Doctor, wondering why in the devil’s name the door had not been thrown open, began to peer about the room in an effort to locate the source of the ever-thickening wreaths. As he took a step past Nannie Slagg he saw that she was standing by the table from whose marble surface she had plucked Titus. She was holding him very closely to herself and had wrapped him in layers of cloth which had completely hidden him from view. A sound of muffled crying could be heard coming from the bundle. Nannie’s little wrinkled mouth was hanging open. Her streaming eyes were redder than usual with the stinging smoke. But she stood quite still.
 
-‘My very dear good woman,’ said Dr Prunesquallor, turning on his heel as he was about to float past her, ‘my very dear Slagg, convey his minute Lordship to the door that for some reason that is too subtle for me to appreciate remains shut. Why, in the name of Ventilation, *I* don’t know. But it *does*. It remains shut. Take him nevertheless, my dear Slagg, to the aforesaid door and place his infinitesimal head at the keyhole (surely *THAT’S* still open!), and even if you cannot squeeze the child right through it you can at least give his Lordship’s lungs something to get on with.’
+“My very dear good woman,” said Dr Prunesquallor, turning on his heel as he was about to float past her, “my very dear Slagg, convey his minute Lordship to the door that for some reason that is too subtle for me to appreciate remains shut. Why, in the name of Ventilation, *I* don’t know. But it *does*. It remains shut. Take him nevertheless, my dear Slagg, to the aforesaid door and place his infinitesimal head at the keyhole (surely *THAT’S* still open!), and even if you cannot squeeze the child right through it you can at least give his Lordship’s lungs something to get on with.”
 
-Nannie Slagg was never very good at interpreting the Doctor’s long sentences, especially when coming through a haze of smoke, and all that she could gather was that she should attempt to squeeze her tiny Lordship through the keyhole. Clutching the baby even tighter in her thin arms, ‘No! no! no!’ she cried, retreating from the doctor.
+Nannie Slagg was never very good at interpreting the Doctor’s long sentences, especially when coming through a haze of smoke, and all that she could gather was that she should attempt to squeeze her tiny Lordship through the keyhole. Clutching the baby even tighter in her thin arms, “No! no! no!” she cried, retreating from the doctor.
 
 Dr Prunesquallor rolled his eyes at the Countess. She was apparently aware of the state of the room at last and was gathering together great swathes of drapery in a slow, deliberate manner preparatory to rising to her feet.
 
 The rattling at the library door became more violent, but the indigenous shadows and the smoke combined to make it impossible to see what was going on.
 
-‘Slagg,’ said the Doctor, advancing on her, ‘go to the door immediately, like the intelligent woman you are!’
+“Slagg,” said the Doctor, advancing on her, “go to the door immediately, like the intelligent woman you are!”
 
-‘No! no!’ shrieked the midget, in so silly a voice that Doctor Prunesquallor after taking a handkerchief from his pocket lifted her from her feet and tucked her under his arm. The handkerchief enveloping Nannie Slagg’s waist prevented the nurse’s garments from coming in contact with the Doctor’s clothes. Her legs, like black twigs blown in the wind, gesticulated for a few moments and then were still.
+“No! no!” shrieked the midget, in so silly a voice that Doctor Prunesquallor after taking a handkerchief from his pocket lifted her from her feet and tucked her under his arm. The handkerchief enveloping Nannie Slagg’s waist prevented the nurse’s garments from coming in contact with the Doctor’s clothes. Her legs, like black twigs blown in the wind, gesticulated for a few moments and then were still.
 
-Before they had reached the door, however, they were met by Lord Sepulchrave, who emerged darkly from the smoke. ‘The door has been locked from the outside,’ he whispered between fits of coughing.
+Before they had reached the door, however, they were met by Lord Sepulchrave, who emerged darkly from the smoke. “The door has been locked from the outside,” he whispered between fits of coughing.
 
-‘Locked?’ queried Prunesquallor. ‘Locked, your Lordship? By all that’s perfidious! This is becoming intriguing. Most intriguing. Perhaps a bit too intriguing. What do you think, Fuchsia, my dear little lady? Eh? ha, ha! Well, well, we must become positively cerebral, mustn’t we? By all that’s enlightened we really must! Can it be smashed?’ He turned to Lord Sepulchrave. ‘Can we breach it, your Lordship, battery and assault and all that delicious sort of thing?’
+“Locked?” queried Prunesquallor. “Locked, your Lordship? By all that’s perfidious! This is becoming intriguing. Most intriguing. Perhaps a bit too intriguing. What do you think, Fuchsia, my dear little lady? Eh? ha, ha! Well, well, we must become positively cerebral, mustn’t we? By all that’s enlightened we really must! Can it be smashed?” He turned to Lord Sepulchrave. “Can we breach it, your Lordship, battery and assault and all that delicious sort of thing?”
 
-‘Too thick, Prunesquallor,’ said Lord Sepulchrave: ‘four-inch oak.’
+“Too thick, Prunesquallor,” said Lord Sepulchrave: “four-inch oak.”
 
 He spoke slowly in strange contrast to Prunesquallor’s rapid, ejaculatory chirping.
 
 Sourdust had been propped near the door, where he sat coughing as though to shake his old body to bits.
 
-‘No key for the other door,’ continued Lord Sepulchrave slowly. ‘It is never used. What about the window?’ For the first time a look of alarm appeared on his ascetic face. He walked quickly to the nearest bookshelves and ran his fingers along the spines of calf. Then he turned with a quickness unusual for him. ‘Where is the smoke thickest?’
+“No key for the other door,” continued Lord Sepulchrave slowly. “It is never used. What about the window?” For the first time a look of alarm appeared on his ascetic face. He walked quickly to the nearest bookshelves and ran his fingers along the spines of calf. Then he turned with a quickness unusual for him. “Where is the smoke thickest?”
 
-‘I’ve been searching for its origin, your Lordship,’ came Prunesquallor’s voice out of the haze. ‘It’s everywhere so thick that it’s very difficult to say. By all the pits of darkness it most damnably is. But I’m looking, ha, ha! I’m looking.’ He trilled for a moment like a bird. Then his voice came again. ‘Fuchsia, dear!’ he shouted. ‘Are you all right?’
+“I’ve been searching for its origin, your Lordship,” came Prunesquallor’s voice out of the haze. “It’s everywhere so thick that it’s very difficult to say. By all the pits of darkness it most damnably is. But I’m looking, ha, ha! I’m looking.” He trilled for a moment like a bird. Then his voice came again. “Fuchsia, dear!” he shouted. “Are you all right?”
 
-‘Yes!’ Fuchsia had to swallow hard before she could shout back, for she was very frightened. ‘Yes, Dr Prune.’
+“Yes!” Fuchsia had to swallow hard before she could shout back, for she was very frightened. “Yes, Dr Prune.”
 
-‘Slagg!’ shouted the Doctor, ‘keep Titus near the keyhole. See that she does, Fuchsia.’
+“Slagg!” shouted the Doctor, “keep Titus near the keyhole. See that she does, Fuchsia.”
 
-‘Yes,’ whispered Fuchsia; and went in search of Mrs Slagg.
+“Yes,” whispered Fuchsia; and went in search of Mrs Slagg.
 
 It was just then that an uncontrolled scream rang through the room.
 
@@ -4749,87 +4749,87 @@ Meanwhile Prunesquallor had reached his sister’s side and had found her bridli
 
 Dragging her across the room swiftly, her heels scraping the floor, he found a chair, after probing around in the smoke with his delicate feet, and sat his sister in it.
 
-‘Irma!’ he shouted into her ear, ‘my humiliating and entirely unfortunate old string of whitewash, sit where you are! Alfred will do the rest. Can you hear me? Be good now! blood of my blood, be good now, damn you!’
+“Irma!” he shouted into her ear, “my humiliating and entirely unfortunate old string of whitewash, sit where you are! Alfred will do the rest. Can you hear me? Be good now! blood of my blood, be good now, damn you!”
 
 Irma sat quite still as though dead, save for a look of profound wonder in her eyes.
 
 Prunesquallor was on the point of making another effort to locate the origin of the smoke when he heard Fuchsia’s voice high above the coughing that by now was a constant background of noise in the library.
 
-‘Dr Prune! Dr Prune! quickly! Quickly, Dr Prune!’
+“Dr Prune! Dr Prune! quickly! Quickly, Dr Prune!”
 
 The Doctor pulled down his cuffs smartly over his wrists, tried to square his shoulders, but met with no success, and then began to pick his way, half running, half walking, towards the door where Fuchsia, Mrs Slagg and Titus had been last seen. When he judged he was about half way to the door and was clear of the furniture, Prunesquallor began to accelerate his speed. This he did by increasing not only the length of his stride but the height also, so that he was, as it were, prancing through the air, when he was brought to a sudden ruthless halt by a collision with something that felt like an enormous bolster on end.
 
 When he had drawn his face away from the tallow-smelling draperies that seemed to hang about him like curtains, he stretched out his hand tentatively and shuddered to feel it come in contact with large fingers.
 
-‘ “Squallor?” came the enormous voice. ‘Is that “Squallor?” The mouth of the Countess was opening and shutting within an inch of his left ear.
+“ ‘Squallor?’ ” came the enormous voice. “Is that ‘Squallor?’ ” The mouth of the Countess was opening and shutting within an inch of his left ear.
 
 The Doctor gesticulated eloquently, but his artistry was wasted in the smoke.
 
-‘It *is*. Or rather,’ he continued, speaking even more rapidly than usual—‘it is *Prunesquallor*, which is, if I may say so, more strictly correct, ha, ha, ha! even in the dark.’
+“It *is*. Or rather,” he continued, speaking even more rapidly than usual—“it is *Prunesquallor*, which is, if I may say so, more strictly correct, ha, ha, ha! even in the dark.”
 
-‘Where’s Fuchsia?’ said the Countess. Prunesquallor found that his shoulder was being gripped.
+“Where’s Fuchsia?” said the Countess. Prunesquallor found that his shoulder was being gripped.
 
-‘By the door,’ said the Doctor, longing to free himself from the weight of her Ladyship’s hand, and wondering, even in the middle of the coughing and the darkness, what on earth the material that fitted around his shoulders so elegantly would look like when the Countess had finished with it. ‘I was on the point of finding her when we met, ha, ha! met, as it were, so palpably, so inevitably.’
+“By the door,” said the Doctor, longing to free himself from the weight of her Ladyship’s hand, and wondering, even in the middle of the coughing and the darkness, what on earth the material that fitted around his shoulders so elegantly would look like when the Countess had finished with it. “I was on the point of finding her when we met, ha, ha! met, as it were, so palpably, so inevitably.”
 
-‘Quiet, man! quiet!’ said Lady Gertrude, loosening her grasp.
+“Quiet, man! quiet!” said Lady Gertrude, loosening her grasp.
 
-‘Find her for me. Bring her here—and smash a window, Squallor, smash a window.’
+“Find her for me. Bring her here—and smash a window, Squallor, smash a window.”
 
-The Doctor was gone from her in a flash and when he judged himself to be a few feet from the door—‘Are you there, Fuchsia?’ he trilled.
+The Doctor was gone from her in a flash and when he judged himself to be a few feet from the door—“Are you there, Fuchsia?” he trilled.
 
 Fuchsia was just below him, and he was startled to hear her voice come up jerkily through the smoke.
 
-‘She’s ill. Very ill. Quick, Dr Prune, quick! Do something for her.’ The Doctor felt his knees being clutched. ‘She’s down here, Dr Prune. I’m holding her.’
+“She’s ill. Very ill. Quick, Dr Prune, quick! Do something for her.” The Doctor felt his knees being clutched. “She’s down here, Dr Prune. I’m holding her.”
 
 Prunesquallor hitched up his trousers and knelt down at once.
 
 There seemed to be more vibration in the atmosphere in this part of the room, more than could be accounted for by any modicum of air that might have been entering through the keyhole. The coughing was dreadful to hear; Fuchsia’s was heavy and breathless; but the thin, weak, and ceaseless coughing of Mrs Slagg gave the Doctor the more concern. He felt for the old nurse and found her in Fuchsia’s lap. Slipping his hand across her little chicken-bosom he found that her heart was the merest flutter. To his left in the darkness there was a mouldy smell, and then the driest series of brick-dust coughs he had ever heard revealed the proximity of Flay, who was fanning the air mechanically with a large book he had clawed out of a nearby shelf. The fissure left in the row of hidden books had filled immediately with the coiling smoke—a tall, narrow niche of choking darkness, a ghastly gap in a row of leather wisdom teeth.
 
-‘Flay,’ said the Doctor, ‘can you hear me, Flay? Where’s the largest window in the room, my man? Quickly now, where is it?’
+“Flay,” said the Doctor, “can you hear me, Flay? Where’s the largest window in the room, my man? Quickly now, where is it?”
 
-‘North wall,’ said Flay. ‘High up.’
+“North wall,” said Flay. “High up.”
 
-‘Go and shatter it at once. At once.’
+“Go and shatter it at once. At once.”
 
-‘No balcony there,’ said Flay. ‘Can’t reach.’
+“No balcony there,” said Flay. “Can’t reach.”
 
-‘Don’t argue! Use what you’ve got in that head of yours. You know the room. Find a missile, my good Flay—find a missile, and break a window. Some oxygen for Mrs Slagg. Don’t you think so? By all the zephyrs, yes! Go and help him, Fuchsia. Find where the window is and break it, even if you have to throw Irma at it, ha, ha, ha! And don’t be alarmed. Smoke, you know, is only smoke: it’s not composed of crocodiles, oh dear no, nothing so tropical. Hurry now. Break the window somehow and let the evening pour itself in—and I will see to dear Mrs Slagg and Titus, ha, ha, ha! Oh dear, yes!’
+“Don’t argue! Use what you’ve got in that head of yours. You know the room. Find a missile, my good Flay—find a missile, and break a window. Some oxygen for Mrs Slagg. Don’t you think so? By all the zephyrs, yes! Go and help him, Fuchsia. Find where the window is and break it, even if you have to throw Irma at it, ha, ha, ha! And don’t be alarmed. Smoke, you know, is only smoke: it’s not composed of crocodiles, oh dear no, nothing so tropical. Hurry now. Break the window somehow and let the evening pour itself in—and I will see to dear Mrs Slagg and Titus, ha, ha, ha! Oh dear, yes!”
 
 Flay gripped Fuchsia’s arm, and they moved away into the darkness.
 
 Prunesquallor did what he could to help Mrs Slagg, more by way of assuring her that it would be over in a brace of shakes than through anything scientific. He saw that Titus was able to breathe although wrapped up very tightly. Then he sat back on his heels and turned his head, for an idea had struck him.
 
-‘Fuchsia!’ he shouted, ‘find your father and ask him to sling his jade-cane at the window.’
+“Fuchsia!” he shouted, “find your father and ask him to sling his jade-cane at the window.”
 
 Lord Sepulchrave, who had just fought down another panic, and had nearly bitten his lower lip in half, spoke in a wonderfully controlled voice immediately after the Doctor had finished piping his message.
 
-‘Where are you, Flay?’ he said.
+“Where are you, Flay?” he said.
 
-‘I’m here,’ said Flay from a few feet behind him.
+“I’m here,” said Flay from a few feet behind him.
 
-‘Come to the table.’
+“Come to the table.”
 
 Flay and Fuchsia moved to the table, feeling for it with their hands.
 
-‘Are you at the table?’
+“Are you at the table?”
 
-‘Yes, Father,’ said Fuchsia, ‘we’re both here.’
+“Yes, Father,” said Fuchsia, “we’re both here.”
 
-‘Is that you, Fuchsia?’ said a new voice. It was the Countess.
+“Is that you, Fuchsia?” said a new voice. It was the Countess.
 
-‘Yes,’ said Fuchsia. ‘Are you all right?’
+“Yes,” said Fuchsia. “Are you all right?”
 
-‘Have you seen the warbler?’ answered her mother. ‘Have you seen him?’
+“Have you seen the warbler?” answered her mother. “Have you seen him?”
 
-‘No,’ said Fuchsia. The smoke was stinging her eyes and the darkness was terror. Like her father, she had choked a score of cries in her throat.
+“No,” said Fuchsia. The smoke was stinging her eyes and the darkness was terror. Like her father, she had choked a score of cries in her throat.
 
-Prunesquallor’s voice rang out again from the far end of the room: ‘Damn the warbler and all its feathered friends! Have you got the missiles, Flay?’
+Prunesquallor’s voice rang out again from the far end of the room: “Damn the warbler and all its feathered friends! Have you got the missiles, Flay?”
 
-‘Come here, you “Squallor,” began the Countess; but she could not continue, for her lungs had filled with black wreaths.
+“Come here, you ‘Squallor,’ ” began the Countess; but she could not continue, for her lungs had filled with black wreaths.
 
 For a few moments there was no one in the room who was capable of speaking and their breathing was becoming momently more difficult. At last Sepulchrave’s voice could be distinguished.
 
-‘On the table,’ he whispered—‘paper-weight—brass—on the table. Quick—Flay—Fuchsia—feel for it. Have you found it?—Paper-weight—brass.’
+“On the table,” he whispered—“paper-weight—brass—on the table. Quick—Flay—Fuchsia—feel for it. Have you found it?—Paper-weight—brass.”
 
 Fuchsia’s hands came across the heavy object almost at once, and as they did so the room was lit up with a tongue of flame that sprang into the air among the books on the right of the unused door. It died almost at once, withdrawing itself like the tongue of an adder, but a moment later it shot forth again and climbed in a crimson spiral, curling from left to right as it licked its way across the gilded and studded spines of Sepulchrave’s volumes. This time it did not die away, but gripped the leather with its myriad flickering tentacles while the names of the books shone out in ephemeral glory. They were never forgotten by Fuchsia, those first few vivid titles that seemed to be advertising their own deaths.
 
@@ -4845,9 +4845,9 @@ When Prunesquallor had ascertained beyond doubt that Sourdust was dead, he lifte
 
 Then he peered over his shoulders at the flames. They had spread in area and now covered about a quarter of the east wall. The heat was fast becoming insufferable. His next glance was directed to the door that had so mysteriously become locked, and he saw that Nannie Slagg, with Titus in her arms, was crouching immediately before the keyhole, the only possible place for them. If the only window could be broken and some form of erection constructed below it, it was just possible that they could climb out in time, though how, in heaven’s name, they were to descend on the far side was another matter. A rope, perhaps. But where was a rope to be found—and for that matter what could the erection be constructed with?
 
-Prunesquallor peered around the room in an effort to catch sight of anything that might be used. He noticed that Irma was full length on the floor, and twitching like a section of conger-eel that has been chopped off but which still has ideas of its own. Her beautiful, tightly fitting skirt had become rucked up around her thighs. Her manicured nails were scratching convulsively at the floor boards. ‘Let her twitch,’ he said to himself quickly. ‘We can deal with her later, poor thing.’ Then he turned his eyes again to Fuchsia, who was by now very near the top of the bookcase and was reaching down precariously for her father’s rod with the knob of black jade.
+Prunesquallor peered around the room in an effort to catch sight of anything that might be used. He noticed that Irma was full length on the floor, and twitching like a section of conger-eel that has been chopped off but which still has ideas of its own. Her beautiful, tightly fitting skirt had become rucked up around her thighs. Her manicured nails were scratching convulsively at the floor boards. “Let her twitch,” he said to himself quickly. “We can deal with her later, poor thing.” Then he turned his eyes again to Fuchsia, who was by now very near the top of the bookcase and was reaching down precariously for her father’s rod with the knob of black jade.
 
-‘Keep steady, my Fuchsia-child.’
+“Keep steady, my Fuchsia-child.”
 
 Fuchsia dimly heard the Doctor’s voice come up to her from below. For a moment everything swam before her eyes, and her right hand which gripped the slippery shelf was shaking. Slowly her eyes cleared. It was not easy for her to swing the rod with her left hand, but she drew her arm back stiffly preparatory to swinging at the window with a single rigid movement.
 
@@ -4865,23 +4865,23 @@ As Fuchsia recognized the head of Steerpike the rod fell from her outstretched a
 
 The Doctor and Flay, leaping forward, half caught her. A moment later and the glass above them came splintering into the room, and Steerpike’s voice from overhead cried:
 
-‘Hold your horses! I’m letting down a ladder. Don’t panic there. Don’t panic!’
+“Hold your horses! I’m letting down a ladder. Don’t panic there. Don’t panic!”
 
 Every eye was turned from Fuchsia to the window, but Prunesquallor as he had heard the glass break above him had shielded the girl by swinging her behind him. It had fallen all about them, one large piece skimming the Doctor’s head and splintering on the floor at his feet. The only one to sustain any injury was Flay, who had a small piece of flesh nicked from his wrist.
 
-‘Hang on there!’ continued Steerpike in an animated voice which sounded singularly unrehearsed. ‘Don’t stand so near, I’m going to crack some more glass out.’
+“Hang on there!” continued Steerpike in an animated voice which sounded singularly unrehearsed. “Don’t stand so near, I’m going to crack some more glass out.”
 
 The company below the window drew back and watched him strike off the jagged corners of glass from the sides of the window with a piece of flint. The room behind them was now well ablaze, and the sweat was pouring from their upturned faces, their clothes scorching dangerously, and their flesh smarting with the intense heat.
 
 Steerpike, on the outside of the wall, standing on the short protruding branches of the pine-ladder began to struggle with the other length of pine which he had propped beside him. This was no easy job, and the muscles of his arms and back were strained almost to failing point as he levered the long pole upwards and over his shoulder by degrees, keeping his balance all the while with the greatest difficulty. As well as he could judge the library ought by now to be in perfect condition for a really theatrical piece of rescue work. Slowly but surely he edged and eased the pole across his shoulder and through the broken window. It was not only a heavy and dangerous feat, standing as he was, balanced upon the stubby six-inch off-shoots of pine and hauling the resinous thing over his shoulder, but what added to his difficulty was these lateral stubs themselves which caught in his clothes and on the window ledge at each attempt he made to slide the long monster through the opening and down into the bright library.
 
-At last both difficulties were overcome and the gathering on the inner side of the wall below the window found the fifteen-foot bole of a pine edging its way through the smoky air above them, swaying over their heads and then landing with a crash at their feet. Steerpike had held fast to the upper end of the pole and it would have been possible for one of the lighter members of the party to have climbed it at once, but Prunesquallor moved the base of the tree a little to the left and swivelled it until the most powerful of the stubby, lateral ‘rungs’ were more conveniently situated.
+At last both difficulties were overcome and the gathering on the inner side of the wall below the window found the fifteen-foot bole of a pine edging its way through the smoky air above them, swaying over their heads and then landing with a crash at their feet. Steerpike had held fast to the upper end of the pole and it would have been possible for one of the lighter members of the party to have climbed it at once, but Prunesquallor moved the base of the tree a little to the left and swivelled it until the most powerful of the stubby, lateral “rungs” were more conveniently situated.
 
-Steerpike’s head and shoulders now appeared fully in view through the broken window. He peered into the crimson smoke. ‘Nice work,’ he said to himself, and then shouted, ‘Glad I found you! I’m just coming!’
+Steerpike’s head and shoulders now appeared fully in view through the broken window. He peered into the crimson smoke. “Nice work,” he said to himself, and then shouted, “Glad I found you! I’m just coming!”
 
 Nothing could have gone more deliciously according to plan. But there was no time to waste. No time to crow. He could see that the floorboards had caught and there was a snake of fire slithering its way beneath the table.
 
-Steerpike lifted his voice. ‘The Heir of Gormenghast!’ he shouted. ‘Where is Lord Titus? Where is Lord Titus?’
+Steerpike lifted his voice. “The Heir of Gormenghast!” he shouted. “Where is Lord Titus? Where is Lord Titus?”
 
 Prunesquallor had already reached Mrs Slagg, who had collapsed over the child, and he lifted them both together in his arms and ran swiftly back to the ladder. The Countess was there; they were all there at the foot of the pine; all except Sourdust, whose sacking had begun to smoulder. Fuchsia had dragged Irma across the floor by her heels and she lay as though she had been washed ashore by a tempest. Steerpike had crawled through the window and was a third of the way down the bole. Prunesquallor, climbing to the third rung, was able to pass Titus to the youth, who retreated through the window backwards and was down the outer ladder in a flash.
 
@@ -4889,23 +4889,23 @@ He left the infant among the ferns under the library wall and swarmed up the lad
 
 Steerpike laid her next to Titus, and was suddenly back at the window. It was obvious that Irma was the next on the list, but it was with her that the difficulties began. The moment she was touched she began to thrash about with her arms and legs. Thirty years of repression were finding vent. She was no longer a lady. She could never be a lady again. Her pure white feet were indeed composed of clay and now with all the advantages of a long throat she renewed her screaming, but it was weaker than before, for the smoke which had coiled around her vocal cords had taken their edge away, and they were now more in the nature of wool than gut. Something had to be done with her, and quickly. Steerpike swarmed down the top half of the pole and dropped to the library floor. Then, at his suggestion, he and the Doctor began to strip away lengths of her dress with which they bound her arms and legs, stuffing the remainder in her mouth. Together, with the help of Flay and Fuchsia, they heaved the writhing Irma by degrees up the ladder, until Steerpike, climbing through the window, was able to drag her through into the night air. Once through, she was treated with still less decorum, and her descent of the wall was abrupt, the boy with the high shoulders merely seeing to it that she should not break more bones than was necessary. In point of fact she broke none, her peerless flesh sustaining only a few purple bruises.
 
-Steerpike had now three figures in a row among the cold ferns. While he was swarming back, Fuchsia was saying, ‘No, I don’t want to. *You* go now. Please, you go now.’
+Steerpike had now three figures in a row among the cold ferns. While he was swarming back, Fuchsia was saying, “No, I don’t want to. *You* go now. Please, you go now.”
 
-‘Silence, you child,’ answered the Countess. ‘Don’t waste time. As I tell you, girl! as I tell you! At once.’
+“Silence, you child,” answered the Countess. “Don’t waste time. As I tell you, girl! as I tell you! At once.”
 
-‘No, Mother, no—’
+“No, Mother, no—”
 
-‘Fuchsia dear,’ said Prunesquallor, ‘you will be out in a brace of shakes and ladders! ha, ha, ha! It will save time, gipsy! Hurry now.’
+“Fuchsia dear,” said Prunesquallor, “you will be out in a brace of shakes and ladders! ha, ha, ha! It will save time, gipsy! Hurry now.”
 
-‘Don’t stand there gauping, girl!’
+“Don’t stand there gauping, girl!”
 
 Fuchsia glanced at the Doctor. How unlike himself he looked, the sweat pouring from his forehead and running between his eyes.
 
-‘Up you go! up you go,’ said Prunesquallor.
+“Up you go! up you go,” said Prunesquallor.
 
 Fuchsia turned to the ladder and after missing her foothold once or twice disappeared above them.
 
-‘Good girl!’ shouted the Doctor. ‘Find your Nannie Slagg! Now, then, now, then, your Ladyship, up you go.’
+“Good girl!” shouted the Doctor. “Find your Nannie Slagg! Now, then, now, then, your Ladyship, up you go.”
 
 The Countess began to climb, and although the sound of the wooden stubs being broken on either side of the pole accompanied her, yet her progress towards the window held a prodigious inevitability in every step she took and in every heave of her body. Like something far larger than life, her dark dress shot with the red of the fire, she ploughed her way upwards to the window. There was no one on the other side to help her, for Steerpike was in the library, and yet for all the contortions of her great frame, for all the ungainliness of her egress, a slow dignity pervaded her which gave even to the penultimate view—that of her rear disappearing hugely into the night—a feeling rather of the awesome than the ludicrous.
 
@@ -4913,27 +4913,27 @@ There remained only Lord Sepulchrave, Prunesquallor, Flay and Steerpike.
 
 Prunesquallor and Steerpike turned to Sepulchrave quickly in order to motion him to follow his wife, but he had disappeared. There was not a moment to lose. The flames were crackling around them. Mixed with the smell of the smoke was the smell of burning leather. There were few places where he could be, unless he had walked into the flames. They found him in an alcove a few feet from the ladder, a recess still hidden to some extent from the enveloping heat. He was smoothing the backs of a set of the Martrovian dramatists bound in gold fibre and there was a smile upon his face that sent a sick pang through the bodies of the three who found him. Even Steerpike watched that smile uneasily from beneath his sandy eyebrows. Saliva was beginning to dribble from the corner of his Lordship’s sensitive mouth as the corners curved upwards and the teeth were bared. It was the smile one sees in the mouth of a dead animal when the loose lips are drawn back and the teeth are discovered curving towards the ears.
 
-‘Take them, take your books, your Lordship, and come, come quickly!’ said Steerpike fiercely. ‘Which do you want?’
+“Take them, take your books, your Lordship, and come, come quickly!” said Steerpike fiercely. “Which do you want?”
 
-Sepulchrave turned about sharply and with a superhuman effort forced his hands stiffly to his sides and walked at once to the pine ladder. ‘I am sorry to have kept you,’ he said, and began to climb swiftly.
+Sepulchrave turned about sharply and with a superhuman effort forced his hands stiffly to his sides and walked at once to the pine ladder. “I am sorry to have kept you,” he said, and began to climb swiftly.
 
-As he was lowering himself on the far side of the window they heard him repeat as though to himself: ‘I am sorry to have kept you.’ And then there was a thin laugh like the laugh of a ghost.
+As he was lowering himself on the far side of the window they heard him repeat as though to himself: “I am sorry to have kept you.” And then there was a thin laugh like the laugh of a ghost.
 
 There was no longer any time for deciding who was to follow whom; no time for chivalry. The hot breath of the fire was upon them. The room was rising around them, and yet Steerpike managed to keep himself back.
 
 Directly Flay and the Doctor had disappeared he ran up the pine-bole like a cat, and sat astride the window ledge a moment before he descended on the far side. With the black autumn night behind him he crouched there, a lurid carving, his eyes no longer black holes in his head but glittering in the blood-red light like garnets.
 
-‘Nice work,’ he said to himself for the second time that night. ‘Very nice work.’ And then he swung his other leg over the high sill.
+“Nice work,” he said to himself for the second time that night. “Very nice work.” And then he swung his other leg over the high sill.
 
-‘There is no one left,’ he shouted down into the darkness.
+“There is no one left,” he shouted down into the darkness.
 
-‘Sourdust,’ said Prunesquallor, his thin voice sounding singularly flat. ‘Sourdust has been left.’
+“Sourdust,” said Prunesquallor, his thin voice sounding singularly flat. “Sourdust has been left.”
 
 Steerpike slid down the pole.
 
-‘Dead?’ he queried.
+“Dead?” he queried.
 
-‘He is,’ said Prunesquallor.
+“He is,” said Prunesquallor.
 
 No one spoke.
 
@@ -4957,13 +4957,13 @@ The whine was yet in the wind; the November whine. But as night followed night i
 
 One evening, several weeks after the burning, at about an hour before midnight, Flay lowered himself to the ground outside Lord Sepulchrave’s bedroom door. Inured though he was to the cold floor boards, for they had been his only bed for many years, yet on this November evening they struck a chill into his flinty bones and his shanks began to ache. The wind whistled and screamed about the Castle and gelid draughts skidded along the landing, and Flay heard the sound of doors opening and shutting at varying distances from him. He was able to follow the course of a draught as it approached from the northern fastnesses of the Castle, for he recognized the sound that was peculiar to each distant door as it creaked and slammed, the noises becoming louder and louder until the heavy mildewy curtains which hung at the end of the passage, forty feet away, lifted and muttered and the door which lay immediately beyond them grated and strained at its only hinge, and Flay knew that the icy spearhead of a fresh draught was close upon him.
 
-‘Getting old,’ he muttered to himself, rubbing his thighs and folding himself up like a stick-insect at the foot of the door.
+“Getting old,” he muttered to himself, rubbing his thighs and folding himself up like a stick-insect at the foot of the door.
 
 He had slept soundly enough last winter when the snow had lain deeply over Gormenghast. He remembered with distaste how it had coated the windows, clinging to the panes, and how when the sun sank over the Mountain the snow had appeared to bulge inwards through the window panes in a lather of blood.
 
 This memory disturbed him, and he dimly knew that the reason why the cold was affecting him more and more during these desolate nights had nothing to do with his age. For his body was hardened to the point of being more like some inanimate substance than flesh and blood. It was true that it was a particularly bad night, rough and loud, but he remembered that four nights ago there had been no wind and yet he had shivered as he was shivering now.
 
-‘Getting old,’ he muttered grittily to himself again between his long discoloured teeth; but he knew that he lied. No cold on earth could make his hairs stand up like tiny wires, stiffly, almost painfully along his thighs and forearms, and at the nape of his neck. Was he afraid? Yes, as any reasonable man would be. He was very afraid, although the sensation was rather different in him from that which would have been experienced in other men. He was not afraid of the darkness, of the opening and shutting of distant doors, of the screaming wind. He had lived all his life in a forbidding, half-lit world.
+“Getting old,” he muttered grittily to himself again between his long discoloured teeth; but he knew that he lied. No cold on earth could make his hairs stand up like tiny wires, stiffly, almost painfully along his thighs and forearms, and at the nape of his neck. Was he afraid? Yes, as any reasonable man would be. He was very afraid, although the sensation was rather different in him from that which would have been experienced in other men. He was not afraid of the darkness, of the opening and shutting of distant doors, of the screaming wind. He had lived all his life in a forbidding, half-lit world.
 
 He turned over, so as to command a view of the stairhead, although it was almost too dark to see it. He cracked the five knuckles of his left hand, one by one, but he could hardly hear the reports for a new wave of the gale rattled every window and the darkness was alive with the slamming of doors. He was afraid; he had been afraid for weeks. But Flay was not a coward. There was something tenacious and hard in his centre; something obstinate which precluded panic.
 
@@ -4985,7 +4985,7 @@ The sky was drained of its fury and there was silence.
 
 He descended, his hand on the banisters. Each step awoke echoes from below him, and fainter echoes from above him, away to the east.
 
-As he reached the landing a ray of light ran like a slender spear through an eastern window and quivered in a little patch on the wall, a few feet from where he stood. This thread of light intensified the shadows below and above it, and it was only after some groping that Flay came across the object. In his harsh hands it felt disgustingly soft. He brought it close to his eyes and became aware of a sickly, penetrating smell; but he could not see what it was that he held. Then, lifting it into the sunbeam so that his hand cast a shadow over the lozenge of light upon the wall, he saw, as though it were something supernaturally illumined, a very small, richly and exquisitely sculpted gateau. At the perimeter of this delicacy, a frail coral-like substance had been worked into the links of a chain, leaving in the centre a minute arena of jade-green icing, across whose glacid surface the letter ‘S’ lay coiled like a worm of cream.
+As he reached the landing a ray of light ran like a slender spear through an eastern window and quivered in a little patch on the wall, a few feet from where he stood. This thread of light intensified the shadows below and above it, and it was only after some groping that Flay came across the object. In his harsh hands it felt disgustingly soft. He brought it close to his eyes and became aware of a sickly, penetrating smell; but he could not see what it was that he held. Then, lifting it into the sunbeam so that his hand cast a shadow over the lozenge of light upon the wall, he saw, as though it were something supernaturally illumined, a very small, richly and exquisitely sculpted gateau. At the perimeter of this delicacy, a frail coral-like substance had been worked into the links of a chain, leaving in the centre a minute arena of jade-green icing, across whose glacid surface the letter “S” lay coiled like a worm of cream.
 
 ## THE UN-EARTHING OF BARQUENTINE
 
@@ -4997,21 +4997,21 @@ Shortly after the death of Sourdust in the library it was remembered that the ol
 
 When they had recovered they found that they were kneeling, side by side, on all fours. Barquentine was watching them. Lifting the stump of his withered leg he rapped it irritably on the mattress, sending up a cloud of dust.
 
-‘What do you want?’ he said. His voice was dry like his father’s, but stronger than the mere twenty years that lay between their ages could have accounted for. Barquentine was seventy-four.
+“What do you want?” he said. His voice was dry like his father’s, but stronger than the mere twenty years that lay between their ages could have accounted for. Barquentine was seventy-four.
 
 The servant nearest him rose to a stooping position, rubbed his shoulder-blades on the ceiling and with his head forced down to the level of his nipples stared at Barquentine with his loose mouth hanging open. The companion, a squat, indelicate creature, replied obtusely from the shadows behind his loose-lipped friend:
 
-‘He’s dead.’
+“He’s dead.”
 
-‘Whom are you talking of, you oaf?’ said the septuagenarian irritably, levering himself on his elbow and raising another cloud of dust with his stump.
+“Whom are you talking of, you oaf?” said the septuagenarian irritably, levering himself on his elbow and raising another cloud of dust with his stump.
 
-‘Your father,’ said the loose-mouthed man in the eager tone of one bringing good tidings.
+“Your father,” said the loose-mouthed man in the eager tone of one bringing good tidings.
 
-‘How?’ shouted Barquentine, who was becoming more and more irritable. ‘How? When? Don’t stand there staring at me like stenching mules.’
+“How?” shouted Barquentine, who was becoming more and more irritable. “How? When? Don’t stand there staring at me like stenching mules.”
 
-‘Yesterday,’ they replied. ‘Burned in the library. Only bones left.’
+“Yesterday,” they replied. “Burned in the library. Only bones left.”
 
-‘Details!’ yelled Barquentine, thrashing about with his stump and knotting his beard furiously as his father had done. ‘Details, you bladder heads! Out! Out of my way! Out of the room, curse you!’
+“Details!” yelled Barquentine, thrashing about with his stump and knotting his beard furiously as his father had done. “Details, you bladder heads! Out! Out of my way! Out of the room, curse you!”
 
 Foraging about in the darkness he found his crutch and struggled onto his withered leg. Such was the shortness of this leg that when he was on his foot it was possible for him to move grotesquely to the door without having to lower his head to avoid the ceiling. He was about half the height of the crouching servants, but he passed between their bulks like a small, savage cloud of material, ragged to the extent of being filigree, and swept them to either side.
 
@@ -5077,57 +5077,57 @@ When the Earl had finished with the calf-skull, Barquentine bent over the coffin
 
 The Earl was standing silently a little in front of the crowd, and Barquentine, digging his crutch into the earth, hopped around it until he was facing the men who had carried the coffin. One glint of his cold eyes brought them to the graveside.
 
-‘Nail the lid on,’ he shouted, and hopped around his crutch again on his withered leg, the ferrule of his support swivelling in the soft ground and raising the mud in gurgling wedges as it twisted.
+“Nail the lid on,” he shouted, and hopped around his crutch again on his withered leg, the ferrule of his support swivelling in the soft ground and raising the mud in gurgling wedges as it twisted.
 
-Fuchsia, standing at her mother’s mountainous side, loathed him with her whole body. She was beginning to hate everything that was old. What was that word which Steerpike kept denouncing whenever he met her? He was always saying it was dreadful—‘Authority’: that was it. She looked away from the one-legged man and her eyes moved absently along the line of gaping faces. They were staring at the coffin-men who were nailing down the planks. Everyone seemed horrible to Fuchsia. Her mother was gazing over the heads of the crowd with her characteristic sightlessness. Upon her father’s face a smile was beginning to appear, as though it were something inevitable, uncontrollable—something Fuchsia had never seen before on his face. She covered her eyes with her hands for a moment and felt a surge of unreality rising in her. Perhaps the whole thing was a dream. Perhaps everyone was really kind and beautiful, and she had seen them only through the black net of a dream she was suffering. She lowered her hands and found herself gazing into Steerpike’s eyes. He was on the other side of the grave and his arms were folded. As he stared at her, with his head a little on one side, like a bird’s, he raised his eyebrows to her, quizzically, his mouth twisted up on one side. Fuchsia involuntarily made a little gesture with her hand, a motion of recognition, of friendliness, but there was about the gesture something so subtle, so tender, as to be indescribable. For herself, she did not know that her hand had moved—she only knew that the figure across the grave was young.
+Fuchsia, standing at her mother’s mountainous side, loathed him with her whole body. She was beginning to hate everything that was old. What was that word which Steerpike kept denouncing whenever he met her? He was always saying it was dreadful—“Authority”: that was it. She looked away from the one-legged man and her eyes moved absently along the line of gaping faces. They were staring at the coffin-men who were nailing down the planks. Everyone seemed horrible to Fuchsia. Her mother was gazing over the heads of the crowd with her characteristic sightlessness. Upon her father’s face a smile was beginning to appear, as though it were something inevitable, uncontrollable—something Fuchsia had never seen before on his face. She covered her eyes with her hands for a moment and felt a surge of unreality rising in her. Perhaps the whole thing was a dream. Perhaps everyone was really kind and beautiful, and she had seen them only through the black net of a dream she was suffering. She lowered her hands and found herself gazing into Steerpike’s eyes. He was on the other side of the grave and his arms were folded. As he stared at her, with his head a little on one side, like a bird’s, he raised his eyebrows to her, quizzically, his mouth twisted up on one side. Fuchsia involuntarily made a little gesture with her hand, a motion of recognition, of friendliness, but there was about the gesture something so subtle, so tender, as to be indescribable. For herself, she did not know that her hand had moved—she only knew that the figure across the grave was young.
 
 He was strange and unappealing, with his high shoulders and his large swollen forehead; but he was slender, and young. Oh, that was what it was! He did not belong to the old, heavy, intolerant world of Barquentine: he belonged to the lightness of life. There was nothing about him that drew her, nothing she loved except his youth and his bravery. He had saved Nannie Slagg from the fire. He had saved Dr Prune from the fire—and oh! he had saved her, too. Where was his swordstick? What had he done with it? He was so silly about it, carrying it with him wherever he went.
 
 The earth was being shovelled into the grave for the ramshackle coffin had been lowered. When the cavity was filled, Barquentine inspected the rectangular patch of disturbed earth. The shovelling had been messy work, the mud clinging to the spades, and Barquentine had shouted at the grave-hands irritably. Now, he scraped some of the unevenly distributed earth into the shallower patches with his foot, balancing at an angle upon his crutch. The mourners were dispersing, and Fuchsia, shambling away from her parents, found herself to the extreme right of the crowd as it moved towards the castle.
 
-‘May I walk with you?’ said Steerpike, sidling up.
+“May I walk with you?” said Steerpike, sidling up.
 
-‘Yes,’ said Fuchsia. ‘Oh, yes; why shouldn’t you?’ She had never wanted him before, and was surprised at her own words.
+“Yes,” said Fuchsia. “Oh, yes; why shouldn’t you?” She had never wanted him before, and was surprised at her own words.
 
 Steerpike shot a glance at her as he pulled out his small pipe. When he had lit it, he said:
 
-‘Not much in my line, Lady Fuchsia.’
+“Not much in my line, Lady Fuchsia.”
 
-‘What isn’t?’
+“What isn’t?”
 
-‘Earth to earth; ashes to ashes, and all that sort of excitement.’
+“Earth to earth; ashes to ashes, and all that sort of excitement.”
 
-‘Not much in anyone’s line, I shouldn’t think,’ she replied. ‘I don’t like the idea of dying.’
+“Not much in anyone’s line, I shouldn’t think,” she replied. “I don’t like the idea of dying.”
 
-‘Not when one’s young, anyway,’ said the youth. ‘It’s all right for our friend rattle-ribs: not much life left inside him, anyway.’
+“Not when one’s young, anyway,” said the youth. “It’s all right for our friend rattle-ribs: not much life left inside him, anyway.”
 
-‘I like you being disrespectful, sometimes,’ said Fuchsia in a rush. ‘Why must one try and be respectful to old people when they aren’t considerate?’
+“I like you being disrespectful, sometimes,” said Fuchsia in a rush. “Why must one try and be respectful to old people when they aren’t considerate?”
 
-‘It’s their idea,’ said Steerpike. ‘They like to keep this reverence business going. Without it where’d they be? Sunk. Forgotten. Over the side: for they’ve nothing except their age, and they’re jealous of our youth.’
+“It’s their idea,” said Steerpike. “They like to keep this reverence business going. Without it where’d they be? Sunk. Forgotten. Over the side: for they’ve nothing except their age, and they’re jealous of our youth.”
 
-‘Is that what it is?’ said Fuchsia, her eyes widening. ‘Is it because they are jealous? Do you really think it’s that?’
+“Is that what it is?” said Fuchsia, her eyes widening. “Is it because they are jealous? Do you really think it’s that?”
 
-‘Undoubtedly,’ said Steerpike. ‘They want to imprison us and make us fit into their schemes, and taunt us, and make us work for them. All the old are like that.’
+“Undoubtedly,” said Steerpike. “They want to imprison us and make us fit into their schemes, and taunt us, and make us work for them. All the old are like that.”
 
-‘Mrs Slagg isn’t like that,’ said Fuchsia.
+“Mrs Slagg isn’t like that,” said Fuchsia.
 
-‘She is the exception,’ said Steerpike, coughing in a strange way with his hand over his mouth. ‘She is the exception that proves the rule.’
+“She is the exception,” said Steerpike, coughing in a strange way with his hand over his mouth. “She is the exception that proves the rule.”
 
 They walked on in silence for a few paces. The Castle was looming overhead and they were treading into the shadow of a tower.
 
-‘Where’s your swordstick?’ said Fuchsia. ‘How can you be without it? You don’t know what to do with your hands.’
+“Where’s your swordstick?” said Fuchsia. “How can you be without it? You don’t know what to do with your hands.”
 
 Steerpike grinned. This was a new Fuchsia. More animated—yet was it animation, or a nervous, tired excitement which gave the unusual lift to her voice?
 
-‘My swordstick,’ said Steerpike, rubbing his chin, ‘my dear little swordstick. I must have left it behind in the rack.’
+“My swordstick,” said Steerpike, rubbing his chin, “my dear little swordstick. I must have left it behind in the rack.”
 
-‘Why?’ said Fuchsia. ‘Don’t you adore it any more?’
+“Why?” said Fuchsia. “Don’t you adore it any more?”
 
-‘I *do*, oh yes! I *do*,’ Steerpike replied in a comically emphatic voice. ‘I adore it just as much, but I felt it would be safer to leave it behind, because do you know what I should probably have *done* with it?’
+“I *do*, oh yes! I *do*,” Steerpike replied in a comically emphatic voice. “I adore it just as much, but I felt it would be safer to leave it behind, because do you know what I should probably have *done* with it?”
 
-‘What would you have done?’ said Fuchsia.
+“What would you have done?” said Fuchsia.
 
-‘I would have pricked Barquentine’s guts with it,’ said Steerpike; ‘most delicately, here and there, and everywhere, until the old scarecrow was yelling like a cat; and when he had yelled all the breath from his black lungs, I’d have tied him by his one leg to a branch and set fire to his beard. So you see what a good thing it was that I didn’t have my swordstick, don’t you?’
+“I would have pricked Barquentine’s guts with it,” said Steerpike; “most delicately, here and there, and everywhere, until the old scarecrow was yelling like a cat; and when he had yelled all the breath from his black lungs, I’d have tied him by his one leg to a branch and set fire to his beard. So you see what a good thing it was that I didn’t have my swordstick, don’t you?”
 
 But when he turned to her Fuchsia was gone from his side.
 
@@ -5141,11 +5141,11 @@ They were as outwardly impassive, their faces showing no sign at all of what was
 
 The glittering promises with which Steerpike had baited his cruel hook had produced an effect upon them more fundamental than he had anticipated. This concept of themselves as rulers of the south wing, was now uppermost in their minds, and in fact it filled their minds leaving no room for any other notion. Outwardly it showed itself in their conversation which harped upon nothing else. With the flush of success upon them, their fingers became looser, although their faces remained as expressionless as powdered slabs. Steerpike was now reaping the consequences of having persuaded them of their bravery and ingenuity, and of the masterly way in which they, and they alone, could set the library alight. It had been necessary at the time to blow them into tumours of conceit and self-assurance, but now, their usefulness for the moment at an end, it was becoming more and more difficult to deal with their inflation. However, with one excuse or another he managed to persuade them of the inadvisability of rushing a matter of such magnitude as that of raising them to their twin summits. Such things must be achieved with deliberation, cunning and foresight. Their position must improve progressively through a sequence of minor victories, which although each in itself attracted no notice, would build up insidiously, until before the castle was aware of it the South wing would blazon forth in rightful glory. The twins, who had expected the change in their status to be brought about overnight, were bitterly disappointed, and although Steerpike’s arguments to the effect that their power when it came must be something of sure foundation convinced them as he spoke, yet no sooner were they alone than they reverted at once to a condition of chagrin, and Steerpike’s every appearance was the sign for them to air their grievances anew.
 
-On this particular afternoon, as soon as he had entered their room and their childish clamour had started, he cut them short by crying: ‘We shall begin!’
+On this particular afternoon, as soon as he had entered their room and their childish clamour had started, he cut them short by crying: “We shall begin!”
 
 He had lifted his left hand high into the air to silence them, as he shouted. In his right hand he held a scroll of paper. They were standing with their shoulders and hips touching, side by side, their heads forced a little forward. When their loud, flat voices ceased, he continued:
 
-‘I have ordered your thrones. They are being made in secret, but as I have insisted that they are to be beaten from the purest gold they will take some time to complete. I have been sent these designs by the goldsmith, a craftsman without a peer. It is for you, my Ladyships, to choose. I have no doubt which you will choose, for although they are all three the most consummate works of art, yet with your taste, your flair for proportion, your grasp of minutiae, I feel confident you will select the one which I believe has no rival among the thrones of the world.’
+“I have ordered your thrones. They are being made in secret, but as I have insisted that they are to be beaten from the purest gold they will take some time to complete. I have been sent these designs by the goldsmith, a craftsman without a peer. It is for you, my Ladyships, to choose. I have no doubt which you will choose, for although they are all three the most consummate works of art, yet with your taste, your flair for proportion, your grasp of minutiae, I feel confident you will select the one which I believe has no rival among the thrones of the world.”
 
 Steerpike had, of course, made the drawings himself, spending several hours longer on them than he had intended, for once he had started he had become interested, and had the Doctor or his sister opened his door in the small hours of this same morning they would have found the high-shouldered boy bending over a table in his room, absorbed; the compasses, protractors and set square neatly placed in a row at the side of the table, the beautifully sharpened pencil travelling along the ruler with cold precision.
 
@@ -5153,99 +5153,99 @@ Now, as he unrolled the drawings before the wide eyes of the Aunts he handled th
 
 Cora and Clarice were at his side in an instant. There was no expression in their faces at all. All that could be found there was uncompromisingly anatomical. The thrones stared at the Aunts and the Aunts stared back at the thrones.
 
-‘I have no doubt which one you will prefer, for it is unique in the history of golden thrones. Choose, your Ladyships—choose!’ said Steerpike.
+“I have no doubt which one you will prefer, for it is unique in the history of golden thrones. Choose, your Ladyships—choose!” said Steerpike.
 
 Cora and Clarice pointed simultaneously at the biggest of the three drawings. It almost filled the page.
 
-‘How *right* you are!’ said Steerpike. ‘How *right* you are! It was the only choice. I shall be seeing the goldsmith tomorrow and shall advise him of your selection.’
+“How *right* you are!” said Steerpike. “How *right* you are! It was the only choice. I shall be seeing the goldsmith tomorrow and shall advise him of your selection.”
 
-‘I want mine soon,’ said Clarice.
+“I want mine soon,” said Clarice.
 
-‘So do I,’ said Cora, ‘very soon.’
+“So do I,” said Cora, “very soon.”
 
-‘I thought I had explained to you,’ said Steerpike, taking them by their elbows and bringing them towards him—‘I thought I had explained to you that a throne of hammered gold is not a thing which can be wrought overnight. This man is a craftsman, an artist. Do you want your glory ruined by a makeshift and ridiculous pair of bright yellow sit-upons? Do you want to be the laughing-stock of the Castle, all over again, because you were too impatient? Or are you anxious for Gertrude and the rest of them to stare, open-mouthed with jealousy, at you as you sit aloft like the two purple queens you undoubtedly are? . . . Everything must be of the best. You have entrusted me to raise you to the status that is your due and right. You must leave it to me. When the hour comes, we shall strike. In the meanwhile it is for us to make of these apartments something unknown to Gormenghast.’
+“I thought I had explained to you,” said Steerpike, taking them by their elbows and bringing them towards him—“I thought I had explained to you that a throne of hammered gold is not a thing which can be wrought overnight. This man is a craftsman, an artist. Do you want your glory ruined by a makeshift and ridiculous pair of bright yellow sit-upons? Do you want to be the laughing-stock of the Castle, all over again, because you were too impatient? Or are you anxious for Gertrude and the rest of them to stare, open-mouthed with jealousy, at you as you sit aloft like the two purple queens you undoubtedly are? . . . Everything must be of the best. You have entrusted me to raise you to the status that is your due and right. You must leave it to me. When the hour comes, we shall strike. In the meanwhile it is for us to make of these apartments something unknown to Gormenghast.”
 
-‘Yes,’ said Cora. ‘That’s what I think. They must be wondrous. The rooms must be wondrous.’
+“Yes,” said Cora. “That’s what I think. They must be wondrous. The rooms must be wondrous.”
 
-‘Yes,’ said Clarice. ‘Because *we* are. The rooms must be just like us.’ Her mouth fell open, as though the tower jaw had died.
+“Yes,” said Clarice. “Because *we* are. The rooms must be just like us.” Her mouth fell open, as though the tower jaw had died.
 
-‘But we are the only ones who *are* worthy. No one must forget that, must they, Cora?’
+“But we are the only ones who *are* worthy. No one must forget that, must they, Cora?”
 
-‘No one,’ said Cora. ‘No one at all.’
+“No one,” said Cora. “No one at all.”
 
-‘Exactly,’ said Steerpike, ‘and your first duty will be to recondition the Room of Roots.’ He had glanced at them shrewdly. ‘The roots must be repainted. Even the smallest must be repainted, because there is no other room in Gormenghast that is so wonderful as to be full of roots. *Your* roots. The roots of *your* tree.’
+“Exactly,” said Steerpike, “and your first duty will be to recondition the Room of Roots.” He had glanced at them shrewdly. “The roots must be repainted. Even the smallest must be repainted, because there is no other room in Gormenghast that is so wonderful as to be full of roots. *Your* roots. The roots of *your* tree.”
 
 To his surprise the twins were not listening to him. They were holding each other about their long barrel-like chests.
 
-‘He made us do it,’ they were saying. ‘He made us burn dear Sepulchrave’s books. Dear Sepulchrave’s books.’
+“He made us do it,” they were saying. “He made us burn dear Sepulchrave’s books. Dear Sepulchrave’s books.”
 
-## ‘HALF-LIGHT’
+## “HALF-LIGHT”
 
 Meanwhile, the Earl and Fuchsia were sitting together two hundred feet below and over a mile away from Steerpike and the Aunts. His lordship, with his back to a pine tree and his knees drawn up to his chin, was gazing at his daughter with a slithery smile upon his mouth that had once been so finely drawn. Covering his feet and heaped about his slender body on all sides was a cold, dark, undulating palliasse of pine needles, broken here and there with heavy, weary-headed ferns and grey fungi, their ashen surfaces exuding a winter sweat.
 
 A kind of lambent darkness filled the dell. The roof was sky-proof, the branches interlacing so thickly that even the heaviest downpour was stayed from striking through; the methodical drip . . . drip . . . drip of the branch-captured rain only fell to the floor of needles several hours after the start of the heaviest storm. And yet a certain amount of reflected daylight filtered through into the clearing, mainly from the East, in which direction lay the shell of the library. Between the clearing and the path that ran in front of the ruin, the trees, although as thick, were not more than thirty to forty yards in depth.
 
-‘How many shelves have you built for your father?’ said the Earl to his daughter with a ghastly smile.
+“How many shelves have you built for your father?” said the Earl to his daughter with a ghastly smile.
 
-‘Seven shelves, father,’ said Fuchsia. Her eyes were very wide and her hands trembled as they hung at her sides.
+“Seven shelves, father,” said Fuchsia. Her eyes were very wide and her hands trembled as they hung at her sides.
 
-‘Three more shelves, my daughter—three more shelves, and then we will put the volumes back.’
+“Three more shelves, my daughter—three more shelves, and then we will put the volumes back.”
 
-‘Yes, father.’
+“Yes, father.”
 
 Fuchsia, picking up a short branch, scored across the needled ground three long lines, adding them to the seven which already lay between her father and herself.
 
-‘That’s it, that’s it,’ came the melancholy voice. ‘Now we have space for the Sonian Poets. Have you the books ready—little daughter?’
+“That’s it, that’s it,” came the melancholy voice. “Now we have space for the Sonian Poets. Have you the books ready—little daughter?”
 
-Fuchsia swung her head up, and her eyes fastened upon her father. He had never spoken to her in that way—she had never before heard that tone of love in his voice. Chilled by the horror of his growing madness, she had yet been filled with a compassion she had never known, but now there was more than compassion within her, there was released, of a sudden, a warm jet of love for the huddled figure whose long pale hand rested upon his knees, whose voice sounded so quiet and so thoughtful. ‘Yes, father, I’ve got the books ready,’ she replied; ‘do you want me to put them on the shelves?’
+Fuchsia swung her head up, and her eyes fastened upon her father. He had never spoken to her in that way—she had never before heard that tone of love in his voice. Chilled by the horror of his growing madness, she had yet been filled with a compassion she had never known, but now there was more than compassion within her, there was released, of a sudden, a warm jet of love for the huddled figure whose long pale hand rested upon his knees, whose voice sounded so quiet and so thoughtful. “Yes, father, I’ve got the books ready,” she replied; “do you want me to put them on the shelves?”
 
 She turned to a heap of pine cones which had been gathered.
 
-‘Yes, I am ready,’ he replied after a pause that was filled with the silence of the wood. ‘But one by one. One by one. We shall stock three shelves tonight. Three of my long, rare shelves.’
+“Yes, I am ready,” he replied after a pause that was filled with the silence of the wood. “But one by one. One by one. We shall stock three shelves tonight. Three of my long, rare shelves.”
 
-‘Yes, father.’
+“Yes, father.”
 
 The silence of the high pines drugged the air.
 
-‘Fuchsia.’
+“Fuchsia.”
 
-‘What, father?’
+“What, father?”
 
-‘You are my daughter.’
+“You are my daughter.”
 
-‘Yes.’
+“Yes.”
 
-‘And there is Titus. He will be the Earl of Gormenghast. Is that so?’
+“And there is Titus. He will be the Earl of Gormenghast. Is that so?”
 
-‘Yes, father.’
+“Yes, father.”
 
-‘When I am dead. But do I know you, Fuchsia? Do I know you?’
+“When I am dead. But do I know you, Fuchsia? Do I know you?”
 
-‘I don’t know—very well,’ she replied; but her voice became more certain now that she perceived his weakness. ‘I suppose we don’t know each other very much.’
+“I don’t know—very well,” she replied; but her voice became more certain now that she perceived his weakness. “I suppose we don’t know each other very much.”
 
 Again she was affected by an uprising of love. The mad smile making incongruous every remark which the Earl ventured, for he spoke with tenderness and moderation, had for the moment ceased to frighten her. In her short life she had been brought face to face with so many forms of weirdness that although the uncanny horror of the sliding smile distressed her, yet the sudden breaking of the barriers that had lain between them for so long as she could remember overpowered her fear. For the first time in her life she felt that she was a daughter—that she had a father—of her own. What did she care if he was going mad—saving for his own dear sake? He was hers.
 
-‘My books . . .’ he said.
+“My books . . .” he said.
 
-‘I have them here, father. Shall I fill up the first long shelf for you?’
+“I have them here, father. Shall I fill up the first long shelf for you?”
 
-‘With the Sonian Poets, Fuchsia.’
+“With the Sonian Poets, Fuchsia.”
 
-‘Yes.’
+“Yes.”
 
 She picked up a cone from the heap at her side and placed it on the end of the line she had scored in the ground. The Earl watched her very carefully.
 
-‘That is Andrema, the lyricist—the lover—he whose quill would pulse as he wrote and fill with a blush of blue, like a bruised nail. His verses, Fuchsia, his verses open out like flowers of glass, and at their centre, between the brittle petals lies a pool of indigo, translucent and as huge as doom. His voice is unmuffled—it is like a bell, clearly ringing in the night of our confusion; but the clarity is the clarity of imponderable depth—depth—so that his lines float on for evermore, Fuchsia—on and on and on, for evermore. That is Andrema . . . Andrema.’
+“That is Andrema, the lyricist—the lover—he whose quill would pulse as he wrote and fill with a blush of blue, like a bruised nail. His verses, Fuchsia, his verses open out like flowers of glass, and at their centre, between the brittle petals lies a pool of indigo, translucent and as huge as doom. His voice is unmuffled—it is like a bell, clearly ringing in the night of our confusion; but the clarity is the clarity of imponderable depth—depth—so that his lines float on for evermore, Fuchsia—on and on and on, for evermore. That is Andrema . . . Andrema.”
 
 The Earl, with his eyes on the cone which Fuchsia had placed at the end of the first line, opened his mouth more widely, and suddenly the pines vibrated with the echoes of a dreadful cry, half scream, half laughter.
 
-Fuchsia stiffened, the blood draining from her face. Her father, his mouth still open, even after the scream had died out of the forest, was now upon his hands and knees. Fuchsia tried to force her voice from the dryness of her throat. Her father’s eyes were on her as she struggled, and at last his lips came together and his eyes recovered the melancholy sweetness that she had so lately discovered in them. She was able to say, as she picked up another cone and made as if to place it at the side of ‘Andrema’: ‘Shall I go on with the library, father?’
+Fuchsia stiffened, the blood draining from her face. Her father, his mouth still open, even after the scream had died out of the forest, was now upon his hands and knees. Fuchsia tried to force her voice from the dryness of her throat. Her father’s eyes were on her as she struggled, and at last his lips came together and his eyes recovered the melancholy sweetness that she had so lately discovered in them. She was able to say, as she picked up another cone and made as if to place it at the side of “Andrema”: “Shall I go on with the library, father?”
 
 But the Earl could not hear her. His eyes had lost focus. Fuchsia dropped the cone from her hand and came to his side.
 
-‘What is it,’ she said. ‘Oh father! father! what is it?’
+“What is it,” she said. “Oh father! father! what is it?”
 
-‘I am not your father,’ he replied. ‘Have you no knowledge of me?’ And as he grinned his black eyes widened and in either eye there burned a star, and as the stars grew greater his fingers curled. ‘I live in the Tower of Flints,’ he cried. ‘I am the death-owl.’
+“I am not your father,” he replied. “Have you no knowledge of me?” And as he grinned his black eyes widened and in either eye there burned a star, and as the stars grew greater his fingers curled. “I live in the Tower of Flints,” he cried. “I am the death-owl.”
 
 ## A ROOF OF REEDS
 
@@ -5279,7 +5279,7 @@ Keda was now walking through darkness, all but the few yards immediately in fron
 
 It was not even that the trees that sucked at her right shoulder had filled her with horror, for now she was too tired for her imagination to fill her mind with the macabre. She moved on because a voice had spoken to her that morning as she walked. She had not realized that it was her own voice crying out to her, for she was too exhausted to know that her lips were giving vent to the occult.
 
-She had turned, for the voice had seemed to be immediately beside her. ‘Do not stop,’ it had said; ‘not tonight, for you shall have a roof of reeds.’ Startled, she had continued for not more than a few paces when the voice within her said: ‘The old man, Keda, the old brown man. You must not stay your feet.’
+She had turned, for the voice had seemed to be immediately beside her. “Do not stop,” it had said; “not tonight, for you shall have a roof of reeds.” Startled, she had continued for not more than a few paces when the voice within her said: “The old man, Keda, the old brown man. You must not stay your feet.”
 
 She had not been frightened, for the reality of the supernatural was taken for granted among the Dwellers. And as she staggered, ten hours later, through the night the words wavered in her mind, and when a torch flared suddenly in the road ahead of her, scattering its red embers, she moaned with exhaustion and relief to have been found, and fell forward into the arms of the brown father.
 
@@ -5291,9 +5291,9 @@ Keda raised herself upon her elbow.
 
 The rough summit of the oak tree moved, and then one of its branches motioned her back, so that she lay still again upon the pine-needles. Peace like a cloud enveloped her as she gazed at him and she knew that she was in the presence of a strange selflessness.
 
-He left her side and, moving across the earth floor with that slow, drifting tread, unfastened some shutters and the rayless light of the north sky poured through a square window. He left the room, and she lay quietly, her mind becoming clearer as the minutes passed. The trestle bed that she lay upon was wide and low, being raised only a foot from the ground by two logs which supported the long planks. Her tired body seemed to float with every muscle relaxed among the billowing needles. Even the pain in her feet, the bruises she had sustained in her wanderings, were floating—a kind of floating pain, impersonal, and almost pleasureable. Across her the brown father had spread three rough blankets, and her right hand moving under them, as though to test the pleasure of moving itself independently from the tired mass of her body, struck upon something hard. She was too weary to wonder what it was; but sometime later she drew it forth—the white eagle. ‘Braigon’, she murmured, and with the word a hundred haunting thoughts returned. Again she felt about her and found the wooden stag. She brought them against her warm sides, and after the pain of memory a new emotion, kindred to that which she had felt on the night she had lain with Rantel, suffused her, and her heart, faintly at first and then more loud, and louder still, began to sing like a wild bird; and though her body heaved suddenly with sickness, the wild bird went on singing.
+He left her side and, moving across the earth floor with that slow, drifting tread, unfastened some shutters and the rayless light of the north sky poured through a square window. He left the room, and she lay quietly, her mind becoming clearer as the minutes passed. The trestle bed that she lay upon was wide and low, being raised only a foot from the ground by two logs which supported the long planks. Her tired body seemed to float with every muscle relaxed among the billowing needles. Even the pain in her feet, the bruises she had sustained in her wanderings, were floating—a kind of floating pain, impersonal, and almost pleasureable. Across her the brown father had spread three rough blankets, and her right hand moving under them, as though to test the pleasure of moving itself independently from the tired mass of her body, struck upon something hard. She was too weary to wonder what it was; but sometime later she drew it forth—the white eagle. “Braigon”, she murmured, and with the word a hundred haunting thoughts returned. Again she felt about her and found the wooden stag. She brought them against her warm sides, and after the pain of memory a new emotion, kindred to that which she had felt on the night she had lain with Rantel, suffused her, and her heart, faintly at first and then more loud, and louder still, began to sing like a wild bird; and though her body heaved suddenly with sickness, the wild bird went on singing.
 
-## ‘FEVER’
+## “FEVER”
 
 White and cool as was the light of the north window, Keda could tell that the sun was alone in the sky and that the winter day was cloudless and temperate. She could not tell how late it was, nor whether it was morning or evening. The old man brought a bowl of soup to her bedside. She wished to speak to him, but not yet, for the spell of silence was still so richly about her and so eloquent that she knew that with him there was no need to say anything at all. Her floating body felt strangely clear and sweet, lying as though it were a lily of pain.
 
@@ -5317,29 +5317,29 @@ Descending a steep bank of ferns, she came across the brook almost immediately. 
 
 Suddenly she began to feel cold. The horses all lifted their heads and stared at her. The stream seemed to stand still; and then she heard herself talking.
 
-‘Keda,’ she was saying, ‘your life is over. Your lovers have died. Your child and her father are buried. And you also are dead. Only your bird sings on. What is the bright bird saying? That all is complete? Beauty will die away suddenly and at any time. At any time now—from sky and earth and limb and eye and breast and the strength of men and the seed and the sap and the bud and the foam and the flower—all will crumble for you, Keda, for all is over—only the child to be born, and then you will know what to do.’
+“Keda,” she was saying, “your life is over. Your lovers have died. Your child and her father are buried. And you also are dead. Only your bird sings on. What is the bright bird saying? That all is complete? Beauty will die away suddenly and at any time. At any time now—from sky and earth and limb and eye and breast and the strength of men and the seed and the sap and the bud and the foam and the flower—all will crumble for you, Keda, for all is over—only the child to be born, and then you will know what to do.”
 
-She stood upon the boulders of the ford and saw below her the image of her face in the clear water. It had become very old; the scourge of the Dwellers had descended; only the eyes, like the eyes of a gazelle, defied the bane which now gave to her face the quality of a ruin. She stared; and then she put her hands below her heart, for the bird was crying, crying with joy. ‘It is over!’ screamed the beaked voice. ‘It is only for the child that you are waiting. All else fulfilled, and then there is no longer any need.’
+She stood upon the boulders of the ford and saw below her the image of her face in the clear water. It had become very old; the scourge of the Dwellers had descended; only the eyes, like the eyes of a gazelle, defied the bane which now gave to her face the quality of a ruin. She stared; and then she put her hands below her heart, for the bird was crying, crying with joy. “It is over!” screamed the beaked voice. “It is only for the child that you are waiting. All else fulfilled, and then there is no longer any need.”
 
-Keda lifted her head, and her eyes opened to the sky where a kestrel hung. Her heart beat and beat, and the air thickened until darkness muffled her eyes, while the gay cry of the bird went on and on: ‘*It is over! it is over! it is over!*’
+Keda lifted her head, and her eyes opened to the sky where a kestrel hung. Her heart beat and beat, and the air thickened until darkness muffled her eyes, while the gay cry of the bird went on and on: “*It is over! it is over! it is over!*”
 
 The sky cleared before her. Beside her stood the brown father. When she turned to him he raised his head and then led her back to the cabin, where she lay exhausted upon her bed.
 
 The sun and the moon had forced themselves behind her eyes and filled her head. A crowd of images circled about them; the cactus trees of the Mud Dwellings revolved about the towers of Gormenghast, which swam about the moon. Heads ran forward towards her, starting as mere pin points on an infinitely far horizon, enlarging unbearably as they approached, they burst over her face—her dead husband’s face, Mrs Slagg’s and Fuchsia’s, Braigon’s, Flay’s, the Countess’s, Rantel’s and the Doctor’s with his devouring smile. Something was being put into her mouth. It was the lip of a cup. She was being told to drink.
 
-‘Oh, father!’ she cried.
+“Oh, father!” she cried.
 
 He pressed her gently back against the pillow.
 
-‘There is a bird crying,’ she said.
+“There is a bird crying,” she said.
 
-‘What does it cry?’ said the old man.
+“What does it cry?” said the old man.
 
-‘It cries with joy, for me. It is happy for me, for soon it will all be over—when I am light again—and I can do it, oh, father, when I am light again.’
+“It cries with joy, for me. It is happy for me, for soon it will all be over—when I am light again—and I can do it, oh, father, when I am light again.”
 
-‘What is it you will do?’
+“What is it you will do?”
 
-Keda stared at the reeds above her. ‘That is what shall happen,’ she murmured, ‘with a rope, or with deep water, or a blade . . . or with a blade.’
+Keda stared at the reeds above her. “That is what shall happen,” she murmured, “with a rope, or with deep water, or a blade . . . or with a blade.”
 
 ## FAREWELL
 
@@ -5365,37 +5365,37 @@ The ragged horizon of trees brought back to Keda’s mind the long and agonizing
 
 The skyline of trees was, near its outline, perforated with a myriad of microscopic glints of light, and it was beyond coincidence that Keda’s eyes were drawn towards the particular opening in the foliage that was divided into two equal parts by a vertical splinter of green fire. Even at that distance, fringed and imprisoned with blackness, Keda recognized instantaneously the finger of rock.
 
-‘What does it mean, father, that thin and dreadful crag?’
+“What does it mean, father, that thin and dreadful crag?”
 
-‘If it is dreadful to you, Keda, it means that your death is near; which is as you wish and what you have foreseen. For me it is not yet dreadful, although it has changed. When I was young it was for me the steeple of all love. As the days die, it alters.’
+“If it is dreadful to you, Keda, it means that your death is near; which is as you wish and what you have foreseen. For me it is not yet dreadful, although it has changed. When I was young it was for me the steeple of all love. As the days die, it alters.”
 
-‘But I am not afraid,’ said Keda.
+“But I am not afraid,” said Keda.
 
 They turned and began to descend among the hillocks towards the cabin. Darkness had settled before they opened the door. When Keda had lit the lamp they sat at the table opposite one another, conversing for a long while before her lips moved and she began to speak aloud:
 
-‘No, I am not afraid,’ she said. ‘It is I who am choosing what I shall do.’
+“No, I am not afraid,” she said. “It is I who am choosing what I shall do.”
 
 The old man lifted his rough head. His eyes in the lamplight appeared as wells of brown light.
 
-‘The child will come to me when she is ready,’ he said. ‘I will always be here.’
+“The child will come to me when she is ready,” he said. “I will always be here.”
 
-‘It is the Dwellers,’ said Keda. ‘It is they.’ Her left hand drew involuntarily to beneath her heart, and her fingers wavered there a moment as though lost. ‘Two men have died for me; and I bring back to the Bright Carvers their blood, on my hands, and the unlawful child. They will reject me—but I shall not mind, for still . . . still . . . my bird is singing—and in the graveyard of the outcasts I will have my reward—oh father—my reward, the deep, deep silence which they cannot break.’
+“It is the Dwellers,” said Keda. “It is they.” Her left hand drew involuntarily to beneath her heart, and her fingers wavered there a moment as though lost. “Two men have died for me; and I bring back to the Bright Carvers their blood, on my hands, and the unlawful child. They will reject me—but I shall not mind, for still . . . still . . . my bird is singing—and in the graveyard of the outcasts I will have my reward—oh father—my reward, the deep, deep silence which they cannot break.”
 
 The lamp trembled and shadows moved across the room, returning stealthily as the flame steadied.
 
-‘It will not be long,’ he said. ‘In a few days’ time you shall begin your journey.’
+“It will not be long,” he said. “In a few days’ time you shall begin your journey.”
 
-‘Your dark-grey mare,’ said Keda, ‘how shall I return her to you, father?’
+“Your dark-grey mare,” said Keda, “how shall I return her to you, father?”
 
-‘She will return,’ he replied, ‘alone. When you are near to the Dwellings, set her free and she will turn and leave you.’
+“She will return,” he replied, “alone. When you are near to the Dwellings, set her free and she will turn and leave you.”
 
-She took her hand from his arm and walked to her room. All night long the voice of a little wind among the reeds cried: ‘*Soon, soon, soon*.’
+She took her hand from his arm and walked to her room. All night long the voice of a little wind among the reeds cried: “*Soon, soon, soon*.”
 
 On the fifth day he helped her to the rough blanket saddle. Upon the mare’s broad back were slung two baskets of loaves and other provender. Her path lay to the north of the cabin, and she turned for a moment before the mare moved away to take a last look at the scene before her. The stony field beyond the high trees. The roofless house, and to her west, the hillocks of pale hair, and beyond the hillocks the distant woods. She looked her last upon the rough grass enclosure; the well, and the tree which cast its long shadow. She looked her last at the white goat with its head of snow. It was sitting with one frail white foreleg curled to its heart.
 
-‘No harm will come to you. You are beyond the power of harm. You will not hear their voices. You will bear your child, and when the time has come you will make an end of all things.’
+“No harm will come to you. You are beyond the power of harm. You will not hear their voices. You will bear your child, and when the time has come you will make an end of all things.”
 
-Keda turned her eyes to him. ‘I am happy, father. I am happy. I know what to do.’
+Keda turned her eyes to him. “I am happy, father. I am happy. I know what to do.”
 
 The grey mare stepped forward into darkness beneath trees, and pacing with a strange deliberation turned eastwards along a green path between banks of fern. Keda sat very still and very upright with her hands in her lap while they drew nearer with every pace to Gormenghast and the homes of the Bright Carvers.
 
@@ -5417,11 +5417,11 @@ The chef opens the door and the double line freezes.
 
 He approaches them, wiping his hands upon his silken buttocks as he moves forward. He impends above them like a dome of cloud.
 
-‘Flycrake,’ he says, and the word issues from his lips as though it were drawn through a filter of sedge, ‘there is room for you, Flycrake, in the shadow of my paunch, and bring your hairy friend with you—there is room for him as well I shouldn’t wonder.’
+“Flycrake,” he says, and the word issues from his lips as though it were drawn through a filter of sedge, “there is room for you, Flycrake, in the shadow of my paunch, and bring your hairy friend with you—there is room for him as well I shouldn’t wonder.”
 
 The two boys creep forward, their eyes very wide, their teeth chattering.
 
-‘You were talking, were you not? You were talking even more garrulously than your teeth are now chattering. Am I wrong? No? Then come a little nearer; I should hate to have any trouble in reaching you. You wouldn’t like to cause me any trouble, would you? Am I right in saying that you would not like to give me trouble, Master Flycrake? Master Wrenpatch?’ He does not listen for an answer, but yawns, his face opening lewdly upon regions compared with which nudity becomes a milliner’s invention. As the yawn ends and without a suspicion of warning, his two hands swing forward simultaneously and he catches the two little wretches by their ears and lifts them high into the air. What he would have done with them will never be known, for at the very moment when the hanging apprentices are lifted about the level of Swelter’s throat, a bell begins to jangle discordantly through the steamy air. It is very seldom that this bell is heard, for the rope from which it is suspended, after disappearing through a hole in the ceiling of the Great Kitchen, moves secretly among rafters, winding to and fro in the obscure, dust-smelling regions that brood between the ceiling of the ground rooms and the floor boards of the first storey. After having been re-knotted many times, it finally emerges through a wall in Lord Sepulchrave’s bedroom. It is very rarely that his Lordship has any need to interview his chef, and the bell as it swings wildly above the heads of the apprentices can be seen throwing from off its iron body the dust of four seasons.
+“You were talking, were you not? You were talking even more garrulously than your teeth are now chattering. Am I wrong? No? Then come a little nearer; I should hate to have any trouble in reaching you. You wouldn’t like to cause me any trouble, would you? Am I right in saying that you would not like to give me trouble, Master Flycrake? Master Wrenpatch?” He does not listen for an answer, but yawns, his face opening lewdly upon regions compared with which nudity becomes a milliner’s invention. As the yawn ends and without a suspicion of warning, his two hands swing forward simultaneously and he catches the two little wretches by their ears and lifts them high into the air. What he would have done with them will never be known, for at the very moment when the hanging apprentices are lifted about the level of Swelter’s throat, a bell begins to jangle discordantly through the steamy air. It is very seldom that this bell is heard, for the rope from which it is suspended, after disappearing through a hole in the ceiling of the Great Kitchen, moves secretly among rafters, winding to and fro in the obscure, dust-smelling regions that brood between the ceiling of the ground rooms and the floor boards of the first storey. After having been re-knotted many times, it finally emerges through a wall in Lord Sepulchrave’s bedroom. It is very rarely that his Lordship has any need to interview his chef, and the bell as it swings wildly above the heads of the apprentices can be seen throwing from off its iron body the dust of four seasons.
 
 Swelter’s face changes at the first iron clang of the forgotten bell. The gloating and self-indulgent folds of face-fat redistribute themselves and a sycophantism oozes from his every pore. But only for a moment is he thus, his ears gulping at the sound of iron; for all at once he drops Flycrake and Wrenpatch to the stone slabs, surges from the room, his flat feet sucking at the stones like porridge.
 
@@ -5437,7 +5437,7 @@ Swelter’s eyes meet those of his enemy, and never was there held between four 
 
 For a moment the two men are quite still, for Flay has not yet drawn breath after hissing through his teeth. Then, itching to get to his master he brings his sharp, splintery knee up suddenly beneath the balloon-like overhang of the chefs abdomen. Swelter, his face contracting with pain and whitening so that his blanched uniform becomes grey against his neck, raises his great arms in a clawing motion as his body doubles involuntarily for relief. As he straightens himself, and as Flay makes an effort to get past him to the door, with a jabbing movement of his shoulder, they are both frozen to the spot with a cry more dreadful than before, the long, dolorous cry of the death-owl, and the voice of Fuchsia, a voice that seems to be fighting through tears and terror, cries loudly:
 
-‘My father! My father! Be silent and it will be better, and I will take care of you. Look at me, father! Oh, look at me! I know what you want because I *do* know, father—I *do* know, and I will take you there when it is dark and then you will be better.—But look at me, father—look at me.’
+“My father! My father! Be silent and it will be better, and I will take care of you. Look at me, father! Oh, look at me! I know what you want because I *do* know, father—I *do* know, and I will take you there when it is dark and then you will be better.—But look at me, father—look at me.”
 
 But the Earl will not look at her. He is sitting huddled in the centre of the broad carven mantelpiece, his head below the level of his shoulders. Fuchsia, standing below him with her hands shaking as they grip the marble of the mantel, tilts herself towards him. Her strong back is hollowed, her head is thrown back and her throat taut. Yet she dare not touch him. The austerity of the many years that lay behind them—the chill of the mutual reserve they had always shown to one another, is like a wall between them even now. It seemed as though that wall were crumbling and that their frozen love was beginning to thaw and percolate through the crevices, but now, when it is most needed and most felt, the wall has closed again and Fuchsia dares not touch him. Nor dare she admit to herself that her father has become possessed.
 
@@ -5449,77 +5449,77 @@ His Lordship is dressed in black. His knees are drawn up almost to his chin. His
 
 Suddenly a voice comes from the mouth. It is very quiet:
 
-‘Chef.’
+“Chef.”
 
-‘Your Lordship?’ says Swelter trembling.
+“Your Lordship?” says Swelter trembling.
 
-‘How many traps have you in the Great Kitchen?’
+“How many traps have you in the Great Kitchen?”
 
 Swelter’s eyes shift to left and right and his mouth opens, but he can make no sound.
 
-‘Come, Chef, you must know how many traps are set every night—or have you become slovenly?’
+“Come, Chef, you must know how many traps are set every night—or have you become slovenly?”
 
 Swelter holds his podgy hands together. They tremble before him as he works his fingers between one another.
 
-‘Sir,’ says Swelter . . . ‘there must be forty traps in the Great Kitchen . . . forty traps, your gracious Lordship.’
+“Sir,” says Swelter . . . “there must be forty traps in the Great Kitchen . . . forty traps, your gracious Lordship.”
 
-‘How many were found in the traps at five o’clock today? Answer me.’
+“How many were found in the traps at five o’clock today? Answer me.”
 
-‘They were all full, your Lordship—all except one, sir.’
+“They were all full, your Lordship—all except one, sir.”
 
-‘Have the cats had them?’
+“Have the cats had them?”
 
-‘The . . . the cats, your—’
+“The . . . the cats, your—”
 
-‘I said, have the cats had them?’ repeats Lord Sepulchrave sadly.
+“I said, have the cats had them?” repeats Lord Sepulchrave sadly.
 
-‘Not yet,’ says the Chef. ‘Not yet.’
+“Not yet,” says the Chef. “Not yet.”
 
-‘Then bring me one . . . bring me a plump one . . . immediately. What are you waiting for, Mr Chef? . . . What are you waiting for?’
+“Then bring me one . . . bring me a plump one . . . immediately. What are you waiting for, Mr Chef? . . . What are you waiting for?”
 
-Swelter’s lips move wetly. ‘A plump one,’ he says. ‘Yes, my Lord . . . a . . . plump . . . one.’
+Swelter’s lips move wetly. “A plump one,” he says. “Yes, my Lord . . . a . . . plump . . . one.”
 
-As soon as he has disappeared the voice goes on: ‘Some twigs, Mr Flay, some twigs at once. Twigs of all sizes, do you understand? From small branches downwards in size—every kind of shape, Flay, every kind of shape, for I shall study each in turn and understand the twigs I build with, for I must be as clever as the others with my twigs, though we are careless workmen. What are you waiting for, Mr Flay? . . .’
+As soon as he has disappeared the voice goes on: “Some twigs, Mr Flay, some twigs at once. Twigs of all sizes, do you understand? From small branches downwards in size—every kind of shape, Flay, every kind of shape, for I shall study each in turn and understand the twigs I build with, for I must be as clever as the others with my twigs, though we are careless workmen. What are you waiting for, Mr Flay? . . .”
 
 Flay looks up. He has been unable to keep his eyes on the transformed aspect of his master, but now he lifts them again. He can recognize no expression. The mouth might as well not be there. The fine aquiline nose appears to be more forceful and the saucer-like shape of the eyes hold within either sky a vacant moon.
 
 With a sudden awkward movement Flay plucks Fuchsia from the floor and flings her over his high shoulder and, turning, he staggers to the door and is soon among the passages.
 
-‘I must go back, I must go back to him!’ Fuchsia gasps.
+“I must go back, I must go back to him!” Fuchsia gasps.
 
 Flay only makes a noise in his throat and strides on.
 
 At first Fuchsia begins to struggle, but she has no strength left for the dreadful scene has unnerved her and she subsides over his shoulder, not knowing where she is being taken. Nor does Flay know where he is taking her. They have reached the east quadrangle and have come out into the early morning when Fuchsia lifts her head.
 
-‘Flay,’ she says, ‘we must find Doctor Prune at once. I can walk, please, now. Thank you, Flay, but be quick. Be quick. Put me down.’
+“Flay,” she says, “we must find Doctor Prune at once. I can walk, please, now. Thank you, Flay, but be quick. Be quick. Put me down.”
 
 Flay eases her off his shoulder and she drops to the ground. Fuchsia has seen the Doctor’s house in the corner of the quadrangle and she cannot understand why she had not thought of him before. Fuchsia begins to run, and directly she is at the Doctor’s front door she beats it violently with the knocker. The sun is beginning to rise above the marshes and picks out a long gutter and a cornice of the Doctor’s house, and presently, after Fuchsia has slammed at the door again, it picks out the extraordinary headpiece of Prunesquallor himself as it emerges sleepily through a high window. He cannot see what is below him in the shadows, but calls out:
 
-‘In the name of modesty and of all who slumber, go easy with that knocker! What in the world is it? . . . Answer me. What is it, I repeat? . . . Is it the plague that has descended on Gormenghast—or a forceps case? Is it a return of midnight-mange, or merely flesh-death? Does the patient rave? . . . Is he fat or thin? . . . Is he drunk or mad? . . . Is he . . .’ The Doctor yawns and it is then that Fuchsia has her first chance to speak:
+“In the name of modesty and of all who slumber, go easy with that knocker! What in the world is it? . . . Answer me. What is it, I repeat? . . . Is it the plague that has descended on Gormenghast—or a forceps case? Is it a return of midnight-mange, or merely flesh-death? Does the patient rave? . . . Is he fat or thin? . . . Is he drunk or mad? . . . Is he . . .” The Doctor yawns and it is then that Fuchsia has her first chance to speak:
 
-‘Yes, oh yes! Come quickly, Doctor Prune! Let me tell you. Oh, please, let me tell you!’
+“Yes, oh yes! Come quickly, Doctor Prune! Let me tell you. Oh, please, let me tell you!”
 
-The high voice at the sill cries: ‘Fuchsia!’ as though to itself. ‘Fuchsia!’ And the window comes down with a crash.
+The high voice at the sill cries: “Fuchsia!” as though to itself. “Fuchsia!” And the window comes down with a crash.
 
 Flay moves to the girl and almost before he has done so the front door is flung open and Doctor Prunesquallor in his flowered pyjamas is facing them.
 
 Taking Fuchsia by the hand and motioning Flay to follow he minces rapidly to the living room.
 
-‘Sit down, sit down, my frantic one!’ cries Prunesquallor. ‘What the devil is it? Tell the old Prune all about it.’
+“Sit down, sit down, my frantic one!” cries Prunesquallor. “What the devil is it? Tell the old Prune all about it.”
 
-‘It’s father,’ says Fuchsia, the tears finding release at long last. ‘Father’s become wrong, Doctor Prune; Father’s become all wrong . . . Oh, Doctor Prune, he is a black owl now . . . Oh, Doctor. Help him! Help him!’
+“It’s father,” says Fuchsia, the tears finding release at long last. “Father’s become wrong, Doctor Prune; Father’s become all wrong . . . Oh, Doctor Prune, he is a black owl now . . . Oh, Doctor. Help him! Help him!”
 
-The Doctor does not speak. He turns his pink, over-sensitive, intelligent head sharply in the direction of Flay, who nods and comes forward a step, with the report of a knee-joint. Then he nods again, his jaw working. ‘Owl,’ he says. ‘Wants mice! . . . Wants twigs: on mantelpiece! Hooting! Lordship’s mad.’
+The Doctor does not speak. He turns his pink, over-sensitive, intelligent head sharply in the direction of Flay, who nods and comes forward a step, with the report of a knee-joint. Then he nods again, his jaw working. “Owl,” he says. “Wants mice! . . . Wants twigs: on mantelpiece! Hooting! Lordship’s mad.”
 
-‘No!’ shouts Fuchsia. ‘He’s ill, Doctor Prune. That’s all. His library’s been burned. His beautiful library; and he’s become ill. But he’s not mad. He talks so quietly. Oh, Doctor Prune, what are you going to do?’
+“No!” shouts Fuchsia. “He’s ill, Doctor Prune. That’s all. His library’s been burned. His beautiful library; and he’s become ill. But he’s not mad. He talks so quietly. Oh, Doctor Prune, what are you going to do?”
 
-‘Did you leave him in his room?’ says the Doctor, and it does not seem to be the same man speaking.
+“Did you leave him in his room?” says the Doctor, and it does not seem to be the same man speaking.
 
 Fuchsia nods her tear-wet head.
 
-‘Stay here,’ says the Doctor quietly; as he speaks he is away and within a few moments has returned in a lime-green dressing-gown with lime-green slippers to match, and in his hand, a bag.
+“Stay here,” says the Doctor quietly; as he speaks he is away and within a few moments has returned in a lime-green dressing-gown with lime-green slippers to match, and in his hand, a bag.
 
-‘Fuchsia dear, send Steerpike to me, in your father’s room. He is quick-witted and may be of help. Flay, get about your duties. The Breakfast must proceed, as you know. Now then, my gipsy-child; death or glory.’ And with the highest and most irresponsible of trills he vanishes through the door.
+“Fuchsia dear, send Steerpike to me, in your father’s room. He is quick-witted and may be of help. Flay, get about your duties. The Breakfast must proceed, as you know. Now then, my gipsy-child; death or glory.” And with the highest and most irresponsible of trills he vanishes through the door.
 
 ## A CHANGE OF COLOUR
 
@@ -5527,105 +5527,105 @@ The morning light is strengthening, and the hour of the Great Breakfast approach
 
 *
 
-Mrs Slagg is in the bedroom of the Countess, who is piling her rust-coloured hair above her head as though she were building a castle. Every now and again Mrs Slagg peers furtively at the bulk before the mirror, but her attention is chiefly centred upon an object on the bed. It is wrapped in a length of lavender-coloured velvet, and little porcelain bells are pinned here and there all over it. One end of a golden chain is attached to the velvet near the centre of what has become, through process of winding, a small velvet cylinder, or mummy, measuring some three and a half feet in length and with a diameter of about eighteen inches. At the other end of the chain and lying on the bed beside the lavender roll is a sword with a heavy blade of blue-black steel and a hilt embossed with the letter ‘G’. This sword is attached to the gold chain with a piece of string.
+Mrs Slagg is in the bedroom of the Countess, who is piling her rust-coloured hair above her head as though she were building a castle. Every now and again Mrs Slagg peers furtively at the bulk before the mirror, but her attention is chiefly centred upon an object on the bed. It is wrapped in a length of lavender-coloured velvet, and little porcelain bells are pinned here and there all over it. One end of a golden chain is attached to the velvet near the centre of what has become, through process of winding, a small velvet cylinder, or mummy, measuring some three and a half feet in length and with a diameter of about eighteen inches. At the other end of the chain and lying on the bed beside the lavender roll is a sword with a heavy blade of blue-black steel and a hilt embossed with the letter “G”. This sword is attached to the gold chain with a piece of string.
 
 Mrs Slagg dabs a little powder upon something that moves in the shadow at one end of the roll, and then peers about her, for it is hard for her to see what she is doing, the shadows in the bedroom of the Countess are of so dark a breed. Between their red rims her eyes wander here and there before she bends over Titus and plucks at her underlip. Again her eyes peer up at the Countess, who seems to have grown tired of her hair, the edifice being left unfinished as though some fitful architect had died before the completion of a bizarre edifice which no one else knew how to complete. Mrs Slagg moves from the bedside in little half-running, half-walking steps, and from the table beneath the candelabra plucks a candle that is waxed to the wood among the birdseed, and, lighting it from a guttering torso of tallow that stands by, she returns to the lavender cylinder which has begun to twist and turn.
 
 Her hand is unsteady as she lifts the wax above the head of Titus, and the wavering flame makes it leap. His eyes are very wide open. As he sees the light his mouth puckers and works, and the heart of the earth contracts with love as he totters at the wellhead of tears. His little body writhes in its dreadful bolster and one of the porcelain bells chimes sweetly.
 
-‘Slagg,’ said the Countess in a voice of husk.
+“Slagg,” said the Countess in a voice of husk.
 
 Nannie, who is as light as a feather, starts into the air an inch or two at the sudden sound, and comes to earth again with a painful jarring of her little arid ankles; but she does not cry out, for she is biting her lower lip while her eyes cloud over. She does not know what she has done wrong and she has done nothing wrong, but there is always a feeling of guilt about her when she shares a room with the Countess. This is partly due to the fact that she irritates the Countess, and the nurse can sense this all the while. So it is in a thin and tremulous voice that she stammers:
 
-‘Yes, oh yes, Ladyship? Yes . . . yes, your Ladyship?’
+“Yes, oh yes, Ladyship? Yes . . . yes, your Ladyship?”
 
 The Countess does not turn her head to speak, but stares past herself in the cracked mirror, her elbows resting on the table, her head supported in the cups of her hands.
 
-‘Is the child ready?’
+“Is the child ready?”
 
-‘Yes, yes, just ready, just ready. Ready now, your Ladyship, bless his little smallness . . . yes . . . yes . . .’
+“Yes, yes, just ready, just ready. Ready now, your Ladyship, bless his little smallness . . . yes . . . yes . . .”
 
-‘Is the sword fixed?’
+“Is the sword fixed?”
 
-‘Yes, yes, the sword, the—’
+“Yes, yes, the sword, the—”
 
-She is about to say ‘the horrid, black sword’, but she checks herself nervously, for who is she to express her feeling when ritual is involved? ‘But it’s so *hot* for him,’ she continues hurriedly, ‘so hot for his little body in all this velvet—though, of course,’ she adds, a stupid little smile working in and out of the wrinkles of her lips, ‘it’s very pretty.’
+She is about to say “the horrid, black sword”, but she checks herself nervously, for who is she to express her feeling when ritual is involved? “But it’s so *hot* for him,” she continues hurriedly, “so hot for his little body in all this velvet—though, of course,” she adds, a stupid little smile working in and out of the wrinkles of her lips, “it’s very pretty.”
 
-The Countess turns slowly in her chair. ‘Slagg,’ she says, ‘come over here, Slagg.’
+The Countess turns slowly in her chair. “Slagg,” she says, “come over here, Slagg.”
 
 The old woman, her heart beating wildly, patters her way around the bed and stands by the dressing-table. She clasps her hands together on her flat chest and her eyes are wide open.
 
-‘Have you still no idea of how to answer even simple questions?’ asks the Countess very slowly.
+“Have you still no idea of how to answer even simple questions?” asks the Countess very slowly.
 
-Nannie shakes her head, but suddenly a red spot appears in either cheek. ‘I *can* answer questions, I *can*!’ she cries, startling herself with her own ineffectual vehemence.
+Nannie shakes her head, but suddenly a red spot appears in either cheek. “I *can* answer questions, I *can*!” she cries, startling herself with her own ineffectual vehemence.
 
-The Countess does not seem to have heard her. ‘Try and answer *this* one,’ she murmers.
+The Countess does not seem to have heard her. “Try and answer *this* one,” she murmers.
 
 Mrs Slagg cocks her head on one side and listens like a grey bird.
 
-‘Are you attending, Slagg?’
+“Are you attending, Slagg?”
 
 Nannie nods her head as though suffering from palsy.
 
-‘Where did you meet that youth?’ There is a moment’s silence.
+“Where did you meet that youth?” There is a moment’s silence.
 
-‘That Steerpike?’ the Countess adds.
+“That Steerpike?” the Countess adds.
 
-‘Long ago,’ says Nannie, and closes her eyes as she waits for the next question. She feels pleased with herself.
+“Long ago,” says Nannie, and closes her eyes as she waits for the next question. She feels pleased with herself.
 
-‘*Where* is what I said: *where*, not *when*,’ booms the voice.
+“*Where* is what I said: *where*, not *when*,” booms the voice.
 
 Mrs Slagg tries to gather her thoughts together. Where? Oh, where was it? she wondered. It was long ago . . . And then she recalled how he had appeared with Fuchsia suddenly at the door of her room.
 
-‘With Fuchsia . . . Oh, yis . . . yis, it was with my Fuchsia, your Ladyship.’
+“With Fuchsia . . . Oh, yis . . . yis, it was with my Fuchsia, your Ladyship.”
 
-‘Where does he come from? Answer me, Slagg, and then finish my hair.’
+“Where does he come from? Answer me, Slagg, and then finish my hair.”
 
-‘I never do know . . . No, not ever . . . I have never been told. Oh, my poor heart, no. Where *could* the boy come from?’ She peers at the dark bulk above her.
+“I never do know . . . No, not ever . . . I have never been told. Oh, my poor heart, no. Where *could* the boy come from?” She peers at the dark bulk above her.
 
-Lady Gertrude wipes the palm of her hand slowly across her brow. ‘You are the same Slagg,’ she says, ‘the same brilliant Slagg.’
+Lady Gertrude wipes the palm of her hand slowly across her brow. “You are the same Slagg,” she says, “the same brilliant Slagg.”
 
 Nannie begins to cry, wishing desperately that she were clever.
 
-‘No use crying,’ says the Countess. ‘No use. No use. My birds don’t cry. Not very often. Were you at the fire?’
+“No use crying,” says the Countess. “No use. No use. My birds don’t cry. Not very often. Were you at the fire?”
 
-The word ‘fire’ is terrible to Mrs Slagg. She clutches her hands together. Her bleary eyes grow wild. Her lips tremble, for in her imagination she can see the great flames rising about her.
+The word “fire” is terrible to Mrs Slagg. She clutches her hands together. Her bleary eyes grow wild. Her lips tremble, for in her imagination she can see the great flames rising about her.
 
-‘Finish my hair, Nannie Slagg. Stand on a chair and do it.’
+“Finish my hair, Nannie Slagg. Stand on a chair and do it.”
 
 Nannie turns to find a chair. The room is like a shipwreck. The red walls glower in the candlelight. The old woman patters her way between stalactites of tallow, boxes and old sofas. The Countess whistles and a moment later the room is alive with wings. By the time Mrs Slagg has dragged a chair to the dressing-table and climbed upon it, the Countess is deep in conversation with a magpie. Nannie disapproves of birds altogether and cannot reconcile the habits of the Countess with the House of Groan, but she is used to such things, not being over seventy years old for nothing. Bending a little over her ladyship’s locks she works with difficulty to complete the hirsute cornice, for the light is bad.
 
-‘Now then, darling, now then,’ says the heavy voice below her, and her old body thrills, for she has never known the Countess speak to her in such a way before; but glancing over the mountainous shoulder she sees that the Countess is talking to a bedraggled finch and Nannie Slagg is desolate.
+“Now then, darling, now then,” says the heavy voice below her, and her old body thrills, for she has never known the Countess speak to her in such a way before; but glancing over the mountainous shoulder she sees that the Countess is talking to a bedraggled finch and Nannie Slagg is desolate.
 
-‘So Fuchsia was the first to find him, was she?’ says the Countess, rubbing her finger along the finch’s throat.
+“So Fuchsia was the first to find him, was she?” says the Countess, rubbing her finger along the finch’s throat.
 
-Mrs Slagg, startled, as she always is when anyone speaks, fumbles with the red hank in her hand. ‘Who? Oh, who do you mean . . . your Ladyship? . . . Oh, she’s always a good girl, Fuchsia is, yis, yis, *always*.’
+Mrs Slagg, startled, as she always is when anyone speaks, fumbles with the red hank in her hand. “Who? Oh, who do you mean . . . your Ladyship? . . . Oh, she’s always a good girl, Fuchsia is, yis, yis, *always*.”
 
-The Countess gets to her feet in a monumental way, brushing several objects from the dressing-table to the floor with her elbow. As she rises she hears the sound of sobbing and turns her head to the lavender roll. ‘Go away, Slagg—go away, and take him with you. Is Fuchsia dressed?’
+The Countess gets to her feet in a monumental way, brushing several objects from the dressing-table to the floor with her elbow. As she rises she hears the sound of sobbing and turns her head to the lavender roll. “Go away, Slagg—go away, and take him with you. Is Fuchsia dressed?”
 
-‘Yis . . . oh, my poor heart, yis . . . Fuchsia is all ready, yis, quite ready, and waiting in her room. Oh yis, she is . . .’
+“Yis . . . oh, my poor heart, yis . . . Fuchsia is all ready, yis, quite ready, and waiting in her room. Oh yis, she is . . .”
 
-‘His Breakfast will soon be beginning,’ says the Countess, turning her eyes from a brass clock to her infant son. ‘Very soon.’
+“His Breakfast will soon be beginning,” says the Countess, turning her eyes from a brass clock to her infant son. “Very soon.”
 
-Nannie, who has recovered Titus from the fastnesses of the bed, stops at the door before pattering out into the dawn-lit corridor. Her eyes stare back almost triumphantly and a little pathetic smile works at the crinkled corners of her mouth. ‘*His* Breakfast,’ she whispers. ‘Oh, my weak heart, his *first* Breakfast.’
+Nannie, who has recovered Titus from the fastnesses of the bed, stops at the door before pattering out into the dawn-lit corridor. Her eyes stare back almost triumphantly and a little pathetic smile works at the crinkled corners of her mouth. “*His* Breakfast,” she whispers. “Oh, my weak heart, his *first* Breakfast.”
 
 *
 
 Steerpike has been found at last, Fuchsia colliding with him as he rounds a corner of the staircase on his way down from the aunts. He is very sprucely dressed, his high shoulders without a speck of dust upon them, his finger-nails pared, his hair smoothed down over his pasty-coloured forehead. He is surprised to see Fuchsia, but he does not show it, merely raising his eyebrows in an expression both inquiring and deferential at the same time.
 
-‘You are up very early, Lady Fuchsia.’
+“You are up very early, Lady Fuchsia.”
 
-Fuchsia, her breast heaving from her long run up the stairs, cannot speak for a moment or two; then she says: ‘Doctor Prune wants you.’
+Fuchsia, her breast heaving from her long run up the stairs, cannot speak for a moment or two; then she says: “Doctor Prune wants you.”
 
-‘Why me?’ says the youth to himself; but aloud he said: ‘Where is he?’
+“Why me?” says the youth to himself; but aloud he said: “Where is he?”
 
-‘In my father’s room.’
+“In my father’s room.”
 
-Steerpike licks his lips slowly. ‘Is your father ill?’
+Steerpike licks his lips slowly. “Is your father ill?”
 
-‘Yes, oh yes, very ill.’
+“Yes, oh yes, very ill.”
 
-Steerpike turns his head away from Fuchsia, for the muscles of his face cry out to relax. He gives them a free rein and then, straightening his face and turning to Fuchsia, he says: ‘Everything I can do I will do.’ Suddenly, with the utmost nimbleness, he skips past her, jumping the first four steps together, and races down the stone flight on his way to the Earl’s bedroom.
+Steerpike turns his head away from Fuchsia, for the muscles of his face cry out to relax. He gives them a free rein and then, straightening his face and turning to Fuchsia, he says: “Everything I can do I will do.” Suddenly, with the utmost nimbleness, he skips past her, jumping the first four steps together, and races down the stone flight on his way to the Earl’s bedroom.
 
 He has not seen the Doctor for some time. Having left his service their relationship is a little strained, but this morning as he enters at the Earl’s door he can see there will be neither space nor time for reminiscences in his own or the Doctor’s brain.
 
@@ -5637,21 +5637,21 @@ The Doctor has been waiting for this moment. Prancing forward he reaches up with
 
 Steerpike holds the dark figure down with one hand, for there is no attempt to escape, and the Doctor flicks a slim needle into his Lordship’s wrist and injects a drug of such weird potency that when they turn the patient over Steerpike is startled to see that the face has changed to a kind of chalky green. But the eyes have altered also and are once more the sober, thoughtful, human eyes which the Castle knew so well. His fingers have uncurled; the claws are gone.
 
-‘Be so good as to draw the blind,’ says the Doctor, raising himself to his full height beside the bed, and returning his needle to its little silver case. This done, he taps the points of his long white fingers together thoughtfully. With the blinds drawn across the sunrise the colour of his lordship’s face is mercifully modified.
+“Be so good as to draw the blind,” says the Doctor, raising himself to his full height beside the bed, and returning his needle to its little silver case. This done, he taps the points of his long white fingers together thoughtfully. With the blinds drawn across the sunrise the colour of his lordship’s face is mercifully modified.
 
-‘That was quick work, Doctor.’
+“That was quick work, Doctor.”
 
-Steerpike is balancing upon his heels. ‘What happens next?’ He clicks his tongue ruminatively as he waits for Prunesquallor’s answer. ‘What was the drug you used, Doctor?’
+Steerpike is balancing upon his heels. “What happens next?” He clicks his tongue ruminatively as he waits for Prunesquallor’s answer. “What was the drug you used, Doctor?”
 
-‘I am not in the mood to answer questions, dear boy,’ replies Prunesquallor, showing Steerpike the whole range of his teeth, but in a mirthless way. ‘Not at all in the mood.’
+“I am not in the mood to answer questions, dear boy,” replies Prunesquallor, showing Steerpike the whole range of his teeth, but in a mirthless way. “Not at all in the mood.”
 
-‘What about the Breakfast?’ says Steerpike, unabashed.
+“What about the Breakfast?” says Steerpike, unabashed.
 
-‘His Lordship will *be* at the Breakfast.’
+“His Lordship will *be* at the Breakfast.”
 
-‘Will he, though?’ says the youth, peering at the face. ‘What about his colour?’
+“Will he, though?” says the youth, peering at the face. “What about his colour?”
 
-‘In half an hour his skin will have returned to normal. He will be there . . . Now, fetch me Flay and some boiling water, a towel. He must be washed and dressed. Quickly now.’
+“In half an hour his skin will have returned to normal. He will be there . . . Now, fetch me Flay and some boiling water, a towel. He must be washed and dressed. Quickly now.”
 
 Before Steerpike leaves the room he bends over Lord Sepulchrave, whistling tunelessly between his teeth. The Earl’s eyes are closed and there is a tranquillity about his face which has been absent for many years.
 
@@ -5659,13 +5659,13 @@ Before Steerpike leaves the room he bends over Lord Sepulchrave, whistling tunel
 
 Steerpike has some difficulty in finding Flay, but he comes across him at last in the blue-carpeted Room of Cats, whose sunlit pile they had trodden together under very different circumstances a year ago. Flay has just reappeared from the Stone Lanes and looks very bedraggled, a long dirty hank of cobweb hanging over his shoulder. When he sees Steerpike his lips curl back like a wolf’s.
 
-‘What you want?’ he says.
+“What you want?” he says.
 
-‘How’s Flay?’ says Steerpike.
+“How’s Flay?” says Steerpike.
 
 The cats are crowded upon one enormous ottoman with its carven head and footpiece rising into the air in a tangle of gilded tracery as though two toppling waves at sunset were suspended in mid-air, the hollow between them filled with foam. There is no sound from them and they do not move.
 
-‘The Earl wants you,’ continues Steerpike, enjoying Flay’s discomfort. He does not know whether Flay has any knowledge of what is happening to his master.
+“The Earl wants you,” continues Steerpike, enjoying Flay’s discomfort. He does not know whether Flay has any knowledge of what is happening to his master.
 
 Flay involuntarily propels his gawky body forwards as he hears that his Lordship wants him, but he pulls himself up at the end of his first long step towards the door, and peers even more suspiciously and acidly at the youth in his immaculate black cloth.
 
@@ -5683,23 +5683,23 @@ Flay waits as she approaches. His bony head is quite still. His loose hands hang
 
 She is standing within a foot of him. The air is heavy with her presence.
 
-Her voice is very husky when she speaks. ‘I was going to strike him down,’ she says heavily. ‘That is what I intended to do with him. To break him.’
+Her voice is very husky when she speaks. “I was going to strike him down,” she says heavily. “That is what I intended to do with him. To break him.”
 
 He lifts his eyes. The white cat is within a few inches of him. He watches the hairs of its back; each one has become a bristle and the back is a hummock of sharp white grass.
 
-The Countess begins to talk again in a louder voice, but it has become so choked that Flay cannot understand what she is saying. At last he can make out the words: ‘You are no more, no more at all. You are ended.’
+The Countess begins to talk again in a louder voice, but it has become so choked that Flay cannot understand what she is saying. At last he can make out the words: “You are no more, no more at all. You are ended.”
 
-Her hand, as it moves gently over the body of the white cat, is trembling uncontrollably. ‘I have finished with you,’ she says. ‘Gormenghast has finished with you.’ It is hard for her to draw the words from her great throat ‘You are over . . . over.’ Suddenly she raises her voice. ‘Crude fool!’ she cries. ‘Crude, broken fool and brute! Out! Out! The Castle throws you. *Go!*’ she roars, her hands upon the cat’s breast. ‘Your long bones sicken me.’
+Her hand, as it moves gently over the body of the white cat, is trembling uncontrollably. “I have finished with you,” she says. “Gormenghast has finished with you.” It is hard for her to draw the words from her great throat “You are over . . . over.” Suddenly she raises her voice. “Crude fool!” she cries. “Crude, broken fool and brute! Out! Out! The Castle throws you. *Go!*” she roars, her hands upon the cat’s breast. “Your long bones sicken me.”
 
 Flay lifts his small bony head higher into the air. He cannot comprehend what has happened. All he knows is that it is more dreadful than he can feel, for a kind of numbness is closing in on his horror like a padding. There is a greenish sheen across the shoulders of his greasy black suit, for the morning light has of a sudden begun to dance through the bay window. Steerpike, with a blood-drenched handkerchief wound about his face, is staring at him and tapping the top of a table with his nails. He cannot help but feel that there is something very fine about the old creature’s head. And he had been very quick. Very quick indeed. Something to remember, that: cats for missiles.
 
-Flay moved his little eyes around the room. The floor is alive and white behind the Countess, around whose feet lies the stilled froth of a tropic tide, the azure carpet showing now here and now there. He feels he is looking at it for the last time and turns to go, but as he turns he thinks of the Breakfast. He is surprised to hear his own mirthless voice saying: ‘Breakfast.’
+Flay moved his little eyes around the room. The floor is alive and white behind the Countess, around whose feet lies the stilled froth of a tropic tide, the azure carpet showing now here and now there. He feels he is looking at it for the last time and turns to go, but as he turns he thinks of the Breakfast. He is surprised to hear his own mirthless voice saying: “Breakfast.”
 
 The Countess knows that her husband’s first servant must be at the Breakfast. Had he killed every white cat in the world he must still be at the Breakfast in honour of Titus, the 77th Earl of Gormenghast, to be. Such things are cardinal.
 
 The Countess turns herself about and moves to the bay window after making a slow *détour* of the room and picking up from a rack near the fireplace a heavy iron poker. As she reaches the window her right arm swings slowly back and forward with the deliberation of a shire-mare’s bearded hoof as it falls into a rainpool. There is a startling split and crash, a loud cascading of glass upon the flagstones outside the window, and then silence.
 
-With her back to the room she stares through the star-shaped gap in the glass. Before her spreads the green lawn. She is watching the sun breaking through the distant cedars. It is the day of her son’s Breakfast. She turns her head. ‘You have a week,’ she says, ‘and then you leave these walls. A servant shall be found for the Earl.’
+With her back to the room she stares through the star-shaped gap in the glass. Before her spreads the green lawn. She is watching the sun breaking through the distant cedars. It is the day of her son’s Breakfast. She turns her head. “You have a week,” she says, “and then you leave these walls. A servant shall be found for the Earl.”
 
 Steerpike lifts his head, and for a moment he ceases to drum on the woodwork with his finger-nails. As he starts tapping again, a kestrel, sweeping through the star of the shattered pane, alights on the shoulder of the Countess. She winces as its talons for a moment close, but her eyes soften.
 
@@ -5715,49 +5715,49 @@ Steerpike, who is on his way back to the Earl’s bedroom, stops a moment at a s
 
 The Countess hears it as she stares through the jagged star in the bay window. Prunesquallor hears it as he balances the Earl upon his feet at the side of the bed. The Earl must have heard it, too, for he takes a step of his own volition towards the centre of the room. His own face has returned.
 
-‘Was that thunder, Doctor?’ he says.
+“Was that thunder, Doctor?” he says.
 
 The Doctor watches him very carefully, watches his every movement, though few would have guessed how intently he was studying his patient had they seen his long ingenious mouth open with customary gaiety.
 
-‘Thunder it was, your Lordship. A most prodigious peal. I am waiting for the martial chords which must surely follow such an opening, what? Ha, ha, ha, ha, ha!’
+“Thunder it was, your Lordship. A most prodigious peal. I am waiting for the martial chords which must surely follow such an opening, what? Ha, ha, ha, ha, ha!”
 
-‘What has brought you to my bedroom, Doctor? I do not remember sending for you.’
+“What has brought you to my bedroom, Doctor? I do not remember sending for you.”
 
-‘That is not unnatural, your Lordship. You did not send for me. I was summoned a few minutes ago, to find that you had fainted, an unfortunate, but by no means rare thing to happen to anyone. Now, I wonder why you should have fainted?’ The Doctor stroked his chin. ‘Why? Was the room very hot?’
+“That is not unnatural, your Lordship. You did not send for me. I was summoned a few minutes ago, to find that you had fainted, an unfortunate, but by no means rare thing to happen to anyone. Now, I wonder why you should have fainted?” The Doctor stroked his chin. “Why? Was the room very hot?”
 
-The Earl comes across to the Doctor. ‘Prunesquallor,’ he says, ‘I don’t faint.’
+The Earl comes across to the Doctor. “Prunesquallor,” he says, “I don’t faint.”
 
-‘Your Lordship,’ says the Doctor, ‘when I arrived in this bedroom you were in a faint.’
+“Your Lordship,” says the Doctor, “when I arrived in this bedroom you were in a faint.”
 
-‘Why should I have fainted? I do not faint, Prunesquallor.’
+“Why should I have fainted? I do not faint, Prunesquallor.”
 
-‘Can you remember what you were doing before you lost consciousness?’
+“Can you remember what you were doing before you lost consciousness?”
 
 The Earl moves his eyes from the Doctor. All at once he feels very tired and sits down on the edge of the bed.
 
-‘I can remember nothing, Prunesquallor. Absolutely nothing. I can only recall that I was hankering for something, but for what I do not know. It seems a month ago.’
+“I can remember nothing, Prunesquallor. Absolutely nothing. I can only recall that I was hankering for something, but for what I do not know. It seems a month ago.”
 
-‘I can tell you,’ says Prunesquallor. ‘You are making ready to go to your son’s Breakfast Gathering. You were pressed for time and were anxious not to be late. You are, in any event, overstrained, and in your anticipation of the occasion you became overwrought. Your “hankering” was to be with your one-year-old son. That is what you vaguely remember.’
+“I can tell you,” says Prunesquallor. “You are making ready to go to your son’s Breakfast Gathering. You were pressed for time and were anxious not to be late. You are, in any event, overstrained, and in your anticipation of the occasion you became overwrought. Your ‘hankering’ was to be with your one-year-old son. That is what you vaguely remember.”
 
-‘When is my son’s Breakfast?’
+“When is my son’s Breakfast?”
 
-‘It is in half an hour’s time, or to be precise, it is in twenty-eight minutes’ time.’
+“It is in half an hour’s time, or to be precise, it is in twenty-eight minutes’ time.”
 
-‘Do you mean *this morning*?’ A look of alarm has appeared on Lord Sepulchrave’s face.
+“Do you mean *this morning*?” A look of alarm has appeared on Lord Sepulchrave’s face.
 
-‘This morning as ever was, as ever is, and as ever will or won’t be, bless its thunderous heart. No, no, my lord, do not get up yet.’ (Lord Sepulchrave has made an attempt to stand.) ‘In a moment or two and you will be as fit as the most expensive of fiddles. The Breakfast will not be delayed. No, no, not at all—You have twenty-seven long, sixty-second-apiece minutes, and Flay should be on his way to get your garments laid out for you—yes, indeed.’
+“This morning as ever was, as ever is, and as ever will or won’t be, bless its thunderous heart. No, no, my lord, do not get up yet.” (Lord Sepulchrave has made an attempt to stand.) “In a moment or two and you will be as fit as the most expensive of fiddles. The Breakfast will not be delayed. No, no, not at all—You have twenty-seven long, sixty-second-apiece minutes, and Flay should be on his way to get your garments laid out for you—yes, indeed.”
 
 Flay is not only on his way, but he is at the door, having been unable to remain in the Stone Lanes any longer than it took him to tear his way through them and up to his master’s room by an obscure passage which he alone knew. Even so he is only a moment or two in advance of Steerpike, who slides under Flay’s arm and through the bedroom door as Flay opens it.
 
-Steerpike and the servant are amazed to find that Lord Sepulchrave is seemingly his own melancholy self again, and Flay shambles towards his master and drops upon his knees before him with a sudden, uncontrollable, clumsy movement, his knees striking the floor with a crash. The Earl’s sensitive pale hand rests for a moment on the shoulders of the scarecrow, but all he says is: ‘My ceremonial velvet, Flay. Be as quick as you can. My velvet and the bird-brooch of opals.’
+Steerpike and the servant are amazed to find that Lord Sepulchrave is seemingly his own melancholy self again, and Flay shambles towards his master and drops upon his knees before him with a sudden, uncontrollable, clumsy movement, his knees striking the floor with a crash. The Earl’s sensitive pale hand rests for a moment on the shoulders of the scarecrow, but all he says is: “My ceremonial velvet, Flay. Be as quick as you can. My velvet and the bird-brooch of opals.”
 
 Flay scrambles to his feet. He is his master’s first servant. He is to lay out his master’s clothes and to prepare him for the Great Breakfast in honour of his only son. This is no time or place for the wretched youth to be in his Lordship’s bedroom. Nor for that matter need the Doctor stay.
 
-With his hand on the wardrobe door he turns his head creakily. ‘*I* manage, Doctor,’ he says. His eyes move from Prunesquallor to Steerpike, and he draws back his lips in an expression of contempt and disgust.
+With his hand on the wardrobe door he turns his head creakily. “*I* manage, Doctor,” he says. His eyes move from Prunesquallor to Steerpike, and he draws back his lips in an expression of contempt and disgust.
 
-The Doctor notices this expression. ‘Quite right. Quite, quite right! His Lordship will improve with every minute that passes, and there is no need for us any longer, most assuredly not, by all that’s tactful I should definitely think not, ha, ha, ha! Oh, dear me, no. Come along, Steerpike. Come along. And, by the way, what’s all that blood on your face? Are you playing at being a pirate or have you had a tiger in bed with you? Ha, ha, ha! But tell me afterwards, dear boy, tell me afterwards.’ And the Doctor proceeds to shepherd Steerpike out of the room.
+The Doctor notices this expression. “Quite right. Quite, quite right! His Lordship will improve with every minute that passes, and there is no need for us any longer, most assuredly not, by all that’s tactful I should definitely think not, ha, ha, ha! Oh, dear me, no. Come along, Steerpike. Come along. And, by the way, what’s all that blood on your face? Are you playing at being a pirate or have you had a tiger in bed with you? Ha, ha, ha! But tell me afterwards, dear boy, tell me afterwards.” And the Doctor proceeds to shepherd Steerpike out of the room.
 
-But Steerpike dislikes being shepherded and ‘After you, Doctor,’ he says, and insists on Prunesquallor’s preceding him through the door. Before he closes it he turns and, speaking to the Earl in a confidential tone: ‘I will see that everything is in readiness,’ he says. ‘Leave it to me, your Lordship. I will see you later, Flay. Now then, Doctor, let us be on our way.’
+But Steerpike dislikes being shepherded and “After you, Doctor,” he says, and insists on Prunesquallor’s preceding him through the door. Before he closes it he turns and, speaking to the Earl in a confidential tone: “I will see that everything is in readiness,” he says. “Leave it to me, your Lordship. I will see you later, Flay. Now then, Doctor, let us be on our way.”
 
 The door closes.
 
@@ -5765,157 +5765,157 @@ The door closes.
 
 The Aunts have been sitting opposite one another for well over an hour with hardly a movement. Surely only vanity could account for so long a scrutiny of a human face, and as it so happens it *is* Vanity and nothing but Vanity, for knowing that their features are identical and that they have administered the identical amount of powder and have spent the identical length of time in brushing their hair, they have no doubt at all that in scrutinizing one another they are virtually gazing at themselves. They are garbed in their best purple, a hue so violent as to give physical discomfort to any normally sensitive eye.
 
-‘Now, Clarice,’ says Cora at last, ‘you turn your lovely head to the right, so that I can see what I look like from the *side*.’
+“Now, Clarice,” says Cora at last, “you turn your lovely head to the right, so that I can see what I look like from the *side*.”
 
-‘Why?’ says Clarice. ‘Why should I?’
+“Why?” says Clarice. “Why should I?”
 
-‘Why shouldn’t you? I’ve got a right to *know*.’
+“Why shouldn’t you? I’ve got a right to *know*.”
 
-‘So have I, if it comes to that.’
+“So have I, if it comes to that.”
 
-‘Well, it will come to that, won’t it? Stupid!’
+“Well, it will come to that, won’t it? Stupid!”
 
-‘Yes, but . . .’
+“Yes, but . . .”
 
-‘You do what I say and then I’ll do it for you.’
+“You do what I say and then I’ll do it for you.”
 
-‘Then I’ll see what my profile’s like, won’t I?’
+“Then I’ll see what my profile’s like, won’t I?”
 
-‘We both will, not just you.’
+“We both will, not just you.”
 
-‘I *said* we both will.’
+“I *said* we both will.”
 
-‘Well? What’s the matter, then?’
+“Well? What’s the matter, then?”
 
-‘Nothing.’
+“Nothing.”
 
-‘Well?’
+“Well?”
 
-‘Well, what?’
+“Well, what?”
 
-‘Well, go on, then—turn your lovely head.’
+“Well, go on, then—turn your lovely head.”
 
-‘Shall I do it now?’
+“Shall I do it now?”
 
-‘Yes. There’s nothing to wait for, is there?’
+“Yes. There’s nothing to wait for, is there?”
 
-‘Only the Breakfast. It won’t be just yet.’
+“Only the Breakfast. It won’t be just yet.”
 
-‘Why not?’
+“Why not?”
 
-‘Because I heard the bell go in the corridor.’
+“Because I heard the bell go in the corridor.”
 
-‘So did I. That means there’s a lot of time.’
+“So did I. That means there’s a lot of time.”
 
-‘I want to look at my profile, Cora. Turn it now.’
+“I want to look at my profile, Cora. Turn it now.”
 
-‘All right. How long shall I be, Clarice?’
+“All right. How long shall I be, Clarice?”
 
-‘Be a long time.’
+“Be a long time.”
 
-‘Only if I have a long time, too.’
+“Only if I have a long time, too.”
 
-‘We can’t both have a long time, silly.’
+“We can’t both have a long time, silly.”
 
-‘Why not?’
+“Why not?”
 
-‘Because there isn’t one.’
+“Because there isn’t one.”
 
-‘Isn’t one what, dear?’
+“Isn’t one what, dear?”
 
-‘Isn’t one long time, is there?’
+“Isn’t one long time, is there?”
 
-‘No, there’s lots of them.’
+“No, there’s lots of them.”
 
-‘Yes, lots and lots of beautiful long times.’
+“Yes, lots and lots of beautiful long times.”
 
-‘Ahead of us, you mean, Clarice?’
+“Ahead of us, you mean, Clarice?”
 
-‘Yes, ahead of us.’
+“Yes, ahead of us.”
 
-‘After we’re on our thrones, isn’t it?’
+“After we’re on our thrones, isn’t it?”
 
-‘How do you know?’
+“How do you know?”
 
-‘Well, that’s what you were thinking. Why do you try to deceive me?’
+“Well, that’s what you were thinking. Why do you try to deceive me?”
 
-‘I wasn’t. I only wanted to know.’
+“I wasn’t. I only wanted to know.”
 
-‘Well, now you *do* know.’
+“Well, now you *do* know.”
 
-‘Do know what?’
+“Do know what?”
 
-‘You *do* know, that’s all. I’m not going any deeper for you.’
+“You *do* know, that’s all. I’m not going any deeper for you.”
 
-‘Why not?’
+“Why not?”
 
-‘Because you can’t go as deep as I can. You never could.’
+“Because you can’t go as deep as I can. You never could.”
 
-‘I’ve never *tried*, I don’t suppose. It’s not worth it, I shouldn’t think. I know when things are worth it.’
+“I’ve never *tried*, I don’t suppose. It’s not worth it, I shouldn’t think. I know when things are worth it.”
 
-‘Well, when *are* they, then?’
+“Well, when *are* they, then?”
 
-‘When are they what?’
+“When are they what?”
 
-‘When are they worth something?’
+“When are they worth something?”
 
-‘When you’ve bought something wonderful with your wealth, then it’s always worth it.’
+“When you’ve bought something wonderful with your wealth, then it’s always worth it.”
 
-‘Unless you don’t *want* it, Clarice, you always forget that. Why can’t you be less forgetful?’
+“Unless you don’t *want* it, Clarice, you always forget that. Why can’t you be less forgetful?”
 
 There is a long silence while they study each other’s faces.
 
-‘They’ll look at us, you know,’ says Cora flatly. ‘We’re going to be looked at at the Breakfast.’
+“They’ll look at us, you know,” says Cora flatly. “We’re going to be looked at at the Breakfast.”
 
-‘Because we’re of the original blood,’ says Clarice. ‘That’s why.’
+“Because we’re of the original blood,” says Clarice. “That’s why.”
 
-‘And that’s why we’re important, too.’
+“And that’s why we’re important, too.”
 
-‘Two what?’
+“Two what?”
 
-‘To everyone, of course.’
+“To everyone, of course.”
 
-‘Well, we’re not yet, not to everyone.’
+“Well, we’re not yet, not to everyone.”
 
-‘But we will be soon.’
+“But we will be soon.”
 
-‘When the clever boy makes us. He can do anything.’
+“When the clever boy makes us. He can do anything.”
 
-‘Anything. Anything at all. He told me so.’
+“Anything. Anything at all. He told me so.”
 
-‘Me, too. Don’t think he only tells you, because he doesn’t.’
+“Me, too. Don’t think he only tells you, because he doesn’t.”
 
-‘I didn’t say he did, did I?’
+“I didn’t say he did, did I?”
 
-‘You were going to.’
+“You were going to.”
 
-‘Two what?’
+“Two what?”
 
-‘To exalt yourself.’
+“To exalt yourself.”
 
-‘Oh, yes, yes. We will be exalted when the time is ripe.’
+“Oh, yes, yes. We will be exalted when the time is ripe.”
 
-‘Ripe and rich.’
+“Ripe and rich.”
 
-‘Yes, of course.’
+“Yes, of course.”
 
-‘Of course.’
+“Of course.”
 
 There is another silence. Their voices have been so flat and expressionless that when they cease talking the silence seems no new thing in the room, but rather a continuation of flatness in another colour.
 
-‘Turn your head now, Cora. When I’m looked at at the Breakfast I want to know how they see me from the side and what exactly they are looking at; so turn your head for me and I will for you afterwards.’
+“Turn your head now, Cora. When I’m looked at at the Breakfast I want to know how they see me from the side and what exactly they are looking at; so turn your head for me and I will for you afterwards.”
 
 Cora twists her white neck to the left.
 
-‘More,’ says Clarice.
+“More,” says Clarice.
 
-‘More what?’
+“More what?”
 
-‘I can still see your other eye.’
+“I can still see your other eye.”
 
 Cora twists her head a fraction more, dislodging some of the powder from her neck.
 
-‘That’s right, Cora. Stay like that. Just like that. Oh, Cora!’ (the voice is still as flat), ‘I am *perfect*.’
+“That’s right, Cora. Stay like that. Just like that. Oh, Cora!” (the voice is still as flat), “I am *perfect*.”
 
 She claps her hands mirthlessly, and even her palms meet with a dead sound.
 
@@ -5923,43 +5923,43 @@ Almost as though this noise were a summons the door opens and Steerpike moves ra
 
 He runs his eyes over them, takes his pipe out of his pocket and strikes a light. For a moment he holds the flame in his hand, but only for a moment, for Cora has raised her arm with the slow gesture of a somnambulist and has let it fall upon the flame, extinguishing it.
 
-‘What in plague’s name are you up to?’ shouts Steerpike, for once losing his control. Seeing an Earl as an owl on a mantelpiece, and having part of one’s face removed by a cat, both on the same morning, can temporarily undermine the self-control of any man.
+“What in plague’s name are you up to?” shouts Steerpike, for once losing his control. Seeing an Earl as an owl on a mantelpiece, and having part of one’s face removed by a cat, both on the same morning, can temporarily undermine the self-control of any man.
 
-‘No fire,’ says Cora. ‘We don’t have fires any more.’
+“No fire,” says Cora. “We don’t have fires any more.”
 
-‘We don’t like them any more. No. Not any more.’
+“We don’t like them any more. No. Not any more.”
 
-‘Not after we—’
+“Not after we—”
 
-Steerpike breaks in, for he knows how their minds have turned, and this is no moment just before the Breakfast for them to start reminiscing. ‘You are awaited! Breakfast table is agog for you. They all want to know where you are. Come along, my lovely brace of ladies. Let me escort you some of the way, at least. You are looking most alluring—but what can have been keeping you? Are you ready?’
+Steerpike breaks in, for he knows how their minds have turned, and this is no moment just before the Breakfast for them to start reminiscing. “You are awaited! Breakfast table is agog for you. They all want to know where you are. Come along, my lovely brace of ladies. Let me escort you some of the way, at least. You are looking most alluring—but what can have been keeping you? Are you ready?”
 
 The twins nod their heads.
 
-‘May I be so honoured as to give you my right arm, Lady Cora? And, Lady Clarice, my dear, if you will take my left. . . ?’
+“May I be so honoured as to give you my right arm, Lady Cora? And, Lady Clarice, my dear, if you will take my left. . . ?”
 
 Steerpike, bending his elbows, waits for the Aunts to split apart to take his either arm.
 
-‘The right’s more important than the left,’ says Clarice. ‘Why should you have it?’
+“The right’s more important than the left,” says Clarice. “Why should you have it?”
 
-‘Why shouldn’t I?’
+“Why shouldn’t I?”
 
-‘Because I’m as good as you.’
+“Because I’m as good as you.”
 
-‘But not as clever, are you, dear?’
+“But not as clever, are you, dear?”
 
-‘Yes, I am, only you’re favoured.’
+“Yes, I am, only you’re favoured.”
 
-‘That’s because I’m alluring, like he says I am.’
+“That’s because I’m alluring, like he says I am.”
 
-‘He said we both were.’
+“He said we both were.”
 
-‘That was just to please you. Didn’t you know?’
+“That was just to please you. Didn’t you know?”
 
-‘Dear ladies,’ says Steerpike, breaking in, ‘will you please be quiet! Who is in control of your destinies? Who is it you promised you would trust and obey?’
+“Dear ladies,” says Steerpike, breaking in, “will you please be quiet! Who is in control of your destinies? Who is it you promised you would trust and obey?”
 
-‘You.’ They speak together.
+“You.” They speak together.
 
-‘I think of you as co-equals, and I want you to think of yourselves as of similar status, for when your thrones arrive they will be of equal glory. Now, will you take my arms, if you please?’
+“I think of you as co-equals, and I want you to think of yourselves as of similar status, for when your thrones arrive they will be of equal glory. Now, will you take my arms, if you please?”
 
 Cora and Clarice take an arm each. The door of their room had been left open and the three of them make their exit, the youth’s thin black figure walking between the stiff purple bodies of the Aunts, who are gazing over his head at each other, so that as they recede down the half-lit corridor and diminish in size as they move into the long perspective, the last that can be seen, long after Steerpike in his black and the purple of the twins has become swallowed in the depths, are the tiny, pallid patterns of the two identical profiles facing one another and floating, as it were, in the mid-air shadows, diminishing and diminishing as they drift away, until the last mote of light has crumbled from them.
 
@@ -5973,9 +5973,9 @@ Fuchsia, approaching the dining-hall in company with Mrs Slagg, who is carrying 
 
 There is no sound from the infant, who is encased in the lilac roll. Fuchsia carries the black sword at one side, although the golden chain is still attached to Titus. Nannie Slagg, beside herself with trepidation and excitement, peers now at her bundle and now at Fuchsia, sucking at her wrinkled lips as her little feet shuffle along below her best sepia-coloured skirt.
 
-‘We won’t be late, my caution, will we? Oh no, because we mustn’t, must we?’ She peers into one end of the lilac roll. ‘Bless him that he’s so good, with all this horrible thunder; yis, he’s been as good as good.’
+“We won’t be late, my caution, will we? Oh no, because we mustn’t, must we?” She peers into one end of the lilac roll. “Bless him that he’s so good, with all this horrible thunder; yis, he’s been as good as good.”
 
-Fuchsia does not hear; she is moving in a nightmare world of her own. Who can she turn to? Who can she ask? ‘Doctor Prune, Doctor Prune,’ she says to herself, ‘. . . he will tell me; he will know that I can make him well again. Only I can make him well again.’
+Fuchsia does not hear; she is moving in a nightmare world of her own. Who can she turn to? Who can she ask? “Doctor Prune, Doctor Prune,” she says to herself, “. . . he will tell me; he will know that I can make him well again. Only I can make him well again.”
 
 Before them, as they turn a corner, the door of the dining-hall looms up and, obliterating most of it, with his hand on the brass handle, is Swelter. He swings open the door for them and they enter the Dining Hall. They are the last to arrive, and more through coincidence than design this is as it should be—Titus being the guest of honour, or perhaps the *host* of honour, for it is today that, as the Heir of Gormenghast, he Enters upon the Realms, having braved the cycle of four seasons.
 
@@ -5983,7 +5983,7 @@ Fuchsia climbs the seven wooden steps which lead up to the rostrum and the long 
 
 It is with a shock of indefinable emotion that she sees him as she lifts her head. She had never for a moment contemplated his being able to attend the Breakfast, imagining that the Doctor would be with him in his bedroom. So vivid in her mind is the picture of her father in his room as she had last seen him, that to find him in this so different atmosphere gives her for a moment a gush of hope—hope that she had been dreaming—that she had not been to his room—that he had not been upon the mantelpiece with his round, loveless eyes; for now as she stares at him he is so gentle and sad and thin and she can see that there is a weak smile of welcome upon his lips.
 
-Swelter, who has followed them in, is now ushering Mrs Slagg into a chair on whose back-rest is painted the words: ‘FOR A SERVANT’. There is a space cleared before her on the table in the shape of a half-circle, in which has been laid a long cushion. When Mrs Slagg sits down she finds that her chin is on a level with the table-edge, and it is with difficulty that she lifts the lilac bundle high enough to place it on the cushion. On her left is Gertrude Groan. Mrs Slagg glances at her apprehensively. She is gazing at an expanse of darkness, for the black clothes of the Countess seem to have no ending. She lifts her eyes a little and there is still darkness. She lifts them more, and still the darkness climbs. Raising her whole head and staring almost vertically above her she imagines that, near the zenith of her vision, she can descry a warmth of colour in the night. To think that an hour earlier she had been helping to plait those locks that now appear to be brushing the flaking cherubs of the ceiling.
+Swelter, who has followed them in, is now ushering Mrs Slagg into a chair on whose back-rest is painted the words: “FOR A SERVANT”. There is a space cleared before her on the table in the shape of a half-circle, in which has been laid a long cushion. When Mrs Slagg sits down she finds that her chin is on a level with the table-edge, and it is with difficulty that she lifts the lilac bundle high enough to place it on the cushion. On her left is Gertrude Groan. Mrs Slagg glances at her apprehensively. She is gazing at an expanse of darkness, for the black clothes of the Countess seem to have no ending. She lifts her eyes a little and there is still darkness. She lifts them more, and still the darkness climbs. Raising her whole head and staring almost vertically above her she imagines that, near the zenith of her vision, she can descry a warmth of colour in the night. To think that an hour earlier she had been helping to plait those locks that now appear to be brushing the flaking cherubs of the ceiling.
 
 On her right is the Earl. He leans back in his chair, very listless and weak, but he still smiles wanly at his daughter, who is on the opposite side of the table and facing her mother. On Fuchsia’s right and left sit Irma Prunesquallor and her brother respectively. The Doctor and Fuchsia have their little fingers interlocked under the table. Cora is sitting opposite to the Earl her brother, and on the left of the Countess, and facing Irma, is Clarice. A fine, succulent ham, lit by a candle, takes up most of the space at the Earl’s and Cora’s end of the table, where Swelter presides and has now taken up his official duties armed with carving-knife and steel. At the other end of the table Barquentine smoulders on a high chair.
 
@@ -5995,7 +5995,7 @@ Unknown to any who sit there at the long table there are not nine of them upon t
 
 The tenth is Steerpike. In the late afternoon of the previous day, when the dining-hall had swum in a warm haze of motes and every movement had bred its hollow echo through the silence, he had moved swiftly up to the platform from the doorway with a black, stumpy roll of cloth and what appeared to be a bundle of netting under his arm. After satisfying himself that he was quite alone, he half unrolled the cloth, slipped up the wooden steps of the daïs, and in a flash has slithered under the table.
 
-For a few moments there were only some scrabbling sounds and the occasional clinking of metal, but the noise mounted, and for two minutes there was intense activity. Steerpike believed in working fast, especially in nefarious matters. When at last he emerged he dusted himself carefully and it might have been noticed, had there been anyone there to notice it, that although he still carried the lumpy roll of cloth, the netting was no longer with him. Had this same hypothetical watcher glanced under the table from any part of the room he would have noticed nothing extraordinary, for there would have been nothing to see; but had he taken the trouble to have crawled between the table legs and then gazed upwards, he would have noticed that, stretching down the centre of the low ‘roof’ was a very comfortable hammock.
+For a few moments there were only some scrabbling sounds and the occasional clinking of metal, but the noise mounted, and for two minutes there was intense activity. Steerpike believed in working fast, especially in nefarious matters. When at last he emerged he dusted himself carefully and it might have been noticed, had there been anyone there to notice it, that although he still carried the lumpy roll of cloth, the netting was no longer with him. Had this same hypothetical watcher glanced under the table from any part of the room he would have noticed nothing extraordinary, for there would have been nothing to see; but had he taken the trouble to have crawled between the table legs and then gazed upwards, he would have noticed that, stretching down the centre of the low “roof” was a very comfortable hammock.
 
 And it is in this hammock that Steerpike is now reclining at full length, in semi-darkness, hedged in with a close-up panorama of seventeen legs and one wooden stump, or to be exact with sixteen, for Fuchsia is sitting with one of hers curled up under her. He had left the Twins hurriedly on his way down with them and had managed to be the first to slip into the hall. The oak of the table is within a few inches of his face. He has had very little satisfaction, so much of the time having been spent above him in fantastic dumb shows invisible to him. There is, in fact, no conversation and all he has heard during the seemingly interminable meal is the loveless, didactic voice of Barquentine, reeling out the time-worn, legendary phrases; the irritating, and apologetic coughing of Irma, and the slight creaking of Fuchsia’s chair every time she moves. Occasionally the Countess mutters something which no one can hear, which is invariably followed by Nannie rubbing her ankles nervously together. Her feet are at least twenty inches from the floor and it is a great temptation to Steerpike to give them a twitch.
 
@@ -6069,7 +6069,7 @@ But it is nearly over. He is laying his tomes aside. His withered stump which, s
 
 Once aboard the long, narrow table it is for him to march up and down it from end to end seven times regardless of the china and golden cutlery, regardless of the glassware, the wine and the repast in general, regardless of everything in fact save that he must be regardless. Mrs Slagg snatches the year-old baby from before the approaching crutch and withered leg, for Barquentine has lost no time in complying with tradition and the ferrule of his crutch strikes jarringly upon the polished oak, or cracks among the china plates or splinters the cut glass. A dull soggy note followed by a squelch betrays the fact that his withered leg has descended ankle deep in a tureen of tepid porridge, but it was not for him to turn aside in the promulgation of his duty.
 
-Doctor Prunesquallor has staggered away with Fuchsia in his arms, having instructed Flay to escort Lord Sepulchrave to his room. The Countess strangely enough has taken Titus from Nannie Slagg and having descended from the platform to the stone slabs below is walking heavily to and fro with the little boy half over her shoulder. ‘Now then, now then’, she says, ‘No use crying; no use at all; not when you’re two; wait till you’re three. Now then, now then, wait till you’re bigger and I’ll show you where the birds live, there’s a good child, there’s a . . . Slagg . . . Slagg,’ she bellows suddenly, interrupting herself. ‘Take it away.’ The Earl and Flay have gone and so has Swelter after casting a baffled eye over the table and at the wizened Barquentine as he stamps into the exquisitely prepared and despoiled breakfast.
+Doctor Prunesquallor has staggered away with Fuchsia in his arms, having instructed Flay to escort Lord Sepulchrave to his room. The Countess strangely enough has taken Titus from Nannie Slagg and having descended from the platform to the stone slabs below is walking heavily to and fro with the little boy half over her shoulder. “Now then, now then”, she says, “No use crying; no use at all; not when you’re two; wait till you’re three. Now then, now then, wait till you’re bigger and I’ll show you where the birds live, there’s a good child, there’s a . . . Slagg . . . Slagg,” she bellows suddenly, interrupting herself. “Take it away.” The Earl and Flay have gone and so has Swelter after casting a baffled eye over the table and at the wizened Barquentine as he stamps into the exquisitely prepared and despoiled breakfast.
 
 Cora and Clarice are left watching Barquentine with their mouths and the pupils of their eyes so wide open as to cause these caverns to monopolize their faces to the extent of giving to their countenances an appearance of darkness or of absence. They are still seated and their bodies beneath their straight dresses are perfectly rigid while their eyes follow the ancient’s every movement, leaving him only momently when a louder sound than usual forces them to turn their eyes to the table to observe what the latest ornament to be broken may be.
 
@@ -6081,15 +6081,15 @@ As Barquentine completes his seventh journey, the flame of the last candle stumb
 
 Steerpike, having observed the legs disappearing out of the door, and to whom they belonged, has wriggled from his hammock under the table. He is groping his way to the door. When he reaches it, and has found the handle, he slams it violently and then, as though he has just *entered* the room he shouts:
 
-‘Hello there; what’s happening there! What’s the trouble?’
+“Hello there; what’s happening there! What’s the trouble?”
 
-On hearing his voice the twins begin to scream for help, while Barquentine yells ‘Light! light! fetch a light you dotard. What are you waiting for?’ His strident voice rises to a shriek and his crutch grinds itself on the table. ‘Light! scumcat! light! curse and split you!’
+On hearing his voice the twins begin to scream for help, while Barquentine yells “Light! light! fetch a light you dotard. What are you waiting for?” His strident voice rises to a shriek and his crutch grinds itself on the table. “Light! scumcat! light! curse and split you!”
 
 Steerpike, whose last hour and a half has been a dire disappointment and boring in the extreme, hugs himself for joy at their shouts.
 
-‘Right away, sir. Right away,’ he dances out of the door and down the passage. He is back in less than a minute with a lantern and helps Barquentine off the table who, once on the ground, batters his way without a word of thanks down the steps and to the door, cursing as he goes, his red rags glowing dully in the lantern light. Steerpike watches his horrid body disappear and then raising his high sharp shoulders still higher he yawns and grins at the same time. Cora and Clarice are on either side of him and are both breathing very loudly, their flat bosoms rising and falling rapidly like hatchways. Their eyes are glued upon him as he escorts them through the door, down the corridor and all the way to their apartments, which he enters. The windows are streaming with the rain. The roof is loud with it.
+“Right away, sir. Right away,” he dances out of the door and down the passage. He is back in less than a minute with a lantern and helps Barquentine off the table who, once on the ground, batters his way without a word of thanks down the steps and to the door, cursing as he goes, his red rags glowing dully in the lantern light. Steerpike watches his horrid body disappear and then raising his high sharp shoulders still higher he yawns and grins at the same time. Cora and Clarice are on either side of him and are both breathing very loudly, their flat bosoms rising and falling rapidly like hatchways. Their eyes are glued upon him as he escorts them through the door, down the corridor and all the way to their apartments, which he enters. The windows are streaming with the rain. The roof is loud with it.
 
-‘My dear ladies,’ says Steerpike, ‘I feel that some hot coffee is indicated, but what do *you* feel?’
+“My dear ladies,” says Steerpike, “I feel that some hot coffee is indicated, but what do *you* feel?”
 
 ## PRESAGE
 
@@ -6099,7 +6099,7 @@ Be that as it may, Barquentine, lying exhausted on his dirty mattress at eight o
 
 Fuchsia had regained consciousness within a short while and with Mrs Slagg had bravely taken her part in the day’s observances, carrying her small brother whenever the old nurse grew weary. Prunesquallor, until late in the evening when he left Flay with his lordship, had kept a strict watch upon his patient.
 
-An indescribable atmosphere of expectancy filled Gormenghast. Instead of Titus’s birthday bringing with it a feeling of completion or climax as it should have done, there was, conversely, a sense of something beginning. Obscure forces were, through the media of the inhabitants of the castle, coming to a head. For some, this sensation was extremely acute although unrecognizable and was no doubt sharpened and conditioned by their own personal problems. Flay and Swelter were on the edge of violence. Sepulchrave was moving at the margin of climax and Fuchsia hardly less so, being consumed with fear and anguish at the parental tragedy. She also was waiting; they were all waiting. Prunesquallor was suffering no little strain and was eternally on the watch and the Countess having held interview with him and having heard as much as Prunesquallor dared tell her, and having guessed a good deal more, was remaining in her room and receiving hourly bulletins as to her husband’s condition. Even Cora and Clarice could tell that the normal, monotonous life of the castle was not as heretofore and in their room they sat silently—waiting also. Irma spent most of her time in her bath and her thoughts were constantly returning to a notion new to her and shocking to her, and even terrifying. It was that the House of Groan was different. Different. Yet, how could it be different? ‘Impossible! I said Impossible!’ she repeated to herself, through a lather of fragrant suds, but she could not convince herself. This idea of hers was creeping about Gormenghast insidiously, remaining for the most part unrecognized save as a sensation of uneasiness.
+An indescribable atmosphere of expectancy filled Gormenghast. Instead of Titus’s birthday bringing with it a feeling of completion or climax as it should have done, there was, conversely, a sense of something beginning. Obscure forces were, through the media of the inhabitants of the castle, coming to a head. For some, this sensation was extremely acute although unrecognizable and was no doubt sharpened and conditioned by their own personal problems. Flay and Swelter were on the edge of violence. Sepulchrave was moving at the margin of climax and Fuchsia hardly less so, being consumed with fear and anguish at the parental tragedy. She also was waiting; they were all waiting. Prunesquallor was suffering no little strain and was eternally on the watch and the Countess having held interview with him and having heard as much as Prunesquallor dared tell her, and having guessed a good deal more, was remaining in her room and receiving hourly bulletins as to her husband’s condition. Even Cora and Clarice could tell that the normal, monotonous life of the castle was not as heretofore and in their room they sat silently—waiting also. Irma spent most of her time in her bath and her thoughts were constantly returning to a notion new to her and shocking to her, and even terrifying. It was that the House of Groan was different. Different. Yet, how could it be different? “Impossible! I said Impossible!” she repeated to herself, through a lather of fragrant suds, but she could not convince herself. This idea of hers was creeping about Gormenghast insidiously, remaining for the most part unrecognized save as a sensation of uneasiness.
 
 It was only Irma who put her finger on the spot. The others were involved with counting the portentous minutes before their own particular clouds broke over them, yet at the back of their personal troubles, hopes and fears, this less immediate trepidation grew, this intangible suggestion of *change*, that most unforgivable of all heresies.
 
@@ -6107,13 +6107,13 @@ A few minutes before sunset the sky over the castle was a flood of light and the
 
 Beyond the great walls of Gormenghast the mud-huts were gradually regaining the whitish colour of their natural earth as the late sunlight drew out the moisture. The old cactus trees steamed imperceptibly and beneath the greatest of these and lit by the slanting rays of the sun was a woman on horseback.
 
-For a long while there seemed to be no movement either in her or her mount. Her face was dark and her hair had fallen about her shoulders. The pale light was on her face, and there was a mournful triumph and an extreme loneliness. She bent forward a little and whispered to the horse who raised his forefoot on hearing her and beat it back into the soft earth. Then she began to dismount and it was not easy for her, but she lowered herself carefully down the wet grey flank. Then she took the basket from where it had been fastened to the rope bridle and stepped slowly forward to the horse’s head. Running her fingers through the tangled and dripping forelock, she moved them over the hard brow beneath. ‘You must go back now,’ she said slowly, ‘to the Brown Father, so that he may know that I am safe.’ Then she pushed the long wet, grey head away from her with a slow and deliberate movement. The horse turned itself away, the rain bubbling up in the hoofmarks and forming little gold pools of sky. It turned back to her once, after a few paces. Then lifting its head very high it shook its long mane from side to side and the air became filled with a swarm of pearls. Then suddenly it began to pace along the track of its own hoofmarks and without a moment’s abatement in its pace or the least deviation from its homeward course, it sped from her. She watched it as it appeared, disappeared, only to reappear again, as the undulations of the region gave cause, until it was almost too small to observe. At last she saw that it was about to reach the ridge of the last stretch of upland before its descent to the invisible plain. As she watched, it suddenly came to a dead halt, and her heart beat rapidly, for it turned about and stood for a moment motionless. Then lifting its head very high as it had done before, it began to move backwards step by step. They were facing one another over that vast distance as the grey horse was at last swallowed beneath the horizon.
+For a long while there seemed to be no movement either in her or her mount. Her face was dark and her hair had fallen about her shoulders. The pale light was on her face, and there was a mournful triumph and an extreme loneliness. She bent forward a little and whispered to the horse who raised his forefoot on hearing her and beat it back into the soft earth. Then she began to dismount and it was not easy for her, but she lowered herself carefully down the wet grey flank. Then she took the basket from where it had been fastened to the rope bridle and stepped slowly forward to the horse’s head. Running her fingers through the tangled and dripping forelock, she moved them over the hard brow beneath. “You must go back now,” she said slowly, “to the Brown Father, so that he may know that I am safe.” Then she pushed the long wet, grey head away from her with a slow and deliberate movement. The horse turned itself away, the rain bubbling up in the hoofmarks and forming little gold pools of sky. It turned back to her once, after a few paces. Then lifting its head very high it shook its long mane from side to side and the air became filled with a swarm of pearls. Then suddenly it began to pace along the track of its own hoofmarks and without a moment’s abatement in its pace or the least deviation from its homeward course, it sped from her. She watched it as it appeared, disappeared, only to reappear again, as the undulations of the region gave cause, until it was almost too small to observe. At last she saw that it was about to reach the ridge of the last stretch of upland before its descent to the invisible plain. As she watched, it suddenly came to a dead halt, and her heart beat rapidly, for it turned about and stood for a moment motionless. Then lifting its head very high as it had done before, it began to move backwards step by step. They were facing one another over that vast distance as the grey horse was at last swallowed beneath the horizon.
 
 She turned towards the mud-huts lying below her in a rose-red light. A crowd had begun to gather and she saw that she was being pointed out.
 
 With the warm glow of the dying light upon them, the mud dwellings for all their meanness and congestion had something ethereal about them, and her heart went out to them as a hundred reawakened memories flew to her mind. She knew that bitterness was harboured in the narrow streets, that pride and jealousy leaned like ghosts against the posts of every carver’s doorway, but for a fleeting moment she saw only the evening light falling across the scenes of her childhood, and it was with a start that she awakened from this momentary reverie to notice how the crowd had grown. She had known that this moment would be like this. She had foreseen such an evening of soft light. She had foreseen that the earth would be glassed with rain and she had the overpowering sensation of living through a scene she had already enacted. She had no fear although she knew she would be met by hostility, prejudice and perhaps violence. Whatever they did with her it would not matter. She had suffered it already. All this was far wan history and an archaism.
 
-Her hand moved to her brow and pushed away a cold lock of hair that clung blackly to her cheek. ‘I must bear my child,’ she said to herself, her lips framing the soundless words, ‘and then I shall be complete and only myself and all will be over.’ Her pupils grew vast. ‘You shall be free. From the very beginning you shall be free of me, as I shall be free of you; and I shall follow my knowledge—ah, so soon, so soon into the julip darkness.’
+Her hand moved to her brow and pushed away a cold lock of hair that clung blackly to her cheek. “I must bear my child,” she said to herself, her lips framing the soundless words, “and then I shall be complete and only myself and all will be over.” Her pupils grew vast. “You shall be free. From the very beginning you shall be free of me, as I shall be free of you; and I shall follow my knowledge—ah, so soon, so soon into the julip darkness.”
 
 She folded her hands and moved slowly towards the dwellings. High on her right hand the great outer wall had become colder; its inner face was draped with shadow and in the depths of the castle Titus sending forth a great tear-filled cry began to struggle with an unnatural strength in the old nurse’s arms. All at once an eyelid of the rich dusk lifted and Hesper burned over Gormenghast as under Keda’s heart her burden struggled.
 
@@ -6123,7 +6123,7 @@ The twelve month cycle was ended. Titus had begun his second year—a year which
 
 Of all this suspicion and restlessness, he knew nothing, and he will have no memories of these days. Yet the aftermath of all that was happening in his infancy will soon be upon him.
 
-Mrs Slagg watched him querulously as he tottered in his efforts to keep balance, for Titus had almost learned to walk. ‘Why won’t he smile?’ she whimpered. ‘Why won’t his little Lordship ever smile?’
+Mrs Slagg watched him querulously as he tottered in his efforts to keep balance, for Titus had almost learned to walk. “Why won’t he smile?” she whimpered. “Why won’t his little Lordship ever smile?”
 
 The sound of Barquentine’s crutch echoed down the hollow corridors. His withered leg padded beside it and the red sacking flapped its tatters in hot gusts. His edicts went forth like oaths.
 
@@ -6217,9 +6217,9 @@ Flay could not see Swelter’s feet, only the silhouetted dome, but by the way i
 
 On reaching the top of the first flight he moved his head around the corner of the wall and he no longer saw the silhouette of his enemy. He saw the whole thing glowing by the light of two candles. The passageway was narrow at this point, broadening about forty to fifty feet further down the corridor to the dimensions of a hall, whence the second flight led up to Lord Sepulchrave’s corridor.
 
-Swelter was standing quite still, but his arms were moving and he appeared to be talking to someone. It was difficult for Flay to see exactly what he was doing until, a moment after he had heard the voice saying: ‘And I’ll make you red and wet, my pretty thing,’ he saw the dim bulk half turn with difficulty in the constricted space of the passageway and he caught the gleam of steel, and a moment later a portion of the shaft and the entire murderous head of the double-handed cleaver. Mr Swelter was nursing it in his arms as though he was suckling it.
+Swelter was standing quite still, but his arms were moving and he appeared to be talking to someone. It was difficult for Flay to see exactly what he was doing until, a moment after he had heard the voice saying: “And I’ll make you red and wet, my pretty thing,” he saw the dim bulk half turn with difficulty in the constricted space of the passageway and he caught the gleam of steel, and a moment later a portion of the shaft and the entire murderous head of the double-handed cleaver. Mr Swelter was nursing it in his arms as though he was suckling it.
 
-‘Oh, so red and wet,’ came the moss-soft voice again, ‘and then we’ll wipe you dry with a nice clean handkerchief. Would you like a silk one, my pretty? Would you? Before we polish you and tuck you up? What, no answer? But you know what Papa’s saying, don’t you now? Of course, you do—after all that he has taught you. And why? Because you’re such a quick, sharp baby—oh, such a sharp baby.’
+“Oh, so red and wet,” came the moss-soft voice again, “and then we’ll wipe you dry with a nice clean handkerchief. Would you like a silk one, my pretty? Would you? Before we polish you and tuck you up? What, no answer? But you know what Papa’s saying, don’t you now? Of course, you do—after all that he has taught you. And why? Because you’re such a quick, sharp baby—oh, such a sharp baby.”
 
 And then Mr Flay was forced to hear the most disgusting sound—as of some kind of low animal with gastric trouble. Mr Swelter was laughing.
 
@@ -6241,7 +6241,7 @@ There was a shallow alcove across the passageway from the top of the stairs—an
 
 The floorboard beneath Mr Flay’s feet lifted, and a wooden ripple ran from one end of the passageway to the other, where it broke upon a cliff of plaster. Curiously enough, it was only through the movement of the boards beneath his feet that Mr Flay knew that the chef had struck, for at the same moment a peal of thunder killed all other sound.
 
-Swelter had brought the cold edge downwards with such a concentration of relish that the excruciating sense of consummation had dulled his wits for a moment, and it was only when he attempted to work the steel away from what gripped its edge that he realized that something was amiss. It is true that he had expected the blade to slide through the ‘prostrate’ beneath him as through butter, for all the thin man’s osseous character—but not, surely—not with *such* ease—such *liquid* ease. Could it be that he had given to the double-handed cleaver such an edge as set up a new sensation—that of killing, as it were, without knowing it—as lazes through long grass the lethal scythe. He had not prodded forward with his toe to make doubly sure—for it had never occurred to him that he who had lain there, night after night, for over twelve years, could be elsewhere. In any event he might have wakened the long scrag by so doing. What had gone wrong? The orgasmic moment he had so long awaited was over. The cleaver was difficult to shift. Perhaps it was caught among the ribs. He began to run his hands down the shaft inch by inch, bending his knees and trunk as he did so, hot tracts of hairless clay redistributing their undulations the while. Inexorably downwards moved his fingers until they itched for contact with the corpse. Surely his hands must by now be almost at the boards themselves, yet he knew how deceptive the sense of distances can be when darkness is complete. And then he came upon the steel. Sliding his palms greedily along either edge he gave a sudden loud, murderous hiss, and loosing his fingers from the edge of the cleaver he swung his bulk about as though his foe were close behind him—and he peered back along the passage at the faint light at the stairhead. There seemed to be no one there, and after a few moments of scrutiny he wiped his hands across his thighs, and turning to the cleaver, wrenched it from the boards.
+Swelter had brought the cold edge downwards with such a concentration of relish that the excruciating sense of consummation had dulled his wits for a moment, and it was only when he attempted to work the steel away from what gripped its edge that he realized that something was amiss. It is true that he had expected the blade to slide through the “prostrate” beneath him as through butter, for all the thin man’s osseous character—but not, surely—not with *such* ease—such *liquid* ease. Could it be that he had given to the double-handed cleaver such an edge as set up a new sensation—that of killing, as it were, without knowing it—as lazes through long grass the lethal scythe. He had not prodded forward with his toe to make doubly sure—for it had never occurred to him that he who had lain there, night after night, for over twelve years, could be elsewhere. In any event he might have wakened the long scrag by so doing. What had gone wrong? The orgasmic moment he had so long awaited was over. The cleaver was difficult to shift. Perhaps it was caught among the ribs. He began to run his hands down the shaft inch by inch, bending his knees and trunk as he did so, hot tracts of hairless clay redistributing their undulations the while. Inexorably downwards moved his fingers until they itched for contact with the corpse. Surely his hands must by now be almost at the boards themselves, yet he knew how deceptive the sense of distances can be when darkness is complete. And then he came upon the steel. Sliding his palms greedily along either edge he gave a sudden loud, murderous hiss, and loosing his fingers from the edge of the cleaver he swung his bulk about as though his foe were close behind him—and he peered back along the passage at the faint light at the stairhead. There seemed to be no one there, and after a few moments of scrutiny he wiped his hands across his thighs, and turning to the cleaver, wrenched it from the boards.
 
 For a short while he stood fingering his misused weapon, and during this space Mr Flay had conceived and acted, moving a few yards further down the corridor where an even more favourable ambush presented itself in the shape of a sagging tapestry. As he moved out into the darkness, for he was beyond the orbit of the candles’ influence, the lightning struck again and flared bluishly through the broken window so that at one and the same moment both Swelter and Flay caught sight of one another. The bluish light had flattened them out like cardboard figures which had, in the case of the chef, an extraordinary effect. Someone with an unpleasant mind had cut him out of an enormous area of electric-blue paper the size of a sheet. For the few moments that the lightning lasted his fingers and thumbs were like bright blue sausages clasped about the cleaver’s handle.
 
@@ -6263,11 +6263,11 @@ As Flay reached the last step he saw that the Earl had stopped and that inevitab
 
 It was so gentle that it seemed as though a voice were evolving from the half-light—a voice of unutterable mournfulness. The lamp in the shadowy hand was failing for lack of oil. The eyes stared through Mr Flay and through the dark wall beyond and on and on through a world of endless rain.
 
-‘Good-bye,’ said the voice. ‘It is all one. Why break the heart that never beat from love? We do not know, sweet girl; the arras hangs: it is so far; so far away, dark daughter. Ah no—not that long shelf—not that long shelf: it is his lifework that the fires are eating. All’s one. Good-bye . . . good-bye.’
+“Good-bye,” said the voice. “It is all one. Why break the heart that never beat from love? We do not know, sweet girl; the arras hangs: it is so far; so far away, dark daughter. Ah no—not that long shelf—not that long shelf: it is his lifework that the fires are eating. All’s one. Good-bye . . . good-bye.”
 
 The Earl climbed a further step upwards. His eyes had become more circular.
 
-‘But they will take me in. Their home is cold; but they will take me in. And it may be their tower is lined with love—each flint a cold blue stanza of delight, each feather, terrible; quills, ink and flax, each talon, glory!’ His accents were infinitely melancholy as he whispered: ‘Blood, blood, and blood and blood, for you, the muffled, all, all for you and I am on my way, with broken branches. She was not mine. Her hair as red as ferns. She was not mine. Mice, mice; the towers crumble—flames are swarmers. There is no swarmer like the nimble flame; and all is over. Good-bye . . . Good-bye. It is all one, for ever, ice and fever. Oh, weariest lover—it will not come again. Be quiet now. Hush, then, and do your will. The moon is always; and you will find them at the mouths of warrens. Great wings shall come, great silent, silent wings. . . . Good-bye. All’s one. All’s one. All’s one.’
+“But they will take me in. Their home is cold; but they will take me in. And it may be their tower is lined with love—each flint a cold blue stanza of delight, each feather, terrible; quills, ink and flax, each talon, glory!” His accents were infinitely melancholy as he whispered: “Blood, blood, and blood and blood, for you, the muffled, all, all for you and I am on my way, with broken branches. She was not mine. Her hair as red as ferns. She was not mine. Mice, mice; the towers crumble—flames are swarmers. There is no swarmer like the nimble flame; and all is over. Good-bye . . . Good-bye. It is all one, for ever, ice and fever. Oh, weariest lover—it will not come again. Be quiet now. Hush, then, and do your will. The moon is always; and you will find them at the mouths of warrens. Great wings shall come, great silent, silent wings. . . . Good-bye. All’s one. All’s one. All’s one.”
 
 He was now on the landing, and for a moment Mr Flay imagined he was about to move across the corridor to a room opposite, where a door was swinging, but he turned to the left. It would have been possible, indeed it would have been easier and more to Flay’s advantage to have turned about and sped to the Hall of Spiders, for Lord Sepulchrave, floating like a slow dream, barred Swelter’s way; but at the very idea Mr Flay recoiled. To leave his sleeping master with a prowling chef at his shoulder horrified him, and he continued his fantastic retreat as before.
 
@@ -6299,11 +6299,11 @@ It was towards the support of this beam that Swelter made his way, beating the f
 
 At any other time the chef would have made play with his superior wit. He would have taunted the long, half-crouching figure before him. But now, with blood to be spilt, what did it matter whether or not he incensed his foe? His wit would fall in a more concrete way. It would flash—but in steel. And let his final insult be that Flay could no longer tell an insult from a lamb-chop—unless with his body in two pieces he were still able to differentiate.
 
-For a moment they stood, moving a little up and down on their toes. With his sword before him Mr Flay began to move along his side of the fallen beam, to the left, in order presumably to come to closer grips. As Swelter moved his little eyes to the right following every movement of the other’s body, he found that his vision was being impeded by so heavy an interfusion of ancient webbing that it would be unwise for him to remain where he was. In a flash he had both taken a sideways pace to his left and switched his eyes in the same direction. Flay at once crept in upon him, his face half shrouded by the thick webs through which he peered. His head was immediately above the lower end of the beam. Swelter’s rapid glance to his left had been fruitful. He had seen the lifted end of the beam as his first true friend in a hall of hindrances, and when his eyes returned to his thin foe his fat lips twisted. Whether such a muscular obscenity could be termed a ‘smile’ he neither knew nor cared. Mr Flay was crouching exactly where he had hoped that he might lure him. His chin was, characteristically, jutting forwards—as though this habit had been formed for Mr Swelter’s convenience alone. There was no time to lose. Swelter was three feet from the raised terminal of the long beam when he sprang. For a moment there was so much flesh and blood in the air that a star changed colour under Saturn’s shoulder. He did not land on his feet. He had not intended to. To bring the entire weight of his body down upon the beam-head was all that mattered. He brought it down; and as his under-belly struck, the far end of the beam leapt like a living thing, and, striking Mr Flay beneath his outstretched jaw, lifted him to his full height before he collapsed, a dead weight, to the floor.
+For a moment they stood, moving a little up and down on their toes. With his sword before him Mr Flay began to move along his side of the fallen beam, to the left, in order presumably to come to closer grips. As Swelter moved his little eyes to the right following every movement of the other’s body, he found that his vision was being impeded by so heavy an interfusion of ancient webbing that it would be unwise for him to remain where he was. In a flash he had both taken a sideways pace to his left and switched his eyes in the same direction. Flay at once crept in upon him, his face half shrouded by the thick webs through which he peered. His head was immediately above the lower end of the beam. Swelter’s rapid glance to his left had been fruitful. He had seen the lifted end of the beam as his first true friend in a hall of hindrances, and when his eyes returned to his thin foe his fat lips twisted. Whether such a muscular obscenity could be termed a “smile” he neither knew nor cared. Mr Flay was crouching exactly where he had hoped that he might lure him. His chin was, characteristically, jutting forwards—as though this habit had been formed for Mr Swelter’s convenience alone. There was no time to lose. Swelter was three feet from the raised terminal of the long beam when he sprang. For a moment there was so much flesh and blood in the air that a star changed colour under Saturn’s shoulder. He did not land on his feet. He had not intended to. To bring the entire weight of his body down upon the beam-head was all that mattered. He brought it down; and as his under-belly struck, the far end of the beam leapt like a living thing, and, striking Mr Flay beneath his outstretched jaw, lifted him to his full height before he collapsed, a dead weight, to the floor.
 
 The chef, heaving himself grotesquely to his feet, could hardly get to the body of his victim quickly enough. There he lay, his coat rucked up at the level of his arm-pits, his lean flank exposed. Mr Swelter raised the cleaver. He had waited so long for this. Many, many months. He turned his eyes to the web-shrouded weapon in his hands, and as he did so Mr Flay’s left eyelid fluttered, and a moment later he had focused the chef and was watching him through his lashes. He had not the strength to move at that horrifying moment. He could only watch. The cleaver was lifted, but he now saw that Swelter was peering quizzically at the blade, his eyebrows raised. And then he heard the sponge-like voice for the second time that night.
 
-‘Would you like to be wiped, my pretty one?’ it said, as though certain that a reply would be forthcoming from the brutal head of steel. ‘You would, wouldn’t you—before you have your supper? Of course. And how could you ever enjoy a nice warm bath with all your clothes on, eh? But I’ll soon be washing you, little blossom. And I must wipe your face, dear; wipe it blue as ink, then you can start drinking, can’t you?’ He held the lean metal head at his bosom. ‘It’s just the thing for thirsty ones, my darling. Just the very nightcap.’ There followed a few moments of low gastric chuckling before he began to drag the webbing from the cleaver’s blade. He was standing about two feet away from the prostrate figure of Flay, who was half in and half out of moonlight. The demarcation line lay across his bare flank. Luckily for him it was his upper half that was in shadow and his head was all but lost. As he watched the overhang above him and noted that the chef had all but cleared the blade of cobwebs, his attention became focused upon the upper segment of the face of his foe. It was veiled, as indeed was the rest of the face and body, with the ubiquitous webs, but it seemed that above the left ear there was something additional. So accustomed had Swelter become to the tickling of the webs across his face and to the hundred minor irritations of the skin, that he had not noticed that upon his right eye there sat a spider. So thickly had his head been draped that he had accepted this impediment to his vision as being part of the general nuisance. Flay could see the spider quite clearly from where he lay, but what he now saw was something fateful. It was the spider’s mate. She had emerged from the grey muddle above the left ear and was taking, leg by leg, the long, thin paces. Was she in search of her husband? If so, her sense of direction was sound, for she made towards him.
+“Would you like to be wiped, my pretty one?” it said, as though certain that a reply would be forthcoming from the brutal head of steel. “You would, wouldn’t you—before you have your supper? Of course. And how could you ever enjoy a nice warm bath with all your clothes on, eh? But I’ll soon be washing you, little blossom. And I must wipe your face, dear; wipe it blue as ink, then you can start drinking, can’t you?” He held the lean metal head at his bosom. “It’s just the thing for thirsty ones, my darling. Just the very nightcap.” There followed a few moments of low gastric chuckling before he began to drag the webbing from the cleaver’s blade. He was standing about two feet away from the prostrate figure of Flay, who was half in and half out of moonlight. The demarcation line lay across his bare flank. Luckily for him it was his upper half that was in shadow and his head was all but lost. As he watched the overhang above him and noted that the chef had all but cleared the blade of cobwebs, his attention became focused upon the upper segment of the face of his foe. It was veiled, as indeed was the rest of the face and body, with the ubiquitous webs, but it seemed that above the left ear there was something additional. So accustomed had Swelter become to the tickling of the webs across his face and to the hundred minor irritations of the skin, that he had not noticed that upon his right eye there sat a spider. So thickly had his head been draped that he had accepted this impediment to his vision as being part of the general nuisance. Flay could see the spider quite clearly from where he lay, but what he now saw was something fateful. It was the spider’s mate. She had emerged from the grey muddle above the left ear and was taking, leg by leg, the long, thin paces. Was she in search of her husband? If so, her sense of direction was sound, for she made towards him.
 
 Swelter was running the flat of his hand along the steel face of his weapon. It was naked for use. Putting his blubber lips to the moonlit steel he kissed it, and then, falling a short step back, he lifted the cleaver with both hands, grasping the long handle high above his lowered head. He stood upon tip-toe, and, poised for a moment thus, went suddenly blind. His left eye had become involved with a female spider. She sat upon it squarely, enjoying the rolling movement of the orb she covered. It was for this precise instant that Flay had been waiting ever since he had caught sight of the insect a few seconds previously. It seemed that he had lain there stretched vulnerably beneath the murderous cleaver for an hour at least. Now was his moment, and gripping his sword which had fallen beside him when he fell, he rolled himself with great rapidity from beneath the belly of the cook and from the cleaver’s range.
 
@@ -6339,15 +6339,15 @@ In after years Mr Flay was almost daily startled to remembrance of what now ensu
 
 He would remember how the Earl at the window was awake; how he had held his rod with the jade knob in his hand, and how he had stepped down in the lake of rain. He had prodded the body and it had twisted for a minute and then righted itself, as though it were alive and had a positive wish to remain staring at the moon. The Earl then closed the cook’s eyes, moving the two petals of pulp over their respective blood-alleys.
 
-‘Mr Flay,’ Lord Sepulchrave had said.
+“Mr Flay,” Lord Sepulchrave had said.
 
-‘Lordship?’ queried his servant, hoarsely.
+“Lordship?” queried his servant, hoarsely.
 
-‘You did not reply to me when I saluted you.’
+“You did not reply to me when I saluted you.”
 
 Flay did not know what his master could mean. Saluted him? He had not been spoken to. And then he remembered the cry of the owl. He shuddered.
 
-Lord Sepulchrave tapped the hilt of the sword-mast with his rod. ‘Do you think that they will enjoy him?’ he said. He parted his lips slowly. ‘We can but proffer him. That is the least we can do.’
+Lord Sepulchrave tapped the hilt of the sword-mast with his rod. “Do you think that they will enjoy him?” he said. He parted his lips slowly. “We can but proffer him. That is the least we can do.”
 
 Of the nightmare that followed it is needful to say only that the long hours of toil which followed culminated at the Tower of Flints to which they had dragged the body, after having steered it between a gap in the battlements through which the lake was emptying itself. Swelter had descended in the two-hundred-foot cascade of moon-sparkling water and they had found his body, spread to the size of a sheet and bubbling on the drenched gravel. A rope had been procured and a hook attached and the long drag had at last been effected.
 
@@ -6356,7 +6356,7 @@ The white silence was terrible. The moonlight like a hoar frost on the Tower of 
 What was once Swelter glistened.
 
  *
-And the Earl had said: ‘This is my hour, Flay. You must go from here, Mr Flay. You must go away. This is the hour of my reincarnation. I must be alone with him. That you killed him is your glory. That I can take him to *them* is mine. Good-bye, for my life is beginning. Good-bye . . . good-bye.’ And he had turned away, one hand still holding the rope, and Flay half ran and half walked for a short distance towards the Castle, his head turned over his shoulder, his body shuddering. When he stopped, the Earl was dragging the glistening thing behind him and was at the time-eaten opening at the base of the Tower.
+And the Earl had said: “This is my hour, Flay. You must go from here, Mr Flay. You must go away. This is the hour of my reincarnation. I must be alone with him. That you killed him is your glory. That I can take him to *them* is mine. Good-bye, for my life is beginning. Good-bye . . . good-bye.” And he had turned away, one hand still holding the rope, and Flay half ran and half walked for a short distance towards the Castle, his head turned over his shoulder, his body shuddering. When he stopped, the Earl was dragging the glistening thing behind him and was at the time-eaten opening at the base of the Tower.
 
 A moment later and he was gone, the flattened weight undulating as it slithered up and over the three steps that led into the corroded entrance, the form of the steps showing in blurred contour.
 
@@ -6394,7 +6394,7 @@ Inexorable as was its course, there was, that summer evening, more destiny in th
 
 Through her, in microcosm, the wide earth sobbed. The star-globe sank in her; the colours faded. The death-dew rose and the wild birds in her breast climbed to her throat and gathered songless, hovering, all tumult, wing to wing, so ardent for those climes where all things end.
 
-To Flay, it was as though the silence of his solitude had been broken, the senses invading each other’s provinces, for on seeing the movement of something the size of the letter ‘i’, that moved in silhouette against the gigantic yellow plate, he had the sensation of waking from a dream which took hold of him. Distant as it was, he could tell it for a human form. That it was Keda it was not in his power to realize. He knew himself for witness. He could not stop himself. He knelt forward on his knees, while the moments melted, one into the next. He grew more rigid. The tiny, infinitely remote figure was moving across the sun towards the crag’s black edge. Impotently, he watched, his jaw thrust forwards and a cold sweat broke across his bony brow, for he knew himself to be in the presence of Sorrow—and an interloper upon something more personal and secret than he had the right to watch. And yet impersonal. For in the figurette was the personification of all pain, taking, through sliding time, its final paces.
+To Flay, it was as though the silence of his solitude had been broken, the senses invading each other’s provinces, for on seeing the movement of something the size of the letter “i”, that moved in silhouette against the gigantic yellow plate, he had the sensation of waking from a dream which took hold of him. Distant as it was, he could tell it for a human form. That it was Keda it was not in his power to realize. He knew himself for witness. He could not stop himself. He knelt forward on his knees, while the moments melted, one into the next. He grew more rigid. The tiny, infinitely remote figure was moving across the sun towards the crag’s black edge. Impotently, he watched, his jaw thrust forwards and a cold sweat broke across his bony brow, for he knew himself to be in the presence of Sorrow—and an interloper upon something more personal and secret than he had the right to watch. And yet impersonal. For in the figurette was the personification of all pain, taking, through sliding time, its final paces.
 
 She moved slowly, for the climb had tired her and it had not been long since she had borne the child of clay, like alabaster, the earthless daughter who had startled all. It was as though Keda was detached from the world, exalted and magnificently alone in the rose-red haze of the upper air. At the edge of the naked drop to the shades below she came to a standstill, and, after a little while, turned her head to Gormenghast and the Dwellings, afloat in the warm haze. They were unreal. They were so far, so remote. No longer of her, they were over. Yet she turned her head for the child’s sake.
 
@@ -6407,7 +6407,7 @@ About her and below lay the world. All things were ebbing. A moon that climbed s
 
 She moved her hair from her eyes and cheekbones. It hung deep and still as the shadow in a well; it hung down her straight back like midnight. Her brown hands pressed the carvings inwards to her breast, and as a smile began to grow, the eyebrows raised a little, she stepped outwards into the dim atmosphere, and falling, was most fabulously lit by the moon and the sun.
 
-## ‘BARQUENTINE AND STEERPIKE’
+## “BARQUENTINE AND STEERPIKE”
 
 The inexplicable disappearance of both Lord Sepulchrave and Swelter was, of course, the burden of Gormenghast—its thoughts’ fibre—from the meanest of the latter’s scullions to the former’s mate. The enigma was absolute, for the whereabouts of Flay was equally obscure.
 
@@ -6429,27 +6429,27 @@ That Titus should from the very beginning be under his control and tutelage was 
 
 He had been impressed by Steerpike’s arrangements for the search, during which he had been forced to come into closer contact with the youth than formerly. There was no love lost between them, but the ancient began to have a grudging respect for the methodical and quickly moving youth. Steerpike was not slow to observe the obscurest signs of this and he played upon them. On the day when, at Barquentine’s orders, the searchings ceased, the youth was ordered to the Room of Documents. There he found the ragged Barquentine seated on a high-backed chair, a variety of books and papers on a stone table before him. It was as though his knotted beard was sitting on the stone between his wrinkled hands. His chin was thrust forward, so that his stretched throat appeared to be composed of a couple of lengths of rope, several cords and a quantity of string. Like his father’s, his head was wrinkled to the brink of belief, his eyes and mouth when closed disappearing altogether. Propped against the stone table was his crutch.
 
-‘You called for me?’ queried Steerpike from the door.
+“You called for me?” queried Steerpike from the door.
 
 Barquentine raised his hot-looking, irritable eyes and dropped the cross-hatched corners of his mouth.
 
-‘Come here, you,’ he rasped.
+“Come here, you,” he rasped.
 
 Steerpike moved to the table, approaching in a curious, swift and sideways manner. There was no carpet on the floor and his footsteps sounded crisply.
 
 When he reached the table and stood opposite the old man, he inclined his head to one side.
 
-‘Search over,’ said Barquentine. ‘Call the dogs off. Do you hear?’
+“Search over,” said Barquentine. “Call the dogs off. Do you hear?”
 
 He spat over his shoulder.
 
 Steerpike bowed.
 
-‘No more nonsense!’ barked the old voice. ‘Body of me, we’ve seen enough of it.’
+“No more nonsense!” barked the old voice. “Body of me, we’ve seen enough of it.”
 
 He started to scratch himself through a horrible-looking tear in his scarlet rags. There was a period of silence while this operation proceeded. Steerpike began to shift the weight of his body to his other leg.
 
-‘Where do you think you’re going to? Stand still, you rat-damned misery, will you? By the lights of the mother I buried rump-end up, hold your clod, boy, hold your clod.’ The hairs about his mouth were stuck with spittle as he fingered his crutch on the stone table.
+“Where do you think you’re going to? Stand still, you rat-damned misery, will you? By the lights of the mother I buried rump-end up, hold your clod, boy, hold your clod.” The hairs about his mouth were stuck with spittle as he fingered his crutch on the stone table.
 
 Steerpike sucked at his teeth. He watched every move of the old man in front of him, and waited for a loophole in the armour.
 
@@ -6465,13 +6465,13 @@ Steerpike was too near it—the nakedness of it. Naked and dry with those wet we
 
 But he could not move away—not without calling down, or rather calling *up*, the wrath of this wizened god. He shut his eyes and worked his tongue into a tooth-crater. Then there was a sound, for Barquentine, having exhausted, apparently, what diversion there was to be found in the youth’s face as seen from below, had spat twice and very rapidly, each expectoration finding a temporary lodging on the bulges of Steerpike’s lowered lids.
 
-‘Open them!’ cried the cracked voice. ‘Open them up, bastard whelp of a whore-rat!’
+“Open them!” cried the cracked voice. “Open them up, bastard whelp of a whore-rat!”
 
 Steerpike with wonder beheld the septuagenarian balancing upon his only leg with the crutch raised above his head. It was not directed at himself, however, but with its grasper swivelled in the direction of the table, seemed about to descend. It did, and a thick dusty mist arose from the books on which it landed. A moth flapped through the dust.
 
 When it had settled, the youth, his head turned over his shoulder, his small dark-red eyes half closed, heard Barquentine say:
 
-‘So you can call the dogs off! Body of me, if it isn’t time! Time and enough. Nine days wasted! Wasted!—by the stones, wasted! Do you hear me, stoat’s lug? Do you hear me?’
+“So you can call the dogs off! Body of me, if it isn’t time! Time and enough. Nine days wasted! Wasted!—by the stones, wasted! Do you hear me, stoat’s lug? Do you hear me?”
 
 Steerpike began to bow, with his eyebrows raised by way of indicating that his ear drums had proved themselves equal to the call made upon them. If the art of gesture had been more acutely developed in him he might have implied by some hyper-subtle inclination of his body that what aural inconvenience he experienced lay not so much in his having to strain his ears, as in having them strained for him.
 
@@ -6479,59 +6479,59 @@ As it was, it proved unnecessary for him to ever complete the bow he had begun, 
 
 He wiped the spittle from his eyelids with one of Dr Prunesquallor’s handkerchiefs.
 
-‘What are those books, boy?’ shouted Barquentine, returning the handle of his crutch to his armpit. ‘By my head of skin, boy, what are they?’
+“What are those books, boy?” shouted Barquentine, returning the handle of his crutch to his armpit. “By my head of skin, boy, what are they?”
 
-‘They are the Law,’ said Steerpike.
+“They are the Law,” said Steerpike.
 
 With four stumps of the crutch the old man was below him again and sluicing him with his hot wet eyes.
 
-‘By the blind powers, it’s the truth,’ he said. He cleared his throat. ‘Don’t stand there staring. What is Law? Answer me, curse you!’
+“By the blind powers, it’s the truth,” he said. He cleared his throat. “Don’t stand there staring. What is Law? Answer me, curse you!”
 
-Steerpike replied without a moment’s consideration but with the worm of his guile like a bait on the hook of his brain: ‘Destiny, sir. Destiny.’
+Steerpike replied without a moment’s consideration but with the worm of his guile like a bait on the hook of his brain: “Destiny, sir. Destiny.”
 
 Vacant, trite and nebulous as was the reply, it was of the right *kind*. Steerpike knew this. The old man was aware of only one virtue—Obedience to Tradition. The destiny of the Groans. The law of Gormenghast.
 
-No individual Groan of flesh and blood could awake in him this loyalty he felt for *‘Groan’* the abstraction—the symbol. That the course of this great dark family river should flow on and on, obeying the contours of hallowed ground, was his sole regard.
+No individual Groan of flesh and blood could awake in him this loyalty he felt for *“Groan”* the abstraction—the symbol. That the course of this great dark family river should flow on and on, obeying the contours of hallowed ground, was his sole regard.
 
-The seventy-sixth Earl should he ever be found, dead or alive, had forfeited his right to burial among the Tombs. Barquentine had spent the day among volumes of ritual and precedent. So exhaustive was the compilation of relevant and tabulated procedure to be adopted in unorthodox and unforeseen circumstances that a parallel to Lord Sepulchrave’s disappearance was at last rooted out by the old man—the fourteenth Earl of Groan having disappeared leaving an infant heir. Nine days only had been allowed for the search, after which the child was to be proclaimed the rightful Earl, standing the while upon a raft of chestnut boughs afloat on the lake, a stone in the right hand, an ivy-branch in the left, and a necklace of snail-shells about the neck; while shrouded in foliage the next of kin and all who were invited to the ‘Earling’ stood, sat, crouched or lay among the branches of the marginal trees.
+The seventy-sixth Earl should he ever be found, dead or alive, had forfeited his right to burial among the Tombs. Barquentine had spent the day among volumes of ritual and precedent. So exhaustive was the compilation of relevant and tabulated procedure to be adopted in unorthodox and unforeseen circumstances that a parallel to Lord Sepulchrave’s disappearance was at last rooted out by the old man—the fourteenth Earl of Groan having disappeared leaving an infant heir. Nine days only had been allowed for the search, after which the child was to be proclaimed the rightful Earl, standing the while upon a raft of chestnut boughs afloat on the lake, a stone in the right hand, an ivy-branch in the left, and a necklace of snail-shells about the neck; while shrouded in foliage the next of kin and all who were invited to the “Earling” stood, sat, crouched or lay among the branches of the marginal trees.
 
 All this had now, once again, hundreds of years later, to be put in hand, for the nine days were over and it was in Barquentine that all power in matters of procedure was vested. It was for him to give the orders. In his little old body was Gormenghast in microcosm.
 
-‘Ferret,’ he said, still staring up at Steerpike, ‘your answer’s good. Body of me, Destiny it is. What is your bastard name, child?’
+“Ferret,” he said, still staring up at Steerpike, “your answer’s good. Body of me, Destiny it is. What is your bastard name, child?”
 
-‘Steerpike, sir.’
+“Steerpike, sir.”
 
-‘Age?’
+“Age?”
 
-‘Seventeen.’
+“Seventeen.”
 
-‘Buds and fledglings? So they still spawn ’em so! Seventeen.’ He put a withered tongue between his dry, wrinkled lips. It might have been the tongue of a boot. ‘Seventeen,’ he repeated in a voice of such ruminative incredulity as startled the youth, for he had never before heard any such intonation emerge from that old throat. ‘Bloody wrinkles! say it again, chicken.’
+“Buds and fledglings? So they still spawn ’em so! Seventeen.” He put a withered tongue between his dry, wrinkled lips. It might have been the tongue of a boot. “Seventeen,” he repeated in a voice of such ruminative incredulity as startled the youth, for he had never before heard any such intonation emerge from that old throat. “Bloody wrinkles! say it again, chicken.”
 
-‘Seventeen,’ said Steerpike.
+“Seventeen,” said Steerpike.
 
 Barquentine went off into a form of trance, the well-heads of his eyes appearing to cloud over and become opaque like miniature sargassos, of dull chalky-blue—the cataract veil—for it seemed that he was trying to remember the daedal days of his adolescence. The birth of the world; of spring on the rim of Time.
 
 Suddenly he came-to, and cursed; and as though to shake off something noxious he worked his shoulder-blades to and fro, as he pad-hopped irritably around his crutch, the ferrule squeaking as it swivelled on the carpetless floor.
 
-‘See here, boy,’ he said, when he had come to a halt, ‘there is work to do. There is a raft to be built, body of me, a raft of chestnut boughs and no other. The procession. The bareback racing for the bagful. The barbecue in the Stone Hall. Hell slice me up, boy! call the hounds off.’
+“See here, boy,” he said, when he had come to a halt, “there is work to do. There is a raft to be built, body of me, a raft of chestnut boughs and no other. The procession. The bareback racing for the bagful. The barbecue in the Stone Hall. Hell slice me up, boy! call the hounds off.”
 
-‘Yes, sir,’ said Steerpike. ‘Shall I send them back to their quarters?’
+“Yes, sir,” said Steerpike. “Shall I send them back to their quarters?”
 
-‘Eh?’ muttered Barquentine, ‘what’s that?’
+“Eh?” muttered Barquentine, “what’s that?”
 
-‘I said shall I return them to their quarters?’ said Steerpike. An affirmative noise from the throat of strings was the reply.
+“I said shall I return them to their quarters?” said Steerpike. An affirmative noise from the throat of strings was the reply.
 
-But as Steerpike began to move off, ‘Not yet, you dotard! Not yet!’ And then: ‘Who’s your master?’
+But as Steerpike began to move off, “Not yet, you dotard! Not yet!” And then: “Who’s your master?”
 
-Steerpike reflected a moment. ‘I have no immediate master,’ he said. ‘I attempt to make myself useful—here and there.’
+Steerpike reflected a moment. “I have no immediate master,” he said. “I attempt to make myself useful—here and there.”
 
-‘You do, do you, my sprig? “Here and there,” do you? I can see through you. Right the way through you, suckling, bones and brain. You can’t fool me, by the stones you can’t. You’re a neat little rat but there’ll be no more “here and there” for you. It will be only “here”, do you understand?’ The old man ground his crutch into the floor. ‘*Here*,’ he added, with an access of vehemence; ‘beside *me*. You may be useful. Very useful.’ He scratched himself through a tear at his armpit.
+“You do, do you, my sprig? ‘Here and there,’ do you? I can see through you. Right the way through you, suckling, bones and brain. You can’t fool me, by the stones you can’t. You’re a neat little rat but there’ll be no more ‘here and there’ for you. It will be only ‘here’, do you understand?” The old man ground his crutch into the floor. “*Here*,” he added, with an access of vehemence; “beside *me*. You may be useful. Very useful.” He scratched himself through a tear at his armpit.
 
-‘What will my salary amount to?’ said Steerpike, putting his hands in his pockets.
+“What will my salary amount to?” said Steerpike, putting his hands in his pockets.
 
-‘Your *keep*, you insolent bastard! your *keep*! What more do you want? Hell fire child! have you no pride? A roof, your food, and the honour of studying the Ritual. Your *keep*, curse you, and the secrets of the Groans. How else could you serve me but by learning the iron Trade? Body of me—I have no son. Are you ready?’
+“Your *keep*, you insolent bastard! your *keep*! What more do you want? Hell fire child! have you no pride? A roof, your food, and the honour of studying the Ritual. Your *keep*, curse you, and the secrets of the Groans. How else could you serve me but by learning the iron Trade? Body of me—I have no son. Are you ready?”
 
-‘I have never been more so,’ said the high-shouldered boy.
+“I have never been more so,” said the high-shouldered boy.
 
 ## BY GORMENGHAST LAKE
 
@@ -6555,55 +6555,55 @@ Stopping for a moment (as though something very important had occurred to him) i
 
 When he had reached the rust-coloured rug he sat quite still a few feet from Mrs Slagg and scrutinized the old lady’s shoe, his elbow on his knee and his chin sunk in his hand, an attitude startlingly adult and inappropriate in a child of less than eighteen months.
 
-‘Oh, my poor heart! how he *does* look,’ came Mrs Slagg’s thin voice. ‘As though I haven’t loved him and toiled to make him joyous. Worn myself out to the marrow for his little Lordship, I have, day after day, night after night, with this after this and that after that piling ag’ny on ag’ny until you’d think he would be glad of love; but he just goes on as though he’s wiser than his old Nannie, who knows all about the vacancies of babies,’ (‘vagaries’, she must have meant), ‘and all I get is naughtiness from his sister—oh, my weak heart, naughtiness and spleen.’
+“Oh, my poor heart! how he *does* look,” came Mrs Slagg’s thin voice. “As though I haven’t loved him and toiled to make him joyous. Worn myself out to the marrow for his little Lordship, I have, day after day, night after night, with this after this and that after that piling ag’ny on ag’ny until you’d think he would be glad of love; but he just goes on as though he’s wiser than his old Nannie, who knows all about the vacancies of babies,” (“vagaries”, she must have meant), “and all I get is naughtiness from his sister—oh, my weak heart, naughtiness and spleen.”
 
 Fuchsia raised herself on her elbow and gazed at the brooding conifers on the far side of the lake. Her eyes were not red from crying: she had cried so much lately that she had drained herself of salt for a little. They had the look of eyes in which hosts of tears had been fought back and had triumphed.
 
-‘What did you say?’
+“What did you say?”
 
-‘That’s it! that’s it!’ Mrs Slagg became petulant. ‘Never listens. Too wise now to listen, I suppose, to an old woman who hasn’t long to live.’
+“That’s it! that’s it!” Mrs Slagg became petulant. “Never listens. Too wise now to listen, I suppose, to an old woman who hasn’t long to live.”
 
-‘I didn’t hear you,’ said Fuchsia.
+“I didn’t hear you,” said Fuchsia.
 
-‘You never *try*,’ replied Nannie. ‘That’s what it is—you never *try*. I might as well not be here.’
+“You never *try*,” replied Nannie. “That’s what it is—you never *try*. I might as well not be here.”
 
-Fuchsia had grown tired of the old nurse’s querulous and tearful admonishments. She shifted her gaze from the pines to her brother, who had begun to struggle with the buckle of one of her shoes. ‘Well, there’s a lovely breeze, anyway,’ she said.
+Fuchsia had grown tired of the old nurse’s querulous and tearful admonishments. She shifted her gaze from the pines to her brother, who had begun to struggle with the buckle of one of her shoes. “Well, there’s a lovely breeze, anyway,” she said.
 
-The old nurse, who had forgotten she was in the middle of chastening Fuchsia, jerked her wizened face towards the girl in a startled way. ‘What, my caution dear?’ she said. And then remembering that her ‘caution’ had been in her disfavour for some reason which she had forgotten, she pursed her face up with a ridiculous and puny haughtiness, as much as to say: ‘I may have called you “my caution dear”, but that doesn’t mean that we’re on speaking terms.’
+The old nurse, who had forgotten she was in the middle of chastening Fuchsia, jerked her wizened face towards the girl in a startled way. “What, my caution dear?” she said. And then remembering that her “caution” had been in her disfavour for some reason which she had forgotten, she pursed her face up with a ridiculous and puny haughtiness, as much as to say: “I may have called you ‘my caution dear’, but that doesn’t mean that we’re on speaking terms.”
 
-Fuchsia gazed at her in a sullen sadness. ‘I said there’s a lovely breeze,’ she repeated.
+Fuchsia gazed at her in a sullen sadness. “I said there’s a lovely breeze,” she repeated.
 
 Mrs Slagg could never keep up her sham dignity for long, and she smacked out at Fuchsia, as a final gesture, and misjudging the distance, her blow fell short and she toppled over on her side. Fuchsia, leaning across the rug, re-established the midget as though she were setting an ornament and left her arm purposely within range, for she knew her old nurse. Sure enough, once Nannie Slagg had recovered and had smoothed out her skirt in front of her and reset her hat with the glass-grapes, she delivered a weak blow at Fuchsia’s arm.
 
-‘What did you say about the breezes, dear? Nothing worth hearing, I expect, as usual.’
+“What did you say about the breezes, dear? Nothing worth hearing, I expect, as usual.”
 
-‘I said they were lovely,’ said Fuchsia.
+“I said they were lovely,” said Fuchsia.
 
-‘Yes, they *are*,’ said Nannie, after reflection. ‘Yes, they *are*, my only—but they don’t make me any younger. They just go round the edge of me and make my skin feel nicer.’
+“Yes, they *are*,” said Nannie, after reflection. “Yes, they *are*, my only—but they don’t make me any younger. They just go round the edge of me and make my skin feel nicer.”
 
-‘Well, that’s better than nothing, I suppose,’ said Fuchsia.
+“Well, that’s better than nothing, I suppose,” said Fuchsia.
 
-‘But it’s not *enough*, you argumentary *thing*. It’s not *enough* when there’s so much to do. What with your big mother being so cross with me as though I could help your poor father’s disappearance and all the trouble of the food in the kitchen; as though *I* could help.’
+“But it’s not *enough*, you argumentary *thing*. It’s not *enough* when there’s so much to do. What with your big mother being so cross with me as though I could help your poor father’s disappearance and all the trouble of the food in the kitchen; as though *I* could help.”
 
 At the mention of her father Fuchsia closed her eyes.
 
-She had herself searched—searched. She had grown far older during the last few weeks—older in that her heart had been taxed by greater strains of passion than it had ever felt before. Fear of the unearthly, the ghastly—for she had been face to face with it—the fear of madness and of a violence she suspected. It had made her older, stiller, more apprehensive. She had known pain—the pain of desolation—of having been forsaken and of losing what little love there was. She had begun to fight back within herself and had stiffened, and she began to be conscious of a vague pride; of an awakening realization of her heritage. Her father in disappearing had completed a link in the immemorial chain. She grieved his loss, her breast heavy and aching with the pain of it; but beyond it and at her back she felt for the first time the mountain-range of the Groans, and that she was no longer free, no longer just Fuchsia, but of the blood. All this was cloud in her. Ominous, magnificent and indeterminate. Something she did not understand. Something which she recoiled from—so incomprehensible in her were its workings. Suddenly she had ceased to be a girl in all save in habits of speech and action. Her mind and heart were older and all things, once so clear, were filled with mist—all was tangled. Nannie repeated again, her dim eyes gazing over the lake: ‘As though *I* could help all the troubles and the badnesses of people here and there doing what they shouldn’t. Oh, my weak heart! as though it were all *my* fault.’
+She had herself searched—searched. She had grown far older during the last few weeks—older in that her heart had been taxed by greater strains of passion than it had ever felt before. Fear of the unearthly, the ghastly—for she had been face to face with it—the fear of madness and of a violence she suspected. It had made her older, stiller, more apprehensive. She had known pain—the pain of desolation—of having been forsaken and of losing what little love there was. She had begun to fight back within herself and had stiffened, and she began to be conscious of a vague pride; of an awakening realization of her heritage. Her father in disappearing had completed a link in the immemorial chain. She grieved his loss, her breast heavy and aching with the pain of it; but beyond it and at her back she felt for the first time the mountain-range of the Groans, and that she was no longer free, no longer just Fuchsia, but of the blood. All this was cloud in her. Ominous, magnificent and indeterminate. Something she did not understand. Something which she recoiled from—so incomprehensible in her were its workings. Suddenly she had ceased to be a girl in all save in habits of speech and action. Her mind and heart were older and all things, once so clear, were filled with mist—all was tangled. Nannie repeated again, her dim eyes gazing over the lake: “As though *I* could help all the troubles and the badnesses of people here and there doing what they shouldn’t. Oh, my weak heart! as though it were all *my* fault.”
 
-‘No one says it’s your fault,’ said Fuchsia. ‘You think people are thinking what they don’t. It hasn’t been anything to do with you.’
+“No one says it’s your fault,” said Fuchsia. “You think people are thinking what they don’t. It hasn’t been anything to do with you.”
 
-‘It hasn’t, *has* it—oh, my caution dear, it hasn’t, *has* it?’ Then her eyes became focused again (as far as they were able). ‘*What* hasn’t, darling?’
+“It hasn’t, *has* it—oh, my caution dear, it hasn’t, *has* it?” Then her eyes became focused again (as far as they were able). “*What* hasn’t, darling?”
 
-‘Never mind,’ said Fuchsia. ‘Look at Titus.’
+“Never mind,” said Fuchsia. “Look at Titus.”
 
 Nannie turned her head, disapproving of Fuchsia’s answer as she did so, and saw the little creature in his yellow shift rise to his feet and walk solemnly away, from the great rust-coloured rug and over the hot drab sand, his hands clasped before him.
 
-‘Don’t *you* go and leave us, too!’ cried Nannie Slagg. ‘We can do without that horrid, fat Mr Swelter, but we can’t do without our little Lordship. We can do without Mr Flay and—’
+“Don’t *you* go and leave us, too!” cried Nannie Slagg. “We can do without that horrid, fat Mr Swelter, but we can’t do without our little Lordship. We can do without Mr Flay and—”
 
-Fuchsia rose to her knees, ‘we can’t! we can’t! Don’t talk like that—so horribly. Don’t talk of it—you never must. Dear Flay and—but you don’t understand; it’s no good. Oh, what has happened to them?’ She sank back on her heels, her lower lip quivering, knowing that she must not let the old nurse’s thoughtless remarks touch on her open wounds.
+Fuchsia rose to her knees, “we can’t! we can’t! Don’t talk like that—so horribly. Don’t talk of it—you never must. Dear Flay and—but you don’t understand; it’s no good. Oh, what has happened to them?” She sank back on her heels, her lower lip quivering, knowing that she must not let the old nurse’s thoughtless remarks touch on her open wounds.
 
 As Mrs Slagg stared open-eyed, both she and Fuchsia were startled by a voice, and, turning, they saw two tall figures approaching them through the trees—a man—and, could it be?—yes, it was—a woman. It had a parasol. Not that there would have been anything masculine about this second figure, even were it to have left the parasol at home. Far from it. The swaying motion was prodigiously feminine. Her long neck was similar to her brother’s, tactlessly so, as would have been her face had not a fair portion of it been mercifully obscured by her black glasses: but their major dissimilarity was manifest in their pelvic zone. The Doctor (for it was Prunesquallor) showed about as much sign of having a pair of hips as an eel set upon its end, while Irma, in white silk, had gone out of her way, it appeared, to exhibit to their worst advantage (her waist being ridiculously tight) a pair of hips capable of balancing upon their osseous shelves enough bric-a-brac to clutter up a kleptomaniac’s cupboard.
 
-‘The top of the morning to you, my dears,’ trilled the Doctor; ‘and when I say “top” I mean the last cubic inch of it that sits, all limpid-like on a crest of ether, ha, ha, ha.’
+“The top of the morning to you, my dears,” trilled the Doctor; “and when I say ‘top’ I mean the last cubic inch of it that sits, all limpid-like on a crest of ether, ha, ha, ha.”
 
 Fuchsia was glad to see the Doctor. She liked him, for all his windy verbiage.
 
@@ -6611,53 +6611,53 @@ Irma, who had hardly been out of doors since that dreadful day when she disgrace
 
 Her long, sharp nose was directed at Fuchsia.
 
-‘Dear child,’ said Irma, ‘are you enjoying the delicious breeze, then, dear child? I said are you enjoying the delicious breeze? Of course. Irrefutably and more so, I have no doubt whatever.’ She smiled, but there was no mirth in her smile, the muscles of her face complying only so far as to move in the directions dictated, but refusing to enter into the spirit of the thing—not that there was any.
+“Dear child,” said Irma, “are you enjoying the delicious breeze, then, dear child? I said are you enjoying the delicious breeze? Of course. Irrefutably and more so, I have no doubt whatever.” She smiled, but there was no mirth in her smile, the muscles of her face complying only so far as to move in the directions dictated, but refusing to enter into the spirit of the thing—not that there was any.
 
-‘Tut tut!’ said her brother in a tone which implied that it was unnecessary to answer his sister’s conventional openings; and he sat down at Fuchsia’s side and flashed her a crocodile smile with gold stoppings.
+“Tut tut!” said her brother in a tone which implied that it was unnecessary to answer his sister’s conventional openings; and he sat down at Fuchsia’s side and flashed her a crocodile smile with gold stoppings.
 
-‘I’m glad you’ve come,’ said Fuchsia.
+“I’m glad you’ve come,” said Fuchsia.
 
 He patted her on the knee in a friendly staccato way, and then turned to Nannie.
 
-‘*Mrs* Slagg,’ he said, laying great emphasis upon the ‘Mrs’ as though it was some unique prefix, ‘and how are *you*? How’s the blood-stream, my dear, invaluable little woman? How’s the blood-stream? Come, come, let your doctor know.’
+“*Mrs* Slagg,” he said, laying great emphasis upon the “Mrs” as though it was some unique prefix, “and how are *you*? How’s the blood-stream, my dear, invaluable little woman? How’s the blood-stream? Come, come, let your doctor know.”
 
 Nannie edged a little closer to Fuchsia, who sat between them, and peered at the Doctor around her shoulder.
 
-‘It’s quite comfortable, sir . . . I think, sir, thank you,’ she said.
+“It’s quite comfortable, sir . . . I think, sir, thank you,” she said.
 
-‘Aha!’ said Prunesquallor, stroking his smooth chin, ‘a comfortable stream, is it? Aha! v-e-r-y good. V-e-r-y good. Dawdling lazily ’twixt hill and hill, no doubt. Meandering through groves of bone, threading the tissues and giving what sustenance it can to your dear old body. Mrs Slagg, I am *so* glad. But in your*self*—right deep down in your*self*—how do you feel? Carnally speaking, are you at peace—from the dear grey hairs of your head to the patter of your little feet—are you at peace?’
+“Aha!” said Prunesquallor, stroking his smooth chin, “a comfortable stream, is it? Aha! v-e-r-y good. V-e-r-y good. Dawdling lazily ’twixt hill and hill, no doubt. Meandering through groves of bone, threading the tissues and giving what sustenance it can to your dear old body. Mrs Slagg, I am *so* glad. But in your*self*—right deep down in your*self*—how do you feel? Carnally speaking, are you at peace—from the dear grey hairs of your head to the patter of your little feet—are you at peace?”
 
-‘What does he mean, dear?’ said poor Mrs Slagg, clutching Fuchsia’s arm. ‘Oh, my poor heart, what does the Doctor mean?’
+“What does he mean, dear?” said poor Mrs Slagg, clutching Fuchsia’s arm. “Oh, my poor heart, what does the Doctor mean?”
 
-‘He wants to know if you feel well or not,’ said Fuchsia.
+“He wants to know if you feel well or not,” said Fuchsia.
 
 Nannie turned her red-rimmed eyes to the shock-headed, smooth-skinned man, whose eyes behind their magnifying spectacles swam and bulged.
 
-‘Come, come, my dear Mrs Slagg, I’m not going to eat you. Oh, dear no. Not even with some toast to pop you on, and a little pepper and salt. Not a bit of it. You have been unwell, oh dear, yes—since the conflagration. My dear woman, you have been unwell—most unwell, and most naturally. But are you *better*—that’s what your doctor wants to know—are you *better*?’
+“Come, come, my dear Mrs Slagg, I’m not going to eat you. Oh, dear no. Not even with some toast to pop you on, and a little pepper and salt. Not a bit of it. You have been unwell, oh dear, yes—since the conflagration. My dear woman, you have been unwell—most unwell, and most naturally. But are you *better*—that’s what your doctor wants to know—are you *better*?”
 
-Nannie opened her puckered little mouth. ‘I ebbs and I flows, sir,’ she said, ‘and I falls away like.’ Then she turned her head to Fuchsia very quickly as though to make sure she was still there, the glass grapes tinkling on her hat.
+Nannie opened her puckered little mouth. “I ebbs and I flows, sir,” she said, “and I falls away like.” Then she turned her head to Fuchsia very quickly as though to make sure she was still there, the glass grapes tinkling on her hat.
 
-Doctor Prunesquallor brought forth a large silk handkerchief and began to dab his forehead. Irma, after a good deal of difficulty, presumably with whalebones and such like, had managed to sit down on the rug amid a good deal of creaking as of pulleys, cranks, hawsers and fish-hooks. She did not approve of sitting on the ground, but she was tired of looking down on their heads and decided to risk a brief interlude of unladyness. She was staring at Titus and saying to herself: ‘If that were my child I should cut his hair, especially with his position to keep up.’
+Doctor Prunesquallor brought forth a large silk handkerchief and began to dab his forehead. Irma, after a good deal of difficulty, presumably with whalebones and such like, had managed to sit down on the rug amid a good deal of creaking as of pulleys, cranks, hawsers and fish-hooks. She did not approve of sitting on the ground, but she was tired of looking down on their heads and decided to risk a brief interlude of unladyness. She was staring at Titus and saying to herself: “If that were my child I should cut his hair, especially with his position to keep up.”
 
-‘And what does your “ebbing” consist of?’ said the Doctor, returning his silk handkerchief to his pocket. ‘Is it your heart that’s tidal—or your nerves—or your liver, bless you—or a general weariness of the flesh?’
+“And what does your ‘ebbing’ consist of?” said the Doctor, returning his silk handkerchief to his pocket. “Is it your heart that’s tidal—or your nerves—or your liver, bless you—or a general weariness of the flesh?”
 
-‘I get tired,’ said Mrs Slagg. ‘I get so tired, sir. I have *everything* to do.’ The poor old lady began to tremble.
+“I get tired,” said Mrs Slagg. “I get so tired, sir. I have *everything* to do.” The poor old lady began to tremble.
 
-‘Fuchsia,’ said the Doctor, ‘come along this evening and I’ll give you a tonic which you must make her take every day. By all that’s amaranthine you really must. Balsam and swansdown, Fuchsia dear, cygnets and the eider bird, she must take it every day—syrup on the nerves, dear, and fingers cool as tombs for her old, old brow.’
+“Fuchsia,” said the Doctor, “come along this evening and I’ll give you a tonic which you must make her take every day. By all that’s amaranthine you really must. Balsam and swansdown, Fuchsia dear, cygnets and the eider bird, she must take it every day—syrup on the nerves, dear, and fingers cool as tombs for her old, old brow.”
 
-‘Nonsense,’ said his sister. ‘I said nonsense, Bernard.’
+“Nonsense,” said his sister. “I said nonsense, Bernard.”
 
-‘And here,’ continued Doctor Prunesquallor, taking no notice of his sister’s interjection, ‘is Titus. Apparisoned in a rag torn from the sun itself, ha, ha, ha! How vast he is getting! But how solemn.’ He made clucking noises in his cheek. ‘The great day draws near, doesn’t it?’
+“And here,” continued Doctor Prunesquallor, taking no notice of his sister’s interjection, “is Titus. Apparisoned in a rag torn from the sun itself, ha, ha, ha! How vast he is getting! But how solemn.” He made clucking noises in his cheek. “The great day draws near, doesn’t it?”
 
-‘Do you mean the “Earling”?’ said Fuchsia.
+“Do you mean the ‘Earling’?” said Fuchsia.
 
-‘No less,’ said Prunesquallor, his head on one side.
+“No less,” said Prunesquallor, his head on one side.
 
-‘Yes,’ she answered, ‘it is in four days’ time. They are making the raft.’ Then suddenly, as though she could hold back the burden of her thoughts no longer: ‘Oh, Doctor Prune, I must talk to you! May I see you soon? Soon? Don’t use long words with me when we’re alone, dear Doctor, like you sometimes do, because I’m so . . . well . . . because I’ve got—I’ve got worries. Doctor Prune.’
+“Yes,” she answered, “it is in four days’ time. They are making the raft.” Then suddenly, as though she could hold back the burden of her thoughts no longer: “Oh, Doctor Prune, I must talk to you! May I see you soon? Soon? Don’t use long words with me when we’re alone, dear Doctor, like you sometimes do, because I’m so . . . well . . . because I’ve got—I’ve got worries. Doctor Prune.”
 
 Prunesquallor languidly began to make marks in the sand with his long white forefinger. Fuchsia, wondering why he did not reply, dropped her eyes and saw that he had written:
 
-‘9 o’clock tonight Cool Room.’
+“9 o’clock tonight Cool Room.”
 
 Then the long hand brushed away the message and at the same moment they were conscious of presences behind them and, turning, they saw the twins, Fuchsia’s identical aunts, standing like purple carvings in the heat.
 
@@ -6669,111 +6669,111 @@ From the sky’s zenith to where he sat upon the strip of sand it seemed that a 
 
 Fuchsia felt uncomfortable with her aunts standing immediately behind her. She looked up sideways at them and it was hard to conceive that they would ever be able to move again. Effigies, white-faced, white-handed, and hung with imperial purple. Mrs Slagg was still unaware of their presence, and in the silence a silly impulse to chatter gripped her, and, forgetting her nervousness, she perked her head up at the standing Doctor.
 
-‘You see, excuse me, Doctor sir,’ she said, startling herself by her own bravery, ‘you see, I’ve always been of the energetic system, sir. That’s how I always was since I was a little girl, doing this and that by turns. “What *will* she do next?” they always said. Always.’
+“You see, excuse me, Doctor sir,” she said, startling herself by her own bravery, “you see, I’ve always been of the energetic system, sir. That’s how I always was since I was a little girl, doing this and that by turns. ‘What *will* she do next?’ they always said. Always.”
 
-‘I am sure they did,’ answered the Doctor, reseating himself on the rug and turning to Nannie Slagg, his eyebrows raised, and a look of incredulous absorption on his pink face.
+“I am sure they did,” answered the Doctor, reseating himself on the rug and turning to Nannie Slagg, his eyebrows raised, and a look of incredulous absorption on his pink face.
 
 Mrs Slagg was encouraged. No one had ever before appeared to be so interested in anything she said. Prunesquallor had decided that there was a fair chance of the twins remaining transfixed as they were, for a good half-hour yet, and that to hang around on his elegant legs was neither in his interests, physically, nor in accord with his self-respect, which, although of peculiar brand was nevertheless deep-rooted. They had not acknowledged his gesture. It is true they had not noticed it—but that was not his fault.
 
-‘To hell with the old trouts,’ he trilled to himself. ‘Breastless as wallpaper. By all that’s sentient, my last post-mortem had more go in it than the pair of ’em, turning somersaults.’
+“To hell with the old trouts,” he trilled to himself. “Breastless as wallpaper. By all that’s sentient, my last post-mortem had more go in it than the pair of ’em, turning somersaults.”
 
 As he held forth, inwardly, he was paying, outwardly, the most passionate attention to Mrs Slagg’s every syllable.
 
-‘And it’s always been the same,’ she was quavering, ‘always the same. Responserverity all the time, Doctor; and I’m not a little thing any more.’
+“And it’s always been the same,” she was quavering, “always the same. Responserverity all the time, Doctor; and I’m not a little thing any more.”
 
-‘Of course not, of course not, tut, tut; by all that’s shrewd you speak nobly, Mrs Slagg—very nobly,’ said Prunesquallor, considering at the same time whether there would have been enough room for her in his black bag, without removing the bottles.
+“Of course not, of course not, tut, tut; by all that’s shrewd you speak nobly, Mrs Slagg—very nobly,” said Prunesquallor, considering at the same time whether there would have been enough room for her in his black bag, without removing the bottles.
 
-‘Because we’re not as young as we *were*, are we, sir?’
+“Because we’re not as young as we *were*, are we, sir?”
 
-Prunesquallor considered this point very carefully. Then he shook his head. ‘What you say has the ring of truth in it,’ he said. ‘In fact, it has every possible kind of ring in it. Ring-ting, my heart’s on the wing, as it were. But tell me, Mrs Slagg—tell me in your own concise way—of Mr Slagg—or am I being indelicate? No—no—it couldn’t be. Do *you* know, Fuchsia? Do you? For myself, I am at sea over Mr Slagg. He is under my keel—utterly under. That’s queer! Utterly under. Or isn’t it? No matter. To put it brutally: was there a—No, no! Finesse, *please*. Who was—No, no! Crude; crude. Forgive me. Of Mr Slagg, dear lady, have you any . . . kind of—Good gracious me! and I’ve known you all this long while and then *this* teaser comes—crops up like a dove on tenterhooks. There’s a “ring” in that—ha, ha, ha! And what a teaser! Don’t you think so, dear?’
+Prunesquallor considered this point very carefully. Then he shook his head. “What you say has the ring of truth in it,” he said. “In fact, it has every possible kind of ring in it. Ring-ting, my heart’s on the wing, as it were. But tell me, Mrs Slagg—tell me in your own concise way—of Mr Slagg—or am I being indelicate? No—no—it couldn’t be. Do *you* know, Fuchsia? Do you? For myself, I am at sea over Mr Slagg. He is under my keel—utterly under. That’s queer! Utterly under. Or isn’t it? No matter. To put it brutally: was there a—No, no! Finesse, *please*. Who was—No, no! Crude; crude. Forgive me. Of Mr Slagg, dear lady, have you any . . . kind of—Good gracious me! and I’ve known you all this long while and then *this* teaser comes—crops up like a dove on tenterhooks. There’s a ‘ring’ in that—ha, ha, ha! And what a teaser! Don’t you think so, dear?”
 
 He turned to Fuchsia.
 
 She could not help smiling, but held the old nurse’s hand.
 
-‘When did you marry Mr Slagg, Nannie?’ she asked.
+“When did you marry Mr Slagg, Nannie?” she asked.
 
-Prunesquallor heaved a sigh. ‘The direct approach,’ he murmured. ‘The apt angle. God bless my circuitous soul, we learn . . . we learn.’
+Prunesquallor heaved a sigh. “The direct approach,” he murmured. “The apt angle. God bless my circuitous soul, we learn . . . we learn.”
 
 Mrs Slagg became very proud and rigid from the glass grapes on her hat to her little seat.
 
-‘Mr Slagg,’ she said in a thin, high voice, ‘married *me*.’ She paused, having delivered, as it seemed to her, the main blow; and then, as an afterthought: ‘He died the same night—and no wonder.’
+“Mr Slagg,” she said in a thin, high voice, “married *me*.” She paused, having delivered, as it seemed to her, the main blow; and then, as an afterthought: “He died the same night—and no wonder.”
 
-‘Good heavens—alive and dead and half way between. By all that’s enigmatic, my dear, dear Mrs Slagg, what can you possibly *mean*?’ cried the Doctor, in so high a treble that a bird rattled its way through the leaves of a tree behind them and sped to the west.
+“Good heavens—alive and dead and half way between. By all that’s enigmatic, my dear, dear Mrs Slagg, what can you possibly *mean*?” cried the Doctor, in so high a treble that a bird rattled its way through the leaves of a tree behind them and sped to the west.
 
-‘He had a stroke,’ said Mrs Slagg.
+“He had a stroke,” said Mrs Slagg.
 
-‘We’ve—had—strokes—too,’ said a voice.
+“We’ve—had—strokes—too,” said a voice.
 
 They had forgotten the twins and all three turned their startled heads, but they were not in time to see which mouth had opened.
 
-But as they stared Clarice intoned: ‘Both of us, at the same time. It was lovely.’
+But as they stared Clarice intoned: “Both of us, at the same time. It was lovely.”
 
-‘No, it wasn’t,’ said Cora. ‘You forget what a nuisance it became.’
+“No, it wasn’t,” said Cora. “You forget what a nuisance it became.”
 
-‘Oh, *that*!’ replied her sister. ‘I didn’t mind *that*. It’s when we couldn’t do things with the left side of us that I didn’t like it much.’
+“Oh, *that*!” replied her sister. “I didn’t mind *that*. It’s when we couldn’t do things with the left side of us that I didn’t like it much.”
 
-‘That’s what I said, didn’t I?’
+“That’s what I said, didn’t I?”
 
-‘Oh no, you didn’t.’
+“Oh no, you didn’t.”
 
-‘Clarice Groan,’ said Cora, ‘don’t be above yourself.’
+“Clarice Groan,” said Cora, “don’t be above yourself.”
 
-‘How do you mean?’ said Clarice, raising her eyes nervously.
+“How do you mean?” said Clarice, raising her eyes nervously.
 
-Cora turned to the Doctor for the first time. ‘She’s ignorant,’ she said blankly. ‘She doesn’t understand figures of eight.’
+Cora turned to the Doctor for the first time. “She’s ignorant,” she said blankly. “She doesn’t understand figures of eight.”
 
-Nannie could not resist correcting the Lady Cora, for the Doctor’s attention had infected her with an eagerness to go on talking. A little nervous smile appeared on her lips, however, when she said: ‘You don’t mean “figures of eight”, Lady Cora; you mean “figures of speech”.’
+Nannie could not resist correcting the Lady Cora, for the Doctor’s attention had infected her with an eagerness to go on talking. A little nervous smile appeared on her lips, however, when she said: “You don’t mean ‘figures of eight’, Lady Cora; you mean ‘figures of speech’.”
 
 Nannie was so pleased at knowing the expression that the smile remained shuddering in the wrinkles of her lips until she realized that she was being stared at by the aunts.
 
-‘Servant,’ said Cora. ‘Servant . . .’
+“Servant,” said Cora. “Servant . . .”
 
-‘Yes, my lady. Yes, yes, my lady,’ said Nannie Slagg, struggling to her feet.
+“Yes, my lady. Yes, yes, my lady,” said Nannie Slagg, struggling to her feet.
 
-‘Servant,’ echoed Clarice, who had rather enjoyed what had happened.
+“Servant,” echoed Clarice, who had rather enjoyed what had happened.
 
-Cora turned to her sister. ‘There’s no need for *you* to say anything.’
+Cora turned to her sister. “There’s no need for *you* to say anything.”
 
-‘Why not?’ said Clarice.
+“Why not?” said Clarice.
 
-‘Because it wasn’t you that she was disobedient with, stupid.’
+“Because it wasn’t you that she was disobedient with, stupid.”
 
-‘But I want to give her some punishment, too,’ said Clarice.
+“But I want to give her some punishment, too,” said Clarice.
 
-‘Why?’
+“Why?”
 
-‘Because I haven’t given any for such a long time. . . . Have you?’
+“Because I haven’t given any for such a long time. . . . Have you?”
 
-‘You’ve *never* given any at all,’ said Cora.
+“You’ve *never* given any at all,” said Cora.
 
-‘Oh yes, I have.’
+“Oh yes, I have.”
 
-‘Who to?’
+“Who to?”
 
-‘It doesn’t matter *who* it was. I’ve given it, and that’s that.’
+“It doesn’t matter *who* it was. I’ve given it, and that’s that.”
 
-‘That’s what?’
+“That’s what?”
 
-‘That’s the punishment.’
+“That’s the punishment.”
 
-‘Do you mean like our brother’s?’
+“Do you mean like our brother’s?”
 
-‘I don’t know. But we mustn’t burn *her*, must we?’
+“I don’t know. But we mustn’t burn *her*, must we?”
 
 Fuchsia had risen to her feet. To strike her aunts, or even to touch them, would have made her quite ill and it is difficult to know what she was about to do. Her hands were shaking at her sides.
 
-The phrase, ‘But we mustn’t burn *her*, must we?’ had found itself a long shelf at the back of Doctor Prunesquallor’s brain that was nearly empty, and the ridiculous little phrase found squatting drowsily at one end was soon thrown out by the lanky newcomer, which stretched its body along the shelf from the ‘B’ of its head to the ‘e’ of its tail, and turning over had twenty-four winks (in defiance of the usual convention)—deciding upon one per letter and two over for luck; for there was not much time for slumber, the owner of this shelf—of the whole bone house, in fact—being liable to pluck from the most obscure of his grey-cell caves and crannies, let alone the shelves, the drowsy phrases at any odd moment. There was no real peace. Nannie Slagg, with her knuckles between her teeth, was trying to keep her tears back.
+The phrase, “But we mustn’t burn *her*, must we?” had found itself a long shelf at the back of Doctor Prunesquallor’s brain that was nearly empty, and the ridiculous little phrase found squatting drowsily at one end was soon thrown out by the lanky newcomer, which stretched its body along the shelf from the “B” of its head to the “e” of its tail, and turning over had twenty-four winks (in defiance of the usual convention)—deciding upon one per letter and two over for luck; for there was not much time for slumber, the owner of this shelf—of the whole bone house, in fact—being liable to pluck from the most obscure of his grey-cell caves and crannies, let alone the shelves, the drowsy phrases at any odd moment. There was no real peace. Nannie Slagg, with her knuckles between her teeth, was trying to keep her tears back.
 
-Irma was staring in the opposite direction. Ladies did not participate in ‘situations’. They did not *apprehend* them. She remembered that perfectly. It was Lesson Seven. She arched her nostrils until they were positively triumphal and convinced herself that she was not listening very hard.
+Irma was staring in the opposite direction. Ladies did not participate in “situations”. They did not *apprehend* them. She remembered that perfectly. It was Lesson Seven. She arched her nostrils until they were positively triumphal and convinced herself that she was not listening very hard.
 
-Dr Prunesquallor, imagining the time to be ripe, leapt to his feet and, swaying like a willow wand that had been stuck in the ground and twanged at its so exquisitely peeled head—uttered a strangely bizarre cry, followed by a series of trills, which can only be stylized by the ‘Ha-ha-ha-ha-ha-ha-ha-ha-­ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha’, of literary convention, and wound up with:
+Dr Prunesquallor, imagining the time to be ripe, leapt to his feet and, swaying like a willow wand that had been stuck in the ground and twanged at its so exquisitely peeled head—uttered a strangely bizarre cry, followed by a series of trills, which can only be stylized by the “Ha-ha-ha-ha-ha-ha-ha-ha-­ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha”, of literary convention, and wound up with:
 
-‘Titus! By all that’s infinitesimal. Lord-bless-my-soul, if he hasn’t been eaten by a shark!’
+“Titus! By all that’s infinitesimal. Lord-bless-my-soul, if he hasn’t been eaten by a shark!”
 
 Which of the five heads turned itself the most rapidly would be difficult to assess. Possibly Nannie was a fraction of a second behind the others, for the double reason that the condition of her neck was far from plastic and because any ejaculation, however dramatic and however much it touched on her immediate concerns, took time to percolate to the correct area of her confused little brain.
 
-However, the word ‘Titus’ was different in that it had before now discovered a short cut through the cells. Her heart had leapt more quickly than her brain and, obeying it involuntarily, before her body knew that it had received any orders through the usual channels, she was upon her feet and had begun to totter to the shore.
+However, the word “Titus” was different in that it had before now discovered a short cut through the cells. Her heart had leapt more quickly than her brain and, obeying it involuntarily, before her body knew that it had received any orders through the usual channels, she was upon her feet and had begun to totter to the shore.
 
 She did not trouble to consider whether there could possibly *be* a shark in the fresh water that stretched before her; nor whether the Doctor would have spoken so flippantly about the death of the only male heir; nor whether, if he *had* been swallowed she could do anything about it. All she knew was that she must run to where he used to be.
 
@@ -6783,19 +6783,19 @@ Tottering with her burden, she cast a last apprehensive glance at the glittering
 
 Prunesquallor had begun to take a few loping, toe-pointed paces after her, not having realized how shattering his little joke would be. He had stopped, however, reflecting that since there *was* to be a shark, it would be best for Mrs Slagg to frustrate its evil plans for the sake of her future satisfaction. His only anxiety was that her heart would not be overtaxed. What he had hoped to achieve by his fanciful outcry had materialized, namely the cessation of the ridiculous quarrel and the freeing of Nannie Slagg from further mortification.
 
-The twins were quite at a loss for some while. ‘I saw it,’ said Cora.
+The twins were quite at a loss for some while. “I saw it,” said Cora.
 
 Clarice, not to be outdone, had seen it as well. Neither of them was very interested.
 
 Fuchsia turned to the Doctor as Nannie sat down, breathless, on the rust-coloured rug, Titus sliding from her arms.
 
-‘You shouldn’t have done that, Doctor Prune,’ she said. ‘But, oh, Lord, how funny! Did you see Miss Prunesquallor’s face?’ She began to giggle, without mirth in her eyes. And then: ‘Oh, Doctor Prune, I shouldn’t have said that—she’s your sister.’
+“You shouldn’t have done that, Doctor Prune,” she said. “But, oh, Lord, how funny! Did you see Miss Prunesquallor’s face?” She began to giggle, without mirth in her eyes. And then: “Oh, Doctor Prune, I shouldn’t have said that—she’s your sister.”
 
-‘Only just,’ said the Doctor; and putting his teeth near Fuchsia’s ear he whispered: ‘She thinks she’s a lady.’ And then he grinned until the very lake seemed to be in danger of engulfment. ‘Oh, dear! the poor thing. Tries so hard, and the more she tries the less she *is*. Ha! ha! ha! Take it from me, Fuchsia dear, the only ladies are those to whom the idea of whether they are or not never occurs. Her blood’s all right—Irma’s—same as mine, ha, ha, ha! but it doesn’t go by blood. Its equipoise, my Gipsy, equipoise that does it—with a bucketful of tolerance thrown in. Why, bless my inappropriate soul, if I’m not treading on the skirts of the serious. Tut, tut, if I’m not.’
+“Only just,” said the Doctor; and putting his teeth near Fuchsia’s ear he whispered: “She thinks she’s a lady.” And then he grinned until the very lake seemed to be in danger of engulfment. “Oh, dear! the poor thing. Tries so hard, and the more she tries the less she *is*. Ha! ha! ha! Take it from me, Fuchsia dear, the only ladies are those to whom the idea of whether they are or not never occurs. Her blood’s all right—Irma’s—same as mine, ha, ha, ha! but it doesn’t go by blood. Its equipoise, my Gipsy, equipoise that does it—with a bucketful of tolerance thrown in. Why, bless my inappropriate soul, if I’m not treading on the skirts of the serious. Tut, tut, if I’m not.”
 
 By now they were all sitting upon the rug and between them creating a monumental group of unusual grandeur. The little gusts of air were still leaping through the wood and ruffling the lake. The branches of the trees behind them chafed one another, and their leaves, like a million conspiring tongues, were husky with heresy.
 
-Fuchsia was about to ask what ‘equipoise’ meant when her eye was caught by a movement among the trees on the farther side of the lake, and a moment later she was surprised to see a column of figures threading their way down to the shore, along which they began to move to the north, appearing and disappearing as the great water-growing cedars shrouded or revealed them.
+Fuchsia was about to ask what “equipoise” meant when her eye was caught by a movement among the trees on the farther side of the lake, and a moment later she was surprised to see a column of figures threading their way down to the shore, along which they began to move to the north, appearing and disappearing as the great water-growing cedars shrouded or revealed them.
 
 Saving for the foremost figure, they carried loops of rope and the boughs of trees across their shoulders, and excepting the leader they appeared to be oldish men, for they moved heavily.
 
@@ -6803,151 +6803,151 @@ They were the Raft-makers, and were on their way by the traditional footpath, on
 
 It was quite obvious who the leading figure was. There could be no mistaking that nimble, yet shuffling and edgeways-on—that horribly deliberate motivation that was neither walking nor running—both close to the ground as though on the scent, and yet loosely and nimbly above it.
 
-Fuchsia watched him, fascinated. It was not often that Steerpike was to be seen without his knowing it. The Doctor, following Fuchsia’s eyes, was equally able to recognize the youth. His pink brow clouded. He had been cogitating a great deal lately on this and that—*this* being in the main the inscrutable and somehow ‘foreign’ youth, and *that* centring for the most part on the mysterious Burning. There had been so strange a crop of enigmas of late. If they had not been of so serious a character Doctor Prunesquallor would have found in them nothing but diversion. The unexpected did so much to relieve the monotony of the Castle’s endless rounds of unwavering procedure; but Death and Disappearance were no tit-bits for a jaded palate. They were too huge to be swallowed, and tasted like bile.
+Fuchsia watched him, fascinated. It was not often that Steerpike was to be seen without his knowing it. The Doctor, following Fuchsia’s eyes, was equally able to recognize the youth. His pink brow clouded. He had been cogitating a great deal lately on this and that—*this* being in the main the inscrutable and somehow “foreign” youth, and *that* centring for the most part on the mysterious Burning. There had been so strange a crop of enigmas of late. If they had not been of so serious a character Doctor Prunesquallor would have found in them nothing but diversion. The unexpected did so much to relieve the monotony of the Castle’s endless rounds of unwavering procedure; but Death and Disappearance were no tit-bits for a jaded palate. They were too huge to be swallowed, and tasted like bile.
 
-Although the Doctor, with a mind of his own, had positively heterodox opinions regarding certain aspects of the Castle’s life—opinions too free to be expressed in an atmosphere where the woof and warp of the dark place and its past were synonymous with the mesh of veins in the bodies of its denizens—yet he was *of* the place and was a freak only in that his mind worked in a wide way, relating and correlating his thoughts so that his conclusions were often clear and accurate and nothing short of heresy. But this did not mean that he considered himself to be superior. Oh no. He was not. The blind faith was the pure faith, however muddy the brain. His gem-like conclusions may have been of the first water, but his essence and his spirit were warped in proportion to his disbelief in the value of even the most footling observance. He was no outsider—and the tragedies that had occurred touched him upon the raw. His airy and fatuous manner was deceptive. As he trilled, as he prattled, as he indulged in his spontaneous ‘conceits’, as he gestured, fop-like and grotesque, his magnified eyes skidding to and fro behind the lenses of his glasses, like soap at the bottom of a bath, his brain was often other-where, and these days it was well occupied. He was marshalling the facts at his disposal—his odds and ends of information, and peering at them with the eye of his brain, now from this direction, now from that; now from below, now from above, as he talked, or seemed to listen, by day and by night, or in the evening with his feet on the mantelpiece, a liqueur at his elbow and his sister in the opposite chair.
+Although the Doctor, with a mind of his own, had positively heterodox opinions regarding certain aspects of the Castle’s life—opinions too free to be expressed in an atmosphere where the woof and warp of the dark place and its past were synonymous with the mesh of veins in the bodies of its denizens—yet he was *of* the place and was a freak only in that his mind worked in a wide way, relating and correlating his thoughts so that his conclusions were often clear and accurate and nothing short of heresy. But this did not mean that he considered himself to be superior. Oh no. He was not. The blind faith was the pure faith, however muddy the brain. His gem-like conclusions may have been of the first water, but his essence and his spirit were warped in proportion to his disbelief in the value of even the most footling observance. He was no outsider—and the tragedies that had occurred touched him upon the raw. His airy and fatuous manner was deceptive. As he trilled, as he prattled, as he indulged in his spontaneous “conceits”, as he gestured, fop-like and grotesque, his magnified eyes skidding to and fro behind the lenses of his glasses, like soap at the bottom of a bath, his brain was often other-where, and these days it was well occupied. He was marshalling the facts at his disposal—his odds and ends of information, and peering at them with the eye of his brain, now from this direction, now from that; now from below, now from above, as he talked, or seemed to listen, by day and by night, or in the evening with his feet on the mantelpiece, a liqueur at his elbow and his sister in the opposite chair.
 
 He glanced at Fuchsia to make sure that she had recognized the distant boy, and was surprised to see a look of puzzled absorption on her dark face, her lips parted a little as though from a faint excitement. By now the crocodile of figures was rounding the bend of the lake away to their left. And then it stopped. Steerpike was moving away from the retainers, to the shore. He had apparently given them an order, for they all sat down among the shore-side pines and watched him as he stripped himself of his clothes and thrust his swordstick, point down, into the muddy bank. Even from so great a distance it could be seen that his shoulders were very hunched and high.
 
-‘By all that’s public,’ said Prunesquallor, ‘so we have a new official, have we? The lakeside augury of things to come—fresh blood in summertime with forty years to go. The curtains part—precocity advances, ha, ha, ha! And what’s he doing now?’
+“By all that’s public,” said Prunesquallor, “so we have a new official, have we? The lakeside augury of things to come—fresh blood in summertime with forty years to go. The curtains part—precocity advances, ha, ha, ha! And what’s he doing now?”
 
 Fuchsia had given a little gasp of surprise, for Steerpike had dived into the lake. A moment before he dived he had waved to them, although as far as they had been able to judge he had not so much as moved his eyes in their direction.
 
-‘What was *that*?’ said Irma, swivelling her neck about in a most lubricated way. ‘I said, “what was *that*?”, Bernard. It sounded like a splash; do you hear me, Bernard? I say it sounded like a *splash*.’ ‘That’s why,’ said her brother.
+“What was *that*?” said Irma, swivelling her neck about in a most lubricated way. “I said, ‘what was *that*?’, Bernard. It sounded like a splash; do you hear me, Bernard? I say it sounded like a *splash*.” “That’s why,” said her brother.
 
-‘ “That’s why?” What do you mean, Bernard, by “that’s why”? You are so tiresome. I said, you are so tiresome. That’s why *what*?’
+“ ‘That’s why?’ What do you mean, Bernard, by ‘that’s why’? You are so tiresome. I said, you are so tiresome. That’s why *what*?”
 
-‘That’s why it was like a splash, my butterfly.’
+“That’s why it was like a splash, my butterfly.”
 
-‘But *why*? Oh, my conscience for a normal brother! Why, Bernard, was-it-like-a-splash?’
+“But *why*? Oh, my conscience for a normal brother! Why, Bernard, was-it-like-a-splash?”
 
-‘Only because it happened to be one, peahen,’ he said. ‘It was an authentic, undiluted splash. Ha! ha! ha! An undiluted splash.’
+“Only because it happened to be one, peahen,” he said. “It was an authentic, undiluted splash. Ha! ha! ha! An undiluted splash.”
 
-‘Oh!’ cried Mrs Slagg, her fingers plucking at her nether lip, ‘it wasn’t the shark, was it, Doctor sir? Oh, my weak heart, sir! Was it the shark?’
+“Oh!” cried Mrs Slagg, her fingers plucking at her nether lip, “it wasn’t the shark, was it, Doctor sir? Oh, my weak heart, sir! Was it the shark?”
 
-‘Nonsense!’ said Irma. ‘Nonsense, you silly woman! Sharks in Gormenghast Lake! The very idea!’
+“Nonsense!” said Irma. “Nonsense, you silly woman! Sharks in Gormenghast Lake! The very idea!”
 
 Fuchsia’s eyes were on Steerpike. He was a strong swimmer and was by now halfway across the lake, the thin white arms obtusely angled at the elbows methodically dipping and emerging.
 
-Cora’s voice said: ‘I can see somebody.’
+Cora’s voice said: “I can see somebody.”
 
-‘Where?’ said Clarice.
+“Where?” said Clarice.
 
-‘In the water.’
+“In the water.”
 
-‘What? In the lake?’
+“What? In the lake?”
 
-‘Yes, that’s the only water there is, stupid.’
+“Yes, that’s the only water there is, stupid.”
 
-‘No, it isn’t.’
+“No, it isn’t.”
 
-‘Well, it’s the only water there is that’s near us now.’
+“Well, it’s the only water there is that’s near us now.”
 
-‘Oh yes, it’s the only water of *that* sort.’
+“Oh yes, it’s the only water of *that* sort.”
 
-‘Can you see him?’
+“Can you see him?”
 
-‘I haven’t looked yet.’
+“I haven’t looked yet.”
 
-‘Well, look now.’
+“Well, look now.”
 
-‘Shall I?’
+“Shall I?”
 
-‘Yes. Now.’
+“Yes. Now.”
 
-‘Oh . . . I see a man. Do you see a man?’
+“Oh . . . I see a man. Do you see a man?”
 
-‘I told *you* about him. Of course I do.’
+“I told *you* about him. Of course I do.”
 
-‘He’s swimming to me.’
+“He’s swimming to me.”
 
-‘Why to you? It might as well be to me.’
+“Why to you? It might as well be to me.”
 
-‘Why?’
+“Why?”
 
-‘Because we’re just the same.’
+“Because we’re just the same.”
 
-‘That’s our glory.’
+“That’s our glory.”
 
-‘*And* our pride. Don’t forget that.’
+“*And* our pride. Don’t forget that.”
 
-‘No, I won’t.’
+“No, I won’t.”
 
 They stared at the approaching swimmer. His face was most of the time either under water or lying sideways along it to draw breath, and they had no idea that it was Steerpike.
 
-‘Clarice,’ said Cora.
+“Clarice,” said Cora.
 
-‘Yes.’
+“Yes.”
 
-‘We are the only ladies present, aren’t we?’
+“We are the only ladies present, aren’t we?”
 
-‘Yes. What about it?’
+“Yes. What about it?”
 
-‘Well, we’ll go down to the shore, so that when he arrives we can unbend to him.’
+“Well, we’ll go down to the shore, so that when he arrives we can unbend to him.”
 
-‘Will it hurt?’ said Clarice.
+“Will it hurt?” said Clarice.
 
-‘Why are you so ignorant of phrases?’ Cora turned her face to her sister’s profile.
+“Why are you so ignorant of phrases?” Cora turned her face to her sister’s profile.
 
-‘I don’t know what you mean,’ muttered Clarice.
+“I don’t know what you mean,” muttered Clarice.
 
-‘I haven’t time to explain about language,’ said Cora. ‘It doesn’t matter.’
+“I haven’t time to explain about language,” said Cora. “It doesn’t matter.”
 
-‘Doesn’t it?’
+“Doesn’t it?”
 
-‘No. But this is what does.’
+“No. But this is what does.”
 
-‘Oh.’
+“Oh.”
 
-‘We are being swum to.’
+“We are being swum to.”
 
-‘Yes.’
+“Yes.”
 
-‘So we must receive his homage on the shore.’
+“So we must receive his homage on the shore.”
 
-‘Yes . . . yes.’
+“Yes . . . yes.”
 
-‘So we must go and patronize him now.’
+“So we must go and patronize him now.”
 
-‘Now?’
+“Now?”
 
-‘Yes, now. Are you ready?’
+“Yes, now. Are you ready?”
 
-‘When I get up I’ll be.’
+“When I get up I’ll be.”
 
-‘Have you finished?’
+“Have you finished?”
 
-‘Nearly. Have you?’
+“Nearly. Have you?”
 
-‘Yes.’
+“Yes.”
 
-‘Come on, then.’
+“Come on, then.”
 
-‘Where?’
+“Where?”
 
-‘Don’t bother me with ignorance. Just walk where I do.’
+“Don’t bother me with ignorance. Just walk where I do.”
 
-‘Yes.’
+“Yes.”
 
-‘Look!’
+“Look!”
 
-‘Look!’
+“Look!”
 
 Steerpike had found himself in his depth and was standing upright. The water lapped at the base of his ribs, the mud of the lake’s floor oozing between his toes, while he waved his arms over his head to the group, the bright drops falling from them in sparkling strings.
 
 Fuchsia was excited. She loved what he had done. To suddenly see them, to throw off his clothes, to plunge into the deep water and to strike out across the lake to them, and then finally to stand, panting, with the water curling at his narrow wiry waist—was fine; all upon the spur of the moment.
 
-Irma Prunesquallor, who had not seen her ‘admirer’ for several weeks, gave a shriek as she saw his naked body rising from the lake, and covering her face with her hands she peered between her fingers.
+Irma Prunesquallor, who had not seen her “admirer” for several weeks, gave a shriek as she saw his naked body rising from the lake, and covering her face with her hands she peered between her fingers.
 
 Nannie still couldn’t make out who it was, and months afterwards was still in doubt.
 
 Steerpike’s voice sounded over the shallow water.
 
-‘Well met!’ he shouted. ‘Only just saw you! Lady Fuchsia! good day. It’s delightful to see you again. How is your health? Miss Irma? Excuse my skin. And, Doctor, how’s yours?’
+“Well met!” he shouted. “Only just saw you! Lady Fuchsia! good day. It’s delightful to see you again. How is your health? Miss Irma? Excuse my skin. And, Doctor, how’s yours?”
 
 Then he gazed with his dark-red, close-together-eyes at the twins, who were paddling out to meet him, quite unconscious of the water up to their ankles.
 
-‘You’re getting your legs wet, your ladyships. Be careful! Go back!’ cried the youth, in mock alarm. ‘You do me too much honour. For God’s sake, go back!’
+“You’re getting your legs wet, your ladyships. Be careful! Go back!” cried the youth, in mock alarm. “You do me too much honour. For God’s sake, go back!”
 
 It was necessary for him to shout in such a manner as gave no indication that he held authority over them. Indeed, he did not care two straws whether they marched on until they were up to their necks. It was a quaint situation. In the interests of modesty he could move no farther shorewards.
 
@@ -6955,13 +6955,13 @@ As he intended, they were unable to recognize the authority in his voice which t
 
 Steerpike stared past them for a moment and indicated by a helpless shrugging of his shoulders and a display of the palms of his hands that he was powerless to cope with the situation. They had become very near him. Near enough for him to speak to them without being heard by the group which had by now gathered at the fringe of the lake.
 
-In a low, quick voice, and one which he knew by experience would find an immediate response, he said: ‘Stand where you are. Not one more step, do you hear me? I have something to tell you. Unless you stand still and listen to me you will forfeit the golden thrones which are now complete and are on their way to your apartment. Go back now. Go back to the Castle—to your room, or there will be trouble.’
+In a low, quick voice, and one which he knew by experience would find an immediate response, he said: “Stand where you are. Not one more step, do you hear me? I have something to tell you. Unless you stand still and listen to me you will forfeit the golden thrones which are now complete and are on their way to your apartment. Go back now. Go back to the Castle—to your room, or there will be trouble.”
 
 While he spoke he made signs to those on the shore; he shrugged his shoulders impotently. The while, his quick voice ran on, mesmerizing the twins, hip-deep among the sparkling ripples.
 
-‘You will not speak of the Fire—and you will keep to yourselves and not go out and meet people as you are doing today against my orders. You have disobeyed. I shall arrive at your rooms at ten o’clock tonight. I am displeased, for you have broken your promise. Yet you shall have your glory; but only if you never speak of the Fire. Sit down at once!’ This peremptory order was one which Steerpike could not resist. Their eyes had been fixed on him as he spoke, and he wished to convince himself that they were powerless to disobey him at such moments as this—that they were unable to think of anything save what he was driving into their consciousness by the peculiar low voice which he adopted and by the constant repetition of a few simple maxims. A twist of his lips suggested the vile, overweening satisfaction he experienced as he watched the two purple creatures sink upon their rears in the lukewarm lake. Only their long necks and saucer-like faces remained above the surface. Surrounding each of them was the wavering fringe of a purple skirt.
+“You will not speak of the Fire—and you will keep to yourselves and not go out and meet people as you are doing today against my orders. You have disobeyed. I shall arrive at your rooms at ten o’clock tonight. I am displeased, for you have broken your promise. Yet you shall have your glory; but only if you never speak of the Fire. Sit down at once!” This peremptory order was one which Steerpike could not resist. Their eyes had been fixed on him as he spoke, and he wished to convince himself that they were powerless to disobey him at such moments as this—that they were unable to think of anything save what he was driving into their consciousness by the peculiar low voice which he adopted and by the constant repetition of a few simple maxims. A twist of his lips suggested the vile, overweening satisfaction he experienced as he watched the two purple creatures sink upon their rears in the lukewarm lake. Only their long necks and saucer-like faces remained above the surface. Surrounding each of them was the wavering fringe of a purple skirt.
 
-Directly he had seen, tasted and absorbed the delicious essence of the situation, his voice rapped out: ‘Go back! Back to your rooms and wait for me. Back at once—no talking on the shore.’
+Directly he had seen, tasted and absorbed the delicious essence of the situation, his voice rapped out: “Go back! Back to your rooms and wait for me. Back at once—no talking on the shore.”
 
 As they sank into the lake, automatically, at his orders, he had, for the benefit of the watchers, clasped his head in his hands as though in desperation.
 
@@ -6969,21 +6969,21 @@ Then the aunts arose, all stuck about with purple and made their way, hand in ha
 
 Steerpike’s lesson had been well digested, and they walked solemnly past the Doctor, Fuchsia, Irma and Nannie Slagg and into the trees; and, turning to their left along a hazel ride, proceeded, in a kind of sodden trance, in the direction of the Castle.
 
-‘It beats me, Doctor! Beats me completely!’ shouted the youth in the water.
+“It beats me, Doctor! Beats me completely!” shouted the youth in the water.
 
-‘You surprise me, dear boy!’ cried the Doctor. ‘By all that’s amphibious, you surprise me. Have a heart, dear child, have a heart, and swim away—we’re so tired of the sight of your stomach.’
+“You surprise me, dear boy!” cried the Doctor. “By all that’s amphibious, you surprise me. Have a heart, dear child, have a heart, and swim away—we’re so tired of the sight of your stomach.”
 
-‘Forgive its magnetism!’ replied Steerpike, who dived back under water and was next to be seen some distance off, swimming steadily in the direction of the Raft-makers.
+“Forgive its magnetism!” replied Steerpike, who dived back under water and was next to be seen some distance off, swimming steadily in the direction of the Raft-makers.
 
 Fuchsia, watching the sunlight flashing on the wet arms of the now distant boy, found that her heart was pounding. She mistrusted his eyes. She was repelled by his high, round forehead and the height of his shoulders. He did not belong to the Castle as she knew it. But her heart beat, for he was alive—oh, so alive! and adventurous; and no one seemed to be able to make him feel humble. As he had answered the Doctor his eyes had been on her. She did not understand. Her melancholy was like a darkness in her; but when she thought of him it seemed that through the darkness a forked lightning ran.
 
-‘I’m going back now,’ she said to the Doctor. ‘Tonight we will meet, thank you. Come on, Nannie. Good-bye, Miss Prunesquallor.’
+“I’m going back now,” she said to the Doctor. “Tonight we will meet, thank you. Come on, Nannie. Good-bye, Miss Prunesquallor.”
 
 Irma made a kind of curling movement with her body and smiled woodenly.
 
-‘Good day,’ she said. ‘It has been delightful. Most. Bernard, your arm. I said—your *arm*.’
+“Good day,” she said. “It has been delightful. Most. Bernard, your arm. I said—your *arm*.”
 
-‘You did, and there’s no doubt about it, snow-blossom. I heard you,’ said her brother. ‘Ha! ha! ha! And here it is. An arm of trembling beauty, it’s every pore agog for the touch of your limp fingers. You wish to take it? You shall. You shall take it—but seriously, ha! ha! ha! Take it seriously, I pray you, sweet frog; but do let me have it back some time. Let us away. Fuchsia, for now, good-bye. We part, only to meet.’
+“You did, and there’s no doubt about it, snow-blossom. I heard you,” said her brother. “Ha! ha! ha! And here it is. An arm of trembling beauty, it’s every pore agog for the touch of your limp fingers. You wish to take it? You shall. You shall take it—but seriously, ha! ha! ha! Take it seriously, I pray you, sweet frog; but do let me have it back some time. Let us away. Fuchsia, for now, good-bye. We part, only to meet.”
 
 Ostentatiously he raised his left elbow and Irma, lifting her parasol over her head, her hips gyrating and her nose like a needle pointing the way, took his arm and they moved into the shadows of the trees.
 
@@ -7005,13 +7005,13 @@ At last the Countess descended the ladder, step after mammoth step, until both f
 
 For all her bulk it was as though she had, from a great winter tree, become a summer one. Not with leaves was she decked, but, thick as foliage, with birds. Their hundred eyes twinkled like glass beads in the candlelight.
 
-‘Listen,’ she said. ‘We’re alone. Things are bad. Things are going wrong. There’s evil afoot. I know it.’
+“Listen,” she said. “We’re alone. Things are bad. Things are going wrong. There’s evil afoot. I know it.”
 
-Her eyes narrowed. ‘But let ’em try. We can bide our time. We’ll hold our horses. Let them rear their ugly hands, and by the Doom, we’ll crack ’em chine-ways. Within four days the Earling—and then I’ll take him, babe and boy—Titus the Seventy-seventh.’
+Her eyes narrowed. “But let ’em try. We can bide our time. We’ll hold our horses. Let them rear their ugly hands, and by the Doom, we’ll crack ’em chine-ways. Within four days the Earling—and then I’ll take him, babe and boy—Titus the Seventy-seventh.”
 
-She rose to her feet. ‘God shrive my soul, for it’ll need it!’ she boomed, as the wings fluttered about her and the little claws shifted for balance. ‘God shrive it when I find the evil thing! For absolution, or no absolution—there’ll be *satisfaction* found.’ She gathered some cake crumbs from a nearby crate, and placed them between her lips. At the trotting sound of her tongue a warbler pecked from her mouth, but her eyes had remained half closed, and what could be seen of her iris was as hard and glittering as a wet flint.
+She rose to her feet. “God shrive my soul, for it’ll need it!” she boomed, as the wings fluttered about her and the little claws shifted for balance. “God shrive it when I find the evil thing! For absolution, or no absolution—there’ll be *satisfaction* found.” She gathered some cake crumbs from a nearby crate, and placed them between her lips. At the trotting sound of her tongue a warbler pecked from her mouth, but her eyes had remained half closed, and what could be seen of her iris was as hard and glittering as a wet flint.
 
-‘Satisfaction,’ she repeated huskily, with something purr-like in the heavy-sounding syllables. ‘In Titus it’s all centred. Stone and mountain—the Blood and the Observance. Let them touch him. For every hair that’s hurt I’ll stop a heart. If grace I have when turbulence is over—so be it; and if not—what then?’
+“Satisfaction,” she repeated huskily, with something purr-like in the heavy-sounding syllables. “In Titus it’s all centred. Stone and mountain—the Blood and the Observance. Let them touch him. For every hair that’s hurt I’ll stop a heart. If grace I have when turbulence is over—so be it; and if not—what then?”
 
 ## THE APPARITION
 
@@ -7021,7 +7021,7 @@ In their room the aunts sat holding each other by the empty grate. They had been
 
 They could not scream. The twins could not scream. Their throats were contracted; their limbs had stiffened. The bulging of their four identical eyes was ghastly to see, and as they stood there, paralysed, a voice from just below the grinning skull cried:
 
-‘Terror! terror! terror! pure; naked; and bloody!’
+“Terror! terror! terror! pure; naked; and bloody!”
 
 And the nine-foot length of sheet moved into the room.
 
@@ -7033,21 +7033,21 @@ Steerpike had realized that unless something was done it would be only a matter 
 
 And now he was in their room. He could watch them perfectly through the slit in the sheet. If he did not speak now, before the hysterics began, then they would hear nothing, let alone grasp his meaning. He lifted his voice to a weird and horrible pitch.
 
-‘I am Death!’ he cried. ‘I am all who have died. I am the death of Twins. Behold! Look at my face. It is naked. It is bone. It is Revenge. *Listen.* I am the One who strangles.’
+“I am Death!” he cried. “I am all who have died. I am the death of Twins. Behold! Look at my face. It is naked. It is bone. It is Revenge. *Listen.* I am the One who strangles.”
 
 He took a further pace towards them. Their mouths were still open and their throats strained to loose the clawing cry.
 
-‘I come as Warning! Warning! Your throats are long and white and ripe for strangling. My bony hands can squeeze all breath away . . . I come as Warning! *Listen!*’
+“I come as Warning! Warning! Your throats are long and white and ripe for strangling. My bony hands can squeeze all breath away . . . I come as Warning! *Listen!*”
 
 There was no alternative for them. They had no power.
 
-‘I am Death—and I will talk to you—the Burners. Upon that night you lit a crimson fire. You burned your brother’s heart away! Oh, horror!’
+“I am Death—and I will talk to you—the Burners. Upon that night you lit a crimson fire. You burned your brother’s heart away! Oh, horror!”
 
 Steerpike drew breath. The eyes of the twins were well nigh upon their cheekbones. He must speak very simply.
 
-‘But there is yet a still more bloody crime. The crime of speech. The crime of Mentioning, Mentioning. For this, I murder in a darkened room. *I* shall be watching. Each time you move your mouths *I* shall be watching. Watching. Watching with my enormous eyes of bone. I shall be listening. Listening, with my fleshless ears: and my long fingers will be itching . . . itching. Not even to each other shall you speak. Not of your crime. Oh, horror! Not of the crimson Fire.
+“But there is yet a still more bloody crime. The crime of speech. The crime of Mentioning, Mentioning. For this, I murder in a darkened room. *I* shall be watching. Each time you move your mouths *I* shall be watching. Watching. Watching with my enormous eyes of bone. I shall be listening. Listening, with my fleshless ears: and my long fingers will be itching . . . itching. Not even to each other shall you speak. Not of your crime. Oh, horror! Not of the crimson Fire.
 
-‘My cold grave calls me back, but shall I answer it? No! For I shall be beside you for ever. Listening, listening; with my fingers itching. You will not see me . . . but I shall be here . . . there . . . and wherever you go . . . for evermore. Speak not of Fire . . . or Steerpike . . . Fire—or Steerpike, your protector, for the sake of your long throats . . . Your long white throats.’
+“My cold grave calls me back, but shall I answer it? No! For I shall be beside you for ever. Listening, listening; with my fingers itching. You will not see me . . . but I shall be here . . . there . . . and wherever you go . . . for evermore. Speak not of Fire . . . or Steerpike . . . Fire—or Steerpike, your protector, for the sake of your long throats . . . Your long white throats.”
 
 Steerpike turned majestically. The skull had tilted a little on the point of the swordstick, but it did not matter. The twins were icebound in an arctic sea.
 
@@ -7061,35 +7061,35 @@ There was still no sound from the room. He knew that it would be fruitless to ap
 
 When, on the evening of the next day, he visited them he found them in bed. The old woman who smelt so badly had brought them their meals. They lay close together and were obviously very ill. They were so white that it was difficult to tell where their faces ended and the long pillow began.
 
-The room was brightly lit. Steerpike was glad to notice this. He remembered that, as ‘Death’, he had mentioned his preference for ‘strangling in a *darkened* room’. The strong lights indicated that the twins were able to remember at least a part of what he had said that night.
+The room was brightly lit. Steerpike was glad to notice this. He remembered that, as “Death”, he had mentioned his preference for “strangling in a *darkened* room”. The strong lights indicated that the twins were able to remember at least a part of what he had said that night.
 
 But even now he was taking no chances.
 
-‘Your Ladyships,’ he said, ‘you look seedy. Very seedy. But believe me, you don’t look as bad as I feel. I have come for your advice and perhaps for your help. I must tell you. Be prepared.’ He coughed. ‘I have had a visitor. A visitor from Beyond. Do not be startled, ladies. But his name was Death. He came to me and he said: “Their Ladyships have done foul murder. I shall go to them now and squeeze the breath from their old bodies.” But I said: “No! hold back, I pray you. For they have promised never to divulge a word.” And Death said: “How can I be sure? How can I have proof?” I answered: “I am your witness. If their Ladyships so much as mention the word FIRE or STEERPIKE, you shall take them with you under wormy ground.” ’
+“Your Ladyships,” he said, “you look seedy. Very seedy. But believe me, you don’t look as bad as I feel. I have come for your advice and perhaps for your help. I must tell you. Be prepared.” He coughed. “I have had a visitor. A visitor from Beyond. Do not be startled, ladies. But his name was Death. He came to me and he said: ‘Their Ladyships have done foul murder. I shall go to them now and squeeze the breath from their old bodies.’ But I said: ‘No! hold back, I pray you. For they have promised never to divulge a word.’ And Death said: ‘How can I be sure? How can I have proof?’ I answered: ‘I am your witness. If their Ladyships so much as mention the word FIRE or STEERPIKE, you shall take them with you under wormy ground.’ ”
 
 Cora and Clarice were trying to speak, but they were very weak. At last Cora said:
 
-‘He . . . came . . . here . . . too. He’s still here. Oh, save us! save us!’
+“He . . . came . . . here . . . too. He’s still here. Oh, save us! save us!”
 
-‘He came here!’ said Steerpike, jumping to his feet. ‘Death came here, too?’
+“He came here!” said Steerpike, jumping to his feet. “Death came here, too?”
 
-‘Yes.’
+“Yes.”
 
-‘How strange that you are still alive! Did he give you orders?’
+“How strange that you are still alive! Did he give you orders?”
 
-‘Yes,’ said Clarice.
+“Yes,” said Clarice.
 
-‘And you remember them all?’
+“And you remember them all?”
 
-‘Yes . . . yes!’ said Cora, fingering her throat. ‘We can remember everything. Oh, save us.’
+“Yes . . . yes!” said Cora, fingering her throat. “We can remember everything. Oh, save us.”
 
-‘It is for you to save yourselves with silence. You wish to live?’
+“It is for you to save yourselves with silence. You wish to live?”
 
 They nodded pathetically.
 
-‘Then never a word.’
+“Then never a word.”
 
-‘Never a word,’ echoed Clarice in the hush of the bright room.
+“Never a word,” echoed Clarice in the hush of the bright room.
 
 Steerpike bowed and retired, and returned by an alternative staircase flanked by a long, steep curve of banister, down which he slid at high speed, landing nimbly at the foot of the stairs with a kind of pounce.
 
@@ -7103,21 +7103,21 @@ He entered his room. The window was a smoke-blue rectangle, intersected by black
 
 An hour earlier, Fuchsia had met the Doctor at their rendezvous, the Cool Room. He had not been flippant. He had helped her with words well chosen and thoughts simple and direct that touched deftly on the areas of her sorrow. Together they had covered in their conversation, the whole range of lamentable and melancholy experiences which it had been their lot to encounter. They had spoken of all connected with them, of Fuchsia’s brooding mother; of the uncanny disappearance of her father, and whether he was dead or alive; of the Doctor’s sister and of the Twins: of the enigma of Swelter and Flay and of little Nannie Slagg; of Barquentine and of Steerpike.
 
-‘Be careful of him, Fuchsia,’ said the Doctor. ‘Will you remember that?’
+“Be careful of him, Fuchsia,” said the Doctor. “Will you remember that?”
 
-‘I will,’ said Fuchsia. ‘Yes, I will, Doctor Prune.’
+“I will,” said Fuchsia. “Yes, I will, Doctor Prune.”
 
 Dusk was beyond the bay window . . . a great, crumbling dusk that wavered and descended like a fog of ashes.
 
 Fuchsia unfastened the two top buttons of her blouse and folded the corners back. She had turned away from the Doctor as she did so. Then she held her hands cupped over her breast bone. It seemed as though she were hiding something.
 
-‘Yes, I *will* be careful, Doctor Prune,’ she repeated, ‘and I’ll remember all you have said—and tonight I had to wear it—I had to.’
+“Yes, I *will* be careful, Doctor Prune,” she repeated, “and I’ll remember all you have said—and tonight I had to wear it—I had to.”
 
-‘You had to wear what, my little mushroom?’ said Prunesquallor, lightening his voice for the first time, for the serious session was over and they could relax. ‘Bless my dull wits if I haven’t lost the thread—if there *was* one! Say it again, my Swarthy-sweet.’
+“You had to wear what, my little mushroom?” said Prunesquallor, lightening his voice for the first time, for the serious session was over and they could relax. “Bless my dull wits if I haven’t lost the thread—if there *was* one! Say it again, my Swarthy-sweet.”
 
-‘Look!—look!—for you and for me, because I wanted to.’
+“Look!—look!—for you and for me, because I wanted to.”
 
-She dropped her hands to her side, where they hung heavily. Her eyes shone. She was a mixture of the clumsy and the magnificent—her head bridled up—her throat gleaming, her feet apart and the toes turned in a little. ‘LOOK!’
+She dropped her hands to her side, where they hung heavily. Her eyes shone. She was a mixture of the clumsy and the magnificent—her head bridled up—her throat gleaming, her feet apart and the toes turned in a little. “LOOK!”
 
 The Doctor at her command looked very hard indeed. The ruby he had given her that night, when for the first time he had met Steerpike, burned against her breast.
 
@@ -7125,39 +7125,39 @@ And then, suddenly, unexpectedly, she had fled, her feet pounding on the stone f
 
 ## THE EARLING
 
-The day of the ‘Earling’ was a day of rain. Monotonous, sullen, grey rain with no life in it. It had not even the power to stop. There were always a hundred heads at the windows of the North wing that stared into the sky, into the rain. A hundred figures leant across the sills of the Southern wall, and stared. They would disappear back into the darkness, one by one, but others would have appeared at other windows. There would always be about a hundred starers. Rain. The slow rain. The East and the West of the Castle watched the rain. It was to be a day of rain . . . There could be no stopping it.
+The day of the “Earling” was a day of rain. Monotonous, sullen, grey rain with no life in it. It had not even the power to stop. There were always a hundred heads at the windows of the North wing that stared into the sky, into the rain. A hundred figures leant across the sills of the Southern wall, and stared. They would disappear back into the darkness, one by one, but others would have appeared at other windows. There would always be about a hundred starers. Rain. The slow rain. The East and the West of the Castle watched the rain. It was to be a day of rain . . . There could be no stopping it.
 
-Even before the dawn, hours before, when the Grey Scrubbers were polishing the walls of the stone kitchen, and the Raft-Makers were putting the finishing touches to the raft of chestnut boughs, and the stable boys, by the light of lanterns, were grooming the horses, it was obvious that there was a change in the Castle. It was the Greatest Day. And it rained. It was obvious, this change, in many ways, most superficially of all, in the visual realm, for all wore sacking. Every mortal one. Sacking dyed in the hot blood of eagles. On this day there could be no one, no one save Titus, exempted from the immemorial decree—‘*That the Castle shall wear sacking on the Earling day.*’
+Even before the dawn, hours before, when the Grey Scrubbers were polishing the walls of the stone kitchen, and the Raft-Makers were putting the finishing touches to the raft of chestnut boughs, and the stable boys, by the light of lanterns, were grooming the horses, it was obvious that there was a change in the Castle. It was the Greatest Day. And it rained. It was obvious, this change, in many ways, most superficially of all, in the visual realm, for all wore sacking. Every mortal one. Sacking dyed in the hot blood of eagles. On this day there could be no one, no one save Titus, exempted from the immemorial decree—“*That the Castle shall wear sacking on the Earling day.*”
 
 Steerpike had officiated at the distribution of the garments under the direction of Barquentine. He was getting to know a great deal about the more obscure and legendary rites. It was in his mind to find himself on Barquentine’s decease the leading, if not the sole authority in matters of ritual and observance. In any event, the subject fascinated him. It was potential.
 
-‘Curse!’ he muttered, as he woke to the sound of rain. But still, what did it matter? It was the future that he had his eyes on. A year ahead. Five years ahead. In the meantime, ‘all aboard for glory!’
+“Curse!” he muttered, as he woke to the sound of rain. But still, what did it matter? It was the future that he had his eyes on. A year ahead. Five years ahead. In the meantime, “all aboard for glory!”
 
 Mrs Slagg was up early and had put her sacking garment on at once in deference to the sacrosanct convention. It was a pity that she could not wear her hat with the glass grapes, but of course, on the day of the Earling, no one wore hats. A servant had brought in, the night before, the stone which Titus was to hold in his left hand, the ivy branch which he was to carry in his right, and the necklace of snail-shells for his little neck. He was still asleep, and Nannie was ironing the white linen smock which would reach his ankles. It was blanched to a quality as of white light. Nannie fingered it as though it were gossamer.
 
-‘So it’s come to this.’ Nannie was talking to herself. ‘So it’s come to this. The tiniest thing in the world to be an Earl today. *Today!* Oh, my weak heart, how cruel they are to make a tiny thing have such responsiverity! Cruel. Cruel. It isn’t righteousness! No, it isn’t. But he *is*. He *is* the Earl, the naughty mite. The only one—and no one can say he isn’t. Oh, my poor heart! they’ve never been to see him. It’s only *now* they want to see him because the day has come.’
+“So it’s come to this.” Nannie was talking to herself. “So it’s come to this. The tiniest thing in the world to be an Earl today. *Today!* Oh, my weak heart, how cruel they are to make a tiny thing have such responsiverity! Cruel. Cruel. It isn’t righteousness! No, it isn’t. But he *is*. He *is* the Earl, the naughty mite. The only one—and no one can say he isn’t. Oh, my poor heart! they’ve never been to see him. It’s only *now* they want to see him because the day has come.”
 
-Her miniature screwed-up face was skirmishing with tears. Her mouth worked itself in and out of its own dry wrinkles between every sentence. ‘They expect him to come, the new little Earl, for their homage and everything, but it’s me who baths him and gets him ready, and irons out his white smock, and gives him his breakfast. But they won’t think of all that—and then . . . and then . . .’ (Nannie suddenly sat down on the edge of a chair and began to cry) ‘they’ll take him away from me. Oh, justlessness—and I’ll be all alone—all alone to die . . . and—’
+Her miniature screwed-up face was skirmishing with tears. Her mouth worked itself in and out of its own dry wrinkles between every sentence. “They expect him to come, the new little Earl, for their homage and everything, but it’s me who baths him and gets him ready, and irons out his white smock, and gives him his breakfast. But they won’t think of all that—and then . . . and then . . .” (Nannie suddenly sat down on the edge of a chair and began to cry) “they’ll take him away from me. Oh, justlessness—and I’ll be all alone—all alone to die . . . and—”
 
-‘I’ll be with you,’ said Fuchsia from the door. ‘And they won’t take him away from you. Of course, they won’t.’
+“I’ll be with you,” said Fuchsia from the door. “And they won’t take him away from you. Of course, they won’t.”
 
-Nannie Slagg ran up to her and clung to her arm. ‘They *will*!’ she cried. ‘Your huge mother said she would. She *said* she would.’
+Nannie Slagg ran up to her and clung to her arm. “They *will*!” she cried. “Your huge mother said she would. She *said* she would.”
 
-‘Well, they haven’t taken *me* away, have they?’ said Fuchsia.
+“Well, they haven’t taken *me* away, have they?” said Fuchsia.
 
-‘But you’re only a girl!’ cried Nannie Slagg louder than ever.
+“But you’re only a girl!” cried Nannie Slagg louder than ever.
 
-‘You don’t matter. You’re not going to be anything.’
+“You don’t matter. You’re not going to be anything.”
 
 Fuchsia dislodged the old woman’s hand and walked heavily to the window. The rain poured down. It poured down.
 
-The voice behind her went on: ‘As though I haven’t poured my love out every day—every day. I’ve poured it all away until I’m hollowed out. It’s always me. It always has been. Toil after toil. Moil after moil; with no one to say “God bless you”. No one to understand.’
+The voice behind her went on: “As though I haven’t poured my love out every day—every day. I’ve poured it all away until I’m hollowed out. It’s always me. It always has been. Toil after toil. Moil after moil; with no one to say ‘God bless you’. No one to understand.”
 
 Fuchsia could stand it no longer. Much as she loved her nurse, she could not hear that melancholy, peevish voice and watch the doleful rain and keep herself calm. Unless she left the room she would break something—the nearest breakable thing. She turned and ran, and in her own room once more, fell upon her bed, the skirt of a sacking costume rucked up about her thighs.
 
 *
 
-Of the Castle’s countless breakfasts that dark morning there were few that tasted well. The steady monotone of the pattering rain was depressing enough, but for it to descend on such a day was sheer gloom. It was as though it defied the Castle’s inmost faith; taunted it with a dull, ignorant descent of blasphemy, as though the undrainable clouds were muttering: ‘What is an Earling to us? It is immaterial.’
+Of the Castle’s countless breakfasts that dark morning there were few that tasted well. The steady monotone of the pattering rain was depressing enough, but for it to descend on such a day was sheer gloom. It was as though it defied the Castle’s inmost faith; taunted it with a dull, ignorant descent of blasphemy, as though the undrainable clouds were muttering: “What is an Earling to us? It is immaterial.”
 
 It was well that there was much to do before the hour of twelve, and there were few who were not occupied with some task or another relevant to the Day. The great kitchen was in an uproar of activity before eight o’clock had struck.
 
@@ -7187,7 +7187,7 @@ On the first horse, a great grey hunter by any normal standard, was seated, side
 
 The symbolic sacking hung about her in vast, dripping folds. Behind her, a roan bore Fuchsia, with her legs astride. She was patting its neck as she came through the trees. It was like patting soaked velvet. Its black mane was like a repetition of Fuchsia’s hair. Lank with the rain, it clung to the forehead and the throat.
 
-The aunts were in a pony trap. That they were not in purple seemed extraordinary. Their dresses had always been as indigenous and inevitable a part of them as their faces. They seemed uncomfortable in the sacking and kept plucking at it with their limp hands. The thin man who led the pony brought it to a halt at the lake side, and at the same moment another trap, of similar design but painted a dark and unpleasant orange, trundled through the pines, and there was Mrs Slagg, sitting as upright as she could, her proud attitude (as she supposed it) nullified by the terrified look of her face, which protruded like some kind of wizened fruit from the coarse folds of the garment. She could remember the Earling of Sepulchrave. He had been in his teens. He had swum out to the raft, and there had been no rain. But—oh, her poor heart!—this was so different. It would never have rained at an ‘Earling’ when she was a young girl. Things were so different then.
+The aunts were in a pony trap. That they were not in purple seemed extraordinary. Their dresses had always been as indigenous and inevitable a part of them as their faces. They seemed uncomfortable in the sacking and kept plucking at it with their limp hands. The thin man who led the pony brought it to a halt at the lake side, and at the same moment another trap, of similar design but painted a dark and unpleasant orange, trundled through the pines, and there was Mrs Slagg, sitting as upright as she could, her proud attitude (as she supposed it) nullified by the terrified look of her face, which protruded like some kind of wizened fruit from the coarse folds of the garment. She could remember the Earling of Sepulchrave. He had been in his teens. He had swum out to the raft, and there had been no rain. But—oh, her poor heart!—this was so different. It would never have rained at an “Earling” when she was a young girl. Things were so different then.
 
 On her lap was Titus—drenched. Even so the smock she had been so carefully ironing looked miraculously white, as though it gave forth light instead of receiving it. He sucked his thumb as he stared about him. He saw the figures peering down at him from the trees. He did not smile: he simply stared, turning his face from one to another. Then he became interested in a golden bangle which the Countess had sent him the same morning, pulling it as far up his arm as he could, then down to his plump, wrinkled wrist, studying it seriously all the while.
 
@@ -7195,7 +7195,7 @@ The Doctor and his sister had a sycamore to themselves. Irma took some time bein
 
 Steerpike had followed Nannie Slagg in order to impress the crowd. Although he should have been in a pine-for-four, he now selected a small ash, where he could both be seen and could see with equal advantage to himself and the rest of Gormenghast.
 
-The Twins were keeping their mouths tightly shut. They repeated to themselves every thought as it occurred to them, to find whether the word ‘fire’ could possibly have crept into it, and when they found it hadn’t, they decided in any event to keep it to themselves, in order to be on the safe side. Thus it was that they had not spoken a word since Steerpike left them in their bedroom. They were still white, but not so horribly so. The breath of a yellow reflection had infiltrated itself into their skin and this was nasty enough. Nothing could have been more truly spoke than when Steerpike (as Death) had cried that he would be forever with them. They held each other tightly as they waited to be helped from the trap, for Death had not left them since that curdling night and his livid skull was before their eyes.
+The Twins were keeping their mouths tightly shut. They repeated to themselves every thought as it occurred to them, to find whether the word “fire” could possibly have crept into it, and when they found it hadn’t, they decided in any event to keep it to themselves, in order to be on the safe side. Thus it was that they had not spoken a word since Steerpike left them in their bedroom. They were still white, but not so horribly so. The breath of a yellow reflection had infiltrated itself into their skin and this was nasty enough. Nothing could have been more truly spoke than when Steerpike (as Death) had cried that he would be forever with them. They held each other tightly as they waited to be helped from the trap, for Death had not left them since that curdling night and his livid skull was before their eyes.
 
 By well-proportioned mixtures of brute-strength and obsequious delicacy the officials had at last established the Countess Gertrude upon her stage in the enormous swarthy boughs of the cedar tree. A red carpet had been spread over the woodwork of the platform. The waders and lakeside birds of many breeds which had been disturbed by the activities of the Day, after flying distractedly hither and thither over the forest in swarms, had, as soon as the Countess was seated in the enormous wicket-work chair, flocked to her tree, in which they settled. Angling and disputing for positions at her feet and over various parts of her accommodating body were a whitethroat, a fieldfare, a willow-wren, a nuthatch, a tree-pipit, a sand martin, a red-backed shrike, a goldfinch, a yellow bunting, two jays, a greater spotted woodpecker, three moorhens (on her lap with a mallard, a woodcock, and a curlew), a wagtail, four missel thrushes, six blackbirds, a nightingale and twenty-seven sparrows.
 
@@ -7207,7 +7207,7 @@ It was the same for the Dwellers on the shore—that proud, impoverished congreg
 
 Getting Barquentine established on his stage was the trickiest and most unpleasant task which fell to the lot of the officials. It took place to the accompaniment of such hideous swearing as caused his withered leg to blush beneath the sacking. It must have been hardened by many years of oaths, but this morning an awakened sense of shame at what the upper part of the body could *descend* too, raddled it from hip to toe. Its only consolation was that the contaminating influence had not descended lower than the lungs, and what diseases the withered leg experienced were entirely physical.
 
-When he was seated on the high-backed ‘Earling’ chair he pushed his crutch irritably beneath it and then began to wring out his beard. Fuchsia was by now in her cedar. She had one to herself and it was comparatively dry, a thick foliage spreading immediately above the stage—and she was gazing across the water at the Dwellers. What was it about them that quickened her—those people of the Outer Wall? Why did she feel ill at ease? It was as though they held a dark secret of which, one day, they would make use; something which would jeopardize the security of the Castle. But they were powerless. They depended upon the grace of Gormenghast. What could they do? Fuchsia noticed a woman standing a little apart from a group. Her feet were in the lake. In her arms she held a child. It seemed, as Fuchsia watched, that she could see for a quick moment the dark strands of rain through the limbs of the child. She rubbed her eyes and again she stared. It was so far. She could not tell.
+When he was seated on the high-backed “Earling” chair he pushed his crutch irritably beneath it and then began to wring out his beard. Fuchsia was by now in her cedar. She had one to herself and it was comparatively dry, a thick foliage spreading immediately above the stage—and she was gazing across the water at the Dwellers. What was it about them that quickened her—those people of the Outer Wall? Why did she feel ill at ease? It was as though they held a dark secret of which, one day, they would make use; something which would jeopardize the security of the Castle. But they were powerless. They depended upon the grace of Gormenghast. What could they do? Fuchsia noticed a woman standing a little apart from a group. Her feet were in the lake. In her arms she held a child. It seemed, as Fuchsia watched, that she could see for a quick moment the dark strands of rain through the limbs of the child. She rubbed her eyes and again she stared. It was so far. She could not tell.
 
 Even the officials had climbed into the ivy-throttled elm with its broken limb that hung by a sapless tendon.
 
@@ -7219,25 +7219,25 @@ Steerpike was watching Fuchsia through the branches. She would be difficult, but
 
 Prunesquallor had wiped his glasses for the twentieth time and was watching Steerpike watching Fuchsia. He was not listening to Barquentine, who was rattling off the catechismic monody as fast as he could, for he was suffering the first twinges of rheumatism.
 
-‘. . . and will forever hold in sacred trust the castle of his fathers and the domain adhering thereto. That he will in letter and in spirit defend it in every way against the incursions of alien worlds. That he will observe its sacred rites, honour its crest, and in due time instil into the first male of his loins, reverence for its every stone until among his fathers he has added, in the tomb, his link to the unending chain of Groans. So be it.’
+“. . . and will forever hold in sacred trust the castle of his fathers and the domain adhering thereto. That he will in letter and in spirit defend it in every way against the incursions of alien worlds. That he will observe its sacred rites, honour its crest, and in due time instil into the first male of his loins, reverence for its every stone until among his fathers he has added, in the tomb, his link to the unending chain of Groans. So be it.”
 
 Barquentine wiped the water from his face with the flat of his hand and wrung out his beard again. Then he fumbled for his crutch and hoisted himself on to his leg. With his free arm he pushed aside a branch and screamed down through the branches:
 
-‘Are you skulks ready?’
+“Are you skulks ready?”
 
 The two Raftmen were ready. They had taken Titus from Nannie Slagg and were standing on the raft of chestnut boughs at the lake’s edge. Titus was sitting at their feet in the middle of the raft, the size of a doll. His sepia hair was stuck to his face and neck. His violet eyes were a little startled. His white smock clung to him so that the form of his little body was divulged.
 
 The clinging doth was luminous.
 
-‘Push off, curse you! Push off!’ yelled Barquentine. His voice raked the water’s surface east to west.
+“Push off, curse you! Push off!” yelled Barquentine. His voice raked the water’s surface east to west.
 
 With a long, gradual shoving of their poles the two men propelled the raft into deeper water. Moving up either side of the raft and plunging their poles a dozen or so times brought them near the centre of the lake. In a leather bag hung at his waist the older of the two Raftmen had the symbolic stone, ivy branch and necklace of snail-shells. The water was now too deep for them to strike bottom and they dived over the side and, turning, clasped the edge of the raft. Then, striking out, frog-like with their legs, they had soon brought the raft to the approximate position.
 
-‘More to the west!’ screamed Barquentine from the shore. ‘More to the west, idiots!’
+“More to the west!” screamed Barquentine from the shore. “More to the west, idiots!”
 
 The swimmers splashed themselves around to the adjacent edge of the raft and once more began to kick out. Then they lifted their heads from the rain-prodded water and stared in the direction of Barquentine’s voice.
 
-‘Hold!’ yelled the unpleasant voice. ‘And hide your damned selves!’
+“Hold!” yelled the unpleasant voice. “And hide your damned selves!”
 
 The two men worked their way around until their heads were very nearly obscured by the thick chestnut rim of the raft on the far side from the trees.
 
@@ -7245,13 +7245,13 @@ With only their faces bobbing above the surface they trod water. Titus was alone
 
 Barquentine grunted to himself. This was good. Ideally speaking, the prospective Earl should be on his feet while being named. In the case of Titus this tenet would naturally have had to be waived if the infant had decided to keep seated or to crawl about.
 
-‘Titus Groan,’ cried the ancient voice from the shore, ‘the Day has come! The Castle awaits your sovereignty. From horizon to horizon all is yours, to hold in trust—animal, vegetable and mineral, time without end, save for your single death that cannot stem a tide of such illustrious Blood.’
+“Titus Groan,” cried the ancient voice from the shore, “the Day has come! The Castle awaits your sovereignty. From horizon to horizon all is yours, to hold in trust—animal, vegetable and mineral, time without end, save for your single death that cannot stem a tide of such illustrious Blood.”
 
-This was the Raftsmen’s cue, and clambering over the side they placed the necklace of snails around the little wet neck, and as the voice from the shore cried, ‘Now!’ attempted to place in Titus’s hands the stone and the ivy branch.
+This was the Raftsmen’s cue, and clambering over the side they placed the necklace of snails around the little wet neck, and as the voice from the shore cried, “Now!” attempted to place in Titus’s hands the stone and the ivy branch.
 
 But he would not hold them.
 
-‘Hell’s blood and gallstones!’ screamed Barquentine, ‘what’s the matter? Rot your hides! what’s the matter? Give him his stone and ivy, curse you!’
+“Hell’s blood and gallstones!” screamed Barquentine, “what’s the matter? Rot your hides! what’s the matter? Give him his stone and ivy, curse you!”
 
 They opened his little fingers with difficulty and placed the symbols against his palms, but he snatched his hands away from them. He would not hold the things.
 
@@ -7259,21 +7259,21 @@ Barquentine was beside himself. It was as though the child had a mind of its own
 
 The men on the raft were helpless.
 
-‘Fools! fools! fools!’ came the hideous voice through the rain. ‘Leave them at his feet, curse your black guts! Leave them at his feet! Oh, body of me, take your damned heads away!’
+“Fools! fools! fools!” came the hideous voice through the rain. “Leave them at his feet, curse your black guts! Leave them at his feet! Oh, body of me, take your damned heads away!”
 
 The two men slipped back into the water, cursing the old man. They had left the stone and the ivy branch on the raft at the child’s feet.
 
 Barquentine knew that the Earling was to be completed by noon: it was decreed in the old tomes and was Law. There was barely a minute to go.
 
-He swung his bearded head to left and right. ‘Your Ladyship, the Countess Gertrude of Gormenghast! Your Ladyship Fuchsia of Gormenghast! Their Ladyships Cora and Clarice Groan of Gormenghast! Arise!’
+He swung his bearded head to left and right. “Your Ladyship, the Countess Gertrude of Gormenghast! Your Ladyship Fuchsia of Gormenghast! Their Ladyships Cora and Clarice Groan of Gormenghast! Arise!”
 
 Barquentine crutched himself forward on the slippery stage until he was within a few inches of the edge. There was no time to lose.
 
-‘Gormenghast will now watch! And listen! It is the Moment!’
+“Gormenghast will now watch! And listen! It is the Moment!”
 
 He cleared his throat and began and could not stop, for there was no time left. But as he cried the traditional words, his finger-nails were splintering into the oakwood of his crutch and his face had become purple. The huge beads of sweat on his brow were lilac, for the colour of his congested head burned through them.
 
-‘In the sight of all! In the sight of the Castle’s Southern wing, in the sight of Gormenghast mountain, and in the sacred sight of your forefathers of the Blood, I, Warden of the Immemorial Rites proclaim you, on this day of Earling, to be the Earl, the only legitimate Earl between heaven and earth, from skyline to skyline—Titus, the Seventy-seventh Lord of Gormenghast.’
+“In the sight of all! In the sight of the Castle’s Southern wing, in the sight of Gormenghast mountain, and in the sacred sight of your forefathers of the Blood, I, Warden of the Immemorial Rites proclaim you, on this day of Earling, to be the Earl, the only legitimate Earl between heaven and earth, from skyline to skyline—Titus, the Seventy-seventh Lord of Gormenghast.”
 
 A hush most terrible and unearthly had spread and settled over the lake, over the woods and towers and over the world. Stillness had come like a shock, and now that the shock was dying, only the white emptiness of silence remained. For while the concluding words were being cried in a black anger, two things had occurred. The rain had ceased and Titus had sunk to his knees and had begun to crawl to the raft’s edge with a stone in one hand and an ivy branch in the other. And then, to the horror of all, had dropped the sacrosanct symbols into the depths of the lake.
 
@@ -7295,7 +7295,7 @@ Stone after grey stone; and a sense of the heaving skywards of great blocks, one
 
 Was there something about these vertical acres of stone that mouthed of a stillness that was more complete, a silence that lay *within*, and drummed. Small winds rustled on the castle’s outer shell; leaves dropped away or were brushed by a bird’s wing; the rain ceased and creepers dripped—but *within* the walls not even the light changed, save when the sun broke through and a series of dusty halls in the southern wing. Remoteness.
 
-For *all* were at the ‘Earling’. Around the lakeside was the Castle’s breath. Only the old stone lung remained. Nor a footfall. Not a voice. Only wood, and stone, and doorway, banister, corridor and alcove, room after room, hall after hall, province after province.
+For *all* were at the “Earling”. Around the lakeside was the Castle’s breath. Only the old stone lung remained. Nor a footfall. Not a voice. Only wood, and stone, and doorway, banister, corridor and alcove, room after room, hall after hall, province after province.
 
 It was as though, at any moment some inanimate Thing must surely move; a door open upon its own, or a clock start whirling its hands: the stillness was too vast and charged to be content to remain in this titanic atrophy—the tension must surely find a vent—and burst suddenly, violently, like a reservoir of water from a smashed dam—and the shields fall from their rusty hooks, the mirrors crack, the boards lift and open and the very castle tremble, shake its walls like wings; yawn, split and crumble with a roar.
 
@@ -7335,7 +7335,7 @@ Mr Rottcodd, gauging by the converging stares of the turreted cats, what area of
 
 Toy horses led. Mr Rottcodd, who had long sight but who could hardly tell how many fingers he held up before his own face save by the apprehension of the digits themselves, removed his glasses. The blurred figures, so far below his window, threading their way through sunlight, no longer swam, but, starting into focus, startled him. What had happened? As he asked himself the question, he knew the answer. That no one had thought fit to tell him! No one! It was a bitter pill for him to swallow. He had been forgotten. Yet he had always wished to be forgotten. He could not have it both ways.
 
-He stared: and there was no mistaking. Each figure was tiny but crystal clear in the rain-washed atmosphere. The cradle-saddled horse that led the throng: the child whom he had never glimpsed before, asleep, one arm along the cradle’s rim. Asleep on the day of his ‘Earling’. Rottcodd winced. It was Titus. So Sepulchrave had died and he had never known. They had been to the lake; to the lake; and there below him on a slow grey mare was borne along the path—the Seventy-seventh.
+He stared: and there was no mistaking. Each figure was tiny but crystal clear in the rain-washed atmosphere. The cradle-saddled horse that led the throng: the child whom he had never glimpsed before, asleep, one arm along the cradle’s rim. Asleep on the day of his “Earling”. Rottcodd winced. It was Titus. So Sepulchrave had died and he had never known. They had been to the lake; to the lake; and there below him on a slow grey mare was borne along the path—the Seventy-seventh.
 
 Leading the mare by a bridle was a youth he had not seen before. His shoulders were high and the sun shone on a rounded forehead. Over the back of the mare, beneath the saddle-cradle, and hanging almost to the ground, there was hung a gold embroidered carpet riddled with moth holes.
 

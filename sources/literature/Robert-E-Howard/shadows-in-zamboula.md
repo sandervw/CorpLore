@@ -11,39 +11,39 @@
 
 ## 1 A Drum Begins
 
-'Peril hides in the house of Aram Baksh!'
+"Peril hides in the house of Aram Baksh!"
 
 The speaker's voice quivered with earnestness and his lean, black-nailed fingers clawed at Conan's mightily muscled arm as he croaked his warning. He was a wiry, sun-burnt man with a straggling black beard, and his ragged garments proclaimed him a nomad. He looked smaller and meaner than ever in contrast to the giant Cimmerian with his black brows, broad chest, and powerful limbs. They stood in a corner of the Sword-Makers' Bazar, and on either side of them flowed past the many-tongued, many-colored stream of the Zamboula streets, which is exotic, hybrid, flamboyant and clamorous.
 
 Conan pulled his eyes back from following a bold-eyed, red-lipped Ghanara whose short skirt bared her brown thigh at each insolent step, and frowned down at his importunate companion.
 
-'What do you mean by peril?' he demanded.
+"What do you mean by peril?" he demanded.
 
 The desert man glanced furtively over his shoulder before replying, and lowered his voice.
 
-'Who can say? But desert men and travelers *have* slept in the house of Aram Baksh, and never been seen or heard of again. What became of them? *He* swore they rose and went their way—and it is true that no citizen of the city has ever disappeared from his house. But no one saw the travelers again, and men say that goods and equipment recognized as theirs have been seen in the bazars. If Aram did not sell them, after doing away with their owners, how came they here?'
+"Who can say? But desert men and travelers *have* slept in the house of Aram Baksh, and never been seen or heard of again. What became of them? *He* swore they rose and went their way—and it is true that no citizen of the city has ever disappeared from his house. But no one saw the travelers again, and men say that goods and equipment recognized as theirs have been seen in the bazars. If Aram did not sell them, after doing away with their owners, how came they here?"
 
-'I have no goods,' growled the Cimmerian, touching the shagreen-bound hilt of the broadsword that hung at his hip. 'I have even sold my horse.'
+"I have no goods," growled the Cimmerian, touching the shagreen-bound hilt of the broadsword that hung at his hip. "I have even sold my horse."
 
-'But it is not always rich strangers who vanish by night from the house of Aram Baksh!' chattered the Zuagir. 'Nay, poor desert men have slept there—because his score is less than that of the other taverns—and have been seen no more. Once a chief of the Zuagirs whose son had thus vanished complained to the satrap, Jungir Khan, who ordered the house searched by soldiers.'
+"But it is not always rich strangers who vanish by night from the house of Aram Baksh!" chattered the Zuagir. "Nay, poor desert men have slept there—because his score is less than that of the other taverns—and have been seen no more. Once a chief of the Zuagirs whose son had thus vanished complained to the satrap, Jungir Khan, who ordered the house searched by soldiers."
 
-'And they found a cellar full of corpses?' asked Conan in good-humored derision.
+"And they found a cellar full of corpses?" asked Conan in good-humored derision.
 
-'Nay! They found naught! And drove the chief from the city with threats and curses! But—' he drew closer to Conan and shivered—'something else was found! At the edge of the desert, beyond the houses, there is a clump of palm trees, and within that grove there is a pit. And within that pit have been found human bones, charred and blackened! Not once, but many times!'
+"Nay! They found naught! And drove the chief from the city with threats and curses! But—" he drew closer to Conan and shivered—"something else was found! At the edge of the desert, beyond the houses, there is a clump of palm trees, and within that grove there is a pit. And within that pit have been found human bones, charred and blackened! Not once, but many times!"
 
-'Which proves what?' grunted the Cimmerian.
+"Which proves what?" grunted the Cimmerian.
 
-'Aram Baksh is a demon! Nay, in this accursed city which Stygians built and which Hyrkanians rule—where white, brown and black folk mingle together to produce hybrids of all unholy hues and breeds—who can tell who is a man, and who a demon in disguise? Aram Baksh is a demon in the form of a man! At night he assumes his true guise and carries his guests off into the desert where his fellow demons from the waste meet in conclave.'
+"Aram Baksh is a demon! Nay, in this accursed city which Stygians built and which Hyrkanians rule—where white, brown and black folk mingle together to produce hybrids of all unholy hues and breeds—who can tell who is a man, and who a demon in disguise? Aram Baksh is a demon in the form of a man! At night he assumes his true guise and carries his guests off into the desert where his fellow demons from the waste meet in conclave."
 
-'Why does he always carry off strangers?' asked Conan skeptically.
+"Why does he always carry off strangers?" asked Conan skeptically.
 
-'The people of the city would not suffer him to slay their people, but they care naught for the strangers who fall into his hands. Conan, you are of the West, and know not the secrets of this ancient land. But, since the beginning of happenings, the demons of the desert have worshipped Yog, the Lord of the Empty Abodes, with fire—fire that devours human victims.
+"The people of the city would not suffer him to slay their people, but they care naught for the strangers who fall into his hands. Conan, you are of the West, and know not the secrets of this ancient land. But, since the beginning of happenings, the demons of the desert have worshipped Yog, the Lord of the Empty Abodes, with fire—fire that devours human victims.
 
-'Be warned! You have dwelt for many moons in the tents of the Zuagirs, and you are our brother! Go not to the house of Aram Baksh!'
+"Be warned! You have dwelt for many moons in the tents of the Zuagirs, and you are our brother! Go not to the house of Aram Baksh!"
 
-'Get out of sight!' Conan said suddenly. 'Yonder comes a squad of the city-watch. If they see you they may remember a horse that was stolen from the satrap's stable—'
+"Get out of sight!" Conan said suddenly. "Yonder comes a squad of the city-watch. If they see you they may remember a horse that was stolen from the satrap's stable—"
 
-The Zuagir gasped, and moved convulsively. He ducked between a booth and a stone horse-trough, pausing only long enough to chatter: 'Be warned, my brother! There are demons in the house of Aram Baksh!' Then he darted down a narrow alley and was gone.
+The Zuagir gasped, and moved convulsively. He ducked between a booth and a stone horse-trough, pausing only long enough to chatter: "Be warned, my brother! There are demons in the house of Aram Baksh!" Then he darted down a narrow alley and was gone.
 
 Conan shifted his broad sword-belt to his liking, and calmly returned the searching stares directed at him by the squad of watchmen as they swung past. They eyed him curiously and suspiciously, for he was a man who stood out even in such a motley throng as crowded the winding streets of Zamboula. His blue eyes and alien features distinguished him from the Eastern swarms, and the straight sword at his hip added point to the racial difference.
 
@@ -61,19 +61,19 @@ Bronze lanterns, carved with leering dragons, had been lighted in the streets be
 
 Aram's gate did not open upon the road, but upon the alley which ran between the tavern and the garden of the date-palms. Conan jerked lustily at the rope which depended from the bell beside the lantern, augmenting its clamor by hammering on the iron-bound teakwork gate with the hilt of his sword. A wicket opened in the gate and a black face peered through.
 
-'Open, blast you,' requested Conan. 'I'm a guest. I've paid Aram for a room, and a room I'll have, by Crom!'
+"Open, blast you," requested Conan. "I'm a guest. I've paid Aram for a room, and a room I'll have, by Crom!"
 
 The black craned his neck to stare into the starlit road behind Conan; but he opened the gate without comment, and closed it again behind the Cimmerian, locking and bolting it. The wall was unusually high; but there were many thieves in Zamboula, and a house on the edge of the desert might have to be defended against a nocturnal nomad raid. Conan strode through a garden where great pale blossoms nodded in the starlight, and entered the tap-room, where a Stygian with the shaven head of a student sat at a table brooding over nameless mysteries, and some nondescripts wrangled over a game of dice in a corner.
 
 Aram Baksh came forward, walking softly, a portly man, with a black beard that swept his breast, a jutting hook-nose, and small black eyes which were never still.
 
-'You wish food?' he asked. 'Drink?'
+"You wish food?" he asked. "Drink?"
 
-'I ate a joint of beef and a loaf of bread in the *suk*,' grunted Conan. 'Bring me a tankard of Ghazan wine—I've got just enough left to pay for it.' He tossed a copper coin on the wine-splashed board.
+"I ate a joint of beef and a loaf of bread in the *suk*," grunted Conan. "Bring me a tankard of Ghazan wine—I've got just enough left to pay for it." He tossed a copper coin on the wine-splashed board.
 
-'You did not win at the gaming-tables?'
+"You did not win at the gaming-tables?"
 
-'How could I, with only a handful of silver to begin with? I paid you for the room this morning, because I knew I'd probably lose. I wanted to be sure I had a roof over my head tonight. I notice nobody sleeps in the streets in Zamboula. The very beggars hunt a niche they can barricade before dark. The city must be full of a particularly blood-thirsty brand of thieves.'
+"How could I, with only a handful of silver to begin with? I paid you for the room this morning, because I knew I'd probably lose. I wanted to be sure I had a roof over my head tonight. I notice nobody sleeps in the streets in Zamboula. The very beggars hunt a niche they can barricade before dark. The city must be full of a particularly blood-thirsty brand of thieves."
 
 He gulped the cheap wine with relish, and then followed Aram out of the tap-room. Behind him the players halted their game to stare after him with a cryptic speculation in their eyes. They said nothing, but the Stygian laughed, a ghastly laugh of inhuman cynicism and mockery. The others lowered their eyes uneasily, avoiding one another's glance. The arts studied by a Stygian scholar are not calculated to make him share the feelings of a normal human being.
 
@@ -83,11 +83,11 @@ At the end of the winding corridor Aram halted at a door, across which a heavy i
 
 Aram had lighted a bronze lamp, and he now called Conan's attention to the two doors. Both were provided with heavy bolts.
 
-'You may sleep safely tonight, Cimmerian,' said Aram, blinking over his bushy beard from the inner doorway.
+"You may sleep safely tonight, Cimmerian," said Aram, blinking over his bushy beard from the inner doorway.
 
 Conan grunted and tossed his naked broadsword on the couch.
 
-'Your bolts and bars are strong; but I always sleep with steel by my side.'
+"Your bolts and bars are strong; but I always sleep with steel by my side."
 
 Aram made no reply; he stood fingering his thick beard for a moment as he stared at the grim weapon. Then silently he withdrew, closing the door behind him. Conan shot the bolt into place, crossed the room, opened the opposite door and looked out. The room was on the side of the house that faced the road running west from the city. The door opened into a small court that was enclosed by a wall of its own. The end-walls, which shut it off from the rest of the tavern compound, were high and without entrances; but the wall that flanked the road was low, and there was no lock on the gate.
 
@@ -131,113 +131,113 @@ Neither victim nor abductors were aware of his presence until the soft swish of 
 
 The remaining cannibal gave back with a strangled yell, hurling his captive from him. She tripped and rolled in the dust, and the black fled in blind panic toward the city. Conan was at his heels. Fear winged the black feet, but before they reached the easternmost hut, he sensed death at his back, and bellowed like an ox in the slaughter-yards.
 
-'Black dog of hell!' Conan drove his sword between the dusky shoulders with such vengeful fury that the broad blade stood out half its length from the black breast. With a choking cry the black stumbled headlong, and Conan braced his feet and dragged out his sword as his victim fell.
+"Black dog of hell!" Conan drove his sword between the dusky shoulders with such vengeful fury that the broad blade stood out half its length from the black breast. With a choking cry the black stumbled headlong, and Conan braced his feet and dragged out his sword as his victim fell.
 
 Only the breeze disturbed the leaves. Conan shook his head as a lion shakes its mane and growled his unsatiated blood-lust. But no more shapes slunk from the shadows, and before the huts the starlit road stretched empty. He whirled at the quick patter of feet behind him, but it was only the girl, rushing to throw herself on him and clasp his neck in a desperate grasp, frantic from terror of the abominable fate she had just escaped.
 
-'Easy, girl,' he grunted. 'You're all right. How did they catch you?'
+"Easy, girl," he grunted. "You're all right. How did they catch you?"
 
-She sobbed something unintelligible. He forgot all about Aram Baksh as he scrutinized her by the light of the stars. She was white, though a very definite brunette, obviously one of Zamboula's many mixed breeds. She was tall, with a slender, supple form, as he was in a good position to observe. Admiration burned in his fierce eyes as he looked down on her splendid bosom and her lithe limbs, which still quivered from fright and exertion. He passed an arm around her flexible waist and said, reassuringly: 'Stop shaking, wench; you're safe enough.'
+She sobbed something unintelligible. He forgot all about Aram Baksh as he scrutinized her by the light of the stars. She was white, though a very definite brunette, obviously one of Zamboula's many mixed breeds. She was tall, with a slender, supple form, as he was in a good position to observe. Admiration burned in his fierce eyes as he looked down on her splendid bosom and her lithe limbs, which still quivered from fright and exertion. He passed an arm around her flexible waist and said, reassuringly: "Stop shaking, wench; you're safe enough."
 
 His touch seemed to restore her shaken sanity. She tossed back her thick, glossy locks and cast a fearful glance over her shoulder, while she pressed closer to the Cimmerian as if seeking security in the contact.
 
-'They caught me in the streets,' she muttered, shuddering. 'Lying in wait, beneath a dark arch—black men, like great, hulking apes! Set have mercy on me! I shall dream of it!'
+"They caught me in the streets," she muttered, shuddering. "Lying in wait, beneath a dark arch—black men, like great, hulking apes! Set have mercy on me! I shall dream of it!"
 
-'What were you doing out on the streets this time of night?' he inquired, fascinated by the satiny feel of her sleek skin under his questing fingers.
+"What were you doing out on the streets this time of night?" he inquired, fascinated by the satiny feel of her sleek skin under his questing fingers.
 
 She raked back her hair and stared blankly up into his face. She did not seem aware of his caresses.
 
-'My lover,' she said. 'My lover drove me into the streets. He went mad and tried to kill me. As I fled from him I was seized by those beasts.'
+"My lover," she said. "My lover drove me into the streets. He went mad and tried to kill me. As I fled from him I was seized by those beasts."
 
-'Beauty like yours might drive a man mad,' quoth Conan, running his fingers experimentally through her glossy tresses.
+"Beauty like yours might drive a man mad," quoth Conan, running his fingers experimentally through her glossy tresses.
 
 She shook her head, like one emerging from a daze. She no longer trembled, and her voice was steady.
 
-'It was the spite of a priest—of Totrasmek, the high priest of Hanuman, who desires me for himself—the dog!'
+"It was the spite of a priest—of Totrasmek, the high priest of Hanuman, who desires me for himself—the dog!"
 
-'No need to curse him for that,' grinned Conan. 'The old hyena has better taste than I thought.'
+"No need to curse him for that," grinned Conan. "The old hyena has better taste than I thought."
 
 She ignored the bluff compliment. She was regaining her poise swiftly.
 
-'My lover is a—a young Turanian soldier. To spite me, Totrasmek gave him a drug that drove him mad. Tonight he snatched up a sword and came at me to slay me in his madness, but I fled from him into the streets. The negroes seized me and brought me to this—*what was that?*'
+"My lover is a—a young Turanian soldier. To spite me, Totrasmek gave him a drug that drove him mad. Tonight he snatched up a sword and came at me to slay me in his madness, but I fled from him into the streets. The negroes seized me and brought me to this—*what was that?*"
 
 Conan had already moved. Soundlessly as a shadow he drew her behind the nearest hut, beneath the straggling palms. They stood in tense stillness, while the low mutterings both had heard grew louder until voices were distinguishable. A group of negroes, some nine or ten, were coming along the road from the direction of the city. The girl clutched Conan's arm and he felt the terrified quivering of her supple body against his.
 
 Now they could understand the gutturals of the black men.
 
-'Our brothers have already assembled at the pit,' said one. 'We have had no luck. I hope they have enough for us.'
+"Our brothers have already assembled at the pit," said one. "We have had no luck. I hope they have enough for us."
 
-'Aram promised us a man,' muttered another, and Conan mentally promised Aram something.
+"Aram promised us a man," muttered another, and Conan mentally promised Aram something.
 
-'Aram keeps his word,' grunted yet another. 'Many a man we have taken from his tavern. But we pay him well. I myself have given him ten bales of silk I stole from my master. It was good silk, by Set!'
+"Aram keeps his word," grunted yet another. "Many a man we have taken from his tavern. But we pay him well. I myself have given him ten bales of silk I stole from my master. It was good silk, by Set!"
 
 The blacks shuffled past, bare splay feet scuffing up the dust, and their voices dwindled down the road.
 
-'Well for us those corpses are lying behind these huts,' muttered Conan. 'If they look in Aram's death-room they'll find another. Let's begone.'
+"Well for us those corpses are lying behind these huts," muttered Conan. "If they look in Aram's death-room they'll find another. Let's begone."
 
-'Yes, let us hasten!' begged the girl, almost hysterical again. 'My lover is wandering somewhere in the streets alone. The negroes may take him.'
+"Yes, let us hasten!" begged the girl, almost hysterical again. "My lover is wandering somewhere in the streets alone. The negroes may take him."
 
-'A devil of a custom this is!' growled Conan, as he led the way toward the city, paralleling the road but keeping behind the huts and straggling trees. 'Why don't the citizens clean out these black dogs?'
+"A devil of a custom this is!" growled Conan, as he led the way toward the city, paralleling the road but keeping behind the huts and straggling trees. "Why don't the citizens clean out these black dogs?"
 
-'They are valuable slaves,' murmured the girl. 'There are so many of them they might revolt if they were denied the flesh for which they lust. The people of Zamboula know they skulk the streets at night, and all are careful to remain within locked doors, except when something unforeseen happens, as it did to me. The blacks prey on anything they catch, but they seldom catch anybody but strangers. The people of Zamboula are not concerned with the strangers that pass through the city.
+"They are valuable slaves," murmured the girl. "There are so many of them they might revolt if they were denied the flesh for which they lust. The people of Zamboula know they skulk the streets at night, and all are careful to remain within locked doors, except when something unforeseen happens, as it did to me. The blacks prey on anything they catch, but they seldom catch anybody but strangers. The people of Zamboula are not concerned with the strangers that pass through the city.
 
-'Such men as Aram Baksh sell these strangers to the blacks. He would not dare attempt such a thing with a citizen.'
+"Such men as Aram Baksh sell these strangers to the blacks. He would not dare attempt such a thing with a citizen."
 
 Conan spat in disgust, and a moment later led his companion out into the road which was becoming a street, with still, unlighted houses on each side. Slinking in the shadows was not congenial to his nature.
 
-'Where do you want to go?' he asked. The girl did not seem to object to his arm about her waist.
+"Where do you want to go?" he asked. The girl did not seem to object to his arm about her waist.
 
-'To my house, to rouse my servants,' she answered. 'To bid them search for my lover. I do not wish the city—the priests—anyone—to know of his madness. He—he is a young officer with a promising future. Perhaps we can drive this madness from him if we can find him.'
+"To my house, to rouse my servants," she answered. "To bid them search for my lover. I do not wish the city—the priests—anyone—to know of his madness. He—he is a young officer with a promising future. Perhaps we can drive this madness from him if we can find him."
 
-'If *we* find him?' rumbled Conan. 'What makes you think I want to spend the night scouring the streets for a lunatic?'
+"If *we* find him?" rumbled Conan. "What makes you think I want to spend the night scouring the streets for a lunatic?"
 
 She cast a quick glance into his face, and properly interpreted the gleam in his blue eyes. Any woman could have known that he would follow her wherever she led—for a while, at least. But being a woman, she concealed her knowledge of that fact.
 
-'Please,' she began with a hint of tears in her voice, 'I have no one else to ask for help—you have been kind—'
+"Please," she began with a hint of tears in her voice, "I have no one else to ask for help—you have been kind—"
 
-'All right!' he grunted. 'All right! What's the young reprobate's name?'
+"All right!" he grunted. "All right! What's the young reprobate's name?"
 
-'Why—Alafdhal. I am Zabibi, a dancing-girl. I have danced often before the satrap, Jungir Khan, and his mistress Nafertari, and before all the lords and royal ladies of Zamboula. Totrasmek desired me, and because I repulsed him, he made me the innocent tool of his vengeance against Alafdhal. I asked a love potion of Totrasmek, not suspecting the depth of his guile and hate. He gave me a drug to mix with my lover's wine, and he swore that when Alafdhal drank it, he would love me even more madly than ever, and grant my every wish. I mixed the drug secretly with my lover's wine. But having drunk, my lover went raving mad and things came about as I have told you. Curse Totrasmek, the hybrid snake—ahhh!'
+"Why—Alafdhal. I am Zabibi, a dancing-girl. I have danced often before the satrap, Jungir Khan, and his mistress Nafertari, and before all the lords and royal ladies of Zamboula. Totrasmek desired me, and because I repulsed him, he made me the innocent tool of his vengeance against Alafdhal. I asked a love potion of Totrasmek, not suspecting the depth of his guile and hate. He gave me a drug to mix with my lover's wine, and he swore that when Alafdhal drank it, he would love me even more madly than ever, and grant my every wish. I mixed the drug secretly with my lover's wine. But having drunk, my lover went raving mad and things came about as I have told you. Curse Totrasmek, the hybrid snake—ahhh!"
 
 She caught his arm convulsively and both stopped short. They had come into a district of shops and stalls, all deserted and unlighted, for the hour was late. They were passing an alley, and in its mouth a man was standing, motionless and silent. His head was lowered, but Conan caught the weird gleam of eery eyes regarding them unblinkingly. His skin crawled, not with fear of the sword in the man's hand, but because of the uncanny suggestion of his posture and silence. They suggested madness. Conan pushed the girl aside and drew his sword.
 
-'Don't kill him!' she begged. 'In the name of Set, do not slay him! You are strong—overpower him!'
+"Don't kill him!" she begged. "In the name of Set, do not slay him! You are strong—overpower him!"
 
-'We'll see,' he muttered, grasping his sword in his right hand and clenching his left into a mallet-like fist.
+"We'll see," he muttered, grasping his sword in his right hand and clenching his left into a mallet-like fist.
 
 He took a wary step toward the alley—and with a horrible moaning laugh the Turanian charged. As he came he swung his sword, rising on his toes as he put all the power of his body behind the blows. Sparks flashed blue as Conan parried the blade, and the next instant the madman was stretched senseless in the dust from a thundering buffet of Conan's left fist.
 
 The girl ran forward.
 
-'Oh, he is not—he is not—'
+"Oh, he is not—he is not—"
 
 Conan bent swiftly, turned the man on his side and ran quick fingers over him.
 
-'He's not hurt much,' he grunted. 'Bleeding at the nose, but anybody's likely to do that, after a clout on the jaw. He'll come to after a bit, and maybe his mind will be right. In the meantime I'll tie his wrists with his sword-belt—so. Now where do you want me to take him?'
+"He's not hurt much," he grunted. "Bleeding at the nose, but anybody's likely to do that, after a clout on the jaw. He'll come to after a bit, and maybe his mind will be right. In the meantime I'll tie his wrists with his sword-belt—so. Now where do you want me to take him?"
 
-'Wait!' She knelt beside the senseless figure, seized the bound hands and scanned them avidly. Then, shaking her head as if in baffled disappointment, she rose. She came close to the giant Cimmerian, and laid her slender hands on his arching breast. Her dark eyes, like wet black jewels in the starlight, gazed up into his.
+"Wait!" She knelt beside the senseless figure, seized the bound hands and scanned them avidly. Then, shaking her head as if in baffled disappointment, she rose. She came close to the giant Cimmerian, and laid her slender hands on his arching breast. Her dark eyes, like wet black jewels in the starlight, gazed up into his.
 
-'You are a man! Help me! Totrasmek must die! Slay him for me!'
+"You are a man! Help me! Totrasmek must die! Slay him for me!"
 
-'And put my neck into a Turanian noose?' he grunted.
+"And put my neck into a Turanian noose?" he grunted.
 
-'Nay!' The slender arms, strong as pliant steel, were around his corded neck. Her supple body throbbed against his. 'The Hyrkanians have no love for Totrasmek. The priests of Set fear him. He is a mongrel, who rules men by fear and superstition. I worship Set, and the Turanians bow to Erlik, but Totrasmek sacrifices to Hanuman the accursed! The Turanian lords fear his black arts and his power over the hybrid population, and they hate him. If he were slain in his temple at night, they would not seek his slayer very closely.'
+"Nay!" The slender arms, strong as pliant steel, were around his corded neck. Her supple body throbbed against his. "The Hyrkanians have no love for Totrasmek. The priests of Set fear him. He is a mongrel, who rules men by fear and superstition. I worship Set, and the Turanians bow to Erlik, but Totrasmek sacrifices to Hanuman the accursed! The Turanian lords fear his black arts and his power over the hybrid population, and they hate him. If he were slain in his temple at night, they would not seek his slayer very closely."
 
-'And what of his magic?' rumbled the Cimmerian.
+"And what of his magic?" rumbled the Cimmerian.
 
-'You are a fighting-man,' she answered. 'To risk your life is part of your profession.'
+"You are a fighting-man," she answered. "To risk your life is part of your profession."
 
-'For a price,' he admitted.
+"For a price," he admitted.
 
-'There will be a price!' she breathed, rising on tiptoe, to gaze into his eyes.
+"There will be a price!" she breathed, rising on tiptoe, to gaze into his eyes.
 
-The nearness of her vibrant body drove a flame through his veins. The perfume of her breath mounted to his brain. But as his arms closed about her supple figure she avoided them with a lithe movement, saying: 'Wait! First serve me in this matter.'
+The nearness of her vibrant body drove a flame through his veins. The perfume of her breath mounted to his brain. But as his arms closed about her supple figure she avoided them with a lithe movement, saying: "Wait! First serve me in this matter."
 
-'Name your price.' He spoke with some difficulty.
+"Name your price." He spoke with some difficulty.
 
-'Pick up my lover,' she directed, and the Cimmerian stooped and swung the tall form easily to his broad shoulder. At the moment he felt as if he could have toppled over Jungir Khan's palace with equal ease. The girl murmured an endearment to the unconscious man, and there was no hypocrisy in her attitude. She obviously loved Alafdhal sincerely. Whatever business arrangement she made with Conan would have no bearing on her relationship with Alafdhal. Women are more practical about these things than men.
+"Pick up my lover," she directed, and the Cimmerian stooped and swung the tall form easily to his broad shoulder. At the moment he felt as if he could have toppled over Jungir Khan's palace with equal ease. The girl murmured an endearment to the unconscious man, and there was no hypocrisy in her attitude. She obviously loved Alafdhal sincerely. Whatever business arrangement she made with Conan would have no bearing on her relationship with Alafdhal. Women are more practical about these things than men.
 
-'Follow me!' She hurried along the street, while the Cimmerian strode easily after her, in no way discomforted by his limp burden. He kept a wary eye out for black shadows skulking under arches, but saw nothing suspicious. Doubtless the men of Darfar were all gathered at the roasting-pit. The girl turned down a narrow side street, and presently knocked cautiously at an arched door.
+"Follow me!" She hurried along the street, while the Cimmerian strode easily after her, in no way discomforted by his limp burden. He kept a wary eye out for black shadows skulking under arches, but saw nothing suspicious. Doubtless the men of Darfar were all gathered at the roasting-pit. The girl turned down a narrow side street, and presently knocked cautiously at an arched door.
 
 Almost instantly a wicket opened in the upper panel, and a black face glanced out. She bent close to the opening, whispering swiftly. Bolts creaked in their sockets, and the door opened. A giant black man stood framed against the soft glow of a copper lamp. A quick glance showed Conan the man was not from Darfar. His teeth were unfiled and his kinky hair was cropped close to his skull. He was from the Wadai.
 
@@ -245,11 +245,11 @@ At a word from Zabibi, Conan gave the limp body into the black's arms, and saw t
 
 The door closed softly, the locks clicked behind them, and the closing wicket shut off the glow of the lamps. In the starlight of the street Zabibi took Conan's hand. Her own hand trembled a little.
 
-'You will not fail me?'
+"You will not fail me?"
 
 He shook his maned head, massive against the stars.
 
-'Then follow me to Hanuman's shrine, and the gods have mercy on our souls!'
+"Then follow me to Hanuman's shrine, and the gods have mercy on our souls!"
 
 Along the silent streets they moved like phantoms of antiquity. They went in silence. Perhaps the girl was thinking of her lover lying senseless on the divan under the copper lamps; or was shrinking with fear of what lay ahead of them in the demon-haunted shrine of Hanuman. The barbarian was thinking only of the woman moving so supplely beside him. The perfume of her scented hair was in his nostrils, the sensuous aura of her presence filled his brain and left room for no other thoughts.
 
@@ -259,11 +259,11 @@ As soon as the clang of their sandals had receded up the street, Conan and the g
 
 The temple of Hanuman stood alone in the midst of a broad square, which lay silent and deserted beneath the stars. A marble wall surrounded the shrine, with a broad opening directly before the portico. This opening had no gate or any sort of barrier.
 
-'Why don't the blacks seek their prey here?' muttered Conan. 'There's nothing to keep them out of the temple.'
+"Why don't the blacks seek their prey here?" muttered Conan. "There's nothing to keep them out of the temple."
 
 He could feel the trembling of Zabibi's body as she pressed close to him.
 
-'They fear Totrasmek, as all in Zamboula fear him, even Jungir Khan and Nafertari. Come! Come quickly, before my courage flows from me like water!'
+"They fear Totrasmek, as all in Zamboula fear him, even Jungir Khan and Nafertari. Come! Come quickly, before my courage flows from me like water!"
 
 The girl's fear was evident, but she did not falter. Conan drew his sword and strode ahead of her as they advanced through the open gateway. He knew the hideous habits of the priests of the East, and was aware that an invader of Hanuman's shrine might expect to encounter almost any sort of nightmare horror. He knew there was a good chance that neither he nor the girl would ever leave the shrine alive, but he had risked his life too many times before to devote much thought to that consideration.
 
@@ -275,11 +275,11 @@ Bestial in the uncertain light Hanuman leered with his carven mask. He sat, not 
 
 The girl moved around the image, making toward the back wall, and when her sleek flank brushed against a carven knee, she shrank aside and shuddered as if a reptile had touched her. There was a space of several feet between the broad back of the idol and the marble wall with its frieze of gold leaves. On either hand, flanking the idol, an ivory door under a gold arch was set in the wall.
 
-'Those doors open into each end of a hair-pin shaped corridor,' she said hurriedly. 'Once I was in the interior of the shrine—once!' She shivered and twitched her slim shoulders at a memory both terrifying and obscene. 'The corridor is bent like a horseshoe, with each horn opening into this room. Totrasmek's chambers are enclosed within the curve of the corridor and open into it. But there is a secret door in this wall which opens directly into an inner chamber—'
+"Those doors open into each end of a hair-pin shaped corridor," she said hurriedly. "Once I was in the interior of the shrine—once!" She shivered and twitched her slim shoulders at a memory both terrifying and obscene. "The corridor is bent like a horseshoe, with each horn opening into this room. Totrasmek's chambers are enclosed within the curve of the corridor and open into it. But there is a secret door in this wall which opens directly into an inner chamber—"
 
 She began to run her hands over the smooth surface, where no crack or crevice showed. Conan stood beside her, sword in hand, glancing warily about him. The silence, the emptiness of the shrine, with imagination picturing what might lie behind that wall, made him feel like a wild beast nosing a trap.
 
-'Ah!' The girl had found a hidden spring at last; a square opening gaped blackly in the wall. 'Set!' she screamed, and even as Conan leaped toward her, he saw that a great misshapen hand had fastened itself in her hair. She was snatched off her feet and jerked head-first through the opening. Conan, grabbing ineffectually at her, felt his fingers slip from a naked limb, and in an instant she had vanished and the wall showed blank as before. Only from beyond it came briefly the muffled sounds of a struggle, a scream, faintly heard, and a low laugh that made Conan's blood congeal in his veins.
+"Ah!" The girl had found a hidden spring at last; a square opening gaped blackly in the wall. "Set!" she screamed, and even as Conan leaped toward her, he saw that a great misshapen hand had fastened itself in her hair. She was snatched off her feet and jerked head-first through the opening. Conan, grabbing ineffectually at her, felt his fingers slip from a naked limb, and in an instant she had vanished and the wall showed blank as before. Only from beyond it came briefly the muffled sounds of a struggle, a scream, faintly heard, and a low laugh that made Conan's blood congeal in his veins.
 
 ---
 
@@ -297,21 +297,21 @@ He was looking into a broad, square chamber, somewhat more clearly lighted than 
 
 This man was naked except for a loin-cloth and high-strapped sandals. He was brown-skinned, with close-cropped black hair and restless black eyes that set off a broad, arrogant face. In girth and breadth he was enormous, with huge limbs on which the great muscles swelled and rippled at each slightest movement. His hands were the largest Conan had ever seen. The assurance of gigantic physical strength colored his every action and inflection.
 
-'Why not enter, barbarian?' he called mockingly, with an exaggerated gesture of invitation.
+"Why not enter, barbarian?" he called mockingly, with an exaggerated gesture of invitation.
 
 Conan's eyes began to smolder ominously, but he trod warily into the chamber, his sword ready.
 
-'Who the devil are you?' he growled.
+"Who the devil are you?" he growled.
 
-'I am Baal-pteor,' the man answered. 'Once, long ago and in another land, I had another name. But this is a good name, and why Totrasmek gave it to me, any temple wench can tell you.'
+"I am Baal-pteor," the man answered. "Once, long ago and in another land, I had another name. But this is a good name, and why Totrasmek gave it to me, any temple wench can tell you."
 
-'So you're his dog!' grunted Conan. 'Well, curse your brown hide, Baal-pteor, where's the wench you jerked through the wall?'
+"So you're his dog!" grunted Conan. "Well, curse your brown hide, Baal-pteor, where's the wench you jerked through the wall?"
 
-'My master entertains her!' laughed Baal-pteor. 'Listen!'
+"My master entertains her!" laughed Baal-pteor. "Listen!"
 
 From beyond a door opposite the one by which Conan had entered there sounded a woman's scream, faint and muffled in the distance.
 
-'Blast your soul!' Conan took a stride toward the door, then wheeled with his skin tingling. Baal-pteor was laughing at him, and that laugh was edged with menace that made the hackles rise on Conan's neck and sent a red wave of murder-lust driving across his vision.
+"Blast your soul!" Conan took a stride toward the door, then wheeled with his skin tingling. Baal-pteor was laughing at him, and that laugh was edged with menace that made the hackles rise on Conan's neck and sent a red wave of murder-lust driving across his vision.
 
 He started toward Baal-pteor, the knuckles on his sword-hand showing white. With a swift motion the brown man threw something at him—a shining crystal sphere that glistened in the weird light.
 
@@ -319,9 +319,9 @@ Conan dodged instinctively, but, miraculously, the globe stopped short in midair
 
 With a choking cry Conan lurched backward, reeled, felt the solid wall against his back. At the contact the illusion ceased to be. The whirling, titanic sphere vanished like a bursting bubble. Conan reeled upright in the silver-ceilinged room, with a gray mist coiling about his feet, and saw Baal-pteor lolling on the divan, shaking with silent laughter.
 
-'Son of a slut!' Conan lunged at him. But the mist swirled up from the floor, blotting out that giant brown form. Groping in a rolling cloud that blinded him, Conan felt a rending sensation of dislocation—and then room and mist and brown man were gone together. He was standing alone among the high reeds of a marshy fen, and a buffalo was lunging at him, head down. He leaped aside from the ripping scimitar-curved horns, and drove his sword in behind the foreleg, through ribs and heart. And then it was not a buffalo dying there in the mud, but the brown-skinned Baal-pteor. With a curse Conan struck off his head; and the head soared from the ground and snapped beast-like tusks into his throat. For all his mighty strength he could not tear it loose—he was choking—strangling; then there was a rush and roar through space, the dislocating shock of an immeasurable impact, and he was back in the chamber with Baal-pteor, whose head was once more set firmly on his shoulders, and who laughed silently at him from the divan.
+"Son of a slut!" Conan lunged at him. But the mist swirled up from the floor, blotting out that giant brown form. Groping in a rolling cloud that blinded him, Conan felt a rending sensation of dislocation—and then room and mist and brown man were gone together. He was standing alone among the high reeds of a marshy fen, and a buffalo was lunging at him, head down. He leaped aside from the ripping scimitar-curved horns, and drove his sword in behind the foreleg, through ribs and heart. And then it was not a buffalo dying there in the mud, but the brown-skinned Baal-pteor. With a curse Conan struck off his head; and the head soared from the ground and snapped beast-like tusks into his throat. For all his mighty strength he could not tear it loose—he was choking—strangling; then there was a rush and roar through space, the dislocating shock of an immeasurable impact, and he was back in the chamber with Baal-pteor, whose head was once more set firmly on his shoulders, and who laughed silently at him from the divan.
 
-'Mesmerism!' muttered Conan, crouching and digging his toes hard against the marble.
+"Mesmerism!" muttered Conan, crouching and digging his toes hard against the marble.
 
 His eyes blazed. This brown dog was playing with him, making sport of him! But this mummery, this child's play of mists and shadows of thought, it could not harm him. He had but to leap and strike and the brown acolyte would be a mangled corpse under his heel. This time he would not be fooled by shadows of illusion—but he was.
 
@@ -329,9 +329,9 @@ A blood-curdling snarl sounded behind him, and he wheeled and struck in a flash 
 
 Slightly taller than Conan, and much heavier, Baal-pteor loomed before him, a daunting image of muscular development. His mighty arms were unnaturally long, and his great hands opened and closed, twitching convulsively. Conan released the hilt of his imprisoned sword and fell silent, watching his enemy through slitted lids.
 
-'Your head, Cimmerian!' taunted Baal-pteor. 'I shall take it with my bare hands, twisting it from your shoulders as the head of a fowl is twisted! Thus the sons of Kosala offer sacrifice to Yajur. Barbarian, you look upon a strangler of Yota-pong. I was chosen by the priests of Yajur in my infancy, and throughout childhood, boyhood and youth I trained in the art of slaying with the naked hands—for only thus are the sacrifices enacted. Yajur loves blood, and we waste not a drop from the victim's veins. When I was a child they gave me infants to throttle; when I was a boy I strangled young girls; as a youth, women, old men and young boys. Not until I reached my full manhood was I given a strong man to slay on the altar of Yota-pong.
+"Your head, Cimmerian!" taunted Baal-pteor. "I shall take it with my bare hands, twisting it from your shoulders as the head of a fowl is twisted! Thus the sons of Kosala offer sacrifice to Yajur. Barbarian, you look upon a strangler of Yota-pong. I was chosen by the priests of Yajur in my infancy, and throughout childhood, boyhood and youth I trained in the art of slaying with the naked hands—for only thus are the sacrifices enacted. Yajur loves blood, and we waste not a drop from the victim's veins. When I was a child they gave me infants to throttle; when I was a boy I strangled young girls; as a youth, women, old men and young boys. Not until I reached my full manhood was I given a strong man to slay on the altar of Yota-pong.
 
-'For years I offered the sacrifices to Yajur. Hundreds of necks have snapped between these fingers—' he worked them before the Cimmerian's angry eyes. 'Why I fled from Yota-pong to become Totrasmek's servant is no concern of yours. In a moment you will be beyond curiosity. The priests of Kosala, the stranglers of Yajur, are strong beyond the belief of men. And I was stronger than any. With my hands, barbarian, I shall break your neck!'
+"For years I offered the sacrifices to Yajur. Hundreds of necks have snapped between these fingers—" he worked them before the Cimmerian's angry eyes. "Why I fled from Yota-pong to become Totrasmek's servant is no concern of yours. In a moment you will be beyond curiosity. The priests of Kosala, the stranglers of Yajur, are strong beyond the belief of men. And I was stronger than any. With my hands, barbarian, I shall break your neck!"
 
 And like the stroke of twin cobras, the great hands closed on Conan's throat. The Cimmerian made no attempt to dodge or fend them away, but his own hands darted to the Kosalan's bull-neck. Baal-pteor's black eyes widened as he felt the thick cords of muscles that protected the barbarian's throat. With a snarl he exerted his inhuman strength, and knots and lumps and ropes of thews rose along his massive arms. And then a choking gasp burst from him as Conan's fingers locked on his throat. For an instant they stood there like statues, their faces masks of effort, veins beginning to stand out purply on their temples. Conan's thin lips drew back from his teeth in a grinning snarl. Baal-pteor's eyes were distended; in them grew an awful surprize and the glimmer of fear. Both men stood motionless as images, except for the expanding of their muscles on rigid arms and braced legs, but strength beyond common conception was warring there—strength that might have uprooted trees and crushed the skulls of bullocks.
 
@@ -343,7 +343,7 @@ With a sudden lunge Conan bore him backward until the small of his back crashed 
 
 Conan's low laugh was merciless as the ring of steel.
 
-'You fool!' he all but whispered. 'I think you never saw a man from the West before. Did you deem yourself strong, because you were able to twist the heads off civilized folk, poor weaklings with muscles like rotten string? Hell! Break the neck of a wild Cimmerian bull before you call yourself strong. I did that, before I was a full-grown man—like this!'
+"You fool!" he all but whispered. "I think you never saw a man from the West before. Did you deem yourself strong, because you were able to twist the heads off civilized folk, poor weaklings with muscles like rotten string? Hell! Break the neck of a wild Cimmerian bull before you call yourself strong. I did that, before I was a full-grown man—like this!"
 
 And with a savage wrench he twisted Baal-pteor's head around until the ghastly face leered over the left shoulder, and the vertebrae snapped like a rotten branch.
 
@@ -357,41 +357,41 @@ Another instant and he had pushed open the door from behind which the scream had
 
 When Zabibi was jerked head-first through the aperture which opened in the wall behind the idol, her first, dizzy, disconnected thought was that her time had come. She instinctively shut her eyes and waited for the blow to fall. But instead she felt herself dumped unceremoniously onto the smooth marble floor, which bruised her knees and hip. Opening her eyes she stared fearfully around her, just as a muffled impact sounded from beyond the wall. She saw a brown-skinned giant in a loin-cloth standing over her, and, across the chamber into which she had come, a man sat on a divan, with his back to a rich velvet curtain, a broad, fleshy man, with fat white hands and snaky eyes. And her flesh crawled, for this man was Totrasmek, the priest of Hanuman, who for years had spun his slimy webs of power throughout the city of Zamboula.
 
-'The barbarian seeks to batter his way through the wall,' said Totrasmek sardonically, 'but the bolt will hold.'
+"The barbarian seeks to batter his way through the wall," said Totrasmek sardonically, "but the bolt will hold."
 
 The girl saw that a heavy golden bolt had been shot across the hidden door, which was plainly discernible from this side of the wall. The bolt and its sockets would have resisted the charge of an elephant.
 
-'Go open one of the doors for him, Baal-pteor,' ordered Totrasmek. 'Slay him in the square chamber at the other end of the corridor.'
+"Go open one of the doors for him, Baal-pteor," ordered Totrasmek. "Slay him in the square chamber at the other end of the corridor."
 
 The Kosalan salaamed and departed by the way of a door in the side wall of the chamber. Zabibi rose, staring fearfully at the priest, whose eyes ran avidly over her splendid figure. To this she was indifferent. A dancer of Zamboula was accustomed to nakedness. But the cruelty in his eyes started her limbs to quivering.
 
-'Again you come to me in my retreat, beautiful one,' he purred with cynical hypocrisy. 'It is an unexpected honor. You seemed to enjoy your former visit so little, that I dared not hope for you to repeat it. Yet I did all in my power to provide you with an interesting experience.'
+"Again you come to me in my retreat, beautiful one," he purred with cynical hypocrisy. "It is an unexpected honor. You seemed to enjoy your former visit so little, that I dared not hope for you to repeat it. Yet I did all in my power to provide you with an interesting experience."
 
 For a Zamboulan dancer to blush would be an impossibility, but a smolder of anger mingled with the fear in Zabibi's dilated eyes.
 
-'Fat pig! You know I did not come here for love of you.'
+"Fat pig! You know I did not come here for love of you."
 
-'No,' laughed Totrasmek, 'you came like a fool, creeping through the night with a stupid barbarian to cut my throat. Why should you seek my life?'
+"No," laughed Totrasmek, "you came like a fool, creeping through the night with a stupid barbarian to cut my throat. Why should you seek my life?"
 
-'You know why!' she cried, knowing the futility of trying to dissemble.
+"You know why!" she cried, knowing the futility of trying to dissemble.
 
-'You are thinking of your lover,' he laughed. 'The fact that you are here seeking my life shows that he quaffed the drug I gave you. Well, did you not ask for it? And did I not send what you asked for, out of the love I bear you?'
+"You are thinking of your lover," he laughed. "The fact that you are here seeking my life shows that he quaffed the drug I gave you. Well, did you not ask for it? And did I not send what you asked for, out of the love I bear you?"
 
-'I asked you for a drug that would make him slumber harmlessly for a few hours,' she said bitterly. 'And you—you sent your servant with a drug that drove him mad! I was a fool ever to trust you. I might have known your protestations of friendship were lies, to disguise your hate and spite.'
+"I asked you for a drug that would make him slumber harmlessly for a few hours," she said bitterly. "And you—you sent your servant with a drug that drove him mad! I was a fool ever to trust you. I might have known your protestations of friendship were lies, to disguise your hate and spite."
 
-'Why did you wish your lover to sleep?' he retorted. 'So you could steal from him the only thing he would never give you—the ring with the jewel men call the Star of Khorala—the star stolen from the Queen of Ophir, who would pay a roomful of gold for its return. He would not give it to you willingly, because he knew that it holds a magic which, when properly controlled, will enslave the hearts of any of the opposite sex. You wished to steal it from him, fearing that his magicians would discover the key to that magic and he would forget you in his conquests of the queens of the world. You would sell it back to the queen of Ophir, who understands its power and would use it to enslave men, as she did before it was stolen.'
+"Why did you wish your lover to sleep?" he retorted. "So you could steal from him the only thing he would never give you—the ring with the jewel men call the Star of Khorala—the star stolen from the Queen of Ophir, who would pay a roomful of gold for its return. He would not give it to you willingly, because he knew that it holds a magic which, when properly controlled, will enslave the hearts of any of the opposite sex. You wished to steal it from him, fearing that his magicians would discover the key to that magic and he would forget you in his conquests of the queens of the world. You would sell it back to the queen of Ophir, who understands its power and would use it to enslave men, as she did before it was stolen."
 
-'And why did *you* want it?' she demanded sulkily.
+"And why did *you* want it?" she demanded sulkily.
 
-'I understand its powers. It would increase the power of my arts.'
+"I understand its powers. It would increase the power of my arts."
 
-'Well,' she snapped, 'you have it now!'
+"Well," she snapped, "you have it now!"
 
-'*I* have the Star of Khorala? Nay, you err.'
+"*I* have the Star of Khorala? Nay, you err."
 
-'Why bother to lie?' she retorted bitterly. 'He had it on his finger when he drove me into the streets. He did not have it when I found him again. Your servant must have been watching the house, and have taken it from him, after I escaped him. To the devil with it! I want my lover back sane and whole. You have the ring; you have punished us both. Why do you not restore his mind to him? Can you?'
+"Why bother to lie?" she retorted bitterly. "He had it on his finger when he drove me into the streets. He did not have it when I found him again. Your servant must have been watching the house, and have taken it from him, after I escaped him. To the devil with it! I want my lover back sane and whole. You have the ring; you have punished us both. Why do you not restore his mind to him? Can you?"
 
-'I could,' he assured her, in evident enjoyment of her distress. He drew a phial from among his robes. 'This contains the juice of the golden lotus. If your lover drank it he would be sane again. Yes, I will be merciful. You have both thwarted and flouted me, not once but many times; he has constantly opposed my wishes. But I will be merciful. Come and take the phial from my hand.'
+"I could," he assured her, in evident enjoyment of her distress. He drew a phial from among his robes. "This contains the juice of the golden lotus. If your lover drank it he would be sane again. Yes, I will be merciful. You have both thwarted and flouted me, not once but many times; he has constantly opposed my wishes. But I will be merciful. Come and take the phial from my hand."
 
 She stared at Totrasmek, trembling with eagerness to seize it, but fearing it was but some cruel jest. She advanced timidly, with a hand extended, and he laughed heartlessly and drew back out of her reach. Even as her lips parted to curse him, some instinct snatched her eyes upward. From the gilded ceiling four jade-hued vessels were falling. She dodged, but they did not strike her. They crashed to the floor about her, forming the four corners of a square. And she screamed, and screamed again. For out of each ruin reared the hooded head of a cobra, and one struck at her bare leg. Her convulsive movement to evade it brought her within reach of the one on the other side and again she had to shift like lightning to avoid the flash of its hideous head.
 
@@ -401,7 +401,7 @@ She became, herself, a blur of bewildering motion. The heads missed her by hair'
 
 Somewhere a thin whining music struck up, mingling with the hissing of the serpents, like an evil night-wind blowing through the empty sockets of a skull. Even in the flying speed of her urgent haste she realized that the darting of the serpents was no longer at random. They obeyed the grisly piping of the eery music. They struck with a horrible rhythm, and perforce her swaying, writhing, spinning body attuned itself to their rhythm. Her frantic motions melted into the measures of a dance compared to which the most obscene tarantella of Zamora would have seemed sane and restrained. Sick with shame and terror Zabibi heard the hateful mirth of her merciless tormentor.
 
-'The Dance of the Cobras, my lovely one!' laughed Totrasmek. 'So maidens danced in the sacrifice to Hanuman centuries ago—but never with such beauty and suppleness. Dance, girl, dance! How long can you avoid the fangs of the Poison People? Minutes? Hours? You will weary at last. Your swift, sure feet will stumble, your legs falter, your hips slow in their rotations. Then the fangs will begin to sink deep into your ivory flesh—'
+"The Dance of the Cobras, my lovely one!" laughed Totrasmek. "So maidens danced in the sacrifice to Hanuman centuries ago—but never with such beauty and suppleness. Dance, girl, dance! How long can you avoid the fangs of the Poison People? Minutes? Hours? You will weary at last. Your swift, sure feet will stumble, your legs falter, your hips slow in their rotations. Then the fangs will begin to sink deep into your ivory flesh—"
 
 Behind him the curtain shook as if struck by a gust of wind, and Totrasmek screamed. His eyes dilated and his hands caught convulsively at the length of bright steel which jutted suddenly from his breast.
 
@@ -411,69 +411,69 @@ Conan came from behind the curtain, wiping his broad blade. Looking through the 
 
 Zabibi sank down on the floor, panting, but even as Conan started toward her, she staggered up again, though her legs trembled with exhaustion.
 
-'The phial!' she gasped. 'The phial!'
+"The phial!" she gasped. "The phial!"
 
 Totrasmek still grasped it in his stiffening hand. Ruthlessly she tore it from his locked fingers, and then began frantically to ransack his garments.
 
-'What the devil are you looking for?' Conan demanded.
+"What the devil are you looking for?" Conan demanded.
 
-'A ring—he stole it from Alafdhal. He must have, while my lover walked in madness through the streets. Set's devils!'
+"A ring—he stole it from Alafdhal. He must have, while my lover walked in madness through the streets. Set's devils!"
 
 She had convinced herself that it was not on the person of Totrasmek. She began to cast about the chamber, tearing up divan-covers and hangings, and upsetting vessels.
 
 She paused and raked a damp lock of hair out of her eyes.
 
-'I forgot Baal-pteor!'
+"I forgot Baal-pteor!"
 
-'He's in hell with his neck broken,' Conan assured her.
+"He's in hell with his neck broken," Conan assured her.
 
 She expressed vindictive gratification at the news, but an instant later swore expressively.
 
-'We can't stay here. It's not many hours until dawn. Lesser priests are likely to visit the temple at any hour of the night, and if we're discovered here with his corpse, the people will tear us to pieces. The Turanians could not save us.'
+"We can't stay here. It's not many hours until dawn. Lesser priests are likely to visit the temple at any hour of the night, and if we're discovered here with his corpse, the people will tear us to pieces. The Turanians could not save us."
 
 She lifted the bolt on the secret door, and a few moments later they were in the streets and hurrying away from the silent square where brooded the age-old shrine of Hanuman.
 
 In a winding street a short distance away Conan halted and checked his companion with a heavy hand on her naked shoulder.
 
-'Don't forget there was a price—'
+"Don't forget there was a price—"
 
-'I have not forgotten!' She twisted free. 'But we must go to—to Alafdhal first!'
+"I have not forgotten!" She twisted free. "But we must go to—to Alafdhal first!"
 
 A few minutes later the black slave let them through the wicket door. The young Turanian lay upon the divan, his arms and legs bound with heavy velvet ropes. His eyes were open, but they were like those of a mad dog, and foam was thick on his lips. Zabibi shuddered.
 
-'Force his jaws open!' she commanded, and Conan's iron fingers accomplished the task.
+"Force his jaws open!" she commanded, and Conan's iron fingers accomplished the task.
 
 Zabibi emptied the phial down the maniac's gullet. The effect was like magic. Instantly he became quiet. The glare faded from his eyes; he stared up at the girl in a puzzled way, but with recognition and intelligence. Then he fell into a normal slumber.
 
-'When he awakes he will be quite sane,' she whispered, motioning to the silent slave.
+"When he awakes he will be quite sane," she whispered, motioning to the silent slave.
 
 With a deep bow he gave into her hands a small leathern bag, and drew about her shoulders a silken cloak. Her manner had subtly changed when she beckoned Conan to follow her out of the chamber.
 
 In an arch that opened on the street, she turned to him, drawing herself up with a new regality.
 
-'I must now tell you the truth,' she said. 'I am not Zabibi. I am Nafertari. And *he* is not Alafdhal, a poor captain of the guardsmen. He is Jungir Khan, satrap of Zamboula.'
+"I must now tell you the truth," she said. "I am not Zabibi. I am Nafertari. And *he* is not Alafdhal, a poor captain of the guardsmen. He is Jungir Khan, satrap of Zamboula."
 
 Conan made no comment; his scarred dark countenance was immobile.
 
-'I lied to you because I dared not divulge the truth to anyone,' she said. 'We were alone when Jungir Khan went mad. None knew of it but myself. Had it been known that the satrap of Zamboula was a madman, there would have been instant revolt and rioting, even as Totrasmek planned, who plotted our destruction.
+"I lied to you because I dared not divulge the truth to anyone," she said. "We were alone when Jungir Khan went mad. None knew of it but myself. Had it been known that the satrap of Zamboula was a madman, there would have been instant revolt and rioting, even as Totrasmek planned, who plotted our destruction.
 
-'You see now how impossible is the reward for which you hoped. The satrap's mistress is not—cannot be for you. But you shall not go unrewarded. Here is a sack of gold.'
+"You see now how impossible is the reward for which you hoped. The satrap's mistress is not—cannot be for you. But you shall not go unrewarded. Here is a sack of gold."
 
 She gave him the bag she had received from the slave.
 
-'Go, now, and when the sun is come up to the palace, I will have Jungir Khan make you captain of his guard. But you will take your orders from me, secretly. Your first duty will be to march a squad to the shrine of Hanuman, ostensibly to search for clues of the priest's slayer; in reality to search for the Star of Khorala. It must be hidden there somewhere. When you find it, bring it to me. You have my leave to go now.'
+"Go, now, and when the sun is come up to the palace, I will have Jungir Khan make you captain of his guard. But you will take your orders from me, secretly. Your first duty will be to march a squad to the shrine of Hanuman, ostensibly to search for clues of the priest's slayer; in reality to search for the Star of Khorala. It must be hidden there somewhere. When you find it, bring it to me. You have my leave to go now."
 
 He nodded, still silent, and strode away. The girl, watching the swing of his broad shoulders, was piqued to note that there was nothing in his bearing to show that he was in any way chagrined or abashed.
 
 When he had rounded a corner, he glanced back, and then changed his direction and quickened his pace. A few moments later he was in the quarter of the city containing the Horse Market. There he smote on a door until from the window above a bearded head was thrust to demand the reason for the disturbance.
 
-'A horse,' demanded Conan. 'The swiftest steed you have.'
+"A horse," demanded Conan. "The swiftest steed you have."
 
-'I open no gates at this time of night,' grumbled the horse-trader.
+"I open no gates at this time of night," grumbled the horse-trader.
 
 Conan rattled his coins.
 
-'Dog's son knave! Don't you see I'm white, and alone? Come down, before I smash your door!'
+"Dog's son knave! Don't you see I'm white, and alone? Come down, before I smash your door!"
 
 Presently, on a bay stallion, Conan was riding toward the house of Aram Baksh.
 
@@ -481,29 +481,29 @@ He turned off the road into the alley that lay between the tavern compound and t
 
 Drawing his foot from the stirrup he stole to the angle and peered around it. Three men were moving down the road toward the palm groves, and from their slouching gait he knew they were negroes. They halted at his low call, bunching themselves as he strode toward them, his sword in his hand. Their eyes gleamed whitely in the starlight. Their brutish lust shone in their ebony faces, but they knew their three cudgels could not prevail against his sword, just as he knew it.
 
-'Where are you going?' he challenged.
+"Where are you going?" he challenged.
 
-'To bid our brothers put out the fire in the pit beyond the groves,' was the sullen, guttural reply. 'Aram Baksh promised us a man, but he lied. We found one of our brothers dead in the trap-chamber. We go hungry this night.'
+"To bid our brothers put out the fire in the pit beyond the groves," was the sullen, guttural reply. "Aram Baksh promised us a man, but he lied. We found one of our brothers dead in the trap-chamber. We go hungry this night."
 
-'I think not,' smiled Conan. 'Aram Baksh will give you a man. Do you see that door?'
+"I think not," smiled Conan. "Aram Baksh will give you a man. Do you see that door?"
 
 He pointed to a small, iron-bound portal set in the midst of the western wall.
 
-'Wait there. Aram Baksh will give you a man.'
+"Wait there. Aram Baksh will give you a man."
 
 Backing warily away until he was out of reach of a sudden bludgeon blow, he turned and melted around the northwest angle of the wall. Reaching his horse he paused to ascertain that the blacks were not sneaking after him, and then he climbed into the saddle and stood upright on it, quieting the uneasy steed with a low word. He reached up, grasped the coping of the wall and drew himself up and over. There he studied the grounds for an instant. The tavern was built in the southwest corner of the enclosure, the remaining space of which was occupied by groves and gardens. He saw no one in the grounds. The tavern was dark and silent, and he knew all the doors and windows were barred and bolted.
 
 Conan knew that Aram Baksh slept in a chamber that opened into a cypress-bordered path that led to the door in the western wall. Like a shadow he glided among the trees and a few moments later he rapped lightly on the chamber door.
 
-'What is it?' asked a rumbling voice within.
+"What is it?" asked a rumbling voice within.
 
-'Aram Baksh!' hissed Conan. 'The blacks are stealing over the wall!'
+"Aram Baksh!" hissed Conan. "The blacks are stealing over the wall!"
 
 Almost instantly the door opened, framing the tavern-keeper, naked but for his shirt, with a dagger in his hand.
 
 He craned his neck to stare into the Cimmerian's face.
 
-'What tale is this—*you!*'
+"What tale is this—*you!*"
 
 Conan's vengeful fingers strangled the yell in his throat. They went to the floor together and Conan wrenched the dagger from his enemy's hand. The blade glinted in the starlight, and blood spurted. Aram Baksh made hideous noises, gasping and gagging on a mouthful of blood. Conan dragged him to his feet and again the dagger slashed, and most of the curly beard fell to the floor.
 
@@ -515,6 +515,6 @@ In glee the negroes dragged him down the road, mocking his frenzied gibberings. 
 
 Closing the door behind him, Conan returned to his horse, mounted and turned westward, toward the open desert, swinging wide to skirt the sinister belt of palm groves. As he rode, he drew from his belt a ring in which gleamed a jewel that snared the starlight in a shimmering iridescence. He held it up to admire it, turning it this way and that. The compact bag of gold pieces clinked gently at his saddle-bow, like a promise of the greater riches to come.
 
-'I wonder what she'd say if she knew I recognized her as Nafertari and him as Jungir Khan the instant I saw them,' he mused. 'I knew the Star of Khorala, too. There'll be a fine scene if she ever guesses that I slipped it off his finger while I was tying him with his sword-belt. But they'll never catch me, with the start I'm getting.'
+"I wonder what she'd say if she knew I recognized her as Nafertari and him as Jungir Khan the instant I saw them," he mused. "I knew the Star of Khorala, too. There'll be a fine scene if she ever guesses that I slipped it off his finger while I was tying him with his sword-belt. But they'll never catch me, with the start I'm getting."
 
 He glanced back at the shadowy palm groves, among which a red glare was mounting. A chanting rose to the night, vibrating with savage exultation. And another sound mingled with it, a mad, incoherent screaming, a frenzied gibbering in which no words could be distinguished. The noise followed Conan as he rode westward beneath the paling stars.

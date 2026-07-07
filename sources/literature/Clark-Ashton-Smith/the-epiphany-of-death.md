@@ -14,15 +14,15 @@ I have already said that my feeling for Tomeron was never anything that could be
 
 I do not remember how long our acquaintance had continued; but I do remember that he spoke with increasing frequency, toward the end, of those bizarre ideas at which I have hinted. Always I felt that he was troubled about something for he often looked at me with a mournful gleam in his hollow eyes; and sometimes he would speak, with peculiar stress, of the great regard that he had for me.
 
-And one night he said, 'Theolus, the time is coming when you must kmow the truth — must know me as I am, and not as I have been permitted to seem. There is a term to all things, and all tbings are obedient to inexorable laws. I would that it were otherwise, but neither I nor any man, among the living or among the dead, can lengthen at will the term of any state or condition of being, or alter the laws that decree such conditions.'
+And one night he said, "Theolus, the time is coming when you must kmow the truth — must know me as I am, and not as I have been permitted to seem. There is a term to all things, and all tbings are obedient to inexorable laws. I would that it were otherwise, but neither I nor any man, among the living or among the dead, can lengthen at will the term of any state or condition of being, or alter the laws that decree such conditions."
 
 Perhaps it was well that I did not understand him, and that I was unable to attach much importance to his words or to the singular intentness of his bearing as he uttered them. For a few more days, I was spared the knowledge which I now carry.
 
-Then one evening, Tomeron spoke thus: 'I am now compelled to ask an odd favor of you, which I hope you will grant in consideration of our long friendship. The favor is, that you accompany me this very night to those vaults of my family which lie in the catacombs of Ptolemides.'
+Then one evening, Tomeron spoke thus: "I am now compelled to ask an odd favor of you, which I hope you will grant in consideration of our long friendship. The favor is, that you accompany me this very night to those vaults of my family which lie in the catacombs of Ptolemides."
 
 Though much surprised by the request, and not altogether pleased, I was nevertheless unable to deny him. I could not imagine the purpose of such a visit as the one proposed; but, as was my wont, I forbore to interrogate Tomeron, and merely told him that I would accompany him to the vaults if such where his desire.
 
-'I thank you, Theolus, for this proof of friendship,' he replied earnestly, 'Believe me, I am loath to ask it; but there has been a certain deception, an odd misunderstanding which cannot go on any longer. Tonight, you will learn the truth.'
+"I thank you, Theolus, for this proof of friendship," he replied earnestly, "Believe me, I am loath to ask it; but there has been a certain deception, an odd misunderstanding which cannot go on any longer. Tonight, you will learn the truth."
 
 Carrying torches, we left the mansion of Tameron and sought the ancient catacombs of Ptolemides, which lie beyond the walls and have long been disused, for there is now a fine necropolis in the very heart of the city. The moon had gone down beyond the desert that encroaches toward the catacombs; and we were forced to light our torches long before we came to the subterranean adits; for the rays of Mars and Jupiter in a sodden and funereal sky were not enough to illumine the perilous path we followed among mounds and fallen obelisks and broken graves. At length we discovered the dark ang weed-choked entrance of the charnels; and here Tomeron led the way with a swiftness and surety of footing that bespoke long familiarity with the place.
 
@@ -30,13 +30,13 @@ Entering, we found ourselves in a crumbling passage where the bones of dilapidat
 
 At length we rounded a sudden angle of the low cavern we were following. Here we came to vaults that evidently belonged to some noble family, for they were quite spacious and there was but one sarcophagus in each vault.
 
-'My ancestors and my family lie here,' announced Tomeron.
+"My ancestors and my family lie here," announced Tomeron.
 
 We reached the cavern's end and were confronted by a blank walL At one side was the final vault, in which an empty sarcophagus stood open. The sarcophagus was wrought of the finest bronze and was richly carven.
 
 Tomeron paused before the vault and turned to me. By the flickering, uncertain light I thought that I saw a look of strange and unaccountable distress on his features.
 
-'I must beg you to withdraw for a moment,' he said, in a low and sorrowful voice. 'Afterward, you can return.'
+"I must beg you to withdraw for a moment," he said, in a low and sorrowful voice. "Afterward, you can return."
 
 Surprised and puzzled, I obeyed his request and went slowly back along the passage for some distance. Then I returned to the place where I had left him. My surprise was heightened when I found that he had extinguished his torch and had dropped it on the threshold of the final vault. And Tomeron himself was not visible anywhere.
 

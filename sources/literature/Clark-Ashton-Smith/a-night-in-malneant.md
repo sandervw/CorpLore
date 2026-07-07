@@ -24,31 +24,31 @@ As I have said before, there were few people abroad. Now, when I made up my mind
 
 At length I met two women, clothed in gray that was cold and dim as the folds of the fog, and veiled withal, who were hurrying along with the same funereal intentness I had perceived in all other denizens of that city. I made bold to accost them, asking if they could direct me to an inn.
 
-Scarcely pausing or even turning their heads, they answered: 'We cannot tell you. We are shroud-weavers, and we have been busy making a shroud for the lady Mariel.'
+Scarcely pausing or even turning their heads, they answered: "We cannot tell you. We are shroud-weavers, and we have been busy making a shroud for the lady Mariel."
 
 Now, at that name, which of all names in the world was the one I should least have expected or cared to hear, an unspeakable chill invaded my heart, and a dreadful dismay smote me like the breath of the tomb. It was indeed strange that in this dim city, so far in time and space from all I had fled to escape, a woman should have recently died who was also named Mariel. The coincidence appeared so sinister, that an odd fear of the streets through which I had wandered was born suddenly in my soul. The name had evoked, with a more irrevocable fatality than the tolling of the bells, all that I had vainly wished to forget; and my memories were like living coals in my heart.
 
 As I went onward, with paces that had become more hurried, more feverish than those of the people of Malnéant, I met two men, who mere likewise dressed from head to foot in gray; and I asked of them the same question I had asked of the shroud-weavers.
 
-'We cannot tell you,' they replied. 'We are coffin-makers, and we have been busy making a coffin for the lady Mariel.'
+"We cannot tell you," they replied. "We are coffin-makers, and we have been busy making a coffin for the lady Mariel."
 
-As they spoke, and hastened on, the bells rang out again, this time very near at hand, with a more dismal and sepulchral menace in their leaden tolling. And everything about me, the tall and misty houses, the dark, indefinite streets, the rare and wraith-like figures, became as if part of the obscure confusion and fear and bafflement of a nightmare. Moment by moment, the coincidence on which I had stumbled appeared all too bizarre for belief, and I was troubled now by the monstrous and absurd idea that the Mariel I knew had only just died, and that this fantastic city was in some unsurmisable manner connected with her death. But this, of course, my reason rejected summarily, and I kept repeating to myself: 'The Mariel of whom they speak is another Marel.' And it irritated me beyond all measure that a thought so enormous and ludicrous should return when my logic had dismissed it.
+As they spoke, and hastened on, the bells rang out again, this time very near at hand, with a more dismal and sepulchral menace in their leaden tolling. And everything about me, the tall and misty houses, the dark, indefinite streets, the rare and wraith-like figures, became as if part of the obscure confusion and fear and bafflement of a nightmare. Moment by moment, the coincidence on which I had stumbled appeared all too bizarre for belief, and I was troubled now by the monstrous and absurd idea that the Mariel I knew had only just died, and that this fantastic city was in some unsurmisable manner connected with her death. But this, of course, my reason rejected summarily, and I kept repeating to myself: "The Mariel of whom they speak is another Marel." And it irritated me beyond all measure that a thought so enormous and ludicrous should return when my logic had dismissed it.
 
 I met no more people of whom to inquire my way. But at length, as I fought with my shadowy perplexity and my burning memories, I found that I had paused beneath the weather-beaten sign of an inn, on which the lettering had been half effaced by time and the brown lichens. The building was obviously very old, like all the houses in Malnéant; its upper stories were lost in the swirling fog, except for a few furtive lights that glowed obscurely down; and a vague and musty odor of antiquity came forth to greet me as I mounted the steps and tried to open the ponderous door. But the door had been locked or bolted; so I began to pound upon it with my fists to attract the attention of those within.
 
 After much delay, the door was opened slowly and grudgingly, and a cadaverous-looking individual peered forth, frowning with portentous gravity as he saw me.
 
-'What do you desire?' he queried, in tones that were both brusk and solemn.
+"What do you desire?" he queried, in tones that were both brusk and solemn.
 
-'A room for the night, and wine,' I requested.
+"A room for the night, and wine," I requested.
 
-'We cannot accommodate you. All the rooms are occupied by people who have come to attend the obsequies of the lady Mariel; and all the wine in the house has been requisitioned for their use. You will have to go elsewhere.'
+"We cannot accommodate you. All the rooms are occupied by people who have come to attend the obsequies of the lady Mariel; and all the wine in the house has been requisitioned for their use. You will have to go elsewhere."
 
 He closed the door quickly upon me with the last words. I turned to resume my wanderings, and all that had troubled me before was now intensified a hundredfold. The gray mists and the grayer houses were full of the menace of memory: they were like traitorous tombs from which the cadavers of dead hours poured forth to assail me with envenomed fangs and talons. I cursed the hour when I had entered Malnéant, for it seemed to me now that in so doing I had merely completed a funereal, sinister circle through time, and had returned to the day of Mariel's death. And certainly, all my recollections of Mariel, of her final agony and her entombment, had assumed the frightful vitality of present things. But my reason still maintained, of course, that the Mariel who lay dead somewhere in Malnéant, and for whom all these obsequial preparations were being made, was not the lady whom I had loved, but another.
 
 After threading streets that were even darker and narrower than those before traversed, I found a second inn, bearing a similar weather-beaten sign, and in all other respects very much like the first. The door was barred, and I knocked thereon with trepidation and was in no manner surprised when a second individual with a cadaverous face informed me in tones of sepulchral solemnity:
 
-'We cannot accommodate you. All the rooms have been taken by musicians and mourners who will serve at the obsequies of the lady Mariel; and all the wine has been reserved for their use.'
+"We cannot accommodate you. All the rooms have been taken by musicians and mourners who will serve at the obsequies of the lady Mariel; and all the wine has been reserved for their use."
 
 Now I began to dread the city about me with a manifold fear: for apparently the whole business of the people in Malnéant consisted of preparations for the funeral of this lady Mariel. And it began to be obvious that I must walk the streets of the city all night because of these same preparations. All at once, an overwhelming weariness was mingled with my nightmare terror and perplexity.
 
@@ -58,9 +58,9 @@ All was dim within, and the light of many tapers scarcely served to illumine the
 
 Dimly I became aware that someone was at my elbow. With eyes still intent on the bier, I asked:
 
-'Who is it that lies yonder, for whom these masses are being said and these bells are rung?' And a slow, sepulchral voice replied:
+"Who is it that lies yonder, for whom these masses are being said and these bells are rung?" And a slow, sepulchral voice replied:
 
-'It is the lady Mariel, who died yesterday and who will be interred tomorrow in the vaults of her ancestors. If you wish, you may go forward and gaze upon her.'
+"It is the lady Mariel, who died yesterday and who will be interred tomorrow in the vaults of her ancestors. If you wish, you may go forward and gaze upon her."
 
 So I went down the cathedral aisle, even to the side of the bier, whose opulent fabrics trailed on the cold flags. And the face of her who lay thereon, with a tranquil smile upon the lips, and tender shadows upon the shut eyelids, was the face of the Mariel I had loved and of none other. The tides of time were frozen in their flowing; and all that was or had been or could be, all of the world that existed aside from her, became as fading shadows; and even as once before (was it eons or instants ago?) my soul was locked in the marble hell of its supreme grief and regret. I could not move, I could not cry out nor even weep, for my very tears were turned to ice. And now I knew with a terrible certitude that this one event, the death of the lady Mariel, had drawn apart from all other happenings, had broken away from the sequence of time and had found for itself a setting of appropriate gloom and solemnity; or perhaps had even built around itself the whole enormous maze of that spectral city, in which to abide my destined return among the mists of a deceptive oblivion.
 

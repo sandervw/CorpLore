@@ -18,7 +18,7 @@ The land into which they went lay drear and leprous and ashen below the huge, em
 
 Unbroken before them, through fields devoid of trees and grass, and across the channels of dried-up rivers, there ran the great highway by which travelers had gone formerly betweea Cincor and Tinarath. Here they met no living thing; but soon they came to the skeletons of a horse and its rider, lying full in the road, and wearing still the sumptuous harness and raiment which they had worn in the flesh. And Mmatmuor aad Sodosma paused before the piteous bones, on which no shred of corruption remained; and they smiled evilly at each other.
 
-'The steed shall be yours,' said Mmatmuor, 'since you are a little the elder of us two, and are thus entitled to precedence; and the rider shall serve us both and be the first to acknowledge fealty to us in Cincor.'
+"The steed shall be yours," said Mmatmuor, "since you are a little the elder of us two, and are thus entitled to precedence; and the rider shall serve us both and be the first to acknowledge fealty to us in Cincor."
 
 Then, in the ashy sand by the wayside, they drew a threefold circle; and standing together at its center, they performed the abominable rites that compel the dead to arise from tranquil nothingness and obey henceforward, in all things, the dark will of the necromancer. Afterward they sprinkled a pinch of magic powder on the nostril-holes of the man and the horse; and the white bones, creaking mournfully, rose up from where they had lain and stood in readiness to serve their masters.
 
@@ -30,9 +30,9 @@ Along the way, as they neared Yethlyreom, which had been the capital, they found
 
 Weary with their strange journey and their oft-repeated incantations, Mmatmuor and Sodosma saw before them at last, from a desert hill, the lofty spires and fair, unbroken domes of Yethlyreom, steeped in the darkening stagnant blood of ominous sunset.
 
-'It is a goodly land,' said Mmatmuor, 'and you and I will share it between us, and hold dominion over all its dead, and be crowned as emperors on the morrow in Yethlyreom.'
+"It is a goodly land," said Mmatmuor, "and you and I will share it between us, and hold dominion over all its dead, and be crowned as emperors on the morrow in Yethlyreom."
 
-'Aye,' replied Sodosma, 'for there is none living to dis pute us here; and those that we have summoned from the tomb shall move and breathe only at our dictation, and may not rebel against us.'
+"Aye," replied Sodosma, "for there is none living to dis pute us here; and those that we have summoned from the tomb shall move and breathe only at our dictation, and may not rebel against us."
 
 So, in the blood-red twilight that thickened with purple, they entered Yethlyreom and rode on among the lofty, lampless mansions, and installed themselves with their grisly retinue in that stately and abandoned palace, where the dynasty of Nimboth emperors had reigned for two thousand years with dominion over Cincor.
 
@@ -74,13 +74,13 @@ There was little speech among the living dead; and son and father, daughter and 
 
 Hestaiyon stood apart from the others, in a corner of the shadowy hall. He was brown and withered in his crumbling mummy-cloths; and his lightless obsidian eyes appeared to gaze still upon nothingness. He seemed not to have heard the questions of Illeiro; but at length, in a dry, rustling whisper, he responded:
 
-'I am old, and the night of the sepulcher was long, and I have forgotten much. Yet, groping backward across the void of death, it may be that I shall retrieve something of my former wisdom; and between us we shall devise a mode of deliverance.' And Hestaiyon searched among the shreds of memory, as one who reaches into a place where the worm has been and the hidden archives of old time have rotted in their covers; till at last he remembered, and said:
+"I am old, and the night of the sepulcher was long, and I have forgotten much. Yet, groping backward across the void of death, it may be that I shall retrieve something of my former wisdom; and between us we shall devise a mode of deliverance." And Hestaiyon searched among the shreds of memory, as one who reaches into a place where the worm has been and the hidden archives of old time have rotted in their covers; till at last he remembered, and said:
 
-'I recall that I was once a mighty wizard; and among other things, I knew the spells of necromancy; but employed them not, deeming their use and the raising up of the dead an abhorrent act. Also, I possessed other knowledge; and perhaps, among the remnants of that ancient lore, there is something which may serve to guide us now. For I recall a dim, dubitable prophecy, made in the primal years, at the founding of Yethlyreom and the empire of Cincor. The prophecy was, that an evil greater than death would befall the emperors and the people of Cincor in future times; and that the first and the last of the Nimboth dynasty, conferring together, would effect a mode of release and the lifting of the doom. The evil was not named in the prophecy: but it was said that the two emperors would learn the solution of their problem by the breaking of an ancient clay image that guards the nethermost vault below the imperial palace in Yethlyreom.'
+"I recall that I was once a mighty wizard; and among other things, I knew the spells of necromancy; but employed them not, deeming their use and the raising up of the dead an abhorrent act. Also, I possessed other knowledge; and perhaps, among the remnants of that ancient lore, there is something which may serve to guide us now. For I recall a dim, dubitable prophecy, made in the primal years, at the founding of Yethlyreom and the empire of Cincor. The prophecy was, that an evil greater than death would befall the emperors and the people of Cincor in future times; and that the first and the last of the Nimboth dynasty, conferring together, would effect a mode of release and the lifting of the doom. The evil was not named in the prophecy: but it was said that the two emperors would learn the solution of their problem by the breaking of an ancient clay image that guards the nethermost vault below the imperial palace in Yethlyreom."
 
 Then, having heard this prophecy from the faded lips of his forefather, Illeiro mused a while, and said:
 
-'I remember now an afternoon in early youth, when searching idly through the unused vaults of our palace, as a boy might do, I came to the last vault and found therein a dusty, uncouth image of clay, whose form and countenance were strange to me. And, knowing not the prophecy. I turned away in disappointment, and went back as idly as I had come, to seek the moted sunlight.'
+"I remember now an afternoon in early youth, when searching idly through the unused vaults of our palace, as a boy might do, I came to the last vault and found therein a dusty, uncouth image of clay, whose form and countenance were strange to me. And, knowing not the prophecy. I turned away in disappointment, and went back as idly as I had come, to seek the moted sunlight."
 
 Then, stealing away from their heedless kinfolk, and carrying jeweled lamps they had taken from the hall, Hestaiyon and Illeiro went downward by subterranean stairs beneath the palace; and, threading like implacable furtive shadows the maze of nighted corridors, they came at last to the lowest crypt.
 

@@ -10,25 +10,25 @@ That year, the snows of an austere winter had melted away in a week of halcyon w
 
 All things being as they were, it is hard to know just why M. le Comte became suddenly troubled concerning the integrity of his marital honour. Perhaps, in some interim of the hunting and drinking between which he divided nearly all his time, he had noticed that his wife was growing younger and fairer and was blooming as a woman never blooms except to the magical sunlight of love. Perhaps he had caught some glance of ardent or affectionate understanding between Adele and Olivier; or, perhaps, it was the infuence of the premature spring, which had pierced the vinous muddlernent of his brain with an obscure stirring of forgotten thoughts and emotions, and thus had given him a flash of insight. At any rate, he was troubled when, on this afternoon of earliest April, he returned to the chateau from Vyones, where he had gone on business, and learned from his servitors that Mme. la Comtesse and Olivier du Montoir had left a few minutes previously for a promenade in the forest. His dull face, however, betrayed little. He seemed to reflect for a moment. Then:
 
-'Which way did they go? I have reason to see Mme. la Cormtesse at once.'
+"Which way did they go? I have reason to see Mme. la Cormtesse at once."
 
 His servants gave him the required direction, and he went out, following slowly the footpath they had indicated, till he was beyond sight of the chateau. Then he quickened his pace, and began to finger the hilt of his rapier as he went on through the thickening woods.
 
-'I am a little afraid, Olivier. Shall we go any farther?'
+"I am a little afraid, Olivier. Shall we go any farther?"
 
 Adele and Olivier had wandered beyond the limits of their customary stroll, and were nearing a portion of the forest of Averoigne where the trees were older and taller than all others. Here, some of the huge oaks were said to date back to pagan days. Few people ever passed beneath them; and queer beliefs and legends concerning them had been prevalent among the local peasantry for ages. Things had been seen within these precincts, whose very existence was an affront to science and a blasphemy to religion; and evil influences were said to attend those who dared to intrude upon the sullen umbrage of the immemorial glades and thickets. The beliefs varied, and the legends were far from explicit; but all agreed that the wood was haunted by some entity inimical to man, some primordial spirit of ill that was ancienter than Christ or Satan. Panic, madness, demoniac possession, or baleful, unreasoning passions that led them to doom, were the lot of all who had trodden the demesnes of this entity. There were those who whispered what the spirit was, who told incredible tales regarding its true nature, and described its true aspect; but such tales were not meet for the ear of devout Christians.
 
-'Prithee, let us go on,' said Olivier. 'Look you, Madame, and see how the ancient trees have put on the emerald freshness of April, how innocently they rejoice in the sun's return.'
+"Prithee, let us go on," said Olivier. "Look you, Madame, and see how the ancient trees have put on the emerald freshness of April, how innocently they rejoice in the sun's return."
 
-'But the stories people tell, Olivier.'
+"But the stories people tell, Olivier."
 
-'They are stories to frighten children. Let us go on. There is nothing to harm us here, but much of beauty to enchant.'
+"They are stories to frighten children. Let us go on. There is nothing to harm us here, but much of beauty to enchant."
 
 Indeed, as he had said, the great-limbed oaks and venerable beeches were fresh with their new-born foliage. The forest wore an aspect of blitheness and vertumnal gaiety, and it was hard to believe the old superstitions and legends. The day was one of those days when hearts that feel the urgency of an unavowed love are fain to wander indefinitely. So, after certain feminine demurs, and many reassurances, Adele allowed Olivier to persuade her, and they ment on.
 
 The feet of anirnals, if not of men, had continued the path they were following, and had made an easy way into the wood of fabulous evil. The drooping boughs enfolded them with arms of soft verdure, and seemed to draw them in; and shafts of yellow sunshine rifted the high trees, to aureole the lovely secret lilies that bloomed about the darkly writhing coils of enormous roots. The trees were twisted and knotted, were heavy with centurial incrustations of bark, were humped and misshapen with the growth of unremembered years; but there was an air of antique wisdom about them, together with a tranquil friendliness. Adele exclaimed with delight; and neither she nor Olivier was aware of anything sinister or doubtful in the unison of exquisite beauty and gnarled quaintness which the old forest offered to them.
 
-'Was I not right?' Olivier queried. 'Is there ought to fear in harmless trees and flowers?'
+"Was I not right?" Olivier queried. "Is there ought to fear in harmless trees and flowers?"
 
 Adele smiled, but made no other answer. In the circle of bright sunlight where they were now standing, she and Olivier looked at each other with a new and pervasive intimacy. There was a strange perfume on the windless air, coming in slow wafts from an undiscernible source - a perfume that seemed to speak insidiously of love and langour and amorous yielding. Neither knew the flower from which it issued, for all at once there were many unfamiliar blossoms around their feet, with heavy bells of carnal white or pink, or curled and twining petals, or hearts like a rosy wound. Looking, they saw each other as in a sudden dazzle of flame; and each felt a violent quickening of the blood, as if they had drunk a sovereign philtre. The same thought was manifest in the bold fervour of Olivier's eyes, and the modest flush upon the cheeks of Mme. la Comtesse. The long-cherished love, which neither had openly declared up to this hour, was clamouring importunately in the veins of both. They resumed their onward walk; and both were now silent through the self-same feeling of embarrassment and constraint.
 
@@ -44,7 +44,7 @@ Adele and Olivier were seized by a nightmare terror, as they: recalled the old l
 
 Shuddering, Adele flung herself for the first time into the arms of her lover.
 
-'Did you see it?' she whispered, as she clung to him.
+"Did you see it?" she whispered, as she clung to him.
 
 Olivier drew her close. In that delicious nearness, the horrible thing he had seen and heard became somehow improbable and unreal. There must have been a double sorcery abroad, to lull his horror thus; but he knew not whether the thing had been a momentary hallucination, a fantasy wrought by the sun amid the alder-leaves, or the demon that was fabled to dwell in Averoigne; and the startlement he had felt was somehow without meaning or reason. He could even thank the apparition, whatever it was, because it had thrown Adele into his embrace. He could think of nothing now but the proximity of that warm, delectable mouth, for which he had hungered so long. He began to reassure her, to make light of her fears, to pretend that she could have seen nothing; and his reassurances merged into ardent protestations of love. He kissed her... and they both forgot the vision of the satyr....
 

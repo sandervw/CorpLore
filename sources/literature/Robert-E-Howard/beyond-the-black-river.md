@@ -23,67 +23,67 @@ A heavy chopping crunch sounded behind the leaves. The bushes were shaken violen
 
 Crouching behind a thick stem, his sword quivering in his fingers, he saw the bushes part, and a tall figure stepped leisurely into the trail. The traveler stared in surprise. The stranger was clad like himself in regard to boots and breeks, though the latter were of silk instead of leather. But he wore a sleeveless hauberk of dark mesh-mail in place of a tunic, and a helmet perched on his black mane. That helmet held the other's gaze; it was without a crest, but adorned by short bull's horns. No civilized hand ever forged that head-piece. Nor was the face below it that of a civilized man: dark, scarred, with smoldering blue eyes, it was a face untamed as the primordial forest which formed its background. The man held a broadsword in his right hand, and the edge was smeared with crimson.
 
-'Come on out,' he called, in an accent unfamiliar to the wayfarer. 'All's safe now. There was only one of the dogs. Come on out.'
+"Come on out," he called, in an accent unfamiliar to the wayfarer. "All's safe now. There was only one of the dogs. Come on out."
 
 The other emerged dubiously and stared at the stranger. He felt curiously helpless and futile as he gazed on the proportions of the forest man—the massive iron-clad breast, and the arm that bore the reddened sword, burned dark by the sun and ridged and corded with muscles. He moved with the dangerous ease of a panther; he was too fiercely supple to be a product of civilization, even of that fringe of civilization which composed the outer frontiers.
 
 Turning, he stepped back to the bushes and pulled them apart. Still not certain just what had happened, the wayfarer from the east advanced and stared down into the bushes. A man lay there, a short, dark, thickly-muscled man, naked except for a loin-cloth, a necklace of human teeth and a brass armlet. A short sword was thrust into the girdle of the loin-cloth, and one hand still gripped a heavy black bow. The man had long black hair; that was about all the wayfarer could tell about his head, for his features were a mask of blood and brains. His skull had been split to the teeth.
 
-'A Pict, by the gods!' exclaimed the wayfarer.
+"A Pict, by the gods!" exclaimed the wayfarer.
 
 The burning blue eyes turned upon him.
 
-'Are you surprised?'
+"Are you surprised?"
 
-'Why, they told me at Velitrium and again at the settlers' cabins along the road, that these devils sometimes sneaked across the border, but I didn't expect to meet one this far in the interior.'
+"Why, they told me at Velitrium and again at the settlers' cabins along the road, that these devils sometimes sneaked across the border, but I didn't expect to meet one this far in the interior."
 
-'You're only four miles east of Black River,' the stranger informed him. 'They've been shot within a mile of Velitrium. No settler between Thunder River and Fort Tuscelan is really safe. I picked up this dog's trail three miles south of the fort this morning, and I've been following him ever since. I came up behind him just as he was drawing an arrow on you. Another instant and there'd have been a stranger in Hell. But I spoiled his aim for him.'
+"You're only four miles east of Black River," the stranger informed him. "They've been shot within a mile of Velitrium. No settler between Thunder River and Fort Tuscelan is really safe. I picked up this dog's trail three miles south of the fort this morning, and I've been following him ever since. I came up behind him just as he was drawing an arrow on you. Another instant and there'd have been a stranger in Hell. But I spoiled his aim for him."
 
 The wayfarer was staring wide-eyed at the larger man, dumfounded by the realization that the man had actually tracked down one of the forest-devils and slain him unsuspected. That implied woodsmanship of a quality undreamed, even for Conajohara.
 
-'You are one of the fort's garrison?' he asked.
+"You are one of the fort's garrison?" he asked.
 
-'I'm no soldier. I draw the pay and rations of an officer of the line, but I do my work in the woods. Valannus knows I'm of more use ranging along the river than cooped up in the fort.'
+"I'm no soldier. I draw the pay and rations of an officer of the line, but I do my work in the woods. Valannus knows I'm of more use ranging along the river than cooped up in the fort."
 
 Casually the slayer shoved the body deeper into the thickets with his foot, pulled the bushes together and turned away down the trail. The other followed him.
 
-'My name is Balthus,' he offered. 'I was at Velitrium last night. I haven't decided whether I'll take up a hide of land, or enter fort-service.'
+"My name is Balthus," he offered. "I was at Velitrium last night. I haven't decided whether I'll take up a hide of land, or enter fort-service."
 
-'The best land near Thunder River is already taken,' grunted the slayer. 'Plenty of good land between Scalp Creek—you crossed it a few miles back—and the fort, but that's getting too devilish close to the river. The Picts steal over to burn and murder—as that one did. They don't always come singly. Some day they'll try to sweep the settlers out of Conajohara. And they may succeed—probably will succeed. This colonization business is mad, anyway. There's plenty of good land east of the Bossonian marches. If the Aquilonians would cut up some of the big estates of their barons, and plant wheat where now only deer are hunted, they wouldn't have to cross the border and take the land of the Picts away from them.'
+"The best land near Thunder River is already taken," grunted the slayer. "Plenty of good land between Scalp Creek—you crossed it a few miles back—and the fort, but that's getting too devilish close to the river. The Picts steal over to burn and murder—as that one did. They don't always come singly. Some day they'll try to sweep the settlers out of Conajohara. And they may succeed—probably will succeed. This colonization business is mad, anyway. There's plenty of good land east of the Bossonian marches. If the Aquilonians would cut up some of the big estates of their barons, and plant wheat where now only deer are hunted, they wouldn't have to cross the border and take the land of the Picts away from them."
 
-'That's queer talk from a man in the service of the Governor of Conajohara,' objected Balthus.
+"That's queer talk from a man in the service of the Governor of Conajohara," objected Balthus.
 
-'It's nothing to me,' the other retorted. 'I'm a mercenary. I sell my sword to the highest bidder. I never planted wheat and never will, so long as there are other harvests to be reaped with the sword. But you Hyborians have expanded as far as you'll be allowed to expand. You've crossed the marches, burned a few villages, exterminated a few clans and pushed back the frontier to Black River; but I doubt if you'll even be able to hold what you've conquered, and you'll never push the frontier any further westward. Your idiotic king doesn't understand conditions here. He won't send you enough reinforcements, and there are not enough settlers to withstand the shock of a concerted attack from across the river.'
+"It's nothing to me," the other retorted. "I'm a mercenary. I sell my sword to the highest bidder. I never planted wheat and never will, so long as there are other harvests to be reaped with the sword. But you Hyborians have expanded as far as you'll be allowed to expand. You've crossed the marches, burned a few villages, exterminated a few clans and pushed back the frontier to Black River; but I doubt if you'll even be able to hold what you've conquered, and you'll never push the frontier any further westward. Your idiotic king doesn't understand conditions here. He won't send you enough reinforcements, and there are not enough settlers to withstand the shock of a concerted attack from across the river."
 
-'But the Picts are divided into small clans,' persisted Balthus. 'they'll never unite. We can whip any single clan.'
+"But the Picts are divided into small clans," persisted Balthus. "they'll never unite. We can whip any single clan."
 
-'Or any three or four clans,' admitted the slayer. 'But some day a man will rise and unite thirty or forty clans, just as was done among the Cimmerians, when the Gundermen tried to push the border northward, years ago. They tried to colonize the southern marches of Cimmeria: destroyed a few small clans, built a fort-town, Venarium—you've heard the tale.'
+"Or any three or four clans," admitted the slayer. "But some day a man will rise and unite thirty or forty clans, just as was done among the Cimmerians, when the Gundermen tried to push the border northward, years ago. They tried to colonize the southern marches of Cimmeria: destroyed a few small clans, built a fort-town, Venarium—you've heard the tale."
 
-'So I have indeed,' replied Balthus, wincing. The memory of that red disaster was a black blot in the chronicles of a proud and war-like people. 'My uncle was at Venarium when the Cimmerians swarmed over the walls. He was one of the few who escaped that slaughter. I've heard him tell the tale, many a time. The barbarians swept out of the hills in a ravening horde, without warning, and stormed Venarium with such fury none could stand before them. Men, women and children were butchered. Venarium was reduced to a mass of charred ruins, as it is to this day. The Aquilonians were driven back across the marches, and have never since tried to colonize the Cimmerian country. But you speak of Venarium familiarly. Perhaps you were there?'
+"So I have indeed," replied Balthus, wincing. The memory of that red disaster was a black blot in the chronicles of a proud and war-like people. "My uncle was at Venarium when the Cimmerians swarmed over the walls. He was one of the few who escaped that slaughter. I've heard him tell the tale, many a time. The barbarians swept out of the hills in a ravening horde, without warning, and stormed Venarium with such fury none could stand before them. Men, women and children were butchered. Venarium was reduced to a mass of charred ruins, as it is to this day. The Aquilonians were driven back across the marches, and have never since tried to colonize the Cimmerian country. But you speak of Venarium familiarly. Perhaps you were there?"
 
-'I was,' grunted the other. 'I was one of the horde that swarmed over the hills. I hadn't yet seen fifteen snows, but already my name was repeated about the council fires.'
+"I was," grunted the other. "I was one of the horde that swarmed over the hills. I hadn't yet seen fifteen snows, but already my name was repeated about the council fires."
 
 Balthus involuntarily recoiled, staring. It seemed incredible that the man walking tranquilly at his side should have been one of those screeching, blood-mad devils that had poured over the walls of Venarium on that long-gone day to make her streets run crimson.
 
-'Then you, too, are a barbarian!' he exclaimed involuntarily.
+"Then you, too, are a barbarian!" he exclaimed involuntarily.
 
 The other nodded, without taking offence.
 
-'I am Conan, a Cimmerian.'
+"I am Conan, a Cimmerian."
 
-'I've heard of you.' Fresh interest quickened Balthus' gaze. No wonder the Pict had fallen victim to his own sort of subtlety. The Cimmerians were barbarians as ferocious as the Picts, and much more intelligent. Evidently Conan had spent much time among civilized men, though that contact had obviously not softened him, nor weakened any of his primitive instincts. Balthus' apprehension turned to admiration as he marked the easy cat-like stride, the effortless silence with which the Cimmerian moved along the trail. The oiled links of his armor did not clink, and Balthus knew Conan could glide through the deepest thicket or most tangled copse as noiselessly as any naked Pict that ever lived.
+"I've heard of you." Fresh interest quickened Balthus' gaze. No wonder the Pict had fallen victim to his own sort of subtlety. The Cimmerians were barbarians as ferocious as the Picts, and much more intelligent. Evidently Conan had spent much time among civilized men, though that contact had obviously not softened him, nor weakened any of his primitive instincts. Balthus' apprehension turned to admiration as he marked the easy cat-like stride, the effortless silence with which the Cimmerian moved along the trail. The oiled links of his armor did not clink, and Balthus knew Conan could glide through the deepest thicket or most tangled copse as noiselessly as any naked Pict that ever lived.
 
-'You're not a Gunderman?' It was more assertion than question.
+"You're not a Gunderman?" It was more assertion than question.
 
-Balthus shook his head. 'I'm from the Tauran.'
+Balthus shook his head. "I'm from the Tauran."
 
-'I've seen good woodsmen from the Tauran. But the Bossonians have sheltered you Aquilonians from the outer wildernesses for too many centuries. You need hardening.'
+"I've seen good woodsmen from the Tauran. But the Bossonians have sheltered you Aquilonians from the outer wildernesses for too many centuries. You need hardening."
 
 That was true; the Bossonian marches, with their fortified villages filled with determined bowmen, had long served Aquilonia as a buffer against the outlying barbarians. Now among the settlers beyond Thunder River there was growing up a breed of forest-men capable of meeting the barbarians at their own game, but their numbers were still scanty. Most of the frontiersmen were like Balthus—more of the settler than the woodsman type.
 
 The sun had not set, but it was no longer in sight, hidden as it was behind the dense forest wall. The shadows were lengthening, deepening back in the woods as the companions strode on down the trail.
 
-'It will be dark before we reach the fort,' commented Conan casually; then: 'Listen!'
+"It will be dark before we reach the fort," commented Conan casually; then: "Listen!"
 
 He stopped short, half crouching, sword ready, transformed into a savage figure of suspicion and menace, poised to spring and rend. Balthus had heard it too—a wild scream that broke at its highest note. It was the cry of a man in dire fear or agony.
 
@@ -95,57 +95,57 @@ The Aquilonian slid to a stumbling halt, almost colliding with the Cimmerian who
 
 Balthus muttered a horrified oath. It was the body of a man which lay there in the trail, a short, fat man, clad in the gilt-worked boots and (despite the heat) the ermine-trimmed tunic of a wealthy merchant. His fat, pale face was set in a stare of frozen horror; his thick throat had been slashed from ear to ear as if by a razor-sharp blade. The short sword still in its scabbard seemed to indicate that he had been struck down without a chance to fight for his life.
 
-'A Pict?' Balthus whispered, as he turned to peer into the deepening shadows of the forest.
+"A Pict?" Balthus whispered, as he turned to peer into the deepening shadows of the forest.
 
 Conan shook his head and straightened to scowl down at the dead man.
 
-'A forest devil. This is the fifth, by Crom!'
+"A forest devil. This is the fifth, by Crom!"
 
-'What do you mean?'
+"What do you mean?"
 
-'Did you ever hear of a Pictish wizard called Zogar Sag?'
+"Did you ever hear of a Pictish wizard called Zogar Sag?"
 
 Balthus shook his head uneasily.
 
-'He dwells in Gwawela, the nearest village across the river. Three months ago he hid beside this road and stole a string of pack-mules from a pack-train bound for the fort—drugged their drivers, somehow. The mules belonged to this man'—Conan casually indicated the corpse with his foot—'Tiberias, a merchant of Velitrium. They were loaded with ale-kegs, and old Zogar stopped to guzzle before he got across the river. A woodsman named Soractus trailed him, and led Valannus and three soldiers to where he lay dead drunk in a thicket. At the importunities of Tiberias, Valannus threw Zogar Sag into a cell, which is the worst insult you can give a Pict. He managed to kill his guard and escape, and sent back word that he meant to kill Tiberias and the five men who captured him in a way that would make Aquilonians shudder for centuries to come.
+"He dwells in Gwawela, the nearest village across the river. Three months ago he hid beside this road and stole a string of pack-mules from a pack-train bound for the fort—drugged their drivers, somehow. The mules belonged to this man"—Conan casually indicated the corpse with his foot—"Tiberias, a merchant of Velitrium. They were loaded with ale-kegs, and old Zogar stopped to guzzle before he got across the river. A woodsman named Soractus trailed him, and led Valannus and three soldiers to where he lay dead drunk in a thicket. At the importunities of Tiberias, Valannus threw Zogar Sag into a cell, which is the worst insult you can give a Pict. He managed to kill his guard and escape, and sent back word that he meant to kill Tiberias and the five men who captured him in a way that would make Aquilonians shudder for centuries to come.
 
-'Well, Soractus and the soldiers are dead. Soractus was killed on the river, the soldiers in the very shadow of the fort. And now Tiberias is dead. No Pict killed any of them. Each victim—except Tiberias, as you see—lacked his head—which no doubt is now ornamenting the altar of Zogar Sag's particular god.'
+"Well, Soractus and the soldiers are dead. Soractus was killed on the river, the soldiers in the very shadow of the fort. And now Tiberias is dead. No Pict killed any of them. Each victim—except Tiberias, as you see—lacked his head—which no doubt is now ornamenting the altar of Zogar Sag's particular god."
 
-'How do you know they weren't killed by the Picts?' demanded Balthus.
+"How do you know they weren't killed by the Picts?" demanded Balthus.
 
 Conan pointed to the corpse of the merchant.
 
-'You think that was done with a knife or a sword? Look closer and you'll see that only a talon could have made a gash like that. The flesh is ripped, not cut.'
+"You think that was done with a knife or a sword? Look closer and you'll see that only a talon could have made a gash like that. The flesh is ripped, not cut."
 
-'Perhaps a panther——' began Balthus, without conviction.
+"Perhaps a panther——" began Balthus, without conviction.
 
 Conan shook his head impatiently.
 
-'A man from the Tauran couldn't mistake the mark of a panther's claws. No. It's a forest devil summoned by Zogar Sag to carry out his revenge. Tiberias was a fool to start for Velitrium alone, and so close to dusk. But each one of the victims seemed to be smitten with madness just before doom overtook him. Look here; the signs are plain enough. Tiberias came riding along the trail on his mule, maybe with a bundle of choice otter pelts behind his saddle to sell in Velitrium, and the *thing* sprang on him from behind that bush. See where the branches are crushed down.
+"A man from the Tauran couldn't mistake the mark of a panther's claws. No. It's a forest devil summoned by Zogar Sag to carry out his revenge. Tiberias was a fool to start for Velitrium alone, and so close to dusk. But each one of the victims seemed to be smitten with madness just before doom overtook him. Look here; the signs are plain enough. Tiberias came riding along the trail on his mule, maybe with a bundle of choice otter pelts behind his saddle to sell in Velitrium, and the *thing* sprang on him from behind that bush. See where the branches are crushed down.
 
-'Tiberias gave one scream, and then his throat was torn open and he was selling his otter skins in Hell. The mule ran away into the woods. Listen! Even now you can hear him thrashing about under the trees. The demon didn't have time to take Tiberias' head; it took fright as we came up.'
+"Tiberias gave one scream, and then his throat was torn open and he was selling his otter skins in Hell. The mule ran away into the woods. Listen! Even now you can hear him thrashing about under the trees. The demon didn't have time to take Tiberias' head; it took fright as we came up."
 
-'As *you* came up,' amended Balthus. 'It must not be a very terrible creature if it flees from one armed man. But how do you know it was not a Pict with some kind of a hook that rips instead of slicing? Did you see it?'
+"As *you* came up," amended Balthus. "It must not be a very terrible creature if it flees from one armed man. But how do you know it was not a Pict with some kind of a hook that rips instead of slicing? Did you see it?"
 
-'Tiberias was an armed man,' grunted Conan. 'If Zogar Sag can bring demons to aid him, he can tell them which men to kill and which to let alone. No, I didn't see it. I only saw the bushes shake as it left the trail. But if you want further proof, look here!'
+"Tiberias was an armed man," grunted Conan. "If Zogar Sag can bring demons to aid him, he can tell them which men to kill and which to let alone. No, I didn't see it. I only saw the bushes shake as it left the trail. But if you want further proof, look here!"
 
 The slayer had stepped into the pool of blood in which the dead man sprawled. Under the bushes at the edge of the path there was a footprint, made in blood on the hard loam.
 
-'Did a man make that?' demanded Conan.
+"Did a man make that?" demanded Conan.
 
 Balthus felt his scalp prickle. Neither man nor any beast that he had ever seen could have left that strange, monstrous three-toed print, that was curiously combined of the bird and the reptile, yet a true type of neither. He spread his fingers above the print, careful not to touch it, and grunted explosively. He could not span the mark.
 
-'What is it?' he whispered. 'I never saw a beast that left a spoor like that.'
+"What is it?" he whispered. "I never saw a beast that left a spoor like that."
 
-'Nor any other sane man,' answered Conan grimly. 'It's a swamp demon—they're thick as bats in the swamps beyond Black River. You can hear them howling like damned souls when the wind blows strong from the south on hot nights.'
+"Nor any other sane man," answered Conan grimly. "It's a swamp demon—they're thick as bats in the swamps beyond Black River. You can hear them howling like damned souls when the wind blows strong from the south on hot nights."
 
-'What shall we do?' asked the Aquilonian, peering uneasily into the deep blue shadows. The frozen fear on the dead countenance haunted him. He wondered what hideous head the wretch had seen thrust grinning from among the leaves to chill his blood with terror.
+"What shall we do?" asked the Aquilonian, peering uneasily into the deep blue shadows. The frozen fear on the dead countenance haunted him. He wondered what hideous head the wretch had seen thrust grinning from among the leaves to chill his blood with terror.
 
-'No use to try to follow a demon,' grunted Conan, drawing a short woodsman's ax from his girdle. 'I tried tracking him after he killed Soractus. I lost his trail within a dozen steps. He might have grown himself wings and flown away, or sunk down through the earth to Hell. I don't know. I'm not going after the mule, either. It'll either wander back to the fort, or to some settler's cabin.'
+"No use to try to follow a demon," grunted Conan, drawing a short woodsman's ax from his girdle. "I tried tracking him after he killed Soractus. I lost his trail within a dozen steps. He might have grown himself wings and flown away, or sunk down through the earth to Hell. I don't know. I'm not going after the mule, either. It'll either wander back to the fort, or to some settler's cabin."
 
 As he spoke Conan was busy at the edge of the trail with his ax. With a few strokes he cut a pair of saplings nine or ten feet long, and denuded them of their branches. Then he cut a length from a serpent-like vine that crawled among the bushes near by, and making one end fast to one of the poles, a couple of feet from the end, whipped the vine over the other sapling and interlaced it back and forth. In a few moments he had a crude but strong litter.
 
-'The demon isn't going to get Tiberias' head if I can help it,' he growled. 'We'll carry the body into the fort. It isn't more than three miles. I never liked the fat fool, but we can't have Pictish devils making so cursed free with white men's heads.'
+"The demon isn't going to get Tiberias' head if I can help it," he growled. "We'll carry the body into the fort. It isn't more than three miles. I never liked the fat fool, but we can't have Pictish devils making so cursed free with white men's heads."
 
 The Picts were a white race, though swarthy, but the border men never spoke of them as such.
 
@@ -155,23 +155,23 @@ They had covered more than a mile, and the muscles in Balthus' sturdy arms were 
 
 Conan started convulsively, and Balthus almost let go the poles.
 
-'A woman!' cried the younger man. 'Great Mitra, a woman cried out then!'
+"A woman!" cried the younger man. "Great Mitra, a woman cried out then!"
 
-'A settler's wife straying in the woods,' snarled Conan, setting down his end of the litter. 'Looking for a cow, probably, and—stay here!'
+"A settler's wife straying in the woods," snarled Conan, setting down his end of the litter. "Looking for a cow, probably, and—stay here!"
 
 He dived like a hunting wolf into the leafy wall. Balthus' hair bristled.
 
-'Stay here alone with this corpse and a devil hiding in the woods?' he yelped. 'I'm coming with you!'
+"Stay here alone with this corpse and a devil hiding in the woods?" he yelped. "I'm coming with you!"
 
 And suiting action to words, he plunged after the Cimmerian. Conan glanced back at him, but made no objection, though he did not moderate his pace to accommodate the shorter legs of his companion. Balthus wasted his wind in swearing as the Cimmerian drew away from him again, like a phantom between the trees, and then Conan burst into a dim glade and halted crouching, lips snarling, sword lifted.
 
-'What are we stopping for?' panted Balthus, dashing the sweat out of his eyes and gripping his short sword.
+"What are we stopping for?" panted Balthus, dashing the sweat out of his eyes and gripping his short sword.
 
-'That scream came from this glade, or near by,' answered Conan. 'I don't mistake the location of sounds, even in the woods. But where——'
+"That scream came from this glade, or near by," answered Conan. "I don't mistake the location of sounds, even in the woods. But where——"
 
 Abruptly the sound rang out again—*behind them*; in the direction of the trail they had just quitted. It rose piercingly and pitifully, the cry of a woman in frantic terror—and then, shockingly, it changed to a yell of mocking laughter that might have burst from the lips of a fiend of lower Hell.
 
-'What in Mitra's name——' Balthus' face was a pale blur in the gloom.
+"What in Mitra's name——" Balthus' face was a pale blur in the gloom.
 
 With a scorching oath Conan wheeled and dashed back the way he had come, and the Aquilonian stumbled bewilderedly after him. He blundered into the Cimmerian as the latter stopped dead, and rebounded from his brawny shoulders as though from an iron statue. Gasping from the impact, he heard Conan's breath hiss through his teeth. The Cimmerian seemed frozen in his tracks.
 
@@ -181,11 +181,11 @@ Conan snarled a savage curse and hurled his ax with ferocious will. But the thin
 
 With a snarl Conan plunged through the intervening foliage and into the trail. His profanity, as Balthus floundered after him, was lurid and impassioned. The Cimmerian was standing over the litter on which lay the body of Tiberias. And that body no longer possessed a head.
 
-'Tricked us with its damnable caterwauling!' raved Conan, swinging his great sword about his head in his wrath. 'I might have known! I might have guessed a trick! Now there'll be five heads to decorate Zogar's altar.'
+"Tricked us with its damnable caterwauling!" raved Conan, swinging his great sword about his head in his wrath. "I might have known! I might have guessed a trick! Now there'll be five heads to decorate Zogar's altar."
 
-'But what thing is it that can cry like a woman and laugh like a devil, and shines like witch-fire as it glides through the trees?' gasped Balthus, mopping the sweat from his pale face.
+"But what thing is it that can cry like a woman and laugh like a devil, and shines like witch-fire as it glides through the trees?" gasped Balthus, mopping the sweat from his pale face.
 
-'A swamp devil,' responded Conan morosely. 'Grab those poles. We'll take in the body, anyway. At least our load's a bit lighter.'
+"A swamp devil," responded Conan morosely. "Grab those poles. We'll take in the body, anyway. At least our load's a bit lighter."
 
 With which grim philosophy he gripped the leathery loop and stalked down the trail.
 
@@ -199,85 +199,85 @@ There, at the fort, civilization ended. Fort Tuscelan was the last outpost of a 
 
 The guard inside the eastern gate bawled a challenge. Through a barred aperture torchlight flickered, glinting on a steel head-piece and suspicious eyes beneath it.
 
-'Open the gate,' snorted Conan. 'You see it's I, don't you?'
+"Open the gate," snorted Conan. "You see it's I, don't you?"
 
 Military discipline put his teeth on edge.
 
 The gate swung inward and Conan and his companion passed through. Balthus noted that the gate was flanked by a tower on each side, the summits of which rose above the stockade. He saw loopholes for arrows.
 
-The guardsmen grunted as they saw the burden borne between the men. Their pikes jangled against each other as they thrust shut the gate, chin on shoulder, and Conan asked testily: 'Have you never seen a headless body before?'
+The guardsmen grunted as they saw the burden borne between the men. Their pikes jangled against each other as they thrust shut the gate, chin on shoulder, and Conan asked testily: "Have you never seen a headless body before?"
 
 The face of the soldiers were pallid in the torchlight.
 
-'That's Tiberias,' blurted one. 'I recognize that fur-trimmed tunic. Valerius here owes me five lunas. I told him Tiberias had heard the loon call when he rode through the gate on his mule, with his glassy stare. I wagered he'd come back without his head.'
+"That's Tiberias," blurted one. "I recognize that fur-trimmed tunic. Valerius here owes me five lunas. I told him Tiberias had heard the loon call when he rode through the gate on his mule, with his glassy stare. I wagered he'd come back without his head."
 
 Conan grunted enigmatically, motioned Balthus to ease the litter to the ground, and then strode off toward the governor's quarters, with the Aquilonian at his heels. The tousle-headed youth stared about him eagerly and curiously, noting the rows of barracks along the walls, the stables, the tiny merchants' stalls, the towering blockhouse, and the other buildings, with the open square in the middle where the soldiers drilled, and where, now, fires danced and men off duty lounged. These were now hurrying to join the morbid crowd gathered about the litter at the gate. The rangy figures of Aquilonian pikemen and forest runners mingled with the shorter, stockier forms of Bossonian archers.
 
 He was not greatly surprised that the governor received them himself. Autocratic society with its rigid caste laws lay east of the marches. Valannus was still a young man, well knit, with a finely chiseled countenance already carved into sober cast by toil and responsibility.
 
-'You left the fort before daybreak, I was told,' he said to Conan. 'I had begun to fear that the Picts had caught you at last.'
+"You left the fort before daybreak, I was told," he said to Conan. "I had begun to fear that the Picts had caught you at last."
 
-'When they smoke my head the whole river will know it,' grunted Conan. 'They'll hear Pictish women wailing their dead as far as Velitrium—I was on a lone scout. I couldn't sleep. I kept hearing drums talking across the river.'
+"When they smoke my head the whole river will know it," grunted Conan. "They'll hear Pictish women wailing their dead as far as Velitrium—I was on a lone scout. I couldn't sleep. I kept hearing drums talking across the river."
 
-'They talk each night,' reminded the governor, his fine eyes shadowed, as he stared closely at Conan. He had learned the unwisdom of discounting wild men's instincts.
+"They talk each night," reminded the governor, his fine eyes shadowed, as he stared closely at Conan. He had learned the unwisdom of discounting wild men's instincts.
 
-'There was a difference last night,' growled Conan. 'There has been ever since Zogar Sag got back across the river.'
+"There was a difference last night," growled Conan. "There has been ever since Zogar Sag got back across the river."
 
-'We should either have given him presents and sent him home, or else hanged him,' sighed the governor. 'You advised that, but——'
+"We should either have given him presents and sent him home, or else hanged him," sighed the governor. "You advised that, but——"
 
-'But it's hard for you Hyborians to learn the ways of the outlands,' said Conan. 'Well, it can't be helped now, but there'll be no peace on the border so long as Zogar lives and remembers the cell he sweated in. I was following a warrior who slipped over to put a few white notches on his bow. After I split his head I fell in with this lad whose name is Balthus and who's come from the Tauran to help hold the frontier.'
+"But it's hard for you Hyborians to learn the ways of the outlands," said Conan. "Well, it can't be helped now, but there'll be no peace on the border so long as Zogar lives and remembers the cell he sweated in. I was following a warrior who slipped over to put a few white notches on his bow. After I split his head I fell in with this lad whose name is Balthus and who's come from the Tauran to help hold the frontier."
 
 Valannus approvingly eyed the young man's frank countenance and strongly-knit frame.
 
-'I am glad to welcome you, young sir. I wish more of your people would come. We need men used to forest life. Many of our soldiers and some of our settlers are from the eastern provinces and know nothing of woodcraft, or even of agricultural life.'
+"I am glad to welcome you, young sir. I wish more of your people would come. We need men used to forest life. Many of our soldiers and some of our settlers are from the eastern provinces and know nothing of woodcraft, or even of agricultural life."
 
-'Not many of that breed this side of Velitrium,' grunted Conan. 'That town's full of them, though. But listen, Valannus, we found Tiberias dead on the trail.' And in a few words he related the grisly affair.
+"Not many of that breed this side of Velitrium," grunted Conan. "That town's full of them, though. But listen, Valannus, we found Tiberias dead on the trail." And in a few words he related the grisly affair.
 
-Valannus paled. 'I did not know he had left the fort. He must have been mad!'
+Valannus paled. "I did not know he had left the fort. He must have been mad!"
 
-'He was,' answered Conan. 'Like the other four; each one, when his time came, went mad and rushed into the woods to meet his death like a hare running down the throat of a python. *Something* called to them from the deeps of the forest, something the men call a loon, for lack of a better name, but only the doomed ones could hear it. Zogar Sag has made a magic that Aquilonian civilization can't overcome.'
+"He was," answered Conan. "Like the other four; each one, when his time came, went mad and rushed into the woods to meet his death like a hare running down the throat of a python. *Something* called to them from the deeps of the forest, something the men call a loon, for lack of a better name, but only the doomed ones could hear it. Zogar Sag has made a magic that Aquilonian civilization can't overcome."
 
 To this thrust Valannus made no reply; he wiped his brow with a shaky hand.
 
-'Do the soldiers know of this?'
+"Do the soldiers know of this?"
 
-'We left the body by the eastern gate.'
+"We left the body by the eastern gate."
 
-'You should have concealed the fact, hidden the corpse somewhere in the woods. The soldiers are nervous enough already.'
+"You should have concealed the fact, hidden the corpse somewhere in the woods. The soldiers are nervous enough already."
 
-'They'd have found it out some way. If I'd hidden the body, it would have been returned to the fort as the corpse of Soractus was—tied up outside the gate for the men to find in the morning.'
+"They'd have found it out some way. If I'd hidden the body, it would have been returned to the fort as the corpse of Soractus was—tied up outside the gate for the men to find in the morning."
 
 Valannus shuddered. Turning, he walked to a casement and stared silently out over the river, black and shiny under the glint of the stars. Beyond the river the jungle rose like an ebony wall. The distant screech of a panther broke the stillness. The night pressed in, blurring the sounds of the soldiers outside the blockhouse, dimming the fires. A wind whispered through the black branches, rippling the dusky water. On its wings came a low, rhythmic pulsing, sinister as the pad of a leopard's foot.
 
-'After all,' said Valannus, as if speaking his thoughts aloud, 'what do we know—what does anyone know—of the things that jungle may hide? We have dim rumors of great swamps and rivers, and a forest that stretches on and on over everlasting plains and hills to end at last on the shores of the western ocean. But what things lie between this river and that ocean we dare not even guess. No white man has ever plunged deep into that fastness and returned alive to tell us what he found. We are wise in our civilized knowledge, but our knowledge extends just so far—to the western bank of that ancient river! Who knows what shapes earthly and unearthly may lurk beyond the dim circle of light our knowledge has cast?
+"After all," said Valannus, as if speaking his thoughts aloud, "what do we know—what does anyone know—of the things that jungle may hide? We have dim rumors of great swamps and rivers, and a forest that stretches on and on over everlasting plains and hills to end at last on the shores of the western ocean. But what things lie between this river and that ocean we dare not even guess. No white man has ever plunged deep into that fastness and returned alive to tell us what he found. We are wise in our civilized knowledge, but our knowledge extends just so far—to the western bank of that ancient river! Who knows what shapes earthly and unearthly may lurk beyond the dim circle of light our knowledge has cast?
 
-'Who knows what gods are worshipped under the shadows of that heathen forest, or what devils crawl out of the black ooze of the swamps? Who can be sure that all the inhabitants of that black country are natural? Zogar Sag—a sage of the eastern cities would sneer at his primitive magic-making as the mummery of a fakir; yet he has driven mad and killed five men in a manner no man can explain. I wonder if he himself is wholly human.'
+"Who knows what gods are worshipped under the shadows of that heathen forest, or what devils crawl out of the black ooze of the swamps? Who can be sure that all the inhabitants of that black country are natural? Zogar Sag—a sage of the eastern cities would sneer at his primitive magic-making as the mummery of a fakir; yet he has driven mad and killed five men in a manner no man can explain. I wonder if he himself is wholly human."
 
-'If I can get within ax-throwing distance of him I'll settle that question,' growled Conan, helping himself to the governor's wine and pushing a glass toward Balthus, who took it hesitatingly, and with an uncertain glance toward Valannus.
+"If I can get within ax-throwing distance of him I'll settle that question," growled Conan, helping himself to the governor's wine and pushing a glass toward Balthus, who took it hesitatingly, and with an uncertain glance toward Valannus.
 
 The governor turned toward Conan and stared at him thoughtfully.
 
-'The soldiers, who do not believe in ghosts or devils,' he said, 'are almost in a panic of fear. You, who believe in ghosts, ghouls, goblins, and all manner of uncanny things, do not seem to fear any of the things in which you believe.'
+"The soldiers, who do not believe in ghosts or devils," he said, "are almost in a panic of fear. You, who believe in ghosts, ghouls, goblins, and all manner of uncanny things, do not seem to fear any of the things in which you believe."
 
-'There's nothing in the universe cold steel won't cut,' answered Conan. 'I threw my ax at the demon, and he took no hurt, but I might have missed, in the dusk, or a branch deflected its flight. I'm not going out of my way looking for devils; but I wouldn't step out of my path to let one go by.'
+"There's nothing in the universe cold steel won't cut," answered Conan. "I threw my ax at the demon, and he took no hurt, but I might have missed, in the dusk, or a branch deflected its flight. I'm not going out of my way looking for devils; but I wouldn't step out of my path to let one go by."
 
 Valannus lifted his head and met Conan's gaze squarely.
 
-'Conan, more depends on you than you realize. You know the weakness of this province—a slender wedge thrust into the untamed wilderness. You know that the lives of all the people west of the marches depend on this fort. Were it to fall, red axes would be splintering the gates of Velitrium before a horseman could cross the marches. His majesty, or his majesty's advisers, have ignored my plea that more troops be sent to hold the frontier. They know nothing of border conditions, and are averse to expending any more money in this direction. The fate of the frontier depends upon the men who now hold it.
+"Conan, more depends on you than you realize. You know the weakness of this province—a slender wedge thrust into the untamed wilderness. You know that the lives of all the people west of the marches depend on this fort. Were it to fall, red axes would be splintering the gates of Velitrium before a horseman could cross the marches. His majesty, or his majesty's advisers, have ignored my plea that more troops be sent to hold the frontier. They know nothing of border conditions, and are averse to expending any more money in this direction. The fate of the frontier depends upon the men who now hold it.
 
-'You know that most of the army which conquered Conajohara has been withdrawn. You know the force left me is inadequate, especially since that devil Zogar Sag managed to poison our water supply, and forty men died in one day. Many of the others are sick, or have been bitten by serpents or mauled by wild beasts which seem to swarm in increasing numbers in the vicinity of the fort. The soldiers believe Zogar's boast that he could summon the forest beasts to slay his enemies.
+"You know that most of the army which conquered Conajohara has been withdrawn. You know the force left me is inadequate, especially since that devil Zogar Sag managed to poison our water supply, and forty men died in one day. Many of the others are sick, or have been bitten by serpents or mauled by wild beasts which seem to swarm in increasing numbers in the vicinity of the fort. The soldiers believe Zogar's boast that he could summon the forest beasts to slay his enemies.
 
-'I have three hundred pikemen, four hundred Bossonian archers, and perhaps fifty men who, like yourself, are skilled in woodcraft. They are worth ten times their number of soldiers, but there are so few of them. Frankly, Conan, my situation is becoming precarious. The soldiers whisper of desertion; they are low-spirited, believing Zogar Sag has loosed devils on us. They fear the black plague with which he threatened us—the terrible black death of the swamplands. When I see a sick soldier I sweat with fear of seeing him turn black and shrivel and die before my eyes.
+"I have three hundred pikemen, four hundred Bossonian archers, and perhaps fifty men who, like yourself, are skilled in woodcraft. They are worth ten times their number of soldiers, but there are so few of them. Frankly, Conan, my situation is becoming precarious. The soldiers whisper of desertion; they are low-spirited, believing Zogar Sag has loosed devils on us. They fear the black plague with which he threatened us—the terrible black death of the swamplands. When I see a sick soldier I sweat with fear of seeing him turn black and shrivel and die before my eyes.
 
-'Conan, if the plague is loosed upon us, the soldiers will desert in a body! The border will be left unguarded and nothing will check the sweep of the dark-skinned hordes to the very gates of Velitrium—maybe beyond! If we can not hold the fort, how can they hold the town?
+"Conan, if the plague is loosed upon us, the soldiers will desert in a body! The border will be left unguarded and nothing will check the sweep of the dark-skinned hordes to the very gates of Velitrium—maybe beyond! If we can not hold the fort, how can they hold the town?
 
-'Conan, Zogar Sag must die, if we are to hold Conajohara. You have penetrated the unknown deeper than any other man in the fort; you know where Gwawela stands, and something of the forest trails across the river. Will you take a band of men tonight and endeavour to kill or capture him? Oh, I know it's mad. There isn't more than one chance in a thousand that any of you will come back alive. But if we don't get him, it's death for us all. You can take as many men as you wish.'
+"Conan, Zogar Sag must die, if we are to hold Conajohara. You have penetrated the unknown deeper than any other man in the fort; you know where Gwawela stands, and something of the forest trails across the river. Will you take a band of men tonight and endeavour to kill or capture him? Oh, I know it's mad. There isn't more than one chance in a thousand that any of you will come back alive. But if we don't get him, it's death for us all. You can take as many men as you wish."
 
-'A dozen men are better for a job like that than a regiment,' answered Conan. 'Five hundred men couldn't fight their way to Gwawela and back, but a dozen might slip in and out again. Let me pick my men. I don't want any soldiers.'
+"A dozen men are better for a job like that than a regiment," answered Conan. "Five hundred men couldn't fight their way to Gwawela and back, but a dozen might slip in and out again. Let me pick my men. I don't want any soldiers."
 
-'Let me go!' eagerly exclaimed Balthus. 'I've hunted deer all my life on the Tauran.'
+"Let me go!" eagerly exclaimed Balthus. "I've hunted deer all my life on the Tauran."
 
-'All right. Valannus, we'll eat at the stall where the foresters gather, and I'll pick my men. We'll start within an hour, drop down the river in a boat to a point below the village and then steal upon it through the woods. If we live, we should be back by daybreak.'
+"All right. Valannus, we'll eat at the stall where the foresters gather, and I'll pick my men. We'll start within an hour, drop down the river in a boat to a point below the village and then steal upon it through the woods. If we live, we should be back by daybreak."
 
 ---
 
@@ -315,19 +315,19 @@ Short men, broad-shouldered, deep-chested, lean-hipped, they were naked except f
 
 His eyes wavered away from the steady glare of his captors, and he repressed a cry of horror. A few feet away there rose a low, hideous pyramid: it was built of gory human heads. Dead eyes glared glassily up at the black sky. Numbly he recognized the countenances which were turned toward him. They were the heads of the men who had followed Conan into the forest. He could not tell if the Cimmerian's head were among them. Only a few faces were visible to him. It looked to him as if there must be ten or eleven heads at least. A deadly sickness assailed him. He fought a desire to retch. Beyond the heads lay the bodies of half a dozen Picts, and he was aware of a fierce exultation at the sight. The forest runners had taken toll, at least.
 
-Twisting his head away from the ghastly spectacle, he became aware that another post stood near him—a stake painted black as was the one to which he was bound. A man sagged in his bonds there, naked except for his leathern breeks, whom Balthus recognized as one of Conan's woodsmen. Blood trickled from his mouth, oozed sluggishly from a gash in his side. Lifting his head as he licked his livid lips, he muttered, making himself heard with difficulty above the fiendish clamor of the Picts: 'So they got you, too!'
+Twisting his head away from the ghastly spectacle, he became aware that another post stood near him—a stake painted black as was the one to which he was bound. A man sagged in his bonds there, naked except for his leathern breeks, whom Balthus recognized as one of Conan's woodsmen. Blood trickled from his mouth, oozed sluggishly from a gash in his side. Lifting his head as he licked his livid lips, he muttered, making himself heard with difficulty above the fiendish clamor of the Picts: "So they got you, too!"
 
-'Sneaked up in the water and cut the other fellow's throat,' groaned Balthus. 'We never heard them till they were on us. Mitra, how can anything move so silently?'
+"Sneaked up in the water and cut the other fellow's throat," groaned Balthus. "We never heard them till they were on us. Mitra, how can anything move so silently?"
 
-'They're devils,' mumbled the frontiersman. 'They must have been watching us from the time we left midstream. We walked into a trap. Arrows from all sides were ripping into us before we knew it. Most of us dropped at the first fire. Three or four broke through the bushes and came to hand-grips. But there were too many. Conan might have gotten away. I haven't seen his head. Been better for you and me if they'd killed us outright. I can't blame Conan. Ordinarily we'd have gotten to the village without being discovered. They don't keep spies on the river bank as far down as we landed. We must have stumbled into a big party coming up the river from the south. Some devilment is up. Too many Picts here. These aren't all Gwaweli; men from the western tribes here and from up and down the river.'
+"They're devils," mumbled the frontiersman. "They must have been watching us from the time we left midstream. We walked into a trap. Arrows from all sides were ripping into us before we knew it. Most of us dropped at the first fire. Three or four broke through the bushes and came to hand-grips. But there were too many. Conan might have gotten away. I haven't seen his head. Been better for you and me if they'd killed us outright. I can't blame Conan. Ordinarily we'd have gotten to the village without being discovered. They don't keep spies on the river bank as far down as we landed. We must have stumbled into a big party coming up the river from the south. Some devilment is up. Too many Picts here. These aren't all Gwaweli; men from the western tribes here and from up and down the river."
 
 Balthus stared at the ferocious shapes. Little as he knew of Pictish ways, he was aware that the number of men clustered about them was out of proportion to the size of the village. There were not enough huts to have accommodated them all. Then he noticed that there was a difference in the barbaric tribal designs painted on their faces and breasts.
 
-'Some kind of devilment,' muttered the forest runner. 'They might have gathered here to watch Zogar's magic-making. He'll make some rare magic with our carcasses. Well, a border-man doesn't expect to die in bed. But I wish we'd gone out along with the rest.'
+"Some kind of devilment," muttered the forest runner. "They might have gathered here to watch Zogar's magic-making. He'll make some rare magic with our carcasses. Well, a border-man doesn't expect to die in bed. But I wish we'd gone out along with the rest."
 
 The wolfish howling of the Picts rose in volume and exultation, and from a movement in their ranks, an eager surging and crowding, Balthus deduced that someone of importance was coming. Twisting his head about, he saw that the stakes were set before a long building, larger than the other huts, decorated by human skulls dangling from the eaves. Through the door of that structure now danced a fantastic figure.
 
-'Zogar!' muttered the woodsman, his bloody countenance set in wolfish lines as he unconsciously strained at his cords. Balthus saw a lean figure of middle height, almost hidden in ostrich plumes set on a harness of leather and copper. From amidst the plumes peered a hideous and malevolent face. The plumes puzzled Balthus. He knew their source lay half the width of a world to the south. They fluttered and rustled evilly as the shaman leaped and cavorted.
+"Zogar!" muttered the woodsman, his bloody countenance set in wolfish lines as he unconsciously strained at his cords. Balthus saw a lean figure of middle height, almost hidden in ostrich plumes set on a harness of leather and copper. From amidst the plumes peered a hideous and malevolent face. The plumes puzzled Balthus. He knew their source lay half the width of a world to the south. They fluttered and rustled evilly as the shaman leaped and cavorted.
 
 With fantastic bounds and prancings he entered the ring and whirled before his bound and silent captives. With another man it would have seemed ridiculous—a foolish savage prancing meaninglessly in a whirl of feathers. But that ferocious face glaring out from the billowing mass gave the scene a grim significance. No man with a face like that could seem ridiculous or like anything except the devil he was.
 
@@ -379,7 +379,7 @@ Balthus felt something jerk at his wrists, and then, miraculously, he was free, 
 
 There was blood on the Cimmerian's mail, dried blood on the sword in his right hand; he loomed dim and gigantic in the shadowy light.
 
-'Come on! Before they get over their panic!'
+"Come on! Before they get over their panic!"
 
 Balthus felt the haft of an ax shoved into his hand. Zogar Sag had disappeared. Conan dragged Balthus after him until the youth's numb brain awoke, and his legs began to move of their own accord. Then Conan released him and ran into the building where the skulls hung. Balthus followed him. He got a glimpse of a grim stone altar, faintly lighted by the glow outside; five human heads grinned on that altar, and there was a grisly familiarity about the features of the freshest; it was the head of the merchant Tiberias. Behind the altar was an idol, dim, indistinct, bestial, yet vaguely man-like in outline. Then fresh horror choked Balthus as the shape heaved up suddenly with a rattle of chains, lifting long misshapen arms in the gloom.
 
@@ -395,9 +395,9 @@ Conan leaped high, caught, not Balthus' hand but his arm near the shoulder, and 
 
 ## 5 The Children of Jhebbal Sag
 
-'Which way is the river?' Balthus was confused.
+"Which way is the river?" Balthus was confused.
 
-'We don't dare try for the river now,' grunted Conan. 'The woods between the village and the river are swarming with warriors. Come on! We'll head in the last direction they'll expect us to go—west!'
+"We don't dare try for the river now," grunted Conan. "The woods between the village and the river are swarming with warriors. Come on! We'll head in the last direction they'll expect us to go—west!"
 
 Looking back as they entered the thick growth, Balthus beheld the wall dotted with black heads as the savages peered over. The Picts were bewildered. They had not gained the wall in time to see the fugitives take cover. They had rushed to the wall expecting to repel an attack in force. They had seen the body of the dead warrior. But no enemy was in sight.
 
@@ -405,29 +405,29 @@ Balthus realized that they did not yet know their prisoner had escaped. From oth
 
 Conan laughed grimly. He was leading Balthus along a narrow trail that ran west under the black branches, stepping as swiftly and surely as if he trod a well-lighted thoroughfare. Balthus stumbled after him, guiding himself by feeling the dense wall on either hand.
 
-'They'll be after us now. Zogar's discovered you're gone, and he knows my head wasn't in the pile before the altar-hut. The dog! If I'd had another spear I'd have thrown it through him before I struck the snake. Keep to the trail. They can't track us by torchlight, and there are a score of paths leading from the village. They'll follow those leading to the river first—throw a cordon of warriors for miles along the bank, expecting us to try to break through. We won't take to the woods until we have to. We can make better time on this trail. Now buckle down to it and run as you never ran before.'
+"They'll be after us now. Zogar's discovered you're gone, and he knows my head wasn't in the pile before the altar-hut. The dog! If I'd had another spear I'd have thrown it through him before I struck the snake. Keep to the trail. They can't track us by torchlight, and there are a score of paths leading from the village. They'll follow those leading to the river first—throw a cordon of warriors for miles along the bank, expecting us to try to break through. We won't take to the woods until we have to. We can make better time on this trail. Now buckle down to it and run as you never ran before."
 
-'They got over their panic cursed quick!' panted Balthus, complying with a fresh burst of speed.
+"They got over their panic cursed quick!" panted Balthus, complying with a fresh burst of speed.
 
-'They're not afraid of anything, very long,' grunted Conan.
+"They're not afraid of anything, very long," grunted Conan.
 
-For a space nothing was said between them. The fugitives devoted all their attention to covering distance. They were plunging deeper and deeper into the wilderness and getting farther away from civilization at every step, but Balthus did not question Conan's wisdom. The Cimmerian presently took time to grunt: 'When we're far enough away from the village we'll swing back to the river in a big circle. No other village within miles of Gwawela. All the Picts are gathered in that vicinity. We'll circle wide around them. They can't track us until daylight. They'll pick up our path then, but before dawn we'll leave the trail and take to the woods.'
+For a space nothing was said between them. The fugitives devoted all their attention to covering distance. They were plunging deeper and deeper into the wilderness and getting farther away from civilization at every step, but Balthus did not question Conan's wisdom. The Cimmerian presently took time to grunt: "When we're far enough away from the village we'll swing back to the river in a big circle. No other village within miles of Gwawela. All the Picts are gathered in that vicinity. We'll circle wide around them. They can't track us until daylight. They'll pick up our path then, but before dawn we'll leave the trail and take to the woods."
 
 They plunged on. The yells died out behind them. Balthus' breath was whistling through his teeth. He felt a pain in his side, and running became torture. He blundered against the bushes on each side of the trail. Conan pulled up suddenly, turned and stared back down the dim path.
 
 Somewhere the moon was rising, a dim white glow amidst a tangle of branches.
 
-'Shall we take to the woods?' panted Balthus.
+"Shall we take to the woods?" panted Balthus.
 
-'Give me your ax,' murmured Conan softly. 'Something is close behind us.'
+"Give me your ax," murmured Conan softly. "Something is close behind us."
 
-'Then we'd better leave the trail!' exclaimed Balthus.
+"Then we'd better leave the trail!" exclaimed Balthus.
 
 Conan shook his head and drew his companion into a dense thicket. The moon rose higher, making a dim light in the path.
 
-'We can't fight the whole tribe!' whispered Balthus.
+"We can't fight the whole tribe!" whispered Balthus.
 
-'No human being could have found our trail so quickly, or followed us so swiftly,' muttered Conan. 'Keep silent.'
+"No human being could have found our trail so quickly, or followed us so swiftly," muttered Conan. "Keep silent."
 
 There followed a tense silence in which Balthus felt that his heart could be heard pounding for miles away. Then abruptly, without a sound to announce its coming, a savage head appeared in the dim path. Balthus' heart jumped into his throat; at first glance he feared to look upon the awful head of the saber-tooth. But this head was smaller, more narrow; it was a leopard which stood there, snarling silently and glaring down the trail. What wind there was was blowing toward the hiding men, concealing their scent. The beast lowered his head and snuffed the trail, then moved forward uncertainly. A chill played down Balthus' spine. The brute was undoubtedly trailing them.
 
@@ -437,45 +437,45 @@ All the weight of arm and shoulder was behind the throw, and the ax was a streak
 
 Conan bounded from the bushes, wrenched his ax free and dragged the limp body in among the trees, concealing it from the casual glance.
 
-'Now let's go, and go fast!' he grunted, leading the way southward, away from the trail. 'There'll be warriors coming after that cat. As soon as he got his wits back Zogar sent him after us. The Picts would follow him, but he'd leave them far behind. He'd circle the village until he hit our trail and then come after us like a streak. They couldn't keep up with him, but they'll have an idea as to our general direction. They'd follow, listening for his cry. Well, they won't hear that, but they'll find the blood on the trail, and look around and find the body in the brush. They'll pick up our spoor there, if they can. Walk with care.'
+"Now let's go, and go fast!" he grunted, leading the way southward, away from the trail. "There'll be warriors coming after that cat. As soon as he got his wits back Zogar sent him after us. The Picts would follow him, but he'd leave them far behind. He'd circle the village until he hit our trail and then come after us like a streak. They couldn't keep up with him, but they'll have an idea as to our general direction. They'd follow, listening for his cry. Well, they won't hear that, but they'll find the blood on the trail, and look around and find the body in the brush. They'll pick up our spoor there, if they can. Walk with care."
 
 He avoided clinging briars and low-hanging branches effortlessly, gliding between trees without touching the stems and always planting his feet in the places calculated to show least evidence of his passing; but with Balthus it was slower, more laborious work.
 
-No sound came from behind them. They had covered more than a mile when Balthus said: 'Does Zogar Sag catch leopard-cubs and train them for bloodhounds?'
+No sound came from behind them. They had covered more than a mile when Balthus said: "Does Zogar Sag catch leopard-cubs and train them for bloodhounds?"
 
-Conan shook his head. 'That was a leopard he called out of the woods.'
+Conan shook his head. "That was a leopard he called out of the woods."
 
-'But,' Balthus persisted, 'if he can order the beasts to do his bidding, why doesn't he rouse them all and have them after us? The forest is full of leopards; why send only one after us?'
+"But," Balthus persisted, "if he can order the beasts to do his bidding, why doesn't he rouse them all and have them after us? The forest is full of leopards; why send only one after us?"
 
 Conan did not reply for a space, and when he did it was with a curious reticence.
 
-'He can't command all the animals. Only such as remember Jhebbal Sag.'
+"He can't command all the animals. Only such as remember Jhebbal Sag."
 
-'Jhebbal Sag?' Balthus repeated the ancient name hesitantly. He had never heard it spoken more than three or four times in his whole life.
+"Jhebbal Sag?" Balthus repeated the ancient name hesitantly. He had never heard it spoken more than three or four times in his whole life.
 
-'Once all living things worshipped him. That was long ago, when beasts and men spoke one language. Men have forgotten him; even the beasts forget. Only a few remember. The men who remember Jhebbal Sag and the beasts who remember are brothers and speak the same tongue.'
+"Once all living things worshipped him. That was long ago, when beasts and men spoke one language. Men have forgotten him; even the beasts forget. Only a few remember. The men who remember Jhebbal Sag and the beasts who remember are brothers and speak the same tongue."
 
 Balthus did not reply; he had strained at a Pictish stake and seen the nighted jungle give up its fanged horrors at a shaman's call.
 
-'Civilized men laugh,' said Conan. 'But not one can tell me how Zogar Sag can call pythons and tigers and leopards out of the wilderness and make them do his bidding. They would say it is a lie, if they dared. That's the way with civilized men. When they can't explain something by their half-baked science, they refuse to believe it.'
+"Civilized men laugh," said Conan. "But not one can tell me how Zogar Sag can call pythons and tigers and leopards out of the wilderness and make them do his bidding. They would say it is a lie, if they dared. That's the way with civilized men. When they can't explain something by their half-baked science, they refuse to believe it."
 
 The people on the Tauran were closer to the primitive than most Aquilonians; superstitions persisted, whose sources were lost in antiquity. And Balthus had seen that which still prickled his flesh. He could not refute the monstrous thing which Conan's words implied.
 
-'I've heard that there's an ancient grove sacred to Jhebbal Sag somewhere in this forest,' said Conan. 'I don't know. I've never seen it. But more beasts *remember* in this country than any I've ever seen.'
+"I've heard that there's an ancient grove sacred to Jhebbal Sag somewhere in this forest," said Conan. "I don't know. I've never seen it. But more beasts *remember* in this country than any I've ever seen."
 
-'Then others will be on our trail?'
+"Then others will be on our trail?"
 
-'They are now,' was Conan's disquieting answer. 'Zogar would never leave our tracking to one beast alone.'
+"They are now," was Conan's disquieting answer. "Zogar would never leave our tracking to one beast alone."
 
-'What are we to do, then?' asked Balthus uneasily, grasping his ax as he stared at the gloomy arches above him. His flesh crawled with the momentary expectation of ripping talons and fangs leaping from the shadows.
+"What are we to do, then?" asked Balthus uneasily, grasping his ax as he stared at the gloomy arches above him. His flesh crawled with the momentary expectation of ripping talons and fangs leaping from the shadows.
 
-'Wait!'
+"Wait!"
 
 Conan turned, squatted and with his knife began scratching a curious symbol in the mold. Stooping to look at it over his shoulder, Balthus felt a crawling of the flesh along his spine, he knew not why. He felt no wind against his face, but there was a rustling of leaves above them and a weird moaning swept ghostily through the branches. Conan glanced up inscrutably, then rose and stood staring somberly down at the symbol he had drawn.
 
-'What is it?' whispered Balthus. It looked archaic and meaningless to him. He supposed that it was his ignorance of artistry which prevented his identifying it as one of the conventional designs of some prevailing culture. But had he been the most erudite artist in the world, he would have been no nearer the solution.
+"What is it?" whispered Balthus. It looked archaic and meaningless to him. He supposed that it was his ignorance of artistry which prevented his identifying it as one of the conventional designs of some prevailing culture. But had he been the most erudite artist in the world, he would have been no nearer the solution.
 
-'I saw it carved in the rock of a cave no human had visited for a million years,' muttered Conan, 'in the uninhabited mountains beyond the Sea of Vilayet, half a world away from this spot. Later I saw a black witch-finder of Kush scratch it in the sand of a nameless river. He told me part of its meaning—it's sacred to Jhebbal Sag and the creatures which worship him. Watch!'
+"I saw it carved in the rock of a cave no human had visited for a million years," muttered Conan, "in the uninhabited mountains beyond the Sea of Vilayet, half a world away from this spot. Later I saw a black witch-finder of Kush scratch it in the sand of a nameless river. He told me part of its meaning—it's sacred to Jhebbal Sag and the creatures which worship him. Watch!"
 
 They drew back among the dense foliage some yards away and waited in tense silence. To the east drums muttered and somewhere to north and west other drums answered. Balthus shivered, though he knew long miles of black forest separated him from the grim beaters of those drums whose dull pulsing was a sinister overture that set the dark stage for bloody drama.
 
@@ -491,63 +491,63 @@ The barbarian's eyes were smoldering with fires that never lit the eyes of men b
 
 Then the deeper fires were masked and Conan was silently leading the way deeper into the forest.
 
-'We've no more to fear from the beasts,' he said after a while, 'but we've left a sign for men to read. They won't follow our trail very easily, and until they find that symbol they won't know for sure we've turned south. Even then it won't be easy to smell us out without the beasts to aid them. But the woods south of the trail will be full of warriors looking for us. If we keep moving after daylight, we'll be sure to run into some of them. As soon as we find a good place we'll hide and wait until another night to swing back and make the river. We've got to warn Valannus, but it won't help him any if we get ourselves killed.'
+"We've no more to fear from the beasts," he said after a while, "but we've left a sign for men to read. They won't follow our trail very easily, and until they find that symbol they won't know for sure we've turned south. Even then it won't be easy to smell us out without the beasts to aid them. But the woods south of the trail will be full of warriors looking for us. If we keep moving after daylight, we'll be sure to run into some of them. As soon as we find a good place we'll hide and wait until another night to swing back and make the river. We've got to warn Valannus, but it won't help him any if we get ourselves killed."
 
-'Warn Valannus?'
+"Warn Valannus?"
 
-'Hell, the woods along the river are swarming with Picts! That's why they got us. Zogar's brewing war-magic; no mere raid this time. He's done something no Pict has done in my memory—united as many as fifteen or sixteen clans. His magic did it; they'll follow a wizard farther than they will a war-chief. You saw the mob in the village; and there were hundreds hiding along the river bank that you didn't see. More coming, from the farther villages. He'll have at least three thousand fighting-men. I lay in the bushes and heard their talk as they went past. They mean to attack the fort; when, I don't know, but Zogar doesn't dare delay long. He's gathered them and whipped them into a frenzy. If he doesn't lead them into battle quickly, they'll fall to quarreling with one another. They're like blood-mad tigers.
+"Hell, the woods along the river are swarming with Picts! That's why they got us. Zogar's brewing war-magic; no mere raid this time. He's done something no Pict has done in my memory—united as many as fifteen or sixteen clans. His magic did it; they'll follow a wizard farther than they will a war-chief. You saw the mob in the village; and there were hundreds hiding along the river bank that you didn't see. More coming, from the farther villages. He'll have at least three thousand fighting-men. I lay in the bushes and heard their talk as they went past. They mean to attack the fort; when, I don't know, but Zogar doesn't dare delay long. He's gathered them and whipped them into a frenzy. If he doesn't lead them into battle quickly, they'll fall to quarreling with one another. They're like blood-mad tigers.
 
-'I don't know whether they can take the fort or not. Anyway, we've got to get back across the river and give the warning. The settlers on the Velitrium road must either get into the fort or back to Velitrium. While the Picts are besieging the fort, war-parties will range the road far to the east—might even cross Thunder River and raid the thickly settled country behind Velitrium.'
+"I don't know whether they can take the fort or not. Anyway, we've got to get back across the river and give the warning. The settlers on the Velitrium road must either get into the fort or back to Velitrium. While the Picts are besieging the fort, war-parties will range the road far to the east—might even cross Thunder River and raid the thickly settled country behind Velitrium."
 
 As he talked he was leading the way deeper and deeper into the ancient wilderness. Presently he grunted with satisfaction. They had reached a spot where the underbrush was more scattered, and an outcropping of stone was visible, wandering off southward. Balthus felt more secure as they followed it. Not even a Pict could trail them over naked rock.
 
-'How did you get away?' he asked presently.
+"How did you get away?" he asked presently.
 
 Conan tapped his mail-shirt and helmet.
 
-'If more borderers would wear harness there'd be fewer skulls hanging on the altar-huts. But most men make noise if they wear armor. They were waiting on each side of the path, without moving. And when a Pict stands motionless, the very beasts of the forest pass him without seeing him. They'd seen us crossing the river and got in their places. If they'd gone into ambush after we left the bank, I'd have had some hint of it. But they were waiting, and not even a leaf trembled. The devil himself couldn't have suspected anything. The first suspicion I had was when I heard a shaft rasp against a bow as it was pulled back. I dropped and yelled for the men behind me to drop, but they were too slow, taken by surprise like that.
+"If more borderers would wear harness there'd be fewer skulls hanging on the altar-huts. But most men make noise if they wear armor. They were waiting on each side of the path, without moving. And when a Pict stands motionless, the very beasts of the forest pass him without seeing him. They'd seen us crossing the river and got in their places. If they'd gone into ambush after we left the bank, I'd have had some hint of it. But they were waiting, and not even a leaf trembled. The devil himself couldn't have suspected anything. The first suspicion I had was when I heard a shaft rasp against a bow as it was pulled back. I dropped and yelled for the men behind me to drop, but they were too slow, taken by surprise like that.
 
-'Most of them fell at the first volley that raked us from both sides. Some of the arrows crossed the trail and struck Picts on the other side. I heard them howl.' He grinned with vicious satisfaction. 'Such of us as were left plunged into the woods and closed with them. When I saw the others were all down or taken, I broke through and outfooted the painted devils through the darkness. They were all around me. I ran and crawled and sneaked, and sometimes I lay on my belly under the bushes while they passed me on all sides.
+"Most of them fell at the first volley that raked us from both sides. Some of the arrows crossed the trail and struck Picts on the other side. I heard them howl." He grinned with vicious satisfaction. "Such of us as were left plunged into the woods and closed with them. When I saw the others were all down or taken, I broke through and outfooted the painted devils through the darkness. They were all around me. I ran and crawled and sneaked, and sometimes I lay on my belly under the bushes while they passed me on all sides.
 
-'I tried for the shore and found it lined with them, waiting for just such a move. But I'd have cut my way through and taken a chance on swimming, only I heard the drums pounding in the village and knew they'd taken somebody alive.
+"I tried for the shore and found it lined with them, waiting for just such a move. But I'd have cut my way through and taken a chance on swimming, only I heard the drums pounding in the village and knew they'd taken somebody alive.
 
-'They were all so engrossed in Zogar's magic that I was able to climb the wall behind the altar-hut. There was a warrior supposed to be watching at that point, but he was squatting behind the hut and peering around the corner at the ceremony. I came up behind him and broke his neck with my hands before he knew what was happening. It was his spear I threw into the snake, and that's his ax you're carrying.'
+"They were all so engrossed in Zogar's magic that I was able to climb the wall behind the altar-hut. There was a warrior supposed to be watching at that point, but he was squatting behind the hut and peering around the corner at the ceremony. I came up behind him and broke his neck with my hands before he knew what was happening. It was his spear I threw into the snake, and that's his ax you're carrying."
 
-'But what was that—that thing you killed in the altar-hut?' asked Balthus, with a shiver at the memory of the dim-seen horror.
+"But what was that—that thing you killed in the altar-hut?" asked Balthus, with a shiver at the memory of the dim-seen horror.
 
-'One of Zogar's gods. One of Jhebbal's children that didn't remember and had to be kept chained to the altar. A bull ape. The Picts think they're sacred to the Hairy One who lives on the moon—the gorilla-god of Gullah.
+"One of Zogar's gods. One of Jhebbal's children that didn't remember and had to be kept chained to the altar. A bull ape. The Picts think they're sacred to the Hairy One who lives on the moon—the gorilla-god of Gullah.
 
-'It's getting light. Here's a good place to hide until we see how close they're on our trail. Probably have to wait until night to break back to the river.'
+"It's getting light. Here's a good place to hide until we see how close they're on our trail. Probably have to wait until night to break back to the river."
 
 A low hill pitched upward, girdled and covered with thick trees and bushes. Near the crest Conan slid into a tangle of jutting rocks, crowned by dense bushes. Lying among them they could see the jungle below without being seen. It was a good place to hide or defend. Balthus did not believe that even a Pict could have trailed them over the rocky ground for the past four or five miles, but he was afraid of the beasts that obeyed Zogar Sag. His faith in the curious symbol wavered a little now. But Conan had dismissed the possibility of beasts tracking them.
 
 A ghostly whiteness spread through the dense branches; the patches of sky visible altered in hue, grew from pink to blue. Balthus felt the gnawing of hunger, though he had slaked his thirst at a stream they had skirted. There was complete silence, except for an occasional chirp of a bird. The drums were no longer to be heard. Balthus' thoughts reverted to the grim scene before the altar-hut.
 
-'Those were ostrich plumes Zogar Sag wore,' he said. 'I've seen them on the helmets of knights who rode from the East to visit the barons of the marches. There are no ostriches in this forest, are there?'
+"Those were ostrich plumes Zogar Sag wore," he said. "I've seen them on the helmets of knights who rode from the East to visit the barons of the marches. There are no ostriches in this forest, are there?"
 
-'They came from Kush,' answered Conan. 'West of here, many marches, lies the seashore. Ships from Zingara occasionally come and trade weapons and ornaments and wine to the coastal tribes for skins and copper ore and gold dust. Sometimes they trade ostrich plumes they got from the Stygians, who in turn got them from the black tribes of Kush, which lies south of Stygia. The Pictish shamans place great store by them. But there's much risk in such trade. The Picts are too likely to try to seize the ship. And the coast is dangerous to ships. I've sailed along it when I was with the pirates of the Barachan Isles, which lie southwest of Zingara.'
+"They came from Kush," answered Conan. "West of here, many marches, lies the seashore. Ships from Zingara occasionally come and trade weapons and ornaments and wine to the coastal tribes for skins and copper ore and gold dust. Sometimes they trade ostrich plumes they got from the Stygians, who in turn got them from the black tribes of Kush, which lies south of Stygia. The Pictish shamans place great store by them. But there's much risk in such trade. The Picts are too likely to try to seize the ship. And the coast is dangerous to ships. I've sailed along it when I was with the pirates of the Barachan Isles, which lie southwest of Zingara."
 
 Balthus looked at his companion with admiration.
 
-'I knew you hadn't spent your life on this frontier. You've mentioned several far places. You've traveled widely?'
+"I knew you hadn't spent your life on this frontier. You've mentioned several far places. You've traveled widely?"
 
-'I've roamed far; farther than any other man of my race ever wandered. I've seen all the great cities of the Hyborians, the Shemites, the Stygians and the Hyrkanians. I've roamed in the unknown countries south of the black kingdoms of Kush, and east of the Sea of Vilayet. I've been a mercenary captain, a corsair, a *kozak*, a penniless vagabond, a general—hell, I've been everything except a king, and I may be that, before I die.' The fancy pleased him, and he grinned hardly. Then he shrugged his shoulders and stretched his mighty figure on the rocks. 'This is as good life as any. I don't know how long I'll stay on the frontier; a week, a month, a year. I have a roving foot. But it's as well on the border as anywhere.'
+"I've roamed far; farther than any other man of my race ever wandered. I've seen all the great cities of the Hyborians, the Shemites, the Stygians and the Hyrkanians. I've roamed in the unknown countries south of the black kingdoms of Kush, and east of the Sea of Vilayet. I've been a mercenary captain, a corsair, a *kozak*, a penniless vagabond, a general—hell, I've been everything except a king, and I may be that, before I die." The fancy pleased him, and he grinned hardly. Then he shrugged his shoulders and stretched his mighty figure on the rocks. "This is as good life as any. I don't know how long I'll stay on the frontier; a week, a month, a year. I have a roving foot. But it's as well on the border as anywhere."
 
 Balthus set himself to watch the forest below them. Momentarily he expected to see fierce painted faces thrust through the leaves. But as the hours passed no stealthy footfall disturbed the brooding quiet. Balthus believed the Picts had missed their trail and given up the chase. Conan grew restless.
 
-'We should have sighted parties scouring the woods for us. If they've quit the chase, it's because they're after bigger game. They may be gathering to cross the river and storm the fort.'
+"We should have sighted parties scouring the woods for us. If they've quit the chase, it's because they're after bigger game. They may be gathering to cross the river and storm the fort."
 
-'Would they come this far south if they lost the trail?'
+"Would they come this far south if they lost the trail?"
 
-'They've lost the trail, all right; otherwise they'd have been on our necks before now. Under ordinary circumstances they'd scour the woods for miles in every direction. Some of them should have passed within sight of this hill. They must be preparing to cross the river. We've got to take a chance and make for the river.'
+"They've lost the trail, all right; otherwise they'd have been on our necks before now. Under ordinary circumstances they'd scour the woods for miles in every direction. Some of them should have passed within sight of this hill. They must be preparing to cross the river. We've got to take a chance and make for the river."
 
 Creeping down the rocks Balthus felt his flesh crawl between his shoulders as he momentarily expected a withering blast of arrows from the green masses about them. He feared that the Picts had discovered them and were lying about in ambush. But Conan was convinced no enemies were near, and the Cimmerian was right.
 
-'We're miles to the south of the village,' grunted Conan. 'We'll hit straight through for the river. I don't know how far down the river they've spread. We'll hope to hit it below them.'
+"We're miles to the south of the village," grunted Conan. "We'll hit straight through for the river. I don't know how far down the river they've spread. We'll hope to hit it below them."
 
 With haste that seemed reckless to Balthus they hurried eastward. The woods seemed empty of life. Conan believed that all the Picts were gathered in the vicinity of Gwawela, if indeed, they had not already crossed the river. He did not believe they would cross in the daytime, however.
 
-'Some woodsman would be sure to see them and give the alarm. They'll cross above and below the fort, out of sight of the sentries. Then others will get in canoes and make straight across for the river wall. As soon as they attack, those hidden in the woods on the east shore will assail the fort from the other sides. They've tried that before, and got the guts shot and hacked out of them. But this time they've got enough men to make a real onslaught of it.'
+"Some woodsman would be sure to see them and give the alarm. They'll cross above and below the fort, out of sight of the sentries. Then others will get in canoes and make straight across for the river wall. As soon as they attack, those hidden in the woods on the east shore will assail the fort from the other sides. They've tried that before, and got the guts shot and hacked out of them. But this time they've got enough men to make a real onslaught of it."
 
 They pushed on without pausing, though Balthus gazed longingly at the squirrels flitting among the branches, which he could have brought down with a cast of his ax. With a sigh he drew up his broad belt. The everlasting silence and gloom of the primitive forest was beginning to depress him. He found himself thinking of the open groves and sun-dappled meadows of the Tauran, of the bluff cheer of his father's steep-thatched, diamond-paned house, of the fat cows browsing through the deep, lush grass, and the hearty fellowship of the brawny, bare-armed plowmen and herdsmen.
 
@@ -555,7 +555,7 @@ He felt lonely, in spite of his companion. Conan was as much a part of this wild
 
 The shadows were lengthening when they reached the river and peered through the masking bushes. They could see up and down the river for about a mile each way. The sullen stream lay bare and empty. Conan scowled across at the other shore.
 
-'We've got to take another chance here. We've got to swim the river. We don't know whether they've crossed or not. The woods over there may be alive with them. We've got to risk it. We're about six miles south of Gwawela.'
+"We've got to take another chance here. We've got to swim the river. We don't know whether they've crossed or not. The woods over there may be alive with them. We've got to risk it. We're about six miles south of Gwawela."
 
 He wheeled and ducked as a bow-string twanged. Something like a white flash of light streaked through the bushes. Balthus knew it was an arrow. Then with a tigerish bound Conan was through the bushes. Balthus caught the gleam of steel as he whirled his sword, and heard a death scream. The next instant he had broken through the bushes after the Cimmerian.
 
@@ -567,7 +567,7 @@ Balthus was striving to maintain his hold on the wild man's wrist and bring his 
 
 He sprang up and glared wildly about for his companion, expecting to see him overwhelmed by numbers. Then he realized the full strength and ferocity of the Cimmerian. Conan bestrode two of his attackers, shorn half asunder by that terrible broadsword. As Balthus looked he saw the Cimmerian beat down a thrusting shortsword, avoid the stroke of an ax with a cat-like sidewise spring which brought him within arm's length of a squat savage stooping for a bow. Before the Pict could straighten, the red sword flailed down and clove him from shoulder to mid-breastbone, where the blade stuck. The remaining warriors rushed in, one from either side. Balthus hurled his ax with an accuracy that reduced the attackers to one, and Conan, abandoning his efforts to free his sword, wheeled and met the remaining Pict with his bare hands. The stocky warrior, a head shorter than his tall enemy, leaped in, striking with his ax, at the same time stabbing murderously with his knife. The knife broke on the Cimmerian's mail, and the ax checked in midair as Conan's fingers locked like iron on the descending arm. A bone snapped loudly, and Balthus saw the Pict wince and falter. The next instant he was swept off his feet, lifted high above the Cimmerian's head—he writhed in midair for an instant, kicking and thrashing, and then was dashed headlong to the earth with such force that he rebounded, and then lay still, his limp posture telling of splintered limbs and a broken spine.
 
-'Come on!' Conan wrenched his sword free and snatched up an ax. 'Grab a bow and a handful of arrows, and hurry! We've got to trust to our heels again. That yell was heard. They'll be here in no time. If we tried to swim now, they'd feather us with arrows before we reached midstream!'
+"Come on!" Conan wrenched his sword free and snatched up an ax. "Grab a bow and a handful of arrows, and hurry! We've got to trust to our heels again. That yell was heard. They'll be here in no time. If we tried to swim now, they'd feather us with arrows before we reached midstream!"
 
 ---
 
@@ -579,45 +579,45 @@ Conan increased his speed, and Balthus grimly set his teeth and kept on his heel
 
 Conan halted suddenly. Balthus leaned against a tree and panted.
 
-'They've quit!' grunted the Cimmerian, scowling.
+"They've quit!" grunted the Cimmerian, scowling.
 
-'Sneaking—up—on—us!' gasped Balthus.
+"Sneaking—up—on—us!" gasped Balthus.
 
 Conan shook his head.
 
-'A short chase like this they'd yell every step of the way. No. They've gone back. I thought I heard somebody yelling behind them a few seconds before the noise began to get dimmer. They've been recalled. And that's good for us, but damned bad for the men in the fort. It means the warriors are being summoned out of the woods for the attack. These men we ran into were warriors from a tribe down the river. They were undoubtedly headed for Gwawela to join in the assault on the fort. Damn it, we're farther away than ever, now. We've got to get across the river.'
+"A short chase like this they'd yell every step of the way. No. They've gone back. I thought I heard somebody yelling behind them a few seconds before the noise began to get dimmer. They've been recalled. And that's good for us, but damned bad for the men in the fort. It means the warriors are being summoned out of the woods for the attack. These men we ran into were warriors from a tribe down the river. They were undoubtedly headed for Gwawela to join in the assault on the fort. Damn it, we're farther away than ever, now. We've got to get across the river."
 
 Turning east he hurried through the thickets with no attempt at concealment. Balthus followed him, for the first time feeling the sting of lacerations on his breast and shoulder where the Pict's savage teeth had scored him. He was pushing through the thick bushes that fringed the bank when Conan pulled him back. Then he heard a rhythmic splashing, and peering through the leaves, saw a dugout canoe coming up the river, its single occupant paddling hard against the current. He was a strongly built Pict with a white heron feather thrust in a copper band that confined his square-cut mane.
 
-'That's a Gwawela man,' muttered Conan. 'Emissary from Zogar. White plume shows that. He's carried a peace talk to the tribes down the river and now he's trying to get back and take a hand in the slaughter.'
+"That's a Gwawela man," muttered Conan. "Emissary from Zogar. White plume shows that. He's carried a peace talk to the tribes down the river and now he's trying to get back and take a hand in the slaughter."
 
 The lone ambassador was now almost even with their hiding-place, and suddenly Balthus almost jumped out of his skin. At his very ear had sounded the harsh gutturals of a Pict. Then he realized that Conan had called to the paddler in his own tongue. The man started, scanned the bushes and called back something, then cast a startled glance across the river, bent low and sent the canoe shooting in toward the western bank. Not understanding, Balthus saw Conan take from his hand the bow he had picked up in the glade, and notch an arrow.
 
 The Pict had run his canoe in close to the shore, and staring up into the bushes, called out something. His answer came in the twang of the bow-string, the streaking flight of the arrow that sank to the feathers in his broad breast. With a choking gasp he slumped sidewise and rolled into the shallow water. In an instant Conan was down the bank and wading into the water to grasp the drifting canoe. Balthus stumbled after him and somewhat dazedly crawled into the canoe. Conan scrambled in, seized the paddle and sent the craft shooting toward the eastern shore. Balthus noted with envious admiration the play of the great muscles beneath the sun-burnt skin. The Cimmerian seemed an iron man, who never knew fatigue.
 
-'What did you say to the Pict?' asked Balthus.
+"What did you say to the Pict?" asked Balthus.
 
-'Told him to pull into shore; said there was a white forest runner on the bank who was trying to get a shot at him.'
+"Told him to pull into shore; said there was a white forest runner on the bank who was trying to get a shot at him."
 
-'That doesn't seem fair,' Balthus objected. 'He thought a friend was speaking to him. You mimicked a Pict perfectly—'
+"That doesn't seem fair," Balthus objected. "He thought a friend was speaking to him. You mimicked a Pict perfectly—"
 
-'We needed his boat,' grunted Conan, not pausing in his exertions. 'Only way to lure him to the bank. Which is worse—to betray a Pict who'd enjoy skinning us both alive, or betray the men across the river whose lives depend on our getting over?'
+"We needed his boat," grunted Conan, not pausing in his exertions. "Only way to lure him to the bank. Which is worse—to betray a Pict who'd enjoy skinning us both alive, or betray the men across the river whose lives depend on our getting over?"
 
-Balthus mulled over this delicate ethical question for a moment, then shrugged his shoulder and asked: 'How far are we from the fort?'
+Balthus mulled over this delicate ethical question for a moment, then shrugged his shoulder and asked: "How far are we from the fort?"
 
 Conan pointed to a creek which flowed into Black River from the east, a few hundred yards below them.
 
-'That's South Creek; it's ten miles from its mouth to the fort. It's the southern boundary of Conajohara. Marshes miles wide south of it. No danger of a raid from across them. Nine miles above the fort North Creek forms the other boundary. Marshes beyond that, too. That's why an attack must come from the west, across Black River. Conajohara's just like a spear, with a point nineteen miles wide, thrust into the Pictish wilderness.'
+"That's South Creek; it's ten miles from its mouth to the fort. It's the southern boundary of Conajohara. Marshes miles wide south of it. No danger of a raid from across them. Nine miles above the fort North Creek forms the other boundary. Marshes beyond that, too. That's why an attack must come from the west, across Black River. Conajohara's just like a spear, with a point nineteen miles wide, thrust into the Pictish wilderness."
 
-'Why don't we keep to the canoe and make the trip by water?'
+"Why don't we keep to the canoe and make the trip by water?"
 
-'Because, considering the current we've got to brace, and the bends in the river, we can go faster afoot. Besides, remember Gwawela is south of the fort; if the Picts are crossing the river we'd run right into them.'
+"Because, considering the current we've got to brace, and the bends in the river, we can go faster afoot. Besides, remember Gwawela is south of the fort; if the Picts are crossing the river we'd run right into them."
 
 Dusk was gathering as they stepped upon the eastern bank. Without pause Conan pushed on northward, at a pace that made Balthus' sturdy legs ache.
 
-'Valannus wanted a fort built at the mouths of North and South Creeks,' grunted the Cimmerian. 'Then the river could be patrolled constantly. But the Government wouldn't do it.
+"Valannus wanted a fort built at the mouths of North and South Creeks," grunted the Cimmerian. "Then the river could be patrolled constantly. But the Government wouldn't do it.
 
-'Soft-bellied fools sitting on velvet cushions with naked girls offering them iced wine on their knees—I know the breed. They can't see any farther than their palace wall. Diplomacy—hell! They'd fight Picts with theories of territorial expansion. Valannus and men like him have to obey the orders of a set of damned fools. They'll never grab any more Pictish land, any more than they'll ever rebuild Venarium. The time may come when they'll see the barbarians swarming over the walls of the Eastern cities!'
+"Soft-bellied fools sitting on velvet cushions with naked girls offering them iced wine on their knees—I know the breed. They can't see any farther than their palace wall. Diplomacy—hell! They'd fight Picts with theories of territorial expansion. Valannus and men like him have to obey the orders of a set of damned fools. They'll never grab any more Pictish land, any more than they'll ever rebuild Venarium. The time may come when they'll see the barbarians swarming over the walls of the Eastern cities!"
 
 A week before, Balthus would have laughed at any such preposterous suggestion. Now he made no reply. He had seen the unconquerable ferocity of the men who dwelt beyond the frontiers.
 
@@ -625,11 +625,11 @@ He shivered, casting glances at the sullen river, just visible through the bushe
 
 A slight sound ahead of them jumped his heart into his throat, and Conan's sword gleamed in the air. He lowered it when a dog, a great, gaunt, scarred beast, slunk out of the bushes and stood staring at them.
 
-'That dog belonged to a settler who tried to build his cabin on the bank of the river a few miles south of the fort,' grunted Conan. 'The Picts slipped over and killed him, of course, and burned his cabin. We found him dead among the embers, and the dog lying senseless among three Picts he'd killed. He was almost cut to pieces. We took him to the fort and dressed his wounds, but after he recovered he took to the woods and turned wild—What now, Slasher, are you hunting the men who killed your master?'
+"That dog belonged to a settler who tried to build his cabin on the bank of the river a few miles south of the fort," grunted Conan. "The Picts slipped over and killed him, of course, and burned his cabin. We found him dead among the embers, and the dog lying senseless among three Picts he'd killed. He was almost cut to pieces. We took him to the fort and dressed his wounds, but after he recovered he took to the woods and turned wild—What now, Slasher, are you hunting the men who killed your master?"
 
 The massive head swung from side to side and the eyes glowed greenly. He did not growl or bark. Silently as a phantom he slid in behind them.
 
-'Let him come,' muttered Conan. 'He can smell the devils before we can see them.'
+"Let him come," muttered Conan. "He can smell the devils before we can see them."
 
 Balthus smiled and laid his hand caressingly on the dog's head. The lips involuntarily writhed back to display the gleaming fangs; then the great beast bent his head sheepishly, and his tail moved with jerky uncertainty, as if the owner had almost forgotten the emotions of friendliness. Balthus mentally compared the great gaunt hard body with the fat sleek hounds tumbling vociferously over one another in his father's kennel yard. He sighed. The frontier was no less hard for beasts than for men. This dog had almost forgotten the meaning of kindness and friendliness.
 
@@ -637,33 +637,33 @@ Slasher glided ahead, and Conan let him take the lead. The last tinge of dusk fa
 
 Conan swore like a madman.
 
-'They've attacked the fort! We're too late! Come on!'
+"They've attacked the fort! We're too late! Come on!"
 
 He increased his pace, trusting to the dog to smell out ambushes ahead. In a flood of tense excitement Balthus forgot his hunger and weariness. The yells grew louder as they advanced, and above the devilish screaming they could hear the deep shouts of the soldiers. Just as Balthus began to fear they would run into the savages who seemed to be howling just ahead of them, Conan swung away from the river in a wide semicircle that carried them to a low rise from which they could look over the forest. They saw the fort, lighted with torches thrust over the parapets on long poles. These cast a flickering, uncertain light over the clearing, and in that light they saw throngs of naked, painted figures along the fringe of the clearing. The river swarmed with canoes. The Picts had the fort completely surrounded.
 
 An incessant hail of arrows rained against the stockade from the woods and the river. The deep twanging of the bow-strings rose above the howling. Yelling like wolves, several hundred naked warriors with axes in their hands ran from under the trees and raced toward the eastern gate. They were within a hundred and fifty yards of their objective when a withering blast of arrows from the wall littered the ground with corpses and sent the survivors fleeing back to the trees. The men in the canoes rushed their boats toward the river-wall, and were met by another shower of clothyard shafts and a volley from the small ballistas mounted on towers on that side of the stockade. Stones and logs whirled through the air and splintered and sank half a dozen canoes, killing their occupants, and the other boats drew back out of range. A deep roar of triumph rose from the walls of the fort, answered by bestial howling from all quarters.
 
-'Shall we try to break through?' asked Balthus, trembling with eagerness.
+"Shall we try to break through?" asked Balthus, trembling with eagerness.
 
 Conan shook his head. He stood with his arms folded, his head slightly bent, a somber and brooding figure.
 
-'The fort's doomed. The Picts are blood-mad, and won't stop until they're all killed. And there are too many of them for the men in the fort to kill. We couldn't break through, and if we did, we could do nothing but die with Valannus.'
+"The fort's doomed. The Picts are blood-mad, and won't stop until they're all killed. And there are too many of them for the men in the fort to kill. We couldn't break through, and if we did, we could do nothing but die with Valannus."
 
-'There's nothing we can do but save our own hides, then?'
+"There's nothing we can do but save our own hides, then?"
 
-'Yes. We've got to warn the settlers. Do you know why the Picts are not trying to burn the fort with fire-arrows? Because they don't want a flame that might warn the people to the east. They plan to stamp out the fort, and then sweep east before anyone knows of its fall. They may cross Thunder River and take Velitrium before the people know what's happened. At least they'll destroy every living thing between the fort and Thunder River.
+"Yes. We've got to warn the settlers. Do you know why the Picts are not trying to burn the fort with fire-arrows? Because they don't want a flame that might warn the people to the east. They plan to stamp out the fort, and then sweep east before anyone knows of its fall. They may cross Thunder River and take Velitrium before the people know what's happened. At least they'll destroy every living thing between the fort and Thunder River.
 
-'We've failed to warn the fort, and I see now it would have done no good if we had succeeded. The fort's too poorly manned. A few more charges and the Picts will be over the walls and breaking down the gates. But we can start the settlers toward Velitrium. Come on! We're outside the circle the Picts have thrown around the fort. We'll keep clear of it.'
+"We've failed to warn the fort, and I see now it would have done no good if we had succeeded. The fort's too poorly manned. A few more charges and the Picts will be over the walls and breaking down the gates. But we can start the settlers toward Velitrium. Come on! We're outside the circle the Picts have thrown around the fort. We'll keep clear of it."
 
 They swung out in a wide arc, hearing the rising and falling of the volume of the yells, marking each charge and repulse. The men in the fort were holding their own; but the shrieks of the Picts did not diminish in savagery. They vibrated with a timbre that held assurance of ultimate victory.
 
 Before Balthus realized they were close to it, they broke into the road leading east.
 
-'Now run!' grunted Conan. Balthus set his teeth. It was nineteen miles to Velitrium, a good five to Scalp Creek beyond which began the settlements. It seemed to the Aquilonian that they had been fighting and running for centuries. But the nervous excitement that rioted through his blood stimulated him to Herculean efforts.
+"Now run!" grunted Conan. Balthus set his teeth. It was nineteen miles to Velitrium, a good five to Scalp Creek beyond which began the settlements. It seemed to the Aquilonian that they had been fighting and running for centuries. But the nervous excitement that rioted through his blood stimulated him to Herculean efforts.
 
 Slasher ran ahead of them, his head to the ground, snarling low, the first sound they had heard from him.
 
-'Picts ahead of us!' snarled Conan, dropping to one knee and scanning the ground in the starlight. He shook his head, baffled. 'I can't tell how many. Probably only a small party. Some that couldn't wait to take the fort. They've gone ahead to butcher the settlers in their beds! Come on!'
+"Picts ahead of us!" snarled Conan, dropping to one knee and scanning the ground in the starlight. He shook his head, baffled. "I can't tell how many. Probably only a small party. Some that couldn't wait to take the fort. They've gone ahead to butcher the settlers in their beds! Come on!"
 
 Ahead of them presently they saw a small blaze through the trees, and heard a wild and ferocious chanting. The trail bent there, and leaving it, they cut across the bend, through the thickets. A few moments later they were looking on a hideous sight. An ox-wain stood in the road piled with meager household furnishings; it was burning; the oxen lay near with their throats cut. A man and a woman lay in the road, stripped and mutilated. Five Picts were dancing about them with fantastic leaps and bounds, waving bloody axes; one of them brandished the woman's red-smeared gown.
 
@@ -673,39 +673,39 @@ He met the first Pict to oppose him with a ferocious swipe that split the painte
 
 Balthus said nothing as he looked down at the pitiful forms in the road beside the burning wain. Both were young, the woman little more than a girl. By some whim of chance the Picts had left her face unmarred, and even in the agonies of an awful death it was beautiful. But her soft young body had been hideously slashed with many knives—a mist clouded Balthus' eyes and he swallowed chokingly. The tragedy momentarily overcame him. He felt like falling upon the ground and weeping and biting the earth.
 
-'Some young couple just hitting out on their own,' Conan was saying as he wiped his sword unemotionally. 'On their way to the fort when the Picts met them. Maybe the boy was going to enter the service; maybe take up land on the river. Well, that's what will happen to every man, woman and child this side of Thunder River if we don't get them into Velitrium in a hurry.'
+"Some young couple just hitting out on their own," Conan was saying as he wiped his sword unemotionally. "On their way to the fort when the Picts met them. Maybe the boy was going to enter the service; maybe take up land on the river. Well, that's what will happen to every man, woman and child this side of Thunder River if we don't get them into Velitrium in a hurry."
 
 Balthus' knees trembled as he followed Conan. But there was no hint of weakness in the long easy stride of the Cimmerian. There was a kinship between him and the great gaunt brute that glided beside him. Slasher no longer growled with his head to the trail. The way was clear before them. The yelling on the river came faintly to them, but Balthus believed the fort was still holding. Conan halted suddenly, with an oath.
 
 He showed Balthus a trail that led north from the road. It was an old trail, partly grown with new young growth, and this growth had recently been broken down. Balthus realized this fact more by feel than sight, though Conan seemed to see like a cat in the dark. The Cimmerian showed him where broad wagon tracks turned off the main trail, deeply indented in the forest mold.
 
-'Settlers going to the licks after salt,' he grunted. 'They're at the edges of the marsh, about nine miles from here. Blast it! They'll be cut off and butchered to a man! Listen! One man can warn the people on the road. Go ahead and wake them up and herd them into Velitrium. I'll go and get the men gathering the salt. They'll be camped by the licks. We won't come back to the road. We'll head straight through the woods.'
+"Settlers going to the licks after salt," he grunted. "They're at the edges of the marsh, about nine miles from here. Blast it! They'll be cut off and butchered to a man! Listen! One man can warn the people on the road. Go ahead and wake them up and herd them into Velitrium. I'll go and get the men gathering the salt. They'll be camped by the licks. We won't come back to the road. We'll head straight through the woods."
 
 With no further comment Conan turned off the trail and hurried down the dim path, and Balthus, after staring after him for a few moments, set out along the road. The dog had remained with him, and glided softly at his heels. When Balthus had gone a few rods he heard the animal growl. Whirling, he glared back the way he had come, and was startled to see a vague ghostly glow vanishing into the forest in the direction Conan had taken. Slasher rumbled deep in his throat, his hackles stiff and his eyes balls of green fire. Balthus remembered the grim apparition that had taken the head of the merchant Tiberias not far from that spot, and he hesitated. The thing must be following Conan. But the giant Cimmerian had repeatedly demonstrated his ability to take care of himself, and Balthus felt his duty lay toward the helpless settlers who slumbered in the path of the red hurricane. The horror of the fiery phantom was overshadowed by the horror of those limp, violated bodies beside the burning ox-wain.
 
 He hurried down the road, crossed Scalp Creek and came in sight of the first settler's cabin—a long, low structure of ax-hewn logs. In an instant he was pounding on the door. A sleepy voice inquired his pleasure.
 
-'Get up! The Picts are over the river!'
+"Get up! The Picts are over the river!"
 
 That brought instant response. A low cry echoed his words and then the door was thrown open by a woman in a scanty shift. Her hair hung over her bare shoulders in disorder; she held a candle in one hand and an ax in the other. Her face was colorless, her eyes wide with terror.
 
-'Come in!' she begged. 'We'll hold the cabin.'
+"Come in!" she begged. "We'll hold the cabin."
 
-'No. We must make for Velitrium. The fort can't hold them back. It may have fallen already. Don't stop to dress. Get your children and come on.'
+"No. We must make for Velitrium. The fort can't hold them back. It may have fallen already. Don't stop to dress. Get your children and come on."
 
-'But my man's gone with the others after salt!' she wailed, wringing her hands. Behind her peered three tousled youngsters, blinking and bewildered.
+"But my man's gone with the others after salt!" she wailed, wringing her hands. Behind her peered three tousled youngsters, blinking and bewildered.
 
-'Conan's gone after them. He'll fetch them through safe. We must hurry up the road to warn the other cabins.'
+"Conan's gone after them. He'll fetch them through safe. We must hurry up the road to warn the other cabins."
 
 Relief flooded her countenance.
 
-'Mitra be thanked!' she cried. 'If the Cimmerian's gone after them, they're safe if mortal man can save them!'
+"Mitra be thanked!" she cried. "If the Cimmerian's gone after them, they're safe if mortal man can save them!"
 
 In a whirlwind of activity she snatched up the smallest child and herded the others through the door ahead of her. Balthus took the candle and ground it out under his heel. He listened an instant. No sound came up the dark road.
 
-'Have you got a horse?'
+"Have you got a horse?"
 
-'In the stable,' she groaned. 'Oh, hurry!'
+"In the stable," she groaned. "Oh, hurry!"
 
 He pushed her aside as she fumbled with shaking hands at the bars. He led the horse out and lifted the children on its back, telling them to hold to its mane and to one another. They stared at him seriously, making no outcry. The woman took the horse's halter and set out up the road. She still gripped her ax and Balthus knew that if cornered she would fight with the desperate courage of a she-panther.
 
@@ -713,23 +713,23 @@ He held behind, listening. He was oppressed by the belief that the fort had been
 
 Presently they saw another cabin looming ahead. The woman started to shriek a warning, but Balthus stopped her. He hurried to the door and knocked. A woman's voice answered him. He repeated his warning, and soon the cabin disgorged its occupants—an old woman, two young women and four children. Like the other woman's husband, their men had gone to the salt licks the day before, unsuspecting of any danger. One of the young women seemed dazed, the other prone to hysteria. But the old woman, a stern old veteran of the frontier, quieted them harshly; she helped Balthus get out the two horses that were stabled in a pen behind the cabin and put the children on them. Balthus urged that she herself mount with them, but she shook her head and made one of the younger women ride.
 
-'She's with child,' grunted the old woman. 'I can walk—and fight, too, if it comes to that.'
+"She's with child," grunted the old woman. "I can walk—and fight, too, if it comes to that."
 
-As they set out, one of the women said: 'A young couple passed along the road about dusk; we advised them to spend the night at our cabin, but they were anxious to make the fort tonight. Did—did—'.
+As they set out, one of the women said: "A young couple passed along the road about dusk; we advised them to spend the night at our cabin, but they were anxious to make the fort tonight. Did—did—".
 
-'They met the Picts,' answered Balthus briefly, and the woman sobbed in horror.
+"They met the Picts," answered Balthus briefly, and the woman sobbed in horror.
 
 They were scarcely out of sight of the cabin when some distance behind them quavered a long high-pitched yell.
 
-'A wolf!' exclaimed one of the women.
+"A wolf!" exclaimed one of the women.
 
-'A painted wolf with an ax in his hand,' muttered Balthus. 'Go! Rouse the other settlers along the road and take them with you. I'll scout along behind.'
+"A painted wolf with an ax in his hand," muttered Balthus. "Go! Rouse the other settlers along the road and take them with you. I'll scout along behind."
 
 Without a word the old woman herded her charges ahead of her. As they faded into the darkness, Balthus could see the pale ovals that were the faces of the children twisted back over their shoulders to stare toward him. He remembered his own people on the Tauran and a moment's giddy sickness swam over him. With momentary weakness he groaned and sank down in the road; his muscular arm fell over Slasher's massive neck and he felt the dog's warm moist tongue touch his face.
 
 He lifted his head and grinned with a painful effort.
 
-'Come on, boy,' he mumbled, rising. 'We've got work to do.'
+"Come on, boy," he mumbled, rising. "We've got work to do."
 
 A red glow suddenly became evident through the trees. The Picts had fired the last hut. He grinned. How Zogar Sag would froth if he knew his warriors had let their destructive natures get the better of them. The fire would warn the people farther up the road. They would be awake and alert when the fugitives reached them. But his face grew grim. The women were traveling slowly, on foot and on the overloaded horses. The swift-footed Picts would run them down within a mile, unless—he took his position behind a tangle of fallen logs beside the trail. The road west of him was lighted by the burning cabin, and when the Picts came he saw them first—black furtive figures etched against the distant glare.
 
@@ -743,7 +743,7 @@ Then followed a tense period of waiting, in which time Balthus wondered if the m
 
 Then without warning a shower of arrows whistled over his retreat. A wild howling rose from the woods along the trail. Either the survivor had gone after aid, or another party had joined the first. The burning cabin still smoldered, lending a little light. Then they were after him, gliding through the trees beside the trail. He shot three arrows and threw the bow away. As if sensing his plight, they came on, not yelling now, but in deadly silence except for a swift pad of many feet.
 
-He fiercely hugged the head of the great dog growling at his side, muttered: 'All right, boy, give 'em hell!' and sprang to his feet, drawing his ax. Then the dark figures flooded over the breastworks and closed in a storm of flailing axes, stabbing knives and ripping fangs.
+He fiercely hugged the head of the great dog growling at his side, muttered: "All right, boy, give 'em hell!" and sprang to his feet, drawing his ax. Then the dark figures flooded over the breastworks and closed in a storm of flailing axes, stabbing knives and ripping fangs.
 
 ---
 
@@ -751,53 +751,53 @@ He fiercely hugged the head of the great dog growling at his side, muttered: 'Al
 
 When Conan turned from the Velitrium road he expected a run of some nine miles and set himself to the task. But he had not gone four when he heard the sounds of a party of men ahead of him. From the noise they were making in their progress he knew they were not Picts. He hailed them.
 
-'Who's there?' challenged a harsh voice. 'Stand where you are until we know you, or you'll get an arrow through you.'
+"Who's there?" challenged a harsh voice. "Stand where you are until we know you, or you'll get an arrow through you."
 
-'You couldn't hit an elephant in this darkness,' answered Conan impatiently. 'Come on, fool; it's I—Conan. The Picts are over the river.'
+"You couldn't hit an elephant in this darkness," answered Conan impatiently. "Come on, fool; it's I—Conan. The Picts are over the river."
 
-'We suspected as much,' answered the leader of the men, as they strode forward—tall, rangy men, stern-faced, with bows in their hands. 'One of our party wounded an antelope and tracked it nearly to Black River. He heard them yelling down the river and ran back to our camp. We left the salt and the wagons, turned the oxen loose and came as swiftly as we could. If the Picts are besieging the fort, war-parties will be ranging up the road toward our cabins.'
+"We suspected as much," answered the leader of the men, as they strode forward—tall, rangy men, stern-faced, with bows in their hands. "One of our party wounded an antelope and tracked it nearly to Black River. He heard them yelling down the river and ran back to our camp. We left the salt and the wagons, turned the oxen loose and came as swiftly as we could. If the Picts are besieging the fort, war-parties will be ranging up the road toward our cabins."
 
-'Your families are safe,' grunted Conan. 'My companion went ahead to take them to Velitrium. If we go back to the main road we may run into the whole horde. We'll strike southeast, through the timber. Go ahead. I'll scout behind.'
+"Your families are safe," grunted Conan. "My companion went ahead to take them to Velitrium. If we go back to the main road we may run into the whole horde. We'll strike southeast, through the timber. Go ahead. I'll scout behind."
 
 A few moments later the whole band was hurrying southeastward. Conan followed more slowly, keeping just within ear-shot. He cursed the noise they were making; that many Picts or Cimmerians would have moved through the woods with no more noise than the wind makes as it blows through the black branches.
 
-He had just crossed a small glade when he wheeled answering the conviction of his primitive instincts that he was being followed. Standing motionless among the bushes he heard the sounds of the retreating settlers fade away. Then a voice called faintly back along the way he had come: 'Conan! Conan! Wait for me, Conan!'
+He had just crossed a small glade when he wheeled answering the conviction of his primitive instincts that he was being followed. Standing motionless among the bushes he heard the sounds of the retreating settlers fade away. Then a voice called faintly back along the way he had come: "Conan! Conan! Wait for me, Conan!"
 
-'Balthus!' he swore bewilderedly. Cautiously he called: 'Here I am.'
+"Balthus!" he swore bewilderedly. Cautiously he called: "Here I am."
 
-'Wait for me, Conan!' the voice came more distinctly.
+"Wait for me, Conan!" the voice came more distinctly.
 
-Conan moved out of the shadows, scowling. 'What the devil are you doing here?—Crom!'
+Conan moved out of the shadows, scowling. "What the devil are you doing here?—Crom!"
 
 He half crouched, the flesh prickling along his spine. It was not Balthus who was emerging from the other side of the glade. A weird glow burned through the trees. It moved toward him, shimmering weirdly—a green witch-fire that moved with purpose and intent.
 
 It halted some feet away and Conan glared at it, trying to distinguish its fire-misted outlines. The quivering flame had a solid core; the flame was but a green garment that masked some animate and evil entity; but the Cimmerian was unable to make out its shape or likeness. Then, shockingly, a voice spoke to him from amidst the fiery column.
 
-'Why do you stand like a sheep waiting for the butcher, Conan?'
+"Why do you stand like a sheep waiting for the butcher, Conan?"
 
 The voice was human but carried strange vibrations that were not human.
 
-'Sheep?' Conan's wrath got the best of his momentary awe. 'Do you think I'm afraid of a damned Pictish swamp devil? A friend called me.'
+"Sheep?" Conan's wrath got the best of his momentary awe. "Do you think I'm afraid of a damned Pictish swamp devil? A friend called me."
 
-'I called in his voice,' answered the other. 'The men you follow belong to my brother; I would not rob his knife of their blood. But you are mine. Oh, fool, you have come from the far gray hills of Cimmeria to meet your doom in the forests of Conajohara.'
+"I called in his voice," answered the other. "The men you follow belong to my brother; I would not rob his knife of their blood. But you are mine. Oh, fool, you have come from the far gray hills of Cimmeria to meet your doom in the forests of Conajohara."
 
-'You've had your chance at me before now,' snorted Conan. 'Why didn't you kill me then, if you could?'
+"You've had your chance at me before now," snorted Conan. "Why didn't you kill me then, if you could?"
 
-'My brother had not painted a skull black for you and hurled it into the fire that burns for ever on Gullah's black altar. He had not whispered your name to the black ghosts that haunt the uplands of the Dark Land. But a bat has flown over the Mountains of the Dead and drawn your image in blood on the white tiger's hide that hangs before the long hut where sleep the Four Brothers of the Night. The great serpents coil about their feet and the stars burn like fire-flies in their hair.'
+"My brother had not painted a skull black for you and hurled it into the fire that burns for ever on Gullah's black altar. He had not whispered your name to the black ghosts that haunt the uplands of the Dark Land. But a bat has flown over the Mountains of the Dead and drawn your image in blood on the white tiger's hide that hangs before the long hut where sleep the Four Brothers of the Night. The great serpents coil about their feet and the stars burn like fire-flies in their hair."
 
-'Why have the gods of darkness doomed me to death?' growled Conan.
+"Why have the gods of darkness doomed me to death?" growled Conan.
 
 Something—a hand, foot or talon, he could not tell which, thrust out from the fire and marked swiftly on the mold. A symbol blazed there, marked with fire, and faded, but not before he recognized it.
 
-'You dared make the sign which only a priest of Jhebbal Sag dare make. Thunder rumbled through the black Mountain of the Dead and the altar-hut of Gullah was thrown down by a wind from the Gulf of Ghosts. The loon which is messenger to the Four Brothers of the Night flew swiftly and whispered your name in my ear. Your head will hang in the altar-hut of my brother. Your body will be eaten by the black-winged, sharp-beaked Children of Jhil.'
+"You dared make the sign which only a priest of Jhebbal Sag dare make. Thunder rumbled through the black Mountain of the Dead and the altar-hut of Gullah was thrown down by a wind from the Gulf of Ghosts. The loon which is messenger to the Four Brothers of the Night flew swiftly and whispered your name in my ear. Your head will hang in the altar-hut of my brother. Your body will be eaten by the black-winged, sharp-beaked Children of Jhil."
 
-'Who the devil is your brother?' demanded Conan. His sword was naked in his hand, and he was subtly loosening the ax in his belt.
+"Who the devil is your brother?" demanded Conan. His sword was naked in his hand, and he was subtly loosening the ax in his belt.
 
-'Zogar Sag; a child of Jhebbal Sag who still visits his sacred groves at times. A woman of Gwawela slept in a grove holy to Jhebbal Sag. Her babe was Zogar Sag. I too am a son of Jhebbal Sag, out of a fire-being from a far realm. Zogar Sag summoned me out of the Misty Lands. With incantations and sorcery and his own blood he materialized me in the flesh of his own planet. We are one, tied together by invisible threads. His thoughts are my thoughts; if he is struck, I am bruised. If I am cut, he bleeds. But I have talked enough. Soon your ghost will talk with the ghosts of the Dark Land, and they will tell you of the old gods which are not dead, but sleep in the outer abysses, and from time to time awake.'
+"Zogar Sag; a child of Jhebbal Sag who still visits his sacred groves at times. A woman of Gwawela slept in a grove holy to Jhebbal Sag. Her babe was Zogar Sag. I too am a son of Jhebbal Sag, out of a fire-being from a far realm. Zogar Sag summoned me out of the Misty Lands. With incantations and sorcery and his own blood he materialized me in the flesh of his own planet. We are one, tied together by invisible threads. His thoughts are my thoughts; if he is struck, I am bruised. If I am cut, he bleeds. But I have talked enough. Soon your ghost will talk with the ghosts of the Dark Land, and they will tell you of the old gods which are not dead, but sleep in the outer abysses, and from time to time awake."
 
-'I'd like to see what you look like,' muttered Conan, working his ax free, 'you who leave a track like a bird, who burn like a flame and yet speak with a human voice.'
+"I'd like to see what you look like," muttered Conan, working his ax free, "you who leave a track like a bird, who burn like a flame and yet speak with a human voice."
 
-'You shall see,' answered the voice from the flame, 'see, and carry the knowledge with you into the Dark Land.'
+"You shall see," answered the voice from the flame, "see, and carry the knowledge with you into the Dark Land."
 
 The flames leaped and sank, dwindling and dimming. A face began to take shadowy form. At first Conan thought it was Zogar Sag himself who stood wrapped in green fire. But the face was higher than his own and there was a demoniac aspect about it—Conan had noted various abnormalities about Zogar Sag's features—an obliqueness of the eyes, a sharpness of the ears, a wolfish thinness of the lips; these peculiarities were exaggerated in the apparition which swayed before him. The eyes were red as coals of living fire.
 
@@ -821,40 +821,40 @@ A strange quiet followed the storm, in which people gathered and talked in hushe
 
 There, to Conan the Cimmerian, moodily quaffing from a great wine-glass, came a gaunt forester with a bandage about his head and his arm in a sling. He was the one survivor of Fort Tuscelan.
 
-'You went with the soldiers to the ruins of the fort?'
+"You went with the soldiers to the ruins of the fort?"
 
 Conan nodded.
 
-'I wasn't able,' murmured the other. 'There was no fighting?'
+"I wasn't able," murmured the other. "There was no fighting?"
 
-'The Picts had fallen back across the Black River. Something must have broken their nerve, though only the devil who made them knows what.'
+"The Picts had fallen back across the Black River. Something must have broken their nerve, though only the devil who made them knows what."
 
 The woodsman glanced at his bandaged arm and sighed.
 
-'They say there were no bodies worth disposing of.'
+"They say there were no bodies worth disposing of."
 
-Conan shook his head. 'Ashes. The Picts had piled them in the fort and set fire to the fort before they crossed the river. Their own dead and the men of Valannus.'
+Conan shook his head. "Ashes. The Picts had piled them in the fort and set fire to the fort before they crossed the river. Their own dead and the men of Valannus."
 
-'Valannus was killed among the last—in the hand-to-hand fighting when they broke the barriers. They tried to take him alive, but he made them kill him. They took ten of the rest of us prisoners when we were so weak from fighting we could fight no more. They butchered nine of us then and there. It was when Zogar Sag died that I got my chance to break free and run for it.'
+"Valannus was killed among the last—in the hand-to-hand fighting when they broke the barriers. They tried to take him alive, but he made them kill him. They took ten of the rest of us prisoners when we were so weak from fighting we could fight no more. They butchered nine of us then and there. It was when Zogar Sag died that I got my chance to break free and run for it."
 
-'Zogar Sag's dead?' ejaculated Conan.
+"Zogar Sag's dead?" ejaculated Conan.
 
-'Aye. I saw him die. That's why the Picts didn't press the fight against Velitrium as fiercely as they did against the fort. It was strange. He took no wounds in battle. He was dancing among the slain, waving an ax with which he'd just brained the last of my comrades. He came at me, howling like a wolf—and then he staggered and dropped the ax, and began to reel in a circle screaming as I never heard a man or beast scream before. He fell between me and the fire they'd built to roast me, gagging and frothing at the mouth, and all at once he went rigid and the Picts shouted that he was dead. It was during the confusion that I slipped my cords and ran for the woods.
+"Aye. I saw him die. That's why the Picts didn't press the fight against Velitrium as fiercely as they did against the fort. It was strange. He took no wounds in battle. He was dancing among the slain, waving an ax with which he'd just brained the last of my comrades. He came at me, howling like a wolf—and then he staggered and dropped the ax, and began to reel in a circle screaming as I never heard a man or beast scream before. He fell between me and the fire they'd built to roast me, gagging and frothing at the mouth, and all at once he went rigid and the Picts shouted that he was dead. It was during the confusion that I slipped my cords and ran for the woods.
 
-'I saw him lying in the firelight. No weapon had touched him. Yet there were red marks like the wounds of a sword in the groin, belly and neck—the last as if his head had been almost severed from his body. What do you make of that?'
+"I saw him lying in the firelight. No weapon had touched him. Yet there were red marks like the wounds of a sword in the groin, belly and neck—the last as if his head had been almost severed from his body. What do you make of that?"
 
-Conan made no reply, and the forester, aware of the reticence of barbarians on certain matters, continued: 'He lived by magic, and somehow, he died by magic. It was the mystery of his death that took the heart out of the Picts. Not a man who saw it was in the fighting before Velitrium. They hurried back across Black River. Those that struck Thunder River were warriors who had come on before Zogar Sag died. They were not enough to take the city by themselves.
+Conan made no reply, and the forester, aware of the reticence of barbarians on certain matters, continued: "He lived by magic, and somehow, he died by magic. It was the mystery of his death that took the heart out of the Picts. Not a man who saw it was in the fighting before Velitrium. They hurried back across Black River. Those that struck Thunder River were warriors who had come on before Zogar Sag died. They were not enough to take the city by themselves.
 
-'I came along the road, behind their main force, and I know none followed me from the fort. I sneaked through their lines and got into the town. You brought the settlers through all right, but their women and children got into Velitrium just ahead of those painted devils. If the youth Balthus and old Slasher hadn't held them up awhile, they'd have butchered every woman and child in Conajohara. I passed the place where Balthus and the dog made their last stand. They were lying amid a heap of dead Picts—I counted seven, brained by his ax, or disemboweled by the dog's fangs, and there were others in the road with arrows sticking in them. Gods, what a fight that must have been!'
+"I came along the road, behind their main force, and I know none followed me from the fort. I sneaked through their lines and got into the town. You brought the settlers through all right, but their women and children got into Velitrium just ahead of those painted devils. If the youth Balthus and old Slasher hadn't held them up awhile, they'd have butchered every woman and child in Conajohara. I passed the place where Balthus and the dog made their last stand. They were lying amid a heap of dead Picts—I counted seven, brained by his ax, or disemboweled by the dog's fangs, and there were others in the road with arrows sticking in them. Gods, what a fight that must have been!"
 
-'He was a man,' said Conan. 'I drink to his shade, and to the shade of the dog, who knew no fear.' He quaffed part of the wine, then emptied the rest upon the floor, with a curious heathen gesture, and smashed the goblet. 'The heads of ten Picts shall pay for his, and seven heads for the dog, who was a better warrior than many a man.'
+"He was a man," said Conan. "I drink to his shade, and to the shade of the dog, who knew no fear." He quaffed part of the wine, then emptied the rest upon the floor, with a curious heathen gesture, and smashed the goblet. "The heads of ten Picts shall pay for his, and seven heads for the dog, who was a better warrior than many a man."
 
 And the forester, staring into the moody, smoldering blue eyes, knew the barbaric oath would be kept.
 
-'They'll not rebuild the fort?'
+"They'll not rebuild the fort?"
 
-'No; Conajohara is lost to Aquilonia. The frontier has been pushed back. Thunder River will be the new border.'
+"No; Conajohara is lost to Aquilonia. The frontier has been pushed back. Thunder River will be the new border."
 
 The woodsman sighed and stared at his calloused hand, worn from contact with ax-haft and sword-hilt. Conan reached his long arm for the wine-jug. The forester stared at him, comparing him with the men about them, the men who had died along the lost river, comparing him with those other wild men over that river. Conan did not seem aware of his gaze.
 
-'Barbarism is the natural state of mankind,' the borderer said, still staring somberly at the Cimmerian. 'Civilization is unnatural. It is a whim of circumstance. And barbarism must always ultimately triumph.'
+"Barbarism is the natural state of mankind," the borderer said, still staring somberly at the Cimmerian. "Civilization is unnatural. It is a whim of circumstance. And barbarism must always ultimately triumph."
