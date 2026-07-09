@@ -86,14 +86,16 @@ I meanwhile looked directly on the two words on the pane, *In Arrears*, of a wax
 
 Coming under an arch of bricks greened with moss, I passed into a rusted courtyard, a machine of scratching lead onto paper, a machine of pulling up such deep roots as olive trees grow, two fat lips of a laundry mangle, odd lamps with broken bulbs, and a little iron statue of a cock, and twenty other oddments, all of metal, and with a calico of rust. Condensation rust. It never rains in Obelisk. Of all this I had understanding: this cube was until recently made a storing space for the borough, until a Boss had resettled into it his tillagers, Myoot and Kallus. As farthest cube down the row, always last touched by any hand of a sweepers and wipers guildsdemon, so that ages of Shift's End effort had accreted to make of this cube a ruin.
 
+Snakes slithered through unmown shag as I strode inside this court and bellow through cupped fingers two names of Myoot and Kallus, for I knew not which had been given this cube, which a cube of sun-bleached pine wood and broken chairs I had spotted adjacent.
+
+A she-demon appeared. She come from a corner chamber of the cube lot I had not seen - cobes are always of a larger space within, I think - wore over an ample chest a plain blouse of shamrock color, fraying of hem, and had for a name 'Plecent'. She was a wife of Myoot, soon I learned, for once I made mention of Perli, who is herself she-demon of much pulchritude, Plecent made of me to leave, and shoved me out of the court through the brick arch: little it mattered, as I buttoned my Coat, and slipped unsensed inside once more.
 
 
-*Snakes slither through the unmown shag; he is greeted by the wife, she shoves him away, but he uses his Coat and gets back in*
 
-*Gneiss finds the pair in Daz'lyng's cubicle Owlisch guides Daz'lyng's fingers on a braille keyboard; onscreen, the forever-world (NEW - what a forever-world is, invention slot). Gneiss takes wry inventory of the damage before announcing himself. Wear: braille keyboard's home-row studs already rubbed shiny from fumbling drill. Particularity: forever-world so far, one brick cubicle and seventeen rows of perfect millet.*
+*Gneiss finds the pair in Myoot's cubicle. Kallus guides Myoot's fingers on a braille keyboard; onscreen, the forever-world (NEW - what a forever-world is, invention slot). Gneiss takes wry inventory of the damage before announcing himself. Wear: braille keyboard's home-row studs already rubbed shiny from fumbling drill. Particularity: forever-world so far, one brick cubicle and seventeen rows of perfect millet.*
 
 **Parley:**
 
 
 
-*He names Perli and asks the way down. Both refuse, reciting the Red Apes story too loudly, near-rehearsed (subtext - the true price shames them). What turns them: Perli's past kindness, one concrete remembered favor apiece. Economic: Perli covered Owlisch's millet tax three harvests running, unasked. Quantification: both tellings number exactly five Red Apes, never varying, suspiciously identical.*
+*He names Perli and asks the way down. Both refuse, reciting the Red Apes story too loudly, near-rehearsed (subtext - the true price shames them). What turns them: Perli's past kindness, one concrete remembered favor apiece. Economic: Perli covered Kallus's millet tax three harvests running, unasked. Quantification: both tellings number exactly five Red Apes, never varying, suspiciously identical.*
