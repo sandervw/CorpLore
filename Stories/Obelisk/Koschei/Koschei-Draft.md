@@ -44,7 +44,7 @@ As I turned to look at Mulcher Brayve, standing by the door of Perli's cube, his
 
 I smiled, which as a demon knows is hard through mashing ivories, and spoke again, "Those two words come again and again from history: Lord Wispurus's scaffold embargo, Nancing's of Yellow Ledgers, those decades dozen when golden teeth were much in want, any hour when different heavens warred, all ages of gain. 'In arrears' is 'plunder' of ordinary speech, any un-Mighty word, any age past or now. Perli is his plunder: and Perli is of fifty three also, whose mulchers protect, goes my mind, their demons and she-demons."
 
-M. Brayve made much up-and-down of his chin, presently saying, "Just as you say Gneiss Rong, she is of our flock, and so we already write a slip of rescue, see it here in my hand, and this we'll pin up to the questing board at the throat of our floor."
+M. Brayve made much up-and-down of his chin, presently saying, "Just as you say Gneiss Rong, she is of our flock, and so we already write a scrip of rescue, see it here in my hand, and this we'll pin up to the questing board at the throat of our floor."
 
 "Eleventh is Perli," spoke M. Laym.
 
@@ -102,24 +102,40 @@ Myoot's viewer began to leak of a sulfurous smoke, as his world avatar, I saw, b
 
 "What?" asked Kallus.
 
-
-
-looking for a warm viewer around which to trade stories
-
-Gneiss asks for drink of water, to clear his throat, ask them to give first "small tale". They say they have none
+"My want is a warm viewer," spoke I, assuming a creaky rocking seat by the wall, "around which I and another demon or two might trade small tales. After a drink of water from your cooler, to clear my throat, for of this rasp in my voice you must grow weary - after this, then chuckle would my heart, to give of my own stock of small tales, if you would gift me first of yours."
 
 "What?"
 
-Gneiss leads by, candid, why they are settled in a cube of such low repair, have they stared too long into the jade eyes of a desk gargoyle? Or perhaps, not got along with a fellow worker?
+"We've no tales," spoke Myoot.
 
-Blind one enraged, then morose. What greater horror can a man endure than blindness in both his eyes?
+"Of a candor, why do you pair live in such a cube of low repair. Plainly my sight tells me that you are of this borough's tillagers, for you both wear a smock of a tillager, have a strunk trunk that belongs to a tillager, smell of the hearty fresh Outside, of the scaffolds, where a tillager sews crops: did you pair then make of offense to those tillagers that must be your fellows, and make of yourselves pariahs?"
 
-"What?" At which stage, Gneiss takes scoll and lead from a sending machine, and writes as well as speaks
+Much of red colored Myoot's cheeks, at least of his speech's beginning, though as he made the following words, that color drained for a look without hope. "Offense? Who of us has done more for our fellows, we who prefer not to live if it mean we must live with the knowing of our friends abandoned: our Boss, whose edict has resettled us in this hovel? Unlikely. Ah me, the one worthy of blame is meaningless: what greater horror can a demon endure than blindness of both his eyes?"
 
-The deaf one shouts they they were good, hard workers, who their boss (name) abandoned when they lost their senses
+"What?"
+
+At which shouting, I took a scroll and lead from a sending machine, blinking silently just beside my rocking chair, and began to write of my thoughts as well as speak them. Then spoke and wrote I, "What cut from your eyes their seeing: a contest of squints with that bright gold Boss of all the thousand heaven, a domestic goat hoof taken to your skull, or have you only stared too long into those deep jade eyes of a desk gargoyle?"
+
+Before I wrote all of a first sentence, however, Kallus already began shouting: "My ear as well has been cut of its hearing, Gneiss Rong of soubriquet 'Big', though not entire as has Myoot's sight gone, for I did hear some of your speech just now, when you asked if we two are soldiers of Senior Breef, of Mysterionium, chief realm of heaven fifty through fifty four."
+
+"He didn't ask that," said Myoot.
+
+"I make of you an understanding now that we are tillagers, not soldiers, good laborors of the the soil that does weigh mighty Obelisk's scaffolds, sewing seed under beating sun, in gusting fresh wind, which may tear a demon from his toil and throw him into sky at a moment: long worked we of our crop, making for all of Obelisk's demons and she-demons their chow, only for our Boss, Hoalsail, to cast us into a corner, for so small of a grounds as an aural niggle."
+
+"How?" wrote and spoke I.
 
 Gneiss asks how they lost them, they both smell the sulfur, say they are busy, try to recover forever world
 
 Gneiss tries asking for help, says he knows perli, but not the way to her (asking for help, of two demons who thought they could not give it - very effective)
 
-*He names Perli and asks the way down. Both refuse, reciting the Red Apes story too loudly, near-rehearsed (subtext - the true price shames them). What turns them: Perli's past kindness, one concrete remembered favor apiece. Economic: Perli covered Kallus's millet tax three harvests running, unasked. Quantification: both tellings number exactly five Red Apes, never varying, suspiciously identical.*
+**Mapmaking:**
+
+Gneiss pulls over a table of artificial oak, kallus hands him a tax receipt 11b, and shouts that myoot canoot draw for his blindness, and kallus recently burned his hands on a caua tomato paste automatation
+
+Kallus noted not any name of any place, and simply gives directions on what shapes to draw, and what each space looked like
+
+But kallus forgets details, and myoot keeps interjecting with names and details gneiss needs to know
+
+Slow you down,for my pencil, nor my brain, keep of your speed
+
+*Dialogue-only who's-on-first: Gneiss the sweating relay. Stairwell Grommet, the Xerox Chapel, Vending Row. The map converges on floor 130, three sealed doors between. Cultural: map drawn on the reverse of a Voluntary Taxation receipt, Form 11-B. Particularity: myoot landmark, "the copier that says OW when it staples."*
