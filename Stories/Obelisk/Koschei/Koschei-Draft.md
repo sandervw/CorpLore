@@ -36,7 +36,7 @@ As I turned to look at Mulcher Brayve, standing by the door of Perli's cube, his
 
 "Who knows but that a lord of old hours may have stored, in those vaults of the hells, places where no demon or she-demon has gone and come back in years numbering six hundred. More of a challenge would be shaping such a crayon: no ordinary knife surely could forge a crayon fit for Mighty Danger Words - but then, I'm no engineer."
 
-"Back of a point," spoke I. I strode over to where M.s Brayve and Laym stood, and laid my hand, fingers splayed, on a coarse red brick of Perli's cube, it's outwall, so that a musculus in my reararm was overt, even under the fat wool of my Coat. "I know his scrawl, Ostrab-"
+"Of a brass tacks," spoke I. I strode over to where M.s Brayve and Laym stood, and laid my hand, fingers splayed, on a coarse red brick of Perli's cube, it's outwall, so that a musculus in my reararm was overt, even under the fat wool of my Coat. "I know his scrawl, Ostrab-"
 
 "ZZZZZ." Both mulchers in unison sizzed.
 
@@ -90,19 +90,19 @@ Snakes slithered through unmown shag as I strode inside this court and bellow th
 
 A she-demon appeared. She come from a corner chamber of the cube lot I had not seen - cobes are always of a larger space within, I think - wore over an ample chest a plain blouse of shamrock color, fraying of hem, and had for a name 'Plecent'. She was a wife of Myoot, soon I learned, for once I made mention of Perli, who is herself she-demon of much pulchritude, Plecent made of me to leave, and shoved me out of the court through the brick arch: little it mattered, as I buttoned my Coat, and slipped unsensed inside once more.
 
-Now shortly within a space of the cube I made of a finding both Myoot and Kallus together, two demons set together at a viewer, and Myoot had his hands upon a letterboard before him, braille-made, its studs shiny from an origin secondhand, and Myoot was hesitant of his fingers on his letterboard, and Kallus meanwhile sat beside and gave instructions as might a lord in war: by this it may be know which was blind, which deaf. Myoot's viewer showed plain a forever world, his own, yet of only a blocky corner, for his blind finger had just depressed the letter of stepping back, 's', landing him in a hole of his forever world, by which, did his blindness not suggest it already, one may have surety of his pace of success.
+Now shortly within a space of the cube I made of a finding both Myoot and Kallus together, two demons set together at a looking lens, and Myoot had his hands upon a letterboard before him, braille-made, its studs shiny from an origin secondhand, and Myoot was hesitant of his fingers on his letterboard, and Kallus meanwhile sat beside and gave instructions as might a lord in war: by this it may be know which was blind, which deaf. Myoot's looking lens showed plain a forever world, his own, yet of only a blocky corner, for his blind finger had just depressed the letter of stepping back, 's', landing him in a hole of his forever world, by which, did his blindness not suggest it already, one may have surety of his pace of success.
 
 **Parley:**
 
 Quietly I slid a sturdy boardwood door shut, separating this study space from that larger cube space, so as not to disturb any wife of us therein with our speech. I then unfixed the three buttons of my Coat, and made of a saying, "Friend demons," at which Myoot turned from his forever world, and only after noticing a twist of attention, did Myoot turn also, "glad am I of a succor, pray to Saint Sam, that I find here in this your home: I am a hedge engineer, Gneiss Rong of epithet 'Big', and weary of my journeys, and somewhat faint."
 
-Myoot's viewer began to leak of a sulfurous smoke, as his world avatar, I saw, burned in a pool of magma. Plainly had I startled them, would that I could have from them my Axe, for it is a mighty weapon, and likely to spook any host: with me, however, hiding of an 'all or nothing' as it were, and so that glowing pommel of my weapon showed plain across my back, and I make words of it now only that any demon reading may have reasoning of my meek speech.
+Myoot's looking lens began to leak of a sulfurous smoke, as his world avatar, I saw, burned in a pool of magma. Plainly had I startled them, would that I could have from them my Axe, for it is a mighty weapon, and likely to spook any host: with me, however, hiding of an 'all or nothing' as it were, and so that glowing pommel of my weapon showed plain across my back, and I make words of it now only that any demon reading may have reasoning of my meek speech.
 
 "No good couch is here, Big Gneiss Rong," spoke Myoot first, his voice of a cavern matching the girth of him, his moonmilk eyes looking not quite at my place of standing. "Have you another want?"
 
 "What?" asked Kallus.
 
-"My want is a warm viewer," spoke I, assuming a creaky rocking seat by the wall, "around which I and another demon or two might trade small tales. After a drink of water from your cooler, to clear my throat, for of this rasp in my voice you must grow weary - after this, then chuckle would my heart, to give of my own stock of small tales, if you would gift me first of yours."
+"My want is a warm looking lens," spoke I, assuming a creaky rocking seat by the wall, "around which I and another demon or two might trade small tales. After a drink of water from your cooler, to clear my throat, for of this rasp in my voice you must grow weary - after this, then chuckle would my heart, to give of my own stock of small tales, if you would gift me first of yours."
 
 "What?"
 
@@ -122,20 +122,34 @@ Before I wrote all of a first sentence, however, Kallus already began shouting: 
 
 "I make of you an understanding now that we are tillagers, not soldiers, good laborors of the the soil that does weigh mighty Obelisk's scaffolds, sewing seed under beating sun, in gusting fresh wind, which may tear a demon from his toil and throw him into sky at a moment: long worked we of our crop, making for all of Obelisk's demons and she-demons their chow, only for our Boss, Hoalsail, to cast us into a corner, for so small of a grounds as an aural niggle."
 
-"How?" wrote and spoke I.
+"How?" wrote and spoke I. Then, however, both Myoot and Kallus smelled the sulfur smoke billowing from the looking lens, and Kallus spun about in his chair to face the looking lens, and swore, and Myoot made a similar movement, though his turning was of a wrong direction.
 
-Gneiss asks how they lost them, they both smell the sulfur, say they are busy, try to recover forever world
+We're busy," spoke Kallus, pulling Myoot letterboard to his own chest, and attempting to guide that avatar in that forever world from the magma: availing nothing, for his avatar burned to ash only a passage of a thin hand of a timekeeper later, and reappearing on their looking lens in an embryo state.
 
-Gneiss tries asking for help, says he knows perli, but not the way to her (asking for help, of two demons who thought they could not give it - very effective)
+Myoot made a waving of his hand, as if of speaking: "Leave now, Gneiss Rong of soubriquet 'Big', by that way of which you made entry."
+
+Spoke I then, "Tillagers, Myoot, Kallus, let me make of a full disclosure: I am of good knowing of Perli, having seen her much over four dozen quarters, and that usually of a private setting. Know I well that you tried the rescuing of her from Ostrabawgewlus, the writing of whose crayon, on the window of your community's borough, signifies his taking of Perli. Know I also that you two alone, of her fellows, made an attempt, a price of which was your sight, Myoot, your smell, hearing, friend Kallus." And here I pause briefly to say that I was careful of my speech and of my writing, so that they did keep fair pace of one another. "I ask now of you, two demons of most will among your tribe, to aid of me in my own attempt, with whatever of knowledge you discovered in yours."
+
+Again were my words of much obsequiousness, begging, such being a most effective tactic, as any will agree, for two demons who are of a mind that they might never be of use to anyone ever again: most effective truly, for after a brief scribbling over a scrip of paper by their desk, they did of one accord agree to help.
 
 **Mapmaking:**
 
-Gneiss pulls over a table of artificial oak, kallus hands him a tax receipt 11b, and shouts that myoot canoot draw for his blindness, and kallus recently burned his hands on a caua tomato paste automatation
+Swiftly I found between a table of quasi pine, of a good sanding and polish, even-topped, and of a moderate space, though three of its four legs were of more tallness than their fourth brother: this table I set between myself and Myoot and Kallus. Kallus took, from a dented chest of metal drawers, a scroll of paper, already with writing on one face - one of their free tax scrolls, of the number eleven and letter B, I saw - but with its other face yellow and of ample drawing space: this scroll he set down on the table, then slid it in my direction, along with a short scribbler's lead. Kallus yelled, "You draw. Myoot is blind. I myself recently burned both of my hands, when I tried to lift a toffee furnace by it's cauldron, not knowing that it was in operation."
 
-Kallus noted not any name of any place, and simply gives directions on what shapes to draw, and what each space looked like
+"What must I draw?" asked I.
 
-But kallus forgets details, and myoot keeps interjecting with names and details gneiss needs to know
+"Just as I tell you, create a map, which will lead you out of where we now sit, to a hell where lairs that demon of old, Ostrabawgewlus. Now: of our present heaven, two hundred and fifty third, A shape of an 'L' marks the chief road through its boroughs, with our borough running near that 'L's corner, left side, against our massive windows that give way to many scaffolds, where we farm. On this L's far tip of its bottom arm, there lies one of those timeless Lifts, which drops through maybe twenty heavens, maybe twenty-one, I remember not how many."
 
-Slow you down,for my pencil, nor my brain, keep of your speed
+"It's nineteen," said Myoot. He pressed his thumb to a place of the paper where I had yet to make of any mark, "This 'L'-shaped road passes through one Surrance Consortium: they of this nation care nothing for the Boss hierarchy of fifty third heaven, rob any merchant or craftsman who passes through their holdings, and should be avoided by a travel along a branch road here, through the precinct of fifty three mulchers."
 
-*Dialogue-only who's-on-first: Gneiss the sweating relay. Stairwell Grommet, the Xerox Chapel, Vending Row. The map converges on floor 130, three sealed doors between. Cultural: map drawn on the reverse of a Voluntary Taxation receipt, Form 11-B. Particularity: myoot landmark, "the copier that says OW when it staples."*
+"Stop," spoke I. "Slow you down, for neither my lead, nor my brain, keep of your speed."
+
+"Good minding, Myoot," spoke Kallus again. "He must truly make note of a wild land of goats and bathroom marsh, though such terrain comes only after a second descent, down a marble step of perhaps a dozen hundred paces, just behind a long wall of cyclopean stones. Over one hundred heavens lie between yourself and that lair of Ostrabawgelus, Gneiss Rong, and must you traverse each before even you reach hell one hundred and thirty three."
+
+"He has already drawn so far, Kallus? You forget that wall of Sempraland, and to remind Gneiss Rong of those laws against sleep in any space not surrounded by a pentacle of salt. Also, he must draw here a grommet," and Myoot thumbed a wholly different scrip, which lay on our table, "in this chamber, to represent that strange memory machine which I met, which only says 'ow', and still requires a wooden cylinder to pass. Draw or write also in between Sempraland and goat land: Vendingrow, a sea beast of Oikodespotes Lake, those south crystal panes which are of no translucence in an hour of two or three-"
+
+So went a making of a map. Of a crux: my road must go from our present fifty third heaven, meaning *two* hundred and fifty third, down to a heaven of thirty four, meaning *one* hundred and thirty four, with many a detour, country, culture, landmark, and danger of demon making between this heaven and that. My map, moreover, showed many of odd scribblings: question marks, names of bridges or gates or demons I must avoid, dead ends, ends that led to empty space, steps, ramps, lifts, spiral shapes, and clam shapes, and pyramids, and cogs, and a hundred layers of line and shape and letter, so that any demon unfamiliar with my map's creation should be very like to say of it, "This was made by a somnambulist."
+
+
+
+*The map converges on floor 130, three sealed doors between.*
