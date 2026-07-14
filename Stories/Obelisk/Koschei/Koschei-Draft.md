@@ -150,6 +150,20 @@ Swiftly I found between a table of quasi pine, of a good sanding and polish, eve
 
 So went a making of a map. Of a crux: my road must go from our present fifty third heaven, meaning *two* hundred and fifty third, down to a heaven of thirty four, meaning *one* hundred and thirty four, with many a detour, country, culture, landmark, and danger of demon making between this heaven and that. My map, moreover, showed many of odd scribblings: question marks, names of bridges or gates or demons I must avoid, dead ends, ends that led to empty space, steps, ramps, lifts, spiral shapes, and clam shapes, and pyramids, and cogs, and a hundred layers of line and shape and letter, so that any demon unfamiliar with my map's creation should be very like to say of it, "This was made by a somnambulist."
 
+I felt not much of a troubling at such confusion of lead and paper, however, for two reasons: paravant, that I had made of a tour many of Obelisk's heavens, and had awareness of odd paths into and under and between them, and secondly, that Myoot and Kallus did state plain a number of hell of which Ostrabawgewlus's warren was a part, and did also state plane of some of hells intervening perils.
+
+"One hundred and thirty," spoke Myoot. He stared at me, directly and whitely, having understood more of our spaces around our writing table as I drew. "Such is your hell, where of venture must you make for Perli: this did both of us, seperately, learn from those Waygers, nomad demons and she-demons, those Waygers who are hunters of their supper, meat eaters, and whose wagons roll many a long, worn carpet, among Obelisk's lowest lands of any peace. His house, Ostrabawgewlus's, is there, so spoke a Wayger to me: I have not seen it myself, for I plumbed not past one hundred and thirty three, that first hell, where I lost my eyes."
+
+Myoot then took some gulps from a pewter cup of goat's milk at his hip, which time I used to commit his words to paper, for the benefit of Kallus, who then spoke, "I reached one hundred and thirty two. I escaped that monster which took his eyes, for I met it nowhere, and found its gate open, and went swifty past and down a stair of peridot stone. But to a lower monster I lost my ears."
+
+"Those two ogres wait each before a gate of those two hells, Gneiss Rong: each tricks of you a sense before it will open its passage. The ways they guard are the surest paths deeper, though what demon can speak but that there is not some other secret tunnel or slope which drops through a flickering hell?"
+
+"Each hell is vast," agreed Kallus. "It may be you walk of a floor that is flooded in water too blue of its color, and see reflected pink bodies - those Red Apes that hate to hear an English word - upon the water's surface. Or any of a thousand other Creatures Electric may try to make of you its dinner: a Mr. Montag nearly swallowed my own skin before-"
+
+And many like perils did both Kallus and Myoot describe: but such misadventures as are not worth belaboring of, for I am of a little learning in those misadventures already, having ambled of some hells myself. And moreover, as any demon will surely agree, being that I am like to come to these perils presently in my telling, little sense would there in a 'spilling of wine before a toast,' as they speak.
+
+**Personal:**
 
 
-*The map converges on floor 130, three sealed doors between.*
+
+*Gneiss gives thanks in his fashion and the scene 1 smile, patting coat and gatling axe. Before he reaches the corridor the lesson resumes behind him, key-clicks steady (subtext - what the descent leaves of a demon). His confidence reads thinner to the reader than to him. Malfunction: one braille key sticks; Owlisch thumps it free without looking up. Quantification: thirty-seven key-clicks follow Gneiss down the corridor before the sound fades.*
