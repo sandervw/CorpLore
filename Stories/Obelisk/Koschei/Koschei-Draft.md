@@ -1,6 +1,6 @@
 # Koschei
 
-## Scene 1 - The Empty Office
+## Chapter 1 - Of A Crayon
 
 **Arrival:**
 
@@ -80,7 +80,7 @@ I meanwhile looked directly on the two words on the pane, *In Arrears*, of a wax
 
 ---
 
-## Scene 2 - The Blind and the Deaf
+## Chapter 2 - Of A Map
 
 **Arrival:**
 
@@ -164,6 +164,14 @@ And many like perils did both Kallus and Myoot describe: but such misadventures 
 
 **Personal:**
 
+"Of a thanks," spoke I. "Such a map, folded here in an inner pocket of my Coat, will serve better as armor than any heavy iron skin I might carry: better as weapon than a sword of thinnest edge."
 
+"Bear you of no weapon?" asked tillager Myoot. Surprise looks well in such moonmilk eyes as a blind demon has, and looked well in this demon's eyes: he opened his mouth to speak further, but at that time hit his shin upon our writing table, as he rose.
 
-*Gneiss gives thanks in his fashion and the scene 1 smile, patting coat and gatling axe. Before he reaches the corridor the lesson resumes behind him, key-clicks steady (subtext - what the descent leaves of a demon). His confidence reads thinner to the reader than to him. Malfunction: one braille key sticks; Owlisch thumps it free without looking up. Quantification: thirty-seven key-clicks follow Gneiss down the corridor before the sound fades.*
+At his speech my face composed a smile, as I without conscience raised a hand past my shoulder, and touched my weapon's warm grip. Tillager Kallus, guessing somewhat of our speech from Myoot's raised eyebrows and my gesture, shouted, "Oh, he's armed. It is as ireful of an axe as I have ever seen, a single crescent-moon head of auld metal, thick along its trunk, wrapped in black leather, a toxic neon glowing through housings in its head and haft, and sporting of six tubes about its pommel end too, and each glares with that light of neon wrath."
+
+"A Gatling Laser Axe," explained I.
+
+"Such a weapon may serve against wheevils and red apes," spoke Myoot, "but ware you of our warnings, that all which bides in hell may not be come over by way of fiery iron."
+
+As I bid farewell, and went to their cube's door, and thought of Myoot's wife awaiting outside, and tucked my map away, I smiled again, and buttoned my Coat.
