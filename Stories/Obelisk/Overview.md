@@ -2,50 +2,50 @@
 
 ## Setting Overview
 
-Obelisk is a setting within the larger CorpLore universe, based in a single, massive company office, shaped like an obelisk
-- the company is *Obelisk Replicas*
-- They specialize in working, replica weapons/armor/uniforms from fantasy and science-fiction
+Obelisk is a setting within the larger CorpLore universe: a single, massive tower, shaped like an obelisk
+- its ancient forges wrought working replica weapons/armor/uniforms from fantasy and science-fiction
 
 The obelisk itself has the following dimension:
 - square base, 10 miles on each side
-- There are 1056 total "layers"
-  - each layer is approximately 100 ft high
+- There are 1056 total "planes"
+  - each plane is approximately 100 ft high
   - each can correspond to one or several floors
-  - the top floor sits at 105,500 ft and is a 50 ft square
+  - the top plane sits at 105,500 ft and is a 50 ft square
   - the last 100 ft tapers to the point
-- Total space of all layers (not counting multi-floor layers): 35,250 square miles (982.7 billion sq ft; 63% of the land area of Iowa)
+- Total space of all planes (not counting multi-floor planes): 35,250 square miles (982.7 billion sq ft; 63% of the land area of Iowa)
 
 The surfaces of the obelisk are utlized to sustain life
-- rhe north face is entirely covered by solar arrays
-- the rest covered in rickety garden terraces or rain/water-funnels
+- the north face is entirely covered by solar arrays
+- the rest covered in rickety scaffolds, garden terraces, and condensation-funnels (it never rains)
 
-Floor 134 and up are the only 'habitable' floors:
+Plane 134 and up are the heavens, the only habitable planes:
 - the total area shrinks to 23,500 sq miles
 - this supports roughly 20 million demons, living "not quite comfortably"
-- the lower 134 floors overrun by *The Creatures Electric*
+- the 133 planes below are the hells, overrun by *The Creatures Electric*
 
-the rest of the world has sealed off the office
-- there are no commutes to the office
+the rest of the world has sealed off Obelisk
+- no commute or carpet road reaches it
 - the land around looks natural from inside, but on the outside, it is an empty void (one big reveal)
 
-Demonkind is on the brink of destruction, or so the inhabitants of the obelisk think think
+Demonkind is on the brink of destruction, or so the inhabitants of the obelisk think
 
-**Different Obelisk Departments/Teams:**
-- The Mulch Department: The police force, in charge of protecting people and valuables
-- Team Yesteryear: In charge of company history
-- Product Retirement: In charge of deciding when to get rid of replicas from the catalogue of currently-sold ones
-- Rationing: a department for food/water delivered from the nearest window-scaffolds
+**Orders of Obelisk:**
+- The Mulchers: dogs of law, protecting flock and valuables
+- Tillagers: sow crops on the window-scaffolds, feeding all Obelisk; pay a dawn "free tax"
+- Yesteryear: keepers of Obelisk's history
+- Retirement: strikes replicas from the living catalogue
+- Rationing: metes food/water from the nearest window-scaffolds
 - Power and Waste
 
 ### The Creatures Electric
 
-Various monsters, originating from floor 134 and down
+Monsters of the hells, plane 133 and down
 
-**Butler** - giant cats (these replace dragons in traditional fantasy). Incredibly rare. They never stop growing, and can change their size at will (IE - shrinking back to the size of a housecat at any time). They are intelligent and self-serving. They have nine lives, and must be slain 9 times to be truly destroyed.
+**Butler** - giant cats (these replace dragons). Incredibly rare. They never stop growing, and can change their size at will (IE - shrinking back to housecat size at any time). They are intelligent and self-serving. They have nine lives, and must be slain 9 times to be truly destroyed.
 
-**Wheevils** - vermin; body and head like a mouse, but with two long, round-tipped ears extending back; half-a-man's height, standing on two long crane-like legs, with small arms tucked up against its chest; a mouth full of flat teeth; eats only exoskeletons, other carapace-like features, but has poor eyesight and mistakes clothed humans for prey; unthinkingly vicious in large packs.
+**Wheevils** - vermin; body and head like a mouse, but with two long, round-tipped ears extending back; half a demon's height, standing on two long crane-like legs, with small arms tucked up against its chest; a mouth full of flat teeth; eats only exoskeletons, other carapace-like features, but has poor eyesight and mistakes clothed demons for prey; unthinkingly vicious in large packs.
 
-**Red Apes** - pinkly-glowing humanoid-like creatures with glossy, plastic-like skin, and eyes covered in large opaque glass lenses; often run on their knuckles, though slightly taller than men when standing upright, with a long face; gangly but muscular, hunting in 4-5, they will eat almost anything; they hate and attack anything that speaks english
+**Red Apes** - pinkly-glowing humanoid-like creatures with glossy, plastic-like skin, and eyes covered in large opaque glass lenses; often run on their knuckles, though slightly taller than a demon when standing upright, with a long face; gangly but muscular, hunting in 4-5, they will eat almost anything; they hate and attack anything that speaks english
 
 **Jurasiks** - Some kind of bull
 
@@ -57,15 +57,15 @@ Various monsters, originating from floor 134 and down
 
 **Gneiss (The Main Character):**
 - **Elric of Melnibone** meets **Meleoron from Hunter X Hunter**
-- Cursed because he was once tricked into donning the fabled **Coat of the Seven Senses** (an artifact created by Obelisk Replicas in an age long passed)
-- The coat allowed the wearer to go unseen
+- Cursed because he was once tricked into donning the fabled **Coat of the Seven Senses** (an artifact forged in Obelisk in an age long passed)
+- The wearer chooses which senses the coat hides him from - one, three, all seven
 - The one who dons it must thereafter wear it forever; taking off the coat means losing all one's senses, essentially becoming a vegetable, existing only as **"Massless Potential Energy** (maintains internal senses; the seven senses are only the external ones)
 - *The Seven Senses:* vision, hearing, touch, smell, taste, balance, and... (keep the seventh mysterious)
 - Categorizes others into three groups: *Dogs*, *Pigs*, and *Sheep*
-	- *Dogs*: police, lawmen, enforcers, etc; will sometimes break these down further into 'hounds'/'mongrel-dogs' (the sadists who use authority to fulfill their kink) and 'pups' (young lawmen who still have a sense of misplaced idealism)
-	- *Pigs*: authority, upper-management, etc; 'hogs' are the fat ones; 'swine' are truly, truly evil
+	- *Dogs*: mulchers, lawmen, enforcers, etc; will sometimes break these down further into 'hounds'/'mongrel-dogs' (the sadists who use authority to fulfill their kink) and 'pups' (young lawmen who still have a sense of misplaced idealism)
+	- *Pigs*: Bosses, Seniors, authority, etc; 'hogs' are the fat ones; 'swine' are truly, truly evil
 	- *Sheep*: Commoner (weakling) demons; the masses; 'lamb/lambs' is reserved for the especially pathetic and helpless; 'rams' are good, honest tradesmen who might be relied upon
-- **Voice:** Vain, wry, self-mythologizing. Hindsight and dark humor color everything. He name-drops himself ("Big Gneiss Rong"), and likes off-kilter similes. His melancholy is SUBTEXT - deadpan, self-deprecation, corporate-transactional diction.
+- **Voice:** Vain, wry, self-mythologizing. Hindsight and dark humor color everything. He name-drops himself ("Big Gneiss Rong"), and likes off-kilter similes. His melancholy is SUBTEXT - deadpan, self-deprecation, translated-folktale diction.
 
 **Withazz** a sorcerous engineer
 - Wears a heavy, iridescent cloak hooded coat of gold (think a Morrowind Telvanni Wizard)

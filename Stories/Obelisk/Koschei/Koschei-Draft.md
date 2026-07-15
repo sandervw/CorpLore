@@ -175,3 +175,7 @@ At his speech my face composed a smile, as I without conscience raised a hand pa
 "Such a weapon may serve against wheevils and red apes," spoke Myoot, "but ware you of our warnings, that all which bides in hell may not be come over by way of fiery iron."
 
 As I bid farewell, and went to their cube's door, and thought of Myoot's wife awaiting outside, and tucked my map away, I smiled again, and buttoned my Coat.
+
+---
+
+## Chapter 3 - Of
