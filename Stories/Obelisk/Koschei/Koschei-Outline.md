@@ -38,14 +38,16 @@ Gneiss seeks Myoot and Kallus, tillagers who tried a descent before him: one cam
 
 **Personal:** Gneiss calls his map better armor than iron, better weapon than a thin-edged sword. Myoot asks of his arms: Kallus names aloud a Gatling Laser Axe, neon wrath about its pommel. Myoot warns: not all which bides in hell may be come over by fiery iron. Gneiss smiles, buttons his Coat.
 
-### 3. Down to 134 — ~1,750 — Journey
+### 3. Of A Way I Did Go — ~1,750 — Journey
 
 Time-compressed descent through the heavens.
 
-All narration, to get from A to B: build it around 3 distinct mini-scenes or events:
-- the journey on goatback caravan over A Stool Bog of Canne, from the keep of the financial merchant Hoortulon, to the borough of Ives on X, where Gneiss must play a game of peekaboo each evening with the merchants idiot adult son, or be cooked for his supper
-- the feast day of Saint Mantyck at x, where Gneiss is content, tempted to become a sheep in a land where sheep are fat and go unshorn, but in the end his love of Perli goads him on
-- todo
+All narration, to get from A to B
+
+Build it around 3 distinct mini-scenes or events:
+- the journey on goatback caravan over A Stool Bog of Canne, from the keep of the financial merchant Hoortulon, to the borough of Ives on Stall, where Gneiss must play a game of peekaboo each evening with the merchants idiot adult son, or be cooked for his supper
+- the feast day of Saint Mantyck, at Credleburg, where Gneiss is content, tempted to become a sheep in a land where sheep are fat and go unshorn, but in the end his love of Perli goads him on
+- todo - third event
 
 Preface and mark out each event type section with "but when i came to..."
 
