@@ -12,26 +12,12 @@ All skills referenced by name live in this project at `<project>/.claude/skills/
 
 "*subtext*" in an outline indicates material that should not be given directly in a scene - it should be hinted as obliquely as possible.
 
-## Content Structure
-
-- `Setting/CorpLore-Folklore.md` - Random setting folklore
-- `Setting/CorpLore-Ideas.md` - Running scratchpad / todo list for ideas
-- `Setting/CorpLore-Mythology.md` - Main setting summary
-- `Setting/Folklore/` - Only reference this is requested by the user
-- `Setting/Mythology/` - Deep-dive expansions of individual setting elements
-- `Setting/Potential-Folklore/` - Only reference this is requested by the user
-- `Stories/` - In progress and completed stories/narratives
-- `Output/` - Default destination for generated files (unless the user specifies otherwise)
 
 ## Writing Conventions
 
 When creating or editing content:
-- There is no pre-corporate era; the corporate world has always existed.
-- All geography is made of four elements: Corporate Offices, Hotels, Gas Stations, and the Daily Commute (highways).
-- Killing is commonplace; most demons have weapons.
 - All humans in-universe are "demons" - use "demon" for men, "she-demon" for women
-- There are various magic practitioners: software engineers, concierges, podcast-cult channelers
-- Many magics are based on key words/phrases: "Per My Last Email", "Checkout is at 11", "The Blue Plates are Nice..."
-- There are four demon cults: January Financials, The Moth and the Flame, Dogmommies, Q4H
-- The tone is dark, mythopoeic. Sprinkle 1-3 word mythic or violent modifiers onto ordinary nouns.
-- Weapons, objects, and architecture should feel old, as if they came from an ancient empire.
+- 'Engineers' is the term for setting-magic practitions
+- Many magics are based on random enterprise/business words and phrases; Examples only (do not re-use): "Per My Last Email", "Checkout is at 11", "The Blue Plates are Nice..."
+- Weapons, objects, and architecture should feel as if they came from an ancient empire
+- Focus on **NEW** or **INVENTED** lore, places, etc - don't reuse ideas from elsewhere in the setting.

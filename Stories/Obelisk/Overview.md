@@ -91,6 +91,8 @@ One character who...
 - Longer, complex sentences for character with active thoughts; terse for tired old character
 - Need to pick a subject/setting for which there is a dearth of information
 
+**The Rehearsed Mourners of Plangency Row** - a guild that grieves demons before they die, so nothing is owed after; a traveler hears his own dirge already sung, third verse unfinished
+
 **Partially based on The House on the Borderland**
 
 Names inspired by "witchy latin song lyrics"? Think *Ghost*.

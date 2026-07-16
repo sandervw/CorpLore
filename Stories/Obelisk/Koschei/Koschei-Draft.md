@@ -178,4 +178,5 @@ As I bid farewell, and went to their cube's door, and thought of Myoot's wife aw
 
 ---
 
-## Chapter 3 - Of
+## Chapter 3 - Of A Way I Did Go
+
