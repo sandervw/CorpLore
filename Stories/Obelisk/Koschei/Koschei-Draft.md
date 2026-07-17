@@ -180,3 +180,16 @@ As I bid farewell, and went to their cube's door, and thought of Myoot's wife aw
 
 ## Chapter 3 - Of A Way I Did Go
 
+**Departure:**
+
+So I did go, on a way of a map debatable, many of miles, many of a rounding of those moon tubes which benight Obelisk's heavens: firstly from the L-corner of my departing point, from Myoot's cube in his borough, and secondly and longly on a road of twenty good miles, carefully through one Surrance Consortium, that same day - at an ending of which trek I was much pained of foot, and came gladly to rest in a bedding cube, across whose door was an instance of a timeless Lift. So, day one.
+
+Cockcrow, landlord's payment, a hissing Lift door, an empty metal space - by these did a first stage of my way start. Obelisk's Lifts are each a timeless space. Once I stepped within this Lift, which Myoot and Kallus had put on my map, there passed me by no days in Obelisk's heavens, but within I yet perceived a going of many moon tubes - for, within a lift, space is otherwise, and Time passes not a Second without, though Days of a hundred may dawdle within, and all with a Lift's music ringing in one ears, constantly: a piper, a blower of a horn, and an engineer of mighty Sound, playing of a same five songs, echoing from a mouth of a tin mine.
+
+**Caravan:**
+
+But when I came to a keep of Hoortulon, a financial lord, master of a long manse of maybe a hundred acres, I prevailed upon him for transport. In his caravan, though he himself partook not of our travel, we journeyed by goatback over a steam bog, a Bog of Canne, which land hissed all about, and lay hid in a constant warm mist, by way of marble vents which breathed from that heaven's lungs. Many sun tubes and moon tubes was our travel. Each night I played a game with Hoortulon's son, Femik, a demon's body with an idiot child's mind: each night he bid me come into his tent, place my hands before my sight, hold my breath, and then cry, "Seeyou!" as I flashed my hands open. Moments Femik would laugh hysterically, then moments again would he be quite calm, placing before his own sight his own hands, holding his breath behind until his face turned purple, and at last, when he thought I mightn't be wary, open and cry "Seeyou!" Of such a game I partook with fixed face of sternness, for should be caught but once, and start when Femik cried, "Seeyou!", then had his father, Hoortulon, promised that I would be made a supper of. Eaten. Illy did I sleep, till my goat, who was of a name Edji, carried me through hissing clouds, to a borough of Ives on Stall, where I goodbye'd from Hoortulon's caravan, happily whole of my skin.
+
+**Temptation:**
+
+*Start: Ives on Stall behind, feast smoke ahead. End: the feast day of Saint Mantyck at Credleburg, [invent: what Mantyck is saint of]; all demons here are sheep, fat and unshorn, Gneiss content, near to staying; the remembering of Perli goads him out the far gate. Grounding: feast tables notched with initials of feasters forty years gone; Credleburg keeps the feast nine days, Gneiss stays seven.*

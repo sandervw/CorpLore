@@ -45,7 +45,7 @@ Time-compressed descent through the heavens.
 All narration, to get from A to B
 
 Build it around 3 distinct mini-scenes or events:
-- the journey on goatback caravan over A Stool Bog of Canne, from the keep of the financial merchant Hoortulon, to the borough of Ives on Stall, where Gneiss must play a game of peekaboo each evening with the merchants idiot adult son, or be cooked for his supper
+- the journey on goatback caravan over A Steam Bog of Canne (land is filled with constant hot mist, from marble steam vents in the earth), from the keep of the financial merchant Hoortulon, to the borough of Ives on Stall, where Gneiss must play a game of peekaboo each evening with the merchants idiot adult son, or be cooked for his supper
 - the feast day of Saint Mantyck, at Credleburg, where Gneiss is content, tempted to become a sheep in a land where sheep are fat and go unshorn, but in the end his love of Perli goads him on
 - the Brownout Belt: three heaven layers, where the solar feed failed generations back; perpetual dusk, wick-cutters selling candlelight by the inch, dwellers who whisper because the dark carries sound
 
@@ -55,7 +55,7 @@ End with: "...but then i came to floor 134, where i was taken into prison by the
 
 **Departure:** *Start:* farewell at the moss-greened arch, Coat buttoned, map at his breast. *End:* the refrain "but when I came to..." established; a first fast string of map landmarks spent in passing, the timeless Lift's nineteen heavens dropped, Sempraland's wall skirted; the refrain sets him down at the keep of financial merchant Hoortulon. *Grounding:* the timeless Lift skips heaven 241, doors opening on brick; Vendingrow's one lit machine, sold out beyond living memory.
 
-**Caravan:** *Start:* passage begged at Hoortulon's keep. *End:* goatback over A Stool Bog of Canne, six evenings, each a game of peekaboo with the merchant's idiot adult son, lose and be cooked for supper; [invent: the son's one unbendable rule of the game]; set down whole at the borough of Ives on Stall. *Grounding:* the caravan crosses only stool to stool, lead goat testing each; the son holds his breath behind his hands until his face purples.
+**Caravan:** *Start:* passage begged at Hoortulon's keep. *End:* goatback over A Steam Bog of Canne (land is filled with constant hot mist, from marble steam vents in the earth), six evenings, each a game of peekaboo with the merchant's idiot adult son, lose and be cooked for supper; [invent: the son's one unbendable rule of the game]; set down whole at the borough of Ives on Stall. *Grounding:* the caravan crosses only stool to stool, lead goat testing each; the son holds his breath behind his hands until his face purples.
 
 **Temptation:** *Start:* Ives on Stall behind, feast smoke ahead. *End:* the feast day of Saint Mantyck at Credleburg, [invent: what Mantyck is saint of]; all demons here are sheep, fat and unshorn, Gneiss content, near to staying; the remembering of Perli goads him out the far gate. *Grounding:* feast tables notched with initials of feasters forty years gone; Credleburg keeps the feast nine days, Gneiss stays seven.
 
