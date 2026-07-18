@@ -192,4 +192,12 @@ But when I came to a keep of Hoortulon, a financial lord, master of a long manse
 
 **Temptation:**
 
-*Start: Ives on Stall behind, feast smoke ahead. End: the feast day of Saint Mantyck at Credleburg, [invent: what Mantyck is saint of]; all demons here are sheep, fat and unshorn, Gneiss content, near to staying; the remembering of Perli goads him out the far gate. Grounding: feast tables notched with initials of feasters forty years gone; Credleburg keeps the feast nine days, Gneiss stays seven.*
+But when I came to Credleburg on heaven two hundred and twelve, burg of a small census of demons and she-demons, nestled against Obelisk's northern windows of mighty crystal, where no scaffold for crops or husbandry restricts one's perspective of unknown Earth beyond our heaven - at Credleburg I stopped. Of a festival I watched, a Feast Day of Saint Mantyck, who those demons and she-demons of Credleburg revered for certain Words of Mighty Danger: Saint Mantyck had conjured against one army of demons with black sword, a Brotherhood of Black Swords, intensifying those scanty sun rays which penetrate Obelisk's north side, so that Credleburg's foedemons were melted. To east and west yet lie those fused black bones. Credleburg lazes. At its Feast Day of saint Mantyck I ate before one of a few tables, two I mind of, both bowed of food: portabellos, porcinis, chanterelle, pots of honey and goat's milk, minced meat pies season with sorrel and tarragon, garlic pudding, and rice. Forty demons and she-demons sat these tables: of forty years of feasters' names were these tables carved. These easy-lived children of demonkind, sheep, but honest rams, tradesmen who might be relied upon, made much of a welcome. They wanted only of a stranger's fables. I filled my belly, and thought of filling my heart with sleepy days, those demons bidding me.
+
+At morn I climbing over a south wattle fence, faring well, for as any demon might relate, my brain, ill with Perli, could not agree with that burg's cure.
+
+**Brownout:**
+
+But when i came to x, i went down three long steps, each step of darker surface than his upper neighbor, till i saw nothing. Of a toll I paid, to wicker lantern man, one of a wickcguild in brownout belt: toll
+
+*Start: Credleburg's light at his back, a stair into dusk. End: three heavens of the Brownout Belt crossed, solar feed dead for generations; wick-cutters selling candlelight; dwellers whispering, for the dark carries sound; [invent: what the Belt-dwellers take in trade]; out the Belt's floor. Grounding: Belt slang names all lit heavens 'the Glare'; a third of the stair-lamps hum but give no light.*
