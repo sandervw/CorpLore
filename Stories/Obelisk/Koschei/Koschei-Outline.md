@@ -14,15 +14,15 @@
 
 ### 1. Of A Crayon — 1,569 — Parley
 
-Gneiss comes to heaven 253 at dawn to see Perli: her cube stands empty. An old Word of Mighty Danger, indigo crayon on a crystal window, marks her taken by Ostrabawgewlus. Two mulchers file her rescue eleventh in queue (*subtext* - fear of a like fate). Gneiss says he will go alone: they warn him of two who tried and paid.
+Gneiss comes to heaven 253 at dawn to see Sirrel: her cube stands empty. An old Word of Mighty Danger, indigo crayon on a crystal window, marks her taken by Ostrabawgewlus. Two mulchers file her rescue eleventh in queue (*subtext* - fear of a like fate). Gneiss says he will go alone: they warn him of two who tried and paid.
 
-**Arrival:** Warm's Route, floor 253 west: tillage under hundred-foot crystal windows, glass of a dead bulb in dawn's umbra. Worn carpet, a timeless elevator, a marble coffee altar and its chalice worship. Gneiss skirts a free tax rite and knocks at Perli's cube: gone.
+**Arrival:** Warm's Route, floor 253 west: tillage under hundred-foot crystal windows, glass of a dead bulb in dawn's umbra. Worn carpet, a timeless elevator, a marble coffee altar and its chalice worship. Gneiss skirts a free tax rite and knocks at Sirrel's cube: gone.
 
 **Discovery:** *In Arrears*, indigo crayon on crystal across from her cube. Gneiss turns his sight from written wax: a stink of mown grass and dung gossips Mighty Danger. He knows that hand of *Vampires of a White Pinhole Sky*, and names Ostrabawgewlus aloud.
 
 **Parley:** Mulchers Brayve and Laym hiss down his naming of that old spell lord, and debate a forging of such indigo crayon: a waxworks of hell vaults, a hat of plumage (*subtext* - dread under shop talk).
 
-**Argument:** Gneiss reads 'In Arrears' - plunder of every age of gain. Mulchers raise a queue: Perli eleventh, forty quarters of limit, maybe she returns of her own. He will go alone. Prior seekers Myoot and Kallus came home blind, deaf, Red Apes blamed. Seeds Chapter 2. "He'll eat that Long Lunch."
+**Argument:** Gneiss reads 'In Arrears' - plunder of every age of gain. Mulchers raise a queue: Sirrel eleventh, forty quarters of limit, maybe she returns of her own. He will go alone. Prior seekers Myoot and Kallus came home blind, deaf, Red Apes blamed. Seeds Chapter 2. "He'll eat that Long Lunch."
 
 **Personal:** A wraith in window glass: Withazz, wool coat of honeybee yellow, vexed of day stars. A brief Seeming: thy jewel of an oyster, a night of round moon, a bush of heavy tomatoes. Three doors, four friends, four foes, hide from six of seven. He vanishes.
 
@@ -30,50 +30,40 @@ Gneiss comes to heaven 253 at dawn to see Perli: her cube stands empty. An old W
 
 Gneiss seeks Myoot and Kallus, tillagers who tried a descent before him: one came home blind, one deaf, both cast into a ruin cube by Boss Hoalsail. Kallus guides Myoot at a braille letterboard for his forever-world. Begging and full disclosure win their help: three cobble a map to hell 130, lair of Ostrabawgewlus, past two ogres who each trick a sense at a gate. Of a third, nothing. Gneiss smiles again, sure of Coat and gatling axe.
 
-**Arrival:** Under a moss-greened brick arch, a rusted courtyard of oddments: farthest cube of a row, once borough storage. Plecent, wife of Myoot, shoves him out at Perli's name: he slips back in unsensed. Within, deaf Kallus commands blind Myoot at a secondhand braille letterboard, his forever-world avatar down a hole.
+**Arrival:** Under a moss-greened brick arch, a rusted courtyard of oddments: farthest cube of a row, once borough storage. Plecent, wife of Myoot, shoves him out at Sirrel's name: he slips back in unsensed. Within, deaf Kallus commands blind Myoot at a secondhand braille letterboard, his forever-world avatar down a hole.
 
-**Parley:** He plays a weary hedge engineer, asks small tales of a warm looking lens: "We've no tales." He writes his speech on a sending machine scroll to pace ear and eye, then gives full disclosure of Perli. Begging wins two demons who think themselves of no more use.
+**Parley:** He plays a weary hedge engineer, asks small tales of a warm looking lens: "We've no tales." He writes his speech on a sending machine scroll to pace ear and eye, then gives full disclosure of Sirrel. Begging wins two demons who think themselves of no more use.
 
 **Mapmaking:** Gneiss draws: Myoot is blind, Kallus of two burned hands. Map on a free tax scroll, 11-B. Landmarks spent freely: an L-shaped road, Surrance Consortium, a timeless Lift down nineteen heavens, Sempraland's wall, a memory machine that only says 'ow', Vendingrow, a sea beast of Oikodespotes Lake, goat land, bathroom marsh. Lair of Ostrabawgewlus: hell 130, of Wayger telling. Myoot lost his eyes at hell 133, Kallus his ears at 132: two ogres wait each before a gate, each tricks of you a sense. Neither went past his loss.
 
 **Personal:** Gneiss calls his map better armor than iron, better weapon than a thin-edged sword. Myoot asks of his arms: Kallus names aloud a Gatling Laser Axe, neon wrath about its pommel. Myoot warns: not all which bides in hell may be come over by fiery iron. Gneiss smiles, buttons his Coat.
 
-### 3. Of A Way I Did Go — ~1,750 — Journey
+### 3. Of A Way I Did Go — 1,116 — Journey
 
-Time-compressed descent through the heavens.
+Time-compressed descent through the heavens: a day's walk and a timeless Lift, a goatback caravan past Hoortulon's idiot son, one feast night at Credleburg he almost doesn't leave, three dark heavens of A Belt Debatable, ending in arrest on floor 134.
 
-All narration, to get from A to B
+**Departure:** A day's walk (twenty miles) from Myoot's cube through Surrance Consortium to a lodging cube by a timeless Lift door. Next dawn he enters the Lift: outside, no time passes; inside, days dawdle to a looping five-song tune from an unseen piper, horn-blower, and engineer of Sound.
 
-Build it around 3 distinct mini-scenes or events:
-- the journey on goatback caravan over A Steam Bog of Canne (land is filled with constant hot mist, from marble steam vents in the earth), from the keep of the financial merchant Hoortulon, to the borough of Ives on Stall, where Gneiss must play a game of peekaboo each evening with the merchants idiot adult son, or be cooked for his supper
-- the feast day of Saint Mantyck, at Credleburg, where Gneiss is content, tempted to become a sheep in a land where sheep are fat and go unshorn, but in the end his love of Perli goads him on
-- the Brownout Belt: three heaven layers, where the solar feed failed generations back; perpetual dusk, wick-cutters selling candlelight by the inch, dwellers who whisper because the dark carries sound
+**Caravan:** Passage begged at the keep of financial lord Hoortulon; refrain "but when I came to..." begins here. Goatback (goat Edji) over the hissing mist of A Steam Bog of Canne. Nightly peekaboo with idiot son Femik: hands over eyes, hold breath, cry "Seeyou!" - flinch or move too soon and be eaten. Set down whole at the borough of Ives on Stall.
 
-Preface and mark out each event type section with "but when i came to..."
+**Temptation:** Credleburg, heaven 212, against Obelisk's north windows: the Feast Day of Saint Mantyck, who melted a foe army (the Brotherhood of Black Swords) by focusing Obelisk's scanty north-face sun - their fused black bones remain east and west. Gneiss feasts one night among tables carved with forty years of feasters' names, tempted to stay among these fat, unshorn, easy-living sheep. He climbs the south wattle fence at dawn, goaded on by Sirrel.
 
-End with: "...but then i came to floor 134, where i was taken into prison by the constables, their reasoning of which i at present shall speak"
+**Brownout:** Twenty-four days alone on heaven 160, roaming in sticky summer heat, Coat clinging. A marble arch and stair drop him into "A Belt Debatable": three heavens with neither sun-tube nor moon-tube, cloudy dark, sound carrying strange in the evening hush. A pale wickerdemon guides him through for seven stamps of credit; staring eyes watch from the tunnels, unclaimed. He leaves by a wider glow below.
 
-**Departure:** *Start:* farewell at the moss-greened arch, Coat buttoned, map at his breast. *End:* the refrain "but when I came to..." established; a first fast string of map landmarks spent in passing, the timeless Lift's nineteen heavens dropped, Sempraland's wall skirted; the refrain sets him down at the keep of financial merchant Hoortulon. *Grounding:* the timeless Lift skips heaven 241, doors opening on brick; Vendingrow's one lit machine, sold out beyond living memory.
-
-**Caravan:** *Start:* passage begged at Hoortulon's keep. *End:* goatback over A Steam Bog of Canne (land is filled with constant hot mist, from marble steam vents in the earth), six evenings, each a game of peekaboo with the merchant's idiot adult son, lose and be cooked for supper; [invent: the son's one unbendable rule of the game]; set down whole at the borough of Ives on Stall. *Grounding:* the caravan crosses only stool to stool, lead goat testing each; the son holds his breath behind his hands until his face purples.
-
-**Temptation:** *Start:* Ives on Stall behind, feast smoke ahead. *End:* the feast day of Saint Mantyck at Credleburg, [invent: what Mantyck is saint of]; all demons here are sheep, fat and unshorn, Gneiss content, near to staying; the remembering of Perli goads him out the far gate. *Grounding:* feast tables notched with initials of feasters forty years gone; Credleburg keeps the feast nine days, Gneiss stays seven.
-
-**Brownout:** *Start:* Credleburg's light at his back, a stair into dusk. *End:* three heavens of the Brownout Belt crossed, solar feed dead for generations; wick-cutters selling candlelight; dwellers whispering, for the dark carries sound; [invent: what the Belt-dwellers take in trade]; out the Belt's floor. *Grounding:* Belt slang names all lit heavens 'the Glare'; a third of the stair-lamps hum but give no light.
-
-**Arrest:** *Start:* the Belt's last dark stair. *End:* verbatim close - "...but then i came to floor 134, where i was taken into prison by the constables, their reasoning of which i at present shall speak." *Grounding:* the Belt stair's rail polished bare where a thousand hands groped down; a customs stall abandoned mid-game, draughts pieces still set.
+**Arrest:** *Start:* the Belt's last dark stair. *End:* verbatim close - "...but then i came to floor 134, where i was taken into prison by the constables, their reasoning of which i at present shall speak."
 
 ### 4. Upon 134 — ~3,000 — Violence
 
 *For chapters 4-6, see @C:\Users\Sander\OneDrive\Documents\Github\Notes\CorpLore\Stories\Obelisk\The-Gatling-Laser-Axe\The-Gatling-Laser-Axe.md*
 
-Gneiss, bound below, is detained at heaven 134's frontier precinct for casing the Capsule Vault, and held in a cube of shatterproof crystal. A wave of attacking Creatures Electric breaks against twenty ready mulchers - stampers and cleavers, Chief Mulcher Morel Ulakhan the steady hand - while Gneiss shouts from his cube. Questioned, he keeps Perli off his tongue (*subtext*) and confesses a yellowed catalogue: the Gatling Laser Axe looked *sick*. Then shuddering lights, a flensing-beach reek, a growl no mulcher knows; Gneiss names it like Gandalf in Moria - a Butler. Joiyuss Dustman, last of a destroyed ration patrol, brings the horde on his heels; the precinct is overrun; Joiyuss unlocks Gneiss too late for the Coat, both exits crowded. All flee the south hall into the vault, doors shut behind.
+Gneiss, bound below, is detained at heaven 134's frontier precinct for casing the Capsule Vault, and held in a cube of shatterproof crystal. A wave of attacking Creatures Electric breaks against twenty ready mulchers - stampers and cleavers, Chief Mulcher Morel Ulakhan the steady hand - while Gneiss shouts from his cube. Questioned, he keeps Sirrel off his tongue (*subtext*) and confesses a yellowed catalogue: the Gatling Laser Axe looked *sick*. Then shuddering lights, a flensing-beach reek, a growl no mulcher knows; Gneiss names it like Gandalf in Moria - a Butler. Joiyuss Dustman, last of a destroyed ration patrol, brings the horde on his heels; the precinct is overrun; Joiyuss unlocks Gneiss too late for the Coat, both exits crowded. All flee the south hall into the vault, doors shut behind.
 
 ### 5. The Capsule Vault — ~3,000 — Wonder
 
 The vault by keychain torch, pager-glow, one outlaw laser lamp: a brick tower-top ringed by void, marble plinths, narrow steps down past niches, one copy of every retired replica. Pounding on the steel doors is the clock. A wandering light finds the Axe; Gneiss pitches arming the room; Ulakhan refuses - retired is retired. The doors give; Gneiss buttons the Coat, walks the niche-steps unseen, and a floating Axe atomizes the first wave. He unbuttons holding it, and keeps it. A replica heat-crossbow welds the doors; the growl nears; the mulchers press Ulakhan, who capitulates through a loophole of his own writ. Arming montage: Excalibur, Stormbringer, Mjölnir, Crown of the Lich, Foe-Hammer that wakes cold blue when Creatures near (plant). Gneiss's plan: not out but down, through the first hell and up the Creatures' own stair - down being where he was always going (*subtext*).
 
 Note: rework ch 1-2 so Gneiss arrives unarmed - cut ch 2's closing Axe beat; the map-as-weapon line stands alone.
+- *And Claude - stop reminding me to do this until we get to this chapter, you're being a nag*
 
 ### 6. Below 134 — ~2,000 — Violence
 
@@ -98,15 +88,18 @@ A dense forest of webs. The third guardian cannot be slain — every stroke land
 
 ### 11. Five Against Four — ~3,950 — Violence
 
+The air is cold, and still (no running hcac), sharp like winter
+- hells have ghettos (jewish), not boroughs
+
 Exposed by mischance to the four servants of Ostrabawgewlus — the Vantablue, Odd Life, Lead, and Gamma Engineers — Gneiss fights one against four until the spared arrive: Frontschwein, Toad Gargoyle, the Moon with a Face, Withazz. Five against four; the Engineers are broken.
 
 ### 12. The Unsensed Ear — ~2,000 — Wonder
 
-Coatwise — unseen, unheard, untouchable — Gneiss shadows Ostrabawgewlus's first audience with Perli. The Master of the Thousand Replicas, tenderly, boasts a first piece of his deathlessness: something braided, somewhere low, past the last living floor.
+Coatwise — unseen, unheard, untouchable — Gneiss shadows Ostrabawgewlus's first audience with Sirrel. The Master of the Thousand Replicas, tenderly, boasts a first piece of his deathlessness: something braided, somewhere low, past the last living floor.
 
 ### 13. What the Villain Tells His Guest — ~2,200 — Parley
 
-Two more shadowed encounters. To Perli, the villain speaks freely: a tea kettle inside a braided money tree; a music box inside the kettle; a Chocolate Porcupine at the heart. His tenderness curdles to cruelty; Gneiss, unsensed, holds still and completes the secret.
+Two more shadowed encounters. To Sirrel, the villain speaks freely: a tea kettle inside a braided money tree; a music box inside the kettle; a Chocolate Porcupine at the heart. His tenderness curdles to cruelty; Gneiss, unsensed, holds still and completes the secret.
 
 ### 14. The Braided Money Tree — ~1,750 — Chase
 
@@ -114,4 +107,4 @@ A race to the hiding place as suspicion wakes above. Gneiss unbraids the money t
 
 ### 15. Severance — ~1,100 — Coda
 
-Somewhere he cannot see, unwitnessed, Ostrabawgewlus comes undone mid-sentence. Gneiss walks Perli up toward the heavens. The seventh sense never returns; he tells his followers it was the one he used least.
+Somewhere he cannot see, unwitnessed, Ostrabawgewlus comes undone mid-sentence. Gneiss walks Sirrel up toward the heavens. The seventh sense never returns; he tells his followers it was the one he used least.
