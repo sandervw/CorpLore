@@ -206,5 +206,16 @@ But when I came to an arch of purely carved marble, of one whole, smooth piece, 
 
 But then, I came to heaven one hundred and thirty four, where I was taken into prison by its constables, its mulchers, their reasoning of which I at present will say.
 
-## Chapter 4 - Of...
+## Chapter 4 - Of A Imprisonment
 
+**Detention:**
+
+
+
+*Start: Gneiss cubed in shatterproof crystal at heaven 134's frontier precinct. End: the charge read: casing the Capsule Vault. The Coat stays on his back, unnoticed. Invention slot: the precinct's shape, ancient-empire bone under office clutter. A precinct cat, one day missing, named in passing. Grounding - Wear: cube crystal clouded at nose height by generations of pressed faces. Human agency: someone still fills the missing cat's bronze dish at dawn.*
+
+**Alarum:**
+
+
+
+*Start: the charge read, the cube locked. End: word of comm wires chewed through to silence; the impossible debated, every down-stair sealed by old Words; twenty mulchers stand to stampers and cleavers, Chief Mulcher Morel Ulakhan steadying them with one oration. Invention slot: a NEW readiness rite of the precinct. Grounding - Procedural: stampers packed to a call, six dowels counted aloud per demon. Embodiment: a young mulcher's cleaver hand sweats; he wipes it on his oxford, twice.*
