@@ -204,15 +204,22 @@ But when I came to an arch of purely carved marble, of one whole, smooth piece, 
 
 **Arrest:**
 
-But then, I came to heaven one hundred and thirty four, where I was taken into prison by its constables, its mulchers, their reasoning of which I at present will say.
+But then, I came to heaven one hundred and thirty four, where I was taken into prison by its constables, its mulchers, their reasoning of which I at present will speak.
 
-## Chapter 4 - Of A Imprisonment
+---
+
+## Chapter 4 - Of A Gaol
 
 **Detention:**
 
+Into a compact cube they set me, one ovular curving wall of stones pallid, large, and well-mortised, with its flat south wall made of transparent - though in no way permeable - crystal, and a ring of iron a foot thick, around a circle door of iron, of which door a deadbolt was swiftly clunked. A mouse caught in a blue barrel of corn was I, with not even the reward of a comfortable pile of eatable gold to rest my footsore legs upon: no furnishings, hardly space for a stretch of a sore calf, and that upon a shale floor. I took of a solace that I had still about me my Coat, which, as any demon must know by now, is a Coat of Seven Senses: marvelous of a buttoning power, cursed, grey among Obelisk's eldest replicas. Consoled was I that no mulcher had mind to pull it from my back, and they laid hands on my arms and led me to this place - not that any mulcher should then have means of parting said Coat from my skin, and, moreover, only smally consoled was I, for a Coat of Seven Senses had power none against a strong cell.
+
+I stepped then up to the reinforced crystal - its surface smudged, a cloud just below my own nose, where noses of littler felons than Big Gneiss Rong had pressed against pane - and took stock of a mulcher barracks. Maybe fifteen cubes made a workspace for, perhaps, thirty five or forty mulcher demons and she-demon, with said cubes ranged in two concentric semicircles, my cell set I think in some thick wall of cells facing the cubes, and foot paths of round stone of mossy fur, running helter-skelter through this court's shag. Must cubes were not taller than two tall men, maybe, roofless of course, with plaster stone walls, cracked, and also here and there a bench of effigy wood under which paper leaves had piled. Beside one cube an iron tower of gears leaned, its frame blotchy with rust, its cogs creaking every few seconds as they tried and failed to turn. Outside another cube stood a statue of some surly goblin, some toad monster, half of my tallness, its warty pate stained white with bird deposits - and on two lower tusks jutting from a fat lower lip, some mulcher had hung his shoes by their laces. Heaven one hundred and thirty four was, as any demon of learning must know, oldest of Obelisk's heavens - though younger than any hell - being lowest of all heavens: its demons and she-demons lived atop of maybe seven, maybe nine, dead hierarchies.
 
 
-*Start: Gneiss cubed in shatterproof crystal at heaven 134's frontier precinct. End: the charge read: casing the Capsule Vault. The Coat stays on his back, unnoticed. Invention slot: the precinct's shape, ancient-empire bone under office clutter. A precinct cat, one day missing, named in passing. Grounding - Wear: cube crystal clouded at nose height by generations of pressed faces. Human agency: someone still fills the missing cat's bronze dish at dawn.*
+*A precinct cat, three days missing, named in passing, one of the mulchers is still fillings its bronze dish. (do a few dialog snippets)* 
+
+*End: the charge read: casing the Capsule Vault.*
 
 **Alarum:**
 
