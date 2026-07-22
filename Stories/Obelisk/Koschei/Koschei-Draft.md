@@ -214,15 +214,52 @@ But then, I came to heaven one hundred and thirty four, where I was taken into p
 
 Into a compact cube they set me, one ovular curving wall of stones pallid, large, and well-mortised, with its flat south wall made of transparent - though in no way permeable - crystal, and a ring of iron a foot thick, around a circle door of iron, of which door a deadbolt was swiftly clunked. A mouse caught in a blue barrel of corn was I, with not even the reward of a comfortable pile of eatable gold to rest my footsore legs upon: no furnishings, hardly space for a stretch of a sore calf, and that upon a shale floor. I took of a solace that I had still about me my Coat, which, as any demon must know by now, is a Coat of Seven Senses: marvelous of a buttoning power, cursed, grey among Obelisk's eldest replicas. Consoled was I that no mulcher had mind to pull it from my back, and they laid hands on my arms and led me to this place - not that any mulcher should then have means of parting said Coat from my skin, and, moreover, only smally consoled was I, for a Coat of Seven Senses had power none against a strong cell.
 
-I stepped then up to the reinforced crystal - its surface smudged, a cloud just below my own nose, where noses of littler felons than Big Gneiss Rong had pressed against pane - and took stock of a mulcher barracks. Maybe fifteen cubes made a workspace for, perhaps, thirty five or forty mulcher demons and she-demon, with said cubes ranged in two concentric semicircles, my cell set I think in some thick wall of cells facing the cubes, and foot paths of round stone of mossy fur, running helter-skelter through this court's shag. Must cubes were not taller than two tall men, maybe, roofless of course, with plaster stone walls, cracked, and also here and there a bench of effigy wood under which paper leaves had piled. Beside one cube an iron tower of gears leaned, its frame blotchy with rust, its cogs creaking every few seconds as they tried and failed to turn. Outside another cube stood a statue of some surly goblin, some toad monster, half of my tallness, its warty pate stained white with bird deposits - and on two lower tusks jutting from a fat lower lip, some mulcher had hung his shoes by their laces. Heaven one hundred and thirty four was, as any demon of learning must know, oldest of Obelisk's heavens - though younger than any hell - being lowest of all heavens: its demons and she-demons lived atop of maybe seven, maybe nine, dead hierarchies.
+I stepped then up to the reinforced crystal - its surface smudged, a cloud just below my own nose, where noses of littler felons than Big Gneiss Rong had pressed against pane - and took stock of a mulcher barracks. Maybe fifteen cubes made a workspace for, perhaps, thirty five or forty mulcher demons and she-demon, with said cubes ranged in two concentric semicircles, my cell set I think in some thick wall of cells facing the cubes, and foot paths of round stone of mossy fur, running helter-skelter through this court's shag. Must cubes were not taller than two tall men, maybe, roofless of course, with plaster stone walls, cracked, and also here and there a bench of effigy wood under which paper leaves had piled. Beside one cube an iron tower of gears leaned, its frame blotchy with rust, its cogs creaking every few seconds as they tried and failed to turn. Outside another cube stood a statue of some surly goblin, some toad monster, half of my tallness, its warty pate stained white with bird deposits - and on two lower tusks jutting from a fat lower lip, some mulcher had hung his shoes by their laces. To my cell's left, between two cubes, one Way went out, and some mulchers dead of many decades, or a guild of builders, for what can I know of any order that dwelt here in ages gone, had errected a short wall of packed, thick marble pillars.
 
+Heaven one hundred and thirty four was, as any demon of learning must know, oldest of Obelisk's heavens - though younger than any hell - being lowest of all heavens: its demons and she-demons lived atop of maybe seven histories.
 
-*A precinct cat, three days missing, named in passing, one of the mulchers is still fillings its bronze dish. (do a few dialog snippets)* 
+Eleven mulchers could I count then, among their cubes, though others must have worked in rotation. Two spoke nearby. My cell's thick pane deadened something of their talk: by a pressing of an ear against grainy cold crystal, I caught bits.
 
-*End: the charge read: casing the Capsule Vault.*
+"our fat cat. See how its bronze dish-"
+
+"-three days. Sunning herself below Pulex Major's-"
+
+"-with rationing?"
+
+"No. She's a good-"
+
+Then in long strides a demon of wide shoulders and a pate of black bucket hair came into my view. With his long legs he stepped briskly up to me, a scribbler's board clasped in his ruddy hand, a wooden badge painted with three sharp teeth pinned upon his mundane coat's breast pocket, by which symbol I knew him to be a law dog of some senior rank. I smiled. Heartily. He frowned, and from his scribbler's board read to me, "Gneiss Rong, of a heaven not of my knowing, you are now found wanting and creeping after a Replica, one of Obelisk's Replicas, which of its own is not a crime - however being that your wanting is of a Replica which sits truthfully inside of a capsule vault, heaven one hundred and thirty four's capsule vault, and being that to covet this is a crime for any Good demon, you are suspected a Bad demon, and shall be detained here until your Goodness or Badness be proved, or a fine of fit pennies be levied and paid, or until a virgin butterfly should make a wish of your release. I am of a name First Mulcher Iternle Dovich: have you minded me well?"
+
+I shook the stones of my throat, setting over its apple a fist, before speaking in my littlest hoarse voice, "I cannot hear." Then I shook head, tapped the glass, tapped my ear, smiled of a helpless smile.
+
+"Hmmm, I hear you, Gneiss - but perhaps this cell is a midge of one-direction in matters of sound. Your complaint isn't a first. I suppose that demon laws demand I reread your sentencing: let us try both to mind of these words, yes? GNEISS RONG, OF A HEAVEN NOT-"
 
 **Alarum:**
 
+Louder yet than Mulcher Dovich's shouting though - which had in some way braced the ears of the other mulchers about their yard, who turned to look and listen - came a wail of a throat artificial, and a burst of luminous crimson. Under the rusted gear tower, on a little  tube poking from the ground like a water pump, a Lamp Mouth shone with his fierce red light of danger, raising his cry.
+
+Braced as they were, yet each mulcher seemed still hesitant, until one roared in a voice of a lion, "WHO FIRED OUR TOCSIN?"
+
+"SOMBODY, FOR A LOVE OF A KEY TO A CHASTE MAID'S GIRDLE, MUFFLE IT."
+
+"IT'S ONE OF THOSE DITZ SHE-DEMONS WHICH WORK OVER IN YESTERYEAR OR RATIONING, WHO SHALL BET ME A PIPE ON IT?"
+
+At last a mulcher with ginger chops emerged from one cube carrying a gag made of leather and a tail of a horse, and bound it around their Lamp Mouth so as to muffle its wail, though there was yet a shine of red.
+
+"Who's raised false alarm?" asked one short mulcher, poking as he did a finger into one of his big earlobes, and twisting sunwise and widdershins. With his other he pointed. "Was it you, Aybul?"
+
+Red Sideburns, Mulcher Aybul, raised a palm. "Listen now, I raised no false alarm, but did pull our Lamp Mouth's nerve because that I cannot in any way reach out to other heavens' voices, either to speak or listen."
 
 
-*Start: the charge read, the cube locked. End: word of comm wires chewed through to silence; the impossible debated, every down-stair sealed by old Words; twenty mulchers stand to stampers and cleavers, Chief Mulcher Morel Ulakhan steadying them with one oration. Invention slot: a NEW readiness rite of the precinct. Grounding - Procedural: stampers packed to a call, six dowels counted aloud per demon. Embodiment: a young mulcher's cleaver hand sweats; he wipes it on his oxford, twice.*
+
+Says it isn't false, the rivers of ligjtning and copper, which run between the heavens, are dry, there are no voices from the others
+
+They debate the cause, the boss steps silently into scene at first
+
+One finally suggests that creatures electric have drank all the lightning and cleaved the copper
+
+Another says the way to hells is shut, silence follows
+
+Ulakhan finally s
+
+*End: word of comm wires chewed through to silence; the impossible debated, every down-stair sealed by old Words; twenty mulchers stand to stampers and cleavers, Chief Mulcher Morel Ulakhan steadying them with one oration. Invention slot: a NEW readiness rite of the precinct. Grounding - Procedural: stampers packed to a call, six dowels counted aloud per demon. Embodiment: a young mulcher's cleaver hand sweats; he wipes it on his oxford, twice.*
