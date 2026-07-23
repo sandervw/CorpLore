@@ -246,20 +246,44 @@ Braced as they were, yet each mulcher seemed still hesitant, until one roared in
 
 At last a mulcher with ginger chops emerged from one cube carrying a gag made of leather and a tail of a horse, and bound it around their Lamp Mouth so as to muffle its wail, though there was yet a shine of red.
 
-"Who's raised false alarm?" asked one short mulcher, poking as he did a finger into one of his big earlobes, and twisting sunwise and widdershins. With his other he pointed. "Was it you, Aybul?"
+"Who's raised false alarm?" asked one mulcher, poking as he did a finger into one of his big earlobes, and twisting sunwise and widdershins. With his other he pointed. "Was it you, Aybul?"
 
 Red Sideburns, Mulcher Aybul, raised a palm. "Listen now, I raised no false alarm, but did pull our Lamp Mouth's nerve because that I cannot in any way reach out to other heavens' voices, either to speak or listen."
 
+Jaws slackened, ears perked. Meanwhiles I saw another dog of law come down a cobble path between two cubes, and join silently his pack's gathered ring. (Which ring, incidentally, had taken shape so near of my cell that I scarce need press my face near any cold window.) Behind his demon and and she-demon fellows I could not see this new dog's face, for his head rose not over their shoulder blades, yet his dress I saw in a glance: a puffy shirt of midnight blue like his fellows, this one with gold trim cuffs and collar, golden epaulets too, a red sash slanting from right shoulder to left hip, and over his breast a mulcher's badge, this one made of rosewood, and instead of fangs, two painted lizards, one white and one puce, with their tails tied together. His pants were belly-high and white, his black boots dazzled.
 
+"What mean you?" asked one mulcher finally.
 
-Says it isn't false, the rivers of ligjtning and copper, which run between the heavens, are dry, there are no voices from the others
+"I say," spoke on M. Aybul slowly, "that no river of copper and lightning, rivers which crackle between our thirty four, and thirty five, and even a little beyond, carrying demon speech - that no such river crackles now: they are cracked, voiceless beds."
 
-They debate the cause, the boss steps silently into scene at first
+"Of a folly," spoke one she-demon, yawning, and rubbing of one eye. "You forgot to twist your trumpet crank, or else called wrongly: scabies plague you for stealing my dreams."
 
-One finally suggests that creatures electric have drank all the lightning and cleaved the copper
+"Are you half stupid AND half blind, Seaslesc?" Retorded M. Aybul - which abuse was suited, as M. Seaslesc lacked of a second eye, a patch with a sunflower hiding its empty socket. "Go and learn then: listen at your cube's copper trumpet, try calling your cousin, your sweet auntie who 'needs you every leisure's eve'. See if aught answers."
 
-Another says the way to hells is shut, silence follows
+"What then," broke in another with haste, "can dam or parch those rivers, and for why, and of when?"
 
-Ulakhan finally s
+"Could it've been Thirty-Seven's triads?"
 
-*End: word of comm wires chewed through to silence; the impossible debated, every down-stair sealed by old Words; twenty mulchers stand to stampers and cleavers, Chief Mulcher Morel Ulakhan steadying them with one oration. Invention slot: a NEW readiness rite of the precinct. Grounding - Procedural: stampers packed to a call, six dowels counted aloud per demon. Embodiment: a young mulcher's cleaver hand sweats; he wipes it on his oxford, twice.*
+"Where there's smoke," spoke First Mulcher Dovich in a sober tone. "Wheevils, we know, love to taste copper lightning on their long tongues: it seems to me most likely that Creatures Electric, come from a Hell, have gnawed our rivers, drunk their waters."
+
+Spoke a meager mulcher, "But all roads of down-going are shut, for Magic has made it so that no step in any Good realm drops past Thirty Four, and only one lift had we which travelled down, broken for these last six years, and left broken, with good reason!"
+
+Another says the way to hells is shut with magic, no step or lift goes of that way, silence follows
+
+Ulakhan finally speaks
+- let not a struggle find us of an ease
+- by a blessing of our Boss, x, lord of a Green Rod, executive master of all orders and guilds and teams dwelling between heavens thirty four through nine, i implor you, my soldiers, my mulchers, shield of all heavens from hells, arm thyselves.
+
+One mulcher gives affirmation, names chief Ulakhan
+
+Therewith a mighty cabinet, maybe ten paces wide, waiting under a shadow of a cube wall, was opened. Ulakhan stands, knuckles on hipbones, gives instruction. Forty cleavers gleaming. Twenrty stampers X. Two boxes of gleaming gas bottles. Thirty mulchers gathered round. Every mulcher, take a cleaver. Every other, take a stamper, and three gas bottles.
+
+Embodiment: a young mulcher's cleaver hand sweats; he wipes it on his oxford, twice.
+
+**Battle:**
+
+Thereafter gneiss cannot hear the orders, but orders must there haven been, for the mulchers split into groups
+
+For many minutes they whispered to one another, twenty mulchers standing at the marble wall i could see, the rest presumable guarding smaller gates, or else having sallied out. This speech waned tidewise, a brief flood of whispers, then silence, with over all the silence gaining, until gneiss could only know, with his ean exposed beachhead of silent, ready dogs
+
+*Start:* the line set at three thresholds. *End:* first wave broken against ready dogs - wheevils in dozens, Red Apes, one Jurasik; specific wounds, the line bending, holding; Gneiss halloos encouragement through his crystal, ignored. A mulcher's flat coda: wheevils come in thousands, not dozens, and should not be here at all. Grounding - Quantification: the Jurasik takes eleven dowels before it turns. Particularity: one Red Ape comes on knuckles wrapped in a dead sentry's necktie.

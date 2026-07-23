@@ -73,6 +73,7 @@ Gneiss, bound below, is detained at heaven 134's frontier precinct for casing th
 ### 5. The Capsule Vault — ~3,000 — Wonder
 
 The vault by keychain torch, pager-glow, one outlaw laser lamp: a brick tower-top ringed by void, marble plinths, narrow steps down past niches, one copy of every retired replica. Pounding on the steel doors is the clock. A wandering light finds the Axe; Gneiss pitches arming the room; Ulakhan refuses - retired is retired. The doors give; Gneiss buttons the Coat, walks the niche-steps unseen, and a floating Axe atomizes the first wave. He unbuttons holding it, and keeps it. A replica heat-crossbow welds the doors; the growl nears; the mulchers press Ulakhan, who capitulates through a loophole of his own writ. Arming montage: Excalibur, Stormbringer, Mjölnir, Crown of the Lich, Foe-Hammer that wakes cold blue when Creatures near (plant). Gneiss's plan: not out but down, through the first hell and up the Creatures' own stair - down being where he was always going (*subtext*).
+- texture - when they first enter, one mulcher finds a penny
 
 Note: rework ch 1-2 so Gneiss arrives unarmed - cut ch 2's closing Axe beat; the map-as-weapon line stands alone.
 - *And Claude - stop reminding me to do this until we get to this chapter, you're being a nag*
