@@ -268,22 +268,20 @@ Jaws slackened, ears perked. Meanwhiles I saw another dog of law come down a cob
 
 Spoke a meager mulcher, "But all roads of down-going are shut, for Magic has made it so that no step in any Good realm drops past Thirty Four, and only one lift had we which travelled down, broken for these last six years, and left broken, with good reason!"
 
-Another says the way to hells is shut with magic, no step or lift goes of that way, silence follows
+Then all stopped their tongues, but not their thoughts, until after a moment their gathering parted, and he of short height, gold epaulets, and shiny boots, stepped into their center.
 
-Ulakhan finally speaks
-- let not a struggle find us of an ease
-- by a blessing of our Boss, x, lord of a Green Rod, executive master of all orders and guilds and teams dwelling between heavens thirty four through nine, i implor you, my soldiers, my mulchers, shield of all heavens from hells, arm thyselves.
+Spoke F. M. Dovich, of voice sound a trifle weary, "Chief Mulcher Morel Ulakhan, you move to give of a bidding: we await."
 
-One mulcher gives affirmation, names chief Ulakhan
+"Let not Struggle find us of an ease," spoke Chief Mulcher Ulakhan, placing as he did one hand to his pocket, and at first he faced away from his dogs, toward me, so that I saw his eyes were closed, his expression solemn, his features were ruddy, round, and unhaired - a boy's face. "By a blessing of our Boss, Lord Mynoot of a Green Rod, Executive Master, leader of all orders, guilds, and teams, which dwell betwixt heavens thirty four through nine, I implore you, my soldiers, my mulchers, shield of all heavens from all hells: arm ye."
 
-Therewith a mighty cabinet, maybe ten paces wide, waiting under a shadow of a cube wall, was opened. Ulakhan stands, knuckles on hipbones, gives instruction. Forty cleavers gleaming. Twenrty stampers X. Two boxes of gleaming gas bottles. Thirty mulchers gathered round. Every mulcher, take a cleaver. Every other, take a stamper, and three gas bottles.
+Then all as one mulchers drifted away from me, out of reach of my ear. They gathered around a mighty cabinet, maybe ten paces wide it was, waiting under a shadow of a cube, and with key in hand F. M. Dovich released a heavy locking bolt, flung left a rolling iron barn door, and revealed all. Spoke Chief Ulakhan, knuckles on his hips, "Steady on, one orderly file, as we have drilled. Take stock our side of a balance: forty cleavers gleaming, twenty long stampers, two full crates of gleaming gas bottles - thirty Good demons gathered. Each mulcher, take your cleaver. Each other, take a stamper, and three gas bottles. Each with his or her stamper, load a first bottle with great care - I grant thee of a single test shot, upon my signal. All ready?"
 
-Embodiment: a young mulcher's cleaver hand sweats; he wipes it on his oxford, twice.
+With a burst of a wood whistle, and fifteen spring-loaded snaps, fifteen stampers spat, from their barrels, fifteen arm-and-a-half long cylinders - fifteen arms turned fifteen cranks so that fifteen lead tongues withdrew. One young she-demon hand, sweaty, slipped. She started over.
 
 **Battle:**
 
-Thereafter gneiss cannot hear the orders, but orders must there haven been, for the mulchers split into groups
+Thereafter I misheard or heard not-at-all of their orders: orders must there have been, with thirty mulchers splitting into units, one large group of twenty, chief hound among them, and two or maybe three smaller, which latter moved out of my seeing along a path around of their cubes' backsides. I presumed any smaller unit had gone to guard petty gates of their barracks, or else, sallied out. Twenty, however, remained. For many minutes they spoke words unclear, between themselves, twenty mulchers, their leader with them, standing behind their low wall of pillared marble. Their prating waned tidewise, however: a brief surge as one served a jest, retreat into whispers, repeated, whispers prevailing gradually over speech, silence prevailing over whispers - until I could only know, with my eyes, an exposed beachhead. A tense kennel.
 
-For many minutes they whispered to one another, twenty mulchers standing at the marble wall i could see, the rest presumable guarding smaller gates, or else having sallied out. This speech waned tidewise, a brief flood of whispers, then silence, with over all the silence gaining, until gneiss could only know, with his ean exposed beachhead of silent, ready dogs
+
 
 *Start:* the line set at three thresholds. *End:* first wave broken against ready dogs - wheevils in dozens, Red Apes, one Jurasik; specific wounds, the line bending, holding; Gneiss halloos encouragement through his crystal, ignored. A mulcher's flat coda: wheevils come in thousands, not dozens, and should not be here at all. Grounding - Quantification: the Jurasik takes eleven dowels before it turns. Particularity: one Red Ape comes on knuckles wrapped in a dead sentry's necktie.
