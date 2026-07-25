@@ -276,12 +276,30 @@ Spoke F. M. Dovich, of voice sound a trifle weary, "Chief Mulcher Morel Ulakhan,
 
 Then all as one mulchers drifted away from me, out of reach of my ear. They gathered around a mighty cabinet, maybe ten paces wide it was, waiting under a shadow of a cube, and with key in hand F. M. Dovich released a heavy locking bolt, flung left a rolling iron barn door, and revealed all. Spoke Chief Ulakhan, knuckles on his hips, "Steady on, one orderly file, as we have drilled. Take stock our side of a balance: forty cleavers gleaming, twenty long stampers, two full crates of gleaming gas bottles - thirty Good demons gathered. Each mulcher, take your cleaver. Each other, take a stamper, and three gas bottles. Each with his or her stamper, load a first bottle with great care - I grant thee of a single test shot, upon my signal. All ready?"
 
-With a burst of a wood whistle, and fifteen spring-loaded snaps, fifteen stampers spat, from their barrels, fifteen arm-and-a-half long cylinders - fifteen arms turned fifteen cranks so that fifteen lead tongues withdrew. One young she-demon hand, sweaty, slipped. She started over.
+With a burst of a wood whistle, and fifteen hissing CRACKs, fifteen stampers spat, from their barrels, fifteen arm-and-a-half long cylinders - fifteen arms drew back fifteen bolts so that fifteen lead tongues withdrew. One young she-demon hand, sweaty, slipped. She started over.
 
 **Battle:**
 
 Thereafter I misheard or heard not-at-all of their orders: orders must there have been, with thirty mulchers splitting into units, one large group of twenty, chief hound among them, and two or maybe three smaller, which latter moved out of my seeing along a path around of their cubes' backsides. I presumed any smaller unit had gone to guard petty gates of their barracks, or else, sallied out. Twenty, however, remained. For many minutes they spoke words unclear, between themselves, twenty mulchers, their leader with them, standing behind their low wall of pillared marble. Their prating waned tidewise, however: a brief surge as one served a jest, retreat into whispers, repeated, whispers prevailing gradually over speech, silence prevailing over whispers - until I could only know, with my eyes, an exposed beachhead. A tense kennel.
 
+A sound swelled, at first seeming only to be a ringing of my ear's drum, soon taking unique aural shape. Chirring, loud enough to push into my cell. Mulchers raised their stamper barrels, setting barrels atop their low wall of marble pillars, and those without hoisted cleavers high: ten thick blades gleaming in sun tubes.
 
+**TODO - present tense for action**
 
-*Start:* the line set at three thresholds. *End:* first wave broken against ready dogs - wheevils in dozens, Red Apes, one Jurasik; specific wounds, the line bending, holding; Gneiss halloos encouragement through his crystal, ignored. A mulcher's flat coda: wheevils come in thousands, not dozens, and should not be here at all. Grounding - Quantification: the Jurasik takes eleven dowels before it turns. Particularity: one Red Ape comes on knuckles wrapped in a dead sentry's necktie.
+They fly into view: wheevils. Twiggy birds' legs launch round furry bodies easily over the barrier, dropping then behind mulcher lines, short claws already grasping for mulcher skin. One raises its pink snout, long ears folded back, showing its flat white teeth, and squeals. Dozens. Dozens of biting vermin, half-a-demon tall, which is good height for a stamper's punch: three wheevils, one after another, fly backward, stamped, punched with a lead rod, tumbling and thudding over the trodden shag, trailing red.
+
+More vermin mount the wall. A mulcher on the left give space, stepping back. Her chief shouts, "Nay, be fixed. Stay to our wall - thy lives hang. These Creatures are flesh: though they be electric-born, they bleed." Another wheevil leaps atop the pillars, thrusts its whiskers forward, shrieking: a stamper smashes its face flat, teeth exploding left and right, its body flying backward. F. M. Dovich hacks another's bird legs off, then backhands with his cleaver's tang. CRACKCRACKCRACK: mulchers trigger their stampers in unison, withdraw, reset, let their fellows step in, swinging, haymaker hewing, then switch again, repeat. A viscera confetti.
+
+Now rise into my seeing beyond that marble wall three pink glowing forms that I know, demon-shaped, but taller, and nearer to apes than demons - Red Apes. One mulcher calls, "Beware! Large-" That mulcher has made an error, for Red Apes hate all which speaks English, and at once the three have flung themselves over wall, landed behind line, and converged. One carries a torn sleeve - a prior prey - unconsciously in its jaw. They pluck and fling: lips, tongue, ear, arm, intestines, flying like crimson comets.
+
+TODO
+- Three red apes then rise over the wll, one mulcher calls them out, and they congregate on him, tearing limb from limb, throwing arms and legs, the line breaks; one Red Ape comes on knuckles wrapped in a dead sentry's necktie
+	- mulcher slips on a white button mushroom in the
+- Turns from a line into a battlefield
+- Blood, gore, punching stampers, Gneiss sees bodies flying and splattering against walls, shouting from his cell, trying to kick at the door; describe specific mulcher wounds
+	- one red ape bites a stamper's gas bottle - it explodes
+	- red ape scalp whirls across the air, in a galaxy of spinning brains
+- Three mulchers surround Ulakhan, he rallies them
+- Then all at once it's over, all the wheevils and the three apes are dead
+- Mulchers breathing heavily
+- A mulcher's flat coda: wheevils come in thousands, not dozens, and should not be here at all.
