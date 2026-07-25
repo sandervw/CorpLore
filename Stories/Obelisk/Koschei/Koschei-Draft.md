@@ -290,12 +290,11 @@ They fly into view: wheevils. Twiggy birds' legs launch round furry bodies easil
 
 More vermin mount the wall. A mulcher on the left give space, stepping back. Her chief shouts, "Nay, be fixed. Stay to our wall - thy lives hang. These Creatures are flesh: though they be electric-born, they bleed." Another wheevil leaps atop the pillars, thrusts its whiskers forward, shrieking: a stamper smashes its face flat, teeth exploding left and right, its body flying backward. F. M. Dovich hacks another's bird legs off, then backhands with his cleaver's tang. CRACKCRACKCRACK: mulchers trigger their stampers in unison, withdraw, reset, let their fellows step in, swinging, haymaker hewing, then switch again, repeat. A viscera confetti.
 
-Now rise into my seeing beyond that marble wall three pink glowing forms that I know, demon-shaped, but taller, and nearer to apes than demons - Red Apes. One mulcher calls, "Beware! Large-" That mulcher has made an error, for Red Apes hate all which speaks English, and at once the three have flung themselves over wall, landed behind line, and converged. One carries a torn sleeve - a prior prey - unconsciously in its jaw. They pluck and fling: lips, tongue, ear, arm, intestines, flying like crimson comets.
+Now rise into my seeing beyond that marble wall three pink glowing forms that I know, demon-shaped, but taller, and nearer to apes than demons - Red Apes. One mulcher calls, "Beware! Large-" That mulcher has made an error, for Red Apes hate all which speaks English, and at once the three have flung themselves over wall, landed behind line, and converged. One carries a torn sleeve - a prior prey - unconsciously in its jaw. They pluck and fling: lips, tongue, ear, arm, intestines, flying like crimson comets. 
+
+One dog howls, and five break from the wall, attacking the Apes: one slips on a white button mushroom growing out of their barracks shag. A line becomes a skirmish, mulchers hacking and hewing of their cleavers. 
 
 TODO
-- Three red apes then rise over the wll, one mulcher calls them out, and they congregate on him, tearing limb from limb, throwing arms and legs, the line breaks; one Red Ape comes on knuckles wrapped in a dead sentry's necktie
-	- mulcher slips on a white button mushroom in the
-- Turns from a line into a battlefield
 - Blood, gore, punching stampers, Gneiss sees bodies flying and splattering against walls, shouting from his cell, trying to kick at the door; describe specific mulcher wounds
 	- one red ape bites a stamper's gas bottle - it explodes
 	- red ape scalp whirls across the air, in a galaxy of spinning brains
