@@ -292,13 +292,17 @@ More vermin mount the wall. A mulcher on the left give space, stepping back. Her
 
 Now rise into my seeing beyond that marble wall three pink glowing forms that I know, demon-shaped, but taller, and nearer to apes than demons - Red Apes. One mulcher calls, "Beware! Large-" That mulcher has made an error, for Red Apes hate all which speaks English, and at once the three have flung themselves over wall, landed behind line, and converged. One carries a torn sleeve - a prior prey - unconsciously in its jaw. They pluck and fling: lips, tongue, ear, arm, intestines, flying like crimson comets. 
 
-One dog howls, and five break from the wall, attacking the Apes: one slips on a white button mushroom growing out of their barracks shag. A line becomes a skirmish, mulchers hacking and hewing of their cleavers. 
+One dog howls, and five break from the wall, attacking the Apes: one slips on a white button mushroom growing out of their barracks shag. A line becomes a skirmish, mulchers hacking and hewing of their cleavers. A red ape has its skin of glossy plastic cracked, a tongue of a stamper smashing its spine, throwing it onto a pair of wheevils with such a force that they are knocked of their footing, and a mulcher, Seaslesc, makes with her cleaver an act of chopping wood, making of the wheevils gibbets. One Red Ape lunges at a tattooed hand of a mulcher, bites, and snaps its teeth around a stamper handle, which stamper's bottle of gas then explodes, a mushroom of thunder and smoke that shakes of my cell's crystal pane and rings my ear. Well set am I of a place to heed all: air humid of blood, boots slick of gore, gas bottle fire burns white up a spine of a wheevil, its scream a woody tremolo of a song of shouting, dog demons surround Creatures Electric, and cut and kick and pull of their stamper levers - and sometimes, a demon or she-demon is caught alone, cut off, surrounded by biting wheevils whose teeth of square cut chop skin and crack bone as easily as might a jaw of a real dog.
+
+I in no wise wait of a result, patient, unbiased: as any demon of my state should, I wish of a demon victory, mulcher dogs though they be. I kick my door at odds, and shout now, "You of a blonde ponytail, that strike landed fine - strike so again, to your left now, for heed, that mottle-furred beast owns a fiercely big mouth," and shout otherwhiles, "By a blessing of a Boss of Ten-Fifty-Six! Look all of you at how that Ape's scalp spins midst air, a galaxy of stringy brains, and mark it an omen, potent as an angry Mars, that you make good war. You, ignore that clawing of your cheek: it's just pain."
 
 TODO
-- Blood, gore, punching stampers, Gneiss sees bodies flying and splattering against walls, shouting from his cell, trying to kick at the door; describe specific mulcher wounds
-	- one red ape bites a stamper's gas bottle - it explodes
-	- red ape scalp whirls across the air, in a galaxy of spinning brains
-- Three mulchers surround Ulakhan, he rallies them
-- Then all at once it's over, all the wheevils and the three apes are dead
-- Mulchers breathing heavily
+- Three mulchers surround Ulakhan, his own clever dripping, he rallies them
+	- each that is alone find a brother or sister alike.
+	- be not if a lonely rock battered mid ocean by ocean storms, form no team of less than four
+	- of a will, gather by me
+- Then all at once of battle there is an End.
+- all the wheevils and the three apes are dead, so are four mulchers, and others have, of their puffy shirts, torn cloth, wetly blushing of an ichor not their foe's, and some are boken of a rib or eyesocket.
+- all Mulchers breathing heavily
+- gneiss looks over bodies, bangs on a crystal, only makes a bruising of his hand's hammerhead
 - A mulcher's flat coda: wheevils come in thousands, not dozens, and should not be here at all.
