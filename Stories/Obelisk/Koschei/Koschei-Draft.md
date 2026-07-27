@@ -284,25 +284,51 @@ Thereafter I misheard or heard not-at-all of their orders: orders must there hav
 
 A sound swelled, at first seeming only to be a ringing of my ear's drum, soon taking unique aural shape. Chirring, loud enough to push into my cell. Mulchers raised their stamper barrels, setting barrels atop their low wall of marble pillars, and those without hoisted cleavers high: ten thick blades gleaming in sun tubes.
 
-**TODO - present tense for action**
+*They fly into view: wheevils. Twiggy birds' legs launch round furry bodies easily over the barrier, dropping then behind mulcher lines, short claws already grasping for mulcher skin. One raises its pink snout, long ears folded back, showing its flat white teeth, and squeals. Dozens. Dozens of biting vermin, half-a-demon tall, which is good height for a stamper's punch: three wheevils, one after another, fly backward, stamped, punched with a lead rod, tumbling and thudding over the trodden shag, trailing red.*
 
-They fly into view: wheevils. Twiggy birds' legs launch round furry bodies easily over the barrier, dropping then behind mulcher lines, short claws already grasping for mulcher skin. One raises its pink snout, long ears folded back, showing its flat white teeth, and squeals. Dozens. Dozens of biting vermin, half-a-demon tall, which is good height for a stamper's punch: three wheevils, one after another, fly backward, stamped, punched with a lead rod, tumbling and thudding over the trodden shag, trailing red.
+*More vermin mount the wall. A mulcher on the left give space, stepping back. Her chief shouts, "Nay, be fixed. Stay to our wall - thy lives hang. These Creatures are flesh: though they be electric-born, they bleed." Another wheevil leaps atop the pillars, thrusts its whiskers forward, shrieking: a stamper smashes its face flat, teeth exploding left and right, its body flying backward. F. M. Dovich hacks another's bird legs off, then backhands with his cleaver's tang. CRACKCRACKCRACK: mulchers trigger their stampers in unison, withdraw, reset, let their fellows step in, swinging, haymaker hewing, then switch again, repeat. A viscera confetti.*
 
-More vermin mount the wall. A mulcher on the left give space, stepping back. Her chief shouts, "Nay, be fixed. Stay to our wall - thy lives hang. These Creatures are flesh: though they be electric-born, they bleed." Another wheevil leaps atop the pillars, thrusts its whiskers forward, shrieking: a stamper smashes its face flat, teeth exploding left and right, its body flying backward. F. M. Dovich hacks another's bird legs off, then backhands with his cleaver's tang. CRACKCRACKCRACK: mulchers trigger their stampers in unison, withdraw, reset, let their fellows step in, swinging, haymaker hewing, then switch again, repeat. A viscera confetti.
+*Now rise into my seeing beyond that marble wall three pink glowing forms that I know, demon-shaped, but taller, and nearer to apes than demons - Red Apes. One mulcher calls, "Beware! Large-" That mulcher has made an error, for Red Apes hate all which speaks English, and at once the three have flung themselves over wall, landed behind line, and converged. One carries a torn sleeve - a prior prey - unconsciously in its jaw. They pluck and fling: lips, tongue, ear, arm, intestines, flying like crimson comets.* 
 
-Now rise into my seeing beyond that marble wall three pink glowing forms that I know, demon-shaped, but taller, and nearer to apes than demons - Red Apes. One mulcher calls, "Beware! Large-" That mulcher has made an error, for Red Apes hate all which speaks English, and at once the three have flung themselves over wall, landed behind line, and converged. One carries a torn sleeve - a prior prey - unconsciously in its jaw. They pluck and fling: lips, tongue, ear, arm, intestines, flying like crimson comets. 
+*One dog howls, and five break from the wall, attacking the Apes: one slips on a white button mushroom growing out of their barracks shag. A line becomes a skirmish, mulchers hacking and hewing of their cleavers. A red ape has its skin of glossy plastic cracked, a tongue of a stamper smashing its spine, throwing it onto a pair of wheevils with such a force that they are knocked of their footing, and a mulcher, Seaslesc, makes with her cleaver an act of chopping wood, making of the wheevils gibbets. One Red Ape lunges at a tattooed hand of a mulcher, bites, and snaps its teeth around a stamper handle, which stamper's bottle of gas then explodes, a mushroom of thunder and smoke that shakes of my cell's crystal pane and rings my ear. Well set am I of a place to heed all: air humid of blood, boots slick of gore, gas bottle fire burns white up a spine of a wheevil, its scream a woody tremolo of a song of shouting, dog demons surround Creatures Electric, and cut and kick and pull of their stamper levers - and sometimes, a demon or she-demon is caught alone, cut off, surrounded by biting wheevils whose teeth of square cut chop skin and crack bone as easily as might a jaw of a real dog.*
 
-One dog howls, and five break from the wall, attacking the Apes: one slips on a white button mushroom growing out of their barracks shag. A line becomes a skirmish, mulchers hacking and hewing of their cleavers. A red ape has its skin of glossy plastic cracked, a tongue of a stamper smashing its spine, throwing it onto a pair of wheevils with such a force that they are knocked of their footing, and a mulcher, Seaslesc, makes with her cleaver an act of chopping wood, making of the wheevils gibbets. One Red Ape lunges at a tattooed hand of a mulcher, bites, and snaps its teeth around a stamper handle, which stamper's bottle of gas then explodes, a mushroom of thunder and smoke that shakes of my cell's crystal pane and rings my ear. Well set am I of a place to heed all: air humid of blood, boots slick of gore, gas bottle fire burns white up a spine of a wheevil, its scream a woody tremolo of a song of shouting, dog demons surround Creatures Electric, and cut and kick and pull of their stamper levers - and sometimes, a demon or she-demon is caught alone, cut off, surrounded by biting wheevils whose teeth of square cut chop skin and crack bone as easily as might a jaw of a real dog.
+*I in no wise wait of a result, patient, unbiased: as any demon of my state should, I wish of a demon victory, mulcher dogs though they be. I kick my door at odds, and shout now, "You of a blonde ponytail, that strike landed fine - strike so again, to your left now, for heed, that mottle-furred beast owns a fiercely big mouth," and shout otherwhiles, "By a blessing of a Boss of Ten-Fifty-Six! Look all of you at how that Ape's scalp spins midst air, a galaxy of stringy brains, and mark it an omen, potent as an angry Mars, that you make good war. You, ignore that clawing of your cheek: it's just pain."*
 
-I in no wise wait of a result, patient, unbiased: as any demon of my state should, I wish of a demon victory, mulcher dogs though they be. I kick my door at odds, and shout now, "You of a blonde ponytail, that strike landed fine - strike so again, to your left now, for heed, that mottle-furred beast owns a fiercely big mouth," and shout otherwhiles, "By a blessing of a Boss of Ten-Fifty-Six! Look all of you at how that Ape's scalp spins midst air, a galaxy of stringy brains, and mark it an omen, potent as an angry Mars, that you make good war. You, ignore that clawing of your cheek: it's just pain."
+*Three mulchers I see now make guard of their Chief Ulakhan, whose own cleaver drips, and he at once, though heavy of lung, shouts to rally, "Each that is alone, find a lonely brother or a sister. Be not as a rock battered mid-ocean by each ocean wave and ocean storm: form no team of less than four. Of a will, gather on me." Which shouting any mulcher wares more of than my own, for obvious reasons.*
 
-TODO
-- Three mulchers surround Ulakhan, his own clever dripping, he rallies them
-	- each that is alone find a brother or sister alike.
-	- be not if a lonely rock battered mid ocean by ocean storms, form no team of less than four
-	- of a will, gather by me
-- Then all at once of battle there is an End.
-- all the wheevils and the three apes are dead, so are four mulchers, and others have, of their puffy shirts, torn cloth, wetly blushing of an ichor not their foe's, and some are boken of a rib or eyesocket.
-- all Mulchers breathing heavily
-- gneiss looks over bodies, bangs on a crystal, only makes a bruising of his hand's hammerhead
-- A mulcher's flat coda: wheevils come in thousands, not dozens, and should not be here at all.
+*Then abruptly all battle is of an End.*
+
+All Creatures Electric that were within my sight - wheevils of five dozen at least, three Red Apes - litter a barracks. Amidst such pulp lie motionless bodies of four mulchers, and others, still moving with heaving breath, show torn cloth and loose threads of their puffy shirts, with such cloth wetly blushing of an ichor not of their foes, and some mulchers are broken of a rib, or finger, or otherwise maybe of an eyesocket.
+
+Well noting all such slaying, I banged on a crystal, but must have made little noise, or any mulcher was too stunned yet to answer, with result that I only made a bruising my hand's hammer. 
+
+Then saw I one demon's lips moving, and pressed a fresh side of my face to a pane. Spoke a demon's faint voice, "Wheevils attack in thousands, however, not some few dozens such as this - and moreover, should be sealed still under our feet. How come they here?"
+
+---
+
+**Parley:**
+
+With two blades of my shoulders relaxed glumly against a curving stone wall - shades by an umbra of my prison - I watched as bodies of wheevils and of three Red Apes were heaped, stacked beside firewood, by half a dozen mulchers, just on a left side of their road barrier of marble.
+- beside said pile, a stable with some draft goats, and stalls for two big carts, but onlu one cart was in there now.
+- The four dead mulchers have been laid out with more respect beneath the lattice-shadow of the gear tower; one of the bodies had to be 'arranged', the rest were mostly whole
+
+Gneiss starts humming, "La dah, lah di dah, lah di dah,", a song of a story of..., but stops with his tongue half-cocked, for he sees F. M. Dovich now walks back up to the cell, this time with ulakhan beside him
+- Dovich places his hand next to Ulakhan's ear, concealing his mouth, Ulakhan frowns
+
+Their formality is gone when they reach Gneiss
+- Dovich places a speaking trumpet against the crystal, and asks Gneiss where he comes from, and what he's doing here
+- Gneiss tells them he came from "fifty four" = something of a gamble, since he doesn't know what their relaitonship is with 254 or 154
+- Dovich asks again, why he's here
+- Gneiss rubs his bristles, thinking of the two demons who came before, wondering how they got down, and if they left the oven door open
+- Ulakhan takes the trumpet, and warns him not to lie
+
+Gneiss makes a lie at first - he says he wanted to volunteer to protect all demons from what is below
+- ulakhan, sly, says he timed his coming suspicously well, suggests that gneiss had something to do with opening a way below, inviting in creatures
+
+Gneiss rubs his chin again, shrugs, admits the laser axe (which isnt of a whole true, as any demon must see, but is better than saying why he came down)
+- confesses a wish to steal one replica, the Gatling Laser Axe of a yellowed catalogue page, which looked *sick*.
+
+Dovich perks up a bit, says he's heard of that replica, but that he didn't know it was stored in their vault
+- Gneiss gets excited, starts saying the catalogue priced the Axe at auction only, bidding long closed - then catches himself
+
+*End:* Ulakhan delivers his verdict, tapping the glass, and smiling knowingly: "Keep the knife sheathed, but close."
