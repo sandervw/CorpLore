@@ -308,27 +308,27 @@ Then saw I one demon's lips moving, and pressed a fresh side of my face to a pan
 
 **Parley:**
 
-With two blades of my shoulders relaxed glumly against a curving stone wall - shades by an umbra of my prison - I watched as bodies of wheevils and of three Red Apes were heaped, stacked beside firewood, by half a dozen mulchers, just on a left side of their road barrier of marble.
-- beside said pile, a stable with some draft goats, and stalls for two big carts, but onlu one cart was in there now.
-- The four dead mulchers have been laid out with more respect beneath the lattice-shadow of the gear tower; one of the bodies had to be 'arranged', the rest were mostly whole
+With two blades of my shoulders relaxed glumly against a curving stone wall - shades by an umbra of my prison - I watched as bodies of wheevils and of three Red Apes were heaped, stacked beside firewood, by half a dozen mulchers, just on a left side of their road barrier of marble. Beside of piled Creature bodies stood a small stable: roof of cracked tiles, yard where some draft goats grazed, stalls for two big carts, one cart waiting in its stall just then. Probably both carts, hitched to some goats, carried usually rations, firewood, broken chairs, new chairs, whatever a mulcher has need to haul: after today and tomorrow's service, both would surely need of a washing. A way off of dead wheevils and dead Red Apes, four dead mulchers had been laid with more respect beneath lattice shadows of a barracks' gear tower: one body had called of much assembly, but all other were of mostly one big piece.
 
-Gneiss starts humming, "La dah, lah di dah, lah di dah,", a song of a story of..., but stops with his tongue half-cocked, for he sees F. M. Dovich now walks back up to the cell, this time with ulakhan beside him
-- Dovich places his hand next to Ulakhan's ear, concealing his mouth, Ulakhan frowns
+Naught else doing, I began to hum, "La dah, lah di dah, LAH di dah," a song of a story of two best friends, Goldan and Kinetik, who join of a same time a guild of bounty demons, and hunt river monsters along Obelisk Great Arme. I stopped, tongue half-cocked, for I saw a mulcher, F. M. Dovich, now walking back  in a direction of my prison, this time with his Chief Ulakhan beside. As they walked, Dovich put his hand up beside his chief's ear, leaning so that from eye his mouth was hidden by his palm. Ulakhan frowned.
 
-Their formality is gone when they reach Gneiss
-- Dovich places a speaking trumpet against the crystal, and asks Gneiss where he comes from, and what he's doing here
-- Gneiss tells them he came from "fifty four" = something of a gamble, since he doesn't know what their relaitonship is with 254 or 154
-- Dovich asks again, why he's here
-- Gneiss rubs his bristles, thinking of the two demons who came before, wondering how they got down, and if they left the oven door open
-- Ulakhan takes the trumpet, and warns him not to lie
+At a front of my cell they turned their eyes over to me, and I heaved up from my back wall and stepped forward - not with much effect of cheer in my mouth or eyes, both mulchers having upon their features a sober look of discouragement. At once F. M. Dovich spoke, "Where are you from, Gneiss Rong, and why are you here, inside a realm of our thirty four?" Immediately after speaking he turned his face away of me, and held a speaking trumpet between my cell's crystal and his right ear, with the broad end open to me.
 
-Gneiss makes a lie at first - he says he wanted to volunteer to protect all demons from what is below
-- ulakhan, sly, says he timed his coming suspicously well, suggests that gneiss had something to do with opening a way below, inviting in creatures
+Spoke I, "Fifty four. Well, of a candor, I mean of such speech to be something ambiguous, for I know not of politics between this and fifty-fourth plane."
 
-Gneiss rubs his chin again, shrugs, admits the laser axe (which isnt of a whole true, as any demon must see, but is better than saying why he came down)
-- confesses a wish to steal one replica, the Gatling Laser Axe of a yellowed catalogue page, which looked *sick*.
+"Why, here?"
 
-Dovich perks up a bit, says he's heard of that replica, but that he didn't know it was stored in their vault
-- Gneiss gets excited, starts saying the catalogue priced the Axe at auction only, bidding long closed - then catches himself
 
-*End:* Ulakhan delivers his verdict, tapping the glass, and smiling knowingly: "Keep the knife sheathed, but close."
+- *Gneiss rubs his bristles, thinking of the two demons who came before, wondering how they got down, and if they left the oven door open*
+- *Ulakhan takes the trumpet, and warns him not to lie*
+
+*Gneiss makes a lie at first - he says he wanted to volunteer to protect all demons from what is below*
+- *ulakhan, sly, says he timed his coming suspicously well, suggests that gneiss had something to do with opening a way below, inviting in creatures*
+
+*Gneiss rubs his chin again, shrugs, admits the laser axe (which isnt of a whole true, as any demon must see, but is better than saying why he came down)*
+- *confesses a wish to steal one replica, the Gatling Laser Axe of a yellowed catalogue page, which looked sick.*
+
+*Dovich perks up a bit, says he's heard of that replica, but that he didn't know it was stored in their vault*
+- *Gneiss gets excited, starts saying the catalogue priced the Axe at auction only, bidding long closed - then catches himself*
+
+*End: Ulakhan delivers his verdict, tapping the glass, and smiling knowingly: "Keep the knife sheathed, but close."*
