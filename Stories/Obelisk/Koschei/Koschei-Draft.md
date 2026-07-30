@@ -318,17 +318,19 @@ Spoke I, "Fifty four. Well, of a candor, I mean of such speech to be something a
 
 "Why, here?"
 
+With a left index finger and a thumb I made a bowl for chin, and squeezed, thinking now of those two tillager demons who had made quest of Sirrel before I knew of her taking - wondering now how Myoot and Kallus had gotten by of a mulcher's order, entered those hells where any woodland turns leafless and gnarled, all rivers are of wasp's venom, and no sun or moon tube turns at a regular hour. Truly must they have climbed an outer space of Obelisk's heavens, or, more likely, cracked a seal of a door of this realm - and they had maybe left open an oven door.
 
-- *Gneiss rubs his bristles, thinking of the two demons who came before, wondering how they got down, and if they left the oven door open*
-- *Ulakhan takes the trumpet, and warns him not to lie*
+Chief Ualkhan liked illy of my mulling, took from his first mutt their trumpet, set it to his lips, and spoke, "Lie not, you burglar. Although I have no knowing of a reason exact that thou came skulking by Quailer's Lane, strolling over many smooth stones that line an upper rise of a north side of Quailer's, still my soldiers found you with body crouched, concealing yourself from view, shifting now and then between large stones, and always with your eyes spying at our old capsule vault. Just so thou were caught, when plainly thou thought thyself obscure by Qualier's fog, vapormode, not knowing my patrol saw."
 
-*Gneiss makes a lie at first - he says he wanted to volunteer to protect all demons from what is below*
-- *ulakhan, sly, says he timed his coming suspicously well, suggests that gneiss had something to do with opening a way below, inviting in creatures*
+"To volunteer," spoke I. "Said you yourself that I was of a spying eye, a truth missing context, for my eye would I lend to Good. Much of rumor flies  high, high above this realm, of Creatures Electric from Obelisks hells: swine with faces of men, a great jelly that devours whole boroughs, a tumorous forest of mushrooms that eats its ways through solid iron, an immortal and collosal centipede that only fears fire, assassin wasps, a reptilian-embryo-tadpole creature which send demons a dream to come to its lair on a far island where it devours them, ghosts, and elves, and Sirius knows what."
+
+*Gneiss to protect all demons from what is below (give specific random made-up monster names)*
+- *ulakhan, sly, says he timed his coming suspicously well (at a stroke of midnight), suggests that gneiss had something to do with opening a danker ward, maybe rubbing over runes with fish fat, inviting in creatures*
 
 *Gneiss rubs his chin again, shrugs, admits the laser axe (which isnt of a whole true, as any demon must see, but is better than saying why he came down)*
 - *confesses a wish to steal one replica, the Gatling Laser Axe of a yellowed catalogue page, which looked sick.*
 
-*Dovich perks up a bit, says he's heard of that replica, but that he didn't know it was stored in their vault*
-- *Gneiss gets excited, starts saying the catalogue priced the Axe at auction only, bidding long closed - then catches himself*
+*Dovich perks up a bit, says he's heard of that replica, not any ordinary X, or X, some replica of a hunded iteratiins, re-released every year, but that he didn't know it was stored in their vault*
+- *Gneiss gets excited, starts saying the catalogue priced the Axe at auction only, and that first the bidding started at maybe 1200 CUs, but of course now bidding long closed - then catches himself*
 
 *End: Ulakhan delivers his verdict, tapping the glass, and smiling knowingly: "Keep the knife sheathed, but close."*
