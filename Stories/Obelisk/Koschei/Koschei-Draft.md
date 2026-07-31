@@ -322,15 +322,36 @@ With a left index finger and a thumb I made a bowl for chin, and squeezed, think
 
 Chief Ualkhan liked illy of my mulling, took from his first mutt their trumpet, set it to his lips, and spoke, "Lie not, you burglar. Although I have no knowing of a reason exact that thou came skulking by Quailer's Lane, strolling over many smooth stones that line an upper rise of a north side of Quailer's, still my soldiers found you with body crouched, concealing yourself from view, shifting now and then between large stones, and always with your eyes spying at our old capsule vault. Just so thou were caught, when plainly thou thought thyself obscure by Qualier's fog, vapormode, not knowing my patrol saw."
 
-"To volunteer," spoke I. "Said you yourself that I was of a spying eye, a truth missing context, for my eye would I lend to Good. Much of rumor flies  high, high above this realm, of Creatures Electric from Obelisks hells: swine with faces of men, a great jelly that devours whole boroughs, a tumorous forest of mushrooms that eats its ways through solid iron, an immortal and collosal centipede that only fears fire, assassin wasps, a reptilian-embryo-tadpole creature which send demons a dream to come to its lair on a far island where it devours them, ghosts, and elves, and Sirius knows what."
+"To volunteer," spoke I. "Said you yourself that I was of a spying eye, a truth missing context, for my eye would I lend to Good. Much of rumor flies  high, high above this realm, of Creatures Electric from Obelisks hells: swine with faces of men, a great jelly that devours whole boroughs, a tumorous forest of mushrooms that eats its ways through solid iron, an immortal and colossal centipede which fears only fire, assassin wasps, a reptilian-embryo-tadpole creature which send demons a dream to come to its lair on a far island where it devours them, ghosts, rattlesnakes, and Saturn knows what. See, I am big of limb: set me loose on some foes - cousins of those beasts you just cut, maybe - and give me fighting leave."
 
-*Gneiss to protect all demons from what is below (give specific random made-up monster names)*
-- *ulakhan, sly, says he timed his coming suspicously well (at a stroke of midnight), suggests that gneiss had something to do with opening a danker ward, maybe rubbing over runes with fish fat, inviting in creatures*
+"Admirable," spoke the chief dog: his squint made the speaking seem to me not frank.
 
-*Gneiss rubs his chin again, shrugs, admits the laser axe (which isnt of a whole true, as any demon must see, but is better than saying why he came down)*
-- *confesses a wish to steal one replica, the Gatling Laser Axe of a yellowed catalogue page, which looked sick.*
+"I know too of my way around a projectile, or of swinging good a heavy pole."
 
-*Dovich perks up a bit, says he's heard of that replica, not any ordinary X, or X, some replica of a hunded iteratiins, re-released every year, but that he didn't know it was stored in their vault*
-- *Gneiss gets excited, starts saying the catalogue priced the Axe at auction only, and that first the bidding started at maybe 1200 CUs, but of course now bidding long closed - then catches himself*
+"Given such battle skill, thy coming at a stroke of midnight seems *most* fortunate. Perhaps a circumstance, whereby Creatures were given a route into our heaven, and thou appeared in a simultaneous hour, was arranged? I am of a thought that, by thy hand, some mighty runes which sealed a few dangerous stairs were rubbed over, greased in unclean fish fat - magic shields broken."
 
-*End: Ulakhan delivers his verdict, tapping the glass, and smiling knowingly: "Keep the knife sheathed, but close."*
+Rubbing of my chin once more, I finally made a shrug, and spoke, "I did also have a wish to see one of an Obelisk replica, an item shown of me in passing by a cubeless demon who I met in a shrine of Saint Sylvur of Diamond-on-Moore - he showed a yellow and dry page of an old Obelisk catalogue, with an era written in a corner that was of an era when Thirty Four made a chief export of new minted replicas, and the page had also a sepia image of a Gatling Laster Axe, which, no better way of saying, looked Sick." 
+
+"I know that one," said F. M. Dovich. "A Gatling Laser Axe is no ordinary Pulse Beacon, or Amulet of a King, or common Lightsaber, some replica of a hundred moulds, peddled every new age, but made only in one age of eld - but I knew not that A Gatling Laser Axe abode of our own vault."
+
+I spoke, "No price ever declared itself, that I could see on a yellowed catalogue page, nor hear rumor of: A Gatling Laser Axe was an auction only replica, and a first bidding begin at maybe twelve hundred of CUs, any bid of course now of a moot-"
+
+I caught my tongue and rubbed two curves in both corners of my mouth. Chief Ulakhan, however, leaned in closer of their horn, stretched one hand first, tapped a prison crystal, smiled more genuine of eye at me, and spoke, "a Mighty weapon thou would make of thyself, carrying such an artifact, in arms of no smallness. A sharp knife of Good, eh? Well a mulcher's duty is to keep of all his knives sheathed, but close."
+
+**Omen:**
+
+
+
+*Lead mulchers stop speaking, look around, snuff*
+
+*gneiss sees another in the background, wave his hand, accuse another of passing gas, other guy says its the bodies, reminds him of uncles tannery*
+
+*Gneiss the smells it, even in his cell, not a tannery, a flensing beach*
+
+*F m dovich shakes head, starts to speak again with nose pinched*
+
+*Interrupted by the growl, they all hear it, lights shudder, look up, look around, stunned, no one else knows*
+
+*Gneiss says it once, but they don't hear him, but they see his lips move, so they both press ears to the cone*
+
+*...a butler, like gandalf in moria*
