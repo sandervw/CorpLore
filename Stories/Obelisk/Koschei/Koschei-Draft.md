@@ -1,5 +1,10 @@
 # Koschei
 
+## FUTURE EDITS
+
+
+Have claude replace the, this, and that (not singular noun forms of latter), with a or an, don't worry about readability, but let me know if it would break proper engkish grammar
+
 ## Chapter 1 - Of A Crayon
 
 **Arrival:**
@@ -336,22 +341,56 @@ Rubbing of my chin once more, I finally made a shrug, and spoke, "I did also hav
 
 I spoke, "No price ever declared itself, that I could see on a yellowed catalogue page, nor hear rumor of: A Gatling Laser Axe was an auction only replica, and a first bidding begin at maybe twelve hundred of CUs, any bid of course now of a moot-"
 
-I caught my tongue and rubbed two curves in both corners of my mouth. Chief Ulakhan, however, leaned in closer of their horn, stretched one hand first, tapped a prison crystal, smiled more genuine of eye at me, and spoke, "a Mighty weapon thou would make of thyself, carrying such an artifact, in arms of no smallness. A sharp knife of Good, eh? Well a mulcher's duty is to keep of all his knives sheathed, but close."
+I caught my tongue, and with my fingers rubbed down two curves in both corners of my mouth. Chief Ulakhan however leaned in near of their horn, stretched one hand, tapped a prison crystal, smiled more genuine of eye at me, and spoke, "a Mighty weapon thou would make of thyself, carrying such an artifact, in arms of no smallness. A sharp knife of Good, eh? Well of a mulcher's duties, one is to keep a sharp knife sheathed, but close."
 
 **Omen:**
 
+He loosed his jaw to speak more: instead he spoke not at all, his boyish face of prim nose and two round eyes scrunching with wrinkles as he snuffed of some gas of his side of my cell's clear glazing. Of a background I saw an omen similar, as another mulcher, of a pair hailing some wheevil bits, stood, raised his arm, wagged it, and screwed a shrew's face on his partner in undertaking. "Must you cut of a tangy cheese this moment?" he shouted.
 
+"I didn't," protested his partner. "More sure is that a meat of these beasts creates a potent musk, and moreover I tell you this: it reminds me of an uncle's tannery, where of a fifteenth birthday my father sent me to learn of cutting leather for chairs - but planets aligned! did that job reek."
 
-*Lead mulchers stop speaking, look around, snuff*
+I too then sniffed of a Mighty stink, yes, even piercing a quartz of a thousand plies, and it stunk not of a tannery, not to my nose's mind: what I smelled imagined for me one of some beaches any demon might see if he visit of a two hundred and fifteenth heaven, along a shore of Lake Eezi, where most beaches are of a purpose of flensing Eezi's humungous native fish - a Mighty stink of rotting whales.
 
-*gneiss sees another in the background, wave his hand, accuse another of passing gas, other guy says its the bodies, reminds him of uncles tannery*
+F. M. Dovich wagged his head, and pinching his nose with one thumb and forefinger, and taking one handhold of their cone, spoke, "Gneiss Rong, have you maybe any of brother or sister demons in our realm, or else have you ever listen of a voice on a river of copper lightning, that said it came from here: have you in short any one that you did mind to liaise when-"
 
-*Gneiss the smells it, even in his cell, not a tannery, a flensing beach*
+Again came disruption, this time neither passable, nor in a form of scent. Many sun tubes, glowing midday yellow above on heaven's roof, all at once shuddered, strobing dim then bright, a same effect as when a dense conspiracy wings above, but no birds flew at that moment. Moreover and of a same instant came an orphic grumble, a lightning bolt voicing its thunder in a small space of an animal cave. All number of mulchers in their barrack's space looked up, twisted their eyes left, right, around, up, their eyes and mouths goggling dumb: even a face of their chief gaped. Their knowing was, I knew, a goose's egg.
 
-*F m dovich shakes head, starts to speak again with nose pinched*
+I then spoke, two words, no debate in my ow mind as of a meaning, when all of such Omens did abound - yet I spoke too much maybe in a voice of a mewling kitten, for no mulcher got my voice. Both mulchers Dovich and Ulakhan did see that I made some motion of lips, however, also a cast of my face, and pressed their ears together to their hearing horn. So I leaned near and spoke again.
 
-*Interrupted by the growl, they all hear it, lights shudder, look up, look around, stunned, no one else knows*
+"A Butler."
 
-*Gneiss says it once, but they don't hear him, but they see his lips move, so they both press ears to the cone*
+**Rout:**
 
-*...a butler, like gandalf in moria*
+Now within a passed time since their battle, some mulchers had raised a larger barrier against their low wall of marble pillar, constructing it from odd bits of scrap and damaged furnishing: splintery or cracked old cube panels, dented metal drawer chests, a Boss's throne of redwood upholstered in red felt and one missing leg, a winter lightning box for stealing from meat or drink its heat and keeping it this, and across a former opening of their marble wall, acting as door, a weighty table of shining pale grey wood cut of some timbers of a vulture tree.
+
+Now those two words I spoke, "A Butler," did not float much of a space, before another sound, of a banging and holler, claimed notice. All eyes turned to a barricade, clamoring of its opposite side - not clamoring like more Creatures, not yet, only with blows of two fists, maybe a foot, and a voice hysteric, speaking, "Give entry, let me inside!"
+
+"Who goes?" spoke a mulcher nearest of their barrier.
+
+"Jermayn, is that you? It is Joiyuss Dustman, back from our chow run at Rationing, without chow or even cart, indeed alone, for I am last and only of us who is left alive. But give entry now, I hear them!"
+
+Of a moment many mulchers looked between themselves, debating if they should let in their fellow dog, at the risk of letting in more than a dog, or if they should leave him - until their chief spoke, "Pull that table back, now without delay." Then was every near man quick to grab a leg of their old council table, and drag it scraping away from their barrier.
+
+A mulcher - blonde and braided and long of hair, not young but hairless of cheek, a puffy black vest over his chest showing many a rip, from which holes downy goose feather floated - squeezed in. He stumbled, dazed of eye, and for some norn's whim of luck his eyes fell on me. Only of an instant, 
+
+*Joiyuss Dustman enters with the horde on his heels*
+- *the precinct overrun*
+- just as they go to push door back, wheevils start roadrunning in
+- mulchers grab stampers, cleavers, start a killing
+- joiyuss trying to help push table
+- the steel bull clipclops, then appears, smashing through
+- mulchets scatter, some run for weapons, others just ryn, chaos, bull gores on
+- gneiss pounding on crystal
+
+*Joiyuss unlocks the cube too late for the Coat, both exits crowded*
+- Joiyuss sees gneiss again, hold up ringer, ducks under a leaping wheevil
+- *scrabbles a felled key tree; then runs back to gneiss, zigzagging across battlefield, gneiss shouting encouragements (specific); the third card turns the lock.*
+
+*All flee the south hall, the vault's patterned steel doors shut behind.*
+- *Rearguard names spent freely.*
+- joiyuss and gneiss cut off, have to hack a way through
+- gneiss notices a metal wheel table, tells  joiyiss to get in the undershelf, pushes for running start
+- *Gneiss leaps on a roller-cart, Joiyuss underneath, rolls down row of wheevils, hacking left and right*
+
+They regoup with mulchers in post gate, hidden behind houses, run for the hall
+- joiyuss says none left alive in commons
