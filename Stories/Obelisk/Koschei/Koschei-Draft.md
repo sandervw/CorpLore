@@ -371,26 +371,25 @@ Now those two words I spoke, "A Butler," did not float much of a space, before a
 
 Of a moment many mulchers looked between themselves, debating if they should let in their fellow dog, at the risk of letting in more than a dog, or if they should leave him - until their chief spoke, "Pull that table back, now without delay." Then was every near man quick to grab a leg of their old council table, and drag it scraping away from their barrier.
 
-A mulcher - blonde and braided and long of hair, not young but hairless of cheek, a puffy black vest over his chest showing many a rip, from which holes downy goose feather floated - squeezed in. He stumbled, dazed of eye, and for some norn's whim of luck his eyes fell on me. Only of an instant, 
+A mulcher - blonde and braided and long of hair, not young but hairless of cheek, a puffy black vest over his chest showing many a rip, from which holes downy goose feather floated - squeezed in. He stumbled, dazed of eye, and for some norn's whim of luck his eyes fell on me. Only of an instant, for of another, despite of a few mulchers' swift lifting of their table, came wheevils. Three after two after one they sprang over withdrawn table, or else sprinting in after Joiyuss Dustman. Four mulchers dropped their table, despite of orders yeleld by their chief, who with his first mulcher had dropped their speaking trumpet and run to aid, two dozen mulchers of a fact having run to aid now, grabbing for cleavers and stampers again, for all knew of a peril. So set off a Killing. Two mulchers chopped a wheevil to its giblets, then another, then two, three, four more of wheevils flew over their table gate. Newcomer Joiyuss, Ulakhan, three or four others, all ran abreast of its thick wooden legs - while their mates dueled with an ignress of leaping and biting wheevils - and sweated, heaved, nudging and skidding it back into their barrier, sealing of a gap. They looked nigh of it too.
 
-*Joiyuss Dustman enters with the horde on his heels*
-- *the precinct overrun*
-- just as they go to push door back, wheevils start roadrunning in
-- mulchers grab stampers, cleavers, start a killing
-- joiyuss trying to help push table
-- the steel bull clipclops, then appears, smashing through
-- mulchets scatter, some run for weapons, others just ryn, chaos, bull gores on
-- gneiss pounding on crystal
+Tremors of a drumbeat rhythm rattled my teeth then, passing in through my hands, pressed against quivering crystal, soundless at first they were, or else not of a hearing sound about the hue of battle and intervening prison walls - my sight told, at first, of mulchers now glancing at their barricade, of even some wheevils turning their pink noses and whiskers, of Chief Ulakhan and Joiyuss and four others falling away of their heavy council table. Then my hearing also told: clop Clop, clop Clop, Clop CLOP.
 
-*Joiyuss unlocks the cube too late for the Coat, both exits crowded*
-- Joiyuss sees gneiss again, hold up ringer, ducks under a leaping wheevil
-- *scrabbles a felled key tree; then runs back to gneiss, zigzagging across battlefield, gneiss shouting encouragements (specific); the third card turns the lock.*
+It blew through in a shower of impact, splinters of vulture wood flying, making heavy council table seem made of frog slime and matchsticks. It was a Jurasik: Creature Electric, of a shape of a marsh yak, minus of a marsh yak's hair, larger, with an Electric hide of grated iron, each step of its iron hooves an anvil dropped. One of a first few of these booming metal steps landed not upon turf: it came down upon a mulcher, who had tripped over a wheevil's severed legs when backing off of their table, and this mulcher's grey old head, caught under hoof, burst - a mashed watermelon.
+
+All of tactic went out of a mulcher company then, each demon or she-demon now acting just on impulse of nature, some to reach at once for a stamper and cleaver leaning against a wall maybe, meeting wheevils as they sped in behind a squealing, thumping jurasik, and other mulchers obeying their own instinct by turning tailbone, running across their court, slipping into an alley of two cubes here, or crawling swiftly under a deck's crawlspace: even their Chief Dog, Ulakhan of an upward chin, only stammered of a moment, looking first toward stomping jurasik, then to his locker of armaments, then to an alley where some of his pack had fled. Bedlam. Of a simultaneity I beat a hammer of my hand upon reinforced crystal wall, yelling, "You demons, leave me not locked, to die of a safe starvation," and like pleas for naught, for no mulcher it seemed would pay me any mind, while still more wheevils poured in. Two of my captors ran right by my window, a score of wheevils chasing them, and I danced along beside until I reached my chamber's limit, pounding, and only a wheevil or maybe two even spared a vermin eye, and then returned to their route.
+
+Any demon of a little thinking must see plain that I escaped, or at least found ways not to starve, or he would not be hearing of my own story told in my own way, hearing someone else's story, or else hearing mine in another demon's voice, and it end here - of a plain speaking, I lived. A mulcher, Joiyuss, he that came in with creatures behind, happened again to catch me with his eye as he hacked limbs from a wheevil blocking his escape. As I banged of my crystal he shook a moment of confusion from his face, blonde braid wagging, and held up a finger. He turned, ducked now under another wheevil at spring at his face, ran at a dwarfish tree made of iron, rooted under an eave of a cube where hung a board sign of one word, 'Kikinasntaykinnaymz', a meaningless piece of decor, but said iron tree held upon its branches maybe forty or fifty cards of platinum or bronze metal, each dangling from its leather thong. Mulcher Joiyuss yanked free from tree a good armload of keys that were there - by no means all of them, somewhat of an angst to me - and turned, zigging and zagging my way through a mixed skirmish.
+
+- gneiss shouting encouragements (specific, By Venus!); the third card turns the lock.
 
 *All flee the south hall, the vault's patterned steel doors shut behind.*
 - *Rearguard names spent freely.*
+- running pasr offices
 - joiyuss and gneiss cut off, have to hack a way through
 - gneiss notices a metal wheel table, tells  joiyiss to get in the undershelf, pushes for running start
 - *Gneiss leaps on a roller-cart, Joiyuss underneath, rolls down row of wheevils, hacking left and right*
+- kikinasntaykinnaymz
 
 They regoup with mulchers in post gate, hidden behind houses, run for the hall
 - joiyuss says none left alive in commons
