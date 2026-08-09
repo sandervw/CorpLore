@@ -88,7 +88,7 @@ The march through the first hell: ankle-deep water too blue, pink bodies reflect
 
 ### 7. The Buzzing Furnace — ~2,200 — Violence
 
-Air thick as sludge, humid, packed with clouds of midges. The first guardian names its price — Gneiss's sense of smell. Gneiss kills it instead, then blasts the Frontschwein, a humanoid pig, free of the glue pits.
+Air thick as sludge, humid, packed with clouds of cicadas, whacking face, buzzing. The first guardian names its price — Gneiss's sense of smell. Gneiss kills it instead, then blasts the Frontschwein, a humanoid pig, free of the glue pits.
 - Area infested by *Elvz* - ("elves"; a new type of creature electric; think gremlins; new take on normally-benevolent fantasy creature)
 
 ### 8. Withazz of the Landing — ~1,500 — Parley
