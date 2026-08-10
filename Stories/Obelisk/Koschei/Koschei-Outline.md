@@ -54,7 +54,7 @@ Time-compressed descent through the heavens: a day's walk and a timeless Lift, a
 
 ### 4. Upon 134 — ~3,000 — Violence
 
-*For chapters 4-6, see @C:\Users\Sander\OneDrive\Documents\Github\Notes\CorpLore\Stories\Obelisk\The-Gatling-Laser-Axe\The-Gatling-Laser-Axe.md*
+*For chapters 4-6, see @C:\Users\Sander\Documents\Github\Notes\CorpLore\Stories\Obelisk\The-Gatling-Laser-Axe\The-Gatling-Laser-Axe.md*
 
 Gneiss, bound below, is detained at heaven 134's frontier precinct for casing the Capsule Vault, and held in a cube of shatterproof crystal. A wave of attacking Creatures Electric breaks against twenty ready mulchers - stampers and cleavers, Chief Mulcher Morel Ulakhan the steady hand - while Gneiss shouts from his cube. Questioned, he keeps Sirrel off his tongue (*subtext*) and confesses that he wished to steal an Obelisk replica: the Gatling Laser Axe, which he thought looked *sick*. Then shuddering lights, a flensing-beach reek, a growl no mulcher knows; Gneiss names it like Gandalf in Moria - "a Butler". Joiyuss Dustman, last of a destroyed ration patrol, brings the horde on his heels; the precinct is overrun; Joiyuss unlocks Gneiss too late for the Coat, both exits crowded. All flee the south hall into the vault; the doors shut behind.
 

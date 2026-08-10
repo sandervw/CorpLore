@@ -11,9 +11,7 @@
       "Bash(git *)",
       "Bash(cat)",
       "Read(//tmp/**)",
-      "Read(//c//**)",
-      "PowerShell(python Output\\\\sample_grounding.py 3; python Output\\\\sample_grounding.py 99 | Measure-Object -Line)",
-      "PowerShell(python \"C:\\\\Users\\\\Sander\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\C--Users-Sander-OneDrive-Documents-Github-Notes-CorpLore\\\\67c7c0ea-8347-4e43-b941-5f97fb7fe168\\\\scratchpad\\\\reformat_scenes.py\")"
+      "Read(//c//**)"
     ]
   }
 }
