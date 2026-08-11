@@ -9,8 +9,6 @@ Possibly: replace 'ous' with 'ious' - IE. "Barbarous" > "Barbarious"? Setting-sp
 
 ## Chapter 1 - Of A Crayon
 
-**Arrival:**
-
 I climbed to two hundred and fifty third heaven, a heaven of mushrooms, of millet, of tillagers, of much eating, and of little bother, very early. A shine of dawn hugged Obelisk on its tall east face. I came to Warm's Route, however, and Warm's Route is over seven miles from dawn glimpsing, on Obelisk's west cheek, and both cheeks are bigly windowed, in thick, clear crystal: maybe one hundred big demon's feet tall these windows are, and such awesome windows are glass on a dead bulb, in west dawn's umbra.
 
 Of a mind to lay eyes on Sirrel, a she-demon I well know, I came: Sirrel is a tillager of two hundred and fifty third heaven, which does not make her alike to the usual lambs and ewes that are most tillagers, or any demon who lives in a safe upper heaven, say, any heaven above one hundred and fifty. A worn carpet leads to Sirrel. Down Warm's Route it goes all the way, from a timeless elevator, to a marble coffee altar, where a worship of demons prays to a chalice of ancient grounds. I came down this carpet road, skirted the tillagers' dawn rite - they are jesters, giving each dawn a 'free tax' of their mushrooms to their floor's Mulcher department, much of a folly! - and knocked, a tall window's grey and dry darklight against my spine, on the door of Sirrel's cube.
@@ -19,15 +17,11 @@ I learned she was gone.
 
 ---
 
-**Discovery:**
-
 *In Arrears.*
 
 Two words of a crayon of indigo color only were they, which curved in learned letters on that crystal window across from Sirrel's cube - but though I, had read only lightly the books and papers of occult, still I turned my sight from such written wax. Hard were they of reading anyway, at that hour, words of a blue tint against dawn of a blue tint, and even so had I seen them, and even had I not, surely the stink in that air outside of Sirrel's cube - of fresh mown field grass, with something of dung mingling - must have gossiped to my brain, and spoke to it: "These are Words of a Mighty Danger." Nigromancy.
 
 "Ostrabawgewlus," spoke I, with furrowed down-looking, and laving my chin with a broad hand, "might it well be that you have a far reaching ear. Your pen's shape is a secret from the knowing of a modern lay-demon, one unstudied in the lords of Obelisk past: I am studied. I have read *Vampires of a White Pinhole sky*, your opus you claimed in its introduction, and of a truth, for being 175 years old, that treatise still defines modern astrology. Well, I might guess rightly your signiture, and might you hear me, and might it be you took Sirrel: know you then that I, Gneiss Rong of a soubriquet 'Big', shall blast you to ashes, no matter-"
-
-**Parley:**
 
 "Fool," spoke a voice. "You should keep that name off of your tongue, or would you with wareless threatening bring that old demon spell lord's pain down on all of our skulls?"
 
@@ -46,8 +40,6 @@ As I turned to look at Mulcher Brayve, standing by the door of Sirrel's cube, hi
 "Of a brass tacks," spoke I. I strode over to where M.s Brayve and Laym stood, and laid my hand, fingers splayed, on a coarse red brick of Sirrel's cube, it's outwall, so that a musculus in my reararm was overt, even under the fat wool of my Coat. "I know his scrawl, Ostrab-"
 
 "ZZZZZ." Both mulchers in unison sizzed.
-
-**Argument:**
 
 I smiled, which as a demon knows is hard through mashing ivories, and spoke again, "Those two words come again and again from history: Lord Wispurus's scaffold embargo, Nancing's of Yellow Ledgers, those decades dozen when golden teeth were much in want, any hour when different heavens warred, all ages of gain. 'In arrears' is 'plunder' of ordinary speech, any un-Mighty word, any age past or now. Sirrel is his plunder: and Sirrel is of fifty three also, whose mulchers protect, goes my mind, their demons and she-demons."
 
@@ -75,8 +67,6 @@ To resume, M. Layme now named those two strong demon: "Myoot and Kallus. Blind. 
 
 I only smiled again, not so much of a forced way, spoke nothing, and took myself back to the crystal window. Behind me one of mulchers Brayve and Laym, I say not which, for I cared not to capture in my memory their voices, spoke, "He'll eat that Long Lunch."
 
-**Personal:**
-
 I meanwhile looked directly on the two words on the pane, *In Arrears*, of a wax of rarest qualities: sharp for thin letters, deeply blue, potent of a spellcasting way. As I looked, heeding not Ostrabawgewlus's senses, though I might certainly have hidden myself from any of senses, there came into the tall crystal window a figure, demon-sized, wearing a coat of wool copying of my own in style, though his was honeybee yellow: he veiled his space of window as only watered-down paint might, so that I yet saw Obelisk's garden terraces beyond him, and *In Arrears* running across his naval. A wraith. Still, he moved, and spoke.
 
 "What is this?" spoke the demon, snapping a finger, though his flatness on the plane stopped his gesture from threatening my nose. "Sirius, or Mars, do align again me, to drag me always away from my labors. Cursed of one garb is this bearcat before my sight now, and perhaps not asking of a double fate: yet a star at day watches free from its chartless angle, and may not be averted. So, demon, hear you now a Seeming of Withazz, though it must be of briefer stock."
@@ -89,8 +79,6 @@ I meanwhile looked directly on the two words on the pane, *In Arrears*, of a wax
 
 ## Chapter 2 - Of A Map
 
-**Arrival:**
-
 Coming under an arch of bricks greened with moss, I passed into a rusted courtyard, a machine of scratching lead onto paper, a machine of pulling up such deep roots as olive trees grow, two fat lips of a laundry mangle, odd lamps with broken bulbs, and a little iron statue of a cock, and twenty other oddments, all of metal, and with a calico of rust. Condensation rust. It never rains in Obelisk. Of all this I had understanding: this cube was until recently made a storing space for the borough, until a Boss had resettled into it his tillagers, Myoot and Kallus. As farthest cube down the row, always last touched by any hand of a sweepers and wipers guildsdemon, so that ages of Shift's End effort had accreted to make of this cube a ruin.
 
 Snakes slithered through unmown shag as I strode inside this court and bellow through cupped fingers two names of Myoot and Kallus, for I knew not which had been given this cube, which a cube of sun-bleached pine wood and broken chairs I had spotted adjacent.
@@ -98,8 +86,6 @@ Snakes slithered through unmown shag as I strode inside this court and bellow th
 A she-demon appeared. She come from a corner chamber of the cube lot I had not seen - cobes are always of a larger space within, I think - wore over an ample chest a plain blouse of shamrock color, fraying of hem, and had for a name 'Plecent'. She was a wife of Myoot, soon I learned, for once I made mention of Sirrel, who is herself she-demon of much pulchritude, Plecent made of me to leave, and shoved me out of the court through the brick arch: little it mattered, as I buttoned my Coat, and slipped unsensed inside once more.
 
 Now shortly within a space of the cube I made of a finding both Myoot and Kallus together, two demons set together at a looking lens, and Myoot had his hands upon a letterboard before him, braille-made, its studs shiny from an origin secondhand, and Myoot was hesitant of his fingers on his letterboard, and Kallus meanwhile sat beside and gave instructions as might a lord in war: by this it may be know which was blind, which deaf. Myoot's looking lens showed plain a forever world, his own, yet of only a blocky corner, for his blind finger had just depressed the letter of stepping back, 's', landing him in a hole of his forever world, by which, did his blindness not suggest it already, one may have surety of his pace of success.
-
-**Parley:**
 
 Quietly I slid a sturdy boardwood door shut, separating this study space from that larger cube space, so as not to disturb any wife of us therein with our speech. I then unfixed the three buttons of my Coat, and made of a saying, "Friend demons," at which Myoot turned from his forever world, and only after noticing a twist of attention, did Myoot turn also, "glad am I of a succor, pray to Saint Sam, that I find here in this your home: I am a hedge engineer, Gneiss Rong of epithet 'Big', and weary of my journeys, and somewhat faint."
 
@@ -139,8 +125,6 @@ Spoke I then, "Tillagers, Myoot, Kallus, let me make of a full disclosure: I am 
 
 Again were my words of much obsequiousness, begging, such being a most effective tactic, as any will agree, for two demons who are of a mind that they might never be of use to anyone ever again: most effective truly, for after a brief scribbling over a scrip of paper by their desk, they did of one accord agree to help.
 
-**Mapmaking:**
-
 Swiftly I found between a table of quasi pine, of a good sanding and polish, even-topped, and of a moderate space, though three of its four legs were of more tallness than their fourth brother: this table I set between myself and Myoot and Kallus. Kallus took, from a dented chest of metal drawers, a scroll of paper, already with writing on one face - one of their free tax scrolls, of the number eleven and letter B, I saw - but with its other face yellow and of ample drawing space: this scroll he set down on the table, then slid it in my direction, along with a short scribbler's lead. Kallus yelled, "You draw. Myoot is blind. I myself recently burned both of my hands, when I tried to lift a toffee furnace by it's cauldron, not knowing that it was in operation."
 
 "What must I draw?" asked I.
@@ -169,8 +153,6 @@ Myoot then took some gulps from a pewter cup of goat's milk at his hip, which ti
 
 And many like perils did both Kallus and Myoot describe: but such misadventures as are not worth belaboring of, for I am of a little learning in those misadventures already, having ambled of some hells myself. And moreover, as any demon will surely agree, being that I am like to come to these perils presently in my telling, little sense would there in a 'spilling of wine before a toast,' as they speak.
 
-**Personal:**
-
 "Of a thanks," spoke I. "Such a map, folded here in an inner pocket of my Coat, will serve better as armor than any heavy iron skin I might carry: better as weapon than a sword of thinnest edge."
 
 "Bear you of no weapon?" asked tillager Myoot. Surprise looks well in such moonmilk eyes as a blind demon has, and looked well in this demon's eyes: he opened his mouth to speak further, but at that time hit his shin upon our writing table, as he rose.
@@ -187,37 +169,25 @@ As I bid farewell, and went to their cube's door, and thought of Myoot's wife aw
 
 ## Chapter 3 - Of A Way I Did Go
 
-**Departure:**
-
 So I did go, on a way of a map dubious, many of miles, many of a rounding of those moon tubes which benight Obelisk's heavens: firstly from the L-corner of my departing point, from Myoot's cube in his borough, and secondly and longly on a road of twenty good miles, carefully through one Surrance Consortium, that same day - at an ending of which trek I was much pained of foot, and came gladly to rest in a bedding cube, across whose door was an instance of a timeless Lift. So, day one.
 
 Cockcrow, landlord's payment, a hissing Lift door, an empty metal space - by these did a first stage of my way start. Obelisk's Lifts are each a timeless space. Once I stepped within this Lift, which Myoot and Kallus had put on my map, there passed me by no days in Obelisk's heavens, but within I yet perceived a going of many moon tubes - for, within a lift, space is otherwise, and Time passes not a Second without, though Days of a hundred may dawdle within, and all with a Lift's music ringing in one ears, constantly: a quartet, lead, bass, tenor, baritone, a cappella, harmonizing of a same five songs, echoing from a mouth of a tin mine.
 
-**Caravan:**
-
 But when I came to a keep of Hoortulon, a financial lord, master of a long manse of maybe a hundred acres, I prevailed upon him for transport. In his caravan, though he himself partook not of our travel, we journeyed by goatback over a steam bog, a Bog of Canne, which land hissed all about, and lay hid in a constant warm mist, by way of marble vents which breathed from that heaven's lungs. Many sun tubes and moon tubes was our travel. Each night I played a game with Hoortulon's son, Femik, a demon's body with an idiot child's mind: each night he bid me come into his tent, place my hands before my sight, hold my breath, and then cry, "Seeyou!" as I flashed my hands open. Moments Femik would laugh hysterically, then moments again would he be quite calm, placing before his own sight his own hands, holding his breath behind until his face turned purple, and at last, when he thought I mightn't be wary, open and cry "Seeyou!" Of such a game partook I, Big Gneiss Rong (though this full-grown idiot was bigger) with fixed face of sternness, for should I be caught but once, and start when Femik cried, "Seeyou!", then had his father, Hoortulon, promised that I would be made a supper of. Eaten. Illy did I sleep, till my goat, who was of a name Edji, carried me through hissing clouds, to a borough of Ives on Stall, where I goodbye'd from Hoortulon's caravan, happily whole of my skin.
-
-**Temptation:**
 
 But when I came to Credleburg on heaven two hundred and twelve, burg of a small census of demons and she-demons, nestled against Obelisk's northern windows of mighty crystal, where no scaffold for crops or husbandry restricts one's perspective of unknown Earth beyond our heaven - at Credleburg I stopped. Of a festival I watched, a Feast Day of Saint Mantyck, who those demons and she-demons of Credleburg revered for certain Words of Mighty Danger: Saint Mantyck had conjured against one army of demons with black sword, a Brotherhood of Black Swords, intensifying those scanty sun rays which penetrate Obelisk's north side, so that Credleburg's foedemons were melted. To east and west yet lie those fused black bones. Credleburg lazes. At its Feast Day of saint Mantyck I ate before one of a few tables, two I mind of, both bowed of food: portabellos, porcinis, chanterelle, pots of honey and goat's milk, minced meat pies season with sorrel and tarragon, garlic pudding, and rice. Forty demons and she-demons sat these tables: of forty years of feasters' names were these tables carved. These easy-lived children of demonkind, sheep, but honest rams, tradesmen who might be relied upon, made much of a welcome. They wanted only of a stranger's fables. I filled my belly, and thought of filling my heart with sleepy days, those demons bidding me.
 
 At morn I climbing over a south wattle fence, faring well, for as any demon might relate, my brain, ill with Sirrel, could not agree with that burg's cure.
 
-**Brownout:**
-
 In heaven one hundred and sixty my hours stretched overlong, my days spent were of a numbering of two dozen, of a roaming over its plains, of a rambling through its passages, until sore again was I, of foot and brain. By now was summer of a sticky height, wavering in Obelisk's airs: my clothes hugged wetly to my body, and many of a time I tugged at my Coat's sleeve, in an unconscious thought to doff it. Of no avail.
 
 But when I came to an arch of purely carved marble, of one whole, smooth piece, overhanging a stair, then knew I of my way. I stepped with some unease under said arch's brow, plunging three long steps down, each step of a darker face than his upper neighbor, until my eyes saw nothing: only for a breath that stretched an imagined eternity, for now flashed a purpleness. A man of a white wool suit stood right where I had stopped, his fingers curled around an iron ring of a stained glass lantern, holding it high to see of my face, making some skewing of his lips, before asking me, in a little voice, "Whither?" I knew him then for a wickerdemon, one of a wick guild,  very pale of skin their guild - and I knew also that I had come to 'A Belt Debatable'. Three heavens are said Belt Debatable, where neither sun-tube nor moon-tube shine: all is of cloudy night, demons speak at all hours in an evening voice (sound carries queerly), Light travels only in a palm of a wickerdemon, and all of Lit Going is taxed. Seven stamps of credit paid I my quiet herald, a weighty sum, so that he guided me well and swift through A Belt Debatable. Many an hour as we walked, making whispered talk, I saw, in this or that tunnel, or very small at a far distance across black space, a set of wide, staring eyes. Residents. Demons. Probably. Nothing loathe was I, when a wider glow below twinkled in my eye, to leave A Belt Debatable.
-
-**Arrest:**
 
 But then, I came to heaven one hundred and thirty four, where I was taken into prison by its constables, its mulchers, their reasoning of which I at present will speak.
 
 ---
 
 ## Chapter 4 - Of A Gaol
-
-**Detention:**
 
 Into a compact cube they set me, one ovular curving wall of stones pallid, large, and well-mortised, with its flat south wall made of transparent - though in no way permeable - crystal, and a ring of iron a foot thick, around a circle door of iron, of which door a deadbolt was swiftly clunked. A mouse caught in a blue barrel of corn was I, with not even the reward of a comfortable pile of eatable gold to rest my footsore legs upon: no furnishings, hardly space for a stretch of a sore calf, and that upon a shale floor. I took of a solace that I had still about me my Coat, which, as any demon must know by now, is a Coat of Seven Senses: marvelous of a buttoning power, cursed, grey among Obelisk's eldest replicas. Consoled was I that no mulcher had mind to pull it from my back, and they laid hands on my arms and led me to this place - not that any mulcher should then have means of parting said Coat from my skin, and, moreover, only smally consoled was I, for a Coat of Seven Senses had power none against a strong cell.
 
@@ -240,8 +210,6 @@ Then in long strides a demon of wide shoulders and a pate of black bucket hair c
 I shook the stones of my throat, setting over its apple a fist, before speaking in my littlest hoarse voice, "I cannot hear." Then I shook head, tapped the glass, tapped my ear, smiled of a helpless smile.
 
 "Hmmm, I hear you, Gneiss - but perhaps this cell is a midge of one-direction in matters of sound. Your complaint isn't a first. I suppose that demon laws demand I reread your sentencing: let us try both to mind of these words, yes? GNEISS RONG, OF A HEAVEN NOT-"
-
-**Alarum:**
 
 Louder yet than Mulcher Dovich's shouting though - which had in some way braced the ears of the other mulchers about their yard, who turned to look and listen - came a wail of a throat artificial, and a burst of luminous crimson. Under the rusted gear tower, on a little  tube poking from the ground like a water pump, a Lamp Mouth shone with his fierce red light of danger, raising his cry.
 
@@ -285,8 +253,6 @@ Then all as one mulchers drifted away from me, out of reach of my ear. They gath
 
 With a burst of a wood whistle, and fifteen hissing CRACKs, fifteen stampers spat, from their barrels, fifteen arm-and-a-half long cylinders - fifteen arms drew back fifteen bolts so that fifteen lead tongues withdrew. One young she-demon hand, sweaty, slipped. She started over.
 
-**Battle:**
-
 Thereafter I misheard or heard not-at-all of their orders: orders must there have been, with thirty mulchers splitting into units, one large group of twenty, chief hound among them, and two or maybe three smaller, which latter moved out of my seeing along a path around of their cubes' backsides. I presumed any smaller unit had gone to guard petty gates of their barracks, or else, sallied out. Twenty, however, remained. For many minutes they spoke words unclear, between themselves, twenty mulchers, their leader with them, standing behind their low wall of pillared marble. Their prating waned tidewise, however: a brief surge as one served a jest, retreat into whispers, repeated, whispers prevailing gradually over speech, silence prevailing over whispers - until I could only know, with my eyes, an exposed beachhead. A tense kennel.
 
 A sound swelled, at first seeming only to be a ringing of my ear's drum, soon taking unique aural shape. Chirring, loud enough to push into my cell. Mulchers raised their stamper barrels, setting barrels atop their low wall of marble pillars, and those without hoisted cleavers high: ten thick blades gleaming in sun tubes.
@@ -300,8 +266,6 @@ Well noting all such slaying, I banged on a crystal, but must have made little n
 Then saw I one demon's lips moving, and pressed a fresh side of my face to a pane. Spoke a demon's faint voice, "Wheevils attack in thousands, not some few dozens such as this - and moreover, should be sealed still under our feet. How come they here?"
 
 ---
-
-**Parley:**
 
 With two blades of my shoulders relaxed glumly against a curving stone wall - shades by an umbra of my prison - I watched as bodies of wheevils and of three Red Apes were heaped, stacked beside firewood, by half a dozen mulchers, just on a left side of their road barrier of marble. Beside of piled Creature bodies stood a small stable: roof of cracked tiles, yard where some draft goats grazed, stalls for two big carts, one cart waiting in its stall just then. Probably both carts, hitched to some goats, carried usually rations, firewood, broken chairs, new chairs, whatever a mulcher has need to haul: after today and tomorrow's service, both would surely need of a washing. A way off of dead wheevils and dead Red Apes, four dead mulchers had been laid with more respect beneath lattice shadows of a barracks' gear tower: one body had called of much assembly, but all other were of mostly one big piece.
 
@@ -333,8 +297,6 @@ I spoke, "No price ever declared itself, that I could see on a yellowed catalogu
 
 I caught my tongue, and with my fingers rubbed down two curves in both corners of my mouth. Chief Ulakhan however leaned in near of their horn, stretched one hand, tapped a prison crystal, smiled more genuine of eye at me, and spoke, "a Mighty weapon thou would make of thyself, carrying such an artifact, in arms of no smallness. A sharp knife of Good, eh? Well of a mulcher's duties, one is to keep a sharp knife sheathed, but close."
 
-**Omen:**
-
 He loosed his jaw to speak more: instead he spoke not at all, his boyish face of prim nose and two round eyes scrunching with wrinkles as he snuffed of some gas of his side of my cell's clear glazing. Of a background I saw an omen similar, as another mulcher, of a pair hailing some wheevil bits, stood, raised his arm, wagged it, and screwed a shrew's face on his partner in undertaking. "Must you cut of a tangy cheese this moment?" he shouted.
 
 "I didn't," protested his partner. "More sure is that a meat of these beasts creates a potent musk, and moreover I tell you this: it reminds me of an uncle's tannery, where of a fifteenth birthday my father sent me to learn of cutting leather for chairs - but planets aligned! did that job reek."
@@ -346,8 +308,6 @@ F. M. Dovich wagged his head, and pinching his nose with one thumb and forefinge
 Again came disruption, this time neither passable, nor in a form of scent. Many sun tubes, glowing midday yellow above on heaven's roof, all at once shuddered, strobing dim then bright, a same effect as when a dense conspiracy wings above, but no birds flew at that moment. Moreover and of a same instant came an orphic grumble, a lightning bolt voicing its thunder in a small space of an animal cave. All number of mulchers in their barrack's space looked up, twisted their eyes left, right, around, up, their eyes and mouths goggling dumb: even a face of their chief gaped. Their knowing was, I knew, a goose's egg.
 
 "A Butler," spoke I.
-
-**Rout:**
 
 Now within a passed time since their battle, some mulchers had raised a larger barrier against their low wall of marble pillar, constructing it from odd bits of scrap and damaged furnishing: splintery or cracked old cube panels, dented metal drawer chests, a Boss's throne of redwood upholstered in red felt and one missing leg, a winter lightning box for stealing from meat or drink its heat and keeping it this, and across a former opening of their marble wall, acting as door, a weighty table of shining pale grey wood cut of some timbers of a vulture tree.
 
@@ -390,3 +350,20 @@ So soon as we had crushed over a last throng of some thirteen or fifteen wheevil
 "All slain," spoke Joiyuss. "But my Boss, where shall go? For all along of our right, these lanes lead only to small boroughs untenanted, a few disheveled cubes, some wild fowl perhaps, no more, while this boulevard leads only - Saint Smylee, we are slain demons ourselves, that bull has learned of our spoor!"
 
 All of us running of a southward way could well hear behind of iron scraping some low stone walls that were on either side of our small road, and though this quarter's sun tubes shone but dimly, yet still could any of us turn his gaze back, and see a jurisk's big electric eyes, gleaming among a score of wheevils, while ahead was only a narrowing dark. Until, however, not of a yet smaller lane appeared on our right, but a heavy portal, a door of steel, ribbed like a whalebone sternum, in no way looking moveable: we all stopped anywise, though of course our hunters did not, for that was a call of their Boss. He and his Senior Mulcher Dovich stepped up on either side of this door, where were two eyes facing our side, two door bogarts of this door, and both their chief and his senior took from their black buffy front pockets two platinum cards, and each swept it over an eye of a same moment, and with angry groans, a rolling door slid back into its stone wall housing, rolled of side, opening into a deeper umbra than even such a dim road as where we stood. We piled swiftly in. No sooner had we than said bogarts slammed their vault shut.
+
+---
+
+## Chapter 5 - Of A Gatling Laser Axe
+
+Those steel doors buzzed of minishing vibrations at our backs, as two newlywed anvils may buzz of their honeymoon, and after passion came a quiet of such solidness that a demon might have taken it for a deafness of his own ears. Dark, and total. No sun tube shone in whatever of space there was, nor moon tube, nor even of that meager light which a wickerdemon of A Belt Debatable bears cupped in his chalky palm: only of a black demon meets behind two firmly shut lids of his own eyes, pressing now of a weight on every eye of every demon and she demon of our cohort.
+
+Packed we stood, of a herd, shoulder rubbing against shoulder, low spines denting against soft bellies, a whole company of us shuffled and jostled, in darkness, and some demons or she-demons seeking, maybe - without a speaking of it - warmth of a neighbor's arm. I could hear of a labored huffing of some fatter mulchers, lacking wind of their run, and I could also hear from this corner or of that some hissy breathing of a she-demon or two, near of a panic, and yet now, close by my elbow, one shorter mulcher sniffled, and sniffled again, his nose thick with a head cold. In all other ways - in an air tasting both tangy and wet, a quicksilver humidity, a heavy material for working with two lungs - all was furtive to my senses.
+
+**Next chunk:** The first light. Joiyuss Dustman remembers his contraband laser lamp, fumbles it from his torn vest, clicks it on — a weak red beam, just enough to show faces.
+
+**Grounding — Embodiment** (chosen from: Traces of Human Agency, Embodiment): Joiyuss's hands still shake from the rout; he must press the lamp against his chest to steady its jittering red beam.
+
+
+
+**Chapter Outline:**
+The vault lit by keychain torch, pager-glow, one outlaw laser lamp: a brick tower-top ringed by void, marble plinths, narrow steps down past niches, one copy of every retired replica. (texture - when they first enter, one mulcher finds a penny). Pounding on the steel doors is the clock. A wandering light flickers across the Axe, in one of the niches below. Gneiss pitches arming the room; Ulakhan refuses - retired is retired. The doors finally give. Gneiss buttons the Coat, walks the niche-steps unseen, and comes back up just in time: gneiss slides forward, down onto one knee, blasting left and right in an arc (like something out of *Hard Boiled* by Jon Woo); a floating Axe atomizes the first wave. Gneiss unbuttons his coat, and appears holding the axe; he does not offer it back. One mulcher disobeys orders, taking a replica heat-crossbow to weld shut the doors. The growl they heard in chapter 4 sounds again (A Butler), drawing near. The mulchers press Ulakhan, who capitulates through a loophole of his own writ. Arming montage: Excalibur, Stormbringer, Mjölnir, Crown of the Lich, Foe-Hammer that wakes cold blue when Creatures are near (plant). Gneiss proposes a plan: not out but down, along the sides of the tower, to an access door of the vault, deep in the void. He suggests, down there, they pass through the first hell, then come back up the Creatures' own stair, the same way they must have arrived on floor 134 - he does not tell them that down was where he was always going (*subtext*).
