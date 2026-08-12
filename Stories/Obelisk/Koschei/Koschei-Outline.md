@@ -83,6 +83,7 @@ Note: rework ch 1-2 so Gneiss arrives unarmed - cut ch 2's closing Axe beat; the
 ### 6. Below 134 — ~2,000 — Violence
 
 The march through the first hell: ankle-deep water too blue, pink bodies reflected - Kallus's word made real. Stealth dies within steps; replicas blaze room to room; a Mr. Montag siren shatters glass and bone; the mulchers thin. Gneiss ghosts ahead to scout the up-stair, and the Butler sees him by the one sense he left unhidden, the secret, unnamed seventh. Outmatched, he hears its tender confession - housecat, stolen keys, the unsealed stair (missing-cat payoff) - and parleys silence for passage; the mulchers arrive, Phansy fires on instinct, the deal breaks. One of eighteen walks away - Joiyuss's death must land. The nine-lived Butler slinks off. Gneiss keeps the Axe and goes down, not up: he spares the Moon with a Face, a talking mutant door of crescent shape, which creaks open a forgotten hallway and asks to be remembered.
+- "I have always felt that the space of the basement was more than it promised to be." (Gneiss Line)
 - Julio, another Butler name to burn
 - Arluck, another
 
@@ -93,7 +94,7 @@ Air thick as sludge, humid, packed with clouds of cicadas, whacking face, buzzin
 
 ### 8. Withazz of the Landing — ~1,500 — Parley
 
-On a mezzanine landing, Withazz — gold-cloaked sorcerous engineer, every utterance a questionnaire of choices — stands ringed by wheevils. Gneiss scatters them rather than slip past unseen. In payment, Withazz poses the paths ahead and marks which ogre cannot be cheated.
+On a mezzanine landing, Withazz — gold-cloaked sorcerous engineer, every utterance a questionnaire of choices — stands fighting off three *Night Witches* (new monster). Gneiss aids Withazz rather than slip past unseen. In payment, Withazz poses the paths ahead and marks which ogre cannot be cheated.
 
 ### 9. The Floor of Lightning Storms — ~2,000 — Chase
 
