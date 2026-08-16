@@ -379,11 +379,51 @@ Spoke I then, of a voice low, so that those near leaned, "Hear you, demons, a pl
 
 Their Chief Ulakhan set himself before me, high chinning, and spoke, "Forty seven were vaults assigned on a lower one hundred and thirty three: forty seven troves filled with ten thousand replicas of Obelisk's ages, forty seven lost, forty seven chambers of one hundred and thirty three hells, forty seven former shrines in which no demon may take pride, for hell is no place for mortal demons. This though is capsule vault forty eight, Gneiss Rong, oldest of demonism's heritage, where it's venerable artifacts may lie, and be justly valued, having served and proved. Retired is retired."
 
-We all walked out to such a platform as I have described, and for a first time I saw it clear: a floor of herringbone brick, its mortar prickly with patches of sunblind, glass-colored scrub grass.
+We all walked out to such a platform as I have described, and for a first time I saw it clear: a floor of herringbone brick, its mortar prickly with patches of sunblind, deep-plastic colored grass.
 
 I spoke, "And what if that bull beast you saw, a jurasik you may name it, should batter down your capsule door with its metal mouth horns? Hah! Of great use is Worship, when it makes of a worshipper a carcass," a muscle jumped below Ulakhan's left eye, so I filled my lung still more, "and of much, much use, Tradition, when it will make of your most elder vault forty eight only a newest of those lost."
 
 "Shall I raise a Law of a Reserve Asset Damage, shall I quote Mooney's address to those Bosses of C, in an eighth year of an eggshell? Neither you, burglar, nor I, nor my soldiers, shall lay our fingers on history's chattel. Law and precedent set no fork in their decree."
+
+*BRUUUMMMMM.*
+
+"An Axe you name retired," spoke I, "yet no demon bought it, nor swung it once: auction-only was that replica, virgin of a hand. You cannot retire a soldier who never marched: stillborn is not retired."
+
+"He speaks true," spoke Joiyuss, blood yet wet down his braid. "Dead, we lose all of it anyhow, to teeth. Only of a keeping our hands off do we lose these relics for good."
+
+Some few mulchers made a nodding. F.M. Dovich liked it not.
+
+"Hand a godly blade," spoke Dovich, "to a green she-demon whose grip slips of a stamper, and watch her die of a wondering which end to hold. Untried, all of them. Cursed, some."
+
+"A besieged keeper may draw of his ward," pressed I. "Salvage, emergency, name it a loan-"
+
+"Name it what you came for." Chief Ulakhan stepped in close. "You wanted inside this vault of a same breath Creatures cracked our seals. Now a burglar bids us break our own law and take up holies. Who drinks of water sold him by an arsonist?"
+
+*BRUUUMMMMM.*
+
+Every eye turned on me.
+
+"Say again," spoke one, "why you truly came."
+
+"He'll crack a hell for some cube-tramp's oyster," sneered another. "Mark it, boss: always of a she-demon, or always of coin."
+
+My smile fell of my face. Gone of a sudden was that meek rasp I had worn since a gaol.
+
+"Then of myself," spoke I, in a voice of my own, and turned my back of them, and strode of a first step down.
+
+Cleavers rose. Stampers rose. Ten tongues of lead leveled at a broad of my spine, and as I came round, on a nearest barrel, a sneerer's own, scratched beneath, two letters caught my eye: D.G.
+
+**Next chunk:**
+- gneiss stars arguing, convinces one or two mulchers (joiyuss among them) who back him; others disagree (overall: a quick back/forth between 3-4 characters)
+	- Gneiss's first point: the Axe was an _auction-only_ replica (planted ch.4), never bought/swung. It isn't retired; it's _stillborn_. You can't retire a soldier who never marched.
+	- Joiyuss jumps in to help: if they die, creatures desecrate everything anyway; The only way to _lose_ these relics is to keep hand off them. (some other mulchers nod)
+	- Dovich jumps in (subtly annoyed by other mulchers); the relics are untested, dangerous to hand a godly weapon to a she-demon who hand slips loading a stamper, they die trying to figure out where to grip some of these replicas
+	- Gneiss tries to make a _counter_-statute: a besieged-custodian / salvage clause, "emergency draw."
+- Ulakhan ends the debate with some concrete, strong argument; Gneiss wanted inside - on the same moment the creatures attacked; now the burglar is telling them break a law and take up sacred relics; why should they listen to an arsonist selling water?
+- *Another BRUUUUUMMM here*
+- the argument turns on Gneiss — they all look at him, one mulcher demand again why he truly came to the vault; one mulcher sneers _near his real reason_ — guesses he came for gold, or a woman ("_He'll open a hell for some cube-tramp's oyster — mark it, boss, it's always a she-demon or it's always coin_")
+- Gneiss's temper snaps (**OPTION A**)
+- cleavers and stampers lift against him; gneiss, in a pre-death moment, notices the sneering mulcher's leveled stamper bears initials "D.G." scratched under its barrel.
 
 
 
