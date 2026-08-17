@@ -387,46 +387,27 @@ I spoke, "And what if that bull beast you saw, a jurasik you may name it, should
 
 *BRUUUMMMMM.*
 
-"An Axe you name retired," spoke I, "yet no demon bought it, nor swung it once: auction-only was that replica, virgin of a hand. You cannot retire a soldier who never marched: stillborn is not retired."
+"You name of these items, 'retired', yet I know one least which no demon bought, nor swung once in violence: auction-only, an item mighty, hung maybe on some chief's mantle for a few years, a virgin to hands, never served, not retired, stillborn."
 
-"He speaks true," spoke Joiyuss, blood yet wet down his braid. "Dead, we lose all of it anyhow, to teeth. Only of a keeping our hands off do we lose these relics for good."
+"This demon speaks some truth," spoke Joiyuss. "Dead, we lose all of it anyhow, only of a keeping our hands off do we, and all heavens besides, lose these relics for all ages."
 
-Some few mulchers made a nodding. F.M. Dovich liked it not.
+Some few mulchers made a nodding, which accord F.M. Dovich little liked, and now he spoke, "Would you give a relic also - say a stick of making bubbles, where each bubble made bursts with starfire scorching hot enough to burn to a whole borough of wooden cubes - would you give that into a hand of a child? Just as safe, say I, as to give it of a green she-demon, whose hand slips as she takes up her stamper, a tool she has been trained with. And you would give her these: such untried, maybe-cursed replicas as are set in the pockets below, no more than a few words on a plaque to guide their use."
 
-"Hand a godly blade," spoke Dovich, "to a green she-demon whose grip slips of a stamper, and watch her die of a wondering which end to hold. Untried, all of them. Cursed, some."
-
-"A besieged keeper may draw of his ward," pressed I. "Salvage, emergency, name it a loan-"
-
-"Name it what you came for." Chief Ulakhan stepped in close. "You wanted inside this vault of a same breath Creatures cracked our seals. Now a burglar bids us break our own law and take up holies. Who drinks of water sold him by an arsonist?"
+Chief Ulakhan stepped nearer of me. "Plot is this demon's master, for he tried to break into our vault of his own, before we all were driven in, and that only an instant before: now this plotter bids us break with an ethos, and each grab at our 'salvation', each take a holy sword. Who begs honey of a wasp?"
 
 *BRUUUMMMMM.*
 
-Every eye turned on me.
+Every eye turned on me now, and one demon spoke, "Say again, for I recall not a hearing, how it was you came to be here."
 
-"Say again," spoke one, "why you truly came."
+"This demon would open up a hell for some cube-tramp's oyster," spoke a bitch whose name I remembered was Seaslesc. "Heed it, boss Ulakhan: it's always a she-demon, or it's always money."
 
-"He'll crack a hell for some cube-tramp's oyster," sneered another. "Mark it, boss: always of a she-demon, or always of coin."
+Here I lost of my smile, and gone in a red spark was a sweet butter tone, which I had worn in my speaking since they seized of me. "Solo then," spoke I, snapping a finger under their chief's nose, turning of my heel, and taking a first step toward a tower's nearest stair.
 
-My smile fell of my face. Gone of a sudden was that meek rasp I had worn since a gaol.
+Cleavers. Stampers. Blades and metal pipes rose to a ready strike at a broadness of my back and chest: on a nearest barrel, Seaslesc's own, scratched upon its barrel, two letters were scratched, D. and G., which initials I did not know, yet those and every detail of many arms against me held my full eye, as any demon in a pinch of mortal danger may understand.
 
-"Then of myself," spoke I, in a voice of my own, and turned my back of them, and strode of a first step down.
-
-Cleavers rose. Stampers rose. Ten tongues of lead leveled at a broad of my spine, and as I came round, on a nearest barrel, a sneerer's own, scratched beneath, two letters caught my eye: D.G.
-
-**Next chunk:**
-- gneiss stars arguing, convinces one or two mulchers (joiyuss among them) who back him; others disagree (overall: a quick back/forth between 3-4 characters)
-	- Gneiss's first point: the Axe was an _auction-only_ replica (planted ch.4), never bought/swung. It isn't retired; it's _stillborn_. You can't retire a soldier who never marched.
-	- Joiyuss jumps in to help: if they die, creatures desecrate everything anyway; The only way to _lose_ these relics is to keep hand off them. (some other mulchers nod)
-	- Dovich jumps in (subtly annoyed by other mulchers); the relics are untested, dangerous to hand a godly weapon to a she-demon who hand slips loading a stamper, they die trying to figure out where to grip some of these replicas
-	- Gneiss tries to make a _counter_-statute: a besieged-custodian / salvage clause, "emergency draw."
-- Ulakhan ends the debate with some concrete, strong argument; Gneiss wanted inside - on the same moment the creatures attacked; now the burglar is telling them break a law and take up sacred relics; why should they listen to an arsonist selling water?
-- *Another BRUUUUUMMM here*
-- the argument turns on Gneiss — they all look at him, one mulcher demand again why he truly came to the vault; one mulcher sneers _near his real reason_ — guesses he came for gold, or a woman ("_He'll open a hell for some cube-tramp's oyster — mark it, boss, it's always a she-demon or it's always coin_")
-- Gneiss's temper snaps (**OPTION A**)
-- cleavers and stampers lift against him; gneiss, in a pre-death moment, notices the sneering mulcher's leveled stamper bears initials "D.G." scratched under its barrel.
 
 
 
 **Chapter Outline:**
-**DONE:** The vault lit by keychain torch, pager-glow, one outlaw laser lamp: a brick tower-top ringed by void, marble plinths, narrow steps down past niches, one copy of every retired replica. (texture - when they first enter, one mulcher finds a penny). Something begins pounding on the steel doors (this serves as a subtextual timer through the scene). A wandering light flickers across the Axe, in one of the niches below. They move out onto the platform, Geniss can see the space clearer now, herringbone brick floor, sunblind glass-colored grass rising in a few scrub patches through the mortar. Gneiss pitches arming the room; Ulakhan refuses - retired is retired.
-**TODO:** They argue/discuss, mulchers, Gneiss, Ulakhan, repeated questions of why Gneiss was here - Gneiss loses temper, several mulchers raise their clevers/stampers at him. Then, the doors finally give. Gneiss buttons the Coat, walks the niche-steps unseen, and comes back up just in time: gneiss slides forward, down onto one knee, blasting left and right in an arc (like something out of *Hard Boiled* by Jon Woo); a floating Axe atomizes the first wave. Gneiss unbuttons his coat, and appears holding the axe; he tells the mulchers he's not giving it back (and he decides then on a new catchphrase for himself: "Capiche?") One mulcher disobeys orders, taking a replica heat-crossbow to weld shut the doors. The growl they heard in chapter 4 sounds again (A Butler), drawing near. The mulchers press Ulakhan, who capitulates through a loophole of his own writ. Arming montage: Excalibur, Stormbringer, Mjölnir, Crown of the Lich, Foe-Hammer that wakes cold blue when Creatures are near (plant). Gneiss proposes a plan: not out but down, along the sides of the tower, to an access door of the vault, deep in the void. He suggests, down there, they pass through the first hell, then come back up the Creatures' own stair, the same way they must have arrived on floor 134 - he does not tell them that down was where he was always going (*subtext*).
+**DONE:** The vault lit by keychain torch, pager-glow, one outlaw laser lamp: a brick tower-top ringed by void, marble plinths, narrow steps down past niches, one copy of every retired replica. (texture - when they first enter, one mulcher finds a penny). Something begins pounding on the steel doors (this serves as a subtextual timer through the scene). A wandering light flickers across the Axe, in one of the niches below. They move out onto the platform, Geniss can see the space clearer now, herringbone brick floor, sunblind glass-colored grass rising in a few scrub patches through the mortar. Gneiss pitches arming the room; Ulakhan refuses - retired is retired. They argue/discuss, mulchers, Gneiss, Ulakhan, repeated questions of why Gneiss was here - Gneiss loses temper, several mulchers raise their clevers/stampers at him.
+**TODO:** Then, the doors finally give. Gneiss buttons the Coat, walks the niche-steps unseen, and comes back up just in time: gneiss slides forward, down onto one knee, blasting left and right in an arc (like something out of *Hard Boiled* by Jon Woo); a floating Axe atomizes the first wave. Gneiss unbuttons his coat, and appears holding the axe; he tells the mulchers he's not giving it back (and he decides then on a new catchphrase for himself: "Capiche?") One mulcher disobeys orders, taking a replica heat-crossbow to weld shut the doors. The growl they heard in chapter 4 sounds again (A Butler), drawing near. The mulchers press Ulakhan, who capitulates through a loophole of his own writ. Arming montage: Excalibur, Stormbringer, Mjölnir, Crown of the Lich, Foe-Hammer that wakes cold blue when Creatures are near (plant). Gneiss proposes a plan: not out but down, along the sides of the tower, to an access door of the vault, deep in the void. He suggests, down there, they pass through the first hell, then come back up the Creatures' own stair, the same way they must have arrived on floor 134 - he does not tell them that down was where he was always going (*subtext*).
