@@ -7,6 +7,8 @@ Have claude replace the, this, and that (not singular noun forms of latter), wit
 
 Possibly: replace 'ous' with 'ious' - IE. "Barbarous" > "Barbarious"? Setting-specific spelling?
 
+Possibly: replace 'cube' with 'veal' (veal-fattening pen?) or 'Carrel' (medieval monk cubicle)
+
 ## Chapter 1 - Of A Crayon
 
 I climbed of a two hundred and fifty third heaven - a heaven of mushrooms, of millet, of tillagers, of much eating, and of little bother - very early. A shine of dawn hugged Obelisk on its tall east face. I came to Warm's Route, however, and Warm's Route is over seven miles from dawn glimpsing, on Obelisk's west cheek, and both cheeks are bigly windowed, in thick, clear crystal: maybe one hundred big demon's feet tall these windows are, and such awesome windows are glass on a dead bulb, in west dawn's umbra.
