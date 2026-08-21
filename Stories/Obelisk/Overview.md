@@ -51,6 +51,8 @@ Monsters of the hells, plane 133 and down
 
 **Mr. Montags** - Flying whales; their call is like an air-raid siren; when prodded, their calls can shatter glass, light filaments, and bones
 
+**Night Witches:** - make buzzing sounds
+
 ## Characters
 
 **Naming convention:** Demon first names are misspelled adjectives - Gneiss (Nice), Joiyuss (Joyous), Morel (Moral), Qwyett (Quiet). Surnames are exempt.
