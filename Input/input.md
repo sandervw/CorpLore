@@ -1,22 +1,11 @@
-# Prose Style Tests
+**TO-REVISE:**
 
-## Original Text
+Yet here spoke a mulcher named Herry, who until then had kept his tongue: "Boss Ulakhan, yon she-demon broke of a lawful order, and we thank her for it. One replica has saved us once. Ten may save us twice."
 
-Create repeating elements by looping through data with `{#each}` blocks. Note that curly braces execute JavaScript expressions in Evidence.
+Another, a narrow demon of a name I had not caught, added: "A Butler knocks, and you speak of writ. What writ binds we who are already dead but still breathing?"
 
-Loops enable you to iterate over the rows in a query result, and reference the row using an alias of your choosing. They are similar to for loops in Python.
+Then Seaslesc, her one eye glinting in a keychain's butter-glow: "A rogue demon alone floating an axe did atomize a jurasik. Give you me one of these and I will atomize three more."
 
-If you have more content than you would like to loop over on a single page, consider using a [templated page].
+Ulakhan straightened of his sleeve-collars, lifted his chin, and folded both hands behind his back. A long breath drew he. "At one moment of one year of every century, a demon's work forces him to a Deed: to define paper for one millennium. Such a demon is more precious than any relic, and more dangerous. Let us arm ourselves."
 
-## Test 1 - rewrite as fantasy
-
-Slay Electric Creatures by chopping their shapes with  `{wine-tempered}` bronze. Note that tempering in particular fluids sharpens metal for different kinds of cutting.
-
-Chopping with an axe teaches you to deliver price blows in a combat setting, and to swing other arms with greater accuracy. It is similar to chopping inanimate substances.
-
-If there are more Creatures than you can chop with a single axe, consider using an [Obelisk Replica].
-
-## Test 2 - rewrite, against "new style"
-
-*Same as above, but against 4 mantras
-
+Down the tower steps went they then, climbing by twos and threes into niches, twenty hands reaching at once. Excalibur came up first, held by Dovich in both hands, its blade a slab of winter-white steel. Stormbringer followed, shrieking of its own wind, and Mjölnir, and a Crown of the Lich set crooked on a fat demon's brow. Joiyuss, dropping his stamper clattering, caught up Foe-Hammer, and at its haft's first touch the head woke of a cold blue glow: I marked that nearest Creatures must set it burning.
