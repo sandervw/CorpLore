@@ -86,6 +86,7 @@ The march through the first hell: ankle-deep water too blue, pink bodies reflect
 - "I have always felt that the space of the basement was more than it promised to be." (Gneiss Line)
 - Julio, another Butler name to burn
 - Arluck, another
+- Darkness, but with some shiny color to it, as though they descent into a pool of liquid opal.
 
 ### 7. The Buzzing Furnace — ~2,200 — Violence
 
