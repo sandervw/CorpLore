@@ -9,6 +9,11 @@ Possibly: replace 'ous' with 'ious' - IE. "Barbarous" > "Barbarious"? Setting-sp
 
 Possibly: replace 'cube' with 'veal' (veal-fattening pen?) or 'Carrel' (medieval monk cubicle)
 
+**On First Full Edit Pass:**
+Ask yourself: "What if you had to say the same thing, from the perspective of a medieval alchemist, or knight?"
+- every floor is 100 feet of a big man tall, or 30 paces, at which we all laughed, at absurdity of man who can walk heavenwise
+- mr montags, like one of the bulbous, moaning seabladders, but hovering in the ether, not the sea, like a fairy light
+
 ## Chapter 1 - Of A Crayon
 
 I climbed of a two hundred and fifty third heaven - a heaven of mushrooms, of millet, of tillagers, of much eating, and of little bother - very early. A shine of dawn hugged Obelisk on its tall east face. I came to Warm's Route, however, and Warm's Route is over seven miles from dawn glimpsing, on Obelisk's west cheek, and both cheeks are bigly windowed, in thick, clear crystal: maybe one hundred big demon's feet tall these windows are, and such awesome windows are glass on a dead bulb, in west dawn's umbra.
@@ -465,7 +470,7 @@ No more delay now among the hounds and puppies, now as their piggish dog leader 
 
 Excalibur was first to return, held in both hands by F. M. Dovich, its blade a hewn slab of winter-light entire. Stormbringer rose next into my seeing, wailing with its own engendered wind, then a a Crown of a Lich, with its gleaming, swept-back, frozen antlers, slightly askew upon a bald demon's brow, then an Arc Caster, then an Optical Camo Cloak (which would have been of little use to your own narrator, as any demon must know), and then a demon carrying a long thin Boltgun. Chief Ulakhan himself took a Lance of a Pale Rider. Joiyuss Dustman, who had spared me of bad fate in my cell, remained above, having spotted atop one of those marble plinths around us a replica on display. He set his stamper down upon flagstones, and took of this this item for himself: a Foe Hammer, which long steel (or so read a stone tablet atop its marble plinth) would quicken with cornflower colored burning, should any 'Orc' step near, though said tablet did warn also, that of said particular copy of Foe Hammer, there was some defective quality, so that it also would burn in a presence of cats and dogs and chickens and other housepets.
 
-"Of a harking," spoke I, propping a butt of my axe on some brickwork underfoot, and staring of each demon and she-demon in turn. "Your weld seam will last for maybe a few extra minutes of breathing, but on another side of it, this monster which scares even stone with its growling, it is of scale and manner such that even your Excalibur, punisher of sky, destroyer of earth, should not of such a monster do harm: out is a dead road. So go we down."
+"Of a harking," spoke I, propping a butt of my axe on some brickwork underfoot, and staring of each demon and she-demon in turn. "Your weld seam will last for maybe a few extra minutes of breathing, but on another side of it, this monster which scares even stone with its growling, it is of scale and manner such that even your Excalibur, punisher of sky, destroyer of earth, should not of such a monster do harm: out is a dead road, so go we down. Who is of my way!"
 
 That bunch of dogs then, on hearing of my plan, each put to me a face of chirping crickets. Spoke Herry at last, squeezing of each word from his mouth, "Go down, when down is plane upon plane of hell - with what nonsense does your mouth wrestle?"
 
@@ -473,46 +478,21 @@ That bunch of dogs then, on hearing of my plan, each put to me a face of chirpin
 
 Phansie Le, who had welded of a door, shook only of her head, staring of me aghast, and spoke, "Every stone of hell hides a squirming swarm of vampire worms, every cubic meter teems with wheevils and electric-blooded beasts, and still you would suggest of our going and walking into such a death?"
 
-A young mulcher's hand went loose, and his pulse rifle, clang-dang, fell to ground. "Die here, die there, no virtue my-"
+A young mulcher's hand went loose, and his Pulse Rifle, clang-dang, fell to ground. "Die here, die there, no virtue my-"
 
-"Pick it up!" Ulakhan's voice, a commander's voice, bull whipped our space, echoing. "Eight thousand years of Obelisk heritage shine from a relic - and a blessed foresight also, of old bosses, to preserve such treasures as what you held, and you give it a treatment of a garden spade?"
+"PICK IT UP." Ulakhan's voice, a commander's voice, bull whipped our space, echoing. "Eight thousand years of Obelisk heritage shine from a relic, and a blessed foresight also, of old bosses, to preserve such treasures as what you held, and you give it a treatment of a garden spade?"
 
-His young soldier subordinates stared, waiting on a word; the boss pinched his chin and made no sound.
+The lead dog's pup held of its head down, and picked up with chastened finger a Pulse Rifle - but now all about at at their chief all other mulchers wore full eyes of question, awaiting of orders, and while he made to pinch of his hairless chin and look most pondering, of words he lacked.
 
-"Since peace came then," I said, taking up the thread, "those things climbed the stairs up one hundred thirty-four floors. The stairs are still there, no one watching. Their main force now runs wild in our head barracks. So: we keep to the ground, pass through one layer of hell, feel for them at the stairs behind, and go up. Along Saint Smalin Avenue, then up one hundred thirty-five, and bring back four hundred seal soldiers."
+"Well, we are here, and we must make a best of it," spoke I. "Of a stair or lift your destroyers must have come, to arrive of such masses in your heaven. Such way as they came must still be there, now of no threat or watch I would guess, for what would anything of hell have to watch of from its rear? A whole of their host is out and around us now, my mind guesses, rutting in your barracks and lines. So let us ourselves go below, cross of one hell only, and follow their rear, up whatever step or timeless lift they did take. Thence flee we down Dearnphull's row, to your Cliffs of Two Hundred, where we may pass into a heaven one hundred and thirty five, or even higher, and come back with four hundred stampers."
 
-"Then who enters hell first?"
+"Hmm." F. M. Dovich spared of me an eye appraising, speaking, "Still of your scheme I have doubts of my own, as any demon here present should, for what promise have any that a hell is as you say, empty, when just as alike it seems to me that by only a splinter - a portion - of all monsters in a hell were we attacked. We cannot have of a knowing without a going."
 
-*"PICK IT UP." Ulakhan's voice cracked of a whip. "Eight thousand years of heritage, and you knock it of brick." His pack looked then at him for a word; their chief pinched of his chin, and gave none.*
+"See you all those burned corpses I blasted - and which of you had eyes of me, while I was so blasting? Of me you have all seen (or unseen) that I may go without notice: trust that I will do of like below, scouting, out of all sensing, and may then warn should there any danger be. You'll say I'm not for trusting of, but hark, another *HHGGUUR* just now we heard - do you all rather choose of fronting that thing?"
 
-*"Well, we are here, and we must make a best of it," spoke I. "Those Creatures climbed of some stair to 134. It stands yet, and unwatched, for a whole of their host is above us now, at a hunt through your barracks. So: we go low, we cross of one hell, we climb their own steps at a rear of them. Thence Saint Smylee's Boulevard, thence 135, and you bring back four hundred stampers."*
+Ulakhan stared at me a good while, hunting of some flaw on my looks: I gave him a face of a boiled potato, until finally he nodded once.
 
-*"And who walks first into hell?"*
+"Boss," spoke Joiyuss, brightening, "with some luck, if our way happens past our rationing cart,  I should like to make a stop - I left some two hundred CUs."
 
-*"Which of you saw me last?" I let that sit. "I go ahead, out of all sense but one. Now, who is of my way!?"*
+Down we went.
 
-*Ulakhan weighed me of a long look, hunting a crack in my face; I gave him a face of boiled potato. He nodded.*
-
-*"Boss," spoke Joiyuss, brightening, "should our road pass by Rationing, there is two hundred CUs of deposit on our cart."*
-
-**Next chunk:** (note for LLM: 90% dialogue)
-- Gneiss  proposes a plan to the mulchers:
-	- Argues that they have no chance against the creatures on the other side of the door, even with weapons
-	- He suggests they go not out but down, through the first hell and back up a different stairway
-	- "Now, who is of my way!?"
-- Mulchers object and question; Ulakhan weighs it
-	- 'Thereupon those dogs wore faces of chirping crickets...'
-	- One mulcher asks gneiss if he is crazy, says that all hells surely teem with creatures under every rock, flooding out of any cube
-	- Another drops his replica - a pulse rifle - and starts to say they're going to die anyway
-	- Ulakhan cuts off the second mulcher to berate him for mishandling a relic; when the mulchers look to Ulakhan after for a decision, he pinches his chin, but cannt decide
-- Gneiss counters: 
-	- "Well, we are here, and we must make a best of it."
-	- He suggests, down there, they sneak through a first hell, then come back up whatever stairway the creatures came up initially, the same way the creatures must have arrived on floor 134
-	- Says he can scout and sneak ahead - they have already seen (or not seen) that he can be removed from senses
-	- Then they go to (TODO - specific named boulevard/path leading up to heaven 135 and higher) - gather reinforcements
-	- Ulakhan eyes gneiss suspiciously, Gneiss forces a passive face, Ulakhan finally nods
-- Joiyuss dustman jokes that maybe he can pick up the deposit of (specific number) CUs he left on the ration cart.
-
-**Chapter Outline:**
-**DONE:** The vault lit by keychain torch, pager-glow, one outlaw laser lamp: a brick tower-top ringed by void, marble plinths, narrow steps down past niches, one copy of every retired replica. (texture - when they first enter, one mulcher finds a penny). Something begins pounding on the steel doors (this serves as a subtextual timer through the scene). A wandering light flickers across the Axe, in one of the niches below. They move out onto the platform, Geniss can see the space clearer now, herringbone brick floor, sunblind glass-colored grass rising in a few scrub patches through the mortar. Gneiss pitches arming the room; Ulakhan refuses - retired is retired. They argue/discuss, mulchers, Gneiss, Ulakhan, repeated questions of why Gneiss was here - Gneiss loses temper, several mulchers raise their clevers/stampers at him. Then, the doors finally give. Gneiss buttons the Coat, walks the niche-steps unseen. Gneiss comes back up just in time: he slides forward, down onto one knee, blasting left and right in an arc (like something out of *Hard Boiled* by Jon Woo); a floating Axe atomizes the first wave. Gneiss unbuttons his coat, and appears holding the axe; he tells the mulchers he's not giving it back (and he decides then on a new catchphrase for himself: "Capiche?"). The mulchers are indecisive, some agreeing with Ulakhan, some considering Gneiss. Gneiss tenses. The growl they heard in chapter 4 sounds again (A Butler) from further up the hall, drawing near. One mulcher disobeys orders, taking a replica heat-crossbow from a nearby pedastal to weld shut the doors, ignoring Ulakhan's shout. The mulchers press Ulakhan, who capitulates through a loophole of his own writ. Arming montage: Excalibur, Stormbringer, Mjölnir, Crown of the Lich, Foe-Hammer that wakes cold blue when Creatures are near (plant).
-**TODO:** Gneiss proposes a plan: not out but down, along the sides of the tower, to an access door of the vault, deep in the void. ("Well, we are here, and we must make a best of it.").  He suggests, down there, they pass through the first hell, then come back up the Creatures' own stair, the same way they must have arrived on floor 134 - he does not tell them that down was where he was always going (*subtext*). They descend.
