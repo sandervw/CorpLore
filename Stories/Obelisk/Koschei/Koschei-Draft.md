@@ -9,6 +9,8 @@ Possibly: replace 'ous' with 'ious' - IE. "Barbarous" > "Barbarious"? Setting-sp
 
 Possibly: replace 'cube' with 'veal' (veal-fattening pen?) or 'Carrel' (medieval monk cubicle)
 
+rework ch 1-2 so Gneiss arrives unarmed in chapter 3 - cut ch 2's closing Axe beat; the map-as-weapon line stands alone.
+
 **On First Full Edit Pass:**
 Ask yourself: "What if you had to say the same thing, from the perspective of a medieval alchemist, or knight?"
 - every floor is 100 feet of a big man tall, or 30 paces, at which we all laughed, at absurdity of man who can walk heavenwise
@@ -492,7 +494,19 @@ The lead dog's pup held of its head down, and picked up with chastened finger a 
 
 Ulakhan stared at me a good while, hunting of some flaw on my looks: I gave him a face of a boiled potato, until finally he nodded once.
 
-"Boss," spoke Joiyuss, brightening, "with some luck, if our way happens past our rationing cart,  I should like to make a stop - I left some two hundred CUs."
+"Boss," spoke Joiyuss, brightening, "with some luck, if our way happens past our rationing cart,  I should like to make a stop - I left on it some two hundred CUs."
 
-Down we went.
+---
 
+## Chapter 6 - Of A Wonderland
+
+Text
+
+### Ch. Outline:
+
+**TODO:** 
+- Jump to their first steps in heaven 133. The mulchers and Gneiss march through the first hell. Darkness, but with some shiny color to it, as though they descent into a pool of liquid opal, ankle-deep water too blue, walls made up of angles and shadows - and even the mulchers and gneiss take on different looks. (*Deep eyeshadow, all their gestures and words are overly-expressive, like they have been dropped into a German Expressionist silent movie*). Kallus's warnings from Chapter 2 are made real. *"I have always felt that the space of the basement was more than it promised to be." (Gneiss Line)*
+- Within minutes their stealthy approach is lost; a door handle shrieks like a dying goat as they turn it; Creatures Electric attack from all sides. The mulchers fight back with their replicas, and an intense, room-to-room, corridor-to-corridor battle ensures. A Mr. Montag (*Flying whales; their call is like an air-raid siren; when prodded, their calls can shatter glass, light filaments, and bones*) flies into view; two mulchers fall, instantly slain, bones cracked, while others cover their ears in time to recieve only hearing damage.
+- Gneiss ghosts ahead to scout for the path back up-stairs, but as he sees them ahead, the Butler, whose name is "Wonderland" sees him by the one sense he left unhidden, the secret, unnamed seventh. (*The butler speaks in a tender, almost loving/adoring voice - think Hisoka from Hunter X Hunter, or Lord Arioch from the Elric stories*). Outmatched, knowing he cannot defeat a butler, gneiss hears its mocking admission: disguised as the mulchers' housecat, it stole a set of their spellbreaker keys, broke the seals on the stairs, and allowed the creatures to enter - all in the name of chaos and "fun". The butler and Gneiss talk for some time; the names of other powerful butlers *(Julio, arluck, pick others)* are dropped. Gneiss parleys silence for safe passage, offering not to reveal its secret, if it will only let them go by unscathed.
+- But just then the mulchers arrive, Phansy fires on instinct, and the deal breaks. The butler slaughters them, the creatures attack from behind, and at the end, of eighteen demons and she-demons, only Gneiss walks away, activating his coat (*all 7 senses this time*). Joiyuss's death hit Gneiss hardests. Yet Gneiss still keeps the Axe and - still with Perli in his thoughts - proceeds further into hell, not out.
+- After some hours of travel and distance from the massacre, he cannot seem to find a Way - all paths look the same. It is then that he encounters a Moon with a Face, a talking mutant door of crescent shape. After a strange question/answer game, instead of blasting it, he decides to spare it; in thanks, it creaks open a forgotten hallway and asks to be remembered.

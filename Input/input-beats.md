@@ -1,5 +1,7 @@
 ## Chapter III - The Mountains of Magnatz
 
+---Beat 1: Establishing---
+
 Shortly after sunrise Cugel and Derwe Coreme emerged from the hillside byre where they had huddled the night. The air was chill and the sun, a wine-colored bubble behind high mist, produced no warmth. Cugel clapped his arms, jigged back and forth, while Derwe Coreme stood pinch-faced and limp beside the old byre.
 
 Cugel presently became irritated by her posture, which implied a subtle disparagement of himself. “Fetch wood,” he told her curtly. “I will strike a fire; we will breakfast in comfort.”
@@ -7,6 +9,8 @@ Cugel presently became irritated by her posture, which implied a subtle disparag
 Without a word the erstwhile princess of Cil went to gather furze. Cugel turned to inspect the dim expanse to the east, voicing an automatic curse upon Iucounu the Laughing Magician, whose rancor had flung him into this northern wasteland.
 
 Derwe Coreme returned with an armful of twigs; Cugel gave a nod of approval. For a brief period after their expulsion from Cil she had carried herself with an inappropriate hauteur, which Cugel tolerated with a quiet smile for himself. Their first couching had been both eventful and taxing; thereafter Derwe Coreme had modified at least her overt behavior. Her face, delicate and clear of feature, lost little of its brooding melancholy, but the arrogance altered, as milk becomes cheese, to a new and wakeful appreciation of reality.
+
+---Beat 2: Conversation---
 
 The fire crackled cheerfully; they ate a breakfast of rampion and pulpy black gallberries, while Cugel put questions regarding the lands to the east and south. Derwe Coreme could return only small information, none of which was optimistic. “The forest is said to be endless. I have heard it called several names: the Great Erm, the Forest of the East, the Lig Thig. To the south you see the Mountains of Magnatz, which are reputedly dreadful.”
 
@@ -21,6 +25,8 @@ A spark of interest animated the listless face. “Who is this Iucounu?”
 “A detestable wizard of Almery. He has a boiled squash for a head, and flaunts a mindless grin. In every way he is odious, and displays the spite of a scalded eunuch.”
 
 Derwe Coreme’s mouth moved in a small cool smile. “And you antagonized this wizard.”
+
+---Beat 3: Lore Drop---
 
 “Bah! It was nothing. For a trivial slight he flung me north on an impossible mission. I am not Cugel the Clever for nothing! The mission is achieved and now I return to Almery.”
 
@@ -38,6 +44,8 @@ Cugel glanced at her sidewise, not liking the flavor of the remark, but before h
 
 “They are wide and dangerous and peopled by gids, erbs, and deodands, as well as leucomorphs, ghouls and grues. Otherwise I am ignorant. If we survive the journey, it will be a miracle indeed.”
 
+---Beat 4: Travel---
+
 Derwe Coreme looked wistfully back toward Cil, then shrugged and became silent.
 
 The frugal meal was at its end. Cugel leaned back against the byre, to enjoy the warmth of the fire, but Firx, that agent of coercion implanted by Iucounu in Cugel’s viscera, would allow no respite, and Cugel, grimacing, jumped to his feet. “Come; we must set forth. The spite of Iucounu permits no less.”
@@ -50,6 +58,8 @@ Down the slope they walked, following what appeared to be an old road. The lands
 
 Derwe Coreme shrugged once more; they plunged forward into the shade. The trees stood tall overhead and the sunlight, filtered through the foliage, only exaggerated the gloom. Coming upon a stream they walked along its banks and presently entered a glade where flowed a brimming river.
 
+---Beat 5: Character Intro---
+
 On the bank near a moored raft sat four men in ragged garments. Cugel looked Derwe Coreme over critically, and took the jeweled buttons from her garments. “These by all odds are bandits and we must lull their cupidity, even though they seem a poor lot.”
 
 “Better that we avoid them,” said Derwe Coreme. “They are animals, no better.”
@@ -61,6 +71,8 @@ The rogues did not improve upon closer view. Their hair was long and matted, the
 “What people are you?” asked Cugel.
 
 “We call ourselves Busiacos,” responded the oldest of the men. “It is both our race and our family; we make no differentiation, being somewhat polyandrous by habit.”
+
+---Beat 6: Conversation---
 
 “You are denizens of the forest, familiar with its routes and trails?”
 
@@ -77,6 +89,8 @@ The man consulted the others of his group; all shook their heads. “There is no
 “How then may we achieve our destination?” demanded Cugel.
 
 The Busiacos showed little interest in the question. But the man next in age to the eldest, glancing at Derwe Coreme, had a sudden idea, and looked across the river as if pondering. The effort presently overwhelmed him, and he shook his head in defeat.
+
+---Beat 7: Negotiation---
 
 Cugel, observing carefully, asked, “What baffles you?”
 
@@ -98,6 +112,8 @@ The Busiaco maintained his stubborn crouch. “You have no inducement to offer?�
 
 “What of the woman? She is somewhat gaunt, but not unappealing. Since you must die in the Mountains of Magnatz, why waste the woman?”
 
+---Beat 8: Persuasion / Speech---
+
 “True.” Cugel turned to look at Derwe Coreme. “Perhaps we can come to terms.”
 
 “What?” she gasped in outrage. “Do you dare suggest such a thing? I will drown myself in the river!”
@@ -112,6 +128,8 @@ Derwe Coreme took a determined stride toward the river. “No!” cried Cugel ha
 
 The Busiaco shrugged. “It is all one.” He led them aboard the raft, cast off the rope, and poled across the river. The water seemed shallow, the pole never descending more than a foot or two. It seemed to Cugel that wading across would have been simplicity itself.
 
+---Beat 9: Travel---
+
 The Busiaco, observing, said, “The river swarms with glass reptiles, and an unwary man, stepping forth, is instantly attacked.”
 
 “Indeed!” said Cugel, eying the river dubiously.
@@ -121,6 +139,8 @@ The Busiaco, observing, said, “The river swarms with glass reptiles, and an un
 The raft reached the opposite bank; the Busiaco stepped ashore and made it fast to a tree. “Come now, after me.” He plunged confidently off among the trees. Derwe Coreme followed, with Cugel coming in the rear. The trail was so faint that Cugel could not distinguish it from the untrodden forest, but the Busiaco never faltered. The sun, hanging low behind the trees, could be glimpsed only infrequently. So they proceeded, through sylvan solitudes where not so much as a bird-call could be heard and Cugel was never certain of the direction they traveled.
 
 The sun, passing its zenith, began to descend, and the trail became no more distinct. Cugel at last called ahead, “You are certain of the trail? It seems that we veer left and right at random.”
+
+---Beat 10: Conversation---
 
 The Busiaco stopped to explain. “We of the forest are an ingenuous folk, but we have this peculiar facility.” He tapped his splayed nose significantly. “We can smell out magic. The trail we follow was ordained at a time too remote to be recalled, and yields its direction only to such as ourselves.”
 
@@ -136,6 +156,8 @@ The Busiaco pointed across the clearing. “Notice the four well-marked and dist
 
 “This seems to be the case,” Cugel admitted grudgingly.
 
+---Beat 11: Reveal---
+
 “One of these leads expeditiously to the southern verge. The others plunge into the forest depths, branching variously along the way.”
 
 Derwe Coreme, peering through the branches, uttered a sharp ejaculation. “There, fifty paces yonder, is the river and the raft!”
@@ -143,6 +165,8 @@ Derwe Coreme, peering through the branches, uttered a sharp ejaculation. “Ther
 Cugel turned the Busiaco a dire look. “What of all this?”
 
 The Busiaco nodded solemnly. “Those fifty paces lack the protection of magic. I would have been scamping my responsibility to convey us here by the direct route. And now —” He advanced to Derwe Coreme, took her arm, then turned back to Cugel. “You may cross the glade, whereupon I will instruct you as to which trail leads to the southern verge.” And he busied himself fixing a cord about Derwe Coreme’s waist. She resisted with fervor, and was only subdued by a blow and a curse. “This is to prevent any sudden leaps or excursions,” the Busiaco told Cugel with a sly wink. “I am not too fleet of foot and when I wish the woman I do not care to pursue her here and there. But are you not in haste? The sun declines, and after dark the leucomorphs appear.”
+
+---Beat 12: Argument---
 
 “Well then, which of the trails leads to the southern verge?” Cugel asked in a frank manner.
 
@@ -158,6 +182,8 @@ Cugel looked dubiously across the clearing, then to Derwe Coreme who watched in 
 
 “An incorrect trail might lead into the heart of the Great Erm,” argued Cugel. He raised his arm in farewell. “Far better to drudge for this hirsute ruffian than risk death in the Mountains of Magnatz!”
 
+---Beat 13: Internal Monologue---
+
 The Busiaco grinned in agreement, gave the line a proprietary jerk. Cugel hurried across the clearing with Derwe Coreme’s imprecations ringing in his ears, until she was silenced by some means Cugel did not observe. The Busiaco called, “By chance you are approaching the correct path. Follow and you shall presently come to an inhabited place.”
 
 Cugel returned a final salute, set forth. Derwe Coreme gave a scream of hysterical mirth: “Cugel the Clever he calls himself! What an extravagant joke!”
@@ -166,11 +192,15 @@ Cugel proceeded quickly along the trail, somewhat troubled. “The woman is a mo
 
 Scarcely a hundred paces from the clearing the trail emerged from the forest. Cugel stopped short. Only a hundred paces? He pursed his lips. By some curious coincidence three other trails likewise left the forest nearby, all converging to one near where he stood. “Interesting,” said Cugel. “It is almost tempting to return, to seek out the Busiaco and exact some sort of explanation …”
 
+---Beat 14: Deliberation---
+
 He fingered his sword thoughtfully, and even took a step or two back toward the forest. But the sun was low and shadows filled the gaps between the gnarled trunks. As Cugel hesitated, Firx impatiently drew several of his prongs and barbs across Cugel’s liver, and Cugel abandoned the project of returning into the forest.
 
 The trail led across a region of open land, with mountains riding across the southern sky. Cugel strode along at a smart pace, conscious of the dark shadow of the forest behind, and not completely settled in his mind. From time to time, at some particularly unsettling thought, he slapped his thigh sharply. But what folly! He had obviously managed affairs to their optimum! The Busiaco was gross and stupid; how could it have hoped to trick him? The concept was untenable. As for Derwe Coreme, no doubt she would soon come to terms with her new life …
 
 As the sun dropped behind the Mountains of Magnatz he came upon a rude settlement and a tavern beside the crossroads. This was a staunch structure of stone and timber, with round windows each formed of a hundred blue bull’s eyes. Cugel paused at the door, took stock of his resources, which were scant. Then he remembered the jeweled buttons he had taken from Derwe Coreme, and congratulated himself on his forethought.
+
+---Beat 15: Establishing---
 
 He pushed through the door, into a long room hung with old bronze lamps. The publican presided at a short buffet where he poured grogs and punches to the three men who were his present customers. All turned to stare as Cugel entered the room.
 
@@ -186,6 +216,8 @@ The publican gave his head a dour shake. “Men have fared south never to return
 
 The three men who sat drinking nodded in solemn corroboration. Two were peasants of the region, while the third wore the tall black boots of a professional witch-chaser. The first peasant signaled the publican: “Pour this unfortunate a cup of wine, at my expense.”
 
+---Beat 16: Banter---
+
 Cugel accepted the cup with mixed feelings. “I drink with thanks, though I specifically disavow the appellation ‘unfortunate’ lest the virtue of the word project upon my destiny.”
 
 “As you will,” responded the peasant indifferently, “though in these melancholy times, who is otherwise?” And for a space the peasants argued the repair of the stone fence which separated their lands.
@@ -200,11 +232,15 @@ The publican laughed and pounded the buffet with his fist. “You are as crafty 
 
 “I encountered such a group: crass rather than crafty, in my opinion. In reference once more to the road south, can anyone here supply specific advice?”
 
+---Beat 17: Lore Drop---
+
 The witch-chaser said gruffly, “I can: avoid it. You will first encounter deodands avid for your flesh. Beyond is the realm of Magnatz, beside whom the deodands appear as angels of mercy, if a tenth of the rumors are true.”
 
 “This is discouraging news,” said Cugel. “Is there no other route to the lands of the south?”
 
 “Indeed there is,” said the witch-chaser, “and I recommend it. Return north along the trail to the Great Erm, and proceed eastward across the extent of the forest, which becomes ever denser and more dread. Needless to say, you will need a stout arm and feet with wings to escape the vampires, grues, erbs and leucomorphs. After penetrating to the remote edge of the forest you must swing south to the Vale of Dharad, where according to rumor an army of basilisks besieges the ancient city Mar. Should you win past the raging battle, the Great Central Steppe lies beyond, where is neither food nor water and which is the haunt of the pelgrane. Crossing the steppe you turn your face back to the west, and now you wade a series of poisonous swamps. Beyond lies an area of which I know nothing except that it is named the Land of Evil Recollection. After crossing this region you will find yourself at a point to the south of the Mountains of Magnatz.”
+
+---Beat 18: Deliberation---
 
 Cugel mused a moment or two. “The route which you delineate, while it may be safer and less taxing than the direct way south, seems of inordinate length. I am disposed to risk the Mountains of Magnatz.”
 
@@ -218,6 +254,8 @@ After the meal the two peasants drank a final cup of wine and departed, while Cu
 
 Cugel tersely rejected the proposal and went to his own chamber.
 
+---Beat 19: Complication---
+
 During the night he was aroused by a scraping sound near the foot of his bed. Leaping to his feet he captured a person of no great stature. When hauled out into the light, the intruder proved to be the pot-boy, still clutching Cugel’s shoes which he evidently had intended to purloin. “What is the meaning of this outrage?” demanded Cugel, cuffing the lad. “Speak! How dare you attempt such an act!”
 
 The pot-boy begged Cugel to desist. “What difference does it make? A doomed man needs no such elegant footwear!”
@@ -225,6 +263,8 @@ The pot-boy begged Cugel to desist. “What difference does it make? A doomed ma
 “I will be the judge of that,” said Cugel. “Do you expect me to walk barefoot to my death in the Mountains of Magnatz? Be off with you!” And he sent the wretched lad sprawling down the hall.
 
 In the morning at breakfast he spoke of the incident to the landlord, who showed no great interest. When it came time to settle his score, Cugel tossed one of the jeweled buttons upon the counter. “Fix, if you will, a fair value upon this gem, subtract the score and give me my change in gold coins.”
+
+---Beat 20: Negotiation---
 
 The landlord examined the ornament, pursed his lips and cocked his head to the side. “The total of the charges to your account exactly equals the worth of this trinket — there is no change forthcoming.”
 
@@ -236,11 +276,15 @@ Cugel at last extracted several gold coins from the landlord together with a par
 
 Not without foreboding, Cugel set off to the south. For a space the trail led past the tillage of local peasants; then as the foothills bulked to either side, the trail became first a track, then a trace winding along a dry riverbed, beside thickets of prickle-bush, spurge, yarrow, asphodel. Along the crest of the hill paralleling the trail grew a tangle of stunted oak and Cugel, thinking to improve his chances for going unobserved, climbed to the ridge and continued in the shelter of the foliage.
 
+---Beat 21: Combat---
+
 The air was clear, the sky a brilliant dark blue. The sun wallowed up to the zenith and Cugel bethought himself of the food he carried in his pouch. He seated himself, but as he did so the motion of a skipping dark shadow caught his eye. His blood chilled. The creature surely meant to leap upon his back.
 
 Cugel pretended not to notice, and presently the shadow moved forward again: a deodand, taller and heavier than himself, black as midnight except for shining white eyes, white teeth and claws, wearing straps of leather to support a green velvet skirt.
 
 Cugel debated his best course of action. Face to face, chest to chest, the deodand would tear him to pieces. With his sword ready, Cugel might hack and stab and hold the creature at bay until its frenzy for blood overcame its fear of pain and it flung itself forward regardless of hurt. Possibly Cugel was more fleet, and might out-distance the creature, but only after a long and dogged pursuit … It slipped forward again, to stand behind a crumbling outcrop twenty paces down-slope from where Cugel sat. As soon as it had disappeared, Cugel ran to the outcrop, jumped to the top. Here he lifted a heavy stone and as the deodand came skulking below, threw it down upon the creature’s back. It toppled to lie kicking, and Cugel jumped down to deliver the death-stroke. The deodand had pulled himself against the rock and hissed in horror at the sight of Cugel’s naked blade. “Hold your stroke,” it said. “You gain nothing by my death.”
+
+---Beat 22: Interrogation---
 
 “Only the satisfaction of killing one who planned to devour me.”
 
@@ -268,6 +312,8 @@ The deodand pulled himself slightly more erect. “This well may be. I have hear
 
 “You seek to travel south; others like me inhabit caves along the way: how can you escape them unless I guide you by ways they do not frequent?”
 
+---Beat 23: Negotiation---
+
 “You can do this?”
 
 “If you undertake to spare my life.”
@@ -288,6 +334,8 @@ At last they came to a sandy flat high above the lowlands, which the deodand dec
 
 Cugel shook his head. “Night is not too far distant. What is to prevent you from following to attack me once again? Best that I kill you.”
 
+---Beat 24: Threat / Intimidation---
+
 The deodand laughed sadly. “Three others follow us. They have kept their distance only because I waved them back. Kill me and you will never wake to see the morning sun.”
 
 “We will travel further together,” said Cugel.
@@ -297,6 +345,8 @@ The deodand laughed sadly. “Three others follow us. They have kept their dista
 Cugel led the way south, the deodand limping to the rear. The valley became a chasm floored with giant boulders, and looking back Cugel saw black shapes moving among the shadows. The deodand grinned meaningfully at Cugel. “You would be well to halt at once; why wait until dark? Death comes with less horror while the light shines.”
 
 Cugel made no response, but pressed forward with all speed. The trail left the valley, climbed to a high meadow where the air blew cool. Larch, kaobab and balm-cedar grew to either side, and a stream ran among grasses and herbs. The deodand began to evince uneasiness, jerking at its halter, limping with exaggerated debility. Cugel could see no reason for the display: the countryside, except for the presence of the deodands, seemed without threat. Cugel became impatient. “Why do you delay? I hope to find a mountain hospice before the coming of dark. Your lagging and limping discommode me.”
+
+---Beat 25: Dread / Anticipation---
 
 “You should have considered this before you maimed me with a rock,” said the deodand. “After all, I do not accompany you of my own choice.”
 
@@ -316,6 +366,8 @@ Cugel looked behind. The three deodands who previously had skulked among the roc
 
 “Exactly; but I did not enlarge upon the nature of the fable.”
 
+---Beat 26: Reversal---
+
 As they spoke there came a swift sigh in the air; looking about Cugel saw that the three deodands had fallen, transfixed by arrows. From a nearby grove stepped four young men in brown hunting costume. They were of a fair, fresh complexion, brown hair, good stature, and seemed of good disposition. The foremost called out, “How is it that you come from the uninhabited north? And why do you walk with this dire creature of the night?”
 
 “There is no mystery to either of your questions,” said Cugel. “First, the north is not uninhabited, some hundreds of men yet remain alive. As to this black hybrid of demon and cannibal, I employed it to lead me safely through the mountains, but I am dissatisfied with its services.”
@@ -323,6 +375,8 @@ As they spoke there came a swift sigh in the air; looking about Cugel saw that t
 “I did all expected of me,” declared the deodand. “Release me in accordance with our pact.”
 
 “As you will,” said Cugel. He released the halter which secured the creature’s throat, and it limped away glaring back over its shoulder. Cugel made a sign to the leader of the huntsmen; he spoke a word to his fellows; they raised their bows and shot the deodand with arrows.
+
+---Beat 27: Lore Drop---
 
 Cugel gave a curt nod of approval. “What of yourselves? And what of Magnatz who reputedly makes the mountains unsafe for travel?”
 
@@ -335,6 +389,8 @@ The huntsmen shrugged indifferently. “Night approaches; it is time to turn bac
 “I gladly avail myself of your company.” The group set off up the trail. As they marched Cugel made inquiry regarding the road to the south, but the huntsmen were of little assistance. “Vull Village is situated on the shores of Lake Vull, which is unnavigable for its whirlpools, and few of us have explored the mountains to the south. It is said that they are barren and drop off into an inhospitable gray waste.”
 
 “Possibly Magnatz roams the mountains across the lake?” inquired Cugel delicately.
+
+---Beat 28: Establishing---
 
 “Tradition is silent on this score,” replied the huntsmen.
 
@@ -352,6 +408,8 @@ The huntsman shrugged. “It is best described as a ceremonial sinecure. A perma
 
 Hylam Wiskode approached, and saluted Cugel with courtesy. “Welcome! Strangers are a novelty; our hospitality is yours!”
 
+---Beat 29: Atmosphere---
+
 “I thank you indeed,” said Cugel. “I had expected no such affability in the Mountains of Magnatz, which all the world holds in dread.”
 
 The hetman chuckled. “Misapprehensions are common everywhere; you may well find certain of our notions quaint and archaic, like our Watch for Magnatz. But come! here is our best tavern. After you have established yourself we will sup.”
@@ -363,6 +421,8 @@ After the meal the hetman conducted Cugel on a tour of the town, which enjoyed a
 Tonight seemed to be a special occasion: everywhere cressets threw up plumes of flame, while the folk of Vull walked the streets, pausing to confer in small knots and groups. Cugel inquired the reason for the obvious perturbation. “Is it because your Watchman had died?”
 
 “This is the case,” said the hetman. “We treat our traditions with all earnestness, and the selection of a new Watchman is a matter for public debate. But observe: here is the public repository, where the common wealth is collected. Do you care to look within?”
+
+---Beat 30: Object Focus---
 
 “I abide your pleasure,” said Cugel. “If you wish to inspect the communal gold, I will be glad to join you.”
 
@@ -376,6 +436,8 @@ The hetman indicated a cupola supported five hundred feet in the air by a slende
 
 “Correct! You are a man of discernment. A pity you are in such haste and cannot linger in Vull!”
 
+---Beat 31: Deliberation---
+
 Cugel, considering his empty wallet and the riches of the storehouse, made a suave gesture. “I would not be averse to such a sojourn, but in all candor, I travel in penury, and would be forced to seek some sort of gainful employment. I wonder regarding the office of Watchman, which I understand to be a post of some prestige.”
 
 “Indeed it is,” said the hetman. “My own son stands watch tonight. Still, there is no reason why you should not be a suitable candidate for the position. The duties are by no means arduous; indeed the post is something of a sinecure.”
@@ -386,11 +448,15 @@ Cugel became conscious of Firx’s fretful stirrings. “And as to the emolument
 
 “They are, specifically, what?”
 
+---Beat 32: Conversation---
+
 The hetman paused to reflect, and ticked off the points on his fingers. “First, he is provided a comfortable watch-tower, complete with cushions, an optical device whereby distant objects are made to seem close at hand, a brazier to provide heat and an ingenious communications system. Next, his food and drink are of the highest quality and provided free of charge, at his pleasure and to his order. Next, he is generally granted the subsidiary title ‘Guardian of the Public Repository’, and to simplify matters, he is invested with full title to, and powers of dispensation over, the total wealth of Vull. Fourth, he may select as his spouse that maiden who seems to him the most attractive. Fifthly, he is accorded the title of ‘Baron’ and must be saluted with profound respect.”
 
 “Indeed, indeed,” said Cugel. “The position appears worthy of consideration. What responsibilities are entailed?”
 
 “They are as the nomenclature implies. The Watchman must keep watch, for this is one of the old-fashioned customs we observe. The duties are hardly onerous, but they must not be scamped, because that would signify farce, and we are serious folk, even in connection with our quaint traditions.”
+
+---Beat 33: Internal Monologue---
 
 Cugel nodded judiciously. “The conditions are straightforward. The Watchman watches; nothing could be more clearly expressed. But who is Magnatz, in what direction should he be apprehended, and how may he be recognized?”
 
@@ -404,6 +470,8 @@ Firx reluctantly diminished the demonstrations, and Cugel returned to where the 
 
 “All is as before,” said Cugel. “I have taken counsel with myself and believe I can adequately fulfill the obligations of the job.”
 
+---Beat 34: Triumph---
+
 The hetman nodded. “I am pleased to hear this. You will find my presentation of the facts to be accurate in every essential aspect. I likewise have been reflecting, and I can safely say that no other person of the town aspires to so august a position, and I hereby pronounce you Watchman of the Town!” Ceremoniously the hetman brought forth a golden collar, which he draped around Cugel’s neck.
 
 They returned toward the tavern, and as they went, the folk of Vull, noting the golden collar, pressed upon the hetman with eager questions. “Yes,” was his answer. “This gentleman has demonstrated his capabilities, and I have pronounced him Watchman of the Town!”
@@ -413,6 +481,8 @@ At the news the folk of Vull became generously expansive, and congratulated Cuge
 All repaired to the tavern; wine and spiced meat were set out; pipers appeared and there was decorous dancing and merry-making.
 
 During the course of the evening Cugel spied an extremely beautiful girl dancing with a young man who had been part of the hunting party. Cugel nudged the hetman, directed his attention to the girl.
+
+---Beat 35: Conversation---
 
 “Ah yes: the delightful Marlinka! She dances with the lad whom I believe she plans to espouse.”
 
@@ -432,6 +502,8 @@ Marlinka looked dubiously at Cugel, then over her shoulder at the young man with
 
 The ceremony was performed, and Cugel found himself espoused to Marlinka, whom, on closer examination, he saw to be a creature of delightful animation, charming manners and exquisite appearance. He put his arm around her waist. “Come,” he whispered, “let us slip away for a period and solemnize the connubiality.”
 
+---Beat 36: Complication---
+
 “Not so soon,” whispered Marlinka. “I must have time to order myself; I am over-excited!” She released herself, and danced away.
 
 There was further feasting and merry-making, and to his vast displeasure Cugel noted Marlinka again dancing with the youth to whom she formerly had been betrothed. As he watched she embraced this young man with every evidence of ardor. Cugel marched forward, halted the dance, took his bride aside. “Such an act is hardly appropriate; you have only been married an hour!”
@@ -439,6 +511,8 @@ There was further feasting and merry-making, and to his vast displeasure Cugel n
 Marlinka, both surprised and non-plussed, laughed, then frowned, then laughed again and promised to behave with greater decorum. Cugel attempted to lead her to his chamber, but she once again declared the moment unsuitable.
 
 Cugel drew a deep sigh of vexation, but was consoled by the recollection of his other perquisites: the freedom of the repository, for instance. He leaned over to the hetman. “Since now I am titular guardian to the public repository, it is only prudent that I acquaint myself in detail with the treasure I am charged with guarding. If you will be so good as to turn over the keys, I will go to make a quick inventory.”
+
+---Beat 37: Negotiation---
 
 “Even better,” said the hetman, “I will accompany you, and do what I can in the way of assistance.”
 
@@ -449,6 +523,8 @@ They crossed to the repository. The hetman unlocked the door and held a light. C
 “There is something in what you say,” remarked Cugel, “but I wish to order the construction of a mansion overlooking the lake and I will need wealth to pay the costs of construction.”
 
 “In due time, in due time. The actual work can hardly commence until you have examined the countryside and chosen the most felicitous site.”
+
+---Beat 38: Aftermath---
 
 “True,” agreed Cugel. “I can see that there are busy times ahead. But now — back to the tavern! My spouse is over-modest and now I will brook no further delay!”
 
@@ -462,6 +538,8 @@ Early in the morning the hetman rapped at the door, and entered at Cugel’s sum
 
 With poor grace Cugel dressed himself and followed the hetman out into the cool air of morning. They walked to the watch-tower, and Cugel was astounded both by its height and by the elegant simplicity of its construction, the slender stem rearing five hundred feet into the air to support the cupola.
 
+---Beat 39: Physical Task---
+
 A rope ladder was the only means of ascent. The hetman started up and Cugel came below, the ladder swaying and jiggling in such a fashion as to cause Cugel vertigo.
 
 They gained the cupola in safety and the hetman’s weary son descended. The cupola was furnished in rather less luxury than Cugel had expected, and indeed seemed almost austere. He pointed out this fact to the hetman, who stated that the deficiencies were readily repaired. “Merely state your requirements: they shall be met!”
@@ -470,9 +548,13 @@ They gained the cupola in safety and the hetman’s weary son descended. The cup
 
 The hetman assented readily to all. “It shall be as you say. But now we must discuss your duties, which are so simple as almost to require no elaboration: you must keep watch for Magnatz.”
 
+---Beat 40: Lore Drop---
+
 “This I understand, but as before a corollary thought occurs to me: in order to work at optimum efficiency I should know what or whom I am to watch for. Magnatz might stalk unhindered along the esplanade were I unable to recognize him. What then is his semblance?”
 
 The hetman shook his head. “I cannot say; the information is lost in the fog of ages. The legend reports only that he was tricked and baffled by a sorcerer, and taken away.” The hetman went to the observation port. “Notice: here is an optical device. Working by an ingenious principle, it bloats and augments those scenes toward which you direct it. From time to time you may choose to inspect landmarks of the area. Yonder is Mount Temus; below is Lake Vull where no one can sail for vortices and whirlpools. In this direction is Padagar Pass, leading eastward into the land of Merce. You can barely discern that commemorative cairn decreed by Guzpah the Great when he brought eight armies to attack Magnatz. Magnatz erected another cairn — see that great mound to the north? — in order to cover their mangled corpses. And there is the notch Magnatz broke through the mountains that cooling air might circulate through the valley. Across the lake lie certain titanic ruins, where Magnatz had his palace.”
+
+---Beat 41: Foreshadowing---
 
 Cugel inspected the various landmarks through the optical device. “Magnatz was by all accounts a creature of vast potency.”
 
@@ -488,6 +570,8 @@ Cugel frowned. “I am puzzled by his act. Was he a young man, to yield so readi
 
 “His conduct becomes all the more incredible,” was Cugel’s wondering comment.
 
+---Beat 42: Transition---
+
 “All of Vull feel the same.” The hetman rubbed his hands briskly. “I believe that we have discussed all the essentials; I will now depart and leave you to the enjoyment of your duties.”
 
 “One moment,” said Cugel. “I insist upon certain alterations and improvements: the rug, the cabinet, the cushions, the tray, the couch.”
@@ -496,13 +580,19 @@ Cugel frowned. “I am puzzled by his act. Was he a young man, to yield so readi
 
 “I shall seek her out at once,” called the hetman over his shoulder.
 
+---Beat 43: Dread / Anticipation---
+
 Several minutes later there was a creaking of the great pulley; the ladder was lowered at the end of the rope which supported it. Looking over the side Cugel saw that the cushions were about to be raised. The heavy rope supporting the ladder rattled through the pulley, bringing up a light line — hardly more than a stout cord — and on this cord the cushions were raised. Cugel inspected them with disapproval; they were old and dusty, and not at all of the quality he had envisioned. Most certainly he would insist upon furnishings superior to this! Possibly the hetman intended these merely as a stop-gap until cushions of the requisite elegance could be provided. Cugel nodded: this was obviously the situation.
 
 He looked around the horizon. Magnatz was nowhere to be seen. He swung his arms once or twice, paced back and forth, went to look down at the plaza, where he expected to find artisans assembling the appurtenances he had ordered. But there was no such activity; the towns-people appeared to be going about their usual affairs. Cugel shrugged, went to make another inspection of the horizon. As before, Magnatz was invisible.
 
+---Beat 44: Reveal---
+
 Once more he surveyed the plaza. He frowned, squinted: was that his spouse Marlinka walking past in the company of a young man? He focused the optical device upon the supple shape: it was Marlinka indeed, and the young man who clasped her elbow with insolent intimacy was the huntsman to whom she had at one time been affianced. Cugel clamped his jaw in outrage. This sort of behaviour could not continue! When Marlinka presented herself, he would speak emphatically upon the subject.
 
 The sun reached zenith; the cord quivered. Looking over the side Cugel saw that his noon repast was being hoisted in a basket, and he clapped his hands in anticipation. But the basket, when he lifted the cloth, contained only a half-loaf of bread, a chunk of tough meat, a flask of thin wine. Cugel stared at the sorry fare in shock, and decided to descend on the moment to set matters straight. He cleared his throat, called down for the ladder. No one appeared to hear him. He called more loudly. One or two of the folk looked up in mild curiosity, and passed on about their business. Cugel jerked angrily at the cord, hauled it over the pulley, but no heavy rope appeared nor a rope ladder. The light line was an endless loop, capable of supporting approximately the weight of a basket of food.
+
+---Beat 45: Setback---
 
 Thoughtfully Cugel sat back, and assessed the situation. Then directing the optical device once more upon the plaza he searched for the hetman, the one man to whom he might turn for satisfaction.
 
@@ -514,13 +604,19 @@ As before his remarks passed unheeded. Firx suddenly seemed to take cognizance o
 
 Cugel passed a fitful night. As merry-makers left the tavern Cugel called to them and made representations regarding his plight, but he might as well have saved his breath.
 
+---Beat 46: Emotional Processing---
+
 The sun appeared over the mountains. Cugel’s morning meal was of fair quality, but by no means up to the standard described by Hylam Wiskode, the double-tongued hetman of Vull. In a rage, Cugel bellowed orders to those below, but was ignored. He drew a deep breath: it seemed then that he was cast upon his own resources. But what of this? Was he Cugel the Clever for nothing? And he considered various means for descending the tower. The line by which his food ascended was far too light. If doubled and redoubled so that it bore his weight, it would yield, at most, a quarter of the distance to the ground. His clothes and leathers, if torn and knotted, might provide another twenty feet, leaving him dangling in mid-air. The stem of the tower provided no foothold. With appropriate tools and sufficient time he might be able to chisel a staircase down the outside of the tower, or even chip away the tower in its entirety, eventually reducing it to a short stump from which he might leap to earth … The project was not feasible. Cugel slumped on the cushions in despair. Everything was now clear. He had been fooled. He was a prisoner. How long had the previous Watchman remained at his post? Sixty years? The prospect was by no means cheerful.
+
+---Beat 47: Transition---
 
 Firx, of like opinion, jabbed furiously with barb and prong, adding to Cugel’s woes.
 
 So passed days and nights. Cugel brooded long and darkly, and contemplated the folk of Vull with great revulsion. On occasion he considered ringing the great gong, as his predecessor had been driven to do — but recalling the penalty, he restrained himself.
 
 Cugel became familiar with every aspect of town, lake and landscape. In the morning heavy mists covered the lake; after two hours a breeze thrust them aside. The whirlpools sucked and groaned, swinging here and there, and the fishermen of Vull ventured hardly more than the length of their boats off-shore. Cugel grew to recognize all the villagers, and learned the personal habits of each. Marlinka, his perfidious spouse, crossed the plaza often, but seldom if ever thought to turn her glance upward. Cugel marked well the cottage where she lived and gave it constant surveillance through the optical device. If she dallied with the young huntsman, her discretion was remarkable, and Cugel’s dark suspicions were never documented.
+
+---Beat 48: Epiphany---
 
 The food failed to improve in quality and not infrequently was forgotten altogether. Firx was persistently acrimonious, and Cugel paced the confines of the cupola with ever more frantic strides. Shortly after sundown, after a particularly agonizing admonishment by Firx, Cugel stopped short in his tracks. To descend the tower was a matter of simplicity! Why had he delayed so long? Cugel the Clever indeed!
 
@@ -530,7 +626,11 @@ Firx assailed him once more, and Cugel cried out. “Peace, scorpion, tonight we
 
 Firx gave over his demonstration, and Cugel went to investigate the plaza. The night was cool and misty: ideal for his purposes, and the folk of Vull were early to bed.
 
+---Beat 49: Escape---
+
 Cugel cautiously raised the line on which his food was hoisted; doubled, redoubled and redoubled it again and so produced a cable amply strong to support him. He tied a loop on one end, made the other fast to the pulley. After one last look around the horizon, he lowered himself over the side. He descended to the end of the cable, thrust himself into the loop and sat swaying some four hundred feet above the plaza. To one end of his twenty-foot rope he tied his shoe for a weight, and after several casts, flung a loop around the stem of the column, and pulled himself close. With infinite caution he slipped himself free and using the loop around the column as a brake, slid slowly to the ground. He took himself quickly into the shadows and donned his shoes. Just as he rose to his feet the door to the tavern swung open and out reeled Hylam Wiskode, much the worse for drink. Cugel grinned unpleasantly and followed the staggering hetman into a side-street.
+
+---Beat 50: Stealth---
 
 A single blow on the back of the head was enough; the hetman toppled into a ditch. Cugel was instantly upon him, and with deft fingers took his keys. Going now to the public repository, he opened the door, slipped inside and filled a sack with gems, coins, flasks of costly essences, relics, and the like.
 
@@ -543,6 +643,8 @@ In great terror, the girl obeyed. At Cugel’s order she threw a cloak about her
 “No matter. Come now — through the window. Make not a sound!”
 
 Standing outside in the dark Marlinka cast a horror-stricken glance toward the tower. “Who is on watch? Who guards Vull from Magnatz?”
+
+---Beat 51: Foreshadowing---
 
 “No one is on watch,” said Cugel. “The tower is empty!”
 
@@ -560,6 +662,8 @@ Untying the boat, he shipped oars and rowed out upon the lake. Marlinka was agha
 
 Out upon the face of the lake moved Cugel, counting each stroke of his oars, and watching the stars. “Two hundred paces east … A hundred paces north … Two hundred paces east … Fifty paces south …”
 
+---Beat 52: Argument---
+
 So Cugel rowed while to right and left of them sounded the suck of whirling water. But the mist had gathered to blot out the stars and Cugel was forced to throw out the anchor. “This is well enough,” he said. “We are safe now, and there is much that lies between us.”
 
 The girl shrank to her end of the boat. Cugel stepped astern and joined her. “Here I am, your spouse! Are you not overjoyed that finally we are alone? My chamber at the inn was far more comfortable, but this boat will suffice.”
@@ -574,6 +678,8 @@ The girl shrank to her end of the boat. Cugel stepped astern and joined her. “
 
 Marlinka uttered a poignant cry, which was muffled in the mist. “Never speak the cursed name!”
 
+---Beat 53: Threat / Intimidation---
+
 “Why not? I shall shout it across the water! I will inform Magnatz that the spell is gone, that now he may come for his revenge!”
 
 “No, no, indeed not!”
@@ -587,6 +693,8 @@ Another hour passed; the sun was now aloft. The folk of Vull would discover that
 He jerked, strained, and the line gave a trifle. Cugel pulled with all his strength. From below came a great bubbling. “A whirlpool!” cried Marlinka in terror.
 
 “No whirlpool here,” panted Cugel, and jerked once more. The line seemed to relax and Cugel hauled in the rope. Looking over the side he found himself staring into an enormous pale face. The anchor had caught in a nostril. As he looked the eyes blinked open.
+
+---Beat 54: Hook / Cliffhanger---
 
 Cugel threw away the line, leapt for the oars, frantically rowed for the southern shore.
 
@@ -604,15 +712,23 @@ Cugel waited no longer. He turned and ran with all speed up the mountainside.
 
 ## Chapter IV - The Sorcerer Pharesm
 
+---Beat 55: Travel---
+
 The mountains were behind: the dark defiles, the tarns, the echoing stone heights — all now a sooty bulk to the north. For a time Cugel wandered a region of low rounded hills the color and texture of old wood, with groves of blue-black trees dense along the ridges, then came upon a faint trail which took him south by long swings and slants, and at last broke out over a vast dim plain. A half-mile to the right rose a line of tall cliffs, which instantly attracted his attention, bringing him a haunting pang of déjà-vu. He stared mystified. At some time in the past he had known these cliffs: how? when? His memory provided no response. He settled himself upon a low lichen-covered rock to rest, but now Firx, the monitor which Iucounu the Laughing Magician had implanted in Cugel’s viscera, became impatient and inflicted a stimulating pang. Cugel leapt to his feet, groaning with weariness and shaking his fist to the southwest, the presumable direction of Almery. “Iucounu, Iucounu! If I could repay a tenth of your offenses, the world would think me harsh!”
+
+---Beat 56: Recap---
 
 He set off down the trail, under the cliffs which had affected him with such poignant but impossible recollections. Far below spread the plain, filling three-quarters of the horizon with colors much like those of the lichened rock Cugel had just departed: black patches of woodland; a gray crumble where ruins filled an entire valley; nondescript streaks of gray-green, lavender, gray-brown; the leaden glint of two great rivers disappearing into the haze of distance.
 
 Cugel’s brief rest had only served to stiffen his joints; he limped, and the pouch chafed his hip. Even more distressing was the hunger gripping his belly. Another tally against Iucounu who had sent Cugel to the northern wastes on a mission of wanton frivolity: Iucounu, it must be allowed had furnished an amulet converting such normally inedible substances as grass, wood, horn, hair, humus and the like into a nutritious paste. Unfortunately — and this was a measure of Iucounu’s mordant humor — the paste retained the flavor of the native substance, and during his passage of the mountains Cugel had tasted little better than spurge, cullion, blackwort, oak-twigs and galls, and on one occasion, when all else failed, certain refuse discovered in the cave of a bearded thawn. Cugel had eaten only minimally; his long spare frame had become gaunt; his cheek-bones protruded like sponsons; the black eyebrows which once had crooked so jauntily now lay flat and dispirited. Truly, truly, Iucounu had much to answer for! And Cugel, as he proceeded, debated the exact quality of revenge he would take if ever he found his way back to Almery.
 
+---Beat 57: Establishing---
+
 The trail swung down upon a wide stony flat where the wind had carved a thousand grotesque figures. Surveying the area Cugel thought to perceive regularity among the eroded shapes, and halted to rub his long chin in appraisal. The pattern displayed an extreme subtlety — so subtle indeed, that Cugel wondered if it had not been projected by his own mind. Moving closer, he discerned further complexities, and elaborations upon complexities: twists, spires, volutes; disks, saddles, wrenched spheres; torsions and flexions; spindles, cardioids, lanciform pinnacles: the most laborious, painstaking and intricate rock-carving conceivable, manifestly no random effort of the elements. Cugel frowned in perplexity, unable to imagine a motive for so complex an undertaking.
 
 He went on and a moment later heard voices, together with the clank of tools. He stopped short, listened cautiously, then proceeded, to come upon a gang of about fifty men ranging in stature from three inches to well over twelve feet. Cugel approached on tentative feet, but after a glance the workers paid him no heed, continuing to chisel, grind, scrape, probe and polish with dedicated zeal.
+
+---Beat 58: Character Intro---
 
 Cugel watched for several minutes, then approached the overseer, a man three feet in height who stood at a lectern consulting the plans spread before him, comparing them to the work in progress by means of an ingenious optical device. He appeared to note everything at once, calling instructions, chiding, exhorting against error, instructing the least deft in the use of their tools. To exemplify his remarks he used a wonderfully extensible forefinger, which reached forth thirty feet to tap at a section of rock, to scratch a quick diagram, then as swiftly retract.
 
@@ -620,11 +736,17 @@ The foreman drew back a pace or two, temporarily satisfied with the work in prog
 
 “The work is as you see,” replied the foreman in a voice of penetrating compass. “From natural rock we produce specified shapes, at the behest of the sorcerer Pharesm … Now then! Now then!” The cry was addressed to a man three feet taller than Cugel, who had been striking the stone with a pointed maul. “I detect overconfidence!” The forefinger shot forth. “Use great care at this juncture; note how the rock tends to cleave? Strike here a blow of the sixth intensity at the vertical, using a semi-clenched grip; at this point a fourth-intensity blow groin-wise; then employ a quarter-gauge bant-iron to remove the swange.”
 
+---Beat 59: Banter---
+
 With the work once more going correctly, he fell to studying his plans, shaking his head with a frown of dissatisfaction. “Much too slow! The craftsmen toil as if in a drugged torpor, or else display a mulish stupidity. Only yesterday Dadio Fessadil, he of three ells with the green kerchief yonder, used a nineteen-gauge feezing-bar to groove the bead of a small inverted quatrefoil.”
 
 Cugel shook his head in surprise, as if never had he heard of so egregious a blunder. And he asked: “What prompts this inordinate rock-hewing?”
 
+---Beat 60: Persuasion / Speech---
+
 “I cannot say,” replied the foreman. “The work has been in progress three hundred and eighteen years, but during this time Pharesm has never clarified his motives. They must be pointed and definite, for he makes a daily inspection and is quick to indicate errors.” Here he turned aside to consult with a man as tall as Cugel’s knee, who voiced uncertainty as to the pitch of a certain volute. The foreman, consulting an index, resolved the matter; then he turned back to Cugel, this time with an air of frank appraisal. “You appear both astute and deft; would you care to take employment? We lack several craftsmen of the half-ell category, or, if you prefer more forceful manifestations, we can nicely use an apprentice stone-breaker of sixteen ells. Your stature is adjusted in either direction, there is identical scope for advancement. As you see I am a man of four ells. I reached the position of Striker in one year, Molder of Forms in three, Assistant Chade in ten, and I have now served as Chief Chade for nineteen years. My predecessor was of two ells, and the Chief Chade before him was a ten-ell man.” He went on to enumerate advantages of the work, which included sustenance, shelter, narcotics of choice, nympharium privileges, a stipend starting at ten terces a day, various other benefits including Pharesm’s services as diviner and exorciser. “Additionally, Pharesm maintains a conservatory where all may enrich their intellects. I myself take instruction in Insect Identification, the Heraldry of the Kings of Old Gomaz, Unison Chanting, Practical Catalepsy and Orthodox Doctrine. You will never find a master more generous than Pharesm the Sorcerer!”
+
+---Beat 61: Negotiation---
 
 Cugel restrained a smile for the Chief Chade’s enthusiasm; still, his stomach was roiling with hunger and he did not reject the proffer out of hand. “I had never before considered such a career,” he said. “You cite advantages of which I was unaware.”
 
@@ -636,15 +758,21 @@ The Chief Chade gave a nod of profound agreement. “We encourage deliberation i
 
 Firx, suddenly apprehending that Cugel proposed a delay, made representations of a most agonizing nature. Clasping his abdomen, Cugel took himself aside and while the Chief Chade watched in perplexity, argued heatedly with Firx. “How may I proceed without sustenance?” Firx’s response was an incisive motion of the barbs. “Impossible!” exclaimed Cugel. “The amulet of Iucounu theoretically suffices, but I can stomach no more spurge; remember, if I fall dead in the trail, you will never rejoin your comrade in Iucounu’s vats!”
 
+---Beat 62: Internal Monologue---
+
 Firx saw the justice of the argument and reluctantly became quiet. Cugel returned to the lectern, where the Chief Chade had been distracted by the discovery of a large tourmaline opposing the flow of a certain complicated helix. Finally Cugel was able to engage his attention. “While I weigh the proffer of employment and the conflicting advantages of diminution versus elongation, I will need a couch on which to recline. I also wish to test the perquisites you describe, perhaps for the period of a day or more.”
 
 “Your prudence is commendable,” declared the Chief Chade. “The folk of today tend to commit themselves rashly to courses they later regret. It was not so in my youth, when sobriety and discretion prevailed. I will arrange for your admission into the compound, where you may verify each of my assertions. You will find Pharesm stern but just, and only the man who hacks the rock willy-nilly has cause to complain. But observe! here is Pharesm the Sorcerer on his daily inspection!”
+
+---Beat 63: Character Intro---
 
 Up the trail came a man of imposing stature wearing a voluminous white robe. His countenance was benign; his hair was like yellow down; his eyes were turned upward as if rapt in the contemplation of an ineffable sublimity. His arms were sedately folded, and he moved without motion of his legs. The workers, doffing their caps and bowing in unison, chanted a respectful salute, to which Pharesm returned an inclination of the head. Spying Cugel, he paused, made a swift survey of the work so far accomplished, then glided without haste to the lectern.
 
 “All appears reasonably exact,” he told the Chief Chade. “I believe the polish on the underside of Epi-projection 56-16 is uneven and I detect a minute chip on the secondary cinctor of the nineteenth spire. Neither circumstance seems of major import and I recommend no disciplinary action.”
 
 “The deficiencies shall be repaired and the careless artisans reprimanded: this at the very least!” exclaimed the Chief Chade in an angry passion. “Now I wish to introduce a possible recruit to our work-force. He claims no experience at the trade, and will deliberate before deciding to join our group. If he so elects, I envision the usual period as rubble-gatherer, before he is entrusted with tool-sharpening and preliminary excavation.”
+
+---Beat 64: Complication---
 
 “Yes; this would accord with our usual practice. However …” Pharesm glided effortlessly forward, took Cugel’s left hand and performed a swift divination upon the fingernails. His bland countenance became sober. “I see contradictions of four varieties. Still it is clear that your optimum bent lies elsewhere than in the hewing and shaping of rock. I advise that you seek another and more compatible employment.”
 
@@ -656,6 +784,8 @@ The Chief Chade extended his forefinger thirty feet vertically in outraged remon
 
 “So long?” asked Cugel in astonishment.
 
+---Beat 65: Persuasion / Speech---
+
 “This is the barest minimum. First you are swathed head to foot in the intestines of fresh-killed owls, then immersed in a warm bath containing a number of secret organic substances. I must, of course, char the small toe of your left foot, and dilate your nose sufficiently to admit an explorer beetle, that he may study the conduits leading to and from your sensorium. But let us return to my divinatory, that we may commence the process in good time.”
 
 Cugel pulled at his chin, torn this way and that. Finally he said, “I am a cautious man, and even must ponder the advisability of undertaking such a divination; hence, I will require several days of calm and meditative somnolence. Your compound and the adjacent nympharium appear to afford the conditions requisite to such a state; hence —”
@@ -664,17 +794,23 @@ Pharesm indulgently shook his head. “Caution, like any other virtue, can be ca
 
 Cugel attempted to argue further but Pharesm was adamant, and presently glided off down the trail.
 
+---Beat 66: Discovery---
+
 Cugel disconsolately went to the side, considering first this stratagem, then that. The sun neared the zenith, and the workmen began to speculate as to the nature of the viands to be served for their mid-day meal. At last the Chief Chade signaled; all put down their tools and gathered about the cart which contained the repast.
 
 Cugel jocularly called out that he might be persuaded to share the meal, but the Chief Chade would not hear of it. “As in all of Pharesm’s activities, an exactitude of consequence must prevail. It is an unthinkable discrepancy that fifty-four men should consume the food intended for fifty-three.”
 
 Cugel could contrive no apposite reply, and sat in silence while the rock-hewers munched at meat pies, cheeses and salt fish. All ignored him save for one, a quarter-ell man whose generosity far exceeded his stature, and who undertook to reserve for Cugel a certain portion of his food. Cugel replied that he was not at all hungry, and rising to his feet wandered off through the project, hoping to discover some forgotten cache of food. He prowled here and there, but the rubble-gatherers had removed every trace of substance extraneous to the pattern. With appetite unassuaged Cugel arrived at the center of the work where, sprawled on a carved disk, he spied a most peculiar creature: essentially a gelatinous globe swimming with luminous particles from which a number of transparent tubes or tentacles dwindled away to nothing. Cugel bent to examine the creature, which pulsed with a slow internal rhythm. He prodded it with his finger, and bright little flickers rippled away from the point of contact. Interesting: a creature of unique capabilities!
 
+---Beat 67: Physical Task---
+
 Removing a pin from his garments, he prodded a tentacle, which emitted a peevish pulse of light, while the golden flecks in its substance surged back and forth. More intrigued than ever, Cugel hitched himself close, and gave himself to experimentation, probing here and there, watching the angry flickers and sparkles with great amusement.
 
 A new thought occurred to Cugel. The creature displayed qualities reminiscent of both coelenterate and echinoderm. A terrene nudibranch? A mollusc deprived of its shell? More importantly, was the creature edible?
 
 Cugel brought forth his amulet, applied it to the central globe and to each of the tentacles. He heard neither chime nor buzz: the creature was non-poisonous. He unsheathed his knife, sought to excise one of the tentacles, but found the substance too resilient and tough to be cut. There was a brazier nearby, kept aglow for forging and sharpening the workers’ tools. He lifted the creature by two of its tentacles, carried it to the brazier and arranged it over the fire. He toasted it carefully and when he deemed it sufficiently cooked, sought to eat it. Finally, after various undignified efforts, he crammed the entire creature down his throat, finding it without taste or sensible nutritive volume.
+
+---Beat 68: Establishing---
 
 The stone-carvers were returning to their work. With a significant glance for the foreman Cugel set off down the trail.
 
@@ -688,6 +824,8 @@ Cugel gave a bitter laugh. “I am a man of iron principle, and I will not compl
 
 Pharesm swung about with a suddenly intent expression. “A great transparent insect, you say?”
 
+---Beat 69: Confession / Revelation---
+
 “Insect, epiphyte, mollusc — who knows? It resembled no creature I have yet seen, and its flavor, even after carefully grilling at the brazier, was not distinctive.”
 
 Pharesm floated seven feet into the air, to turn the full power of his gaze down at Cugel. He spoke in a low harsh voice: “Describe this creature in detail!”
@@ -695,6 +833,8 @@ Pharesm floated seven feet into the air, to turn the full power of his gaze down
 Wondering at Pharesm’s severity, Cugel obeyed. “It was thus and thus as to dimension.” He indicated with his hands. “In color it was a gelatinous transparency shot with numberless golden specks. These flickered and pulsed when the creature was disturbed. The tentacles seemed to grow flimsy and disappear rather than terminate. The creature evinced a certain sullen determination, and ingestion proved difficult.”
 
 Pharesm clutched at his head, hooking his fingers into the yellow down of his hair. He rolled his eyes upward and uttered a tragic cry. “Ah! Five hundred years I have toiled to entice this creature, despairing, doubting, brooding by night, yet never abandoning hope that my calculations were accurate and my great talisman cogent. Then, when finally it appears, you fall upon it for no other reason than to sate your repulsive gluttony!”
+
+---Beat 70: Argument---
 
 Cugel, somewhat daunted by Pharesm’s wrath, asserted his absence of malicious intent. Pharesm would not be mollified. He pointed out that Cugel had committed trespass and hence had forfeited the option of pleading innocence. “Your very existence is a mischief, compounded by bringing the unpleasant fact to my notice. Benevolence prompted me to forbearance, which now I perceive for a grave mistake.”
 
@@ -704,9 +844,13 @@ Cugel, somewhat daunted by Pharesm’s wrath, asserted his absence of malicious 
 
 Cugel spoke in great distress. “I understand that an act of consequence was performed, but remember! my participation was basically casual. I categorically declare first my absolute innocence, second my lack of criminal intent, and third my effusive apologies. And now, since I have many leagues to travel, I will —”
 
+---Beat 71: Lore Drop---
+
 Pharesm made a peremptory gesture. Cugel fell silent. Pharesm drew a deep breath. “You fail to understand the calamity you have visited upon me. I will explain, so that you may not be astounded by the rigors which await you. As I have adumbrated, the arrival of the creature was the culmination of my great effort. I determined its nature through a perusal of forty-two thousand librams, all written in cryptic language: a task requiring a hundred years. During a second hundred years I evolved a pattern to draw it in upon itself and prepared exact specification. Next I assembled stone-cutters, and across a period of three hundred years gave solid form to my pattern. Since like subsumes like, the variates and intercongeles create a suprapullulation of all areas, qualities and intervals into a crystorrhoid whorl, eventually exciting the ponentiation of a pro-ubietal chute. Today occurred the concatenation; the ‘creature’, as you call it, pervolved upon itself; in your idiotic malice you devoured it.”
 
 Cugel, with a trace of haughtiness, pointed out that the “idiotic malice” to which the distraught sorcerer referred was in actuality simple hunger. “In any event, what is so extraordinary about the ‘creature’? Others equally ugly may be found in the net of any fisherman.”
+
+---Beat 72: Reveal---
 
 Pharesm drew himself to his full height, glared down at Cugel. “The ‘creature’,” he said in a grating voice, “is TOTALITY. The central globe is all of space, viewed from the inverse. The tubes are vortices into various eras, and what terrible acts you have accomplished with your prodding and poking, your boiling and chewing, are impossible to imagine!”
 
@@ -718,6 +862,8 @@ Cugel held out his hands. “Is it not possible a mistake has been made? That th
 
 “The first two theories are untenable. As to the last, I must confess that certain frantic expedients have been forming in my mind.” Pharesm made a sign, and Cugel’s feet became attached to the soil. “I must go to my divinatory and learn the full significance of the distressing events. In due course I will return.”
 
+---Beat 73: Complication---
+
 “At which time I will be feeble with hunger,” said Cugel fretfully. “Indeed, a crust of bread and a bite of cheese would have averted all the events for which I am now reproached.”
 
 “Silence!” thundered Pharesm. “Do not forget that your penalty remains to be fixed; it is the height of impudent recklessness to hector a person already struggling to maintain his judicious calm!”
@@ -727,6 +873,8 @@ Cugel held out his hands. “Is it not possible a mistake has been made? That th
 “The restoration of vitality is a small task,” said Pharesm. “A variety of deaths by contrasting processes may well enter into your judgment.” He started toward his divinatory, then turned back and made an impatient gesture. “Come, it is easier to feed you than return to the road.”
 
 Cugel’s feet were once more free and he followed Pharesm through a wide arch into the divinatory. In a broad room with splayed gray walls, illuminated by three-colored polyhedra, Cugel devoured the food Pharesm caused to appear. Meanwhile Pharesm secluded himself in his workroom, where he occupied himself with his divinations. As time passed Cugel grew restless, and on three occasions approached the arched entrance. On each occasion a Presentment came to deter him, first in the shape of a leaping ghoul, next as a zig-zag blaze of energy, and finally as a score of glittering purple wasps.
+
+---Beat 74: Dread / Anticipation---
 
 Discouraged, Cugel went to a bench, and sat waiting with elbows on long legs, hands under his chin.
 
@@ -744,6 +892,8 @@ Cugel glumly obeyed. “In a certain sense, I feel that —”
 
 “Silence!” Pharesm came forward. “Notice this object!” He displayed an ivory sphere the size of two fists, carved in exceedingly fine detail. “Here you see the pattern from which my great work is derived. It expresses the symbolic significance of NULLITY to which TOTALITY must necessarily attach itself, by Kratinjae’s Second Law of Cryptorrhoid Affinities, with which you are possibly familiar.”
 
+---Beat 75: Lore Drop---
+
 “Not in every aspect,” said Cugel. “But may I ask your intentions?”
 
 Pharesm’s mouth moved in a cool smile. “I am about to attempt one of the most cogent spells ever evolved: a spell so fractious, harsh, and coactive, that Phandaal, Ranking Sorcerer of Grand Motholam, barred its use. If I am able to control it, you will be propelled one million years into the past. There you will reside until you have accomplished your mission, when you may return.”
@@ -751,6 +901,8 @@ Pharesm’s mouth moved in a cool smile. “I am about to attempt one of the mos
 Cugel stepped quickly from the black disk. “I am not the man for this mission, whatever it may be. I fervently urge the use of someone else!”
 
 Pharesm ignored the expostulation. “The mission, of course, is to bring the symbol into contact with TOTALITY.” He brought forth a wad of tangled gray tissue. “In order to facilitate your search, I endow you with this instrument which relates all possible vocables to every conceivable system of meaning.” He thrust the net into Cugel’s ear, where it swiftly engaged itself with the nerve of consonant expression. “Now,” said Pharesm, “you need listen to a strange language for but three minutes when you become proficient in its use. And now, another article to enhance the prospect of success: this ring. Notice the jewel: should you approach to within a league of TOTALITY, darting lights within the gem will guide you. Is all clear?”
+
+---Beat 76: Object Focus---
 
 Cugel gave a reluctant nod. “There is another matter to be considered. Assume that your calculations are incorrect and that TOTALITY has returned only nine hundred thousand years into the past: what then? Must I dwell out my life in this possibly barbarous era?”
 
@@ -762,17 +914,27 @@ Sweat oozing from his glands, knees quivering and sagging, Cugel returned to the
 
 Pharesm retreated to the far end of the room, where he stepped into a coil of gold tubing, which sprang spiraling up to clasp his body. From a desk he took four black disks, which he began to shuffle and juggle with such fantastic dexterity that they blurred in Cugel’s sight. Pharesm at last flung the disks away; spinning and wheeling they hung in the air, gradually drifting toward Cugel.
 
+---Beat 77: Ritual / Casting---
+
 Pharesm next took up a white tube, pressed it tight against his lips and spoke an incantation. The tube swelled and bulged into a great globe. Pharesm twisted the end shut and shouting a thunderous spell, hurled the globe at the spinning disks, and all exploded. Cugel was surrounded, seized, jerked in all directions outward, compressed with equal vehemence: the net result, a thrust in a direction contrary to all, with an impetus equivalent to the tide of a million years. Among dazzling lights and distorted visions Cugel was transported beyond his consciousness.
 
 Cugel awoke in a glare of orange-gold sunlight, of a radiance he had never known before. He lay on his back looking up into a sky of warm blue, of lighter tone and softer texture than the indigo sky of his own time.
 
 He tested arms and legs and finding no damage, sat upright, then slowly rose to his feet, blinking in the unfamiliar radiance.
 
+---Beat 78: Atmosphere---
+
 The topography had changed only slightly. The mountains to the north were taller and of harsher texture, and Cugel could not identify the way he had come — or, more properly — the way he would come. The site of Pharesm’s project was now a low forest of feather-light green trees, on which hung clusters of red berries. The valley was as before, though the rivers flowed by different courses and three great cities were visible at varying distances. The air drifting up from the valley carried a strange tart fragrance mingled with an antique exhalation of moulder and must, and it seemed to Cugel that a peculiar melancholy hung in the air; in fact, he thought to hear music: a slow plaintive melody, so sad as to bring tears to his eyes. He searched for the source of the music, but it faded and disappeared even as he sought it, and only when he ceased to listen did it return.
+
+---Beat 79: Internal Monologue---
 
 For the first time Cugel looked toward the cliffs which rose to the west, and now the sense of déjà-vu was stronger than ever. Cugel pulled at his chin in puzzlement. The time was a million years previous to that other occasion on which he had seen the cliffs, and hence, by definition, must be the first. But it was also the second time, for he well remembered his initial experience of the cliffs. On the other hand, the logic of time could not be contravened, and by such reckoning this view preceded the other. A paradox, thought Cugel: a puzzle indeed! Which experience had provided the background to the poignant sense of familiarity he had felt on both occasions? … Cugel dismissed the subject as unprofitable and started to turn away when movement caught his eye. He looked back up the face of the cliffs, and the air was suddenly full and rich with the music he had heard before, music of anguish and exalted despair. Cugel stared in wonder. A great winged creature wearing white robes flapped on high along the face of the cliff. The wings were long, ribbed with black chitin, sheathed with gray membrane. Cugel watched in awe as it swooped into a cave high up in the face of the cliff.
 
+---Beat 80: Setback---
+
 A gong tolled, from a direction Cugel could not determine. Overtones shuddered across the air, and when they died, the unheard music became almost audible. From far over the valley came one of the Winged Beings, carrying a human form, of what age and sex Cugel could not determine. It hovered beside the cliff and dropped its burden. Cugel thought to hear a faint cry and the music was sad, stately, sonorous. The body seemed to fall slowly down the great height and struck at last at the base of the cliff. The Winged Being, after dropping the body, glided to a high ledge, where it folded its wings and stood like a man, staring over the valley. Cugel shrank back behind a rock. Had he been seen? He could not be sure. He heaved a deep sigh. This sad golden world of the past was not to his liking; the sooner he could leave the better. He examined the ring which Pharesm had furnished, but the gem shone like dull glass, with none of the darting glitters which would point the direction to TOTALITY. It was as Cugel feared. Pharesm had erred in his calculations and Cugel could never return to his own time.
+
+---Beat 81: Stealth---
 
 The sound of flapping wings caused him to look into the sky. He shrank back into such concealment as the rock offered. The music of woe swelled and sighed away, as in the light of the setting sun the winged creature hovered beside the cliff and dropped its victim. Then it landed on a ledge with a great flapping of wings and entered a cave.
 
@@ -782,15 +944,23 @@ The path presently entered a grove of trees and here Cugel paused to catch his b
 
 The trail led away from the cliffs, across rolling downs, and just before the twilight gave way to night Cugel came to a village standing on the banks of a pond.
 
+---Beat 82: Establishing---
+
 Cugel approached warily, but was encouraged by the signs of tidiness and good husbandry. In a park beside the pond stood a pavilion possibly intended for music, miming or declamation; surrounding the park were small narrow houses with high gables, the ridges of which were raised in decorative scallops. Opposite the pond was a larger building, with an ornate front of woven wood and enameled plaques of red, blue and yellow. Three tall gables served as its roof, the central ridge supporting an intricate carved panel, while those to either side bore a series of small spherical blue lamps. At the front was a wide pergola sheltering benches, tables and an open space, all illuminated by red and green fire-fans. Here towns-folk took their ease, inhaling incense and drinking wine, while youths and maidens cavorted in an eccentric high-kicking dance, to the music of pipes and a concertina.
 
+---Beat 83: Character Intro---
+
 Emboldened by the placidity of the scene, Cugel approached. The villagers were of a type he had never before encountered, of no great stature, with generally large heads and long restless arms. Their skin was a rich pumpkin orange; their eyes and teeth were black; their hair, likewise black, hung smoothly down beside the faces of the men to terminate in a fringe of blue beads, while the women wound their hair around white rings and pegs, to arrive at a coiffure of no small complexity. The features were heavy at jaw and cheek-bone; the long wide-spaced eyes drooped in a droll manner at the outer corners. The noses and ears were long and were under considerable muscular control, endowing the faces with great vivacity. The men wore flounced black kirtles, brown surcoats, headgear consisting of a wide black disk, a black cylinder, another lesser disk, surmounted by a gilded ball. The women wore black trousers, brown jackets with enameled disks at the navel, and at each buttock a simulated tail of green or red plumes, possibly an indication as to marital status.
+
+---Beat 84: Complication---
 
 Cugel stepped into the light of the fire-fans; instantly all talk ceased. Noses became rigid, eyes stared, ears twisted about in curiosity. Cugel smiled to left and right, waved his hands in a debonair all-inclusive greeting, and took a seat at an empty table.
 
 There were mutters of astonishment at the various tables, too quiet to reach Cugel’s ears. Presently one of the elders arose and approaching Cugel’s table spoke a sentence, which Cugel found unintelligible, for with insufficient scope, Pharesm’s mesh as yet failed to yield meaning. Cugel smiled politely, held wide his hands in a gesture of well-meaning helplessness. The elder spoke once more, in a rather sharper voice, and again Cugel indicated his inability to understand. The elder gave his ears a sharp disapproving jerk and turned away. Cugel signaled to the proprietor, pointed to the bread and wine on a nearby table and signified his desire that the same be brought to him.
 
 The proprietor voiced a query which, for all its unintelligibility, Cugel was able to interpret. He brought forth a gold coin, and, satisfied, the proprietor turned away.
+
+---Beat 85: Conversation---
 
 Conversation recommenced at the various tables and before long the vocables conveyed meaning to Cugel. When he had eaten and drunk, he rose to his feet and walked to the table of the elder who had first spoken to him, where he bowed respectfully. “Do I have permission to join you at your table?”
 
@@ -801,6 +971,8 @@ Conversation recommenced at the various tables and before long the vocables conv
 “Ingenious but peculiar,” was the elder’s comment. “Still, your conduct offers no explicit contradiction to orthodoxy. May I inquire the urgency which brings you to Farwan?”
 
 Cugel glanced at his ring; the crystal was dull and lifeless: TOTALITY was clearly elsewhere. “My homeland is uncultured; I travel that I may learn the modes and styles of more civilized folk.”
+
+---Beat 86: Conversation---
 
 “Indeed!” The elder mulled the matter over for a moment, and nodded in qualified approval. “Your garments and physiognomy are of a type unfamiliar to me; where is this homeland of yours?”
 
@@ -814,6 +986,8 @@ The elder gave his nose a saturnine twitch. Cugel was clearly a dolt. He said sh
 
 “I doubt nothing,” said Cugel. “In fact I admit to ignorance. But tell me more, for I may be forced to abide long in this region. For instance, what of the Winged Beings that reside in the cliff? What manner of creature are they?”
 
+---Beat 87: Lore Drop---
+
 The elder pointed toward the sky. “If you had the eyes of a nocturnal titvit you might note a dark moon which reels around the earth, and which cannot be seen except when it casts its shadow upon the sun. The Winged Beings are denizens of this dark world and their ultimate nature is unknown. They serve the Great God Yelisea in this fashion: whenever comes the time for man or woman to die, the Winged Beings are informed by a despairing signal from the dying person’s norn. They thereupon descend upon the unfortunate and convey him to their caves, which in actuality constitute a magic opening into the blessed land Byssom.”
 
 Cugel leaned back, black eyebrows raised in a somewhat quizzical arch. “Indeed, indeed,” he said, in a voice which the elder found insufficiently earnest.
@@ -822,6 +996,8 @@ Cugel leaned back, black eyebrows raised in a somewhat quizzical arch. “Indeed
 
 Cugel frowned. “The matter undoubtedly goes as you aver — but are the Winged Beings consistently accurate in their choice of victim?”
 
+---Beat 88: Argument---
+
 The elder rapped the table in annoyance. “The doctrine is irrefutable, for those whom the Winged Beings take never survive, even when they appear in the best of health. Admittedly the fall upon the rocks conduces toward death, but it is the mercy of Yelisea which sees fit to grant a speedy extinction, rather than the duration of a possibly agonizing canker. The system is wholly beneficent. The Winged Beings summon only the moribund, which are then thrust through the cliff into the blessed land Byssom. Occasionally a heretic argues otherwise and in this case — but I am sure that you share the orthodox view?”
 
 “Wholeheartedly,” Cugel asserted. “The tenets of your belief are demonstrably accurate.” And he drank deep of his wine. Even as he set down the goblet a murmur of music whispered through the air: a concord infinitely sweet, infinitely melancholy. All sitting under the pergola became silent — though Cugel was unsure that he in fact had heard music.
@@ -829,6 +1005,8 @@ The elder rapped the table in annoyance. “The doctrine is irrefutable, for tho
 The elder huddled forward a trifle, and drank from his own goblet. Only then did he glance up. “The Winged Beings are passing over even now.”
 
 Cugel pulled thoughtfully at his chin. “How does one protect himself from the Winged Beings?”
+
+---Beat 89: Banter---
 
 The question was ill-put; the elder glared, an act which included the curling forward of his ears. “If a person is about to die, the Winged Beings appear. If not, he need have no fear.”
 
@@ -842,11 +1020,15 @@ The elder drained his goblet and rose to his feet. “You may do as you please; 
 
 “I will perform something of a like nature by and by,” said Cugel. “I wish you the enjoyment of your rite.”
 
+---Beat 90: Banter---
+
 The elder departed the pergola and Cugel was left by himself. Presently certain youths, attracted by curiosity, joined him, and Cugel explained his presence once again, though with less emphasis upon the barbaric crudity of his native land, for several girls had joined the group, and Cugel was stimulated by their exotic coloring and the vivacity of their attitudes. Much wine was served and Cugel was persuaded to attempt the kicking, jumping local dance, which he performed without discredit. The exercise brought him into close proximity with an especially beguiling girl, who announced her name to be Zhiaml Vraz. At the conclusion of the dance, she put her arm around his waist, conducted him back to the table, and settled herself upon his lap. This act of familiarity excited no apparent disapproval among the others of the group, and Cugel was emboldened further. “I have not yet arranged for a bed-chamber; perhaps I should do so before the hour grows late.”
 
 The girl signaled the inn-keeper. “Perhaps you have reserved a chamber for this chisel-faced stranger?”
 
 “Indeed; I will display it for his approval.”
+
+---Beat 91: Object Focus---
 
 He took Cugel to a pleasant chamber on the ground floor, furnished with couch, commode, rug and lamp. On one wall hung a tapestry woven in purple and black; on another was a representation of a peculiarly ugly baby which seemed trapped or compressed in a transparent globe. The room suited Cugel; he announced as much to the innkeeper and returned to the pergola, where now the merry-makers were commencing to disperse. The girl Zhiaml Vraz yet remained, and she welcomed Cugel with a warmth which undid the last vestige of his caution. After another goblet of wine, he leaned close to her ear. “Perhaps I am over-prompt; perhaps I over-indulge my vanity; perhaps I contravene the normal decorum of the village — but is there reason why we should not repair to my chamber, and there amuse ourselves?”
 
@@ -855,6 +1037,8 @@ He took Cugel to a pleasant chamber on the ground floor, furnished with couch, c
 “Excellent,” said Cugel. “Do you care to precede me, or walk discreetly to the rear?”
 
 “We shall go together; there is no need for furtiveness!”
+
+---Beat 92: Complication---
 
 Together they went to the chamber and performed a number of erotic exercises, after which Cugel collapsed into a sleep of utter exhaustion, for his day had been taxing.
 
@@ -869,6 +1053,8 @@ The elder pointed a long quivering finger through the gloom. “I thought to det
 “What else could be expected of an outlander?” asked the elder contemptuously. “Look! even now he refuses to make the sacred sign.”
 
 “I do not know the sacred sign!” Cugel expostulated. “I know nothing of your rites! This is not heresy, it is simple ignorance!”
+
+---Beat 93: Setback---
 
 “I cannot believe this,” said the elder. “Only last night I outlined the nature of orthodoxy.”
 
@@ -888,13 +1074,19 @@ And now Cugel was seized and hauled naked from the chamber. Out across the park 
 
 He was ignored, and stood peering between the interstices of the enclosure while certain of the villagers sent aloft a large balloon of green paper buoyed by hot air, carrying three green fire-fans below.
 
+---Beat 94: Combat---
+
 Dawn showed sallow in the west. The villagers, with all arranged to their satisfaction, withdrew to the edge of the park. Cugel attempted to climb from the enclosure, but the wooden rods were of such dimension and spacing as to allow him no grip.
 
 The sky lightened; high above burnt the green fire-fans. Cugel, hunched and in goose-flesh from the morning chill, walked back and forth the length of the enclosure. He stopped short, as from afar came the haunting music. It grew louder, seeming to reach the very threshold of audibility. High in the sky appeared a Winged Being, white robes trailing and flapping. Down it settled, and Cugel’s joints became limp and loose. The Winged Being hovered over the enclosure, dropped, enfolded Cugel in its white robe, endeavored to bear him aloft. But Cugel had seized a bar of the enclosure and the Winged Being flapped in vain. The bar creaked, groaned, cracked. Cugel fought free of the stifling cloak, tore at the bar with hysterical strength; it snapped and splintered. Cugel seized a fragment, stabbed at the Winged Being. The sharp stick punctured the white cloak, and the Winged Being buffeted Cugel with a wing. Cugel seized one of the chitin ribs and with a mighty effort twisted it around backward, so that the substance cracked and broke and the wing hung torn. The Winged Being, aghast, gave a great bound which carried both it and Cugel out upon the pavilion, and now it hopped through the village trailing its broken wing.
 
+---Beat 95: Chase / Pursuit---
+
 Cugel ran behind belaboring it with a cudgel he had seized up. He glimpsed the villagers staring in awe; their mouths were wide and wet, and they might have been screaming but he heard nothing. The Winged Being hopped faster, up the trail toward the cliff, with Cugel wielding the cudgel with all his strength. The golden sun rose over the far mountains; the Winged Being suddenly turned to face Cugel, and Cugel felt the glare of its eyes, though the visage, if such there were, was concealed beneath the hood of the cloak. Abashed and panting, Cugel stood back, and now it occurred to him that he stood almost defenseless should others drop on him from on high. So now he shouted an imprecation at the creature and turned back to the village.
 
 All had fled. The village was deserted. Cugel laughed aloud. He went to the inn, dressed himself in his garments, buckled on his sword. He went out into the taproom, and looking into the till, found a number of coins which he transferred to his pouch, alongside the ivory representation of NULLITY. He returned outdoors: best to depart while none were on hand to detain him. A flicker of light attracted his attention: the ring on his finger glinted with dozens of streaming sparks, and all pointed up the trail, toward the cliffs.
+
+---Beat 96: Transition---
 
 Cugel shook his head wearily, checked the darting lights once again. Without ambiguity they directed him back the way he had come. Pharesm’s calculations, after all, had been accurate. He had best act with decision, lest TOTALITY once more drift beyond his reach.
 
@@ -906,6 +1098,8 @@ Cugel continued up the road, keeping to such cover as offered itself, but to no 
 
 Cugel consulted the ring and was led on up the trail, with the Winged Beings hovering just above. The ring coruscated with the intensity of its message: there was TOTALITY, resting blandly on a rock!
 
+---Beat 97: Reversal---
+
 Cugel restrained the cry of exultation which rose in his throat. He brought forth the ivory symbol of NULLITY, ran forward and applied it to the gelatinous central globe.
 
 As Pharesm had asserted, adherence was instant. With the contact Cugel could feel the spell which bound him to the olden time dissolving.
@@ -915,6 +1109,8 @@ A swoop, a buffet of great wings! Cugel was knocked to the ground. White cloth e
 Great forces were pulling at Cugel, whirling in all directions at once. There was a roaring in his ears, a flutter of violet lights, and Cugel fell a million years into the future.
 
 He recovered consciousness in the blue-tiled room with the sting of an aromatic liquor at his lips. Pharesm, bending over him, patted his face, poured more of the liquor into his mouth. “Awake! Where is TOTALITY? How are you returned?”
+
+---Beat 98: Confession / Revelation---
 
 Cugel pushed him aside, and sat up on the couch.
 
@@ -930,11 +1126,15 @@ Cugel pointed. “There, or so it would seem. All was confusion, all a tumble of
 
 “Remain here.” Pharesm went inside the workroom and presently returned. “I give you light,” he said, and he handed Cugel a cold white flame tied into a silver chain. “Prepare yourself.”
 
+---Beat 99: Dread / Anticipation---
+
 At Cugel’s feet he cast a pellet which broke into a vortex, and Cugel was carried dizzily aloft to that crumbling ledge which he had indicated to Pharesm. Nearby was the dark opening into a cave. Cugel turned the flame within. He saw a dusty passage, three strides wide and higher than he could reach. It led back into the cliff, twisting slightly to the side. It seemed barren of all life.
 
 Holding the lamp before him Cugel slowly moved along the passage, heart thumping for dread of something he could not define. He stopped short: music? The memory of music? He listened and could hear nothing: but when he tried to step forward fear clamped his legs. He held high the lantern and peered down the dusty passage. Where did it lead? What lay beyond? Dusty cave? Demonland? The blessed land Byssom? Cugel slowly proceeded, every sense alert. On a ledge he spied a shriveled brown spheroid: the talisman he had carried into the past. TOTALITY had long since disengaged itself and departed.
 
 Cugel carefully lifted the object, which was brittle with the age of a million years, and returned to the ledge. The vortex, at a command from Pharesm, conveyed Cugel back to the ground.
+
+---Beat 100: Aftermath---
 
 Dreading the wrath of Pharesm, Cugel tendered the withered talisman.
 
