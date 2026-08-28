@@ -45,8 +45,8 @@ Each blob:
 - Blobs are numbered 1..N; every blob field is empty (`prompt` `""`, `mode` `""`, `type` `""`, `tags` `[]`, `text` `""`). Only `number` varies.
 - `outline` holds the full text under the chapter, verbatim. Preserve `*italics*`, `(*subtext*)`, quotes, and hyphens exactly; encode line breaks as `\n`.
 - `type` is the chapter type string if given (e.g. `"Violence - fights, kills, torture"`), else `""`.
-- `context` = the 5 most important facts about the story/scene that any LLM MUST know before working on any part of it. Draw them from any provided material.
-- Each context fact MUST BE a complete English sentence of 10 words or less. Exactly 5, no more, no fewer.
+- `context` = the 5 most important facts about the story/scene that any LLM MUST know before working on any part of it. These are story-level, not chapter-level, so the same 5 facts apply to every chapter of the same story. Draw them from the outline and any story materials in context. Examples: `"The main character is Gneiss Rong."`, `"The story is told in first-person."`
+- Each context fact is a complete English sentence of 10 words or less. Exactly 5, no more, no fewer.
 - Never invent or fill blob contents; this only scaffolds the empty structure.
 - No em-dashes anywhere.
 
