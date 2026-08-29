@@ -24,7 +24,7 @@ Produce a single JSON chapter object from the user's input. The input is a chapt
 Each blob:
 
 ```json
-{ "number": <1..N>, "prompt": "", "mode": "", "type": "", "tags": [], "text": "" }
+{ "number": <1..N>, "prompt": "", "mode": "", "type": "", "tags": [], "model": "", "text": "" }
 ```
 
 `context` is an array of exactly 5 strings:
@@ -42,7 +42,7 @@ Each blob:
 ## Rules
 
 - **Blob count** = `ceil(word_target / 200)`. E.g. 3000 -> 15, 2200 -> 11, 1116 -> 6.
-- Blobs are numbered 1..N; every blob field is empty (`prompt` `""`, `mode` `""`, `type` `""`, `tags` `[]`, `text` `""`). Only `number` varies.
+- Blobs are numbered 1..N; every blob field is empty (`prompt` `""`, `mode` `""`, `type` `""`, `tags` `[]`, `model` `""`, `text` `""`). Only `number` varies.
 - `outline` holds the full text under the chapter, verbatim. Preserve `*italics*`, `(*subtext*)`, quotes, and hyphens exactly; encode line breaks as `\n`.
 - `type` is the chapter type string if given (e.g. `"Violence - fights, kills, torture"`), else `""`.
 - `context` = the 5 most important facts about the story/scene that any LLM MUST know before working on any part of it. These are story-level, not chapter-level, so the same 5 facts apply to every chapter of the same story. Draw them from the outline and any story materials in context. Examples: `"The main character is Gneiss Rong."`, `"The story is told in first-person."`

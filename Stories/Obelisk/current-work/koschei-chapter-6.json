@@ -16,121 +16,196 @@
       {
         "number": 1,
         "prompt": "Open the chapter as Gneiss and the mulchers take their first steps into the first hell, descending as if into liquid opal: darkness sheened with color, ankle-deep water too blue, walls made of angles and shadow.",
-        "mode": "",
-        "type": "",
-        "tags": [],
+        "mode": "description",
+        "type": "establishing shot",
+        "tags": [
+          "Grounding Detail: Traces of Human Agency.",
+          "sable-waters",
+          "tangled shadows and silence"
+        ],
+        "model": "",
         "text": ""
       },
       {
         "number": 2,
         "prompt": "Show how the place changes the marchers themselves; their eyes deepen as with heavy shadow, every gesture and word swelling large and theatrical, as though they have been dropped into a silent film of stark light and dark.",
-        "mode": "",
-        "type": "",
-        "tags": [],
+        "mode": "description",
+        "type": "foreshadowing",
+        "tags": [
+          "Grounding Detail: Wear and Accumulated Time.",
+          "shadow realm",
+          "oppressive atmosphere"
+        ],
+        "model": "",
         "text": ""
       },
       {
         "number": 3,
         "prompt": "Render the moment Kallus's old warnings come true, and let Gneiss voice the feeling that the space of the basement was always more than it promised to be.",
-        "mode": "",
-        "type": "",
-        "tags": [],
+        "mode": "documents & frames",
+        "type": "epiphany",
+        "tags": [
+          "Grounding Detail: Procedural Authority: jargon, deliberate misuse of tools, etc.",
+          "nightmare descent into madness",
+          "barrel-vault"
+        ],
+        "model": "",
         "text": ""
       },
       {
         "number": 4,
         "prompt": "Describe stealth collapsing within minutes: a door handle shrieks like a dying goat as it turns, and Creatures Electric come swarming in from every side.",
-        "mode": "",
-        "type": "",
-        "tags": [],
+        "mode": "action",
+        "type": "predation / disaster",
+        "tags": [
+          "Grounding Detail: Embodiment: Characters physical quirks.",
+          "bursting rippling phosphorescence",
+          "desperate combat impact"
+        ],
+        "model": "",
         "text": ""
       },
       {
         "number": 5,
         "prompt": "Narrate the mulchers fighting back with their replicas as the battle spreads room to room and corridor to corridor, close and relentless.",
-        "mode": "",
-        "type": "",
-        "tags": [],
+        "mode": "action",
+        "type": "combat - the fight itself",
+        "tags": [
+          "Grounding Detail: Economic Texture: Cost, scarcity, counterfeits, etc.",
+          "rubble-strewn-vault",
+          "architrave-debris"
+        ],
+        "model": "",
         "text": ""
       },
       {
         "number": 6,
         "prompt": "Render the arrival of a Mr. Montag, a flying whale whose call wails like an air-raid siren; two mulchers drop dead with cracked bones while others clap their ears in time and keep only ruined hearing.",
-        "mode": "",
-        "type": "",
-        "tags": [],
+        "mode": "description",
+        "type": "reveal",
+        "tags": [
+          "Grounding Detail: Sensory / Textural: Color, temperature, grain, sound, smell.",
+          "limp bodies",
+          "star-born"
+        ],
+        "model": "",
         "text": ""
       },
       {
         "number": 7,
         "prompt": "Follow Gneiss as he ghosts ahead to scout the path back upstairs, only for the Butler to catch him by the single sense he left unhidden, the secret and unnamed seventh.",
-        "mode": "",
-        "type": "",
-        "tags": [],
+        "mode": "connective tissue",
+        "type": "stealth",
+        "tags": [
+          "Grounding Detail: Particularity: A specific detail.",
+          "twilight-corridor",
+          "moonless-darkness"
+        ],
+        "model": "",
         "text": ""
       },
       {
         "number": 8,
         "prompt": "Describe the Butler's tender, adoring voice and Gneiss's cold understanding that he is outmatched and cannot defeat a butler.",
-        "mode": "",
-        "type": "",
-        "tags": [],
+        "mode": "interiority",
+        "type": "dread / anticipation",
+        "tags": [
+          "Grounding Detail: Quantification: Odd-numbered specificity.",
+          "ghost serpent",
+          "oppressive weight of tradition"
+        ],
+        "model": "",
         "text": ""
       },
       {
         "number": 9,
         "prompt": "Have the Butler make its mocking admission: disguised as the mulchers' housecat, it stole their spellbreaker keys, broke the seals on the stairs, and let the creatures in, all in the name of chaos and fun.",
-        "mode": "",
-        "type": "",
-        "tags": [],
+        "mode": "dialogue",
+        "type": "confession / revelation",
+        "tags": [
+          "Grounding Detail: Cultural Artifacts.",
+          "trap door to bottomless abyss",
+          "corrupting presence"
+        ],
+        "model": "",
         "text": ""
       },
       {
         "number": 10,
         "prompt": "Let the two talk at length as the Butler drops the names of other powerful butlers, Julio and Arluck among them.",
-        "mode": "",
-        "type": "",
-        "tags": [],
+        "mode": "exposition",
+        "type": "lore drop",
+        "tags": [
+          "Grounding Detail: Embodiment: Characters physical quirks.",
+          "two-headed serpent",
+          "forgotten wings"
+        ],
+        "model": "",
         "text": ""
       },
       {
         "number": 11,
         "prompt": "Depict Gneiss parleying for silence: he offers to keep the Butler's secret if it will only let them pass by unscathed.",
-        "mode": "",
-        "type": "",
-        "tags": [],
+        "mode": "dialogue",
+        "type": "negotiation / bargaining",
+        "tags": [
+          "Grounding Detail: Economic Texture: Cost, scarcity, counterfeits, etc.",
+          "smoldering-eyes",
+          "fiend-haunted cavern depths"
+        ],
+        "model": "",
         "text": ""
       },
       {
         "number": 12,
         "prompt": "Capture the deal breaking as the mulchers arrive, Phansy fires on instinct, and the fragile truce shatters in an instant.",
-        "mode": "",
-        "type": "",
-        "tags": [],
+        "mode": "action",
+        "type": "reversal / irony",
+        "tags": [
+          "Grounding Detail: Traces of Human Agency.",
+          "storm-like fury",
+          "oath-bound"
+        ],
+        "model": "",
         "text": ""
       },
       {
         "number": 13,
         "prompt": "Narrate the Butler slaughtering them while the creatures strike from behind, until of eighteen demons and she-demons only Gneiss walks away, activating his coat with all seven senses at last.",
-        "mode": "",
-        "type": "",
-        "tags": [],
+        "mode": "action",
+        "type": "escape",
+        "tags": [
+          "Grounding Detail: Malfunction.",
+          "magical sacrifice",
+          "serpent speed"
+        ],
+        "model": "",
         "text": ""
       },
       {
         "number": 14,
         "prompt": "Convey Joiyuss's death cutting deepest, yet Gneiss keeping the Axe and, Perli still in his thoughts, pressing deeper into hell rather than out, until hours of travel leave every path alike and no Way to be found.",
-        "mode": "",
-        "type": "",
-        "tags": [],
+        "mode": "interiority",
+        "type": "aftermath",
+        "tags": [
+          "Grounding Detail: Cultural Artifacts.",
+          "fragility against impersonal forces",
+          "perpetual mist"
+        ],
+        "model": "",
         "text": ""
       },
       {
         "number": 15,
         "prompt": "Close the chapter as Gneiss meets a Moon with a Face, a talking crescent door; after a strange game of questions he spares rather than blasts it, and it creaks open a forgotten hallway and asks to be remembered.",
-        "mode": "",
-        "type": "",
-        "tags": [],
+        "mode": "dialogue",
+        "type": "conversation",
+        "tags": [
+          "Grounding Detail: Wear and Accumulated Time.",
+          "curved towers and pinnacles",
+          "impending dusk"
+        ],
+        "model": "",
         "text": ""
       }
     ]
