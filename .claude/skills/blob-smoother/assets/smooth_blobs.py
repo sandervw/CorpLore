@@ -31,11 +31,13 @@ MODELS = [
 ]
 
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
-MAX_ATTEMPTS = 3
+MAX_ATTEMPTS = 4
 TIMEOUT = 180
 MAX_TOKENS = 2000
 TEMPERATURE = 0.35  # Cold: careful reconciliation.
 WINDOW = 3          # Target passage plus up to two preceding.
+BACKOFF_BASE = 5    # Exponential retry base seconds.
+BACKOFF_MAX = 60    # Retry sleep ceiling seconds.
 
 
 def load_api_key():
@@ -81,11 +83,14 @@ def build_messages(target, window, outline, context, orig_wc):
         f"- Preserve the last passage's form: its mode is '{target.get('mode', '')}' and its type "
         f"is '{target.get('type', '')}'. Do not, for example, turn dialogue into narration or an "
         "action beat into description.\n"
-        f"- The last passage is {orig_wc} words. Your revision MUST be {orig_wc} words or fewer. "
-        "Never make it longer.\n"
+        f"- LENGTH LIMIT (STRICT): the last passage is {orig_wc} words. Your revision MUST be "
+        f"{orig_wc} words or fewer, and under 200 words in every case. Exceeding this is a hard "
+        "failure and the result is discarded. When unsure, cut. Do not pad, restate, or explain.\n"
         "- Keep it first-person and in the same archaic voice.\n"
-        "Output ONLY the revised last passage as prose: no title, no labels, no commentary, "
-        "no notes, no word count."
+        "CRITICAL OUTPUT FORMAT: return ONLY the revised last passage itself, beginning "
+        "immediately with its first word. No preamble, no 'Here is', no title, no labels, no "
+        "surrounding quotation marks, no commentary, no notes, no word count. Nothing whatsoever "
+        "before or after the prose."
     )
     lines = ["Here are the consecutive passages, in order. Edit ONLY the final one.\n"]
     for number, text, is_target in window:
@@ -132,6 +137,7 @@ def smooth_one(api_key, target, window, outline, context):
     last_err = ""
     for attempt in range(1, MAX_ATTEMPTS + 1):
         model = random.choice(MODELS)
+        retry_after = None
         try:
             text = call_model(api_key, model, messages)
             if not text:
@@ -142,9 +148,17 @@ def smooth_one(api_key, target, window, outline, context):
                 return text, model, "ok"
         except urllib.error.HTTPError as e:
             last_err = f"HTTP {e.code}"
+            if e.headers:
+                retry_after = e.headers.get("Retry-After")
         except Exception as e:
             last_err = repr(e)
-        time.sleep(1.5 * attempt)
+        if attempt < MAX_ATTEMPTS:
+            # Honor Retry-After, else exponential backoff.
+            if retry_after and str(retry_after).isdigit():
+                wait = float(retry_after)
+            else:
+                wait = BACKOFF_BASE * (2 ** (attempt - 1))
+            time.sleep(min(wait, BACKOFF_MAX))
     return None, "", f"KEPT ({last_err})"
 
 
