@@ -24,10 +24,7 @@ from pathlib import Path
 
 # Random model per call, with replacement.
 MODELS = [
-    "nvidia/nemotron-3-ultra-550b-a55b",
-    "anthropic/claude-sonnet-4.6",
-    "openai/o3",
-    "thinkingmachines/inkling",
+    "google/gemini-2.5-pro",
 ]
 
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
@@ -38,6 +35,7 @@ TEMPERATURE = 0.35  # Cold: careful reconciliation.
 WINDOW = 3          # Target passage plus up to two preceding.
 BACKOFF_BASE = 5    # Exponential retry base seconds.
 BACKOFF_MAX = 60    # Retry sleep ceiling seconds.
+INTER_CALL_PAUSE = 2  # Seconds between blobs to ease rate limits.
 
 
 def load_api_key():
@@ -65,32 +63,26 @@ def build_messages(target, window, outline, context, orig_wc):
     ctx = " ".join(context) if isinstance(context, list) else str(context)
     tags = ", ".join(target.get("tags", []))
     system = (
-        "You are an editor smoothing one passage of continuous first-person fiction so a "
-        "sequence of separately-written passages reads as one coherent narrative.\n"
-        f"Chapter outline (the plot spine, for reference only; do not copy from it): {outline}\n"
+        "You are an editor smoothing one passage of fiction into a coherent narrative.\n"
+        f"Chapter outline (for reference only; do not copy from it): {outline}\n"
         f"Story context: {ctx}\n"
         "You are given an ordered set of consecutive passages. Every passage EXCEPT THE LAST "
-        "is already finalized and FIXED: treat it as read-only reference for continuity. "
+        "is FIXED: treat it as read-only reference for continuity. "
         "Edit ONLY the last passage so it flows from and stays consistent with the one(s) before it.\n"
         "Rules:\n"
         "- Reconcile only real conflicts with what precedes it: contradictory names, locations, "
-        "physical descriptions, or established facts; jarring stylistic jumps; and vocabulary "
+        "physical descriptions, etc; jarring stylistic jumps; vocabulary "
         "repeated from the previous passage.\n"
-        "- Strongly PREFER cutting or changing text over adding. Add a word or a line only as a "
-        "last resort, and NEVER introduce new details, characters, objects, or events.\n"
-        "- Do NOT erase unique or idiosyncratic details. Fix only serious conflicts that cannot "
-        "be reconciled; leave everything else alone.\n"
+        "- Prefer cutting or changing text over adding. Add a word or a line only as a "
+        "last resort. Don't introduce new details, characters, objects, or events.\n"
+        "- Do NOT erase unique or idiosyncratic details. Fix only serious conflicts.\n"
         f"- Preserve the last passage's form: its mode is '{target.get('mode', '')}' and its type "
         f"is '{target.get('type', '')}'. Do not, for example, turn dialogue into narration or an "
         "action beat into description.\n"
-        f"- LENGTH LIMIT (STRICT): the last passage is {orig_wc} words. Your revision MUST be "
-        f"{orig_wc} words or fewer, and under 200 words in every case. Exceeding this is a hard "
-        "failure and the result is discarded. When unsure, cut. Do not pad, restate, or explain.\n"
-        "- Keep it first-person and in the same archaic voice.\n"
-        "CRITICAL OUTPUT FORMAT: return ONLY the revised last passage itself, beginning "
-        "immediately with its first word. No preamble, no 'Here is', no title, no labels, no "
-        "surrounding quotation marks, no commentary, no notes, no word count. Nothing whatsoever "
-        "before or after the prose."
+        f"- The last passage is {orig_wc} words. Your revision must be under 200 words. Exceeding this is failure.\n"
+        "CRITICAL OUTPUT FORMAT: return ONLY the revised last passage. "
+        "No preamble, no labels, no commentary, "
+        "no 'pre-revision', no word count. Nothing before or after the prose."
     )
     lines = ["Here are the consecutive passages, in order. Edit ONLY the final one.\n"]
     for number, text, is_target in window:
@@ -132,8 +124,8 @@ def call_model(api_key, model, messages):
 
 def smooth_one(api_key, target, window, outline, context):
     """Return (new_text, model, status). On failure new_text is None (keep original)."""
-    orig_wc = words(target.get("text", ""))
-    messages = build_messages(target, window, outline, context, orig_wc)
+    word_max = 200 * 2 # give it some padding
+    messages = build_messages(target, window, outline, context, word_max)
     last_err = ""
     for attempt in range(1, MAX_ATTEMPTS + 1):
         model = random.choice(MODELS)
@@ -142,8 +134,8 @@ def smooth_one(api_key, target, window, outline, context):
             text = call_model(api_key, model, messages)
             if not text:
                 last_err = "empty content"
-            elif words(text) > orig_wc:
-                last_err = f"over length ({words(text)}>{orig_wc}w)"
+            elif words(text) > word_max:
+                last_err = f"over length ({words(text)}>{word_max}w)"
             else:
                 return text, model, "ok"
         except urllib.error.HTTPError as e:
@@ -183,6 +175,8 @@ def main():
     results = []
     # Blob 0 is the untouched anchor.
     for i in range(1, len(blobs)):
+        if i > 1:
+            time.sleep(INTER_CALL_PAUSE)  # Space calls to ease rate limits.
         target = blobs[i]
         num = target.get("number", i + 1)
         orig_wc = words(target.get("text", ""))
