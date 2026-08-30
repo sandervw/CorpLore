@@ -2,11 +2,10 @@
 """Smooth a chapter JSON's blobs into a coherent narrative, editing in place.
 
 Walks the blobs in order. Blob 1 is the untouched anchor. For every later blob it
-makes ONE synchronous OpenRouter call whose input is the chapter outline plus a
-sliding window of consecutive passages (the previous up-to-two, already-edited,
-plus the target). The call edits ONLY the last passage so it flows from and stays
-consistent with the ones before it, preferring cuts over additions and never
-growing the passage. The revised text is written back into the blob in place.
+makes ONE synchronous OpenRouter call whose input is a sliding window of
+consecutive passages (the previous up-to-two, already-edited, plus the target).
+The call edits ONLY the last passage so it flows from and stays consistent with
+the ones before it. The revised text is written back into the blob in place.
 
 Usage:
     python smooth_blobs.py <path-to-chapter.json>
@@ -24,7 +23,7 @@ from pathlib import Path
 
 # Random model per call, with replacement.
 MODELS = [
-    "google/gemini-3.7-flash",
+    "nvidia/nemotron-3-ultra-550b-a55b",
 ]
 
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
@@ -58,41 +57,37 @@ def words(text):
     return len(text.split())
 
 
-def build_messages(target, window, outline, context, orig_wc):
+def build_messages(target, window, context):
     """window: list of (number, text, is_target) in order; only the last is the target."""
     ctx = " ".join(context) if isinstance(context, list) else str(context)
-    tags = ", ".join(target.get("tags", []))
     system = (
-        "You are an editor smoothing one passage of fiction into a coherent narrative.\n\n"
-        f"**Chapter outline (for reference only; do not copy from it):**\n{outline}\n\n"
+        "**Task:**\n"
+        "You are given an ordered set of consecutive passages. Every passage except the "
+        "last is a read-only reference. Edit ONLY the last passage so it flows from and "
+        "stays consistent with the one(s) before it.\n\n"
         f"**Story context:**\n{ctx}\n\n"
-        "You are given an ordered set of consecutive passages. Every passage EXCEPT THE LAST "
-        "is FIXED: treat it as read-only reference for continuity. "
-        "Edit ONLY the last passage so it flows from and stays consistent with the one(s) before it.\n\n"
-        "**Rules:**\n"
-        "- Reconcile only real conflicts with what precedes it: contradictory names, locations, "
-        "physical descriptions, etc; jarring stylistic jumps; vocabulary "
-        "repeated from the previous passage.\n"
-        "- Prefer cutting or changing text over adding. Add a word or a line only as a "
-        "last resort. Don't introduce new details, characters, objects, or events.\n"
-        "- Do NOT erase unique or idiosyncratic details. Fix only serious conflicts.\n"
-        f"- Preserve the last passage's form: its mode is '{target.get('mode', '')}' and its type "
-        f"is '{target.get('type', '')}'. Do not, for example, turn dialogue into narration or an "
-        "action beat into description.\n"
-        f"- Your revision must be under 200 words. Exceeding this is failure.\n\n"
-        "CRITICAL OUTPUT FORMAT: return ONLY the revised last passage. "
-        "No preamble, no labels, no commentary, "
-        "no 'pre-revision', no word count. Nothing before or after the prose."
+        "**Rules/Method:**\n"
+        "- Focus on the transition from the prior passage to your target passage.\n"
+        "- Reconcile only real conflicts: contradictory names/locations/descriptions, "
+        "jarring jumps, vocabulary repetition.\n"
+        "- Don't introduce new details, characters, objects, or events.\n"
+        "- Do NOT erase unique details. Fix only serious conflicts.\n"
+        f"- Preserve the last passage's form: its mode is '{target.get('mode', '')}' and its "
+        f"type is '{target.get('type', '')}'. Do not, for example, turn dialogue into narration.\n"
+        "- *Your revision must be under 250 words*. Exceeding this is failure.\n\n"
+        "**Output Format:**\n"
+        "Return ONLY the revised last passage. No preamble, no labels, no commentary, "
+        "no 'pre-revision'. Nothing before or after the prose."
     )
-    lines = ["Here are the passages, in order (Edit ONLY the final one.)\n"]
+    lines = ["Here are the passages (Edit ONLY the final one.)\n"]
     for number, text, is_target in window:
-        label = "**EDIT THIS - the last passage**" if is_target else "**FIXED - reference only**"
-        lines.append(f"----- Passage {number} ({label}) -----\n{text}\n")
-    lines.append(
-        f"\nThe passage to edit has mode '{target.get('mode', '')}', type "
-        f"'{target.get('type', '')}', and tags: {tags}. Preserve that mode and type. "
-        "Return only the revised final passage, prose only."
-    )
+        label = "EDIT THIS - the last passage" if is_target else "FIXED - reference only"
+        lines.append(f"**Passage {number} ({label})**")
+        lines.append("```")
+        lines.append(text)
+        lines.append("```")
+        lines.append("")
+    lines.append("Return only the revised final passage, prose only.")
     user = "\n".join(lines)
     return [
         {"role": "system", "content": system},
@@ -122,10 +117,10 @@ def call_model(api_key, model, messages):
     return (data["choices"][0]["message"].get("content") or "").strip()
 
 
-def smooth_one(api_key, target, window, outline, context):
+def smooth_one(api_key, target, window, context):
     """Return (new_text, model, status). On failure new_text is None (keep original)."""
-    word_max = 200 * 2 # give it some padding
-    messages = build_messages(target, window, outline, context, word_max)
+    word_max = 250 * 2 # give it some padding
+    messages = build_messages(target, window, context)
     last_err = ""
     for attempt in range(1, MAX_ATTEMPTS + 1):
         model = random.choice(MODELS)
@@ -162,7 +157,6 @@ def main():
     path = Path(positional[0])
     doc = json.loads(path.read_text(encoding="utf-8"))
     chapter = doc["chapter"]
-    outline = chapter.get("outline", "")
     context = chapter.get("context", [])
     blobs = chapter["blobs"]
 
@@ -190,7 +184,7 @@ def main():
             (blobs[j].get("number", j + 1), blobs[j].get("text", ""), j == i)
             for j in range(start, i + 1)
         ]
-        new_text, model, status = smooth_one(api_key, target, window, outline, context)
+        new_text, model, status = smooth_one(api_key, target, window, context)
         if new_text is not None:
             blobs[i]["text"] = new_text  # feeds forward into the next window
             # Flush after each edit so a crash is resumable.
