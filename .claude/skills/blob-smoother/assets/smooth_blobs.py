@@ -24,13 +24,13 @@ from pathlib import Path
 
 # Random model per call, with replacement.
 MODELS = [
-    "google/gemini-2.5-pro",
+    "google/gemini-3.7-flash",
 ]
 
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
 MAX_ATTEMPTS = 4
 TIMEOUT = 180
-MAX_TOKENS = 2000
+MAX_TOKENS = 20,000
 TEMPERATURE = 0.35  # Cold: careful reconciliation.
 WINDOW = 3          # Target passage plus up to two preceding.
 BACKOFF_BASE = 5    # Exponential retry base seconds.
@@ -63,13 +63,13 @@ def build_messages(target, window, outline, context, orig_wc):
     ctx = " ".join(context) if isinstance(context, list) else str(context)
     tags = ", ".join(target.get("tags", []))
     system = (
-        "You are an editor smoothing one passage of fiction into a coherent narrative.\n"
-        f"Chapter outline (for reference only; do not copy from it): {outline}\n"
-        f"Story context: {ctx}\n"
+        "You are an editor smoothing one passage of fiction into a coherent narrative.\n\n"
+        f"**Chapter outline (for reference only; do not copy from it):**\n{outline}\n\n"
+        f"**Story context:**\n{ctx}\n\n"
         "You are given an ordered set of consecutive passages. Every passage EXCEPT THE LAST "
         "is FIXED: treat it as read-only reference for continuity. "
-        "Edit ONLY the last passage so it flows from and stays consistent with the one(s) before it.\n"
-        "Rules:\n"
+        "Edit ONLY the last passage so it flows from and stays consistent with the one(s) before it.\n\n"
+        "**Rules:**\n"
         "- Reconcile only real conflicts with what precedes it: contradictory names, locations, "
         "physical descriptions, etc; jarring stylistic jumps; vocabulary "
         "repeated from the previous passage.\n"
@@ -79,14 +79,14 @@ def build_messages(target, window, outline, context, orig_wc):
         f"- Preserve the last passage's form: its mode is '{target.get('mode', '')}' and its type "
         f"is '{target.get('type', '')}'. Do not, for example, turn dialogue into narration or an "
         "action beat into description.\n"
-        f"- The last passage is {orig_wc} words. Your revision must be under 200 words. Exceeding this is failure.\n"
+        f"- Your revision must be under 200 words. Exceeding this is failure.\n\n"
         "CRITICAL OUTPUT FORMAT: return ONLY the revised last passage. "
         "No preamble, no labels, no commentary, "
         "no 'pre-revision', no word count. Nothing before or after the prose."
     )
-    lines = ["Here are the consecutive passages, in order. Edit ONLY the final one.\n"]
+    lines = ["Here are the passages, in order (Edit ONLY the final one.)\n"]
     for number, text, is_target in window:
-        label = "EDIT THIS - the last passage" if is_target else "FIXED - reference only"
+        label = "**EDIT THIS - the last passage**" if is_target else "**FIXED - reference only**"
         lines.append(f"----- Passage {number} ({label}) -----\n{text}\n")
     lines.append(
         f"\nThe passage to edit has mode '{target.get('mode', '')}', type "
