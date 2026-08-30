@@ -23,7 +23,7 @@ from pathlib import Path
 
 # Random model per call, with replacement.
 MODELS = [
-    "nvidia/nemotron-3-ultra-550b-a55b",
+    "anthropic/claude-opus-5",
 ]
 
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
@@ -77,7 +77,8 @@ def build_messages(target, window, context):
         "- *Your revision must be under 250 words*. Exceeding this is failure.\n\n"
         "**Output Format:**\n"
         "Return ONLY the revised last passage. No preamble, no labels, no commentary, "
-        "no 'pre-revision'. Nothing before or after the prose."
+        "no 'pre-revision'. Nothing before or after the prose.\n\n"
+        "**Keep your edits as minimal as possible. Do not make sweeping edits.**"
     )
     lines = ["Here are the passages (Edit ONLY the final one.)\n"]
     for number, text, is_target in window:
@@ -87,7 +88,8 @@ def build_messages(target, window, context):
         lines.append(text)
         lines.append("```")
         lines.append("")
-    lines.append("Return only the revised final passage, prose only.")
+    lines.append("Return only the revised final passage, prose only.\n\n")
+    lines.append("**Reminder: keep your edits as minimal as possible. Do not make sweeping edits.**")
     user = "\n".join(lines)
     return [
         {"role": "system", "content": system},
