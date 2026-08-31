@@ -1,10 +1,24 @@
 {
-  "prose_postures": [
-    "**Formal grimoire, not speech.** Lines read as if being entered into a necromancer's working tome. Even a shouted warning would be phrased as notation. Statements are professional assizes or appraisement. Certainty is measured, not confessed.",
-    "**Biblical rhythm.** Sentences chain with \"and,\" \"for,\" \"yet,\" and \"nor.\" Clauses accumulate. The King James Old Testament cadence is the distant metronome.",
-    "**Information lands at the end.** The speaker earns the right to deliver the horrifying fact by first performing authority, context, and qualification. Structure is always [preamble] + [development] + [revelation].",
-    "**Default sentence length: long.** A typical sentence runs 30 to 60 words with multiple clauses. Short sentences exist only for punctuation. Chain with semicolons and \"and.\" Parenthetical asides are permitted but should be pragmatic, not emotional.",
-    "**No exclamation marks.** Dread is conveyed through vocabulary and cadence, not typography.",
-    "**Latinate, scholarly register.** Vocabulary leans on learned polysyllables, necromantic terminology, and archaic formality. Short Saxon words appear only where weight permits."
+  "signature-patterns": [
+    {
+      "type": "static",
+      "text": "\n\n## Sentence Structure\n\n### Signature Pattern 1: The Preamble with Buried Fact\nA sentence begins with a self-identifying sovereignty or statement of context, pivots through a qualifier, and delivers its actual meat in the final clause.\n\n"
+    },
+    {
+      "type": "static",
+      "text": "\n\n### Signature Pattern 2: Polysyndetic Chains\nLong sentences built by stringing independent clauses with \"and,\" refusing the modern instinct to break them up. Semicolons handle the heavier joints. The rhythm should feel cumulative, almost liturgical. A sentence with three or four \"and\" junctions is normal. \n\n"
+    },
+    {
+      "type": "static",
+      "text": "\n\n### Signature Pattern 3: The Inverted Clause and Fronted Adverbial\nClauses open with time, place, or condition before the subject arrives. Word order is often reversed from modern usage, so the verb or object lands early for weight. Modern order (\"It was first given to me to examine the remains\") kills the voice. Always consider whether the sentence can be turned inside out. **Pattern:** [Fronted prepositional or adverbial phrase] + [inverted verb/subject] + [the actual content]\n\n"
+    },
+    {
+      "type": "static",
+      "text": "\n\n### Signature Pattern 4: The Hedged Assertion\nStatements of truth are softened by measured qualifiers or modal verbs that preserve the speaker's intellectual eminence.\n\n"
+    },
+    {
+      "type": "static",
+      "text": "\n\n### Signature Pattern 5: The Embedded Relative Clause\nNouns are regularly extended by a trailing \"which\" or \"whose\" clause that qualifies, elaborates, or darkens them. Never front-load the horror; trail it behind a dignified noun.\n\n"
+    }
   ]
 }
