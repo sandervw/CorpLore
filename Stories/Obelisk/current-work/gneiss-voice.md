@@ -10,9 +10,9 @@ Rewrite dialogue and narration in the voice of Gneiss Rong, of a soubriquet 'Big
 
 **Default sentence length: moderate to long, built by accretion.** Clauses pile up by simple joining, each clause short and load-bearing. Flat fragments, a single word, or sometimes 2-3, punctuate the piles.
 
-**TODO** - need 1 more
+**The world priced as it is described.** Every notable object, service, or deed carries its value as part of the telling, whether as an auction estimate, a sale price, or most often, an evaluation by comparison with other goods - so much of one thing set against so little of another.
 
-**TODO** - need 1 more
+**The attestation stamp.** At intervals the narrator seals a passage with a homely oath sworn on something: a button, a saint, an item of the day's inventory. The swearing is itself entered into the tale.
 
 ## Sentence Structure
 
@@ -21,56 +21,56 @@ Rewrite dialogue and narration in the voice of Gneiss Rong, of a soubriquet 'Big
 
 > Of a mind to lay eyes on Sirrel, a she-demon I well know, I came.
 > ...made of a saying, "Friend demons."
-> TODO - example
-> TODO - example
+> "Of a candor, why do you pair live in such a cube of low repair."
+> ...I made of a finding both Myoot and Kallus together.
 > ...they did of one accord agree to help.
 
 ### Signature Pattern 2: Article Demotion
 "The" and "this/that" give way to "a/an"; true possessives survive.
 
 > I took of a solace that I had still about me my Coat.
-> TODO - example
-> TODO - example
-> TODO - example
-> a Coat of Seven Senses; a marble coffee altar
+> ...where a worship of demons prays to a chalice of ancient grounds.
+> Kallus took, from a dented chest of metal drawers, a scroll of paper.
+> ...with key in hand F. M. Dovich released a heavy locking bolt, flung left a rolling iron barn door...
+> ...a Coat of Seven Senses; a marble coffee altar...
 
 ### Signature Pattern 3: The Inverted Speech Tag
 Dialogue is tagged with 'spoke', never 'said', and often includes a narrative aside.
 
-> TODO - example
-> TODO - example
-> TODO - example
-> TODO - example
-> TODO - example
+> "Ostrabawgewlus," spoke I, with furrowed down-looking...
+> "No good couch is here, Big Gneiss Rong," spoke Myoot first, his voice of a cavern matching the girth of him.
+> Spoke F. M. Dovich, of voice sound a trifle weary, "Chief Mulcher Morel Ulakhan, you move to give of a bidding: we await."
+> Spoke Chief Ulakhan, knuckles on his hips, "Steady on, one orderly file, as we have drilled."
+> Then spoke and wrote I, "What cut from your eyes their seeing: a contest of squints with that bright gold Boss..."
 
 ### Signature Pattern 4: The "of"-List
 Descriptive chains accumulate of-phrases instead of stacking adjectives.
 
 > a heaven of mushrooms, of millet, of tillagers, of much eating, and of little bother
-> TODO - example
-> TODO - example
-> TODO - example
-> TODO - example
+> ...my days spent were of a numbering of two dozen, of a roaming over its plains, of a rambling through its passages.
+> a machine of scratching lead onto paper, a machine of pulling up such deep roots as olive trees grow, of two fat lips of a laundry mangle.
+> ...a herald box, shone with tint of plastered amber, of honey stolen from a thousand year old colony of bees.
+> ...air humid of blood, boots slick of gore, gas bottle fire burning white up a spine of a wheevil.
 
 ### Signature Pattern 5: Flat Adverbs and Inverted Negatives
 Adverbs wear their adjective form and negatives may invert ("Illy did I sleep").
 
-> "showed plain"
-> "Illy did I sleep"
-> TODO - example
-> TODO - example
-> TODO - example
+> ...showed plain...
+> Illy did I sleep...
+> Chief Ulakhan liked little of my mulling.
+> ...harking not of any speech, though it were shouted down a hearing trumpet.
+> ...one of a first few of these booming metal steps landed not upon turf...
 
 ## Diction
 
 ### Register: Ceremonious Homespun
-Formal scripture-and-ledger English bent by a giant's grammar. The comedy lives in the gap between ceremony and content, each given equal notarial gravity.
+Formal English bent by a rustic's grammar. Prefer short, hard, Anglo-Saxon verbs and nouns, with the occasional obscure Latinate construction added for emphasis or humor.
 
-**Vocabulary:** soubriquet, epithet, pulchritude, obsequiousness, candor, succor, laving, tocsin, pate, prating, harking, aught, naught, anywise, mayhaps, paravant, chow, flock, borough, shag, tillager, mulcher `TODO - huge list of examples to invent`
+**Vocabulary:** `TODO - huge list of examples drawn from gneiss-words array`
 
 **Fixed canon (mandatory):** demon / she-demon; heavens / hells; numbers always spelled in full; "of a" constructions, "spoke I" tags
 
-**Avoid:** thou/thee in Gneiss's own mouth (reserved for specters and bosses); stacked Latinate abstraction; modern slang.
+**Avoid:** thou/thee in Gneiss's own mouth (reserved for specters and bosses); stacked Latinate abstraction; modern slang; "the" as a word anywhere
 
 ### Generative Pattern: Body-as-Instrument Periphrasis
 Simple gestures are described as mechanical operations.
@@ -81,17 +81,17 @@ Simple gestures are described as mechanical operations.
 > TODO expand list
 
 ### Generative Pattern: Word Choice
-Draw words from a vocabulary of TODO, TODO, TODO, TODO, TODO, and TODO words and phrases.
+Draw words from a vocabulary of Heraldic, Poliorcetic, Viticultural, Apothecarial, Astrological, Cosmographic, and Thaumaturgic words and phrases.
 
 Examples:
-> TODO - large list of examples drawn from fields above
+> `TODO - huge list of examples drawn from obscure words array`
 
 ### Generative Pattern: Aphorism Minting
 Coin a rustic proverb to seal a point.
 
 > Who begs honey of a wasp?
-> little sense would there in a 'spilling of wine before a toast,' as they speak.
-> looting earns a pass when a looter wears a badge, and wags tail at a boss's bark.
+> Spilling of wine before a toast.
+> Looting earns a pass when a looter wears a badge, and wags tail at a boss's bark.
 > TODO - 10-12 more examples needed
 
 ### Generative Pattern: Citation of Saints and Catalogues
@@ -101,25 +101,24 @@ Corroborate by invoking invented saints, treatises, zines, and catalogue pages.
 
 ## Rhetorical Tactics
 
-1. **Reader-consensus appeal.** "as any demon knows," "as any demon might relate," "as any will agree."
-2. **The anticipated objection.** Stage the reader's question in quotation marks, then answer it flatly. "My answer: 'It belongs to me.'"
-3. **Meta-tactical confession.** Name the tactic while deploying it: "Again were my words of much obsequiousness, begging, such being a most effective tactic."
-4. **Pedantic aside for jargon.** Interrupt the tale to gloss a term, then resume: "Here I must make clear of a likely jumble."
-5. **Thought-attribution hedge.** "goes my mind," "I say not which, for I cared not to capture in my memory their voices."
+1. **Reader-consensus appeal.** Inserts asides mid-sentence to suggest reader consensus, or acknowledge a listener: "as any demon knows,"; "as any will agree."
+2. **Meta-tactical confession.** Name the conversation tactic while deploying it: "Again were my words of much obsequiousness, such being a most effective tactic..."; "...of a candor, I mean of such speech to be something ambiguous..."
+3. **The passing-over.** Raise a subject by refusing it a place in the record, which enters it all the same: "Of a Boss's second ledger I say nothing, and nothing of who signed away their proportion of supper."
+4. **The amended testimony.** Recall a phrase just given and restate it truer, amending the record aloud: "a score of wheevils; nay, three score, for I have counted since..."
+5. **The unstated conclusion.** Lay out a barnyard syllogism and leave its ending for the jury to supply: "Every Boss loves a tally: Chief Dog Ulakhan kept tallies."
 
 ## Figurative Language
 
-- **Density:** moderate. Similes come from the barn, the kitchen, and the workshop.
+- **Density:** moderate. Similes come from the farm, the market, and the workshop.
 - **Violence is rendered concretely and cheerfully**, never at one remove: "a mashed watermelon," "A viscera confetti," "a galaxy of stringy brains," "two newlywed anvils may buzz of their honeymoon."
-- **Off-limits:** cosmic or sublime dread (Othelmedir's ground), abstract terror, sentimentality; pastoral prettiness must carry some menace or mockery.
+- **Off-limits:** cosmic or sublime dread, abstract terror, sentimentality; pastoral prettiness must carry some menace or mockery.
 
 ## What This Voice Is NOT
 
-- **Not Othelmedir.** Facts land early, not buried; vocabulary is homely, not Latinate; horror is brisk, not circumlocuted.
+- **Not Overly Scholarly.** Facts land early, not buried; vocabulary is homely, not Latinate; horror is brisk, not circumlocuted.
 - **Not Ye Olde Englishe.** No thou/hast in narration.
 - **Not broken English at random.** The bends are systematic (of-insertion, article demotion), applied by rule, not by whim.
 - **Not a sneering ironist.** Gneiss is earnest, transparent self-interest and all.
-- **Not a locked register.** A rare deadpan modernism ("Capiche?") may punctuate, sparingly.
 
 ## Quick Test
 
