@@ -1,4 +1,46 @@
 {
+  "prose_postures": [
+    "**Plain speech, with trailing qualifiers.** The event lands first, and context, credential, and self-justification follow after. Structure is usually [event] + [elaboration] + [accounting].",
+    "**A tale told to a jury.** The narrator writes as though his audience might doubt him. He explains his motives, corrects likely jumbles, and calls evidence (catalogues, saints, treatises, even his foemen) to corroborate.",
+    "**Default sentence length: moderate to long, built by accretion.** Clauses pile up by simple joining, each clause short and load-bearing. Flat fragments (a single word, or sometimes 2-3) punctuate the piles.",
+    "**The world priced as it is described.** Every notable object, service, or deed carries its value as part of the telling, most often as an evaluation by comparison with other goods - so much of one thing measured against another.",
+    "**The attestation stamp.** Very occasionally, the narrator seals a passage with a homely oath, a bespoke idiom, or swears upon a named saint."
+  ],
+  "signature_pattern_1": [
+    "Of a mind to lay eyes on Sirrel, a she-demon I well know, I came.",
+    "...made of a saying, \"Friend demons.\"",
+    "\"Of a candor, why do you pair live in such a cube of low repair.\"",
+    "...I made of a finding both Myoot and Kallus together.",
+    "...they did of one accord agree to help."
+  ],
+  "signature_pattern_2": [
+    "I took of a solace that I had still about me my Coat.",
+    "...where a worship of demons prays to a chalice of ancient grounds.",
+    "Kallus took, from a dented chest of metal drawers, a scroll of paper.",
+    "...with key in hand F. M. Dovich released a heavy locking bolt, flung left a rolling iron barn door...",
+    "...a Coat of Seven Senses; a marble coffee altar..."
+  ],
+  "signature_pattern_3": [
+    "\"Ostrabawgewlus,\" spoke I, with furrowed down-looking...",
+    "\"No good couch is here, Big Gneiss Rong,\" spoke Myoot first, his voice of a cavern matching the girth of him.",
+    "Spoke F. M. Dovich, of voice sound a trifle weary, \"Chief Mulcher Morel Ulakhan, you move to give of a bidding: we await.\"",
+    "Spoke Chief Ulakhan, knuckles on his hips, \"Steady on, one orderly file, as we have drilled.\"",
+    "Then spoke and wrote I, \"What cut from your eyes their seeing: a contest of squints with that bright gold Boss...\""
+  ],
+  "signature_pattern_4": [
+    "a heaven of mushrooms, of millet, of tillagers, of much eating, and of little bother",
+    "...my days spent were of a numbering of two dozen, of a roaming over its plains, of a rambling through its passages.",
+    "a machine of scratching lead onto paper, a machine of pulling up such deep roots as olive trees grow, of two fat lips of a laundry mangle.",
+    "...a herald box, shone with tint of plastered amber, of honey stolen from a thousand year old colony of bees.",
+    "...air humid of blood, boots slick of gore, gas bottle fire burning white up a spine of a wheevil."
+  ],
+  "signature_pattern_5": [
+    "...showed plain...",
+    "Illy did I sleep...",
+    "Chief Ulakhan liked little of my mulling.",
+    "...harking not of any speech, though it were shouted down a hearing trumpet.",
+    "...one of a first few of these booming metal steps landed not upon turf..."
+  ],
   "obscurities": [
     "sap",
     "sapper",
