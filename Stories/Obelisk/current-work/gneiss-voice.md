@@ -1,18 +1,18 @@
 # Dialogue Voice Guidelines: Gneiss Rong
 
-Rewrite dialogue and narration in the voice of Gneiss Rong, of a soubriquet 'Big': a large, adventurous demon, whose speech is ceremonious and homely at once, as if a farmer had learned English from ledgers, scripture, and old catalogues, and now relates his deeds to a jury of demons who may not believe him.
+Rewrite dialogue and narration in the voice of Gneiss Rong: a large, scholastic, adventurous demon, whose speech is both Cosographic and Earthly, as if a feudal serf had learned English from stargazing, and ancient incunabula, and now relates his tale to listeners who may not believe him.
 
 ## Prose Posture
 
-**The deed stated plainly, the qualification trailing.** The event lands first ("I learned she was gone."), and context, credential, and self-justification follow after. Structure is always [event] + [elaboration] + [accounting].
+**Plain speech, with trailing qualifiers.** The event lands first, and context, credential, and self-justification follow after. Structure is usually [event] + [elaboration] + [accounting].
 
-**A tale told to a jury.** The narrator writes as though peers might doubt him: he explains his own motives, corrects likely jumbles, and calls witnesses (catalogues, saints, treatises) to corroborate. Even his manipulations are entered into evidence.
+**A tale told to a jury.** The narrator writes as though his audience might doubt him. He explains his motives, corrects likely jumbles, and calls evidence (catalogues, saints, treatises, even his foemen) to corroborate.
 
-**Default sentence length: moderate to long, built by accretion.** Clauses pile up by simple joining, each clause short and load-bearing. Flat fragments, a single word, or sometimes 2-3, punctuate the piles.
+**Default sentence length: moderate to long, built by accretion.** Clauses pile up by simple joining, each clause short and load-bearing. Flat fragments (a single word, or sometimes 2-3) punctuate the piles.
 
-**The world priced as it is described.** Every notable object, service, or deed carries its value as part of the telling, whether as an auction estimate, a sale price, or most often, an evaluation by comparison with other goods - so much of one thing set against so little of another.
+**The world priced as it is described.** Every notable object, service, or deed carries its value as part of the telling, most often as an evaluation by comparison with other goods - so much of one thing measured against another.
 
-**The attestation stamp.** At intervals the narrator seals a passage with a homely oath sworn on something: a button, a saint, an item of the day's inventory. The swearing is itself entered into the tale.
+**The attestation stamp.** Very occasionally, the narrator seals a passage with a homely oath, a bespoke idiom, or swears upon a named saint.
 
 ## Sentence Structure
 
@@ -66,7 +66,7 @@ Adverbs wear their adjective form and negatives may invert ("Illy did I sleep").
 ### Register: Ceremonious Homespun
 Formal English bent by a rustic's grammar. Prefer short, hard, Anglo-Saxon verbs and nouns, with the occasional obscure Latinate construction added for emphasis or humor.
 
-**Vocabulary:** `TODO - huge list of examples drawn from gneiss-words array`
+**Vocabulary:** `TODO - long list of comma-seperate examples drawn from gneissisms array`
 
 **Fixed canon (mandatory):** demon / she-demon; heavens / hells; numbers always spelled in full; "of a" constructions, "spoke I" tags
 
@@ -75,43 +75,37 @@ Formal English bent by a rustic's grammar. Prefer short, hard, Anglo-Saxon verbs
 ### Generative Pattern: Body-as-Instrument Periphrasis
 Simple gestures are described as mechanical operations.
 
-> laving my chin with a broad hand
-> made much up-and-down of his chin
-> I shook the stones of my throat
-> TODO expand list
+> `TODO - 7 bullets drawn from periphrasis`
 
 ### Generative Pattern: Word Choice
 Draw words from a vocabulary of Heraldic, Poliorcetic, Viticultural, Apothecarial, Astrological, Cosmographic, and Thaumaturgic words and phrases.
 
 Examples:
-> `TODO - huge list of examples drawn from obscure words array`
+> `TODO - long list of comma-seperated examples drawn from obscurities array`
 
 ### Generative Pattern: Aphorism Minting
-Coin a rustic proverb to seal a point.
+Coin a warped, down-to-earth proverb to seal a point.
 
-> Who begs honey of a wasp?
-> Spilling of wine before a toast.
-> Looting earns a pass when a looter wears a badge, and wags tail at a boss's bark.
-> TODO - 10-12 more examples needed
+> `TODO - 7 bullets drawn from aphorisms`
 
-### Generative Pattern: Citation of Saints and Catalogues
-Corroborate by invoking invented saints, treatises, zines, and catalogue pages.
+### Generative Pattern: Citation of Saints and Chronicles
+Corroborate by invoking named, invented saints, treatises, codices, and scholastic letters.
 
-> TODO - large list of saints and incunabula proper names
+> `TODO - 7 bullets drawn from citations`
 
-## Rhetorical Tactics
+## Rhetorical Maneuvers
 
-1. **Reader-consensus appeal.** Inserts asides mid-sentence to suggest reader consensus, or acknowledge a listener: "as any demon knows,"; "as any will agree."
-2. **Meta-tactical confession.** Name the conversation tactic while deploying it: "Again were my words of much obsequiousness, such being a most effective tactic..."; "...of a candor, I mean of such speech to be something ambiguous..."
-3. **The passing-over.** Raise a subject by refusing it a place in the record, which enters it all the same: "Of a Boss's second ledger I say nothing, and nothing of who signed away their proportion of supper."
-4. **The amended testimony.** Recall a phrase just given and restate it truer, amending the record aloud: "a score of wheevils; nay, three score, for I have counted since..."
-5. **The unstated conclusion.** Lay out a barnyard syllogism and leave its ending for the jury to supply: "Every Boss loves a tally: Chief Dog Ulakhan kept tallies."
+1. **Hearer appeal.** Inserts asides mid-sentence to suggest reader consensus, or acknowledge a listener: "as any demon knows,"; "as any will agree."
+2. **Tactical disclosure.** Name the conversation tactic while deploying it: "Again were my words of much obsequiousness, such being a most effective tactic..."; "...of a candor, I mean of such speech to be something ambiguous..."
+3. **Passing-over.** Raise a subject by refusing it a place in the record, which enters it all the same: "Of a Boss's second ledger I say nothing, and nothing of who signed away their proportion of supper."
+4. **Amended affidavit.** Recall a phrase just given and restate it truer, amending the record aloud: "a score of wheevils; nay, three score, for I have counted since..."
+5. **Unstated conclusion.** Lay out a barnyard syllogism and leave its ending for the jury to supply: "Every Boss loves a tally: Chief Dog Ulakhan kept tallies."
 
 ## Figurative Language
 
-- **Density:** moderate. Similes come from the farm, the market, and the workshop.
-- **Violence is rendered concretely and cheerfully**, never at one remove: "a mashed watermelon," "A viscera confetti," "a galaxy of stringy brains," "two newlywed anvils may buzz of their honeymoon."
-- **Off-limits:** cosmic or sublime dread, abstract terror, sentimentality; pastoral prettiness must carry some menace or mockery.
+- **Density:** moderate. Similes come from the plantation, the merchant lane, and the alchemist's shop.
+- **Violence is rendered concretely and cheerfully**, never at one remove: "a viscera confetti," "a galaxy of stringy brains."
+- **Off-limits:** cosmic dread, abstract terror, sentimentality; pastoral pulchritude must carry some threat or jape.
 
 ## What This Voice Is NOT
 
