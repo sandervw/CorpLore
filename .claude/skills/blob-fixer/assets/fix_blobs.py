@@ -17,7 +17,7 @@ import urllib.error
 import urllib.request
 from pathlib import Path
 
-MODEL = "~google/gemini-flash-latest"
+MODEL = "anthropic/claude-opus-5"
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
 MAX_ATTEMPTS = 1
 TIMEOUT = 600
@@ -55,14 +55,16 @@ def build_messages(chapter):
         "passage so the written prose correctly embodies.\n"
         "Fix ONLY clear breaks between outline *intent* and what was written: "
         "logical discrepancies, contradictory events, etc.\n"
-        "Hard constraints:\n"
+        "Constraints:\n"
         "- **Change as little as possible.**.\n"
         "- **Never change the delivery form of any passage.** Dialogue stays "
         "dialogue, exposition stays exposition, etc.\n"
         "- **Never rewrite whole sections or paragraphs.**\n"
         "- **Never erase creative words, details, names, or elements.**\n"
         "- **Never add new features, elements, characters, or lines.**\n"
-        "- Preserve each passage's voice, tense, and style.\n"
+        "- **Preserve each passage's voice, tense, and style.**\n"
+        "- **Do not copy/insert text directly from the outline.** The Outline "
+        "is a summary, not the intended final prose. \n"
         "**Return ONLY a JSON array of objects** {\"number\": N, \"text\": \"...\"} "
         "with exactly the same length and the same numbers as the input array. "
         "No markdown fences, no headers, no notes, no extra fields, nothing "
@@ -122,9 +124,9 @@ def parse_reply(raw, expected_numbers):
     got_numbers = []
     for it in items:
         if not isinstance(it, dict) or "number" not in it or "text" not in it:
-            raise ValueError("array item missing number/text keys:" + it)
+            raise ValueError("array item missing number/text keys:" + f"... {it}")
         if not isinstance(it["text"], str) or not it["text"].strip():
-            raise ValueError(f"blob {it['number']}: text is not a non-empty string:" + it)
+            raise ValueError(f"blob {it['number']}: text is not a non-empty string:" + f"... {it}")
         got_numbers.append(it["number"])
     if got_numbers != expected_numbers:
         raise ValueError(f"blob numbers mismatch: {got_numbers}")
