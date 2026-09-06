@@ -1,0 +1,343 @@
+{
+  "chapter": {
+    "number": 6,
+    "title": "Of A Wonderland",
+    "wordcount": 5000,
+    "type": "Violence - fights, kills, torture",
+    "outline": "Jump to their first steps in heaven 133. The mulchers and Gneiss march through the first hell. Darkness, but with some shiny color to it, as though they descent into a pool of liquid opal, ankle-deep water too blue, walls made up of angles and shadows - and even the mulchers and gneiss take on different looks. (*Deep eyeshadow, all their gestures and words are overly-expressive, like they have been dropped into a German Expressionist silent movie*). Kallus's warnings from Chapter 2 are made real. *\"I have always felt that the space of the basement was more than it promised to be.\" (Gneiss Line)*\nWithin minutes their stealthy approach is lost; a door handle shrieks like a dying goat as they turn it; Creatures Electric attack from all sides. The mulchers fight back with their replicas, and an intense, room-to-room, corridor-to-corridor battle ensures. A Mr. Montag (*Flying whales; their call is like an air-raid siren; when prodded, their calls can shatter glass, light filaments, and bones*) flies into view; two mulchers fall, instantly slain, bones cracked, while others cover their ears in time to recieve only hearing damage.\nGneiss ghosts ahead to scout for the path back up-stairs, but as he sees them ahead, the Butler sees him by the one sense he left unhidden, the secret, unnamed seventh. (*The butler speaks in a tender, almost loving/adoring voice - think Hisoka from Hunter X Hunter, or Lord Arioch from the Elric stories*). Outmatched, knowing he cannot defeat a butler, gneiss hears its mocking admission: disguised as the mulchers' housecat, it stole a set of their spellbreaker keys, broke the seals on the stairs, and allowed the creatures to enter - all in the name of chaos and \"fun\". The butler and Gneiss talk for some time; the names of other powerful butlers *(Julio, arluck, pick others)* are dropped. Gneiss parleys silence for safe passage, offering not to reveal its secret, if it will only let them go by unscathed.\nBut just then the mulchers arrive, Phansy fires on instinct, and the deal breaks. The butler slaughters them, the creatures attack from behind, and at the end, of eighteen demons and she-demons, only Gneiss walks away, activating his coat (*all 7 senses this time*). Joiyuss's death hit Gneiss hardests. Yet Gneiss still keeps the Axe and - still with Perli in his thoughts - proceeds further into hell, not out.\nSome hours pass, as Gneiss puts time and distance between himself and the massacre. He cannot seem to find a Way - all paths look the same. Describe a vivid, grotesque travel sequence through hell - loopy pathways curling and through a jagged, sharp landscape, constantly shifting between uphills and steep declines, sometimes even running vertically up walls, or across the roop, like ribbons; none of it green, clean shag, but covered in a powder that isn't dirt, like fine white chalk, while cliffs and crags merge indistinguishable with a shale-colored ceiling. (*Describe one section like follows: Gneiss striding through library of server lockers, or racks, behind grated fencing; a datacenter, but frame it from eyes of medieval scholastic*).\nAfter climbing up a path through an increasingly-narrow gorge of rocks sharp enough to cut paper (but not the Coat), gneiss encounters a Moon with a Face, set directly into a wall of solid jade stone, hidden under a shadow of two intertwined, dead, weeping-willow trees - it is a talking mutant door of crescent shape. (*Through dialogue, give a vivid depiction of the door's personality - have it talk like Werner Herzog*) The door asks five logic-puzzle questions (*specify the exact questions, in dialogue*), one after the other, and ignores gneiss when he presses it to tell him what it wants, or why it's asking, or to respond in any way. Gneiss, having answered all (some right, some wrong), gives up (\"A brain of me will not waste more time in such fencings.\"); instead of blasting the door, he decides to spare it. In thanks, the Moon with a Face creaks open a forgotten hallway, and asks to be remembered.",
+    "context": [
+      "The protagonist is Gneiss Rong, a drifter.",
+      "The story is told in first-person, past tense.",
+      "Gneiss is descending into hell to rescue Sirrel, his love.",
+      "His Coat hides him from all seven senses.",
+      "All humans are demons; women are she-demons."
+    ],
+    "blobs": [
+      {
+        "number": 1,
+        "prompt": "Write a chunk of prose about the first steps into the first hell: darkness with a shine to it, ankle-deep water too blue to be water, walls built of angles and shadow, like wading into liquid opal.",
+        "mode": "description",
+        "type": "establishing shot",
+        "tags": [
+          "Grounding Detail: Quantification: Odd-numbered specificity.",
+          "luminous spirit-wraith shimmer",
+          "gothic stone archways"
+        ],
+        "model": "",
+        "text": ""
+      },
+      {
+        "number": 2,
+        "prompt": "Describe how the descending light changes the marchers themselves, deepening the eyes of the mulchers and of Gneiss, stretching every gesture and every spoken word into something enormous and staged.",
+        "mode": "description",
+        "type": "atmosphere / mood",
+        "tags": [
+          "Grounding Detail: The Gratuitous Detail: details with no plot or thematic function.",
+          "portentous",
+          "thin wiry frame"
+        ],
+        "model": "",
+        "text": ""
+      },
+      {
+        "number": 3,
+        "prompt": "Render the moment Kallus's old warnings prove true, and let Gneiss admit aloud that he has always felt the basement was more than the space it promised to be.",
+        "mode": "dialogue",
+        "type": "dread / anticipation",
+        "tags": [
+          "Grounding Detail: Traces of Human Agency.",
+          "primal dark land",
+          "plain of silence"
+        ],
+        "model": "",
+        "text": ""
+      },
+      {
+        "number": 4,
+        "prompt": "Show the stealth collapsing all at once: a door handle turned, and the sound it makes going through the corridor like a goat dying.",
+        "mode": "action",
+        "type": "complication / obstacle",
+        "tags": [
+          "Grounding Detail: Malfunction.",
+          "torch-lit prison corridor",
+          "abyssal darkness"
+        ],
+        "model": "",
+        "text": ""
+      },
+      {
+        "number": 5,
+        "prompt": "Narrate the Creatures Electric arriving from every side at once, out of the angles and the shallow blue water, faster than the party can form a line.",
+        "mode": "action",
+        "type": "predation / disaster",
+        "tags": [
+          "Grounding Detail: Procedural Authority: jargon, deliberate misuse of tools, etc.",
+          "water-dwelling menace",
+          "garthim assault"
+        ],
+        "model": "",
+        "text": ""
+      },
+      {
+        "number": 6,
+        "prompt": "Write a chunk about the mulchers answering with their replicas, and the fight that follows: room to room, corridor to corridor, no ground held longer than a breath.",
+        "mode": "action",
+        "type": "combat - the fight itself",
+        "tags": [
+          "Grounding Detail: Sensory / Textural: Color, temperature, grain, sound, smell.",
+          "valiant trencherman",
+          "fiend-haunted cavern depths"
+        ],
+        "model": "",
+        "text": ""
+      },
+      {
+        "number": 7,
+        "prompt": "Describe a Mr. Montag coming into view above the fighting, a whale flying without water, its call opening across the hall like an air-raid siren.",
+        "mode": "description",
+        "type": "character intro / description",
+        "tags": [
+          "Grounding Detail: Embodiment: Characters physical quirks.",
+          "loud booming voice",
+          "cloaked nocturnal terror"
+        ],
+        "model": "",
+        "text": ""
+      },
+      {
+        "number": 8,
+        "prompt": "Show what the call does when it lands: two mulchers dropped where they stand with their bones cracked through, and the others saved only by hands clapped over their ears, and saved only partly.",
+        "mode": "action",
+        "type": "setback",
+        "tags": [
+          "Grounding Detail: Sensory / Textural: Color, temperature, grain, sound, smell.",
+          "death-pervaded-room",
+          "flagstones"
+        ],
+        "model": "",
+        "text": ""
+      },
+      {
+        "number": 9,
+        "prompt": "Narrate Gneiss slipping away from the battle under his Coat, hidden and unheard, scouting ahead for the path that leads back up the stairs.",
+        "mode": "action",
+        "type": "discovery / clue",
+        "tags": [
+          "Grounding Detail: Particularity: A specific detail.",
+          "nether-adytum",
+          "obsidian-eyed"
+        ],
+        "model": "",
+        "text": ""
+      },
+      {
+        "number": 10,
+        "prompt": "Render the moment the Butler turns and finds him anyway, taking him by the one sense Gneiss left uncovered, the secret and unnamed seventh.",
+        "mode": "action",
+        "type": "reveal",
+        "tags": [
+          "Grounding Detail: Cultural Artifacts.",
+          "bodiless cosmic void",
+          "life-in-death states"
+        ],
+        "model": "",
+        "text": ""
+      },
+      {
+        "number": 11,
+        "prompt": "Write a chunk about how the Butler speaks to Gneiss: tender, adoring, delighted, and about Gneiss understanding immediately that a butler is not a thing he can beat.",
+        "mode": "dialogue",
+        "type": "threat / intimidation",
+        "tags": [
+          "Grounding Detail: Wear and Accumulated Time.",
+          "trailing venom",
+          "haunted by mortality"
+        ],
+        "model": "",
+        "text": ""
+      },
+      {
+        "number": 12,
+        "prompt": "Show the Butler confessing its game with pleasure: it wore the shape of the mulchers' housecat, stole their spellbreaker keys, broke the seals on the stairs, and let the creatures in for fun.",
+        "mode": "dialogue",
+        "type": "deception / con",
+        "tags": [
+          "Grounding Detail: Procedural Authority: jargon, deliberate misuse of tools, etc.",
+          "threshold between worlds",
+          "panther-like"
+        ],
+        "model": "",
+        "text": ""
+      },
+      {
+        "number": 13,
+        "prompt": "Narrate the conversation stretching on, the Butler naming others of its kind, Julio and Arluck among them, speaking of them the way one speaks of beloved rivals.",
+        "mode": "exposition",
+        "type": "lore drop",
+        "tags": [
+          "Grounding Detail: Cultural Artifacts.",
+          "lost civilization",
+          "oath-bound"
+        ],
+        "model": "",
+        "text": ""
+      },
+      {
+        "number": 14,
+        "prompt": "Write the parley: Gneiss offering his silence about the keys, the seals, and the cat, in exchange for his party being let past unharmed.",
+        "mode": "dialogue",
+        "type": "negotiation / bargaining",
+        "tags": [
+          "Grounding Detail: Traces of Human Agency.",
+          "deep-dwelling silence",
+          "brazen-gateway"
+        ],
+        "model": "",
+        "text": ""
+      },
+      {
+        "number": 15,
+        "prompt": "Render the arrival of the mulchers at the worst moment, and Phansy firing on instinct before anyone can speak, and the bargain breaking in that instant.",
+        "mode": "action",
+        "type": "reversal / irony",
+        "tags": [
+          "Grounding Detail: Economic Texture: Cost, scarcity, counterfeits, etc.",
+          "volatile",
+          "desperate combat impact"
+        ],
+        "model": "",
+        "text": ""
+      },
+      {
+        "number": 16,
+        "prompt": "Show the Butler killing them, unhurried and affectionate about it, moving through the mulchers as though performing a courtesy.",
+        "mode": "action",
+        "type": "ritual / spellcasting",
+        "tags": [
+          "Grounding Detail: Quantification: Odd-numbered specificity.",
+          "gilded-sarcophagus",
+          "blood-drinking"
+        ],
+        "model": "",
+        "text": ""
+      },
+      {
+        "number": 17,
+        "prompt": "Describe the Creatures Electric coming in from behind at the same time, and the end of it: of eighteen demons and she-demons, one left standing.",
+        "mode": "action",
+        "type": "aftermath",
+        "tags": [
+          "Grounding Detail: Economic Texture: Cost, scarcity, counterfeits, etc.",
+          "fragility against impersonal forces",
+          "divine lightning"
+        ],
+        "model": "",
+        "text": ""
+      },
+      {
+        "number": 18,
+        "prompt": "Narrate Gneiss activating the Coat against all seven senses this time, and walking out of the room alone through what remains.",
+        "mode": "interiority",
+        "type": "stealth",
+        "tags": [
+          "Grounding Detail: Embodiment: Characters physical quirks.",
+          "landstrider slaughter",
+          "grayly illumined dread"
+        ],
+        "model": "",
+        "text": ""
+      },
+      {
+        "number": 19,
+        "prompt": "Write a chunk about the grief that follows, and how it is Joiyuss's death, above all the others, that reaches him.",
+        "mode": "interiority",
+        "type": "emotional processing",
+        "tags": [
+          "Grounding Detail: Wear and Accumulated Time.",
+          "mask-like pale visage",
+          "collapsing boundaries between time and space"
+        ],
+        "model": "",
+        "text": ""
+      },
+      {
+        "number": 20,
+        "prompt": "Show Gneiss keeping the Axe, holding Perli in his thoughts, and choosing to go further down instead of back toward the stairs.",
+        "mode": "interiority",
+        "type": "deliberation",
+        "tags": [
+          "Grounding Detail: Particularity: A specific detail.",
+          "intense devotion",
+          "sense of isolation"
+        ],
+        "model": "",
+        "text": ""
+      },
+      {
+        "number": 21,
+        "prompt": "Describe the hours after, distance put between him and the massacre, and the problem that follows him: he cannot find a Way, because every path looks like every other path.",
+        "mode": "connective tissue",
+        "type": "transition",
+        "tags": [
+          "Grounding Detail: Malfunction.",
+          "eroded-plain",
+          "damned eternal vigil"
+        ],
+        "model": "",
+        "text": ""
+      },
+      {
+        "number": 22,
+        "prompt": "Render the travel through hell: pathways curling through jagged rock, climbing and dropping without reason, sometimes running vertically up a wall like ribbons, everything under a fine white powder that is not dirt.",
+        "mode": "description",
+        "type": "travel",
+        "tags": [
+          "Grounding Detail: The Gratuitous Detail: details with no plot or thematic function.",
+          "impossible architectural grandeur",
+          "matte landscape"
+        ],
+        "model": "",
+        "text": ""
+      },
+      {
+        "number": 23,
+        "prompt": "Describe one stretch where Gneiss walks a library of tall lockers behind grated fencing, humming racks in ordered rows, understood by him as a medieval scholar would understand it.",
+        "mode": "documents & frames",
+        "type": "object focus",
+        "tags": [
+          "Grounding Detail: Procedural Authority: jargon, deliberate misuse of tools, etc.",
+          "ossuary",
+          "mystical obelisk"
+        ],
+        "model": "",
+        "text": ""
+      },
+      {
+        "number": 24,
+        "prompt": "Write the climb up a narrowing gorge of rocks sharp enough to cut paper but not the Coat, ending at a crescent Moon with a Face set in solid jade under two dead, twined weeping willows.",
+        "mode": "description",
+        "type": "physical task",
+        "tags": [
+          "Grounding Detail: Sensory / Textural: Color, temperature, grain, sound, smell.",
+          "deep ravine and chasm",
+          "breath-taking sullen splendor"
+        ],
+        "model": "",
+        "text": ""
+      },
+      {
+        "number": 25,
+        "prompt": "Close with the door asking five logic puzzles in a row, ignoring every question Gneiss puts to it; he answers them all, some rightly, then quits and spares it. It opens a forgotten hallway and asks to be remembered.",
+        "mode": "dialogue",
+        "type": "hook / cliffhanger",
+        "tags": [
+          "Grounding Detail: Quantification: Odd-numbered specificity.",
+          "echoing stone throat",
+          "grandiose wit"
+        ],
+        "model": "",
+        "text": ""
+      }
+    ]
+  }
+}
