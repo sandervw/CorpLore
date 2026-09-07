@@ -19,8 +19,6 @@ from pathlib import Path
 # Random model per blob, with replacement.
 MODELS = [
     "nvidia/nemotron-3-ultra-550b-a55b",
-    "anthropic/claude-sonnet-4.6",
-    "openai/o3",
     "thinkingmachines/inkling",
 ]
 

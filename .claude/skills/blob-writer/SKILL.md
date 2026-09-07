@@ -13,7 +13,7 @@ yourself.
 
 ## Prerequisite input
 
-A chapter JSON of the koschei-chapter format, already run through `blob-scaffold`,
+A chapter JSON, already run through `blob-scaffold`,
 `blob-plotter`, and `blob-metadata`, so every blob has a filled `prompt`, `mode`, `type`,
 and `tags`, with `model` and `text` still empty. The script also reads `chapter.context`.
 
@@ -26,12 +26,7 @@ and `tags`, with `model` and `text` still empty. The script also reads `chapter.
 ## The model pool
 
 Defined as the `MODELS` array in `assets/write_blobs.py`. Each blob's call picks one at
-random, with replacement. Edit that array to reseed. Current pool:
-
-- `nvidia/nemotron-3-ultra-550b-a55b`
-- `anthropic/claude-sonnet-4.6`
-- `openai/o3`
-- `thinkingmachines/inkling`
+random, with replacement.
 
 ## Run it
 
