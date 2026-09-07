@@ -25,9 +25,7 @@ A chapter JSON of the koschei-chapter format whose blobs all have non-empty
 
 ## The model
 
-A single fixed model, set as `MODEL` in `assets/fix_blobs.py`:
-
-- `qwen/qwen3.8-2.4t-a95b`
+A single fixed model, set as `MODEL` in `assets/fix_blobs.py`.
 
 ## Run it
 

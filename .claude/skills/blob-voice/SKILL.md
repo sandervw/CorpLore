@@ -6,7 +6,7 @@ description: Revise chapter JSON blob text fields into a specific character voic
 # blob-voice
 
 Revise the `text` fields of all blobs in a chapter JSON to embody a chosen
-character voice. Runs parallel OpenRouter calls against `anthropic/claude-opus-5`
+character voice. Runs parallel OpenRouter calls
 in batches of up to 3 blobs, then writes the updated `text` back into the file
 **in place** (no backup files, no separate copies).
 
@@ -25,10 +25,6 @@ populated `text`. Supported voices from `.claude/skills/voice-revision/`:
 
 Ensure `OPENROUTER_API_KEY` is present in the environment or inside
 `.claude/skills/blob-voice/assets/.env` (copied from sibling skill assets).
-
-## The model
-
-Fixed model: `anthropic/claude-opus-5`.
 
 ## Run it
 
