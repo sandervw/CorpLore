@@ -18,7 +18,7 @@ import urllib.request
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
-MODEL = "anthropic/claude-opus-5"
+MODEL = "google/gemini-3.8-flash"
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
 MAX_ATTEMPTS = 3
 TIMEOUT = 300

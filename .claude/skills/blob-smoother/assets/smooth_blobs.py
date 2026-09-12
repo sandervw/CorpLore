@@ -23,7 +23,7 @@ from pathlib import Path
 
 # Random model per call, with replacement.
 MODELS = [
-    "anthropic/claude-opus-5",
+    "google/gemini-3.8-flash",
 ]
 
 API_URL = "https://openrouter.ai/api/v1/chat/completions"

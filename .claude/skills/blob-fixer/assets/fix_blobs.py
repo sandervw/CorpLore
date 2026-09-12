@@ -17,7 +17,7 @@ import urllib.error
 import urllib.request
 from pathlib import Path
 
-MODEL = "anthropic/claude-opus-5"
+MODEL = "google/gemini-3.8-flash"
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
 MAX_ATTEMPTS = 1
 TIMEOUT = 600
