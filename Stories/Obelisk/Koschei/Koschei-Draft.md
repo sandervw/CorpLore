@@ -70,7 +70,7 @@ Which made M. Brayve reply, "Never must you go down there, Gneiss Rong of a floo
 
 Here I must make clear of a likely jumble. Whenever I or the mulchers spoke "fifty three" we speak of two hundred and fifty third heaven, not five hundred and fifty third, or seven hundred and fifty third, and the same would be so if we spoke "forty three" or "sixty two", always meaning floors in the two hundred: for of Obelisks one thousand and fifty six planes, only those nearest matter in a demon's life. Of course, when we speak of hells, always we are speaking of the lower one hundred and thirty three of Obelisk's planes: that much is plain sense.
 
-To resume, M. Layme now named those two strong demon: "Myoot and Kallus. Blind. Deaf."
+To resume, M. Laym now named those two strong demon: "Myoot and Kallus. Blind. Deaf."
 
 "Red apes took their senses, or a Creature of more evil, what demon can give truth about the mutants of the hells?"
 
@@ -348,7 +348,7 @@ All of tactic went out of a mulcher company then, each demon or she-demon now ac
 
 A mulcher, Joiyuss, he that came in with creatures behind, happened again to catch me with his eye as he hacked limbs from a wheevil blocking his escape. As I banged of my crystal he shook a moment of confusion from his face, blonde braid wagging, and held up a finger. He turned, ducked now under another wheevil at spring at his face, ran at a dwarfish tree made of iron, rooted under an eave of a cube where hung a board sign of one word, 'Kikinasntaykinnaymz', a meaningless piece of decor, but said iron tree held upon its branches maybe forty or fifty cards of platinum or bronze metal, each dangling from its leather thong. Mulcher Dustman yanked free from tree a good armload of keys that were there - by no means all of them, somewhat of an angst to me - and turned, zigging and zagging my way through a mixed skirmish. All while he weaved I spoke, loud as my lungs would go, advising: "By Venus, ware a monster at your back! Turn there behind a lamppost. Yes, well done, now make of a broadly left way, for look right - your fellows there make a lure for many a rodent, and for a screaming metal jurasik, so cut around that little pagoda."
 
-Once at my cell's round door, Joiyuss Dustman quickly took in shaking hands one some bronze cards in his hand, swept it across a wet eye of his side of my prison's door: an eye of my side narrowed, and there was no more reaction than that, though I pushed of my shoulder, and saw Joiyuss yanking of a long door handle. A second card of bronze, a door's eye narrowed again, Joiyuss fumbled and dropped this second key, and spun around his head, watching of their route, big of eyes himself, so I drummed my prison door and yelled that I knew magic to blast a way free, if only he could free me - not wholly without guile, for I owned no trinket of any such rune, nor had memorized any Words of Mighty Danger of such outcome. Of a way or of another, Joinyuss Dustman held out a third metal card by its thong, swiping it before his side's eye, and this time my side's opened wide, an eye of surprise at an old friend met, and my cell's bogart released its deadbolt and yawned wide his rounded portal.
+Once at my cell's round door, Joiyuss Dustman quickly took in shaking hands one some bronze cards in his hand, swept it across a wet eye of his side of my prison's door: an eye of my side narrowed, and there was no more reaction than that, though I pushed of my shoulder, and saw Joiyuss yanking of a long door handle. A second card of bronze, a door's eye narrowed again, Joiyuss fumbled and dropped this second key, and spun around his head, watching of their route, big of eyes himself, so I drummed my prison door and yelled that I knew magic to blast a way free, if only he could free me - not wholly without guile, for I owned no trinket of any such rune, nor had memorized any Words of Mighty Danger of such outcome. Of a way or of another, Joiyuss Dustman held out a third metal card by its thong, swiping it before his side's eye, and this time my side's opened wide, an eye of surprise at an old friend met, and my cell's bogart released its deadbolt and yawned wide his rounded portal.
 
 Any demon of a little thinking must have seen plain that I escaped of my cell, or he would not be hearing of my own story told in my own way, hearing someone else's story, or else hearing mine in another demon's voice, and it end here - of a plain speaking I lived.
 
@@ -466,7 +466,7 @@ Another demon, of youthful, fair, but narrow face, added of his own mind, "Whate
 
 Then spoke a mulcher Seaslesc, " Give me only a meager replica from among such thousands as must line thousands of cubbies in a vault tower wall: though I may not be of such a size as our crook here, Gneiss Rong, or of such a 'reading', still do I think any trained guard of a fronteir heaven may do more with less," and here she swept her hand over a field of bodies, smoking still.
 
-Their chief, Vincent Ulakhan, drew of himself a full height, which was little, smoothed sleeve collars, and laced fingers behind his back. A long breath he pulled into lung, a sort of breath taken of one who weighs (or imagines he weighs) consequence of eight thousand years, and then he spoke, "At one moment of one year of every century, a demon's labour compels him to a Deed, which will no doubt define of paper for a span of one millennium. Naught is more perilous, nor more precious, than such a demon. Arm thyselves."
+Their chief, Morel Ulakhan, drew of himself a full height, which was little, smoothed sleeve collars, and laced fingers behind his back. A long breath he pulled into lung, a sort of breath taken of one who weighs (or imagines he weighs) consequence of eight thousand years, and then he spoke, "At one moment of one year of every century, a demon's labour compels him to a Deed, which will no doubt define of paper for a span of one millennium. Naught is more perilous, nor more precious, than such a demon. Arm thyselves."
 
 No more delay now among the hounds and puppies, now as their piggish dog leader had gave of his leave, for down along of a vault tower's spiraling stair went mulchers, backs flat against stone as I had went, you may be sure, each grabbing some sacred replica from its niche: looting earns a pass when a looter wears a badge, and wags tail at a boss's bark. I however, already full of hand, did wait at a top platform, and saw each replica taken, as each demon came back into view.
 
@@ -522,20 +522,18 @@ Never have I seen metal slide so swift, flying in my pinch - never have I so hea
 
 ---
 
-Water lay not deep where a corridor floor sheared away past that iron door — a brine of ankle depth over cracked basalt, of a sort survey boys catalogue as *littoral shelf, Class Four, non-navigable*. Those drips I had been counting had of a source, and my shriek had gone on ahead of me into it. I had made of my sounding lead a bludgeon, of a winding of its line about my wrist until a lead weight kissed my knuckles. Good procedure. Bad tool. A Coat kept me ghost-cold, a hole in torch-smoke — yet that party wading behind me wore no Coats.
-
-Kael's vox-caster sputtered of *contact front* and of *flank speed* in one breath. Joren made of an attempt to pivot a formation into a firing wedge, his boots sliding upon biofilm.
-
-They came out of angles. Not out of water — out of *angles*. Geometry of that place folded wrong, and Creatures Electric unfolded out of a fold: needle-jawed, of a bioluminescence, trailing voltage of sick halos. They swam not. They *translated*.
-
-Three heartbeats. That line never formed.
-
-Joren's caster arched into a brine, screaming yet of *tactical advance* while water boiled blue about his knees. Kael fired into a swarm, his rounds flashing off to steam. A Garthim — hulking, of a chitin, of legs all wrong — rose out of shallows behind them, its mandibles clicking of *target acquired*, of a voice of tectonic plates grinding.
-
-A Coat hid me. Of a sound of feeding it hid nothing.
+Out of angle, corner, crack, and out of masses of tree roots, and up from water, decked in slime and dripping weeds - out of everywhere but a told-of iron door which I held a moment longer - came Creatures electric: wheevils again, twenty maybe, but maybe more yet I soon saw, so many did spill forth from each wrong, smoky fold of hell. All Creatures Electric glow somewhat. This water-dwelling lot, though still with a same flat row of needle teeth, varied with those of which I described attacking a mulcher barracks, in that their glow was more shown, a trailing crackle of vibrant pearl color that seemed to stick to air as they went, a streak of metal paint it seemed to my eye. Then I saw of other Creatures too, humping up water between our foe's ranks, other Creatures that were crawdads though of greater bigness, more of a bigness of a buffalo, and their tops had seven long whiskers that stood up very strait, but could be made to bend, and stab, and of these creatures even my reading and wanders knew me not of their name: speaking to other demon's since, I have learned that they are named 'Gartims'. Now one mulcher, Jermayn I think, for he had a head like a chrome bubble to make one remember, he had mind enough to raise of a Boltgun, having taken that replica from thirty-three's vault, and now he took his aim, yanked back its long lever, and behold: a bolt speared one wheevil and send it skimming back over thick water. A big mulcher hewed then with Stormbringer, and his foe too died, a wheevil blooming in a mist of glowblood at its cutting, and it had no soul to suck I think, and maybe some other scribe has time for longer thoughts on that. All this, however, was only a heartbeat or two, and no ring or line did Chief Morel Ulakhan have moment to call, before several of those crawdad Creatures were amidst us, and wheevils too, so that a wild fray or flight must be.
 
 ---
 
+**prompt:** Write a chunk about the mulchers answering with their replicas, and the fight that follows: room to room, corridor to corridor, no ground held longer than a breath.
+**mode**: action
+**type**: combat - the fight itself
+**tags**: 
+- Grounding Detail: Sensory / Textural: Color, temperature, grain, sound, smell.
+- valiant trencherman
+- fiend-haunted cavern depths
+**Text:**
 Past that feeding, mulchers answered of replicas—wet breathing things stripped out of my own remembering. Sirrel's face upon a thing of too many joints. My mother's voice out of a throat full of grinding stone. They came boiling out of fiend-haunted cavern deeps, smelling of ozone and of old copper, and threw themselves upon those creatures.
 
 I made of no parley. A Coat swallowed my heat, my scent, a very sound of my marrow, yet Creatures Electric have no need of senses. They come at aught that moves.
@@ -546,216 +544,14 @@ Room to room. Corridor to corridor, shallows draining away behind me. No ground 
 
 ---
 
+**prompt:** Describe a Mr. Montag coming into view above the fighting, a whale flying without water, its call opening across the hall like an air-raid siren.
+**mode**: description
+**type**: character intro / description
+**tags**: 
+- Grounding Detail: Embodiment: Characters physical quirks.
+- loud booming voice
+- cloaked nocturnal terror
+**Text:**
 Deeper of a way, corridors opened out, and I kept low beneath my Coat, of a fabric that drinks my heat, my scent, and that tremor of my left hand which never ceases of its shaking. A hall was all of teeth and she-demons tearing at those creatures, red silhouettes screaming of a tongue of ground glass. Then a fighting parted of water afore a blade, and Mr. Montag came into view above it, a whale of flying without water, his bulk blotting of a black ceiling. His voice—loud, booming—opened across a hall of an air-raid siren, and rattled of every bone of my crooked spine. He wore a cloak of living shadow, a cloaked terror of night; one arm ended of a hooked claw that dragged behind him, an old quirk of violence writ into flesh, while his other fist clutched a chain of broken teeth, worth of a season's grain to any tooth-monger, as any demon knows. I pressed my palm to my stuttering heart, hid from all seven senses, and knew of a certainty that Sirrel was closer.
 
 ---
-
-Mr. Montag's Call made not of an echo; it *settled*, a wet weight pressing upon flagstones of that chamber pervaded of death. I watched an air shimmer, thick of hot tallow, smelling of sulfur and of scorched brass.
-
-Two mulchers simply ceased of their standing. Their bones cracked all of one time and gave, a white powder puffing out through skin of a color of raw dough. They struck a grain of a floor in heaps of steaming meat, and silence swallowed their screams afore any sound could be born of them.
-
-Others answered of instinct, claws clamped over ear-holes, scales rattling against horn. It saved them of a cracking, though but partly. Blood, black and thick of tar, bubbled from betwixt their fingers, tracking hot paths down wrists of a color of bruised plums. Upright they remained, trembling, their throats working about a silent retching, their equilibrium broke of a frequency that tasted of rust and of rot.
-
-My Coat drank of that vibration, and left me cold and untouched in a sudden, ringing quiet; ill do I boast of it, yet such a Coat is worth ten fields of olives.
-
-Then she-demons at a back—those of a barbed whips—ceased of clutching their heads and began of grinning. They had found a source of that slaughter. They had found those mulchers.
-
----
-
-I slipped of that battle afore those grinning ones could close, my Coat swallowing of my traces—no shape, no stench, not so much of a tremor in a seventh sense. Those demons, every one of them human of some ruined form, hacked at shadows; barbed whips cracked at empty air. Unseen I moved, scouting ahead of that stair which climbed back toward a door above.
-
-A corridor spilled into a nether-adytum. There stopped I.
-
-A she-demon of obsidian eyes lay collapsed against a pillar, her hause torn of something that had left no footprints anywise. In her dead grip was a scrap of parchment—of Sirrel's hand—bearing one particularity: a hairline fracture drawn across a seventh stair, of that exact spot where a way up turns left into smoke.
-
-A way up was real. But she had died of marking it. Worms keep a longer ledger than bosses.
-
----
-
-A Coat drank of light, swallowed of heat, and muted a clatter of my boots upon stairs of black glass—leather worth more, mark me, than a husbandman's whole harvest of millet and his mule beside. I was of a ghost in a machine of hells, unseen to six of seven senses a Church teaches: of sight, of sound, of scent, of touch, of taste, and of a magnetic tug at a soul. A seventh I had left bare. At a seventh stair I found of a hairline crack that Sirrel had drawn, and turned left into smoke. I passed by Guardian Statues, their eyes hollowed out and stuffed of praying fingers, boundary-marks left by First Fallen. Air thickened into a bodiless void of cosmos, pressing at leather, trying of my seams.
-
-I came upon a landing. A Butler stood by an iron door, polishing of a silver tray with a rag of human skin, his back turned. I drew my knife, silent of a held breath. States of life-in-death shimmered about us, trapped souls a-quivering in walls.
-
-I struck.
-
-A blade kissed of a vertebra. Fell he not. He turned, of a motion fluid and impossible, his face a smooth mask of polished bone. He harked not of a creak of leather. He smelled not of copper on my breath. He smiled, tapping at a side of his lipless mouth—an organ of a seventh sense, which no Church has ever named, which no Coat was ever cut to cover: *Intent*. By Ruckbah, I had not reckoned of it.
-
-"You are late, Drifter," whispered he, a sound going past my ears to hammer plain against my spine. "She looked of you to try a front door."
-
----
-
-"You have kept of a stitching tight, Master Rong. Seventy and three years of dust and of blood, and not a fray at a cuff." A voice of that Butler was of velvet laid over gravel, adoration leaking of every syllable. He kept at a silver tray that had held no drink in decades—of a tray worth three fat sows and their farrow—his gloves worn thin at fingertips by generations of service. "She waits in a Ninth Circle. She *always* waits."
-
-My grip tightened on a knife yet bared in my hand, a Coat rippling to swallow of that motion from six senses—though of a seventh he had already tasted it. Venom trailed off a blade's edge, hissing upon a floor of obsidian.
-
-"I will carve of a path through a Pit's own throat to reach her," spoke I, a threat tasting of ash and of old iron. "Stand aside."
-
-Flinched he not. He smiled, of an expression of delighted ruin, haunted of a mortality he had long since bargained away. "Oh, sir. One does not *beat* of a Butler. One settles of a bill."
-
----
-
-"You are enjoying of this," spoke I. My fingers found of a seam in my Coat's collar—of habit, not of need. Leather hid me yet from six that a Church counts, but a callus outlives a plow that raised it.
-
-A smile of that Butler stretched too wide for a mask of polished bone. Teeth clicked. "Protocol nine-C forbids of deception during audit, Drifter. I *am* of an audit."
-
-"Then audit of this." I tossed a signet ring onto obsidian at his feet—of a ring worth two yoke of kine. It rang of a tuning fork. "Mulcher cell, Sector four. You wore of their housecat three weeks. Panther-gait upon stairs: of a deliberate misuse of Form seven, Article twelve. You stole of spellbreaker keys from a matriarch's sleep-pouch."
-
-"Borrowed." A purr shivered through a threshold's membrane. "Seals on Stair thirteen were of *bureaucratic error*. I did but correct of a paperwork."
-
-"You broke them. Let hunger-creatures in. Of a sport."
-
-"Amusement is of a valid metric under Clause forty and four." His pupils widened, vertical and gold. "She-demons screamed beautiful. Sirrel's voice had of a particular timbre when creatures dragged her down."
-
-My hand closed on a ring. A hood of my Coat whispered at my jaw.
-
-"Keep talking," spoke I. "I am recording of every syllable for a Tribunal."
-
-"There is no Tribunal. Only stairs. And I hold of keys."
-
----
-
-A Butler made polish of a silver tray with one gloved daddle worn thin at its fingertips, and a cloth caught upon etched sigils of a First City—spirals of geometry no living hand could copy. We stood in a vestibule above Stair Thirteen, air thick of ozone and of spent venom, and our talk stretched thin and long as a tripwire.
-
-"Julio keeps a Ledger of Ash," spoke he, his voice dry as crushed bone. "He counts cinders of oath-bound afore they cool. Meticulous. Pedantic. I despise his precision."
-
-He set down a tray and took up instead a censer of tarnish, turned it over of a wrist to show a maker's mark: an eye of weeping.
-
-"And Arluck tends a Garden of Silent Bells. He prunes tongues of liars, so they bloom but once in a year. Cruelty dressed of horticulture. I envy his patience."
-
-He spoke of them as a demon speaks of rivals well loved—intimate, weary, fond. Names cut into a same foundation stone of a civilization lost. They were other fingers of that fist which squeezes this world; of a thumb I say nothing.
-
-"Nary a one of them wears a Coat like yours, Drifter," he added, of no looking up. "They cannot hide from seven senses. They do but endure of being seen."
-
----
-
-"You know what I carry," spoke I, my voice flat in a deep-dwelling silence of that vestibule above Stair Thirteen. "Keys. Seals. A cat which watches a threshold."
-
-A Butler—tall, of skin stitched from shadows, eyes as coals banked for morning—made no move. Made no breath. His fingers, withal, twitched toward a hilt at his hip. A trace of human agency, that; some reflex his flesh had outlived.
-
-"Knowledge has weight," he rasped. "Price."
-
-"My silence has more of it." I shrugged my leather straight across my shoulders and let it hang. "I walk past. My mulchers walk back out, and she walks of me. Unharmed. Unmarked. In exchange, keys stay lost, seals stay broken, and a cat stays sleeping. You tell no demon I was here. I tell no demon you let us pass."
-
-A long pause. Coal-eyes flickered.
-
-"She-demons hunt of packs," spoke he at last. "Your woman. She smells of salt and of treachery."
-
-"Sirrel hunts alone," spoke I, and amended his record. "And she is not yours to name."
-
-A lipless mouth of that Butler stretched—somewhat of a smile, somewhat of a wound. "Past a third circle, Drifter. No guarantee further."
-
-"I would not dream of asking of it."
-
----
-
-Past a third circle, counterfeit coin lay spread upon a table of rust—three souls clipped, scarce tender for Sirrel's ransom in a market where scarcity priced even one breath above a loaf. A Butler leaned in, his glove hovering to seal our bargain of silence for passage. My Coat was drawn tight; not one of six could find where I stood.
-
-Then a grate shattered.
-
-Mulchers came up—four of them of patched leather, wielding scythes of dents bought cheap from war-ruins, tools of much volatility for work of desperation. Worst possible moment. By Robbigus, worst of all possible moments.
-
-Phansy fired of instinct.
-
-Her pistol was counterfeit withal—powder of a black market, cheap enough to blow her grip—but a blast caught that Butler square of his throat. Afore any demon could speak, our bargain broke clean in half. A Butler recoiled, purring that my silence was worth nothing now, and Phansy's shot, reckless and desperate, had driven Sirrel's price beyond any clipped soul I held. Grasp two eels, and hold of none.
-
----
-
-Behind a gilded sarcophagus I crouched of a folded lubber, my Coat deadening such senses as might reach me; neither she-demon nor demon-brother could find me out. A Butler had come down from his vestibule, and he made approach of a mulcher pack—four in number, though of these but three yet twitched—unhurried, of much affection, moving among them as one performing of a courtesy. He cupped of their throats, kissed of their brows, and down they went of much gratitude. Blood-drinking he was then, lapping of open wounds of a tender measure, nine beats to a draught, each swallow of a benediction. Unseen I remained.
-
-Then came of a ritual. Nine sigils I carved into a marble and spoke aloud a Coat's hidden name—once, then three times—binding of my intent to fetch Sirrel up out of a lower dark. My own blood a spell drank in exchange: five drops, then seven, then one. Blood worth more than a month of water ration, and I gave it. Hells forgot me altogether. A Butler turned away, smiling yet, and went on to a rest of them.
-
----
-
-Hells had forgot me, but Creatures Electric walked not; they arced, jagged stripes of a divine lightning given of flesh and of hunger, closing from a rearward where thermal vents blinded of a Coat's weave. Ozone I smelled, and scorched sulphur, afore a Coat's warning screamed of a shriek in my teeth. Eighteen demons and she-demons—every mulcher come down with me—fanned out of a semi-circle, of horns and of filed teeth, backed of a fissure to a Ninth Circle.
-
-Drew I not my revolver. Bullets cost of a clipped soul apiece—coin not to be squandered upon chaff, as any demon knows. So dropped I a counterfeit amulet, bartered for at a Styx crossing, blessed of some forgotten saint by report. It shattered upon a basalt, cheap glass and nothing more, bought with a last of my water ration—two days of drink for one beat of doubt. Such fraud purchased me of one second's hesitation from a foremost rank.
-
-One second was all a Coat's weave wanted.
-
-A Butler spun inside of a lightning's embrace. His blade cut not; it deleted. Meat cauterized of an instant, silent as a ledger balanced. Air thickened of a burnt copper smell, and of that sweet particular rot of she-demon hair. They fell of toppled idols, twitching once afore a ground drank them down.
-
-Lightning faded. A Coat cooled.
-
-One she-demon stood yet, none of theirs, her wings folded of a stowed sail, clutching of a ledger of souls. She checked of her tally, unimpressed, and tapped of a claw against a final entry: Mine.
-
----
-
-My left hip hitched of a sprung hinge—an old break never set true—as I pulled a Coat closed, and it swallowed of all seven. Sight died: my shadow choked. Sound, of a drip of blood, went mute; smell, of an iron reek of a fresh-fallen, dissolved; taste, of a tang of fear upon my tongue, vanished; touch, of a cold upon my scarred collarbone, erased; balance, my crooked spine straightening into an absence; and that seventh pull toward Sirrel, silenced dead. I had being only inside of a grayly illumined dread, stepping through she-demon remains—torn harness, limbs of a glistening, wet as slate—where Creatures Electric lay of pieces. A room was of ruin, and of a dull wall-born ash-light. I moved of no ripple, unseen even of her that counted yet, and walked out through what remained.
-
----
-
-A grief came not of a blow. It settled of a sediment in my marrow, laid down of Wear and of Accumulated Time, both stitched into a collar of my Coat—frayed threads, grease of a hundred hells, dust of Sirrel's bedroom window from back when a world still turned right.
-
-She-demons had I killed of a score and more. I had watched their pale mask-visages break of a dropped crock, and felt of a wet heat of their ending. Naught stuck. They were of obstacles only, of a geometry to be walked around, worth no more to me than a stone shook from a boot.
-
-Joiyuss was of another make. Joiyuss, who laughed at sulfur vents. Joiyuss, who shared of his water skin when mine ran dry, his fingers brushing mine—demon touch, ungloved, unguarded, and a rarer trade than salt bartered for gold.
-
-He had died of a few minutes past. Or of three centuries. Boundaries betwixt time and space fall to a midden down here; his last breath echoed in a same instant as my first step upon that obsidian slope.
-
-I reached for a clasp of my Coat, wanting of wool against my cheek, wanting of his smell caught in its fibers—sweat, cheap tobacco, sharp mineral tang of deep rock. My fingers closed of nothing at all, my touch rubbed out with all else.
-
-My Coat hid me from seven senses of a Pit. It hid me not from a memory of his hand in mine, nor from that silence where his laugh once lived. That silence was of a louder make than all screaming. A shut mouth swallows no flies; a dead friend's mouth swallows a demon whole.
-
----
-
-I kept my axe. A hairline crack in its black iron head—thin as a she-demon's smile—caught of no light, yet I knew of it there, running of a vein toward an eye where hickory met steel. I had wrapped its grip of copper wire, stripped from a lantern in a third circle, worth two days of chow had I sold it honest, and my palm remembered a cold of it, though my Coat allowed me no cold now. Behind me those stairs climbed back toward breath and noise, a retreat I could near taste of rust upon my tongue. I thought of Joiyuss—his name of a fixed point, of a bruise I forbade to heal—and held him there in dark with me, and then of Sirrel, further down where air turns wrong. My Coat held me: not one demon among demons, unreadable to any of seven senses these she-demons wield of knives. Alone was I in my hiding, alone of a weight. To turn back was to grant she might be ash already. So I kept Joiyuss close of a pocket-stone in my mind, gripped that wire-wrapped haft—nay, that wire-wrapped grip, for a haft below was bare hickory, and I have felt it since—and let my boots choose downward, into darker still.
-
----
-
-Those stairs gave out behind me and I walked of hours after, my Coat swallowing of my heat and of my scent from all seven senses. An eroded plain stretched ahead, of a gray waste where every footfall echoed of a same note. My compass, a Malfunction of rusted iron, spun of no use at all, and that damned eternal vigil of a sky offered me no landmark, not so much as one crooked star. She-demons had gone silent behind me, their laughter swallowed of a wind, yet those paths—each of a crack in basalt—looked of one likeness, branching and knitting back together of veins in a dead heart. Illy did I find a Way; every route mirrored of a last, and all that distance I laid betwixt me and that slaughter only deepened of a maze. By Menkaar, a road that forks nine ways is no road; it is a mulcher waiting of a turnip.
-
----
-
-At last gave way a mirrored paths, and a matte land swallowed every hue, and left an impossible grandeur of black basalt spires hung downward of chandeliers for kings not present. A fine white powder, which was no dirt at all, coated every surface, and settled upon my shoulders of no weight. My Coat hid me still, and made of me a ghost to such demons as walked here — for all humans are demons, as any demon knows, and women among them she-demons of smiles like broken glass. Down I went, and only for Sirrel.
-
-Travel came of pathways that curled through jagged rock, climbing and dropping of no reason, and sometimes running vertical up a wall of ribbons. I walked them downward, past an archway that could have housed a storm, my boots leaving nary a trace in a powder. A gratuitous bronze cup, dented and brimming of blue moss, rested upon a ledge of no story to tell — worth two goats and a sack of salt in any market I have stood in, and left there for nobody. Staircases spiraled up into a shale-colored ceiling that never broke, architecture made of a mockery of need. Whittling smoke to raise a fence, spoke I to myself, and kept moving, unseen, toward her.
-
----
-
-A pathway ended at grated fencing, and behind it I walked a library of tall lockers, humming racks in ordered rows, which I read of a medieval scholar reading a scriptorium — illuminated indices filed of bone. My Coat kept me hid as ever; withal I applied of a procedural authority, and misused a pry-bar, a tool meant of sealing, to wedge such ossuary-lockers open, and so documented absence in place of entry. A mystical obelisk at an aisle's end cast a shadow of a grid, and parted she-demons cataloguing relics from lesser demons locked inside such frames. Every rack hummed of vespers. Then I understood plain: here was no archive, but a deliberate misuse of containment — manuscripts of marrow ordered by scholastic law, and a fencing itself a frame of a record of what had been taken. By Awlsquawkit, one honest ledger is worth ten chapels. I touched naught, left no print in a white powder, and walked on toward Sirrel.
-
----
-
-Beyond a last humming rack, a gorge tightened of a fist closing upon a knife. Walls of black basalt, grain coarse and cold of a corpse's fingertip, pressed in until my shoulders grazed both sides. Air tasted of ozone and old iron, sharp enough of a flaying to a demon's lungs. Razor flakes of shale, edges honed thinner than any barber keeps, whispered against my Coat's heavy weave — hiss, hiss, hiss — and slid off such fibers without parting one. My gloves shredded of paper. My fingertips bled hot onto stone, and a stone drank of those drops instant, of a dry loaf sopping gravy.
-
-Up I chimneyed, knees locking, boots smearing upon wet patches smooth of glass and skidding through a white powder. A chasm yawned below, a hause swallowing all light. Above, a gorge's head closed into a wall of solid jade — worth more, by Unukalhail, than a plantation and every ox upon it — and set into it hung a crescent moon. It bore a face, cheekbones high, mouth a thin line of sorrow, and it wept green light through two dead willows twined above it, and their shadow lay across a jade. Their branches, brittle of bone, clawed at a jade cheek and left nary a mark.
-
-Such breath-taking, sullen splendor pinned me in place of one beat of my heart, of a struck war-drum. Then drove I my axe into a final crack and hauled myself over a lip, my Coat settling silent of ash, hiding me still from all seven senses.
-
----
-
-"Of a candor, what are you?" spoke I to a moon-faced crescent of jade, barring of a way beneath twined willows. "Why guard of such a depth?"
-
-It heard naught. Its hinges ground open of an *echoing stone throat*.
-
-"First: a drifter counts of thirteen coins, spends of seven, finds of three. How many remain?" That voice held of a *grandiose wit*, dry of dust in an empty granary.
-
-"Nine," spoke I. "He lost of a rest."
-
-"Second: five she-demons dance upon nine blades. Two fall. How many blades remain wet?"
-
-"Seven."
-
-"Third: a heart beats of once each second. It stops of three beats, resumes of five, stops of seven. How many beats in nineteen seconds?"
-
-"Twelve."
-
-"Fourth: two willows die of one embrace. One is felled at a root. How many shadows remain?"
-
-"One."
-
-"Fifth: a door opens inward of a thousand years and outward of one. In which year does a traveller pass?"
-
-"Of a thousandth."
-
-"Sixth—"
-
-"A brain of me will waste no more of its hours in such fencings," spoke I, of a flat voice. "A fool measures thunder with a spoon." My Coat shivered against my ribs and kept me unfound. "Ask of no more."
-
-That door pulsed, its hinges sighing of a tired bellows. "You spare me?"
-
-"I spare you."
-
-A seam widened, showing of a *forgotten hallway*, choked of root and of rust. That moon whispered through narrowing gaps.
-
-"Remember me when you find her."
