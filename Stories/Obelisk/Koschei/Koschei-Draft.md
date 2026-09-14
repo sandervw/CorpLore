@@ -526,15 +526,15 @@ Out of angle, corner, crack, and out of masses of tree roots, and up from water,
 
 ---
 
-**prompt:** Write a chunk about the mulchers answering with their replicas, and the fight that follows: room to room, corridor to corridor, no ground held longer than a breath.
-**tags**: 
-- Grounding Detail: Sensory / Textural: Color, temperature, grain, sound, smell.
-- valiant trencherman
-- fiend-haunted cavern depths
-**Text:**
 One mulcher of a chrome head stood nearer me, by a door, but he wore only a Crown of a Lich, and in his hand held only a regular lawdog's stamper, so that when three wheevils at one leapt for his chest and throat he stamped one, blasting its brains, and of said pair he did not stamp, one fixed its needle teeth into his arm, raking its long fingernail down his black puffy coat until it turned ot red ribbons, while other caught me in its eye, and veered. I however held my Gatling Laser Axe in its chopping position, and so with it I swung a heavy overhand, just as my wheevil stretched its skull into range, and neon light hazed a muted trail through air, as Axe's edge smote a cleft between wheevil eyes, through wheevil jaw, and I caught its little corpse on my broad chest, and shrugged it off. I then smote a second, and so freed my bald mulcher ally, though his chest and forearm leaked crimson rivers. With voice I wrote, "Door!" 
 
+No refusal did mulchers raise - fighting all whiles, hacking and blasting, one by one, I leading, M. Phansie Le with her Protein burner coming last, trying but failing to burn hot iron shut behind us, of such mode did we all duck through iron door, fleeing. Two mulchers we left dead already, one falling under a pile of biting wheevils, his Optical Cloak hiding maybe his body in its last minutes so that of his bones no Creature of hell would ever find, and another with her arms hanged seperate from her torso, in gartim hooks.
+
+No peace. Three or four spaces did we enter, closer than an openness of swamp where from we had fled: one space of a temple balcony maybe, which looked over a broader scape of prickly wood, but was itself enclosed in a metal cage, then a room that might have been a stonecarver's gallery, full of busted busts, broken statues, faces with cracked scalp or sheared cheek staring unthink as we passed, pieces of arm raised in mock salute. Of no sure knowing could there be, for in pastel color had a hell painted over all, and moreover, it had filled them with more beastly things, so that of no way had I to peer close. In a gallery I spoke of, from behind a toppled forearm of some colossus which spanned half of a wall to wall space, and ended in a clenched fist, from behind this came another mob, half of eighteen wheevils, though with no gartims among this lot. I swung to meet a snout of one, axe shearing face. Another close behind would have come in behind my swing, and bit me good, if not for Mulcher Chief Ulakhan, who also stood at a lead of our group, bringing his Lance of a Pale Rider thrusting in through its guts. Other mulchers with their Obelisk replicas answered likewise, and though we made short work of such a small pack, barely of a scratch taking, still I thought it not fast enough, smelling that we stood in a warren, and spotting a first few of those from whom we fled coming now into our gallery. We ran on then, through another room that might have been a meal hall, and from hall to hall, making much of sound as we fought, up and down little steps of broken rock, though none of these were such as might take us from our fiend-haunted plane. My throat prickled, my thighs groaned.
+
 ---
+
+A place of broader scope opened out before us, appearing at an end of a narrow gorge, our flight taking us out into a semi-circled bowl of tiered pews of woad stone, some tiers ascending behind us until they met a wall covered in lichen and pockmarked in small holes, and about a same number of tiers leading down, meeting then another pool of sludge.
 
 **prompt:** Describe a Mr. Montag coming into view above the fighting, a whale flying without water, its call opening across the hall like an air-raid siren.
 **mode**: description
@@ -544,6 +544,3 @@ One mulcher of a chrome head stood nearer me, by a door, but he wore only a Crow
 - loud booming voice
 - cloaked nocturnal terror
 **Text:**
-Deeper of a way, corridors opened out, and I kept low beneath my Coat, of a fabric that drinks my heat, my scent, and that tremor of my left hand which never ceases of its shaking. A hall was all of teeth and she-demons tearing at those creatures, red silhouettes screaming of a tongue of ground glass. Then a fighting parted of water afore a blade, and Mr. Montag came into view above it, a whale of flying without water, his bulk blotting of a black ceiling. His voice—loud, booming—opened across a hall of an air-raid siren, and rattled of every bone of my crooked spine. He wore a cloak of living shadow, a cloaked terror of night; one arm ended of a hooked claw that dragged behind him, an old quirk of violence writ into flesh, while his other fist clutched a chain of broken teeth, worth of a season's grain to any tooth-monger, as any demon knows. I pressed my palm to my stuttering heart, hid from all seven senses, and knew of a certainty that Sirrel was closer.
-
----

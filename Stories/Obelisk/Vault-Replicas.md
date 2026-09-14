@@ -2,6 +2,20 @@
 
 Candidate legacy replicas for the Capsule Vault. Tags: **[U]** ubiquitous, **[I]** inspired, **[O]** Obelisk original.
 
+
+| Replica                   | Wielder                                | Line     | Detail as written                                                                                                                                                            |
+| ------------------------- | -------------------------------------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Protein Burner**        | Phansie Le                             | 459      | Wingbone handle, ceramic mouth, tensed-plastic arms; ivory flame — used to weld the vault doors shut. From the fable _MORTIS_. Taken off a plinth, before Ulakhan gave leave |
+| **Excalibur**             | F. M. Dovich                           | 473      | Blade "a hewn slab of winter-light entire"                                                                                                                                   |
+| **Stormbringer**          | unnamed                                | 473      | Wails with its own engendered wind                                                                                                                                           |
+| **Crown of a Lich**       | unnamed bald mulcher                   | 473      | Swept-back frozen antlers, worn askew                                                                                                                                        |
+| **Arc Caster**            | unnamed                                | 473      | Possibly Joren's "caster" at 535                                                                                                                                             |
+| **Optical Camo Cloak**    | unnamed                                | 473      | Gneiss notes it'd be useless to him                                                                                                                                          |
+| **Boltgun**               | unnamed                                | 473      | "long thin" — possibly Kael's at 535                                                                                                                                         |
+| **Lance of a Pale Rider** | Chief Ulakhan                          | 473      |                                                                                                                                                                              |
+| **Foe Hammer**            | Joiyuss Dustman                        | 473      | Off a plinth; burns cornflower near 'Orcs' — defective copy also burns near housepets                                                                                        |
+| **Pulse Rifle**           | a young mulcher / "the lead dog's pup" | 483, 487 | Dropped it, chewed out by Ulakhan, picked it up                                                                                                                              |
+
 ## Fantasy — Weapons
 
 - **Excalibur** *[U]* — mirror-bright sword, bleed-stopping sheath
