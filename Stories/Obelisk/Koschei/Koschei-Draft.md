@@ -534,13 +534,16 @@ No peace. Three or four spaces did we enter, closer than an openness of swamp wh
 
 ---
 
-A place of broader scope opened out before us, appearing at an end of a narrow gorge, our flight taking us out into a semi-circled bowl of tiered pews of woad stone, some tiers ascending behind us until they met a wall covered in lichen and pockmarked in small holes, and about a same number of tiers leading down, meeting then another pool of sludge.
+A place of broader scope opened out before us, appearing at an end of a narrow gorge, our flight taking us out into a semi-circled bowl of tiered pews of woad stone, some tiers ascending behind us until they met a wall covered in lichen and pockmarked in small holes, and about a same number of tiers leading down, meeting then another pool of sludge. A wooden shape jutted from said pool, which at first I mistook for a broken stump of a tree, until I saw that it was a rotted lectern, and this then had been an auditorium when it was a heaven. Where a stage would have been a broad canyon ran back, its base a still river of a same goop, several other tunnels or crevices however were more of my attention, three or four maybe total, set amidst auditorial ledges.
+
+All seemed empty. Their boss entered on a back of my hams, stopped stiff right beside of me, scanned with an eye of sharp slant and pressed mouth, his Lance of a Pale Rider gripped tight, and then Seaslesc entered, her eye patch askew so that I saw a scarred hollow of her face, she much too worked of a fluster to attend, then Phansie Le, and Herry and Aybul, others, until last came First Mulcher Iternle Dovich, bringing up a rear, his Excalibur stained. All gasped alike to myself, their faced a white of china, covered though in much grime, their eyes even more porcelain still, surrounded by that sooty makeup shading of which I spoke, one way that hell did warp all expression, and even those dogs' chief, Chief Mulcher Morel Ulakhan, who despite of his being a dog, I knew to have some history in him of an experienced trencherman, even he looked something paled, his chest not so much of a rooster, which really was no small wonder, for a short time in a hell will swiftly lance any demon of his puff - let any of proud brain, who would scoff my truth, come to hell and see.
+
+Now, fourteen mulchers in all I thought their count now, we having lost some few along our way, until I saw one last enter behind F. M. Dovich, which was young Joiyuss Dustman, he of their ration cart who had first come running back to his barracks, creatures on his heel. He held his Foehammer replica out now, it not glowing at all, us hearing no more behind him, and I again making of a counting error, believing that we sixteen demons alone were all a count of that amphitheatre.
+
+All at once Joiyuss Dustman's Foehammer bloomed of torquise, its bright color vivid in a greyscape, and I saw a movement of a shadow of a reflection on sludgy water far below, something moving that had been hidden among ceiling: some cloaked nocturnal terror. Learning, and quick instinct, spared me, I alone having made some study of varied Creatures Electric, and having intuition to drop my axe, and clap my palms over my ears, while every mulcher either was of slower action, confused, or else only raised whatever they held of weapons.
+
+"OOOOOHHHHHHHH."
+
+Even through my palm, such a sound rattled of my ears, or more right to say ' of my eyes', for still was all noise seen - in any case it was a pain of sense. A loud booming voice, it rolled amphitheatre stone, a moan of deepness no broad-chested demon might come near to, 
 
 **prompt:** Describe a Mr. Montag coming into view above the fighting, a whale flying without water, its call opening across the hall like an air-raid siren.
-**mode**: description
-**type**: character intro / description
-**tags**: 
-- Grounding Detail: Embodiment: Characters physical quirks.
-- loud booming voice
-- cloaked nocturnal terror
-**Text:**

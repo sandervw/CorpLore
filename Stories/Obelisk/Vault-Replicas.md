@@ -2,6 +2,21 @@
 
 Candidate legacy replicas for the Capsule Vault. Tags: **[U]** ubiquitous, **[I]** inspired, **[O]** Obelisk original.
 
+| Name                | Rank / title                          | First line | Notes                                                   |
+| ------------------- | ------------------------------------- | ---------- | ------------------------------------------------------- |
+| **Brayve**          | Mulcher (M.)                          | 37         | Ch. 1, heaven 253                                       |
+| **Laym**            | Mulcher (M.)                          | 37         | Ch. 1; spelled **Layme** once at 73                     |
+| **Iternle Dovich**  | First Mulcher / F.M. / Senior Mulcher | 217        | Heaven 134 barracks                                     |
+| **Morel Ulakhan**   | Chief Mulcher                         | 257        | Called **Vincent** Ulakhan at 469 — conflict            |
+| **Aybul**           | Mulcher ("Red Sideburns")             | 233        |                                                         |
+| **Seaslesc**        | Mulcher, she-demon                    | 245        | One eye, sunflower patch                                |
+| **Joiyuss Dustman** | Mulcher                               | 331        | Typo **Joinyuss** at 351                                |
+| **Jermayn**         | (implied mulcher)                     | 331        | Named only in Joiyuss's shout at the barricade          |
+| **Herry**           | Mulcher                               | 439        |                                                         |
+| **Phansie Le**      | Mulcher, she-demon                    | 463        | The big she-demon with the Protein Burner               |
+| **Loogoo Breeus**   | Mulcher, she-demon                    | 513        | Ch. 6                                                   |
+| **Joren**           | (unranked)                            | 535        | Only in the draft prompt-text block                     |
+| **Kael**            | (unranked)                            | 535        | Same block; reads placeholder-ish vs. your naming style |
 
 | Replica                   | Wielder                                | Line     | Detail as written                                                                                                                                                            |
 | ------------------------- | -------------------------------------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
