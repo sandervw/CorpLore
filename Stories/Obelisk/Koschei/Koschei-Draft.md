@@ -536,7 +536,7 @@ No peace. Three or four spaces did we enter, closer than an openness of swamp wh
 
 A place of broader scope opened out before us, appearing at an end of a narrow gorge, our flight taking us out into a semi-circled bowl of tiered pews of woad stone, some tiers ascending behind us until they met a wall covered in lichen and pockmarked in small holes, and about a same number of tiers leading down, meeting then another pool of sludge. A wooden shape jutted from said pool, which at first I mistook for a broken stump of a tree, until I saw that it was a rotted lectern, and this then had been an auditorium when it was a heaven. Where a stage would have been a broad canyon ran back, its base a still river of a same goop, several other tunnels or crevices however were more of my attention, three or four maybe total, set amidst auditorial ledges.
 
-All seemed empty. Their boss entered on a back of my hams, stopped stiff right beside of me, scanned with an eye of sharp slant and pressed mouth, his Lance of a Pale Rider gripped tight, and then Seaslesc entered, her eye patch askew so that I saw a scarred hollow of her face, she much too worked of a fluster to attend, then Phansie Le, and Herry and Aybul, others, until last came First Mulcher Iternle Dovich, bringing up a rear, his Excalibur stained. All gasped alike to myself, their faced a white of china, covered though in much grime, their eyes even more porcelain still, surrounded by that sooty makeup shading of which I spoke, one way that hell did warp all expression, and even those dogs' chief, Chief Mulcher Morel Ulakhan, who despite of his being a dog, I knew to have some history in him of an experienced trencherman, even he looked something paled, his chest not so much of a rooster, which really was no small wonder, for a short time in a hell will swiftly lance any demon of his puff - let any of proud brain, who would scoff my truth, come to hell and see.
+All seemed empty. Their boss entered on a back of my hams, stopped stiff right beside of me, scanned with an eye of sharp slant and pressed mouth, his Lance of a Pale Rider gripped tight, and then Seaslesc entered, her eye patch askew so that I saw a scarred hollow of her face, she much too worked of a fluster to attend, then Phansie Le, and Herry and Aybul, others, until last came First Mulcher Iternle Dovich, bringing up a rear, his Excalibur stained. All gasped alike to myself, their faced a white of china, covered though in much grime, their eyes even more porcelain still, surrounded by that sooty makeup shading of which I spoke, one way that hell did warp all expression, and even those dogs' chief, Chief Mulcher Morel Ulakhan, who despite of his being a dog, I knew to have some history in him of an experienced trencherdemon, even he looked something paled, his chest not so much of a rooster, which really was no small wonder, for a short time in a hell will swiftly lance any demon of his puff - let any of proud brain, who would scoff my truth, come to hell and see.
 
 Now, fourteen mulchers in all I thought their count now, we having lost some few along our way, until I saw one last enter behind F. M. Dovich, which was young Joiyuss Dustman, he of their ration cart who had first come running back to his barracks, creatures on his heel. He held his Foehammer replica out now, it not glowing at all, us hearing no more behind him, and I again making of a counting error, believing that we sixteen demons alone were all a count of that amphitheatre.
 
@@ -544,6 +544,19 @@ All at once Joiyuss Dustman's Foehammer bloomed of torquise, its bright color vi
 
 "OOOOOHHHHHHHH."
 
-Even through my palm, such a sound rattled of my ears, or more right to say ' of my eyes', for still was all noise seen - in any case it was a pain of sense. A loud booming voice, it rolled amphitheatre stone, a moan of deepness no broad-chested demon might come near to, 
+**Pickup**
 
-**prompt:** Describe a Mr. Montag coming into view above the fighting, a whale flying without water, its call opening across the hall like an air-raid siren.
+Even through my palm, such a sound rattled of my ears, or more right to say 'of my eyes', for still was all noise seen - in any case it was a pain of sense. A booming voice, it rolled over amphitheatre stone, a moan of deepness no broad-chested demon might approach in his deepest grief, a keen fit more for cosmic things beyond a scope of heaven, mourning oceans, or a last gasp of light from a far star. Only through my reading had I taken sense to cover of my ears, for - happily until now - I had never seen of nor heard a lament of such a Creature Electric: a Mr. Montag. I looked up: from on high its bulk swam down through air, swim being of a right word, for its winged tail, its many tiny fishy fins, waved slowly, in undulation. It's torso had a swollen look of full waterskins, or stubbed toes, mottled purples and browns, coarse leather, but a wriggling worm in length it was too, and each of its was a beam of a signaldemon's lamp, and its jaw hinged wide to suck of air for another low siren cry.
+
+---
+
+
+
+**prompt:** Show what the call does when it lands: two mulchers dropped where they stand with their bones cracked through, and the others saved only by hands clapped over their ears, and saved only partly.
+**mode:** action
+**text:** 
+- chamber pervaded of death
+- air shimmer
+- Two mulchers bones cracked all of one time and gave, a white powder puffing out through skin of a color of raw dough. heaps of steaming meat, and silence swallowed their screams afore any sound could be born of them.\n\nOthers answered of instinct, It saved them of a cracking, though but partly.
+- Blood, black and thick of tar, bubbled from betwixt their fingers, tracking hot paths down wrists of a color of bruised plums. Upright they remained, trembling, their throats working about a silent retching,
+- such a Coat is worth ten fields of olives.
