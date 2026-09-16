@@ -550,13 +550,33 @@ Even through my palm, such a sound rattled of my ears, or more right to say 'of 
 
 ---
 
+Of a quick thinking was there less for those mulchers, air shimmering as its cry struck two at a special bad angle of their ears' cones: their bones cracked all of one time, white powder puffing out through doughy skin, their bodies melting, two heaps of steaming meat, silence eating of any scream before its birth. Others had their faces turned of a more fortunate angle, turned away of airy shimmer, or else knew some instinct to quickly clap their own ears as I had, and by such were spared of ruin, though but partly. Hot head blood, black of tar, bubbled between their fingers, tracking hot paths down their wrists. Four fell, rolling about of stepped stone, while others upright remained, but trembling, retching I saw by a silent pulse of their throats.
+
+---
+
+Seeing such a Mr. Montag as I have described beginning to suck of more air, I reached swiftly to where I had dropped of my axe, propped its eye against my shoulder, yanked back a lever to set its barrel spinning, its neon burning, and took of a bead. I saw a beginnings of a rumble with my ear, saw a Mr. Montag's body inflate gradually from its tail to its jaw, with my eye, then also with my eye, saw angry Gatling Laser beams zip up, summon up a potent reek. Sizzling ozone. My gatling fire blasted all along a wormy body, burning holes, causing shrieking gas whistles as its built moan did leak of its insides, and though these whistling gasses pained of my brain, yet they did no true hurt. Our flying foe's worm-body drifted down, losing air: I ducked, it passed overhead, I looked up, I watched its impact, its body sledding down our amphitheatre, shaking earth, wriggling and twisting until, with  sucking, muted splash, it dug a muddy furrow through a bottom lake of sludge.
+
+Now mulchers were only just shaking of their daze - except for those two who were bone powder and flesh jelly - and as I began to let blasting lasers spin down, I saw shapes moving in from it seemed every other narrow entry to our space. Wheevils. More of them this time, a hundred, or maybe two, pouring in from all openings. I blasted some, but they only began of hopping at us, jumping up or down into our row as was needed: I saw that little of a hope could I have in blasting them away, as I had up in a vault at a doorway, for here were they too widely spread for a funnel. I looked again, and saw some mulcher dogs were ready of their weapons, then of a thought that they must hold out, and of a thought that I should go to scouting, as we had planned, and also of a thought that, anyway, it would be of no good end for me to die in battle aside of law dogs, and leaving Sirrel to Ostrabawgewlus moreover - well any demon may see that I swiftly moved of a buttoning my coat and vanishing from sight and touch and smell and taste and hearing and even proprioception. I snuck off.
 
 
-**prompt:** Show what the call does when it lands: two mulchers dropped where they stand with their bones cracked through, and the others saved only by hands clapped over their ears, and saved only partly.
-**mode:** action
-**text:** 
-- chamber pervaded of death
-- air shimmer
-- Two mulchers bones cracked all of one time and gave, a white powder puffing out through skin of a color of raw dough. heaps of steaming meat, and silence swallowed their screams afore any sound could be born of them.\n\nOthers answered of instinct, It saved them of a cracking, though but partly.
-- Blood, black and thick of tar, bubbled from betwixt their fingers, tracking hot paths down wrists of a color of bruised plums. Upright they remained, trembling, their throats working about a silent retching,
-- such a Coat is worth ten fields of olives.
+---
+
+**prompt:** Render the moment the Butler turns and finds him anyway, taking him by the one sense Gneiss left uncovered, the secret and unnamed seventh.
+**tags:**
+- nether-adytum
+- Grounding Detail: Cultural Artifacts.
+- bodiless cosmic void
+- life-in-death states
+**Text:**
+A Coat drank of light, swallowed of heat, and muted a clatter of my boots upon stairs of black glass—leather worth more, mark me, than a husbandman's whole harvest of millet and his mule beside. I was of a ghost in a machine of hells, unseen to six of seven senses a Church teaches: of sight, of sound, of scent, of touch, of taste, and of a magnetic tug at a soul. A seventh I had left bare. At a seventh stair I found of a hairline crack that Sirrel had drawn, and turned left into smoke. I passed by Guardian Statues, their eyes hollowed out and stuffed of praying fingers, boundary-marks left by First Fallen. Air thickened into a bodiless void of cosmos, pressing at leather, trying of my seams.
+
+I came upon a landing. A Butler stood by an iron door, polishing of a silver tray with a rag of human skin, his back turned. I drew my knife, silent of a held breath. States of life-in-death shimmered about us, trapped souls a-quivering in walls.
+
+I struck.
+
+A blade kissed of a vertebra. Fell he not. He turned, of a motion fluid and impossible, his face a smooth mask of polished bone. He harked not of a creak of leather. He smelled not of copper on my breath. He smiled, tapping at a side of his lipless mouth—an organ of a seventh sense, which no Church has ever named, which no Coat was ever cut to cover: *Intent*. By Ruckbah, I had not reckoned of it.
+
+"You are late, Drifter," whispered he, a sound going past my ears to hammer plain against my spine. "She looked of you to try a front door."
+
+---
+
