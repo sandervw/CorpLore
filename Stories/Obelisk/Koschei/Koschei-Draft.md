@@ -566,16 +566,25 @@ With a Coat of Seven Senses I slipped through wheevils, arcing across some curve
 
 I came onto some kind of a rising structure of box rooms and arcing stairways, a demon made tree of stone, no discernable logic or ordering in its arrangement of rooms, and I, as I marched up it, looked down into bodiless cosmic void, and began to be of a mind that this could take me all of a way to a heaven thirty three. In one of such box rooms, I saw two guardian statues, demons of long horn, lamprey mouths, their eyes hollowed and stuffed of praying fingers, and I skirted carefully around a right hip of a leftmost statue, not knowing if these statues had some curse, not wanting to learn.
 
-Near a top of such a stone tree, through a door in a box room, I found a wide bridge that was not of a visible end, but made of sturdy planks, and this I crossed, and slipped at last into a tunnel in a wall of columned basalt, not before looking back and down however, and seeing that I only stood maybe three demon of short tallness above a mossy floor, though I had climbed many steps and ramps. At an end of such a tunnel lay a flat room, its ceiling high up, held by two rows of uneven round pillars, wide pillars, and with much space of walking in between. These pillars were of a stalactite and stalagmite touching shape, formed of a faintly lighted crystal, fog light, and 
+Near a top of such a stone tree, through a door in a box room, I found a wide bridge that was not of a visible end, but made of sturdy planks, and this I crossed, and slipped at last into a tunnel in a wall of columned basalt, not before looking back and down however, and seeing that I only stood maybe three demon of short tallness above a mossy floor, though I had climbed many steps and ramps. At an end of such a tunnel lay a flat room, its ceiling high up, held by two rows of uneven round pillars, wide pillars, and with much space of walking in between. These pillars were shaped of a tite and mite touching, formed of a crystal, faintly light, fog light, and shedding through room some luminousness. At a far end of such a flat space, between pillars, I saw a small portcullis, raised. I crossed, coming near. Then, behind one of a last two pillars, there padded a Creature Electric of which I had no want to see, and one that I have spoken of by sound before.
 
+**Pickup**
 
-**prompt:** Render the moment the Butler turns and finds him anyway, taking him by the one sense Gneiss left uncovered, the secret and unnamed seventh.
-**tags:**
-- A Butler stood by an iron door, rag of human skin
-- States of life-in-death shimmered about us, trapped souls a-quivering in walls.
-- Fell he not; motion fluid and impossible face a smooth mask of...
-- an organ of a seventh sense... curses of Ruckbah, I had not reckoned of it.
-- "You are late, Drifter," whispered he, a sound going past my ears to hammer plain against my spine.
+A butler. And by sight, such a thing is no more pleasing: there is a body of fur, a body of a tiger greater in size than any beast of land or of sky or of sea, a body which is neat and spare, a face that is more like a demon's in flatness, yet still with that wide mouth of cat smile. It wore grey rags of demonskin. It's slitted eyes were yellow, shifting yellow, and followed me not, but seemed to look unfocused at a floor somewhat ahead, so that I thought my Coat did its work. I stepped nearer, making no noise, no smell, toward such a portcullis as I described, of a mind that such might lead to heaven, or at least to someplace far from a butler. Then a bulter raised its head, its ears and its gaze, its smooth, wide smile, and although it neither saw nor heard me - COULD NOT see or hear me - yet it sensed me by its knowing. Curses of Ruckbah! I had made of a stark but usual error: when I think of my Coat, it is always as a weapon of two edges, or else I am wondering whether I should conceal sight only or also smell and hearing, for some things are more or less keen of those three, or I remember of such a cold wet as always comes of a buttoning, but regardless, it is always 'A Coat' or 'My Coat', never 'A Coat of Seven Senses.' I had concealed myself of six senses, those six by which some wheevil might have know me as I snuck near through them, and had forgot of a secret sense, a *seventh*.
 
 ---
 
+TODO
+
+**prompt:** Write a chunk about how the Butler speaks to Gneiss: tender, adoring, delighted, and about Gneiss understanding immediately that a butler is not a thing he can beat.
+**mode:** dialogue
+**type:** threat / intimidation
+**tags:**
+- Grounding Detail: Wear and Accumulated Time.
+- trailing venom
+- haunted by mortality
+**text:**
+"You have kept of a stitching tight, Master Rong. Seventy and three years of dust and of blood, and not a fray at a cuff." A voice of that Butler was of velvet laid over gravel, adoration leaking of every syllable. He kept at a silver tray that had held no drink in decades—of a tray worth three fat sows and their farrow—his gloves worn thin at fingertips by generations of service. "She waits in a Ninth Circle. She *always* waits."
+My grip tightened on a knife yet bared in my hand, a Coat rippling to swallow of that motion from six senses—though of a seventh he had already tasted it. Venom trailed off a blade's edge, hissing upon a floor of obsidian.
+"I will carve of a path through a Pit's own throat to reach her," spoke I, a threat tasting of ash and of old iron. "Stand aside."
+Flinched he not. He smiled, of an expression of delighted ruin, haunted of a mortality he had long since bargained away. "Oh, sir. One does not *beat* of a Butler. One settles of a bill."
