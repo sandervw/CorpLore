@@ -574,17 +574,55 @@ A butler. And by sight, such a thing is no more pleasing: there is a body of fur
 
 ---
 
-TODO
+"My sneaking demon," spoke a butler, in a voice of velvet laid over gravel. "You have climbed so deeply down, so far of a way from your doorstep it must be, to this, my beauteous country. Well glad I am, darling one, for of fine arts, gentle rivers, kindly folk, and a sweet, clean air, this wilderness does boast, and so few are tourists that any demon or she-demon who might live near of this place is ever encouraged to drop in - and moreover, I certainly do feel with a- a desire to view of a secret, autoptic eye. Yet is not discourteous, now, that such a comer might so swiftly go, without a cordial 'hello' to a master?"
 
-**prompt:** Write a chunk about how the Butler speaks to Gneiss: tender, adoring, delighted, and about Gneiss understanding immediately that a butler is not a thing he can beat.
+"So went my mind," spoke I in return, "except that, as my host should be of a greatest power, and I not knowing of his or her name-"
+
+"And I not knowing thine," interrupted the cat.
+
+"To most, I am of a sobriquet 'big', to match of my size, and surely such a name will serve for only a short 'hello' that I give now freely, before passing through yonder door so that - big or flea - I am gone of your hair."
+
+But such a great monster as I have described laid one of its mighty fore feet, full of more than eight ivory claws - before its iron portcullis, then with its other paw, slid from a hollow in such a pillar as it stood near, a thing of remarkable glass. It was a glass of hours, its bottom full of black sand, until that it was turned of its head, the sand now sliding down from a part that had been its nether, now its upper, to its new nether. I heard it hissing.
+
+Then a cat's mouth in a demon face spoke again from such a huge cat's body, "I mark now time for us to speak, 'big', but for that other matter of my own name, for that must my caller show himself: I will not speak with a ghost."
+
+A butler is a Creature Electric of much magic, besides its size, speed, and muscle, knowing of its brain many Words of Mighty Danger, and I expected its glass of hours to have some magic in its taper too, so that I fooled myself no ways into thinking I could sneak or fight through such a foe. So, I undid of all three buttons of my Coat, making sure beforehand to plant my Gatling Laster Axe back in a leather thong I had around my chest (although, as any demon surely would, even did he think little of his fighting chance, I kept its Gatling side at a good angle for quick blasting).
+
+---
+
+
+
+**number:** 12
+
+**prompt:** Show the Butler confessing its game with pleasure: it wore the shape of the mulchers' housecat, stole their spellbreaker keys, broke the seals on the stairs, and let the creatures in for fun.
+
 **mode:** dialogue
-**type:** threat / intimidation
+
+**type:** deception / con
+
 **tags:**
-- Grounding Detail: Wear and Accumulated Time.
-- trailing venom
-- haunted by mortality
+- Grounding Detail: Procedural Authority: jargon, deliberate misuse of tools, etc.
+- threshold between worlds
+- panther-like
+
+**model:** nvidia/nemotron-3-ultra-550b-a55b
+
 **text:**
-"You have kept of a stitching tight, Master Rong. Seventy and three years of dust and of blood, and not a fray at a cuff." A voice of that Butler was of velvet laid over gravel, adoration leaking of every syllable. He kept at a silver tray that had held no drink in decades—of a tray worth three fat sows and their farrow—his gloves worn thin at fingertips by generations of service. "She waits in a Ninth Circle. She *always* waits."
-My grip tightened on a knife yet bared in my hand, a Coat rippling to swallow of that motion from six senses—though of a seventh he had already tasted it. Venom trailed off a blade's edge, hissing upon a floor of obsidian.
-"I will carve of a path through a Pit's own throat to reach her," spoke I, a threat tasting of ash and of old iron. "Stand aside."
-Flinched he not. He smiled, of an expression of delighted ruin, haunted of a mortality he had long since bargained away. "Oh, sir. One does not *beat* of a Butler. One settles of a bill."
+
+"You are enjoying of this," spoke I. My fingers found of a seam in my Coat's collar—of habit, not of need. Leather hid me yet from six that a Church counts, but a callus outlives a plow that raised it.
+
+A smile of that Butler stretched too wide for a mask of polished bone. Teeth clicked. "Protocol nine-C forbids of deception during audit, Drifter. I *am* of an audit."
+
+"Then audit of this." I tossed a signet ring onto obsidian at his feet—of a ring worth two yoke of kine. It rang of a tuning fork. "Mulcher cell, Sector four. You wore of their housecat three weeks. Panther-gait upon stairs: of a deliberate misuse of Form seven, Article twelve. You stole of spellbreaker keys from a matriarch's sleep-pouch."
+
+"Borrowed." A purr shivered through a threshold's membrane. "Seals on Stair thirteen were of *bureaucratic error*. I did but correct of a paperwork."
+
+"You broke them. Let hunger-creatures in. Of a sport."
+
+"Amusement is of a valid metric under Clause forty and four." His pupils widened, vertical and gold. "She-demons screamed beautiful. Sirrel's voice had of a particular timbre when creatures dragged her down."
+
+My hand closed on a ring. A hood of my Coat whispered at my jaw.
+
+"Keep talking," spoke I. "I am recording of every syllable for a Tribunal."
+
+"There is no Tribunal. Only stairs. And I hold of keys."
