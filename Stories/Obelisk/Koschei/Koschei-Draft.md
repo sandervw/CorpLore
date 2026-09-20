@@ -568,8 +568,6 @@ I came onto some kind of a rising structure of box rooms and arcing stairways, a
 
 Near a top of such a stone tree, through a door in a box room, I found a wide bridge that was not of a visible end, but made of sturdy planks, and this I crossed, and slipped at last into a tunnel in a wall of columned basalt, not before looking back and down however, and seeing that I only stood maybe three demon of short tallness above a mossy floor, though I had climbed many steps and ramps. At an end of such a tunnel lay a flat room, its ceiling high up, held by two rows of uneven round pillars, wide pillars, and with much space of walking in between. These pillars were shaped of a tite and mite touching, formed of a crystal, faintly light, fog light, and shedding through room some luminousness. At a far end of such a flat space, between pillars, I saw a small portcullis, raised. I crossed, coming near. Then, behind one of a last two pillars, there padded a Creature Electric of which I had no want to see, and one that I have spoken of by sound before.
 
-**Pickup**
-
 A butler. And by sight, such a thing is no more pleasing: there is a body of fur, a body of a tiger greater in size than any beast of land or of sky or of sea, a body which is neat and spare, a face that is more like a demon's in flatness, yet still with that wide mouth of cat smile. It wore grey rags of demonskin. It's slitted eyes were yellow, shifting yellow, and followed me not, but seemed to look unfocused at a floor somewhat ahead, so that I thought my Coat did its work. I stepped nearer, making no noise, no smell, toward such a portcullis as I described, of a mind that such might lead to heaven, or at least to someplace far from a butler. Then a bulter raised its head, its ears and its gaze, its smooth, wide smile, and although it neither saw nor heard me - COULD NOT see or hear me - yet it sensed me by its knowing. Curses of Ruckbah! I had made of a stark but usual error: when I think of my Coat, it is always as a weapon of two edges, or else I am wondering whether I should conceal sight only or also smell and hearing, for some things are more or less keen of those three, or I remember of such a cold wet as always comes of a buttoning, but regardless, it is always 'A Coat' or 'My Coat', never 'A Coat of Seven Senses.' I had concealed myself of six senses, those six by which some wheevil might have know me as I snuck near through them, and had forgot of a secret sense, a *seventh*.
 
 ---
@@ -584,34 +582,48 @@ A butler. And by sight, such a thing is no more pleasing: there is a body of fur
 
 But such a great monster as I have described laid one of its mighty fore feet, full of more than eight ivory claws - before its iron portcullis, then with its other paw, slid from a hollow in such a pillar as it stood near, a thing of remarkable glass. It was a glass of hours, its bottom full of black sand, until that it was turned of its head, the sand now sliding down from a part that had been its nether, now its upper, to its new nether. I heard it hissing.
 
-Then a cat's mouth in a demon face spoke again from such a huge cat's body, "I mark now time for us to speak, 'big', but for that other matter of my own name, for that must my caller show himself: I will not speak with a ghost."
+Then a cat's mouth in a demon face spoke again from such a huge cat's body, "I mark now time for us to speak, 'Big', but for that other matter of my own name, for that must my caller show himself: I will not speak with a ghost."
 
 A butler is a Creature Electric of much magic, besides its size, speed, and muscle, knowing of its brain many Words of Mighty Danger, and I expected its glass of hours to have some magic in its taper too, so that I fooled myself no ways into thinking I could sneak or fight through such a foe. So, I undid of all three buttons of my Coat, making sure beforehand to plant my Gatling Laster Axe back in a leather thong I had around my chest (although, as any demon surely would, even did he think little of his fighting chance, I kept its Gatling side at a good angle for quick blasting).
 
 ---
 
+Spoke a butler, setting its face upon me, "A barb demon: I know of that smell which is your, barb demon Big, for it is such as I smelled above shortly ago, as I myself became a tourist, a first for me, of your thirty and third heaven."
+
+"Readily true." I nodded at his glass of hours. "But since a time you have given me presses: how may I name of such a master of this realm?"
+
+"Wonderland is he named, oh Big of lovely shape."
+
+"Hello Wonderland - and now, manners being dealt, if you will only move some of a heavy limb you laid before your gate there, I will go."
+
+"Big, are you not of some ways curious to how know of your smell, and how it was I visited your heaven?"
+
+"Some friend invited you, or you found some trail of little use, maybe a shaft where hit air bursts up through a steam vent: there is a marsh, Phantommarsh, in Thirty Three, where such vents are likely."
+
+"Tisk tisk, sweet Big, do you always play games of half and sideways speaking with a gentle host? You are of some little learning at least I know, for you knew of my race though I have spoken no word of you. You and I together know that no demon of a border realm - say your Sages or wise ones - names a butler to his friends, and that no trails are left unwatched between heavens and hells, and how might I climb up a steaming vent, and not be scalded?"
+
+He purred, HGGGGGURRRRR. I wished not to be bantering of a butler, and I liked not a yellow gleam his eye color shifted over me. "Then some demon opened a gate of heaven: some way did you find. But look, your glass of hours draws ever down, I am pressed of time, and you must have your supper, or dues to gather, or some other activities to attend since your visit, so let us say now, 'Farewell.'" And so saying, I looked to such a portcullis as I told of, and made one step toward it.
+
+"Good Morning." Wonderland spoke his two Words clearly, loudly, making each syllable distinct. I froze, not of fear, though plenty reason had I for it, but from magic, for such power did his spell carry: though my upper body might twist all over, my legs and my two shoes were rooted to stone, so that I stood fixed, there, in a midst of a butler's wide pillared lair.
+
+Wonderland went on, "I am of a mood to entertain, and to be entertained, for as long as you are still here, demon Big who is so, so little. You wear today a coat of patchwork cut, demon Big - perhaps this is only a coat you use of travel, or for its magic - but I think it is common for any demon to own a few coats, and wear them as suits his mood, yes?"
+
+**Pickup**
+
+"Readily true."
+
+"And did you know that a master such as I, also, may pick whichever coat, whichever skin, whichever fur, suits his mood? Is such know about my kin, among demons of heaven?"
 
 
-**number:** 12
 
 **prompt:** Show the Butler confessing its game with pleasure: it wore the shape of the mulchers' housecat, stole their spellbreaker keys, broke the seals on the stairs, and let the creatures in for fun.
-
 **mode:** dialogue
-
 **type:** deception / con
-
 **tags:**
 - Grounding Detail: Procedural Authority: jargon, deliberate misuse of tools, etc.
 - threshold between worlds
 - panther-like
-
-**model:** nvidia/nemotron-3-ultra-550b-a55b
-
 **text:**
-
-"You are enjoying of this," spoke I. My fingers found of a seam in my Coat's collar—of habit, not of need. Leather hid me yet from six that a Church counts, but a callus outlives a plow that raised it.
-
-A smile of that Butler stretched too wide for a mask of polished bone. Teeth clicked. "Protocol nine-C forbids of deception during audit, Drifter. I *am* of an audit."
 
 "Then audit of this." I tossed a signet ring onto obsidian at his feet—of a ring worth two yoke of kine. It rang of a tuning fork. "Mulcher cell, Sector four. You wore of their housecat three weeks. Panther-gait upon stairs: of a deliberate misuse of Form seven, Article twelve. You stole of spellbreaker keys from a matriarch's sleep-pouch."
 
