@@ -588,7 +588,7 @@ A butler is a Creature Electric of much magic, besides its size, speed, and musc
 
 ---
 
-Spoke a butler, setting its face upon me, "A barb demon: I know of that smell which is your, barb demon Big, for it is such as I smelled above shortly ago, as I myself became a tourist, a first for me, of your thirty and third heaven."
+Spoke a butler, setting its face upon me, "A waard: I know of that smell which is your, barb demon Big, for it is such as I smelled above shortly ago, as I myself became a tourist, a first for me, of your thirty and third heaven."
 
 "Readily true." I nodded at his glass of hours. "But since a time you have given me presses: how may I name of such a master of this realm?"
 
@@ -612,29 +612,25 @@ Wonderland went on, "I am of a mood to entertain, and to be entertained, for as 
 
 "Readily true."
 
-"And did you know that a master such as I, also, may pick whichever coat, whichever skin, whichever fur, suits his mood? Is such know about my kin, among demons of heaven?"
+"And did you know that a master such as I, also, may pick whichever coat, whichever skin, whichever fur, suits his mood? Is that know about my kin, among demons of heaven?"
 
+"Mighty one, have you worn of some look of late, where I have seen of you, met of you, and not know? Some skin of a red demon, maybe?"
 
+"Never!" With his curse, I saw cat's pupils squeeze to dangerous thin slits, and felt pressure of my spell locked legs, but then it seemed to drop its wrath with just as sudden ease. It spoke on, "But how I entered heaven, this is explained of by such a power such as I have described, for I only wore of some small shape, some orange skin, some leaner face and jowl, you see, sweet waard: I carried my body of a shape of my far cousins, such cats as live innocent within your cubes of heaven, a tom of orange color looked I, making myself appear soft fur and friendly to petting, one of which is a fact."
 
-**prompt:** Show the Butler confessing its game with pleasure: it wore the shape of the mulchers' housecat, stole their spellbreaker keys, broke the seals on the stairs, and let the creatures in for fun.
-**mode:** dialogue
-**type:** deception / con
+"A mulchers' cat," spoke I. I remembered, though but at a distance, for I had heard of it only faintly in passing through some walls of crystal in my prison, two mulchers of thirty three's barracks making some mention of a missing cat.
+
+"Your fellow, upper demons, do always so believe that you may bar your stairs and your lifts, thresholds between worlds, with some meagre Powers, that will make for you a barrier enduring, no thought of a history, of one hundred and thirty two realms of Obelisk, of realms that believed also this lie: all it takes is one hole, of a shape for a mere kitten, one trusting demon, keeper of spell breaking keys, and one Master, I, Wonderland, who will NOT repose. I broke your seals. I opened your locked gates, and gave my demons - what you say are 'Creatures Electric' - a holiday."
+
+---
+
+**number:** 13
+**prompt:** Narrate the conversation stretching on, the Butler naming others of its kind, Julio, Arluck, Sweet Rhubarb, speaking of them the way one speaks of beloved rivals.
+**mode:** exposition
+**type:** lore drop
 **tags:**
-- Grounding Detail: Procedural Authority: jargon, deliberate misuse of tools, etc.
-- threshold between worlds
-- panther-like
-**text:**
-
-"Then audit of this." I tossed a signet ring onto obsidian at his feet—of a ring worth two yoke of kine. It rang of a tuning fork. "Mulcher cell, Sector four. You wore of their housecat three weeks. Panther-gait upon stairs: of a deliberate misuse of Form seven, Article twelve. You stole of spellbreaker keys from a matriarch's sleep-pouch."
-
-"Borrowed." A purr shivered through a threshold's membrane. "Seals on Stair thirteen were of *bureaucratic error*. I did but correct of a paperwork."
-
-"You broke them. Let hunger-creatures in. Of a sport."
-
-"Amusement is of a valid metric under Clause forty and four." His pupils widened, vertical and gold. "She-demons screamed beautiful. Sirrel's voice had of a particular timbre when creatures dragged her down."
-
-My hand closed on a ring. A hood of my Coat whispered at my jaw.
-
-"Keep talking," spoke I. "I am recording of every syllable for a Tribunal."
-
-"There is no Tribunal. Only stairs. And I hold of keys."
+- Grounding Detail: Cultural Artifacts.
+- lost civilization
+- oath-bound
+- "Julio keeps...Meticulous. Pedantic. I despise his precision."
+- "Arluck tends a Garden of... prunes tongues of liars, so they bloom but once in a year....horticulture. I envy his patience."

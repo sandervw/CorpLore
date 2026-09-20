@@ -2,13 +2,13 @@
 
 ## Races of Demons
 
-**Gray Demons:** - Most Common kinds of demons. All their skins are different tones of gray.
+**Red Demons:** - Most Common kinds of demons. Always have horns.
 
-**Barb Demons:** - Demons with spikes on some part(s) of their body.
+**Grey Demons:** - All their skins are different tones of gray.
 
 **Dans:** - Short, gentle, immortal, sad demons.
 
-**Waards:** - Eight-foot-tall, slab-shouldered demons.
+**Waards:** - seven-foot-tall, slab-shouldered demons. Usually have barbs on some part of their face - eyebrows, goatee, etc.
 
 **Loras:** - Old hag she-demons.
 
