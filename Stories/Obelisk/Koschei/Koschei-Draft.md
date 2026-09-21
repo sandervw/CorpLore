@@ -608,8 +608,6 @@ He purred, HGGGGGURRRRR. I wished not to be bantering of a butler, and I liked n
 
 Wonderland went on, "I am of a mood to entertain, and to be entertained, for as long as you are still here, demon Big who is so, so little. You wear today a coat of patchwork cut, demon Big - perhaps this is only a coat you use of travel, or for its magic - but I think it is common for any demon to own a few coats, and wear them as suits his mood, yes?"
 
-**Pickup**
-
 "Readily true."
 
 "And did you know that a master such as I, also, may pick whichever coat, whichever skin, whichever fur, suits his mood? Is that know about my kin, among demons of heaven?"
@@ -624,13 +622,8 @@ Wonderland went on, "I am of a mood to entertain, and to be entertained, for as 
 
 ---
 
-**number:** 13
-**prompt:** Narrate the conversation stretching on, the Butler naming others of its kind, Julio, Arluck, Sweet Rhubarb, speaking of them the way one speaks of beloved rivals.
-**mode:** exposition
-**type:** lore drop
-**tags:**
-- Grounding Detail: Cultural Artifacts.
-- lost civilization
-- oath-bound
-- "Julio keeps...Meticulous. Pedantic. I despise his precision."
-- "Arluck tends a Garden of... prunes tongues of liars, so they bloom but once in a year....horticulture. I envy his patience."
+"A feat to make of tales, across heavens, for many ages of boy- and girl-demons, and such as will launch - among names of some other storied butlers, among Julio, Arluck, Sweet Rhubarb - a name of Wonderland."
+
+**Pickup**
+
+"HGGGURRRRR." This time was his growl of a panther, echoing down limestones steps of some ancient ziggurat, deep in a wiry jungle, a call of a hungry beast. "Of Julio's legends there is surely more bluster than truth, of such a story among your plane, telling his fables invention of some Words of Mighty Danger, his 'Blue Plates are Nice...' and so forth. Belike he only stole those words, which admittedly stir air into a cyclone, though such is not even among some Greatest Six Mighty Danger - belike he stole such power from some forgotten hag demon, some aychar, or even only some old lora. Arluck has retired from all chaos, choosing instead to tend a garden of body pieces, grown of loam of a seventeenth hell, pruning his flowing Liars'-Tongues so that they bloom but one of every two hundred days: of Horticulture, only, is he now a master. And Sweet Rhubarb? I grant of your speech some truth, waard Big, that no fairer cat ever was, one of some worth for sharing a basket, of siring a litter of kittens maybe. None of such names, such masters masters, butlers as you call of us, innocent Big, has ever served a beautiful condition of uncertain, tangled, unpredictable future, as has a name of Wonderland."
