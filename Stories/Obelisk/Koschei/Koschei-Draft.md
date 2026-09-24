@@ -636,8 +636,6 @@ Wonderland went on, "I am of a mood to entertain, and to be entertained, for as 
 
 Deep-dwelling silence. I watched alternate between a face of Wonderland and grains of sand as they slid down his glass of hours, which was over halfway to gone. Then spoke Wonderland, after such a pause, "I might destroy your body, beautiful and shapely demon Big - then would I never worry that my name specially shall spread among your higher planes."
 
-**Pickup**
-
 "Then also, Wonderland, would no demon know of any butler at all, who did open a brazen gateway, for you would have ruined of all bodies that were witness. Of an offering, however, I make, Kneeling in a presenting of it in spirit, and in reality would I too, had I a use of my legs." I waited some seconds, but as his Words of Mighty Danger did not release me of my paralysis, and as his glass of hours ran and ran toward a still-worse spell I wished to skirt, I spoke on, "I will wrangle my words, giving to other demons some of a truth, some not, so that a legend of Wonderland - yes, that name specific - is heard, maybe with some image of stolen keys used to open a stairway sealed, maybe of some incomplete visioning of a cube cat, but without enough of words to paint a picture sure. You will gain, for but a meager sparing of a few lives of some demons grey and red, and a sparing of a life of one waard, fame without blame."
 
 ---
@@ -650,5 +648,26 @@ Out from under sharp spikes of a portcullis as I had meant of leaving through, j
 
 ---
 
-Chief of law dogs, Vincent Ulakhan, yelled of some command I did not hear, for Wonderland continued to quake of his lair with a wrathfully loud purr: "HGGGGGGGGGUUUURRRRRRRR." Mulchers attacked, swinging or shooting with replicas: I too started a spinning of my Gatling Laser Axe's barrels, but Wonderland moved faster. Another great butler paw swatted Stormbringer as such a replica came in to strike, sent it wailing through hell's thick air, while long hooks raked through skin of a mulcher who had wielded said sword, ripped him into pieces of arm and torso that flew all over. At a same moment his cat's body leapt over First Mulcher Iternle Dovich and another mulcher, attacking with Excalibur and a Boltgun respectively, and landed of a full half circle, behind of them, snapping down of his wide mouth to chomp off F. M. Dovich's head epaulets.
+Chief of law dogs, Vincent Ulakhan, yelled of some command I did not hear, for Wonderland continued to quake of his lair with a wrathfully loud purr: "HGGGGGGGGGUUUURRRRRRRR." Mulchers attacked, swinging or shooting with replicas: I too started a spinning of my Gatling Laser Axe's barrels, but Wonderland moved faster. Another great butler paw swatted Stormbringer as such a replica came in to strike, sent it wailing through hell's thick air, while long hooks raked through a skin of a mulcher who had wielded said sword, ripped him into pieces of arm and torso that flew all over. At a same moment a great cat's body leapt, whoosh, over First Mulcher Iternle Dovich and another mulcher - who were attacking with Excalibur and a Boltgun respectively - and landed of a full half circle, behind of them. Wonderland snapped of his wide mouth to chomp off F. M. Dovich's head and epaulets - and as he gulped down a skull and shoulders of a first mulcher, Wonderland howled joyfully, "Low-hanging fruits first," which as any mage knows are magic Words of a most destructive kind, spraying all out from a speaker of such words with blood-drinking mist. Drink it did, sucking, siphoning, curdling, wrinkling, mulchers turning into mummies in a moment, and not just of blood were they drained, but of any magic they carried too, for bright glowing patterns on an Arc Caster, which was a replica held then in a palm of a grey demon mulcher named Jermayn, I saw its lights grow dim, then fade entire. And I saw Joiyuss Dustman's Foehammer, which too glowed in a presence of any Creature Electric - a useful Mighty spell - this too I saw fall faintly of its teal color, of a same moment as that decent young demon Joiyuss was drained and slain, papery skin, bones. That panged my soul most.
 
+Now seeing that all was lost, for Wonderland did persist of his slaughter, swiping those few mulchers who had dodged his mist, I looked for escape. Letting my weapon fall slack on its harness, buttoning of my Coat's three buttons - a button of blindness, a button of dreams, a button black, bottom to top - I concealed of myself from all Seven Senses this time, hoping all a while that I had escaped of Wonderland's notice. Looking all over I saw another doorway, smaller and no blocking portcullis, with a rosewood door, and with an iron latch that had a small black hole for a key, and was surely locked, but this did not disturb me, for I ran quickly over and, unseen, raised my Axe and chopped. Splintered wood flew. Two more chops, and as I stepped through some fragments I cast a last look back, to watch as a butler, Wonderland, destroyed of all those demons, mulchers who had ventured down to a hell, moving among them now with some measure of a cats grace returned of him, so that he caressed one torn mulcher's torso with a sleek fur paw, wetting it with blood, then blew a kiss - and smeared his face in so doing - to another she-demon who was trying to crawl away, before stretching out and biting off and swallowing her legs. Her scream followed me, as I ran down a dark way, until it faded, and I was left alone.
+
+
+---
+
+Some demons may speak or think, of Gneiss Rong of a sobriquet 'Big', on knowing of all I have just told, "Such a demon is a milksop, a cur, a faint and a traitor, for he did make of a deal to act as scout, and moreover, might have used of his Coat to be unseen by Wonderland, and still blasted it from afar, or even if not, still should have fought alongside of those mulchers who followed him into a hell."
+
+Fuck such nayspeakers. I will break of your skull, if ever you should spit of your idiot brain spew in my hearing.
+
+**Pickup**
+
+Now after I had gone of some maybe ten or twelve minutes - or maybe only five, or maybe hours, for my brain was much of a fever at such a time - I stopped. My lungs were in much need of air, and as I heard no near sounds, and no pursuit either, and as cold dew felt uncomfortable mixing with my hot and sweating body (for as I have described, such was a nature of an Other Space as I always walked in when I had my Coat buttoned), I opened my Coat once more, though of course I did not take it off, and caught my breath for a spell.
+
+**number:** 20
+**prompt:** Show Gneiss keeping the Axe, holding Sirrel in his thoughts, and choosing to go further down instead of back toward the stairs.
+**mode:** interiority
+**type:** deliberation
+**tags:**
+- Grounding Detail: Particularity: A specific detail.
+- intense devotion
+- sense of isolation

@@ -14,6 +14,7 @@
 - *"Per My Last Email"*
 - *"The Blue Plates are Nice; but, the Brown Ones Seem to Last Longer"*
 - *"Checkout is at 11"*
+- *Low-*
 
 **Focus Object:** The glyphboard itself. A sorcerer without a terminal is unarmed.
 

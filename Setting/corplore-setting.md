@@ -20,6 +20,7 @@
 - "Good Morning" (spoken with distinct syllables) - lower-body paralysis
 - "The Blue Plates are Nice; but, the Brown Ones Seem to Last Longer"
 - "In Arrears"
+- "Low-hanging fruits first" - unleashes a blood-drinking mist all around the caster
 
 **Pacts:** can be made with any demon - the usefulness depends on the power of the demon.
 
