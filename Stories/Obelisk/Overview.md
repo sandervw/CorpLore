@@ -36,6 +36,7 @@ Demonkind is on the brink of destruction, or so the inhabitants of the obelisk t
 - Retirement: strikes replicas from the living catalogue
 - Rationing: metes food/water from the nearest window-scaffolds
 - Power and Waste
+- Order of Virtue and Courtesy: HR of the medieval world - magisters, clerks, moral judges
 
 ### The Creatures Electric
 

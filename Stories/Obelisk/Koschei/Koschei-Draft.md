@@ -652,22 +652,43 @@ Chief of law dogs, Vincent Ulakhan, yelled of some command I did not hear, for W
 
 Now seeing that all was lost, for Wonderland did persist of his slaughter, swiping those few mulchers who had dodged his mist, I looked for escape. Letting my weapon fall slack on its harness, buttoning of my Coat's three buttons - a button of blindness, a button of dreams, a button black, bottom to top - I concealed of myself from all Seven Senses this time, hoping all a while that I had escaped of Wonderland's notice. Looking all over I saw another doorway, smaller and no blocking portcullis, with a rosewood door, and with an iron latch that had a small black hole for a key, and was surely locked, but this did not disturb me, for I ran quickly over and, unseen, raised my Axe and chopped. Splintered wood flew. Two more chops, and as I stepped through some fragments I cast a last look back, to watch as a butler, Wonderland, destroyed of all those demons, mulchers who had ventured down to a hell, moving among them now with some measure of a cats grace returned of him, so that he caressed one torn mulcher's torso with a sleek fur paw, wetting it with blood, then blew a kiss - and smeared his face in so doing - to another she-demon who was trying to crawl away, before stretching out and biting off and swallowing her legs. Her scream followed me, as I ran down a dark way, until it faded, and I was left alone.
 
-
 ---
+
+### Chapter 7 - Of A Crescent Door
 
 Some demons may speak or think, of Gneiss Rong of a sobriquet 'Big', on knowing of all I have just told, "Such a demon is a milksop, a cur, a faint and a traitor, for he did make of a deal to act as scout, and moreover, might have used of his Coat to be unseen by Wonderland, and still blasted it from afar, or even if not, still should have fought alongside of those mulchers who followed him into a hell."
 
-Fuck such nayspeakers. I will break of your skull, if ever you should spit of your idiot brain spew in my hearing.
+Fuck such nayspeakers. I will break of your skull, if ever you should put of your idiot brain spew in my hearing.
+
+Now after I had gone of some maybe ten or twelve minutes - or maybe only five, or maybe hours, for my brain was much of a fever at such a time - I stopped. My lungs were in much need of air, and as I heard no near sounds, and no pursuit either, and as cold dew felt uncomfortable mixing with my hot and sweating body (for, I have told, such was a nature of an Other Space as I always walked in when I had my Coat buttoned), I opened my Coat once more, though of course I did not take it off, and caught my breath for a spell.
+
+I had entered of a wider space by now, coming out from such a long tunnel of darkness, and saw something of steppes stretching out down and before me, terraces, on which were some bits of smashed round stone, some remains of broken wall, ruins of old cubes of demons past, now blanketed over in green moss. Far away and off of my right, a glen or dale seemed to go, spotted with spiky bushes that made of a *crickleCrickle* sound as they twisted in a low wind. From such a sound, and such a fresher breeze, I realized that no more was sound constrained of my eye as before, when I had only been able to read of sounds as I described, although in looking at my hands, I saw that my fingers were still of some stretched and pale aspect, so that I knew certain I was still in no normal realm.
+
+I moved back a step or two, ill-liking a feel of such open space where any Creature might spy me, and pondered. I had gained of a Gatling Laser Axe after all, free of fallout so it seemed, for I thought then that none now lived who might bristle at my taking of such a replica from a vault. I looked down into its pommel, and such a wrathful neon eye glared back, as if to say that it did want more blasting. I thought too of such other replicas as heaven thirty three's mulchers had taken from their capsule vault - of Stormbringer, Excalubur, a Camo Cloak, a Boltgun, one mulcher had even worn some Shoes of Far Jumping - and how such relics were now lost to a hell. But then, many relics had been swallowed before: a hundred and thirty two planes of hell around and beneath me had been heavens too once, some boasting of their own vaults, replicas even older than my Coat or Laser Axe, probably some holding First Issues, such oldest relics as an original One Ring or Master Sword or Jetpack, and here was I closer than ever to such artifacts, though as I looked again over a broad stretch of scrubby land, lit dim by hell's weird sun tubes of zaffre light, I thought of no plan for finding such treasures. Down forever seemed to go some steppes, though at a distance I thought I saw of a hazy reflection, as of light shining shing against Obelisk's great limit, its huge crystal panes, one of its four faces, though I knew not which, having no compass or moss. Of another hand, I might look now for a way up, thinking now as I scanned, turning my face, that a dale as ran to my right seemed to slope upward to higher crags and mounts, where I might seek of steps to climb to a heaven.
+
+I remembered Sirrel. And Ostrabawgewlus.
+
+Now, considering of a best way down such steppes as I had named of, I thought I spied a trail I might safely follow, and avoid scaling down any ledge without climbing gear. Seeing of no better way, and minding not of any surer way to find of a guardian that should open for me a way to a lower plane, I stepped out from a shadow of cliff.
+
+Just as I stepped out, I heard from a narrow crevice behind, which is to say from a way I had come, some shuffling sound. At once I spun, and raised my Gatling Laser Axe up in arms, barrels already churning through rapid neon spins. Before I could blast of any foe however, a voice spoke up to my hearing, "Stop, Gneiss Rong!"
+
+Out from shade walked a chief of dead mulchers, Chief Mulcher Morel Ulakhan, his palms held up in a gesture of peace, though I saw that he yet had a Lance of a Pale Rider tucked at his hip in his black leather belt - and his red demon skin looked redder still, much flushed and with some bright pinkness of burns, though over it was some grime, and over his shirt as well, which was torn in places, so that any demon might look of him and know he had taken a worst of a scuffle. I lowered of my Axe, and he of his palms, and he spoke, "Gneiss Rong of a sobriquet Big, have you seen- I mean, such a cat: it killed all of my soldiers, killed and devoured, killed with Mighty spellcasting. But you escaped?"
+
+I spoke, "Of such cat, Wonderland was his name, and he was a butler as we heard before back in your upper plane, though it seems now to have lost of our spoor."
+
+"My mulchers-" Ulakhan shook his head, and I saw that his where very white and staring, surrounded by their eyeshadow, a chief mulcher being still of some dazzlement.
+
+"Listen to me now, hound mulcher, and I will speak of my plan - for, my intent is to go on farther down first, yes, deeper of hells, before ever I even try of returning to your realm of one hundred and thirty four."
+
+Mulcher hound Ulakhan swallowed, gaining somewhat of composure, furrowing his brow as he eyed me. "Speak you without sense?" asked he. "We together will finish of our original strategy, set down by you yourself when we retrieved these artifacts - that axe you carry, and this delicate lance - seeking a stair by which that- that Wonderland first brought his creatures electric against us in assault. Naught has changed."
 
 **Pickup**
 
-Now after I had gone of some maybe ten or twelve minutes - or maybe only five, or maybe hours, for my brain was much of a fever at such a time - I stopped. My lungs were in much need of air, and as I heard no near sounds, and no pursuit either, and as cold dew felt uncomfortable mixing with my hot and sweating body (for as I have described, such was a nature of an Other Space as I always walked in when I had my Coat buttoned), I opened my Coat once more, though of course I did not take it off, and caught my breath for a spell.
+"Of a falsity naught has, for now you have no mulchers that I may scout for with a power of my cloak."
 
-**number:** 20
-**prompt:** Show Gneiss keeping the Axe, holding Sirrel in his thoughts, and choosing to go further down instead of back toward the stairs.
-**mode:** interiority
-**type:** deliberation
-**tags:**
-- Grounding Detail: Particularity: A specific detail.
-- intense devotion
-- sense of isolation
+"You have failed in that task it is true, and cost twenty of some august soldiers of obelisk their lives: this I shall never forget, Gneiss Rong, and your name must be read before Boss Noshunnle IV, first magister of thirty four's Order of Virtue and Courtesy, who will set for you a sentence. Moreover, no good will come of going farther down, not even if you engage to steal another of such old relics, for you will fail in a trying, and only cast your life into death."
+
+I folded of my arms over my large chest, letting an Axe hang at my hip loose, and turned to look down over steppes and ruins. I felt not much afraid of a boss hound, he clearly of some desperation for me to lead him back of his own realm, not thinking to do of me any ill harm at such a moment - and besides that, I felt much a better of him in a fight. I spoke, "Of a labor have I, deeper down: you will come with me or you will not. If you look over where my finger points, just there, you see that a lands rise in ridges and crags, so that any demon might well climb up them without too much trouble, at least now while sun tubes yet shed some light. I have listened and watched: it seems to my sense that no creatures are about, at least not near, but only have I a sense of isolation. It seems as safe as any place of hell to walk, so if you will go back of your heaven, walk up, over yonder, maybe finding your way to a stair as Wonderland led his creatures up, maybe not, for your mind map matches my own of such a place as this. As for me, I go there," and I pointed down, along such steppes and ruins of cubes as I have described. I stepped out from our rocky overhand, into dead scrubland, forcing my legs of motion, legs still somewhat sore of earlier sprinting, and yes, somewhat sore of anxiety too.
+
+After only some seconds, I heard a hound Morel Ulakhan marching behind.
+

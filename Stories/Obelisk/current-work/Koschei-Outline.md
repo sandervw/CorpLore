@@ -81,45 +81,50 @@ Jump to their first steps in heaven 133. The mulchers and Gneiss march through t
 Within minutes their stealthy approach is lost; a door handle shrieks like a dying goat as they turn it; Creatures Electric attack from all sides. The mulchers fight back with their replicas, and an intense, room-to-room, corridor-to-corridor battle ensures. A Mr. Montag (*Flying whales; their call is like an air-raid siren; when prodded, their calls can shatter glass, light filaments, and bones*) flies into view; two mulchers fall, instantly slain, bones cracked, while others cover their ears in time to recieve only hearing damage.
 Gneiss ghosts ahead to scout for the path back up-stairs, but as he sees them ahead, the Butler sees him by the one sense he left unhidden, the secret, unnamed seventh. (*The butler speaks in a tender, almost loving/adoring voice - think Hisoka from Hunter X Hunter, or Lord Arioch from the Elric stories*). Outmatched, knowing he cannot defeat a butler, gneiss hears its mocking admission: disguised as the mulchers' housecat, it stole a set of their spellbreaker keys, broke the seals on the stairs, and allowed the creatures to enter - all in the name of chaos and "fun". The butler and Gneiss talk for some time; the names of other powerful butlers *(Julio, arluck, pick others)* are dropped. Gneiss parleys silence for safe passage, offering not to reveal its secret, if it will only let them go by unscathed.
 But just then the mulchers arrive, Phansy fires on instinct, and the deal breaks. The butler slaughters them, the creatures attack from behind, and at the end, of eighteen demons and she-demons, only Gneiss walks away, activating his coat (*all 7 senses this time*). Joiyuss's death hit Gneiss hardests. Yet Gneiss still keeps the Axe and - still with Perli in his thoughts - proceeds further into hell, not out.
+
+### 7. Of A Crescent Door; ~2,200; Violence
+
 Some hours pass, as Gneiss puts time and distance between himself and the massacre. He cannot seem to find a Way - all paths look the same. Describe a vivid, grotesque travel sequence through hell - loopy pathways curling and through a jagged, sharp landscape, constantly shifting between uphills and steep declines, sometimes even running vertically up walls, or across the roop, like ribbons; none of it green, clean shag, but covered in a powder that isn't dirt, like fine white chalk, while cliffs and crags merge indistinguishable with a shale-colored ceiling. (*Describe one section like follows: Gneiss striding through library of server lockers, or racks, behind grated fencing; a datacenter, but frame it from eyes of medieval scholastic*).
 After climbing up a path through an increasingly-narrow gorge of rocks sharp enough to cut paper (but not the Coat), gneiss encounters Odeius Yelp, a "Moon with a Face"; set directly into a wall of solid jade stone, hidden under a shadow of two intertwined, dead, weeping-willow trees, it is a talking mutant door of crescent shape. (*Through dialogue, give a vivid depiction of the door's personality - have it talk like Werner Herzog*) The door asks five logic-puzzle questions (*specify the exact questions, in dialogue*), one after the other, and ignores gneiss when he presses it to tell him what it wants, or why it's asking, or to respond in any way. Gneiss, having answered all (some right, some wrong), gives up ("A brain of me will not waste more time in such fencings."); instead of blasting the door, he decides to spare it. In thanks, the Moon with a Face creaks open a forgotten hallway, and asks to be remembered.
 
-### 7. The Buzzing Furnace; ~2,200; Violence
+### 8. The Buzzing Furnace; ~2,200; Violence
 
 Air thick as sludge, humid, packed with clouds of cicadas, whacking face, buzzing. The first guardian names its price; Gneiss's sense of smell. Gneiss kills it instead, then blasts the Frontschwein, a humanoid pig, free of the glue pits.
-- Area infested by *Elvz* - ("elves"; a new type of creature electric; think gremlins; new take on normally-benevolent fantasy creature)
+- gneiss and Ulakhan are here together, debate approaching The Green Apple Redoubt, a pyramid-shaped boarding house run by elvz/impz
+- Area inhabited by *Elvz* - ("elves"; a new type of creature electric; think gremlins; new take on normally-benevolent fantasy creature)
+- alternatively, impz (imps -basically, red demons, but short and dwarfish)
 
-### 8. Withazz of the Landing; ~1,500; Parley
+### 9. Withazz of the Landing; ~1,500; Parley
 
 On a mezzanine landing, Withazz; gold-cloaked sorcerous engineer, every utterance a questionnaire of choices; stands fighting off three *Night Witches* (new monster). Gneiss aids Withazz rather than slip past unseen. In payment, Withazz poses the paths ahead and marks which ogre cannot be cheated.
 
-### 9. The Floor of Lightning Storms; ~2,000; Chase
+### 10. The Floor of Lightning Storms; ~2,000; Chase
 
 Wind fists Gneiss on the chin; in the far distance a bass drum shakes the ceiling of his world. The second guardian demands his hearing. Gneiss refuses, runs the storm-rows, threads the gate in a lightning-blink, and gathers up the storm-thrown Toad Gargoyle.
 
-### 10. The Jungle of Eights; ~2,450; Violence
+### 11. The Jungle of Eights; ~2,450; Violence
 
 A dense forest of webs. The third guardian cannot be slain; every stroke lands; nothing dies. Exhausted, Gneiss pays: the ogre draws out his secret seventh sense. The last gate opens on the deep warren.
 
-### 11. Five Against Four; ~3,950; Violence
+### 12. Five Against Four; ~3,950; Violence
 
 The air is cold, and still (no running hcac), sharp like winter
 - hells have ghettos (jewish), not boroughs
 
 Exposed by mischance to the four servants of Ostrabawgewlus; the Vantablue, Odd Life, Lead, and Gamma Engineers; Gneiss fights one against four until the spared arrive: Frontschwein, Toad Gargoyle, the Moon with a Face, Withazz. Five against four; the Engineers are broken.
 
-### 12. The Unsensed Ear; ~2,000; Wonder
+### 13. The Unsensed Ear; ~2,000; Wonder
 
 Coatwise; unseen, unheard, untouchable; Gneiss shadows Ostrabawgewlus's first audience with Sirrel. The Master of the Thousand Replicas, tenderly, boasts a first piece of his deathlessness: something braided, somewhere low, past the last living floor.
 
-### 13. What the Villain Tells His Guest; ~2,200; Parley
+### 14. What the Villain Tells His Guest; ~2,200; Parley
 
 Two more shadowed encounters. To Sirrel, the villain speaks freely: a tea kettle inside a braided money tree; a music box inside the kettle; a Chocolate Porcupine at the heart. His tenderness curdles to cruelty; Gneiss, unsensed, holds still and completes the secret.
 
-### 14. The Braided Money Tree; ~1,750; Chase
+### 15. The Braided Money Tree; ~1,750; Chase
 
 A race to the hiding place as suspicion wakes above. Gneiss unbraids the money tree, opens kettle and music box, and; any animal can eat a hedgehog if it dares; swallows the Chocolate Porcupine whole while servant-things close in.
 
-### 15. Severance; ~1,100; Coda
+### 16. Severance; ~1,100; Coda
 
 Somewhere he cannot see, unwitnessed, Ostrabawgewlus comes undone mid-sentence. Gneiss walks Sirrel up toward the heavens. The seventh sense never returns; he tells his followers it was the one he used least.
