@@ -654,7 +654,7 @@ Now seeing that all was lost, for Wonderland did persist of his slaughter, swipi
 
 ---
 
-### Chapter 7 - Of A Crescent Door
+## Chapter 7 - Of A Crescent Door
 
 Some demons may speak or think, of Gneiss Rong of a sobriquet 'Big', on knowing of all I have just told, "Such a demon is a milksop, a cur, a faint and a traitor, for he did make of a deal to act as scout, and moreover, might have used of his Coat to be unseen by Wonderland, and still blasted it from afar, or even if not, still should have fought alongside of those mulchers who followed him into a hell."
 
@@ -682,13 +682,36 @@ I spoke, "Of such cat, Wonderland was his name, and he was a butler as we heard 
 
 Mulcher hound Ulakhan swallowed, gaining somewhat of composure, furrowing his brow as he eyed me. "Speak you without sense?" asked he. "We together will finish of our original strategy, set down by you yourself when we retrieved these artifacts - that axe you carry, and this delicate lance - seeking a stair by which that- that Wonderland first brought his creatures electric against us in assault. Naught has changed."
 
-**Pickup**
-
 "Of a falsity naught has, for now you have no mulchers that I may scout for with a power of my cloak."
 
 "You have failed in that task it is true, and cost twenty of some august soldiers of obelisk their lives: this I shall never forget, Gneiss Rong, and your name must be read before Boss Noshunnle IV, first magister of thirty four's Order of Virtue and Courtesy, who will set for you a sentence. Moreover, no good will come of going farther down, not even if you engage to steal another of such old relics, for you will fail in a trying, and only cast your life into death."
 
 I folded of my arms over my large chest, letting an Axe hang at my hip loose, and turned to look down over steppes and ruins. I felt not much afraid of a boss hound, he clearly of some desperation for me to lead him back of his own realm, not thinking to do of me any ill harm at such a moment - and besides that, I felt much a better of him in a fight. I spoke, "Of a labor have I, deeper down: you will come with me or you will not. If you look over where my finger points, just there, you see that a lands rise in ridges and crags, so that any demon might well climb up them without too much trouble, at least now while sun tubes yet shed some light. I have listened and watched: it seems to my sense that no creatures are about, at least not near, but only have I a sense of isolation. It seems as safe as any place of hell to walk, so if you will go back of your heaven, walk up, over yonder, maybe finding your way to a stair as Wonderland led his creatures up, maybe not, for your mind map matches my own of such a place as this. As for me, I go there," and I pointed down, along such steppes and ruins of cubes as I have described. I stepped out from our rocky overhand, into dead scrubland, forcing my legs of motion, legs still somewhat sore of earlier sprinting, and yes, somewhat sore of anxiety too.
 
+**Pickup**
+
 After only some seconds, I heard a hound Morel Ulakhan marching behind.
 
+Some few hours passed, or maybe it was not of so long a time, for I had no glass or dial by which to know of a passing time. We together, a chief mulcher and I, trudged ever downward, through an eroded plain of steppes, a land little-turned by even coarse grasses, but mostly mottled in cracked earth or soft rock where our footsteps seemed to make of small echoes, that went hopping like toads about us, yet there was no life that my eye might see. We, Morel and I, spoke nothing to each other, and I glanced at him once or twice to see his brow was brow brooding, his face of a pallor, dwelling on some deaths of his demon and she-demon pack. I knew nothing to say that should be of comfort - and anywise, thought that I should not, for he played at being chief of dogs, and such chiefs as I have met are usually hounds among their kind, brutal from skin to seeds.
+
+Anywise, we marched of some hours, a chief of eyes turned in, but I of an eye more for some landmark, some withered marking stone maybe from when one hundred and thirty three had not been of so much electric pollution. All ways looked alike. At some junctures I thought perhaps I looked int o a mirror, for a jagged ledge and hard earth ahead did seem a perfect reflection of such as I had jus stepped over, with our two shadows running out from our feet before us, cast by slanted beams from the weird sun tubes, matching perfectly our every Move: a mirrored mirage.
+
+Such terrain turned steeper as we went, steeper and uneven, jagged basalt spires rising and sinking without reason, without a pattern of natures hand I mean. Sometimes a trail of earth patted down by wild animals would run across flat ground before us, before making a turn of sharp angle right up a vertical side of rock, continuing like a line painted - and once I spied another of those low ruined walls, some long-lost cube where a demon had dwelt, but suspended from an overhanging jut of ledge, a long and narrow stalactite made of cobbled round stones. Impossible, such architectural grandeur. As though a parchment map of such country had been wetted, then wrung out, dried, turned wrinkly and runny of its ink. As we came around of one bend, I felt a warm west wind against a side of my face, felt it tickle my ear, heard it sigh. It kicked up some fine white powder from a flat stretch of slope before us, powder which left a flatter stretch of slope before us look matte and gritty: such a powder, which was not dirt, clung to our clothes and made me think of sneezing, but otherwise caused no sickness, and so we crossed its slope, and as I looked back once, I saw that our shoes left no footprints in such powder - but perhaps the wind had erased them.
+
+
+
+**prompt:** Describe one stretch where Gneiss walks a library of tall lockers behind grated fencing, humming racks in ordered rows, understood by him as a medieval scholar would understand it.
+**type:** object focus
+
+**tags:**
+- Grounding Detail: Procedural Authority: jargon, deliberate misuse of tools, etc.
+- ossuary
+- mystical obelisk
+**text:**
+A pathway ended at grated fencing, and behind it I walked a library of tall lockers, humming racks in ordered rows, which I read of a medieval scholar reading a scriptorium — illuminated indices filed of bone. My Coat kept me hid as ever; withal I applied of a procedural authority, and misused a pry-bar, a tool meant of sealing, to wedge such ossuary-lockers open, and so documented absence in place of entry. A mystical obelisk at an aisle's end cast a shadow of a grid, and parted she-demons cataloguing relics from lesser demons locked inside such frames. Every rack hummed of vespers. Then I understood plain: here was no archive, but a deliberate misuse of containment — manuscripts of marrow ordered by scholastic law, and a fencing itself a frame of a record of what had been taken. By Awlsquawkit, one honest ledger is worth ten chapels. I touched naught, left no print in a white powder, and walked on toward Sirrel.
+
+---
+
+**TODO**
+- get Gneiss+Morel to Khoroduhn-like ruin, Door with a Face guards the entry to the main building
+- Inside - impz/elvz roaming the corridors, lit by red light

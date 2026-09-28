@@ -90,7 +90,7 @@ After climbing up a path through an increasingly-narrow gorge of rocks sharp eno
 ### 8. The Buzzing Furnace; ~2,200; Violence
 
 Air thick as sludge, humid, packed with clouds of cicadas, whacking face, buzzing. The first guardian names its price; Gneiss's sense of smell. Gneiss kills it instead, then blasts the Frontschwein, a humanoid pig, free of the glue pits.
-- gneiss and Ulakhan are here together, debate approaching The Green Apple Redoubt, a pyramid-shaped boarding house run by elvz/impz
+- gneiss and Ulakhan are here together, debate approaching The Green Apple Redoubt, a pyramid-shaped boarding house run by elvz/impzz/impz
 - Area inhabited by *Elvz* - ("elves"; a new type of creature electric; think gremlins; new take on normally-benevolent fantasy creature)
 - alternatively, impz (imps -basically, red demons, but short and dwarfish)
 
