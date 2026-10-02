@@ -706,16 +706,39 @@ Down to a foot of said structure we marched, eyes peeled, ears keen, yet easily 
 
 I stopped before such doors, pressing a finger to my lips so that Ulakhan behind me stopped short and watched intently, and pressing then an ear beside a small keyhole, alternating with a squint now and then inside. I heard a humming sound, electric humming, not Electric as a creature makes, starting and stopping breathing, but constant droning in a way of lightning rivers that run between planes. Within, I thought I spied some glow of soft vesper blue. Of much care was I in cracking open such a door, minding it to be old and creaky, but its hinges made no sound. Inside I found one big space with a high ceiling, no windows, and only a little light. Such light came from row and upon rows of metal racks - or maybe  cabinets would better describe them - humming to either side, shining through seams around their little cabinet doors, each of which had a small brass knob. Such containers were made of dark iron, and protected by cages of iron alike of a fencing I had seen, yet not rusted. I have seen such a room before or since: one scribe in a library at Sonnyburg has told to me that such a chamber was where engineers, such demons and she-demons as are versed in Words of Mighty Danger, would bank over time a portion of such magic as their Words did summon, banking their Might. A scribe as I have told of went on to say that such magic might then be spent in some great work: a rainfall summoned over a tillagers' scaffold farms in a time of drought, a plague to sweep away an army of a rival kingdom, forging a One Ring or a Necronomicon or a Staff of Stars, tearing a rift between a barrier of two heavens, and many other mighty works. Of such a present time in my tale, however, I had no knowing of this, and no way to go past such cages as blocked my way (aside from blasting through with my Axe, which would surely have alerted any dangerous thing there dwelling), and moreover I am not an engineer, so that even now I could not use of such power as might be stored within - so, although that huge room struck me curious, I left it alone.
 
----
+Now if such a sight had struck me as mightily strange, such a one as I beheld next proved mightily stranger still. Leaving behind a room of pooled magic, I and Ulakhan who trailed me came up to a larger building, greatest in that compound of which I tell, shaped into an L and rising so high and broad that, as we stepped into its corner, all sight of lands to a south and west (or north and east, or any other two direction for all I may know, having lost all confidence of compass on entering of OBelisk's hells) was blocked. Along an edge of roof I spied crennalations, but no creature manned them, not for all I watched. Windows were there too, slits cut into a wall, but these were covered over in thick panes - not panes of glass, but dense webs as a whale spider might weaves, which did not stir at all in a light breeze sweeping round my legs - however, such webs were yet thin enough that a faint ruby redness did shine within some of these slit windows, not all.
 
 **Pickup**
 
-Now if such a sight had struck me as mightily strange, such a one as I beheld next proved mightily stranger still. Leaving behind a room of pooled magic, I and Ulakhan who trailed me came up to a larger building, greatest in that compound of which I tell, shaped into an L and rising so high and broad that, as we stepped into its corner, all sight of lands to a south and west (or north and east, or any other two direction for all I may know, having lost all confidence of compass on entering of OBelisk's hells) was blocked. Along an edge of roof I spied crennalations, but no creature manned them, not for all I watched. Windows were there too, slits cut into a wall, but these were covered over in thick panes - not panes of glass, but dense webs as a whale spider might weaves, which did not stir at all in a light breeze sweeping round my legs - however, such webs were yet thin enough that a faint ruby redness did shine within some of these slit windows, not all.
+Of all this though, a single entrance, or what seemed an entrance, stood out to me as most ominous. A piece of jade stone it was, set into a very corner of such a building, one piece as tall as I, little broader, flush into its wall of mortared lava rock, yet much smoother and shinier. Much carving had been done of its surface, in a manner of a bas-relief: twined weeping willows formed a rounded edge, of a thousand jade tassels, while underneath an arch of these two willows, there smiled a crescent moon, still of a same bright green jade, though with what looked to me a gap between its curve and a surrounding jade surface, so that I thought of it to be a door, though of such a size that, to pass through it, I would have to squeeze tight. Chief Ulakhan held up his Lance of a Pale Rider, from its tip now shining of a light such as is pure: I saw that a face did it seem to have too, said jade moon, with two eyes of a lighter color set close together on its upper quarter, squished against its inside curve, and a pair of lips of darker jade lips on its bottom quarter, surrounded by a dozen crater freckles, each freckle sparkling of a chief mulcher's lance. 
 
-Of all this though, a single entrance, or what seemed an entrance, stood out to me as most ominous. A piece of jade stone it was, set into a very corner of such a building, one piece as tall as I, little broader, flush into its wall of mortared lava rock, yet much smoother and shinier. Much carving had been done of its surface, in a manner of a bas-relief: twined weeping willows formed a rounded edge, of a thousand jade tassels, while underneath an arch of these two willows, there smiled a crescent moon, still of a same bright green jade, though with what looked to me a gap between its curve and a surrounding jade surface, so that I thought of it to be a door, though of such a size that I would have to squeeze tight through it. A face did it seem to have too, said jade moon, with two eyes of a lighter color set close together on its upper quarter, squished against its inside curve, and a pair of lips of darker jade lips on its bottom quarter, surrounded by a dozen crater freckles. 
+So soon as I had marched to within three or four paces of such a jade carving, two eyes of its moon made motion, tiny and shiny carved pupils of jade swiveling to stare upon me, blinking twice or thrice before opening wider in surprise. Thinking this either some trick of a butler, Wonderland toying with his prey maybe, or else some other devious disguised creature, I raised my Axe, and Ulakhan raised his lance. Before either of us might strike, such a door parted its lips, its gemstone throat echoing quietly as it issued a gravel voice.
 
----
+"Ho there, he-demons. May it be of a chance that my face looks on two of some wit, of some elan, two curios - in short, two not of elvz?"
 
-**TODO**
-- Moon with a Face guards the entry to the main building; it is a door boggart
+A chief mulcher whispered at my ear, "Give it not an answer, for I am of a thought that it's questions may be a test, a test of alarm as some enchanted gems are told to present to any stranger - for now, find what must be our true colors."
+
+To a jade carving I spoke, "Of a wit I may be so, of elan yes, but as to if I am of an elvz, how may I speak, when you, sir jade, have not spoken of what is an elvz?"
+
+Spoke a jade moon, "Truly now you must be of some other thing, for you singularly would be an 'elv', not an 'elvz', which is plural. As to what is an elv: a being of small tallness and grey ideas, of a face that is ever pinched, and with knives for its ears."
+
+**prompt:** Close with the door asking five logic puzzles in a row, ignoring every question Gneiss puts to it; he answers them all, some rightly, then quits and spares it. It opens a forgotten hallway and asks to be remembered.
+- in impz's stronghold, and to the door, gneiss asks about sirrel
+- gneiss asks who, and what, are you?
+- moon with a face, moonface, a door bogart
+- gneiss asks what lies behind it
+- it tells him elvz stronghold, and deeper than that, a way down
+- it asks them for a magnetic key, which only some elves hold
+- Moon with a Face is a door boggart
 - Inside - impz/elvz roaming the corridors, lit by red light
+- TODO: 2-4 riddles/logic puzzles
+
+"A brain of me will waste no more of its hours in such fencings," spoke I, of a flat voice. "A fool measures thunder with a spoon." My Coat shivered against my ribs and kept me unfound. "Ask of no more."
+
+That door pulsed, its hinges sighing of a tired bellows. "You spare me?"
+
+"I spare you."
+
+A seam widened, showing of a *forgotten hallway*, choked of root and of rust. That moon whispered through narrowing gaps.
+
+"Remember me when you find her."
