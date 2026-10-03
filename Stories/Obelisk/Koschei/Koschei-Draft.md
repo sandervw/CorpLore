@@ -708,8 +708,6 @@ I stopped before such doors, pressing a finger to my lips so that Ulakhan behind
 
 Now if such a sight had struck me as mightily strange, such a one as I beheld next proved mightily stranger still. Leaving behind a room of pooled magic, I and Ulakhan who trailed me came up to a larger building, greatest in that compound of which I tell, shaped into an L and rising so high and broad that, as we stepped into its corner, all sight of lands to a south and west (or north and east, or any other two direction for all I may know, having lost all confidence of compass on entering of OBelisk's hells) was blocked. Along an edge of roof I spied crennalations, but no creature manned them, not for all I watched. Windows were there too, slits cut into a wall, but these were covered over in thick panes - not panes of glass, but dense webs as a whale spider might weaves, which did not stir at all in a light breeze sweeping round my legs - however, such webs were yet thin enough that a faint ruby redness did shine within some of these slit windows, not all.
 
-**Pickup**
-
 Of all this though, a single entrance, or what seemed an entrance, stood out to me as most ominous. A piece of jade stone it was, set into a very corner of such a building, one piece as tall as I, little broader, flush into its wall of mortared lava rock, yet much smoother and shinier. Much carving had been done of its surface, in a manner of a bas-relief: twined weeping willows formed a rounded edge, of a thousand jade tassels, while underneath an arch of these two willows, there smiled a crescent moon, still of a same bright green jade, though with what looked to me a gap between its curve and a surrounding jade surface, so that I thought of it to be a door, though of such a size that, to pass through it, I would have to squeeze tight. Chief Ulakhan held up his Lance of a Pale Rider, from its tip now shining of a light such as is pure: I saw that a face did it seem to have too, said jade moon, with two eyes of a lighter color set close together on its upper quarter, squished against its inside curve, and a pair of lips of darker jade lips on its bottom quarter, surrounded by a dozen crater freckles, each freckle sparkling of a chief mulcher's lance. 
 
 So soon as I had marched to within three or four paces of such a jade carving, two eyes of its moon made motion, tiny and shiny carved pupils of jade swiveling to stare upon me, blinking twice or thrice before opening wider in surprise. Thinking this either some trick of a butler, Wonderland toying with his prey maybe, or else some other devious disguised creature, I raised my Axe, and Ulakhan raised his lance. Before either of us might strike, such a door parted its lips, its gemstone throat echoing quietly as it issued a gravel voice.
@@ -718,27 +716,47 @@ So soon as I had marched to within three or four paces of such a jade carving, t
 
 A chief mulcher whispered at my ear, "Give it not an answer, for I am of a thought that it's questions may be a test, a test of alarm as some enchanted gems are told to present to any stranger - for now, find what must be our true colors."
 
+**Pickup**
+
 To a jade carving I spoke, "Of a wit I may be so, of elan yes, but as to if I am of an elvz, how may I speak, when you, sir jade, have not spoken of what is an elvz?"
 
 Spoke a jade moon, "Truly now you must be of some other thing, for you singularly would be an 'elv', not an 'elvz', which is plural. As to what is an elv: a being of small tallness and grey ideas, of a face that is ever pinched, and with knives for its ears."
 
+"We two together are demons: I am a waard, this demon beside me is a red demon. Of a whole party of demons were we also, until a butler, of a name Wonderland, ruined all of such others, leaving only only me and he." A moon smiled, but spoke no reply, so I asked, "Now I have shared something of myself and this one: who, and what, are you?"
+
+"Unfreely have you spoke of your own two names, sly waard, but I begrudge it of you not much, and give answer: I am a Moon of a Face, begging though that you will call of me Moonface, door bogart of this fabulous piece of gemstone you see laid of such a citadel as this one, a fortress of elvz who dwell within and below, Kogathuhn."
+
+"Of passage will you grant?"
+
+"Only to elves will I give of a way, for reasons be you of a mind, though less free am I like to be with a waard and red demon so stingy of thier names." Moonface beamed like his namesake, all brighter, silver pearlescence within his facets, of what seemed a chiding and friendly look.
+
+"Tell it not," spoke Ulakhan, stepping up beside of me as he spoke, holding of his Lance's shining point near to Moonface's eyes, so that Moonface squinted. "An enemy spy or soldier may easily hide himself among common labor demons, acting a part of a visiting tourist of a heaven, giving of some false facts. Moon of a Face, I know you are who and what you say, as much as I know you aren't: of twelve divided two equal ways are your words, and how may we two know fact from fib?"
+
+Moonface's face took on an expression of hurt stone. "I have given of my name, freely and with no minding of some costs - what injury may I do of your names?"
+
+"You might share of them, share of them with some foe or monster, or a name may be used in a spell, Words of Mighty Danger wrapped around it, or else you might forge of our names in a signature, abusing us as fake personas." And as a chief mulcher spoke of such chances, I minded of some wisdom to his speech.
+
+"Of a quandary are we then," spoke Moonface. He raised of one eyebrow, which seemed as good of a shrug as a thing may do when it has no shoulders. "Trust may be won in favors, but I know not of your names, what you want, where you come from, why you're here, or of what use I may be to you, me, a door, with no legs or arms by which to render of you such a favor."
+
+I spoke, "I myself search of a way below such a plane as this - such a hell, if you and I think of one mind about it - for in our present place will I not find a she-demon I seek. Pithily, I have been told of her that she now lies within a donjon of hell one hundred and thirty, though I know it not with certainty: have you seen maybe a red she-demon by chance, hair a color of a yellowest fire, with some small freckles like yours, pink against her flush cheeks, so that she is all of falling autumnal leaves?"
+
+Chief Ulakhan looked carefully of me, curious maybe, but Moonface spoke at once, "Not of such a she-demon have I laid my eyes, and likely it is I should recall of such a one as you speak, but of a way down, deeper, below our present plane of hell, I know much, it lying right behind of gems, as a saying goes, with only maybe a few steps and halls and chambers of elvz's Kogathuhn between yourselves and one hundred and thirty second hell."
+
+"Will you open?"
+
+"Only to elvz may I give free passage, sorry to speak so, but such is their order - to you I must present a series of questions, puzzles of words, twists of mind, and only if you answer of them all right may I open my seeds. I also add a rule, this one of my own mind: one of you at least must give me your name, for in opening so, even after a questions game, I'm doing you a favor."
+
+
+
+
+
 **prompt:** Close with the door asking five logic puzzles in a row, ignoring every question Gneiss puts to it; he answers them all, some rightly, then quits and spares it. It opens a forgotten hallway and asks to be remembered.
-- in impz's stronghold, and to the door, gneiss asks about sirrel
-- gneiss asks who, and what, are you?
-- moon with a face, moonface, a door bogart
+- Moonface says they must answer puzzles
+- back to back stand my third cousin and i, each born of a head on one leg, and i look left, and he right, and i stand on my leg, and he stands on his head - 96
+- todo - wind chimes riddle
 - gneiss asks what lies behind it
 - it tells him elvz stronghold, and deeper than that, a way down
 - it asks them for a magnetic key, which only some elves hold
 - Moon with a Face is a door boggart
 - Inside - impz/elvz roaming the corridors, lit by red light
 - TODO: 2-4 riddles/logic puzzles
-
-"A brain of me will waste no more of its hours in such fencings," spoke I, of a flat voice. "A fool measures thunder with a spoon." My Coat shivered against my ribs and kept me unfound. "Ask of no more."
-
-That door pulsed, its hinges sighing of a tired bellows. "You spare me?"
-
-"I spare you."
-
-A seam widened, showing of a *forgotten hallway*, choked of root and of rust. That moon whispered through narrowing gaps.
-
-"Remember me when you find her."
