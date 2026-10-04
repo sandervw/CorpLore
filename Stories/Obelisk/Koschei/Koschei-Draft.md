@@ -716,8 +716,6 @@ So soon as I had marched to within three or four paces of such a jade carving, t
 
 A chief mulcher whispered at my ear, "Give it not an answer, for I am of a thought that it's questions may be a test, a test of alarm as some enchanted gems are told to present to any stranger - for now, find what must be our true colors."
 
-**Pickup**
-
 To a jade carving I spoke, "Of a wit I may be so, of elan yes, but as to if I am of an elvz, how may I speak, when you, sir jade, have not spoken of what is an elvz?"
 
 Spoke a jade moon, "Truly now you must be of some other thing, for you singularly would be an 'elv', not an 'elvz', which is plural. As to what is an elv: a being of small tallness and grey ideas, of a face that is ever pinched, and with knives for its ears."
@@ -740,23 +738,33 @@ Moonface's face took on an expression of hurt stone. "I have given of my name, f
 
 I spoke, "I myself search of a way below such a plane as this - such a hell, if you and I think of one mind about it - for in our present place will I not find a she-demon I seek. Pithily, I have been told of her that she now lies within a donjon of hell one hundred and thirty, though I know it not with certainty: have you seen maybe a red she-demon by chance, hair a color of a yellowest fire, with some small freckles like yours, pink against her flush cheeks, so that she is all of falling autumnal leaves?"
 
-Chief Ulakhan looked carefully of me, curious maybe, but Moonface spoke at once, "Not of such a she-demon have I laid my eyes, and likely it is I should recall of such a one as you speak, but of a way down, deeper, below our present plane of hell, I know much, it lying right behind of gems, as a saying goes, with only maybe a few steps and halls and chambers of elvz's Kogathuhn between yourselves and one hundred and thirty second hell."
+Chief Ulakhan looked carefully of me, curious maybe, but Moonface spoke at once, "Not of such a she-demon have I laid my eyes, and likely it is I should recall of such a one as you speak, but of a way down, deeper, below our present plane of hell, I know much, it lying right behind of my gems, as a saying goes, with only maybe a few steps and halls and chambers of elvz's Kogathuhn between yourselves and one hundred and thirty second hell."
+
+**Pickup**
 
 "Will you open?"
 
-"Only to elvz may I give free passage, sorry to speak so, but such is their order - to you I must present a series of questions, puzzles of words, twists of mind, and only if you answer of them all right may I open my seeds. I also add a rule, this one of my own mind: one of you at least must give me your name, for in opening so, even after a questions game, I'm doing you a favor."
+"Only to elvz may I give free passage, sorry to speak so, but such is their order - only to elvz, or also to any who holds one of some magnetic, fanged, iron key plates, which dazzle my mind and force me to open, something I maybe shouldn't have said. Ahem, to you, I must present a series of questions, puzzles of words, twists of mind, and only if you answer of them all right may I open my oilseedsseeds. I also add a rule, this one of my own mind: one of you at least must give me your name, for in opening so, even after a questions game, I'm doing you a favor."
 
+I spared a glance of Chief Ulakhan - he lowered his bright lance tip from Moonface's eye, but spoke only, "We should be searching rather of a way up, out, not further down."
 
+"Give us your first puzzle," spoke I to Moonface, fixing my gaze back on him, crossing my arms over my chest, ridging my brow for concentration.
 
+"Back to back stand my third cousin and I, each born of a head on one leg, and I look left, and he right, and I stand on my leg, and he on his head."
 
+Now my own shoulders did slump somewhat at his words, and I could not but roll of my eyes, seeing plainly that we would play a game of riddles, and I have no skill of such. But a chief mulcher spoke at once, "Your answer, sir Moon of a Face, is a number, Ninety Six."
+
+Moonface's smile clove across his lower horn. "Oh joy of midnight sky, a right answer you gave me friend - you're quick as a witty blackbird."
+
+TODO
+
+"I abet crime, enforce punishment, and wear a red beard." (an axe)
+
+TODO
+
+"What's this'? You are none of my five familiar friends, such as I gladly embrace, such as I see each morning - odds bodkin, you beast, you're bigger than the lot! My friends have coarse parts, tis true
 
 **prompt:** Close with the door asking five logic puzzles in a row, ignoring every question Gneiss puts to it; he answers them all, some rightly, then quits and spares it. It opens a forgotten hallway and asks to be remembered.
-- Moonface says they must answer puzzles
-- back to back stand my third cousin and i, each born of a head on one leg, and i look left, and he right, and i stand on my leg, and he stands on his head - 96
 - todo - wind chimes riddle
-- gneiss asks what lies behind it
-- it tells him elvz stronghold, and deeper than that, a way down
-- it asks them for a magnetic key, which only some elves hold
-- Moon with a Face is a door boggart
 - Inside - impz/elvz roaming the corridors, lit by red light
 - TODO: 2-4 riddles/logic puzzles
