@@ -740,8 +740,6 @@ I spoke, "I myself search of a way below such a plane as this - such a hell, if 
 
 Chief Ulakhan looked carefully of me, curious maybe, but Moonface spoke at once, "Not of such a she-demon have I laid my eyes, and likely it is I should recall of such a one as you speak, but of a way down, deeper, below our present plane of hell, I know much, it lying right behind of my gems, as a saying goes, with only maybe a few steps and halls and chambers of elvz's Kogathuhn between yourselves and one hundred and thirty second hell."
 
-**Pickup**
-
 "Will you open?"
 
 "Only to elvz may I give free passage, sorry to speak so, but such is their order - only to elvz, or also to any who holds one of some magnetic, fanged, iron key plates, which dazzle my mind and force me to open, something I maybe shouldn't have said. Ahem, to you, I must present a series of questions, puzzles of words, twists of mind, and only if you answer of them all right may I open my oilseedsseeds. I also add a rule, this one of my own mind: one of you at least must give me your name, for in opening so, even after a questions game, I'm doing you a favor."
@@ -754,17 +752,30 @@ I spared a glance of Chief Ulakhan - he lowered his bright lance tip from Moonfa
 
 Now my own shoulders did slump somewhat at his words, and I could not but roll of my eyes, seeing plainly that we would play a game of riddles, and I have no skill of such. But a chief mulcher spoke at once, "Your answer, sir Moon of a Face, is a number, Ninety Six."
 
+**Pickup**
+
 Moonface's smile clove across his lower horn. "Oh joy of midnight sky, a right answer you gave me friend - you're quick as a witty blackbird."
 
-TODO
+I gave of a glance at Ulakhan, who truly did shrug, and spoke, "I have heard it before, often listening to riddles, word challenges, thought turners, other games which may occupy of a demon's idle brain in watching years."
 
-"I abet crime, enforce punishment, and wear a red beard." (an axe)
+"Your next puzzle then," spoke I to Moonface.
 
-TODO
+"I abet crime, enforce punishment, and wear a red beard."
 
-"What's this'? You are none of my five familiar friends, such as I gladly embrace, such as I see each morning - odds bodkin, you beast, you're bigger than the lot! My friends have coarse parts, tis true
+Now this riddle was not of so much ease for a chief mulcher, some surprise to speak, for he put on a face of much thinking, setting down his Lance (setting down his old Replica!) so that he might pace back and forth, arms tucked. I myself was of no better faring, and stroked my chin spines long in thought. Moonface seemed eager to give of us some space, eager to play such a game at all, willing to grant more thinking time if it should lengthen of our exchange. This thought it was which attracted of my eye back to a Moon of a Face, noticing his watch of me with focus, biting a corner of his half-faced lip. I looked down, across my chest, seeing a leather harness holding of my Gatling Laser Axe about my body, and  at once my mind jumped with reply, and I spoke, "An axe."
+
+"Right again," spoke Moonface happily.
+
+Ulakhan spoke, "Sharply spoken, and tying us two at one riddle each."
+
+"My next one with try both of you I think - are you ready?"
+
+I tapped of my shoe on a rough fortress lava rock floor. "Give of it swiftly you may, and let us stop whittling smoke to build of a fence."
+
+Moonface then intoned, "What's this'? You are none of my five familiar friends, such as I gladly embrace, such as I see each morning, but odds bodkin, you beast, you're bigger than the lot! My friends have coarse parts, tis true - but you, you're hard as iron throughout, and my friends might have some claws, but they always trim them when dealing with me, whereas you, you clod, might tear me to pieces any moment! My friends I'd gladly devour; you I'd hardly get down my throat."
+
+
 
 **prompt:** Close with the door asking five logic puzzles in a row, ignoring every question Gneiss puts to it; he answers them all, some rightly, then quits and spares it. It opens a forgotten hallway and asks to be remembered.
 - todo - wind chimes riddle
 - Inside - impz/elvz roaming the corridors, lit by red light
-- TODO: 2-4 riddles/logic puzzles
