@@ -770,8 +770,6 @@ Ulakhan spoke, "Sharply spoken, and tying us two at one riddle each."
 
 I tapped of my shoe on a rough fortress lava rock floor. "Give of it swiftly you may, and let us stop whittling smoke to build of a fence."
 
-**Pickup**
-
 Moonface then intoned, "What's this'? You are none of my five familiar friends, such as I gladly embrace, such as I see each and every morning, but odds bodkin, you beast, you're bigger than the lot! My friends have coarse parts, tis true - but you, you're hard as iron throughout, and my friends might have some claws, but they always trim them when dealing with me, whereas you, you clod, might tear me to pieces any moment! My friends I'd gladly devour; you I'd hardly get down my throat!"
 
 Chief Ulakhan paced pondering silently of Moonface's latest puzzle, and I stared out and over of a rusted iron fence surrounding Kogathuhn, finding however no idea. I turned an eye back over Moonface, but his features were now carven calm, no hint of answer in his look, only a face of stone, with two eyes alone that did move, pupils tracking a chief mulcher as he marched with hands clamped behind of his back, left and right, left and right. I spoke, "Of 'odds bodkin' I mind in particular, so out of place does it seem among a rest of his riddle - maybe a most important part."
@@ -790,9 +788,32 @@ Ulakhan scrunched of his face, thought, and shook his head. "Some parts of his r
 
 I spoke, "Not a glove then, but perhaps a sock, many a demon or she-demon being like to put on socks each time they wake."
 
-"Some truth remains hidden, I am yet of a mind," spoke Ulakhan. Then he too took up of a smirk, glancing first at me, then staring down Moonface. "Sir door, you would make a sharp riddling partner to march on patrol with - would have, I mean, for our schedule of patrol of heaven one hundred and thirty four must now be truly altered. Of any case, your riddle was good: we might well have stopped of thinking at 'sock', except that I have seen a fair count of soldiering parades, been a part of many, passed through many boroughs, and therefore spent of much time in saddle, mounted on a riding ox for travel, and dealing with oxen, and knowing how their shod feet tap upon paving stones unless they are wrapped in cloth - your answer is plainly not 'A Sock', but 'A Sock on an Ox's Hoof'."
+**Pickup**
 
+"Some truth remains hidden, I am yet of a mind," spoke Ulakhan. Then he too took up of a smirk, glancing first at me, then staring down Moonface. "Sir door, you would make a sharp riddling partner to march on patrol with - would have, I mean, for our schedule of patrol of heaven one hundred and thirty four must now be truly altered. Of any case your riddle was good: we might well have stopped of thinking at 'sock', except that I have seen a fair count of soldiering parades, been a part of many, passed through many boroughs, and therefore spent of much time in saddle, mounted on a riding ox for travel, and dealing with oxen, and knowing how their shod feet tap upon paving stones unless they are wrapped in cloth - your answer is plainly not 'A Sock', but 'A Sock on an Ox's Hoof'."
 
-**prompt:** Close with the door asking five logic puzzles in a row, ignoring every question Gneiss puts to it; he answers them all, some rightly, then quits and spares it. It opens a forgotten hallway and asks to be remembered.
-- todo - wind chimes riddle
-- Inside - impz/elvz roaming the corridors, lit by red light
+"Oh joy of a setting sun, you two are good thinkers, and have a third time solved my puzzle rightly." As Moonface spoke I watched of him with some suspicion, and sure enough he spoke more, "Your fourth: I sing only when-"
+
+Of puzzle games I had listened of my fill, however, and before a Moon with a Face had gotten of more than a few squeaky words out, I raised of my Gatling Laster Axe, letting its barrels start to churn, to wail, its glow brightening, aming down its sight between a Face's two close carven jade eyes.
+
+"Wait," cried Moonface, as Ulakhan leapt back to get out of a way.
+
+I released my Axe's trigger, letting its barrels wind down, it's shriek dying, lowering it just a little. I spoke, "Of no time for games of endless words am I, having more pressing work in some Lower Hells, and yet to face three guardians, thinking as I do that you are not of those three who will demand of me a sense - all to say that you must either open, or be opened. Now."
+
+"And so you meant to force a face, blasting through my face only to go deeper, only to skip a few words? I would be slain!"
+
+"You may yet."
+
+I felt a chief law dog's eyes upon my back, but turned not, and only continued a look of firmness at Moonface, whose bottom lip quivered until he spoke, "It's a dull watch, stranger demon, such a view of ruined outer Kogathuhn and a scape beyond, as I must stare at for such elvz as wait beyond my frame - do you lay a blame of me for a chance banter? Wait, keep of such an Axe low pointed, for I will open. Of an idea I've been sudden struck, which is this: let me give away of my labor here, a door bogart of a fortress, going instead of a way you do go, letting you carry of me down, a door bogart on a move."
+
+I spared an eye of Ulakhan: he seemed fast to wander once more of his mind, only looking up after some seconds of silence, glancing about, giving of an eventual shrug. I turned back to Moonface and spoke, "Your idea seems to me of no sense, no reason, no mode to apply, for big as I'm known to be, I may not carry of a jade door every way I go."
+
+"Big demon friend, is such your only qualm?"
+
+I nodded. All at once a Moon of a Face shrank, magic making his shape seperate from a surrounding jade frame on all sides at once, widing a seam all about his crescent edge until he floated, suspended in a midst of air, a black tunnel behind him, Moonface now a size of a goat horn, blinking. Letting of my axe to hang about my chest, I reached out and plucked such a moon totem from midair, tucking his horn through my belt at my hip. "So, now to Kogathuhn," spoke Moonface, as I stared at a smal crescent doorhole where he had stood, pausing only a little before squeezing through.
+
+---
+
+## Chapter 8 - Of A...
+
+TODO
