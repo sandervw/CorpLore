@@ -752,8 +752,6 @@ I spared a glance of Chief Ulakhan - he lowered his bright lance tip from Moonfa
 
 Now my own shoulders did slump somewhat at his words, and I could not but roll of my eyes, seeing plainly that we would play a game of riddles, and I have no skill of such. But a chief mulcher spoke at once, "Your answer, sir Moon of a Face, is a number, Ninety Six."
 
-**Pickup**
-
 Moonface's smile clove across his lower horn. "Oh joy of midnight sky, a right answer you gave me friend - you're quick as a witty blackbird."
 
 I gave of a glance at Ulakhan, who truly did shrug, and spoke, "I have heard it before, often listening to riddles, word challenges, thought turners, other games which may occupy of a demon's idle brain in watching years."
@@ -762,7 +760,7 @@ I gave of a glance at Ulakhan, who truly did shrug, and spoke, "I have heard it 
 
 "I abet crime, enforce punishment, and wear a red beard."
 
-Now this riddle was not of so much ease for a chief mulcher, some surprise to speak, for he put on a face of much thinking, setting down his Lance (setting down his old Replica!) so that he might pace back and forth, arms tucked. I myself was of no better faring, and stroked my chin spines long in thought. Moonface seemed eager to give of us some space, eager to play such a game at all, willing to grant more thinking time if it should lengthen of our exchange. This thought it was which attracted of my eye back to a Moon of a Face, noticing his watch of me with focus, biting a corner of his half-faced lip. I looked down, across my chest, seeing a leather harness holding of my Gatling Laser Axe about my body, and  at once my mind jumped with reply, and I spoke, "An axe."
+Now this riddle was not of so much ease for a chief mulcher, some surprise to speak, for he put on a face of much thinking, setting down his Lance (setting down his old Replica!) so that he might pace back and forth, arms tucked. I myself was of no better faring, and stroked my chin spines long in thought. Moonface seemed eager to give of us some space, eager to play such a game at all, willing to grant more thinking time if it should lengthen of our exchange. This thought it was which attracted of my eye back to a Moon of a Face, noticing his watch of me with focus, biting a corner of his half-faced lip. I looked down, across my chest, seeing a leather harness holding of my Gatling Laser Axe about my body, and  at once my mind jumped with reply, and I spoke, "An Axe."
 
 "Right again," spoke Moonface happily.
 
@@ -772,8 +770,27 @@ Ulakhan spoke, "Sharply spoken, and tying us two at one riddle each."
 
 I tapped of my shoe on a rough fortress lava rock floor. "Give of it swiftly you may, and let us stop whittling smoke to build of a fence."
 
-Moonface then intoned, "What's this'? You are none of my five familiar friends, such as I gladly embrace, such as I see each morning, but odds bodkin, you beast, you're bigger than the lot! My friends have coarse parts, tis true - but you, you're hard as iron throughout, and my friends might have some claws, but they always trim them when dealing with me, whereas you, you clod, might tear me to pieces any moment! My friends I'd gladly devour; you I'd hardly get down my throat."
+**Pickup**
 
+Moonface then intoned, "What's this'? You are none of my five familiar friends, such as I gladly embrace, such as I see each and every morning, but odds bodkin, you beast, you're bigger than the lot! My friends have coarse parts, tis true - but you, you're hard as iron throughout, and my friends might have some claws, but they always trim them when dealing with me, whereas you, you clod, might tear me to pieces any moment! My friends I'd gladly devour; you I'd hardly get down my throat!"
+
+Chief Ulakhan paced pondering silently of Moonface's latest puzzle, and I stared out and over of a rusted iron fence surrounding Kogathuhn, finding however no idea. I turned an eye back over Moonface, but his features were now carven calm, no hint of answer in his look, only a face of stone, with two eyes alone that did move, pupils tracking a chief mulcher as he marched with hands clamped behind of his back, left and right, left and right. I spoke, "Of 'odds bodkin' I mind in particular, so out of place does it seem among a rest of his riddle - maybe a most important part."
+
+Ulakhan spoke, "Maybe, but numbers especially in a riddle are always of key significance, number such as five, a number this riddle named as its number of 'familiar friends', and so to know of an answer we might know first of its friends, and so I wonder what comes in a count of five?"
+
+"Hmmm, five is a half of ten, there are five vowels, five sides of a pentagon, five petals of a rose, five lines of a music stave, and also, five are a counting of Pluto's moons." I ticked each off on my hand as I spoke.
+
+"Fingers," added Ulakhan, pointing at my gesture, and then he fast added, "Fingers would fit, a door's riddle saying that its five friends had coarse parts, claws too, which might be callouses and fingernails."
+
+"A glove."
+
+Ulakhan scrunched of his face, thought, and shook his head. "Some parts of his riddle are still uncounted of such an answer, such as why he sees his friends each morning, unless you know of a demon or she-demon that dons gloves each morning."
+
+"I told you both that my puzzles would give you some trouble," spoke Moonface, his smile a crescent to match his waning curve.
+
+I spoke, "Not a glove then, but perhaps a sock, many a demon or she-demon being like to put on socks each time they wake."
+
+"Some truth remains hidden, I am yet of a mind," spoke Ulakhan. Then he too took up of a smirk, glancing first at me, then staring down Moonface. "Sir door, you would make a sharp riddling partner to march on patrol with - would have, I mean, for our schedule of patrol of heaven one hundred and thirty four must now be truly altered. Of any case, your riddle was good: we might well have stopped of thinking at 'sock', except that I have seen a fair count of soldiering parades, been a part of many, passed through many boroughs, and therefore spent of much time in saddle, mounted on a riding ox for travel, and dealing with oxen, and knowing how their shod feet tap upon paving stones unless they are wrapped in cloth - your answer is plainly not 'A Sock', but 'A Sock on an Ox's Hoof'."
 
 
 **prompt:** Close with the door asking five logic puzzles in a row, ignoring every question Gneiss puts to it; he answers them all, some rightly, then quits and spares it. It opens a forgotten hallway and asks to be remembered.
