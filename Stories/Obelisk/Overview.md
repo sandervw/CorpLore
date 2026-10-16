@@ -99,3 +99,15 @@ One character who...
 **Partially based on The House on the Borderland**
 
 Names inspired by "witchy latin song lyrics"? Think *Ghost*.
+
+**Koschei-ideas:**
+- gneiss: like the primrose to the moon, when speaking of sirrel; moon with a face chimes in, ahhhhh, primroses.
+- every demon has some level of corruption, some state of being vileng vile
+- add horns to ulakhan
+- gneiss and morel both survive, take the moon with them
+- moon with a face recites ancient song of ostabawgulus (worldbuilding - think tolkein dwarf song)
+- "They are demons," spoke Morel. "As are all things," answered a moon with a face. "All creatures. But these are demons of a hell, not demons of a heaven as you may know."
+- Gneiss randomly placing finger on words on random pages of ancient tome, to derive an omen/prediction (*Sortes biblicae: medieval method of divination or fortune-telling where a person opens the Bible to a random page and interprets the first verse they see as a prophetic message or divine guidance*)
+- silver sword, golden mirror - items by which one may compel magic
+- sockadoonis
+- Gneiss has "barbs" on his chin - his goatee
