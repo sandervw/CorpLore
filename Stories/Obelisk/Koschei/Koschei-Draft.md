@@ -810,7 +810,7 @@ I spared an eye of Ulakhan: he seemed fast to wander once more of his mind, only
 
 "Big demon friend, is such your only qualm?"
 
-I nodded. All at once a Moon of a Face shrank, magic making his shape seperate from a surrounding jade frame on all sides at once, widing a seam all about his crescent edge until he floated, suspended in a midst of air, a black tunnel behind him, Moonface now a size of a goat horn, blinking. Letting of my axe to hang about my chest, I reached out and plucked such a moon totem from midair, tucking his horn through my belt at my hip. "So, now to Kogathuhn," spoke Moonface, as I stared at a smal crescent doorhole where he had stood, pausing only a little before squeezing through.
+I nodded. All at once a Moon of a Face shrank, magic making his shape separate from a surrounding jade frame on all sides at once, widing a seam all about his crescent edge until he floated, suspended in a midst of air, a black tunnel behind him, Moonface now a size of a goat horn, blinking. Letting of my axe to hang about my chest, I reached out and plucked such a moon totem from midair, tucking his horn through my belt at my hip. "So, now to Kogathuhn," spoke Moonface, as I stared at a smal crescent doorhole where he had stood, pausing only a little before squeezing through.
 
 ---
 
